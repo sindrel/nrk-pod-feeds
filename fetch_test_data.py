@@ -23,7 +23,7 @@ for podcast_id in podcasts:
     path = f"{assets_base_path}/{podcast_id}/metadata.json"
     write_to_file(path, metadata)
 
-    episodes = get_podcast_episodes(podcast_id, "text")
+    episodes = get_podcast_episodes(podcast_id, None, "text")
     if not episodes:
         sys.exit()
     

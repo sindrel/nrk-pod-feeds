@@ -2,7 +2,7 @@ import json
 
 assets_base_path = "assets/tests/api/podcast"
 
-def get_podcast_episodes(podcast_id):
+def get_podcast_episodes(podcast_id, season = None, format = "json"):
     print(f"Fetching episodes for podcast {podcast_id}...")
 
     path = f"{assets_base_path}/{podcast_id}/episodes.json"

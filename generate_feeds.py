@@ -6,7 +6,7 @@ from helpers import get_last_feed,get_podcasts_config,write_feeds_file,get_versi
 from psapi import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
 #from psapi_mock import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
 
-def get_podcast(podcast_id):
+def get_podcast(podcast_id, season):
     existing_feed = get_last_feed(feeds_dir, podcast_id)
 
     last_feed_update = parser.parse("1970-01-01 00:00:01+00:00")
@@ -40,7 +40,7 @@ def get_podcast(podcast_id):
         explicit=False
     )
 
-    episodes = get_podcast_episodes(podcast_id)
+    episodes = get_podcast_episodes(podcast_id, season)
     if not episodes:
         return None
 
@@ -104,7 +104,8 @@ if __name__ == '__main__':
             continue
 
         podcast_id = p["id"]
-        podcast = get_podcast(podcast_id)
+        podcast_season = p["season"]
+        podcast = get_podcast(podcast_id, podcast_season)
 
         if not podcast:
             print(f"Got empty result when fetching podcast {podcast_id}")

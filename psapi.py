@@ -6,10 +6,13 @@ headers = {
     "User-Agent": f"nrk-pod-feeder {get_version()}"
 }
 
-def get_podcast_episodes(podcast_id, format = "json"):
+def get_podcast_episodes(podcast_id, season = None, format = "json"):
     print(f"Fetching episodes for podcast {podcast_id}...")
 
     url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/episodes?page=1&pageSize=10&sort=desc"
+    if season:
+        url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/seasons/{season}?page=1&pageSize=10&sort=desc"
+
     r = requests.get(url)
 
     if not r.ok:
@@ -18,6 +21,9 @@ def get_podcast_episodes(podcast_id, format = "json"):
 
     if format == "text":
         return r.text
+
+    if season:
+        return r.json()["_embedded"]["episodes"]["_embedded"]["episodes"]
 
     return r.json()["_embedded"]["episodes"]
 
