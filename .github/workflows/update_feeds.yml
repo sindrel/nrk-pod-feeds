@@ -32,4 +32,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update podcast feed(s)
-          repository: ./public/
+          repository: ./docs/

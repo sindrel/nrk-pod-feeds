@@ -92,8 +92,8 @@ def get_podcast(podcast_id):
 
 podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
 podcasts_cfg_file = "podcasts.json"
-feeds_dir = "public/rss"
-feeds_file = "public/feeds.js"
+feeds_dir = "docs/rss"
+feeds_file = "docs/feeds.js"
 web_url = "https://sindrel.github.io/nrk-pod-feeds"
 
 if __name__ == '__main__':
