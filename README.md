@@ -1,5 +1,5 @@
 # Open NRK Podcast Feeds
-Publishes an RSS feed with the last 10 episodes of every configured podcast, without delayed publishing. For personal use.
+Publishes RSS feeds with the last 10 episodes of every configured podcast, without delay. For personal use.
 
 ## Feeds
 **Go to [this page](https://sindrel.github.io/nrk-pod-feeds) for a list of available feeds.**
