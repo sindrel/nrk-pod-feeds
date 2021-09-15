@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 Sep 2021 02:38:04 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Sep 2021 04:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Sep 2021 02:37:47 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Sep 2021 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Verdenshandelen i koronatrøbbel</title>
+      <description><![CDATA[Hvorfor er det så vanskelig å få tak i varer og deler, og hvor lenge skal det være slik? 
+
+Av: Lise Borchgrevink]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4a7e7ad2-31fa-4746-aebe-9121d9d026b7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4a7e7ad2-31fa-4746-aebe-9121d9d026b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:20</itunes:duration>
+      <pubDate>Wed, 15 Sep 2021 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Når én partner ikke er nok</title>
       <description><![CDATA[Hva betyr det å være polyamorøs? Hvorfor er det vanskelig å godta at noen velger å leve det ut?
@@ -103,16 +113,6 @@ Av: Lise Borchgrevink]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d6b5ddd4-1286-41fb-9307-0da30f0b5b59_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:06</itunes:duration>
       <pubDate>Tue, 31 Aug 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hvor ble det av sædcellene til Gisle?</title>
-      <description><![CDATA[Unge, norske menn har bare halvparten så mange sædceller som sine fedre. Gisle måtte ta grep for å bli far.
-
-Av:  Vibeke Røiri]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/89f00686-853c-497e-b384-25cf89470bcd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/89f00686-853c-497e-b384-25cf89470bcd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:24</itunes:duration>
-      <pubDate>Mon, 30 Aug 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
