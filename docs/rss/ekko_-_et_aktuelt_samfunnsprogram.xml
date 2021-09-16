@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 Sep 2021 02:37:47 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Sep 2021 04:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Sep 2021 02:39:24 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Sep 2021 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Spørretimen: Å støtte venner i en krise</title>
+      <description><![CDATA[Hvordan være den rette støtten når noen er i krise,  og ikke minst,  hvordan ta imot hjelpen? 
+
+Programleder: Rikke Eckhoff]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cd9e9185-fe38-4988-a671-d43abe78cfd7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cd9e9185-fe38-4988-a671-d43abe78cfd7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:05</itunes:duration>
+      <pubDate>Thu, 16 Sep 2021 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Verdenshandelen i koronatrøbbel</title>
       <description><![CDATA[Hvorfor er det så vanskelig å få tak i varer og deler, og hvor lenge skal det være slik? 
@@ -22,7 +32,7 @@ Av: Lise Borchgrevink]]></description>
       <pubDate>Wed, 15 Sep 2021 04:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Når én partner ikke er nok</title>
+      <title>Når flere kjærester er bedre</title>
       <description><![CDATA[Hva betyr det å være polyamorøs? Hvorfor er det vanskelig å godta at noen velger å leve det ut?
 
 Av: Tora Øgrim]]></description>
@@ -103,16 +113,6 @@ Av: Dang Trinh]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/26012005-e8be-433e-90bd-e1562418529f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:30</itunes:duration>
       <pubDate>Wed, 01 Sep 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kullkraftelskerne</title>
-      <description><![CDATA[Kullkraft er noe av det som forurenser aller mest. Hvorfor er det så vanskelig for noen land å slutte med det? 
-
-Av: Lise Borchgrevink]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d6b5ddd4-1286-41fb-9307-0da30f0b5b59_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d6b5ddd4-1286-41fb-9307-0da30f0b5b59_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:06</itunes:duration>
-      <pubDate>Tue, 31 Aug 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
