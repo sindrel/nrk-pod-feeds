@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 Sep 2021 13:32:36 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Sep 2021 15:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Sep 2021 14:28:46 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Sep 2021 15:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/HyugOXwFJSy8uLLkEUIysQZ-pYHD3SxMCl90bN39Kekg.png"/>
+    <item>
+      <title>Linnea Myhre</title>
+      <description><![CDATA[Linnea Myhres instinkt er å ikke stole på noen, men kjærligheten tror hun på!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7d6d3f8d-1289-47aa-9c9c-aa8bdc4f2289_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7d6d3f8d-1289-47aa-9c9c-aa8bdc4f2289_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Thu, 16 Sep 2021 15:35:00 +0200</pubDate>
+    </item>
     <item>
       <title>Sverre Sætre</title>
       <description><![CDATA[Skal sjokolade oppbevares i kjøleskap, eller i romtemperatur? En av Norges fremste konditorer gir deg svaret på dette og mye mer!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/e9fee203-34e4-462c-a145-b194231ede55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:43</itunes:duration>
       <pubDate>Mon, 30 Aug 2021 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Robert Stoltenberg </title>
-      <description><![CDATA[Han synes av og til det er slitsomt å være seg selv. Da er det deilig å ta en pause fra seg selv og gå inn i forskjellige roller.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/99f2acf3-74ea-45ed-a34a-f5eb908ee5dc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/99f2acf3-74ea-45ed-a34a-f5eb908ee5dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:43</itunes:duration>
-      <pubDate>Thu, 26 Aug 2021 14:20:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
