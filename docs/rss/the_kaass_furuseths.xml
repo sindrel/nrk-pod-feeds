@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Sep 2021 17:18:32 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Sep 2021 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 19 Sep 2021 04:40:27 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Sep 2021 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pKt2heDSM3gDdo4y3mXDGQ-eh2uz1dFuMS4z_3tyIWSw.png"/>
+    <item>
+      <title>AURORA, Bank bank og bo i et tre </title>
+      <description><![CDATA[Artisten Aurora forteller sin favoritt knock knock-vits, hva hennes forhold til frø i brød er og hvordan det er å være helt fri. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/4e1b9c3c-8480-48f8-88d6-5f4db7f79642_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/4e1b9c3c-8480-48f8-88d6-5f4db7f79642_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:58</itunes:duration>
+      <pubDate>Sun, 19 Sep 2021 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ylva, Fetan og sausskrekk</title>
       <description><![CDATA[Artisten Ylva snakker om sin frykt for saus, hvordan det var å ha pappa som manager og hvorfor hun bare fikk to vakter da hun jobbet i barnehage.]]></description>
@@ -88,14 +96,6 @@ NRK Radio – vi hører sammen.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/3f64ce66-97c5-45d8-9cea-05a36fd651a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:17</itunes:duration>
       <pubDate>Sun, 25 Jul 2021 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Spesialepisode: ensomhet</title>
-      <description><![CDATA[Sturla Haugsgjerd gjester en spesialepisode om ensomhet hos Else. Han mener temaet er ekstra aktuelt nå som samfunnet åpner opp, og at vi kan lære oss å trene opp empatien vår.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/04d249c8-2df8-4c42-9ac2-8039b74bf254_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/04d249c8-2df8-4c42-9ac2-8039b74bf254_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:46</itunes:duration>
-      <pubDate>Sun, 18 Jul 2021 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
