@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 Sep 2021 12:48:49 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Sep 2021 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Sep 2021 15:32:49 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Sep 2021 17:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wE1ts_i2APeHjiaYdd09ZA42dGuaGyX9sfchK4Bq3oWA.png"/>
+    <item>
+      <title>Retro -TV og overtrening!</title>
+      <description><![CDATA[*Anders og styrketreningen
+*Lineære TV minner: «I gode og onde dager»
+*Abus appell: Atter et oppgjør med korrupsjonen!
+E-post: mar@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/aa3e9b3e-9114-4dca-b54f-d754e5b0eee2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/aa3e9b3e-9114-4dca-b54f-d754e5b0eee2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:27</itunes:duration>
+      <pubDate>Mon, 20 Sep 2021 17:20:00 +0200</pubDate>
+    </item>
     <item>
       <title>Lesbisk, men betatt av en gutt...</title>
       <description><![CDATA[*Greit å spise hesten sin?
@@ -110,19 +121,6 @@ E-post: mar@nrk.no]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/18b1d1a4-1b5f-499f-a65f-c1dd2a164733_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:55</itunes:duration>
       <pubDate>Thu, 02 Sep 2021 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Samboer vs eneboer</title>
-      <description><![CDATA[*To av gutta har endret staus
-*En pitch som gjør par lykkelig på fest
-*..og enda mer friendzone-frustrasjon.
-*E-post: mar@nrk.no
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/4bf8d40f-931b-475e-8853-1611d81755bf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4bf8d40f-931b-475e-8853-1611d81755bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:06</itunes:duration>
-      <pubDate>Wed, 01 Sep 2021 17:10:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
