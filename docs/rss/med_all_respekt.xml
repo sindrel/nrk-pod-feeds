@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Sep 2021 15:32:49 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Sep 2021 17:20:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Sep 2021 12:47:42 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Sep 2021 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wE1ts_i2APeHjiaYdd09ZA42dGuaGyX9sfchK4Bq3oWA.png"/>
+    <item>
+      <title>Abu gir barna terningkast!</title>
+      <description><![CDATA[*Den beste dadjoken sålangt?
+*Abu oppsummerer første hele huka alene med barna
+*Topp 5 skader Anders heller vi ha
+*Sandeeps katastrofequiz!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/403049e2-b29f-4e48-a15c-ab31d53bbee6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/403049e2-b29f-4e48-a15c-ab31d53bbee6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:42</itunes:duration>
+      <pubDate>Tue, 21 Sep 2021 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Retro -TV og overtrening!</title>
       <description><![CDATA[*Anders og styrketreningen
@@ -111,16 +122,6 @@ E-post: mar@nrk.no]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/f131042c-8472-42ba-916d-3daf96f2a090_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:04</itunes:duration>
       <pubDate>Mon, 06 Sep 2021 16:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Høylytt klaging på kundeservice</title>
-      <description><![CDATA[*Torsdag med trassråd om kundeservice, FOMO og altfor pågående venner
-*Abus valgquiz #6 
-*E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/18b1d1a4-1b5f-499f-a65f-c1dd2a164733_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/18b1d1a4-1b5f-499f-a65f-c1dd2a164733_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:55</itunes:duration>
-      <pubDate>Thu, 02 Sep 2021 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
