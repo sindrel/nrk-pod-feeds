@@ -18,6 +18,12 @@
         "enabled": true
     },
     {
+        "id": "friminutt_med_herman_og_mikkel",
+        "title": "De 10 siste fra Friminutt med Herman og Mikkel",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "hele_historien",
         "title": "De 10 siste fra Hele Historien",
         "season": "siste",
@@ -50,6 +56,12 @@
     {
         "id": "the_kaass_furuseths",
         "title": "De 10 siste fra The Kåss Furuseths",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "xl_podkasten",
+        "title": "De 10 siste fra XL - podkasten",
         "season": null,
         "enabled": true
     }
