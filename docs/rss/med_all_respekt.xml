@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Sep 2021 12:49:37 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Sep 2021 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Sep 2021 15:29:39 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Sep 2021 16:55:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wE1ts_i2APeHjiaYdd09ZA42dGuaGyX9sfchK4Bq3oWA.png"/>
+    <item>
+      <title>Gjenåpnings-bonanza!</title>
+      <description><![CDATA[*Abid Raja og andre med gjenåpningsovertenning
+*Retrospalten: Da vi laget egne filmer
+*Abus gjenåpningsappell
+E-post: mar@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/ca0867ec-d771-4473-8a2f-a3eabac621f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/ca0867ec-d771-4473-8a2f-a3eabac621f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:39</itunes:duration>
+      <pubDate>Mon, 27 Sep 2021 16:55:00 +0200</pubDate>
+    </item>
     <item>
       <title>Korrupsjon, whoop ass og trassråd!</title>
       <description><![CDATA[*Torsdag med trassråd om eksplosive fedre, rasistiske mødre og husvarme. *Husvenn Renzo med en historie om sin bror! *De nyeste podkastene finner du i appen NRK RADIO***. E-post: mar@nrk.no]]></description>
@@ -103,18 +114,6 @@ E-post: mar@nrk.no]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/504b6d5e-6198-4cf2-b1e7-0de84598e4a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:39</itunes:duration>
       <pubDate>Thu, 09 Sep 2021 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tagging + grusbane = retro!</title>
-      <description><![CDATA[*Politikere betaler unge, nå
-*Galvan skal på direkte-tv 
-*Anders pitcher hundeutleie
-*En nådeløs historie om friendzoning
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/91fd8e11-4ba1-424f-b6a1-632083fcc7d2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/91fd8e11-4ba1-424f-b6a1-632083fcc7d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:14</itunes:duration>
-      <pubDate>Wed, 08 Sep 2021 17:10:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
