@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 Sep 2021 13:32:31 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Sep 2021 15:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Sep 2021 13:32:56 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Sep 2021 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAJzfHoL4X3pu5g4y9UH5BSA.png"/>
+    <item>
+      <title>Sven Erik Renaa</title>
+      <description><![CDATA[Han driver restaurant med to stjerner i Michelinguiden, men som kokk har han like mye glede av å lage en god hvetebolle eller pizza.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d4669e94-3646-4bc0-8537-5e14f0bde846_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d4669e94-3646-4bc0-8537-5e14f0bde846_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Thu, 30 Sep 2021 15:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Mona Berntsen</title>
       <description><![CDATA[Hun har jobbet som danser for Justin Bieber og andre stjerner, men var uforberedt på hvor brutalt og ensomt Hollywood kunne være.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/a8c886e6-a063-4b8b-8897-f9752204da6b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Mon, 13 Sep 2021 14:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Odd-Magnus Williamson</title>
-      <description><![CDATA[Komikeren  elsker den lille vitsen som kan komme i livets mørkeste stunder. Det er komikken i en vanskelig situasjon som får ham videre i livet. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f794b927-38f4-4886-aee3-b1179c11b33d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f794b927-38f4-4886-aee3-b1179c11b33d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:47</itunes:duration>
-      <pubDate>Mon, 13 Sep 2021 13:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
