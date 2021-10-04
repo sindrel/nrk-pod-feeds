@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 30 Sep 2021 02:40:01 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Sep 2021 04:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Oct 2021 02:41:00 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Oct 2021 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Hvor vanskelig er det å være selvberget?</title>
+      <description><![CDATA[Marte ville prøve å dyrke sine egne grønnsaker for et helt år. 
+
+Av: Kari Nygard Tvilde 
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/66bfce5d-3c0d-4680-a3fd-f76f40afbe5e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/66bfce5d-3c0d-4680-a3fd-f76f40afbe5e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:15</itunes:duration>
+      <pubDate>Mon, 04 Oct 2021 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Spørretimen: Strøm</title>
       <description><![CDATA[Strømprisene kryper oppover, og toppen er ennå ikke nådd, ifølge ekspertene. Hvorfor har strømmen blitt så dyr?
@@ -100,16 +112,6 @@ Programleder: Rikke Eckhoff]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cd9e9185-fe38-4988-a671-d43abe78cfd7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:05</itunes:duration>
       <pubDate>Thu, 16 Sep 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Verdenshandelen i koronatrøbbel</title>
-      <description><![CDATA[Hvorfor er det så vanskelig å få tak i varer og deler, og hvor lenge skal det være slik? 
-
-Av: Lise Borchgrevink]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4a7e7ad2-31fa-4746-aebe-9121d9d026b7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4a7e7ad2-31fa-4746-aebe-9121d9d026b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:20</itunes:duration>
-      <pubDate>Wed, 15 Sep 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
