@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Oct 2021 08:33:53 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Oct 2021 10:22:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Oct 2021 14:26:55 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Oct 2021 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAJzfHoL4X3pu5g4y9UH5BSA.png"/>
+    <item>
+      <title>John Arne Riise </title>
+      <description><![CDATA[Han har lenge vært en av Norges mest kjente og kontroversielle mennesker, og mener det har gjort ham "ekstremt paranoid".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/80ca17e7-0907-42e2-b63d-989a31d9e2c4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/80ca17e7-0907-42e2-b63d-989a31d9e2c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:24</itunes:duration>
+      <pubDate>Thu, 07 Oct 2021 16:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Stein Olav Henrichsen</title>
       <description><![CDATA[Jeg liker ikke "hyggekunst", sier direktøren for  Munchmuseet. Den står i veien for det det som kunsten  egentlig er i stand til å skape - refleksjon, ny kunnskap og ny innsikt.    ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/92da1865-d8fe-40a6-a796-e906cb876be6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:20</itunes:duration>
       <pubDate>Tue, 21 Sep 2021 12:40:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mads Hansen</title>
-      <description><![CDATA[Jeg drives av bekreftelse, sier Mads Hansen, som gjennom karrieren har vært på topp på Spotify, scoret årets fotballmål og blitt kåret til årets medienavn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/9b900b94-03c6-48aa-9f71-6306969f877a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/9b900b94-03c6-48aa-9f71-6306969f877a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:48</itunes:duration>
-      <pubDate>Mon, 20 Sep 2021 12:20:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
