@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Oct 2021 02:39:23 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Oct 2021 04:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Oct 2021 02:40:49 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Oct 2021 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Spørretimen: Tannhelse</title>
+      <description><![CDATA[Hva har tannhelsa å si for livet, og kontoen vår?
+
+Programleder: Jan Erlend Leine]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e59b8cbe-b406-48e6-8b01-3991c1a0aace_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e59b8cbe-b406-48e6-8b01-3991c1a0aace_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:50</itunes:duration>
+      <pubDate>Thu, 07 Oct 2021 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hun som reddet oss ut av pandemien</title>
       <description><![CDATA[Koronavaksiner bygget på mRNA-teknologi, kan vi for en stor del takke én kvinnes forskning for.
@@ -102,16 +112,6 @@ Av: Tora Øgrim]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d07fb043-2258-42e5-96d6-61d32e8eecc0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:16</itunes:duration>
       <pubDate>Wed, 22 Sep 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title> Farvel Facebook</title>
-      <description><![CDATA[Hvis du sletter Facebook-kontoen, hva mister du da? I denne episoden får også Facebook svare på om de synes vi bruker for mye tid på skjerm.
-
-Av: Dang Trinh og Martin Jahr]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9c8b0ebe-af41-4aab-9aba-a90513ac0e7c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9c8b0ebe-af41-4aab-9aba-a90513ac0e7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:41</itunes:duration>
-      <pubDate>Tue, 21 Sep 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
