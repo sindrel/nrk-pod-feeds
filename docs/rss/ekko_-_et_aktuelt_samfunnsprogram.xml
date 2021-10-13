@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Oct 2021 02:40:10 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Oct 2021 04:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Oct 2021 02:41:14 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Oct 2021 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Laks på land - går det an?</title>
+      <description><![CDATA[Er fiskeoppdrettsanlegg på land framtiden? Et selskap i Fredrikstad er nær ved å lykkes med lakseoppdrett på land.
+
+Av: Lise Borchgrevink]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2e9cc224-ac49-45ab-bb32-e015c71218f9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2e9cc224-ac49-45ab-bb32-e015c71218f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:16</itunes:duration>
+      <pubDate>Wed, 13 Oct 2021 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Diagnose: Mobilavhengig</title>
       <description><![CDATA[Over halvparten av oss mener vi har et mobilproblem! Hvordan gjør vi oss mindre avhengige av den lille skjermen?
@@ -102,16 +112,6 @@ Av: Dang Trinh]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4c03f626-9c14-40b3-9584-a69f901dc364_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:57</itunes:duration>
       <pubDate>Tue, 28 Sep 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Slik mestrer du høydeskrekk</title>
-      <description><![CDATA[Minst ti prosent av oss har en fobi. Høydeskrekk er en av de vanligste. Kan den tenkes vekk?
-
-Av: Lise Borchgrevink]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c7c282f7-1cfc-491c-a4fe-cb70a7b32d26_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c7c282f7-1cfc-491c-a4fe-cb70a7b32d26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:28</itunes:duration>
-      <pubDate>Mon, 27 Sep 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
