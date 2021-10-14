@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 13 Oct 2021 12:46:57 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Oct 2021 10:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Oct 2021 12:46:57 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Oct 2021 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAJzfHoL4X3pu5g4y9UH5BSA.png"/>
+    <item>
+      <title>Lars Lillo-Stenberg </title>
+      <description><![CDATA[Han mener at en av deLillos mest kjente sanger, Tøff i pyjamas, har en elendig melodi - men er likevel fan av at den ikke har en spesielt bra melodi. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4854cfe5-d9ce-4f73-b597-231b1cdba468_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4854cfe5-d9ce-4f73-b597-231b1cdba468_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:29</itunes:duration>
+      <pubDate>Thu, 14 Oct 2021 14:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ingrid Bruun</title>
       <description><![CDATA[Hun setter pris på at kjendiser står frem med "den tunge tiden" i media, men den unge foredragsholderen er klar på at den viktigste samtalen om psykisk helse skjer rundt middagsbordet hjemme.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/5a4aedae-ffec-4799-91b3-91b59bca5def_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:58</itunes:duration>
       <pubDate>Tue, 28 Sep 2021 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bjørn Hallvard Samset</title>
-      <description><![CDATA[Klimaforskeren prøver så godt han kan å berolige unge som ringer ham med klimaangst, men er tydelig på at vi alle har en hard kamp foran oss for å redde kloden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ad16ba36-a90b-4115-8107-bdf046666c93_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ad16ba36-a90b-4115-8107-bdf046666c93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:49</itunes:duration>
-      <pubDate>Mon, 27 Sep 2021 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

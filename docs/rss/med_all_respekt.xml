@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 13 Oct 2021 15:33:21 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Oct 2021 17:25:00 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Oct 2021 12:47:03 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Oct 2021 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wE1ts_i2APeHjiaYdd09ZA42dGuaGyX9sfchK4Bq3oWA.png"/>
+    <item>
+      <title>Den ultimate fjortis/retrofesten!</title>
+      <description><![CDATA[*Partyfiksing og råd mot slitsom ex onkel i ukas trassråd!
+E-post: mar@nrk.no
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/8f5975b9-1b6b-4f81-9b5b-6c10942f6bc8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/8f5975b9-1b6b-4f81-9b5b-6c10942f6bc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:03</itunes:duration>
+      <pubDate>Thu, 14 Oct 2021 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Råd mot lett høstdepresjon</title>
       <description><![CDATA[*Gutta på byen: Da Abu ble befølt i fjeset av en fremmed
@@ -110,17 +120,6 @@ E-post: mar@nrk.no]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/123bdca3-a21a-494b-8433-f080c17d6714_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:12</itunes:duration>
       <pubDate>Wed, 29 Sep 2021 17:35:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kjæresten spiser ikke maten jeg lager!</title>
-      <description><![CDATA[*Abu og den store kebabtesten i Trondheim!
-* Festen som blir husket om 10 år!
-*Sandeep aka Quiz Medina!
- *E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/967e78af-48d3-44ed-86a8-855e601df1bc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/967e78af-48d3-44ed-86a8-855e601df1bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:06</itunes:duration>
-      <pubDate>Tue, 28 Sep 2021 13:45:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
