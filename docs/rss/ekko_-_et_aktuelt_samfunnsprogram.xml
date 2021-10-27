@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Oct 2021 02:39:53 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Oct 2021 04:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Oct 2021 02:40:07 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Oct 2021 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Hva gjør lek med hjernen?</title>
+      <description><![CDATA[Skuespiller Mats Eldøen er en av våre mest drevne improvisatører, og kan ha bygget seg en optimal hjerne!
+
+Av: Vibeke Røiri]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cdcb8d32-4c8f-4843-bb4c-0e47d4949b2b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cdcb8d32-4c8f-4843-bb4c-0e47d4949b2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:31</itunes:duration>
+      <pubDate>Wed, 27 Oct 2021 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Drikkevaner etter pandemien</title>
       <description><![CDATA[Alkoholvanene våre endret seg under pandemien. Kommer vi nå til å drikke som før, eller er de endret for godt?
@@ -100,16 +110,6 @@ Av: Dang Trinh]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e1a9321f-0520-4d86-9117-0d10ae6bc4a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:41</itunes:duration>
       <pubDate>Tue, 12 Oct 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Risken ved å låne ting av venner</title>
-      <description><![CDATA[Det kan bli en vond affære, å låne saker og ting av venner. For ikke å snakke om å låne bort!
-
-Av: Sjur Sætre]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5593c1f6-de57-488d-978f-412178ac10e7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5593c1f6-de57-488d-978f-412178ac10e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:13</itunes:duration>
-      <pubDate>Mon, 11 Oct 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
