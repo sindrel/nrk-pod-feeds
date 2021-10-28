@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Oct 2021 02:39:49 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Oct 2021 04:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 Oct 2021 02:40:31 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Oct 2021 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDwQiFNnb3iKNfhfyg3CH1v7Q.png"/>
+    <item>
+      <title>Teaterhøgskolen, Finsk dass og Søtpotetfries </title>
+      <description><![CDATA[Ma og Pa forteller om da de søkte på teaterhøgskolen. Viggo Venn gir en oppdatering om klovnelivet i Finland og det diskuteres rundt søtpotetfries. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5e7c9fa9-01d5-4776-b52b-b0bb04565d5d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5e7c9fa9-01d5-4776-b52b-b0bb04565d5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:42</itunes:duration>
+      <pubDate>Thu, 28 Oct 2021 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Høy og forvirra, Ustabil gange og Voksenpoeng</title>
       <description><![CDATA[Lars har blitt misforstått for å være høy og forvirra. Martin har blitt kastet ut av dørvakta fordi han var ustabil og sammen diskuterer de fenomenet voksenpoeng. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/c9715f6b-d556-4a63-b700-64710a434323_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>59:16</itunes:duration>
       <pubDate>Tue, 31 Aug 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Inte alt, Kakebord og Moritz mini</title>
-      <description><![CDATA[Lars hater Altinn. Martin har spist kake i konfirmasjon og sammen ringer de Martin Marki for å snakke om den den sveitsiske klovnen Moritz. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/07f9da37-01dc-4e55-ba1f-c378d1165a90_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/07f9da37-01dc-4e55-ba1f-c378d1165a90_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:20</itunes:duration>
-      <pubDate>Tue, 24 Aug 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
