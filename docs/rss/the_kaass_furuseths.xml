@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 24 Oct 2021 04:40:37 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Oct 2021 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 31 Oct 2021 05:27:24 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Oct 2021 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pKt2heDSM3gDdo4y3mXDGQ-eh2uz1dFuMS4z_3tyIWSw.png"/>
+    <item>
+      <title>Jonas Bergland, Scones og Sykehjem </title>
+      <description><![CDATA[Lege og komiker Jonas Kinge Bergland forteller om bursdagsfrokosten med scones, hvordan det er å jobbe på sykehjem og hvorfor han har ansatt seg selv som "vaskehjelp" i egen leilighet. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/9ad61407-a825-4439-9b43-38fa118fd87b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/9ad61407-a825-4439-9b43-38fa118fd87b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:29</itunes:duration>
+      <pubDate>Sun, 31 Oct 2021 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Tinashe Williamson, Antirasisme og Diaré</title>
       <description><![CDATA[Forfatter Tinashe Williamson forteller om å bli utsatt for rasisme og mobbing i barndommen, hvordan det var å skrive en bok om det og om den gangen hun evakuerte en restaurant på ferie fordi hun hadde diaré.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/932bdbbb-4893-48cf-a30e-032d2f589630_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:35</itunes:duration>
       <pubDate>Sun, 05 Sep 2021 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ahmed Mamow, Incel og brukket håndledd </title>
-      <description><![CDATA[Komiker Ahmed Mamow forteller om sin tidligere incel-stil, at han lager genuin musikk ingen skal høre og hvordan han brakk håndleddet da en kompis ba Ahmed om å slå ham så hardt han kunne. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/ca797f95-c8ad-4f4c-b406-418994269004_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/ca797f95-c8ad-4f4c-b406-418994269004_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:12</itunes:duration>
-      <pubDate>Sun, 29 Aug 2021 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
