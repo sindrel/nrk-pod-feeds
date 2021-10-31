@@ -40,6 +40,9 @@ def get_podcast(podcast_id, season):
         explicit=False
     )
 
+    if season == "LAST_SEASON":
+        season = metadata["_embedded"]["seasons"][0]["id"]
+
     episodes = get_podcast_episodes(podcast_id, season)
     if not episodes:
         return None
