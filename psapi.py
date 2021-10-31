@@ -7,7 +7,7 @@ headers = {
 }
 
 def get_podcast_episodes(podcast_id, season = None, format = "json"):
-    print(f"Fetching episodes for podcast {podcast_id}...")
+    print(f"Fetching episodes for podcast {podcast_id} ({season})...")
 
     url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/episodes?page=1&pageSize=10&sort=desc"
     if season:
