@@ -6,6 +6,12 @@
         "enabled": true
     },
     {
+        "id": "burde_vaert_pensum",
+        "title": "De 10 siste fra Burde vært pensum",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "drivkraft",
         "title": "De 10 siste fra Drivkraft",
         "season": null,
@@ -26,13 +32,19 @@
     {
         "id": "hele_historien",
         "title": "De 10 siste fra Hele Historien",
-        "season": "LAST_SEASON",
+        "season": "LATEST_SEASON",
         "enabled": true
     },
     {
         "id": "kongerekka",
         "title": "De 10 siste fra Kongerekka",
-        "season": "sesong-2",
+        "season": "LATEST_SEASON",
+        "enabled": true
+    },
+    {
+        "id": "loerdagsraadet",
+        "title": "De 10 siste fra Lørdagsrådet",
+        "season": null,
         "enabled": true
     },
     {
@@ -50,7 +62,7 @@
     {
         "id": "radiodokumentaren",
         "title": "De 10 siste fra Radiodok",
-        "season": "LAST_SEASON",
+        "season": "LATEST_SEASON",
         "enabled": true
     },
     {
