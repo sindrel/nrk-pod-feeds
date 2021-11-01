@@ -30,9 +30,21 @@
         "enabled": true
     },
     {
+        "id": "god_bedring",
+        "title": "De 10 siste fra God bedring",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "hele_historien",
         "title": "De 10 siste fra Hele Historien",
         "season": "LATEST_SEASON",
+        "enabled": true
+    },
+    {
+        "id": "karakter",
+        "title": "De 10 siste fra Karakter",
+        "season": null,
         "enabled": true
     },
     {
