@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ekko – samfunnspodden. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Oct 2021 02:40:36 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Oct 2021 04:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 01 Nov 2021 03:31:36 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Nov 2021 04:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Hun donerer eggene sine til fremmede</title>
+      <description><![CDATA[Eggdonasjon ble lov i Norge fra 1. januar. Natalie er en av de første norske kvinnene som gir bort eggene sine!
+
+Av: Vibeke Røiri]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0773d40c-29b9-4a9c-8855-9eeb165c8c85_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0773d40c-29b9-4a9c-8855-9eeb165c8c85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:07</itunes:duration>
+      <pubDate>Mon, 01 Nov 2021 04:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Spørretimen: Livskriser</title>
       <description><![CDATA[Hva gjør du for å komme deg gjennom en livskrise? 
@@ -42,6 +52,16 @@ Av: Lise Borchgrevink]]></description>
       <pubDate>Tue, 26 Oct 2021 04:00:00 +0200</pubDate>
     </item>
     <item>
+      <title>Bør jobben ta hensyn til mensen?</title>
+      <description><![CDATA[Noen kvinner har så store menssmerter at de sliter med å gå på jobb. Bør arbeidslivet tilrettelegge mer for mensen?
+
+Av: Tora Øgrim]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/812f71d4-54ff-4893-998b-8fdb2df43109_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/812f71d4-54ff-4893-998b-8fdb2df43109_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:43</itunes:duration>
+      <pubDate>Mon, 25 Oct 2021 04:00:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Hør de nyeste episodene av Samfunnspodden først</title>
       <description><![CDATA[I NRK Radio-appen kan du nå høre nye episoder av denne podkasten én uke tidligere enn i andre podkast-apper. Og ikke bare det, du får tilgang til over 150 podkaster, 16 radiokanaler og NRKs enorme lydarkiv.
 
@@ -51,16 +71,6 @@ NRK Radio – vi hører sammen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8d2f00d9-5f8b-4498-98ab-c6900b8dd7c0_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8d2f00d9-5f8b-4498-98ab-c6900b8dd7c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:26</itunes:duration>
-      <pubDate>Mon, 25 Oct 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bør jobben ta hensyn til mensen?</title>
-      <description><![CDATA[Noen kvinner har så store menssmerter at de sliter med å gå på jobb. Bør arbeidslivet tilrettelegge mer for mensen?
-
-Av: Tora Øgrim]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/812f71d4-54ff-4893-998b-8fdb2df43109_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/812f71d4-54ff-4893-998b-8fdb2df43109_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:43</itunes:duration>
       <pubDate>Mon, 25 Oct 2021 04:00:00 +0200</pubDate>
     </item>
     <item>
@@ -100,16 +110,6 @@ Programleder: Ellen Wesche Guttormsen]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/84446ddc-33eb-4735-a937-3af6462cf3af_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:58</itunes:duration>
       <pubDate>Thu, 14 Oct 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Laks på land - går det an?</title>
-      <description><![CDATA[Er fiskeoppdrettsanlegg på land framtiden? Et selskap i Fredrikstad er nær ved å lykkes med lakseoppdrett på land.
-
-Av: Lise Borchgrevink]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2e9cc224-ac49-45ab-bb32-e015c71218f9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2e9cc224-ac49-45ab-bb32-e015c71218f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:16</itunes:duration>
-      <pubDate>Wed, 13 Oct 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
