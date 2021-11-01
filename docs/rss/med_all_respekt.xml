@@ -6,13 +6,25 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Med All Respekt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/med_all_respekt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Oct 2021 12:48:05 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Oct 2021 14:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 01 Nov 2021 16:51:36 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Nov 2021 16:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wE1ts_i2APeHjiaYdd09ZA42dGuaGyX9sfchK4Bq3oWA.png"/>
     <item>
-      <title>Trassrådet: innafor å snitche på lillesøster? </title>
+      <title>Lykkerus-episode: Vi vant Prix Radio!</title>
+      <description><![CDATA[*Kan man høre på MAR mens man har sex?
+*Ekte, åpne rasister er best!
+*Baksnakke-tips!
+*Retrospalten: Skoleball!
+E-post: mar@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/f849b885-f725-4663-be07-c0534053956c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/f849b885-f725-4663-be07-c0534053956c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:07</itunes:duration>
+      <pubDate>Mon, 01 Nov 2021 16:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trassråd: Innafor å snitche på lillesøster? </title>
       <description><![CDATA[*Støtter vi egentlig den varme høsten? 
 *Gutta er nominert til pris. 
 *Datingråd fra en som kan prate med en stein. 
@@ -102,17 +114,6 @@ E-post: mar@nrk.no
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/8f5975b9-1b6b-4f81-9b5b-6c10942f6bc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:03</itunes:duration>
       <pubDate>Thu, 14 Oct 2021 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Råd mot lett høstdepresjon</title>
-      <description><![CDATA[*Gutta på byen: Da Abu ble befølt i fjeset av en fremmed
-*Gutta og det evige spørsmålet: Makrell i tomat i felleslunsjen?
-E-post: mar@nrk.no
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/86a5530e-91aa-43dc-a940-2ff7607b9da6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/86a5530e-91aa-43dc-a940-2ff7607b9da6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:22</itunes:duration>
-      <pubDate>Wed, 13 Oct 2021 17:25:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
