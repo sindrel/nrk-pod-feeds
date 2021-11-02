@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Berrum &amp; Beyer snakker om greier. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Oct 2021 02:40:31 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Oct 2021 04:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 02 Nov 2021 03:31:11 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Nov 2021 04:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDwQiFNnb3iKNfhfyg3CH1v7Q.png"/>
+    <item>
+      <title>Naken stjerne, Döner og Sokkelesten </title>
+      <description><![CDATA[Lars har vært på tur med blant andre sin nemesis, Christian Mikkelsen. Martin har spist kebab i mysen og sammen diskuterer de om man kan gå i sokkelesten på jobb. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/47a1929d-743a-448c-93d4-ccc05985febb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/47a1929d-743a-448c-93d4-ccc05985febb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:41</itunes:duration>
+      <pubDate>Tue, 02 Nov 2021 04:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Teaterhøgskolen, Finsk dass og Søtpotetfries </title>
       <description><![CDATA[Ma og Pa forteller om da de søkte på teaterhøgskolen. Viggo Venn gir en oppdatering om klovnelivet i Finland og det diskuteres rundt søtpotetfries. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/d28b0d12-32b4-4cf3-b2a4-b245c138df33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:01:36</itunes:duration>
       <pubDate>Tue, 07 Sep 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lønningspils, Tango og Er du egentlig trist? </title>
-      <description><![CDATA[Lars har vært på lønningspils med søstrene. Martin har snakket om tango med sin argentinske venn og sammen drøfter de om du kan hate golf, men elske korps? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/c9715f6b-d556-4a63-b700-64710a434323_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/c9715f6b-d556-4a63-b700-64710a434323_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:16</itunes:duration>
-      <pubDate>Tue, 31 Aug 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
