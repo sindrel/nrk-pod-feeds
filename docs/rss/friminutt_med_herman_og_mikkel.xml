@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Friminutt med Herman og Mikkel. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/friminutt_med_herman_og_mikkel for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Oct 2021 03:30:56 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Oct 2021 05:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 03 Nov 2021 04:41:15 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Nov 2021 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUggRLTOqqSTo03cvawMez5-Q.png"/>
+    <item>
+      <title>Triangeltiss og en murstein i posten</title>
+      <description><![CDATA[Herman øver før engelskprat på Skavlan og har fått en murstein og et viktig budskap i posten. Mikkel trenger terapi etter finger i rumpa og vurderer kort karriere i London. Høydepunkter fra korpskarriere, enda flere låter du trodde du kunne og snakk om det som en mann (og ekstra velkommen til broren til Tom!). ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/bbdd142c-e025-442c-b34f-f1072ac4d9b0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/bbdd142c-e025-442c-b34f-f1072ac4d9b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:35</itunes:duration>
+      <pubDate>Wed, 03 Nov 2021 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Sangtekstene, hot dog-dressingen og konkurranse! </title>
       <description><![CDATA[Herman byr på billetter til førpremiere på Førstegangstjenesten! Mikkel har fått litt ADHD og har begynt å se på lineær-TV. Shoutout til Danmark, verdens beste bunke misforståtte sangtekster og rollespill om navn, dressing og TRINE!! ]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/5a89f63a-d0c5-4370-80da-47777d8a63f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:24</itunes:duration>
       <pubDate>Wed, 01 Sep 2021 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Valgrap, gatebil og kroppslyder </title>
-      <description><![CDATA[Herman har vært på gatebil, Mikkel vil motivere unge lyttere til å stemme og "Lyden av kroppen" testes ut som gameshow-konsept. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0cac9a45-4663-4e74-9b8d-4877f3b7b002_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0cac9a45-4663-4e74-9b8d-4877f3b7b002_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:31</itunes:duration>
-      <pubDate>Wed, 01 Sep 2021 05:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
