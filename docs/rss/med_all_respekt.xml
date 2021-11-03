@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 Nov 2021 13:33:10 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Nov 2021 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Nov 2021 18:35:23 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Nov 2021 18:50:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wE1ts_i2APeHjiaYdd09ZA3xecC3_H49AfchK4Bq3oWA"/>
+    <item>
+      <title>Klar for julehandel? Vi har appen!</title>
+      <description><![CDATA[* Abu skal bli konferansier
+*Lytter: Hva er det styggeste dere har gjort mot en person?
+* Pitch: Den perfekte julehandel appen
+E-post:mar@nrk.no
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/77606e47-7c43-4eda-8426-e1f5f0030000_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/77606e47-7c43-4eda-8426-e1f5f0030000_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:51</itunes:duration>
+      <pubDate>Wed, 03 Nov 2021 18:50:00 +0100</pubDate>
+    </item>
     <item>
       <title>Topp 5 alternativ Maskorama!</title>
       <description><![CDATA[*One-night stand som ikke vil gå hjem. Dette gjør du!
@@ -104,16 +116,6 @@ E-post: mar@nrk.no]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/bbca670c-2693-4113-ab3a-2daeffddd416_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:03</itunes:duration>
       <pubDate>Tue, 19 Oct 2021 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Minner og sinne i kinomørket!</title>
-      <description><![CDATA[*Retrospalten drar på kino!
-*Abu havnet i mediedebatt
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e667f62a-45d3-417a-8814-c21762347cce_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e667f62a-45d3-417a-8814-c21762347cce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:27</itunes:duration>
-      <pubDate>Mon, 18 Oct 2021 17:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
