@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 Nov 2021 15:33:39 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Nov 2021 16:30:00 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Nov 2021 13:33:02 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Nov 2021 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAJzfHoL4X3pu5g4y9UH5BSA.png"/>
+    <item>
+      <title>Tore Nagel</title>
+      <description><![CDATA[Han er 70 år og Norges eldste basehopper. Selv byttet han ut alkoholen med fallskjerm og mener at alle bør utsette seg for livsfare en gang i livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/65a4f4c5-ce86-4c0e-bb0a-8aacf3ed59c8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/65a4f4c5-ce86-4c0e-bb0a-8aacf3ed59c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:25</itunes:duration>
+      <pubDate>Wed, 03 Nov 2021 14:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Anna Fiske</title>
       <description><![CDATA[Forfatter, illustratør og tegneserieskaper Anna Fiske, kan tegne perfekte bilder, men sovner av tanken. Hun liker heller at strekene er litt skeive. 
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/4d53fdf1-80cd-4775-998b-220ff4c98742_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:50</itunes:duration>
       <pubDate>Wed, 13 Oct 2021 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Joachim Trier </title>
-      <description><![CDATA[Som ung skater ble han jakta gjennom Oslos gater av politiet. Det lærte ham at voksne ikke alltid har rett, noe han også prøver å vise i filmene sine. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/087bfde0-ee29-4e2f-a028-e22208768850_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/087bfde0-ee29-4e2f-a028-e22208768850_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:42</itunes:duration>
-      <pubDate>Tue, 12 Oct 2021 13:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
