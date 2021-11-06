@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten XL – podkasten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/xl_podkasten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 30 Oct 2021 10:32:52 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Oct 2021 12:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 06 Nov 2021 05:27:22 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Nov 2021 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gdpFInQ8NKVBHBIfUjw-YglpXJMlNHQBTgD8619x6Edg.png"/>
+    <item>
+      <title>Porno på t-banen og løsning på klimakrisen</title>
+      <description><![CDATA[Derfor er vi alle horer og klimaverstinger]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/xl_podkasten/90c58984-87a1-40bf-9500-0ff8c479706f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/90c58984-87a1-40bf-9500-0ff8c479706f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:38</itunes:duration>
+      <pubDate>Sat, 06 Nov 2021 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Kvinne føder fisk, pepperkaker og rumpedebatt</title>
       <description><![CDATA[Kan kona til Espen føde en fisk, er det ok og komplimentere en fin rumpe og er musikkjournalistikken død?]]></description>
