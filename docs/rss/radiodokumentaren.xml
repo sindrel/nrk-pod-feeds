@@ -6,42 +6,18 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Oct 2021 04:40:20 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Oct 2021 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 08 Nov 2021 21:28:08 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Nov 2021 22:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8QnjV5XARCNOkqScCBrSwoUA.png"/>
+    <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
-      <title>Balladen om Haakon Banken - Ep 2: Takk for livet</title>
-      <description><![CDATA[Håkon får sitt musikalske gjennombrudd, samtidig som han møter kvinnen i sitt liv. Det kan ligne en drøm, men å stå på scenen er et mareritt. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/e37a2ed6-7735-4036-98b4-a33579ae8218_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/e37a2ed6-7735-4036-98b4-a33579ae8218_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:55</itunes:duration>
-      <pubDate>Mon, 11 Oct 2021 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Balladen om Haakon Banken - Episode 3: Riktige venner</title>
-      <description><![CDATA[Hvorfor grep ikke Håkon sjansen til å bli stor, slik Jodle Birge gjorde i Danmark? Hvorfor ville han heller lakkere biler, enn å spille på Wembley? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a6ab6e28-be50-4307-9a47-d757a8afbf62_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a6ab6e28-be50-4307-9a47-d757a8afbf62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:36</itunes:duration>
-      <pubDate>Mon, 11 Oct 2021 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Balladen om Haakon Banken - Ep. 1: Hvordan tror du verden ser på meg?</title>
-      <description><![CDATA[Håkon Banken vokser opp i pinsebevegelsen i Solør, der han for første gang blir lagt merke til for sitt musikalske talent. Men Håkon vil ut og vekk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/9e17158b-a79e-4f7d-917f-5a7e71a80cb2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9e17158b-a79e-4f7d-917f-5a7e71a80cb2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:19</itunes:duration>
-      <pubDate>Mon, 11 Oct 2021 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Balladen om Haakon Banken - Episode 4: Ingen plåtcab til himmelen</title>
-      <description><![CDATA[Håkon gjør et uventet comeback som artist, og får oppleve å bli hyllet i Norge og Sverige, før han trekker seg tilbake for aller siste gang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/cfca99cb-5fc1-4909-a631-04f68a3f6536_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/cfca99cb-5fc1-4909-a631-04f68a3f6536_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:37</itunes:duration>
-      <pubDate>Mon, 11 Oct 2021 06:00:00 +0200</pubDate>
+      <title>Smakebit: Aktivistene</title>
+      <description><![CDATA[Over 6 år følger vi en gruppe unge aktivister som tar seg ulovlig inn i norske grisefjøs for å filme dyr. De drømmer om å utgjøre en forskjell. Men det å brenne for en sak koster også mye. I appen NRK Radio fra 15. november.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/7b60bdbe-3e6e-4ee3-982b-8f2b6a86d160_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/7b60bdbe-3e6e-4ee3-982b-8f2b6a86d160_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:50</itunes:duration>
+      <pubDate>Mon, 08 Nov 2021 22:03:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
