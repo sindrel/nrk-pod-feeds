@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 03:31:18 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Nov 2021 04:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Nov 2021 03:31:10 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Nov 2021 04:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Hvordan velger vi parringspartner?</title>
+      <description><![CDATA[Biologien vår: hvor stor rolle spiller den i jakten på kjæreste?
+
+Av:  Dang Trinh]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/33a8fafc-2159-4847-9d09-7fa05994cf75_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/33a8fafc-2159-4847-9d09-7fa05994cf75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:12</itunes:duration>
+      <pubDate>Wed, 10 Nov 2021 04:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvorfor må alle bare være ett kjønn?</title>
       <description><![CDATA[Kjønnsrebellen Kristin føler seg både som kvinne og mann, og har som prosjekt å klusse til oppfatningene våre om kjønn.
@@ -102,18 +112,6 @@ Av: Lise Borchgrevink]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dd4b5504-8d95-4e87-88f4-35936953b784_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:58</itunes:duration>
       <pubDate>Tue, 26 Oct 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hør de nyeste episodene av Samfunnspodden først</title>
-      <description><![CDATA[I NRK Radio-appen kan du nå høre nye episoder av denne podkasten én uke tidligere enn i andre podkast-apper. Og ikke bare det, du får tilgang til over 150 podkaster, 16 radiokanaler og NRKs enorme lydarkiv.
-
-Alt dette får du tilgang til ved å laste ned appen NRK Radio. 
-
-NRK Radio – vi hører sammen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8d2f00d9-5f8b-4498-98ab-c6900b8dd7c0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8d2f00d9-5f8b-4498-98ab-c6900b8dd7c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26</itunes:duration>
-      <pubDate>Mon, 25 Oct 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
