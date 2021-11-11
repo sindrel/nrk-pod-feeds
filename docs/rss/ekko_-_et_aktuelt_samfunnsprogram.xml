@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 10 Nov 2021 03:31:10 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Nov 2021 04:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 11 Nov 2021 03:31:19 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Nov 2021 04:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Spørretimen: Søvn</title>
+      <description><![CDATA[Sover du godt om natta? Hva skjer om du ikke sover nok, blir du syk da? Søvnekspertene svarer på spørsmål om søvn og drømmer.
+
+Programleder: Rikke Eckhoff]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e5b851a6-8cbc-4a86-baac-cf4d4307be90_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e5b851a6-8cbc-4a86-baac-cf4d4307be90_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:52</itunes:duration>
+      <pubDate>Thu, 11 Nov 2021 04:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvordan velger vi parringspartner?</title>
       <description><![CDATA[Biologien vår: hvor stor rolle spiller den i jakten på kjæreste?
@@ -43,7 +53,7 @@ Av: Vibeke Røiri]]></description>
     </item>
     <item>
       <title>Spørretimen: Forsikring</title>
-      <description><![CDATA[Kaster du penger ut av vinduet med kostbare forsikringer ..eller trenger du egentlig flere?  
+      <description><![CDATA[Kaster du penger ut av vinduet med kostbare forsikringer, eller trenger du egentlig flere?  
 
 Programleder: Jan Erlend Leine
 
@@ -102,16 +112,6 @@ Av: Vibeke Røiri]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cdcb8d32-4c8f-4843-bb4c-0e47d4949b2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:31</itunes:duration>
       <pubDate>Wed, 27 Oct 2021 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Drikkevaner etter pandemien</title>
-      <description><![CDATA[Alkoholvanene våre endret seg under pandemien. Kommer vi nå til å drikke som før, eller er de endret for godt?
-
-Av: Lise Borchgrevink]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dd4b5504-8d95-4e87-88f4-35936953b784_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dd4b5504-8d95-4e87-88f4-35936953b784_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:58</itunes:duration>
-      <pubDate>Tue, 26 Oct 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
