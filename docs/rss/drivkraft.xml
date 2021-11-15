@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Nov 2021 12:47:22 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Nov 2021 12:30:00 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Nov 2021 15:33:40 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Nov 2021 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAJzfHoL4X3pu5g4y9UH5BSA.png"/>
+    <item>
+      <title>Catrin Sagen</title>
+      <description><![CDATA[Hun er en av landets mest profilerte samlivsterapeuter. På hjemmebane blir hun barnslig i krangler og glemmer alt hun har lært.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7515d294-8993-423a-ba50-b385094f9111_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7515d294-8993-423a-ba50-b385094f9111_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:12</itunes:duration>
+      <pubDate>Mon, 15 Nov 2021 16:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Fritz Aanes</title>
       <description><![CDATA[Hvordan balanserer man rollen som trener og venn? Hvordan blir man verdensmester? Og hvor vondt gjør det egentlig å få blomkålører?]]></description>
@@ -84,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/2ac1a345-675e-430e-a4b0-f3d6afc82064_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:55</itunes:duration>
       <pubDate>Mon, 25 Oct 2021 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ane Brun</title>
-      <description><![CDATA[Det er vanskelig å flørte som singel kjendis, sier den populære musikeren. Nå har hun funnet kjærligheten og flyttet hjem til Norge etter 20 år i Stockholm.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/34a63906-a43f-444d-8236-0aa3616b5b7c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/34a63906-a43f-444d-8236-0aa3616b5b7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Mon, 18 Oct 2021 12:45:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
