@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Nov 2021 15:33:40 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Nov 2021 16:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 16 Nov 2021 15:33:44 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Nov 2021 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAJzfHoL4X3pu5g4y9UH5BSA.png"/>
+    <item>
+      <title>Petter Nyquist</title>
+      <description><![CDATA[Petter Nyquist bedre kjent som “Petter uteligger" vokste opp i Bærum med badebasseng, au pair og hard festing. Men en telefonsamtale med polfarer Børge Ousland snudde opp ned på livet hans.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c36b8024-a9ac-48b4-a171-4fc8537c314a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c36b8024-a9ac-48b4-a171-4fc8537c314a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:58</itunes:duration>
+      <pubDate>Tue, 16 Nov 2021 16:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Catrin Sagen</title>
       <description><![CDATA[Hun er en av landets mest profilerte samlivsterapeuter. På hjemmebane blir hun barnslig i krangler og glemmer alt hun har lært.
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/6a04351d-db89-4f87-9909-3d44ff0ae6db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:49</itunes:duration>
       <pubDate>Tue, 26 Oct 2021 14:20:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Harald Zwart</title>
-      <description><![CDATA[Da han som 12-åring motvillig måtte flytte fra sitt kjære Fredrikstad, bestemte han seg for at resten av livet skulle han bestemme selv. Den innstillingen har gjort ham til en av Norges mest suksessfulle filmskapere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/2ac1a345-675e-430e-a4b0-f3d6afc82064_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/2ac1a345-675e-430e-a4b0-f3d6afc82064_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:55</itunes:duration>
-      <pubDate>Mon, 25 Oct 2021 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
