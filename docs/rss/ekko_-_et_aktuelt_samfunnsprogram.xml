@@ -7,12 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 16 Nov 2021 04:41:29 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Nov 2021 05:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 17 Nov 2021 04:41:44 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Nov 2021 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
     <item>
-      <title>Hvorfor i all verden flytter folk til Sogndal?</title>
+      <title>Kampen om kulturskattene</title>
+      <description><![CDATA[Hvorfor er det så vanskelig å få kulturskatter som har havnet i utlandet hjem, når alle er enige om at det er en god idé?
+
+Av: Dang Trinh]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d86838bc-83d8-49bf-87db-af1d89b2fd4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d86838bc-83d8-49bf-87db-af1d89b2fd4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:17</itunes:duration>
+      <pubDate>Wed, 17 Nov 2021 05:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hvorfor i all verden flytter unge til Sogndal?</title>
       <description><![CDATA[Boligprisene i lille Sogndal er nå på nivå med Bergen. Hva har den lille bygda gjort for å få folk til å ville bo der?
 
 Av: Vibeke Røiri]]></description>
@@ -102,16 +112,6 @@ Av: Dang Trinh]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/41ee02e2-ce61-4404-a94f-f6ac6ab69a47_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:28</itunes:duration>
       <pubDate>Tue, 02 Nov 2021 04:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hun donerer eggene sine til fremmede</title>
-      <description><![CDATA[Eggdonasjon ble lov i Norge fra 1. januar. Natalie er en av de første norske kvinnene som gir bort eggene sine!
-
-Av: Vibeke Røiri]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0773d40c-29b9-4a9c-8855-9eeb165c8c85_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0773d40c-29b9-4a9c-8855-9eeb165c8c85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:07</itunes:duration>
-      <pubDate>Mon, 01 Nov 2021 04:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
