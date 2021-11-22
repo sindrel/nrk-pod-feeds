@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 18 Nov 2021 04:41:24 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Nov 2021 05:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Nov 2021 04:42:01 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Nov 2021 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Hvem dreper villaksen?</title>
+      <description><![CDATA[Død, halvspist, villaks langs elvebredden er et syn fiskere møter stadig oftere. Forskerne har en hovedmistenkt for drapene.
+
+Av: Vibeke Røiri]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/11038482-7434-4618-9085-090586f0dd05_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/11038482-7434-4618-9085-090586f0dd05_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:20</itunes:duration>
+      <pubDate>Mon, 22 Nov 2021 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Spørretimen: Sykdomshøsten</title>
       <description><![CDATA[Smitteverndirektøren, mikrobiologen og psykologen svarer på spørsmål om sykdomshøsten.
@@ -102,16 +112,6 @@ Programleder: Jan Erlend Leine
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/20607d80-91bb-4014-b35b-586a854e6aa0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:58</itunes:duration>
       <pubDate>Thu, 04 Nov 2021 04:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kjønnssykdommene kommer!</title>
-      <description><![CDATA[Klamydia, gonoré, syfilis. Alt kommer trolig tilbake til rekordhøye nivåer etter pandemien. Hvorfor blir vi ikke kvitt kjønnssykdommene?
-
-Av: Tora Øgrim]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6f6dbd6-b713-4253-aadc-1074ee608fc4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6f6dbd6-b713-4253-aadc-1074ee608fc4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:12</itunes:duration>
-      <pubDate>Wed, 03 Nov 2021 04:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
