@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 24 Nov 2021 04:41:40 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Nov 2021 05:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 25 Nov 2021 04:42:09 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Nov 2021 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Spørretimen: Trygg mat</title>
+      <description><![CDATA[Hvor trygg er maten vi spiser for helsa vår? Gifteksperten, matkontrolløren og ernæringsseksperten svarer!
+
+Programleder: Rikke Eckhoff]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/218ed59b-7e26-4fef-b7ed-b60a6fcf2c32_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/218ed59b-7e26-4fef-b7ed-b60a6fcf2c32_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:40</itunes:duration>
+      <pubDate>Thu, 25 Nov 2021 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hva kan du spise med god samvittighet?</title>
       <description><![CDATA[Selv for lederen i Framtiden i våre hender, Anja Bakken Riise, er det vanskelig å velge bærekraftig i butikken!
@@ -33,7 +43,9 @@ Av: Lise Borchgrevink]]></description>
     </item>
     <item>
       <title>Hvem dreper villaksen?</title>
-      <description><![CDATA[Død, halvspist, villaks langs elvebredden er et syn fiskere møter stadig oftere. Forskerne har en hovedmistenkt for drapene.
+      <description><![CDATA[Død, halvspist, villaks langs elvebredden er et syn fiskere møter stadig oftere. Forskerne har en hovedmistenkt for drapene. 
+
+OPPDATERING: Etter at denne episoden ble laget har villaksen havnet på rødlista, altså lista over sårbare dyrearter.  
 
 Av: Vibeke Røiri]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/11038482-7434-4618-9085-090586f0dd05_0_ID192MP3.mp3</guid>
@@ -100,16 +112,6 @@ Av:  Dang Trinh]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/33a8fafc-2159-4847-9d09-7fa05994cf75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:12</itunes:duration>
       <pubDate>Wed, 10 Nov 2021 04:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hvorfor må alle bare være ett kjønn?</title>
-      <description><![CDATA[Kjønnsrebellen Kristin føler seg både som kvinne og mann, og har som prosjekt å klusse til oppfatningene våre om kjønn.
-
-Av: Brit Aksnes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/df84ff26-198e-427e-9932-b71c82b67296_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/df84ff26-198e-427e-9932-b71c82b67296_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:53</itunes:duration>
-      <pubDate>Tue, 09 Nov 2021 04:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
