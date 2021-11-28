@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 27 Nov 2021 13:31:48 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Nov 2021 10:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 28 Nov 2021 11:26:23 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Nov 2021 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g4LCRrF3mpdKjBOVc4N01pw.png"/>
+    <item>
+      <title>Smakebit: Julestemning med Live og Ronny</title>
+      <description><![CDATA[Hør alle episodene av Julestemning med Live og Ronny kun i appen NRK Radio.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/9bdd5599-63e7-4e55-8ddb-dad3c93b3861_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/9bdd5599-63e7-4e55-8ddb-dad3c93b3861_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:45</itunes:duration>
+      <pubDate>Sun, 28 Nov 2021 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Torbjørn Røe Isaksen / Caroline Johansen / Olli Wermskog</title>
       <description><![CDATA[Hvordan går det med datinga til Jolene? / PROBLEMER: Julebordet uten oss / Arret skaper usexy spørsmål / Lørdagsrådet skriker fra høyttaleren / Hastemelding fra Paris / Hva skal vi gjøre med naboklagen? / Hvordan spørre om mer lønn? / Juletre i plast eller ikke juletre i heletatt? / Vops, så var det slutt... eller? / EPILOG: 1t 53min ]]></description>
@@ -82,16 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/95996cf7-ff13-44e8-8413-bf79dff663a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:20</itunes:duration>
       <pubDate>Wed, 20 Oct 2021 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Else Kåss Furuseth / Silje Nordnes / Are Sende Osen</title>
-      <description><![CDATA[PROBLEMER: Navnetradisjon fra Helvete (neida bare fra Midtøsten) / Overgang fra studentliv til voksenliv / Temafesten for stor gruppe / Forpliktelser i avstandsforhold / Kåt på Hytta / Drømmer om at medstudentene stryker / Jeg elsker bacon, han elsker Kafka / Ekstrapersonen i kollektivet / Svigerfamilien liker meg ikke
-
-Foto: @fotogjengen (Tusen takk)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/2fa19e26-4f95-4074-a5dc-5401c0072ef3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2fa19e26-4f95-4074-a5dc-5401c0072ef3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:04:02</itunes:duration>
-      <pubDate>Sat, 16 Oct 2021 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
