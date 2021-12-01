@@ -7,13 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 25 Nov 2021 15:34:01 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Nov 2021 15:45:00 +0100</pubDate>
+    <lastBuildDate>Wed, 01 Dec 2021 14:29:00 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Dec 2021 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAJzfHoL4X3pu5g4y9UH5BSA.png"/>
+    <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Steinar J Olsen</title>
+      <description><![CDATA[Som 12-åring bestemte Stormberg-grunderen seg for å starte bedrift og tjene millioner. Men konkurs på konkurs gjorde veien dit kronglete.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/04143696-e9a7-4d2d-98f0-5017b5e53a33_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/04143696-e9a7-4d2d-98f0-5017b5e53a33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:25</itunes:duration>
+      <pubDate>Wed, 01 Dec 2021 15:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Gjert Rognli</title>
-      <description><![CDATA[ Kunsten han er nær knyttet til naturen og  hans  samiske bakgrunn . Han har stilt ut på Louvre i Paris og mottar stadig nye internasjonale priser]]></description>
+      <description><![CDATA[ Kunsten hans er nær knyttet til naturen og  hans  samiske bakgrunn . Han har stilt ut på Louvre i Paris og mottar stadig nye internasjonale priser]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e662ac82-0400-4f02-8cd3-7f9b773dda0b_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/e662ac82-0400-4f02-8cd3-7f9b773dda0b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:02</itunes:duration>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/ac304185-d9b2-4736-a042-a77b0ec2473f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:52</itunes:duration>
       <pubDate>Mon, 08 Nov 2021 12:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Jostein Gaarder</title>
-      <description><![CDATA[Forfatteren mener det er egoistisk å være i verden uten å bli lamslutt av under. Selv var han 11 år da han fikk en åpenbaring som har fulgt ham i resten av livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e41636c7-d494-4795-bed6-2867f927f52f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e41636c7-d494-4795-bed6-2867f927f52f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:40</itunes:duration>
-      <pubDate>Thu, 04 Nov 2021 16:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
