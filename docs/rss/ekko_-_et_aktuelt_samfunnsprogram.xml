@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 01 Dec 2021 04:42:43 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Dec 2021 05:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Dec 2021 04:42:07 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Dec 2021 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Spørretimen: Parforhold</title>
+      <description><![CDATA[Hvordan unngå at parforholdet havarer. To psykologer og en advokat svarer på spørsmål fra lytterne!
+
+Programleder: Jan Erlend Leine]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/806a1f8e-1ca0-40f9-baf5-5f121acd5c42_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/806a1f8e-1ca0-40f9-baf5-5f121acd5c42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:41</itunes:duration>
+      <pubDate>Thu, 02 Dec 2021 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Vi er mindre lykkelige, har vi grunn til det?</title>
       <description><![CDATA[25-30-årene pleide å være den lykkeligste tida i livet. Sånn er det ikke lenger. Har vi grunn til å være så bekymra?
@@ -102,16 +112,6 @@ Av: Dang Trinh]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d86838bc-83d8-49bf-87db-af1d89b2fd4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:17</itunes:duration>
       <pubDate>Wed, 17 Nov 2021 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hvorfor i all verden flytter unge til Sogndal?</title>
-      <description><![CDATA[Boligprisene i lille Sogndal er nå på nivå med Bergen. Hva har den lille bygda gjort for å få folk til å ville bo der?
-
-Av: Vibeke Røiri]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5847383b-3dd4-4956-9f99-03fdda5d9b20_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5847383b-3dd4-4956-9f99-03fdda5d9b20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:06</itunes:duration>
-      <pubDate>Tue, 16 Nov 2021 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
