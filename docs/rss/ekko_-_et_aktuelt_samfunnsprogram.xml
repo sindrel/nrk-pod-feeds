@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 06 Dec 2021 04:42:43 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Dec 2021 05:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Dec 2021 04:43:23 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Dec 2021 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Slik samler du stjernestøv</title>
+      <description><![CDATA[Mikrometeoritter drysser hver dag ned på jordas overflate. En nordmann har laget håndbok i hvordan du kan finne stjernestøvet!
+
+Av: Vibeke Røiri]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a24133b8-9a78-40bb-82c5-edfd345a2509_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a24133b8-9a78-40bb-82c5-edfd345a2509_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:46</itunes:duration>
+      <pubDate>Tue, 07 Dec 2021 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvorfor blir vi så slitne av videomøter?</title>
       <description><![CDATA[Ikke all menneskelig kommunikasjon lar seg oversette digitalt. Det er noe av forklaringen på at videomøter er ekstra slitsomme!
@@ -102,16 +112,6 @@ Av: Vibeke Røiri]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/11038482-7434-4618-9085-090586f0dd05_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:20</itunes:duration>
       <pubDate>Mon, 22 Nov 2021 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Spørretimen: Sykdomshøsten</title>
-      <description><![CDATA[Smitteverndirektøren, mikrobiologen og psykologen svarer på spørsmål om sykdomshøsten.
-
-Programleder: Ellen Wesche Guttormsen ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e8d3bf55-96df-4907-a7d0-eff50ebdb744_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e8d3bf55-96df-4907-a7d0-eff50ebdb744_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:01</itunes:duration>
-      <pubDate>Thu, 18 Nov 2021 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
