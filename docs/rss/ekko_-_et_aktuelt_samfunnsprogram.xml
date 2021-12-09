@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 08 Dec 2021 04:42:35 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Dec 2021 05:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Dec 2021 04:42:49 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Dec 2021 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Spørretimen om stress</title>
+      <description><![CDATA[Når blir stress sykdom? Når er stress bra for deg? Ekspertpanelet svarer! 
+
+Programleder: Rikke Eckhoff ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dd9f5468-255a-40c4-a024-fef2958db509_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dd9f5468-255a-40c4-a024-fef2958db509_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:51</itunes:duration>
+      <pubDate>Thu, 09 Dec 2021 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvorfor bruke penger på digitale klær?</title>
       <description><![CDATA[Noen velger å bruke virkelige penger på digitale klær som bare kan brukes i sosiale medier. Hvorfor kan det ha noe for seg?
@@ -100,16 +110,6 @@ Av: Tora Øgrim]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8b2a4e78-ba62-4e50-861d-4cf371d7cfde_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:00</itunes:duration>
       <pubDate>Wed, 24 Nov 2021 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ute av fengsel, men gjeldsslave for livet</title>
-      <description><![CDATA[Mange fanger i norske fengsler kommer ut med stor gjeld. Er det den beste måten å få dem til å slutte å være kriminelle på?
-
-Av: Lise Borchgrevink]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e6527a97-e150-423b-9036-7f1a03bbdf9a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e6527a97-e150-423b-9036-7f1a03bbdf9a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:36</itunes:duration>
-      <pubDate>Tue, 23 Nov 2021 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
