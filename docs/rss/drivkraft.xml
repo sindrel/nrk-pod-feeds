@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 Dec 2021 14:28:33 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Dec 2021 15:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Dec 2021 14:28:44 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Dec 2021 15:20:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Kristofer Hivju</title>
+      <description><![CDATA[Skuespilleren bruker nå dagene til  å oppfylle en gammel drøm. Han skriver musikk og skal  gi ut et album med bandet sitt The Garbage King. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/690ec484-0d8d-425f-8b53-d349f98822a3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/690ec484-0d8d-425f-8b53-d349f98822a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:32</itunes:duration>
+      <pubDate>Wed, 15 Dec 2021 15:20:00 +0100</pubDate>
+    </item>
     <item>
       <title>Jon Almaas</title>
       <description><![CDATA[Den populære programlederen mener sofa som møbel er djevelens verk, som hindrer ham i gjøre det han egentlig vil gjøre.]]></description>
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/5085c734-5d22-4cd4-9562-09e167f39a7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:40</itunes:duration>
       <pubDate>Wed, 24 Nov 2021 13:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Deeyah Khan</title>
-      <description><![CDATA[Da hun laget filmen om amerikanske høyreekstreme, ble hun  omringet av voldelige nynazister i fjellene i Virginia i USA og trodde det skulle ende galt.  Hun var gravid, og ingen visste hvor hun var.  Filmskaperen  er en  modig og uhyre viktig utøver av kunstnerisk ytringsfrihet. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e193459c-39d5-4ed7-a02d-da49372a384a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e193459c-39d5-4ed7-a02d-da49372a384a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:46</itunes:duration>
-      <pubDate>Wed, 24 Nov 2021 11:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
