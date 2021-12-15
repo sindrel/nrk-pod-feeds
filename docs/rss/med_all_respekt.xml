@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 Dec 2021 13:33:57 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Dec 2021 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Dec 2021 16:51:18 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Dec 2021 17:36:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
+    <item>
+      <title>Harry Potter får smake det!</title>
+      <description><![CDATA[*Da Galvan møtte Harry
+*Julekalenderen du ikke vil ha
+*Årets ord og årets MAR-ord
+E-post: mar@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/823ec904-edac-425d-9356-5b7386dc4ca8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/823ec904-edac-425d-9356-5b7386dc4ca8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:02</itunes:duration>
+      <pubDate>Wed, 15 Dec 2021 17:36:00 +0100</pubDate>
+    </item>
     <item>
       <title>Alt vesten har stjålet fra India!</title>
       <description><![CDATA[Desi-tirsdag med Abu og Sandeep er tilbake!
@@ -114,17 +125,6 @@ E-post: mar@nrk.no
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/57b57e29-e8cb-4e9d-a3c6-fbf718cb9d05_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:04</itunes:duration>
       <pubDate>Tue, 30 Nov 2021 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Abid busta en nut</title>
-      <description><![CDATA[*J.K. Rowling og Angela Merkel er doxa
-*Galvan røper alle menns hemmeligheter
-*Den kurdiske Moder Theresa
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/4ddbe1ad-d075-430f-8cc4-9cdf85e6c555_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4ddbe1ad-d075-430f-8cc4-9cdf85e6c555_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:24</itunes:duration>
-      <pubDate>Mon, 29 Nov 2021 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
