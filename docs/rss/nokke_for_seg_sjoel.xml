@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 10 siste fra Nokke for seg sjøl</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Nokke for seg sjøl. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/nokke_for_seg_sjoel for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 22 Dec 2021 12:12:16 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Dec 2021 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"/>
+    <item>
+      <title>Frelsaren som skulle redde Brann</title>
+      <description><![CDATA[Sportsklubben Brann er i krise, men det er ikkje første gong. Ein svensk trenar vart tatt i mot som ein Messias då han skulle berge klubben.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nokke_for_seg_sjoel/63e8b69b-33a9-4816-99b1-3b1dc2ca5503_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/63e8b69b-33a9-4816-99b1-3b1dc2ca5503_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:36</itunes:duration>
+      <pubDate>Wed, 22 Dec 2021 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Sykkelfesten og bakrusen</title>
+      <description><![CDATA[Bergensarar elskar ein god fest, og sykkel-VM 2017 blei ein folkefest av dei sjeldne. Men oppryddinga vart alt anna enn festleg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nokke_for_seg_sjoel/c4c72986-fa5a-4daa-88bb-f6d4a6e1f7d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/c4c72986-fa5a-4daa-88bb-f6d4a6e1f7d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:13</itunes:duration>
+      <pubDate>Wed, 15 Dec 2021 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Du køddar ikkje med Jernbanestasjonen</title>
+      <description><![CDATA[Eit nytt skilt gjer bergensarane forbanna. Ingen seier jo «Bergen stasjon»! I Oslo sit dei ansvarlege og lurer på kva dei har stelt i stand. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nokke_for_seg_sjoel/441a5e9b-90e6-4e22-8cd7-c8b531b370f9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/441a5e9b-90e6-4e22-8cd7-c8b531b370f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:19</itunes:duration>
+      <pubDate>Wed, 08 Dec 2021 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trailer: Nokke for seg sjøl</title>
+      <description><![CDATA[Bergensarane er kjent for å vere særeigne – og dei elskar å dyrke bildet av seg som annleis. Men kvifor er dei slik? Det skal programleiar Elise Farestveit og historieprofessor Morten Hammerborg på Høgskulen på Vestlandet prøve å svare på. 
+Premiere: 8. desember]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nokke_for_seg_sjoel/2682fb49-665f-44f0-a794-e3673ec9bb20_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/2682fb49-665f-44f0-a794-e3673ec9bb20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:12</itunes:duration>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
