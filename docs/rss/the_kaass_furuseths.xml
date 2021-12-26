@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 19 Dec 2021 05:28:47 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Dec 2021 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 26 Dec 2021 05:29:06 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Dec 2021 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pKt2heDSM3gDdo4y3mXDGQ-eh2uz1dFuMS4z_3tyIWSw.png"/>
+    <item>
+      <title>Julebrunsj! </title>
+      <description><![CDATA[Herman Flesvig har med julemust til brunsjbordet, Ida Gran-Jansen lager strull og fløtekarameller, mens «taffelmann Løland» spiller opp til dans i The Kåss Furuseths julespesial! I tillegg blir det avslørt store overraskelser!!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/8ff91a80-e4b5-4285-9f6b-074da0f524d4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/8ff91a80-e4b5-4285-9f6b-074da0f524d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:05</itunes:duration>
+      <pubDate>Sun, 26 Dec 2021 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Jannecke Weeden, klatremus og Vegas-bryllup</title>
       <description><![CDATA[Programleder Jannecke Weeden forteller om drømmen om å bli jagerflypilot, og om den kortvarige relasjonen til flaskepostvinneren i Se og Hør når hun gjester brunsj hos Else. ]]></description>
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/77864903-b5bd-41d3-ab84-3954dd601b4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:13</itunes:duration>
       <pubDate>Sun, 24 Oct 2021 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Renate Reinsve, Bestemor og Oscar-tale </title>
-      <description><![CDATA[Skuespiller Renate Reinsve er på plass. Hun forteller om hvordan det var å vinne i Cannes, hvorfor bestemoren er hennes største kritiker og prøver seg på en Oscar tale. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/d4f00832-e90a-418d-bc99-e47aab02a339_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/d4f00832-e90a-418d-bc99-e47aab02a339_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:26</itunes:duration>
-      <pubDate>Sun, 17 Oct 2021 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
