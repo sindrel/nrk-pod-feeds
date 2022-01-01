@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 25 Dec 2021 13:33:25 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Dec 2021 14:30:00 +0100</pubDate>
+    <lastBuildDate>Sat, 01 Jan 2022 05:29:30 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Jan 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g4LCRrF3mpdKjBOVc4N01pw.png"/>
+    <item>
+      <title>Høydepunkter fra 2021 - nr. 6</title>
+      <description><![CDATA[Høydepunkter fra 2021 - nr. 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/01b39a0e-806e-4ce6-abce-fab2c3af6b8c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/01b39a0e-806e-4ce6-abce-fab2c3af6b8c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:38:47</itunes:duration>
+      <pubDate>Sat, 01 Jan 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Romjulspesial!</title>
       <description><![CDATA[En utvidet ish, med: tilbakemeldinger, fyllemails og prat!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/3b82941f-f7fc-488c-8665-0ce2bfa27304_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:18:27</itunes:duration>
       <pubDate>Sat, 20 Nov 2021 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ella Marie Hætta Isaksen / Henrik Fladseth / Ingrid Gjessing Linhave</title>
-      <description><![CDATA[Har Kontorrotta funnet hverdagsgnisten? / PROBLEMER: Vi (tror) vi vet hvem faren er! / Hvordan komme seg til den morsomme delen av bordet? / Lederen i borettslaget er gæren / Er det vanlig å stå opp for å tisse på natta? / Alt for dyre lunsjer / Hvordan snakke med storebror om det vonde? / Guttastemningen er ikke så trivelig / Treige datevenner / EPILOG: 1t 57min]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/9867e115-69e0-4ac2-a3a1-88e97281a2ea_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/9867e115-69e0-4ac2-a3a1-88e97281a2ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:10:26</itunes:duration>
-      <pubDate>Sat, 13 Nov 2021 14:12:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
