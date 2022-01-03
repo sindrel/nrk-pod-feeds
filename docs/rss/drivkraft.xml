@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 11:27:37 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Dec 2021 12:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 03 Jan 2022 14:29:08 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Jan 2022 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Tiril Refsum</title>
+      <description><![CDATA[Hun gjorde lidenskap til business. I dag eier og driver hun kafé-kjeden Oslo Raw, har gitt ut bestselgende kokebøker om plantebasert mat. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0948aefb-4422-4545-8e9a-80bf355d0fb0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0948aefb-4422-4545-8e9a-80bf355d0fb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:10</itunes:duration>
+      <pubDate>Sun, 02 Jan 2022 14:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Årsoppsummering 2021 - andre del</title>
       <description><![CDATA[I denne episoden av Drivkraft ser vi tilbake på året som har gått, og får høre fra noen av gjestene som har vært innom programmet.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/e3e4d56b-ad38-4d32-aa1b-dd676f9e34f3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:46</itunes:duration>
       <pubDate>Thu, 09 Dec 2021 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Unni Askeland</title>
-      <description><![CDATA[Hun er billedkunstner, kjent for å tidvis leve et bohemliv og er til stadig i mediene. Selv mener hun hennes offentlige person står i veien for kunsten. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b1548d26-9cfc-4bbf-9f36-e6577fd30806_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b1548d26-9cfc-4bbf-9f36-e6577fd30806_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:57</itunes:duration>
-      <pubDate>Wed, 08 Dec 2021 15:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
