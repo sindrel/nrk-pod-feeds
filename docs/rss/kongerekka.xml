@@ -6,11 +6,11 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kongerekka. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kongerekka for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.0.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Sep 2021 17:18:23 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Sep 2021 05:30:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 06 Jan 2022 07:39:19 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Nov 2021 05:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKA0eF2hktRh3vCsggzjyyXfg.png"/>
+    <itunes:image href="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg"/>
     <item>
       <title>Magnus den gode - Kongen som trengte en medarbeidersamtale (11:20)</title>
       <description><![CDATA[Olav den Helliges sønn hentes hjem fra utlandet for å redde Norge fra en udugelig dansk barnerumpe. Men hvor god var nå Magnus den gode? 
@@ -36,6 +36,68 @@
       <enclosure url="https://podkast.nrk.no/fil/kongerekka/970a8a75-ddf8-49b6-b503-b0a6e4429722_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:19</itunes:duration>
       <pubDate>Mon, 13 Sep 2021 05:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Olav Kyrre - Kongen som holdt fred, og tok seg en øl (13:20)</title>
+      <description><![CDATA[Som tenåring var han med på en brutalt mislykka krigsferd. Var det derfor han ble så opptatt av interiør, mote og bygging av landet? 
+(År 1067-1093)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/ff183cd6-eff0-47b3-8ffa-b4112d9ec548_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/ff183cd6-eff0-47b3-8ffa-b4112d9ec548_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:25</itunes:duration>
+      <pubDate>Mon, 20 Sep 2021 05:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Magnus Berrføtt - Kongen som ikke hadde skjønt at vikingtida var over (14:20)</title>
+      <description><![CDATA[Han syntes pappa var fredelig og døll, og ville bli som farfar: En krigersk vikingkonge! (År 1093-1103)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/bf552ddf-b17d-48c4-88e2-dc7295464295_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/bf552ddf-b17d-48c4-88e2-dc7295464295_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:51</itunes:duration>
+      <pubDate>Mon, 27 Sep 2021 05:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sigurd Jorsalfare - Kongen som dro på tidenes backpackertur - i Guds navn (15:20)</title>
+      <description><![CDATA[Interrail, russetur, øyloffing, sydentur, cruise og kristning i en salig blanding for verdens første konge på korstog. 
+(År 1103-1130)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/a4207841-e308-4236-a282-6aeade601b6e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/a4207841-e308-4236-a282-6aeade601b6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:03</itunes:duration>
+      <pubDate>Mon, 04 Oct 2021 05:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Øystein Magnusson - Kongen som stelte hjemme (16:20)</title>
+      <description><![CDATA[Mens lillebror var på heisatur, tok storebror på seg flanellskjorta og bygde landet. Men hvordan gikk gjenforeningen? 
+(År 1103-1123)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/cca632f5-5c90-48da-8ea7-d89c8987c6df_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/cca632f5-5c90-48da-8ea7-d89c8987c6df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:44</itunes:duration>
+      <pubDate>Mon, 11 Oct 2021 05:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Magnus den blinde og Harald Gille - Kongen som mangla baller, og kongen som tok dem (17:20)</title>
+      <description><![CDATA[Det brygger opp til borgerkrig i Norge: 110 stygge år venter. Advarsel: Sterke scener.
+ (År 1130-1136)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/4ad27946-a1da-4638-8caf-4189036eecee_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/4ad27946-a1da-4638-8caf-4189036eecee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:46</itunes:duration>
+      <pubDate>Mon, 18 Oct 2021 05:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sigurd Munn, Inge Krokrygg og Øystein Haraldsson - Kongene som begynte tidlig (18:20)</title>
+      <description><![CDATA[Tre er en for mye. Minst! Og jævelskapen fortsetter 
+(År 1136-1161)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/1ba79240-1403-4854-8967-ac56f800808f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/1ba79240-1403-4854-8967-ac56f800808f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:58</itunes:duration>
+      <pubDate>Mon, 25 Oct 2021 05:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Håkon Herdebrei - Kongen som kun var en brikke i spillet (19:20)</title>
+      <description><![CDATA[Skuldre som en kar, men hodet til et barn. Som han jo faktisk var. 
+(År 1157-1162)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/d14c87a8-c1cb-4aef-aeeb-50b7225bd74f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/d14c87a8-c1cb-4aef-aeeb-50b7225bd74f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:24</itunes:duration>
+      <pubDate>Mon, 01 Nov 2021 05:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
