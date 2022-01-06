@@ -47,10 +47,14 @@ def get_podcast(podcast_id, season):
     if not episodes:
         return None
 
-    latest_episode = parser.parse(episodes[0]["date"])
-    print(f"  The latest episode found is from {latest_episode}")
+    new_episode = False
+    for episode in episodes:
+        episode_title = episode["titles"]["title"]
+        if parser.parse(episode["date"]) >= last_feed_update:
+            print(f"  Found new episode {episode_title} from", episode["date"])
+            new_episode = True
 
-    if latest_episode <= last_feed_update:
+    if not new_episode:
         print("  No new episodes found since feed was last updated")
         return None
 
