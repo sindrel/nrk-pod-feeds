@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Jan 2022 13:36:36 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jan 2022 14:15:00 +0100</pubDate>
+    <lastBuildDate>Mon, 10 Jan 2022 12:51:26 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Jan 2022 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Drivkraft med Birgitte Næss</title>
+      <description><![CDATA[Hundekjører Birgitte Næss lever med 40 huskyer i Nord-Torpa i Innlandet. Det er en lang vei fra oppveksten på Bækkelaget i Oslo med foreldre som jobbet i den norske Opera.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5bde630d-9019-46a1-863f-85a299b303d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5bde630d-9019-46a1-863f-85a299b303d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:36</itunes:duration>
+      <pubDate>Mon, 10 Jan 2022 13:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Ingrid Helene Håvik </title>
       <description><![CDATA[Vokalisten i Highasakite drives av å skaperlyst  og terper og terper på sitt eget følelsesliv når hun lager låter. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/fe1c30a2-7047-4ced-9bae-fe650e54e7e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:08</itunes:duration>
       <pubDate>Tue, 21 Dec 2021 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kristofer Hivju</title>
-      <description><![CDATA[Skuespilleren bruker nå dagene til  å oppfylle en gammel drøm. Han skriver musikk og skal  gi ut et album med bandet sitt The Garbage King. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/690ec484-0d8d-425f-8b53-d349f98822a3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/690ec484-0d8d-425f-8b53-d349f98822a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:32</itunes:duration>
-      <pubDate>Wed, 15 Dec 2021 15:20:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
