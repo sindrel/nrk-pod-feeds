@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 10 Jan 2022 04:44:19 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Jan 2022 05:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 11 Jan 2022 04:43:16 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jan 2022 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Hvor ofte er det lurt å bytte jobb?</title>
+      <description><![CDATA[Stemmer det at du må skifte jobb ofte hvis du skal opp og fram i arbeidslivet?
+
+Av: Lise Borchgrevink]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0239b74b-c3d8-44f3-ac51-8e7ff39d88f2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0239b74b-c3d8-44f3-ac51-8e7ff39d88f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:55</itunes:duration>
+      <pubDate>Tue, 11 Jan 2022 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Ny lov gjør vanskelig språk forbudt!</title>
       <description><![CDATA[Ny lov fra 1. januar 2022 sier at det offentlige må bruke språk folk forstår. Men hvordan gjør man vanskelig språk enkelt?
@@ -101,16 +111,6 @@ Av: Sjur Sætre]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e6c973ab-cff5-4ba8-8480-f1da373b736b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:07</itunes:duration>
       <pubDate>Wed, 22 Dec 2021 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hvorfor blir vi rørt?</title>
-      <description><![CDATA[Idrettsprestasjoner, barn, vakker natur. Vi mennesker kan bli rørt av mange ting. Psykolog Peder Kjøs forklarer hvorfor. 
-
-Av: Ellen Wesche Guttormsen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ebb04c50-e20c-46e9-8a75-55c7a69e83bd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ebb04c50-e20c-46e9-8a75-55c7a69e83bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:23</itunes:duration>
-      <pubDate>Tue, 21 Dec 2021 04:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
