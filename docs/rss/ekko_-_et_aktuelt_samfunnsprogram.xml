@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Jan 2022 04:43:50 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Jan 2022 05:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 13 Jan 2022 04:44:04 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Jan 2022 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Spørretimen: Nyttårsforsetter</title>
+      <description><![CDATA[Sliter du allerede med å holde nyttårsforsettene dine? Et ekspertpanel gir deg tips til hvordan du kan lykkes! 
+
+Programleder: Lena Gundersby Gravdal]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/16f4ea1e-cf49-47cf-85ec-a5fb81c67f22_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/16f4ea1e-cf49-47cf-85ec-a5fb81c67f22_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:54</itunes:duration>
+      <pubDate>Thu, 13 Jan 2022 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Vender mammuten tilbake?</title>
       <description><![CDATA[Flere fossilfunn av mammuter gir forskerne mer å jobbe med. Samtidig utvikler bioteknologien seg i rasende fart. Kan mammuten gjenskapes?
@@ -101,16 +111,6 @@ Av: Dang Trinh]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e43c8afb-0308-4ec7-96cd-62387983e6cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:24</itunes:duration>
       <pubDate>Mon, 27 Dec 2021 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Spørretimen: Forventninger</title>
-      <description><![CDATA[Har du for store forventninger til jula, eller prøver du å ikke ha forventninger i det hele tatt, for å slippe å bli skuffa? Et ekspertpanel svarer på spørsmål om forventninger og forventningsstrategier.
-
-Programleder: Rikke Eckhoff]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1c6453a2-8050-498f-aa04-076440c86d3a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1c6453a2-8050-498f-aa04-076440c86d3a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:55</itunes:duration>
-      <pubDate>Thu, 23 Dec 2021 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
