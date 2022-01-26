@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 25 Jan 2022 04:39:28 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Jan 2022 05:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 04:38:40 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Jan 2022 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>FORSTÅ. Når fungerer boikott?</title>
+      <description><![CDATA[Med vinter-OL i Beijing følger krav om boikott, men hva sier forskningen om hvor godt et slikt virkemiddel fungerer? Idrettsprofessor Sigmund Loland forklarer. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0c8739ef-5244-466c-b8df-885d84f14f8d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0c8739ef-5244-466c-b8df-885d84f14f8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:02</itunes:duration>
+      <pubDate>Wed, 26 Jan 2022 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvor avhengig blir du av legemidler med opioider?</title>
       <description><![CDATA[Ved UiO får forsøkspersoner skudd med morfin i armen. Forskerne vet nemlig overraskende lite om hva opioider gjør med oss.
@@ -100,16 +108,6 @@ Av: Lise Borchgrevink]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0239b74b-c3d8-44f3-ac51-8e7ff39d88f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:55</itunes:duration>
       <pubDate>Tue, 11 Jan 2022 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ny lov gjør vanskelig språk forbudt!</title>
-      <description><![CDATA[Ny lov fra 1. januar 2022 sier at det offentlige må bruke språk folk forstår. Men hvordan gjør man vanskelig språk enkelt?
-
-Av: Dang Trinh]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e0c595d4-5e08-4871-bd37-7753cab7a3b3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e0c595d4-5e08-4871-bd37-7753cab7a3b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:28</itunes:duration>
-      <pubDate>Mon, 10 Jan 2022 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
