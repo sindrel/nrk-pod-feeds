@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 25 Jan 2022 13:29:47 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Jan 2022 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 12:44:54 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Jan 2022 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Ingvild Rishøi</title>
+      <description><![CDATA[En av landets mest kritikerroste og bejublede forfattere, som treffer deg rett i hjertet med det hun skriver. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a1582131-5909-4ccb-90fd-3419b292eef8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a1582131-5909-4ccb-90fd-3419b292eef8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Cathrine Thorleifsson</title>
       <description><![CDATA[Hun er antropolog og forsker på høyreekstreme miljøer ved Senter for ekstremismeforskning på Universitet i Oslo. Der studerer hun ytre høyre, radikalisering og nasjonalisme, og hun bidrar ofte med ekspertanalyser i mediene om høyreekstremt tankegods. Selv sier hun at det er nysgjerrigheten for andre mennesker som driver henne.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/5bde630d-9019-46a1-863f-85a299b303d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:36</itunes:duration>
       <pubDate>Mon, 10 Jan 2022 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ingrid Helene Håvik </title>
-      <description><![CDATA[Vokalisten i Highasakite drives av å skaperlyst  og terper og terper på sitt eget følelsesliv når hun lager låter. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1527f3b8-3f54-4a72-b7ad-de2a3f342aa9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1527f3b8-3f54-4a72-b7ad-de2a3f342aa9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:11</itunes:duration>
-      <pubDate>Thu, 06 Jan 2022 14:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
