@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 26 Jan 2022 12:44:54 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Jan 2022 13:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 12:47:36 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Jan 2022 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Anne-Kat. Hærland</title>
+      <description><![CDATA[Hun er en av våre mest folkekjære og anerkjente komikere og programledere. Gjennombruddet kom med programmet Direkte Lykke i 1996, men det var som paneldeltager i Nytt på nytt Anne-Kat. ble folkeeie. Hun har vunnet en rekke priser for sine sceneshow, og hun har skrevet en håndfull bøker om mat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ce669861-117e-412d-a4b0-dc24f42180b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ce669861-117e-412d-a4b0-dc24f42180b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Thu, 27 Jan 2022 13:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Ingvild Rishøi</title>
       <description><![CDATA[En av landets mest kritikerroste og bejublede forfattere, som treffer deg rett i hjertet med det hun skriver. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/1ddf099e-aa86-4f71-98ae-15f3c521721e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:31</itunes:duration>
       <pubDate>Wed, 12 Jan 2022 13:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title> Birgitte Næss</title>
-      <description><![CDATA[Hun lever med 40 huskyer i Nord-Torpa i Innlandet. Det er en lang vei fra oppveksten på Bækkelaget i Oslo med foreldre som jobbet i den norske Opera.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5bde630d-9019-46a1-863f-85a299b303d3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5bde630d-9019-46a1-863f-85a299b303d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:36</itunes:duration>
-      <pubDate>Mon, 10 Jan 2022 13:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
