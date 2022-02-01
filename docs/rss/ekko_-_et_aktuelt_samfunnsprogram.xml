@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 31 Jan 2022 04:39:15 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Jan 2022 05:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 01 Feb 2022 04:38:36 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Feb 2022 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Hvorfor har jenter som gamer det dårlig?</title>
+      <description><![CDATA[En ny forskningsrapport viser at jenter som spiller data sliter mer sosialt, har dårligere psykisk helse og blir mer mobba enn gutter som spiller. Hvorfor er det slik?
+
+Av: Tora Øgrim]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/38583a0a-18f8-4b58-8afe-feb420a0fbbb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/38583a0a-18f8-4b58-8afe-feb420a0fbbb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:32</itunes:duration>
+      <pubDate>Tue, 01 Feb 2022 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Når blir en meteor katastrofal?</title>
       <description><![CDATA[Søndag dukket det på ny opp en uventet meteor over Norge. Hvor store må de egentlig være før de gjør ordentlig skade?
@@ -99,16 +109,6 @@ Programleder: Lena Gundersby Gravdal]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/16f4ea1e-cf49-47cf-85ec-a5fb81c67f22_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:54</itunes:duration>
       <pubDate>Thu, 13 Jan 2022 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vender mammuten tilbake?</title>
-      <description><![CDATA[Flere fossilfunn av mammuter gir forskerne mer å jobbe med. Samtidig utvikler bioteknologien seg i rasende fart. Kan mammuten gjenskapes?
-
-Av: Vibeke Røiri]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ed491a27-4278-4dd1-89fe-e97ec7d6a87b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ed491a27-4278-4dd1-89fe-e97ec7d6a87b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Wed, 12 Jan 2022 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
