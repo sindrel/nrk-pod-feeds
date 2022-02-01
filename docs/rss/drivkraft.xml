@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 31 Jan 2022 12:45:15 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Jan 2022 13:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 01 Feb 2022 13:29:33 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Feb 2022 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Sebastian Zalo</title>
+      <description><![CDATA[Musikeren fra Horten begynte med rus i 12 års-alderen. Nå har han skjønt at han må ta vare på seg selv, og ha det bra, for å lage god musikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/2f010df8-a07f-4ecf-8ec8-3cb1272b7f2d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/2f010df8-a07f-4ecf-8ec8-3cb1272b7f2d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:07</itunes:duration>
+      <pubDate>Tue, 01 Feb 2022 10:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Julie Winge</title>
       <description><![CDATA[Hun er skuespiller, forfatter og rusbehandler. For åtte år siden la hun seg inn på Trasoppklinikken etter ha vært ha vært alkoholiker i 30 år. Senere ga hun ut boka «Fyllik». Der skriver hun uredd og ærlig om sitt lidenskapelige og turbulente forhold til alkoholen. Nå hjelper hun andre avhengige gjennom online-prosjektet «Tilbake til Livet».]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/dd8ca6a1-cad3-4cf5-93ef-3f19eed0dbb3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Mon, 17 Jan 2022 13:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Niels Torp</title>
-      <description><![CDATA[Han er en av landets fremste arkitekter og står bak prosjekter som Oslo Lufthavn Gardemoen, Aker Brygge , Tjuvholmen og Vikingskipet på Hamar. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/03eb4d29-98ab-4441-bf47-6016f5d5d33b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/03eb4d29-98ab-4441-bf47-6016f5d5d33b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:37</itunes:duration>
-      <pubDate>Thu, 13 Jan 2022 14:20:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
