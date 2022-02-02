@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 01 Feb 2022 13:29:33 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Feb 2022 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 02 Feb 2022 15:31:23 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Feb 2022 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Henriette Steenstrup</title>
+      <description><![CDATA[Hun er skuespiller, manusforfatter, programleder og komiker, har vært på skjermen siden hun var liten og hatt en rekke fremtredende roller i filmer, show og TV-serier. Men det er med den kritikerroste serien Pørni hun har fått sitt store gjennombrudd som serieskaper.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1c48f8aa-12fe-4b49-b08b-cd8730e98618_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1c48f8aa-12fe-4b49-b08b-cd8730e98618_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:47</itunes:duration>
+      <pubDate>Wed, 02 Feb 2022 14:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Sebastian Zalo</title>
       <description><![CDATA[Musikeren fra Horten begynte med rus i 12 års-alderen. Nå har han skjønt at han må ta vare på seg selv, og ha det bra, for å lage god musikk.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/06b8677d-63e0-4c36-9fe3-49c77140a9aa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:48</itunes:duration>
       <pubDate>Tue, 18 Jan 2022 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Marit Strømøy</title>
-      <description><![CDATA[Hun er verdens eneste kvinne som konkurrerer i båtsportens Formel 1. Mot lag som Abu Dhabi, Kina og Quatar, kjemper hennes selveide “Team Strømøy” fra Sandefjord om å bli nummer én i årets VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/dd8ca6a1-cad3-4cf5-93ef-3f19eed0dbb3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/dd8ca6a1-cad3-4cf5-93ef-3f19eed0dbb3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Mon, 17 Jan 2022 13:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
