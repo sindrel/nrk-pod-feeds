@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 30 Jan 2022 05:25:41 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Jan 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 06 Feb 2022 05:25:43 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Feb 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pKt2heDSM3gDdo4y3mXDGQ-eh2uz1dFuMS4z_3tyIWSw.png"/>
+    <item>
+      <title>Kristian Kristensen, ammepute og palak paneer</title>
+      <description><![CDATA[Musiker Kristian Kristensen har med seg et instrument formet som en sædcelle når han gjester brunsj hos søstrene Kåss Furuseth. Der snakker han også om kjærligheten, den indiske gryten palak paneer, og om alt der imellom. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/287d424c-d1df-481d-889f-ac969d7ec561_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/287d424c-d1df-481d-889f-ac969d7ec561_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:58</itunes:duration>
+      <pubDate>Sun, 06 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>MYRA, rød parykk og fransk garçon</title>
       <description><![CDATA[Rapper MYRA snakker om fransk nakenhet, bergensk sensualitet og søndagsk velvære når hun gjester brunsj hos Else og Cecilie. ]]></description>
@@ -83,15 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/ba557bf5-99bf-433b-9b5b-d034bb7a9f50_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:27</itunes:duration>
       <pubDate>Sun, 28 Nov 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Eyvind Hellstrøm, leskedrikk og La Chaise </title>
-      <description><![CDATA[Mesterkokk Eyvind Hellstrøm byr både på oppskrifter og visdomsord når han gjester søndagsbrunsj hos The Kåss Furuseths. Hør hvorfor han ble kalt “vaniljestangen” da han var liten, og hvordan han brakk hånda under en opphetet diskusjon.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/756e40f0-45b2-4f34-990f-081d3ab24199_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/756e40f0-45b2-4f34-990f-081d3ab24199_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:30</itunes:duration>
-      <pubDate>Sun, 21 Nov 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
