@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 07 Feb 2022 12:45:52 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Feb 2022 13:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 08 Feb 2022 12:44:37 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Feb 2022 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Metteson/Sverre Breivik</title>
+      <description><![CDATA["Jeg bestemte meg tidlig for å bli lykkelig" sier musikeren, som er i gang med året mange har spådd skal bli hans store gjennombrudd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c931ded2-4de8-4dbf-abf7-156477b779ed_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c931ded2-4de8-4dbf-abf7-156477b779ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:39</itunes:duration>
+      <pubDate>Tue, 08 Feb 2022 10:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Arne Hjeltnes </title>
       <description><![CDATA[Han mener det er utrolig viktig å ha det moro på jobb. Nå er programlederen, forfatteren og gründeren i gang med et nytt tv-program som skal vises i USA. People of the North.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/128db616-917b-4bd5-8b53-2f46ff9ddb34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:40</itunes:duration>
       <pubDate>Thu, 20 Jan 2022 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Wenche Andersen</title>
-      <description><![CDATA[I snart 28 år har hun gledet folk gjennom matlaging i God Morgen Norge på TV2. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/9b48d265-2de5-4882-a7f1-662feb494def_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/9b48d265-2de5-4882-a7f1-662feb494def_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:27</itunes:duration>
-      <pubDate>Wed, 19 Jan 2022 13:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
