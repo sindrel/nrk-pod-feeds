@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 08 Feb 2022 04:37:51 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Feb 2022 05:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Feb 2022 04:38:30 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Feb 2022 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw9Xc-DQffGzroGqZ_Vk0VoQ.png"/>
+    <item>
+      <title>Vær nøye med valg av sjef!</title>
+      <description><![CDATA[Hvor skadelig kan en kjip sjef være og hvordan skal du klare å velge dem bort?
+
+Av: Rikke Eckhoff
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c9f9ac3a-b02c-4590-aba9-f63a365ec834_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c9f9ac3a-b02c-4590-aba9-f63a365ec834_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:28</itunes:duration>
+      <pubDate>Wed, 09 Feb 2022 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Bør vi dele mer av boligen med andre?</title>
       <description><![CDATA[Store utbyggere eksperimenterer med nye former for bofelleskap. Er nordmenn klare for å bo mer kollektivt i framtiden?
@@ -99,16 +110,6 @@ Av: Vibeke Røiri]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b0d78a6d-ce41-4962-8afe-9dcc00be5e90_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>17:37</itunes:duration>
       <pubDate>Mon, 24 Jan 2022 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Spørretimen: Jobb</title>
-      <description><![CDATA[Koronabobla gjør at mange setter spørsmålstegn ved hvordan de jobber, eller om de bør bli værende i den jobben de har. Uansett: la to glade karriereveiledere hjelpe deg! 
-
-Programleder: Jan Erlend Leine]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8a1fc17a-6f85-4056-a66d-795b5efcf1f3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8a1fc17a-6f85-4056-a66d-795b5efcf1f3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:27</itunes:duration>
-      <pubDate>Thu, 20 Jan 2022 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
