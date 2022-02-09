@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 02 Feb 2022 05:26:31 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Feb 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Feb 2022 05:26:32 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Feb 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"/>
+    <item>
+      <title>Bymann og stril</title>
+      <description><![CDATA[Bygdefolket har tradisjonelt blitt sett ned på i Bergen. Korleis gjekk «stril» frå å vere eit skjellsord til ei merkevare?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nokke_for_seg_sjoel/4b3b9c66-03e4-4673-82f5-3dec0b3bff56_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/4b3b9c66-03e4-4673-82f5-3dec0b3bff56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:14</itunes:duration>
+      <pubDate>Wed, 09 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Den bergenske ironi</title>
       <description><![CDATA[Bergensarar har sjølvironi. Men det kan ikkje vere så lett å forstå for verda rundt.]]></description>
@@ -84,15 +92,6 @@ Med lydklipp frå dokumentaren "Blant søyler og patrioter" av Lene Midling-Jens
       <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/441a5e9b-90e6-4e22-8cd7-c8b531b370f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:19</itunes:duration>
       <pubDate>Wed, 08 Dec 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Smakebit: Nokke for seg sjøl</title>
-      <description><![CDATA[Bergensarane er kjent for å vere særeigne – og dei elskar å dyrke bildet av seg som annleis. Men kvifor er dei slik? Det skal programleiar Elise Farestveit og historieprofessor Morten Hammerborg på Høgskulen på Vestlandet prøve å svare på. 
-Premiere: 8. desember]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nokke_for_seg_sjoel/2682fb49-665f-44f0-a794-e3673ec9bb20_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/2682fb49-665f-44f0-a794-e3673ec9bb20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:12</itunes:duration>
-      <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
