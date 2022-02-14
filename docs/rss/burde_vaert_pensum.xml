@@ -7,17 +7,26 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 07 Feb 2022 05:26:01 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Feb 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Feb 2022 05:26:56 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Feb 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwcWfR1jsD0nzRmmYVnqpdIA.png"/>
+    <item>
+      <title>Design ditt eget liv</title>
+      <description><![CDATA[Trenger du endring i livet ditt? Produktdesigner Nima Shahinian forteller hvordan du kan gjøre smarte grep ved hjelp av god design. 
+Medvirkende: Christian Bjorstad.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7b2443fa-89b3-4182-8279-8cc497a3ed11_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7b2443fa-89b3-4182-8279-8cc497a3ed11_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:12</itunes:duration>
+      <pubDate>Mon, 14 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Sannheten om vektløshet</title>
       <description><![CDATA[Er ikke astronautene på romstasjonen vektløse likevel? Fysiker og programleder Andreas Wahl mener du har misforstått.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/5b07732c-2038-4066-b6a2-d2a50d6a783f_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/5b07732c-2038-4066-b6a2-d2a50d6a783f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:08</itunes:duration>
-      <pubDate>Mon, 07 Feb 2022 06:00:00 +0100</pubDate>
+      <pubDate>Mon, 07 Feb 2022 06:01:00 +0100</pubDate>
     </item>
     <item>
       <title>Straffesak på 1-2-3</title>
@@ -90,17 +99,6 @@ Medvirkende: Helene Solberg og Fredrik Svartdal Færevaag.
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/a9e27977-8da4-4ad0-a458-0eb00d42bb3e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:14</itunes:duration>
       <pubDate>Mon, 25 Oct 2021 06:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Når mørket forsvinner</title>
-      <description><![CDATA[Nattemørket er i ferd med å forsvinne rundt oss. Hva betyr det for dyr og mennesker? 
-Fysiker Andreas Wahl opplyser deg om det livsviktige mørket. 
-Medvirkende: Sigri Sandberg.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/e2e08ba1-462a-4775-902c-dbf0cb0a9699_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/e2e08ba1-462a-4775-902c-dbf0cb0a9699_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:39</itunes:duration>
-      <pubDate>Mon, 25 Oct 2021 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
