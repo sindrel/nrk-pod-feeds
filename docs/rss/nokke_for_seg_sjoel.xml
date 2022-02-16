@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 09 Feb 2022 05:26:32 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Feb 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Feb 2022 05:26:38 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Feb 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"/>
+    <item>
+      <title>Bergen i raudt, kvitt og blått</title>
+      <description><![CDATA[17. mai er Noregs nasjonaldag. «Den søttendes», derimot, er ei feiring av det bergenske.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nokke_for_seg_sjoel/0c45254a-4d29-4c6f-b7f0-851c61665f40_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/0c45254a-4d29-4c6f-b7f0-851c61665f40_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:58</itunes:duration>
+      <pubDate>Wed, 16 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Bymann og stril</title>
       <description><![CDATA[Bygdefolket har tradisjonelt blitt sett ned på i Bergen. Korleis gjekk «stril» frå å vere eit skjellsord til ei merkevare?]]></description>
@@ -84,14 +93,6 @@ Med lydklipp frå dokumentaren "Blant søyler og patrioter" av Lene Midling-Jens
       <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/c4c72986-fa5a-4daa-88bb-f6d4a6e1f7d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:13</itunes:duration>
       <pubDate>Wed, 15 Dec 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Du køddar ikkje med Jernbanestasjonen</title>
-      <description><![CDATA[Eit nytt skilt gjer bergensarane forbanna. Ingen seier jo «Bergen stasjon»! I Oslo sit dei ansvarlege og lurer på kva dei har stelt i stand. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nokke_for_seg_sjoel/441a5e9b-90e6-4e22-8cd7-c8b531b370f9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/441a5e9b-90e6-4e22-8cd7-c8b531b370f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:19</itunes:duration>
-      <pubDate>Wed, 08 Dec 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
