@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Feb 2022 04:38:03 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Feb 2022 05:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Feb 2022 04:38:46 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Feb 2022 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Hva kan jeg høste, jakte og fange i byen?</title>
+      <description><![CDATA[Byen er full av spiselige vekster og dyr, men hva er det egentlig greit å forsyne seg av?
+
+Av: Hanna Randgaard Mikalsen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cde16b79-1719-4a37-8335-4d04565f83ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cde16b79-1719-4a37-8335-4d04565f83ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:51</itunes:duration>
+      <pubDate>Wed, 16 Feb 2022 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hva gjør Norge når krigen truer?</title>
       <description><![CDATA[Trusselbildet på grensen mellom Russland og Ukraina endrer seg stadig. Hvordan må Nato-medlemmet Norge planlegge nå?
@@ -101,15 +111,6 @@ Av: Vibeke Røiri]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/092add05-0373-4be9-a9a7-b05d67875390_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:48</itunes:duration>
       <pubDate>Mon, 31 Jan 2022 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Når fungerer boikott?</title>
-      <description><![CDATA[Med vinter-OL i Beijing følger krav om boikott. Idrettsprofessor Sigmund Loland forklarer hva forskningen sier om hvor godt et slikt virkemiddel fungerer.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0c8739ef-5244-466c-b8df-885d84f14f8d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0c8739ef-5244-466c-b8df-885d84f14f8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:02</itunes:duration>
-      <pubDate>Wed, 26 Jan 2022 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
