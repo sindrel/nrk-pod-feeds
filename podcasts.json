@@ -36,6 +36,12 @@
         "enabled": true
     },
     {
+        "id": "karakter",
+        "title": "De 10 siste fra Dynga",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "ekko_-_et_aktuelt_samfunnsprogram",
         "title": "De 10 siste fra Ekko - samfunnspodden",
         "season": null,
@@ -74,12 +80,6 @@
     {
         "id": "historiske_kjendiser",
         "title": "De 10 siste fra Historiske kjendiser",
-        "season": null,
-        "enabled": true
-    },
-    {
-        "id": "karakter",
-        "title": "De 10 siste fra Dynga",
         "season": null,
         "enabled": true
     },

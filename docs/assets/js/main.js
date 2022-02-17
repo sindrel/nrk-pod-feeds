@@ -17,7 +17,7 @@ function listFeeds() {
         }
 
         feed_url = base_url + feed["id"] + ".xml";
-        item = `<h3>${feed["title"]}<br/><input type="text" size="80" value="${feed_url}" id="feed_url_${feed["id"]}"><button onclick="copyToClipboard('${feed["id"]}')">Copy</button><h3>`;
+        item = `<h3>${feed["title"]}<br/><input type="text" size="50" value="${feed_url}" id="feed_url_${feed["id"]}"><button onclick="copyToClipboard('${feed["id"]}')">Copy</button><h3>`;
         
         document.getElementById("feeds_list").innerHTML += item;
     });
