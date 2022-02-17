@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Feb 2022 04:38:46 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Feb 2022 05:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 17 Feb 2022 04:39:00 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Feb 2022 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Spørretimen: Barneoppdragelse</title>
+      <description><![CDATA[Ungene er ute av styring! Barneoppdragelse er vanskelig. Vårt kompetente panel sitter klar til å svare på lytternes spørsmål.
+
+Programleder: Jan Erlend Leine]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d811e359-2ac5-43e5-9c1c-9be9ec4bee91_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d811e359-2ac5-43e5-9c1c-9be9ec4bee91_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:30</itunes:duration>
+      <pubDate>Thu, 17 Feb 2022 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hva kan jeg høste, jakte og fange i byen?</title>
       <description><![CDATA[Byen er full av spiselige vekster og dyr, men hva er det egentlig greit å forsyne seg av?
@@ -18,7 +28,7 @@
 Av: Hanna Randgaard Mikalsen]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cde16b79-1719-4a37-8335-4d04565f83ec_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cde16b79-1719-4a37-8335-4d04565f83ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:51</itunes:duration>
+      <itunes:duration>17:00</itunes:duration>
       <pubDate>Wed, 16 Feb 2022 05:00:00 +0100</pubDate>
     </item>
     <item>
@@ -101,16 +111,6 @@ Av: Tora Øgrim]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/38583a0a-18f8-4b58-8afe-feb420a0fbbb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:32</itunes:duration>
       <pubDate>Tue, 01 Feb 2022 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Når blir en meteor katastrofal?</title>
-      <description><![CDATA[Søndag dukket det på ny opp en uventet meteor over Norge. Hvor store må de egentlig være før de gjør ordentlig skade?
-
-Av: Vibeke Røiri]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/092add05-0373-4be9-a9a7-b05d67875390_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/092add05-0373-4be9-a9a7-b05d67875390_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:48</itunes:duration>
-      <pubDate>Mon, 31 Jan 2022 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
