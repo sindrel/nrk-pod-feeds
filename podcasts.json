@@ -1,5 +1,17 @@
 [
     {
+        "id": "abels_taarn",
+        "title": "De 10 siste fra Abels Tårn",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "are_og_odin",
+        "title": "De 10 siste fra Are og Odin",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "baksnakk",
         "title": "De 10 siste fra Baksnakk",
         "season": null,
@@ -67,7 +79,7 @@
     },
     {
         "id": "karakter",
-        "title": "De 10 siste fra Karakter",
+        "title": "De 10 siste fra Dynga",
         "season": null,
         "enabled": true
     },
@@ -105,6 +117,12 @@
         "id": "radiodokumentaren",
         "title": "De 10 siste fra Radiodok",
         "season": "LATEST_SEASON",
+        "enabled": true
+    },
+    {
+        "id": "skitprat",
+        "title": "De 10 siste fra Skitprat med Jens og Isak",
+        "season": null,
         "enabled": true
     },
     {
