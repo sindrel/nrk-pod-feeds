@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 10 siste fra Skitprat med Jens og Isak</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Skitprat med Jens og Isak. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/skitprat for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 17 Feb 2022 07:32:45 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Feb 2022 06:02:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Hårklipp, hundeløp og hockey</title>
+      <description><![CDATA[Jens trenger en hårklipp og Isak drar fram kniven. Gutta forteller om Femundløpet og om den vakreste plassen å stå i hockey og tømme ryggen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/62b63169-f8b5-4d3b-a23a-52077049e90b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/62b63169-f8b5-4d3b-a23a-52077049e90b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <pubDate>Fri, 11 Feb 2022 06:02:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Revejakt, kallenavn og dritutfordring </title>
+      <description><![CDATA[Jens og Isak elsker revejakt, men ikke alle liker at de deler bilder fra jakta. Isak forteller drøy historie om en hund på biltur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/d1cd107c-174b-4fd0-8ae7-caad3e7bcd26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/d1cd107c-174b-4fd0-8ae7-caad3e7bcd26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:00</itunes:duration>
+      <pubDate>Fri, 11 Feb 2022 06:01:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hundeliv, interiørtips og drømmedame </title>
+      <description><![CDATA[Jens har fått en ny valp, og forteller om da han ble anmeldt. Isak deler interiørtips, og svarer på hvilke egenskaper en kjæreste må ha. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/c58d9cd4-63b7-409b-abd4-812ba295c17c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/c58d9cd4-63b7-409b-abd4-812ba295c17c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:20</itunes:duration>
+      <pubDate>Fri, 11 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kommer 11. februar: Skitprat med Jens og Isak</title>
+      <description><![CDATA[Hør en smakebit fra den kommende podkasten med Jens Kvernmo og Isak Dreyer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/4b3462e6-03de-40ff-a8ae-23ff11703940_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/4b3462e6-03de-40ff-a8ae-23ff11703940_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:47</itunes:duration>
+      <pubDate>Fri, 04 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
