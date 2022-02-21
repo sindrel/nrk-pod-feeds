@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Feb 2022 05:26:56 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Feb 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 21 Feb 2022 05:27:09 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Feb 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwcWfR1jsD0nzRmmYVnqpdIA.png"/>
+    <item>
+      <title>Universet og oss</title>
+      <description><![CDATA[Hva er vår plass i universet? Astrofysiker Maria Hammerstrøm tar deg med på en historisk reise ut i mørket mellom stjernene for å finne svar. 
+Medvirkende: Dag Øistein Endsjø og Kaja Melsom]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/9d943847-c8d6-491e-921b-e1029f4504d2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/9d943847-c8d6-491e-921b-e1029f4504d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:39</itunes:duration>
+      <pubDate>Mon, 21 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Design ditt eget liv</title>
       <description><![CDATA[Trenger du endring i livet ditt? Produktdesigner Nima Shahinian forteller hvordan du kan gjøre smarte grep ved hjelp av god design. 
@@ -41,7 +50,7 @@ Medvirkende: Christian Bjorstad.]]></description>
       <description><![CDATA[Innover- eller utover-tiss og andre forviklinger. Fysiker og nysgjerrigper Selda Ekiz rydder opp i hvordan kjønn påvirker livet ditt. Medvirkende: Sunniva Glenster, Anne Wæhre og Ellen Irene Klepaker. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/df965729-1e22-4a79-9796-6ad7a9ebe6b4_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/df965729-1e22-4a79-9796-6ad7a9ebe6b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:51</itunes:duration>
+      <itunes:duration>33:10</itunes:duration>
       <pubDate>Mon, 06 Dec 2021 06:00:00 +0100</pubDate>
     </item>
     <item>
@@ -88,17 +97,6 @@ Medvirkende: Thomas Hegghammer, Gunnar Ekeløve-Slydal og Nariman Hame]]></descr
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/211ea446-8830-4d2b-b8e5-4ad2bad5b19d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:04</itunes:duration>
       <pubDate>Mon, 01 Nov 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Boligmarkedet for nybegynnere</title>
-      <description><![CDATA[Bolig er det viktigste og dyreste du kjøper i livet ditt. 
-Økonomikommentator i NRK Cecilie Langum Becker hjelper deg til å oppnå boligdrømmen din.
-Medvirkende: Helene Solberg og Fredrik Svartdal Færevaag.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/a9e27977-8da4-4ad0-a458-0eb00d42bb3e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/a9e27977-8da4-4ad0-a458-0eb00d42bb3e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:14</itunes:duration>
-      <pubDate>Mon, 25 Oct 2021 06:01:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
