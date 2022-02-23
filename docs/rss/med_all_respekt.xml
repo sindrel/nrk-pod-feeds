@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 22 Feb 2022 13:30:50 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Feb 2022 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Feb 2022 16:47:20 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Feb 2022 17:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
+    <item>
+      <title>Stjernene snakker til oss! </title>
+      <description><![CDATA[*Anders kommer hjem fra utlandet med ny konspirasjonsteori!
+*Abudamus lager helt unike horoskop! 
+*Pitch: Barnas Supergøyfabrikk-hage!
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/c9794e7e-2615-4668-8cc3-a453cedda3e8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/c9794e7e-2615-4668-8cc3-a453cedda3e8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:28</itunes:duration>
+      <pubDate>Wed, 23 Feb 2022 17:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Horoskop, flau oppførsel og dørvakt-tips!</title>
       <description><![CDATA[*Gutta og stjernetegn
@@ -107,17 +118,6 @@ E-post: mar@nrk.ni]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4d176f5c-1aeb-40d6-9165-48687fbe4871_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>59:42</itunes:duration>
       <pubDate>Tue, 08 Feb 2022 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Sverigetur og en verpesjuk Galvan! </title>
-      <description><![CDATA[* Gold Digger og "Sugardaddy"
-* Galvan's frynsete psyke
-*Retrospalte: å leke mindre utlending enn man er! 
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/280cb69e-c8e1-4ce9-874a-66f5a5a648ed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/280cb69e-c8e1-4ce9-874a-66f5a5a648ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:36</itunes:duration>
-      <pubDate>Mon, 07 Feb 2022 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
