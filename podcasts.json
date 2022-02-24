@@ -57,7 +57,8 @@
         "id": "friminutt_med_herman_og_mikkel",
         "title": "De 10 siste fra Friminutt med Herman og Mikkel",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "hidden": true
     },
     {
         "id": "god_bedring",
@@ -121,7 +122,7 @@
     },
     {
         "id": "radioresepsjonen",
-        "title": "Radioresepsjonen",
+        "title": "De 1583 siste fra Radioresepsjonen",
         "season": null,
         "enabled": false,
         "episodes": 0
