@@ -6,7 +6,6 @@ from datetime import timedelta
 
 from common.helpers import init, get_last_feed, get_podcasts_config, write_feeds_file, get_version
 from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
-#from common.psapi_mock import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
 
 def get_podcast(podcast_id, season):
     existing_feed = get_last_feed(feeds_dir, podcast_id)
