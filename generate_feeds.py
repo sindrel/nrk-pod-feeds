@@ -44,7 +44,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         season = metadata["_embedded"]["seasons"][0]["id"]
 
     if ep_count == 0:
-        episodes = get_all_podcast_episodes(podcast_id, season)
+        episodes = get_all_podcast_episodes(podcast_id)
     else:
         episodes = get_podcast_episodes(podcast_id, season)
 
