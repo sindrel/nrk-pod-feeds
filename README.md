@@ -15,10 +15,10 @@ Feel free to open a pull request or create an issue.
 ### Install dependencies
 ```python3 -m pip install -r requirements.txt```
 
-### Build or update podcast feeds
-```python3 generate_feeds.py```
-
 ### Run tests
 ```pytest -v --disable-warnings --log-cli-level=DEBUG```
+
+### Build or update podcast feeds
+```python3 generate_feeds.py```
 
 </details>
