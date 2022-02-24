@@ -1,0 +1,1 @@
+const feeds = [{"id": "kongerekka", "title": "De 10 siste fra Kongerekka", "season": "LATEST_SEASON", "enabled": "true"}]

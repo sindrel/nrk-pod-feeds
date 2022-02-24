@@ -57,7 +57,8 @@
         "id": "friminutt_med_herman_og_mikkel",
         "title": "De 10 siste fra Friminutt med Herman og Mikkel",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "hidden": true
     },
     {
         "id": "god_bedring",
@@ -118,6 +119,13 @@
         "title": "De 10 siste fra Radiodok",
         "season": "LATEST_SEASON",
         "enabled": true
+    },
+    {
+        "id": "radioresepsjonen",
+        "title": "De 1583 siste fra Radioresepsjonen",
+        "season": null,
+        "enabled": false,
+        "episodes": 0
     },
     {
         "id": "skitprat",

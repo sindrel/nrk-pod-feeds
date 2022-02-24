@@ -18,11 +18,7 @@ Feel free to open a pull request or create an issue.
 ### Build or update podcast feeds
 ```python3 generate_feeds.py```
 
-## Using the mock API
-### Dump local test data for use by mock API
-```python3 fetch_test_data.py```
-
-### Toggle use of the mock API
-Comment/uncomment the import statement in `generate_feeds.py`.
+### Run tests
+```pytest -v --disable-warnings --log-cli-level=DEBUG```
 
 </details>
