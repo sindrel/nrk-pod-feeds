@@ -1,5 +1,11 @@
+import os
+import logging
 import json
 import xml.etree.ElementTree as ET
+
+def init():
+    log_level = os.environ.get("LOG_LEVEL", "INFO").upper()
+    logging.basicConfig(level=log_level)
 
 def get_last_feed(feeds_dir, podcast_id):
     try:
@@ -8,7 +14,7 @@ def get_last_feed(feeds_dir, podcast_id):
         root = tree.getroot()
         return root
     except:
-        print(f"No existing feed found for podcast {podcast_id}")
+        logging.info(f"No existing feed found for podcast {podcast_id}")
         return None
 
 def get_podcasts_config(podcasts_cfg_file):
@@ -22,7 +28,7 @@ def write_feeds_file(feeds_file, podcasts):
     f.write(f"const feeds = {str}")
     f.close()
     
-    print(f"Podcasts config written to file: {feeds_file}")
+    logging.info(f"Podcasts config written to file: {feeds_file}")
 
 def get_version():
     with open("version.txt") as file:

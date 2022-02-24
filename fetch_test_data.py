@@ -1,17 +1,22 @@
+import logging
 import os
 import sys
 import json
-from psapi import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
+
+from common.helpers import init
+from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
 
 podcasts = ["oppdatert", "verdiboersen"]
 assets_base_path = "assets/tests/api/podcast"
+
+init()
 
 def write_to_file(path, str):
     textfile = open(path, "w")
     textfile.write(str)
     textfile.close()
 
-print("Fetching test data...")
+logging.info("Fetching test data...")
 for podcast_id in podcasts:
     path = f"{assets_base_path}/{podcast_id}/episodes"
     os.makedirs(path)
@@ -41,4 +46,4 @@ for podcast_id in podcasts:
         path = f"{assets_base_path}/{podcast_id}/episodes/{episode_id}.json"
         write_to_file(path, manifest)
 
-print("Done")
+logging.info("Done")

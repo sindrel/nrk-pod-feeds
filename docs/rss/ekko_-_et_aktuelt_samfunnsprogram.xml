@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 23 Feb 2022 04:38:42 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Feb 2022 05:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 24 Feb 2022 04:38:58 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Feb 2022 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Spørretimen: Personlig økonomi</title>
+      <description><![CDATA[Hvilke grep bør du ta for å møte det økonomiske skiftet mange eksperter mener kommer nå?
+
+Programleder: Lena Gundersby Gravdal]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e352f783-5dc1-4c6d-8bc6-e317dbc69cf1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e352f783-5dc1-4c6d-8bc6-e317dbc69cf1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Thu, 24 Feb 2022 05:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvor mye prokrastinerer du?</title>
       <description><![CDATA[Mer enn halvparten av norske studenter prokrastinerer, eller utsetter, så mye at det blir et problem. Kan man gjøre noe med det?
@@ -18,7 +28,7 @@
 Av: Line Hødnebø]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2c21b448-1ad9-4ff0-88b5-cc7046bf91c2_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2c21b448-1ad9-4ff0-88b5-cc7046bf91c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:51</itunes:duration>
+      <itunes:duration>23:41</itunes:duration>
       <pubDate>Wed, 23 Feb 2022 05:00:00 +0100</pubDate>
     </item>
     <item>
@@ -101,16 +111,6 @@ Av: Hanna Randgaard Mikalsen]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/80aed711-5051-44e5-9b6c-593c7df2118d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:21</itunes:duration>
       <pubDate>Tue, 08 Feb 2022 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Slik forvrenger koronaen luktesansen din</title>
-      <description><![CDATA[77 prosent av dem som har hatt covid-19 mister luktesansen. Hvorfor skjer det, og hva kan du gjøre for å få den tilbake?
-
-Av: Dang Trinh]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cfebbacf-4072-4bc1-a32b-1d337b6b79c6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cfebbacf-4072-4bc1-a32b-1d337b6b79c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:07</itunes:duration>
-      <pubDate>Mon, 07 Feb 2022 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -25,4 +25,7 @@ Feel free to open a pull request or create an issue.
 ### Toggle use of the mock API
 Comment/uncomment the import statement in `generate_feeds.py`.
 
+### Run tests
+```pytest -v --disable-warnings --log-cli-level=DEBUG```
+
 </details>

@@ -1,10 +1,12 @@
+import logging
+
 from podgen import Podcast, Episode, Media
 from dateutil import parser
 from datetime import timedelta
 
-from helpers import get_last_feed,get_podcasts_config,write_feeds_file,get_version
-from psapi import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
-#from psapi_mock import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
+from common.helpers import init, get_last_feed, get_podcasts_config, write_feeds_file, get_version
+from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
+#from common.psapi_mock import get_podcast_metadata, get_episode_manifest, get_podcast_episodes
 
 def get_podcast(podcast_id, season):
     existing_feed = get_last_feed(feeds_dir, podcast_id)
@@ -14,7 +16,7 @@ def get_podcast(podcast_id, season):
         for channel in existing_feed.findall('channel'):
             last_build_date = channel.find('lastBuildDate').text
             last_feed_update = parser.parse(last_build_date)
-            print(f"Feed was last built {last_feed_update}")
+            logging.info(f"Feed was last built {last_feed_update}")
 
     metadata = get_podcast_metadata(podcast_id)
     if not metadata:
@@ -27,8 +29,8 @@ def get_podcast(podcast_id, season):
 
     subtitle = f"Uoffisiell feed med de siste 10 episodene fra podkasten {original_title}. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se {website} for mer informasjon."
 
-    print(f"  Title: {title}")
-    print(f"  Image: {image}")
+    logging.info(f"  Title: {title}")
+    logging.info(f"  Image: {image}")
 
     p = Podcast(
         generator=podgen_agent,
@@ -51,16 +53,16 @@ def get_podcast(podcast_id, season):
     for episode in episodes:
         episode_title = episode["titles"]["title"]
         if parser.parse(episode["date"]) >= last_feed_update:
-            print(f"  Found new episode {episode_title} from", episode["date"])
+            logging.info(f"  Found new episode {episode_title} from", episode["date"])
             new_episode = True
 
     if not new_episode:
-        print("  No new episodes found since feed was last updated")
+        logging.info("  No new episodes found since feed was last updated")
         return None
 
     ep_i = 0
     for episode in episodes:
-        print(f"Episode #{ep_i}:")
+        logging.info(f"Episode #{ep_i}:")
 
         episode_id = episode["episodeId"]
         episode_title = episode["titles"]["title"]
@@ -76,13 +78,13 @@ def get_podcast(podcast_id, season):
         audio_url = manifest["playable"]["assets"][0]["url"]
 
         if audio_mime != "audio/mp3":
-            print(f"Unrecognized audio MIME type ({audio_mime})")
+            logging.info(f"Unrecognized audio MIME type ({audio_mime})")
             continue
 
-        print(f"  Episode title: {episode_title}")
-        print(f"  Episode duration: {duration}")
-        print(f"  Episode date: {date}")
-        print(f"  Audio file URL: {audio_url}")
+        logging.info(f"  Episode title: {episode_title}")
+        logging.info(f"  Episode duration: {duration}")
+        logging.info(f"  Episode date: {date}")
+        logging.info(f"  Audio file URL: {audio_url}")
 
         p.episodes += [
             Episode(
@@ -104,6 +106,8 @@ feeds_file = "docs/feeds.js"
 web_url = "https://sindrel.github.io/nrk-pod-feeds"
 
 if __name__ == '__main__':
+    init()
+
     podcasts = get_podcasts_config(podcasts_cfg_file)
 
     for p in podcasts:
@@ -115,13 +119,13 @@ if __name__ == '__main__':
         podcast = get_podcast(podcast_id, podcast_season)
 
         if not podcast:
-            print(f"Got empty result when fetching podcast {podcast_id}")
+            logging.info(f"Got empty result when fetching podcast {podcast_id}")
             continue
 
         output_path = f"{feeds_dir}/{podcast_id}.xml"
         podcast.rss_file(output_path, minimize=False)
 
-        print(f"Podcast XML successfully written to file: {output_path}\n---")
+        logging.info(f"Podcast XML successfully written to file: {output_path}\n---")
 
     write_feeds_file(feeds_file, podcasts)
-    print("Done")
+    logging.info("Done")
