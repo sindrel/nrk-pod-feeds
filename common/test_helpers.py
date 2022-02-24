@@ -14,7 +14,8 @@ def test_write_feeds_file():
         "enabled": "true"
     }]
 
-    os.remove(feeds_file)
+    if os.path.exists(feeds_file):
+        os.remove(feeds_file)
     write_feeds_file(feeds_file, podcasts)
     saved = open(feeds_file, "r")
     str = saved.read()
