@@ -13,8 +13,6 @@ def get_all_podcast_episodes(podcast_id):
 
     episodes = []
     while True:
-        logging.debug(f"URL: {url}")
-
         r = requests.get(url)
         if not r.ok:
             logging.info(f"Unable to fetch podcast episodes ({url} returned {r.status_code})")
@@ -38,7 +36,6 @@ def get_podcast_episodes(podcast_id, season = None, format = "json"):
         url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/seasons/{season}?page=1&pageSize=10&sort=desc"
 
     r = requests.get(url)
-
     if not r.ok:
         logging.info(f"Unable to fetch podcast episodes ({url} returned {r.status_code})")
         return None
