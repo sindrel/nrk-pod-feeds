@@ -6,11 +6,22 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten XL – podkasten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/xl_podkasten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 18 Feb 2022 05:26:39 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Feb 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 25 Feb 2022 05:27:17 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Feb 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nqIRlhtxyF35TlALDzD0ggObot8931ArkY8dqAP2ctew"/>
+    <item>
+      <title>Ømme foodora-bud, baklengs på do og kabelen til Clooney</title>
+      <description><![CDATA[Består Øde Nerdrum folkelighetstesten?
+Hvem tror du at du er, Mina Hadjian?
+Kan psykiater Trude Fixdal hjelpe oss?
+Huspoet Per Larsens Krim: Mordet i vaskekjelleren episode 6 av 2.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/xl_podkasten/7d7b684e-0eaf-4c88-b79d-b7dddd8795e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/7d7b684e-0eaf-4c88-b79d-b7dddd8795e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:28</itunes:duration>
+      <pubDate>Fri, 25 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Alkohol,  kunst, musikk og mord</title>
       <description><![CDATA[Menn mot offentlig amming Vs menn som er veeeldig for offentlig amming?
@@ -97,14 +108,6 @@ Trine Grung gir Espen innføring i blogging.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/02937145-c6cd-47b0-9de1-8e129456da12_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:37</itunes:duration>
       <pubDate>Sat, 08 Jan 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>USA Spesial: Blir det borgerkrig, Anders?</title>
-      <description><![CDATA[Hva i svarte er det med USA?  Ett år etter stormingen av kongressen, så er det blitt verre der borte. Anders, hva skjer a?  ANDERS!!  Gi oss noen svar! Tidligere USA-korrespondent Anders Giæver er hovedgjest, og beroliger oss ikke. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/xl_podkasten/df2a3caa-7d0e-4e06-9479-d234d46a4a2d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/df2a3caa-7d0e-4e06-9479-d234d46a4a2d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:19</itunes:duration>
-      <pubDate>Fri, 07 Jan 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
