@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 19 Feb 2022 13:28:04 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Feb 2022 13:47:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 26 Feb 2022 12:44:52 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Feb 2022 13:42:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g4LCRrF3mpdKjBOVc4N01pw.png"/>
+    <item>
+      <title>Fredrik Skavlan / Tuva Fellman / Nicolai Cleve Broch</title>
+      <description><![CDATA[Sofie og Wordfeud-familien / PROBLEM: Anstrengt forhold til mamma / Beholde neseringen, eller gi blod? / Gjester som inviterer seg selv / Kanintrøbbel / Øvelseskjøring til besvær / Armbåndet og stahet / Gutter som er slettet / Storbyen i USA funker ikke / EPILOG: 1t 56min ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/f3bf9ddb-cc98-4138-8eb7-e6ab75d8a385_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f3bf9ddb-cc98-4138-8eb7-e6ab75d8a385_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:11:57</itunes:duration>
+      <pubDate>Sat, 26 Feb 2022 13:42:00 +0100</pubDate>
+    </item>
     <item>
       <title>Christian Mikkelsen / Janne Formoe / Niklas Baarli</title>
       <description><![CDATA[Henrik «er ikke dum»... PROBLEMER: De andre har roligere studietid / Elsker kjæresten, men uavklarte følelser for en gammel venn / Når leietakeren er det klassiske problemet / Hva skal straffen være? / Forelsket og for deppa? / Gode og onde skjeggedager / Bryllup eller bursdag? / Lillesøster som skaper dårlig stemning / Bajse-bakterier på jobben / EPILOG: 1t 59min]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/9e15d2d4-7fa0-41e2-8a2c-b6f44b4422b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:21</itunes:duration>
       <pubDate>Thu, 13 Jan 2022 12:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Else Kåss Furuseth / Thomas Numme / Maria Stavang</title>
-      <description><![CDATA[Ble det jul med kjæresten for Amalie? / PROBLEMER: Jeg liker NAV, jeg... / Liggehistorikken til kjæresten gjør meg uvel / Initiativløs venn / Mean Girls / Er det mulig å jobbe under en man har ligget med tidligere? / Skal jeg si ja til 7 millioner? / Pandemikrangling med venner / Jeg er en oppspist venn / Sexgaveløgnen / EPILOG: 1t 55min]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/b7fc0c3f-362b-407a-bf64-6cb933a51165_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/b7fc0c3f-362b-407a-bf64-6cb933a51165_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:14:33</itunes:duration>
-      <pubDate>Sat, 08 Jan 2022 14:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
