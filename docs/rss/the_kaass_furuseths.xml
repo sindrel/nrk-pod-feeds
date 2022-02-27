@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten The Kåss Furuseths. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/the_kaass_furuseths for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 20 Feb 2022 05:26:03 +0000</lastBuildDate>
-    <pubDate>Sun, 20 Feb 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sun, 27 Feb 2022 05:26:58 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Feb 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pKt2heDSM3gDdo4y3mXDGQ-eh2uz1dFuMS4z_3tyIWSw.png"/>
+    <item>
+      <title>Marte Bratberg, gambling og sjalabais</title>
+      <description><![CDATA[Programleder Marte Bratberg feirer liksom-bursdag med Else og Cecilie. Hun forteller om da vannet gikk hjemme hos broren, om møtet med Jens Stoltenberg og om da hun glemte første date med kjæresten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/e451ab30-214a-47ce-a789-1daa79a29645_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e451ab30-214a-47ce-a789-1daa79a29645_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:57</itunes:duration>
+      <pubDate>Sun, 27 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Astrid S og Dagny, løshår og nudes</title>
       <description><![CDATA[Popduoen Dagny og Astrid S gjester brunsj, og forteller om sceneskrekk, løshår og varierende ferdigheter i skiløypa. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/894e98b9-82a2-4d57-aa65-e66b9e735864_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:18</itunes:duration>
       <pubDate>Sun, 19 Dec 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Mayoo Indiran, telt og visdomsord </title>
-      <description><![CDATA[Reality-deltaker Mayoo Indiran har endelig funnet kvinnen han vil «avslutte livet med». Han forteller åpenhjertig om "bromance" og julefeiring med bestevennen Abubakar Hussain, og om da Mayoo oppdaget at han begynte å miste håret.   ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/3954d596-f552-46dc-8122-420082d898af_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/3954d596-f552-46dc-8122-420082d898af_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:40</itunes:duration>
-      <pubDate>Sun, 12 Dec 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

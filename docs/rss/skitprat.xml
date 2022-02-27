@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Skitprat med Jens og Isak</title>
+    <title>De 6 siste fra Skitprat med Jens og Isak</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Skitprat med Jens og Isak. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/skitprat for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Skitprat med Jens og Isak. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/skitprat for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 20 Feb 2022 05:26:00 +0000</lastBuildDate>
-    <pubDate>Sun, 20 Feb 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sun, 27 Feb 2022 05:26:56 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Feb 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Penger, kjendis og skistaver </title>
+      <description><![CDATA[Isak oppsummerer Farmen, og lærer Jens hva mining er. Gutta oppdager at de er uenig om lengde på staver, men helt enige om svart arbeid. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/9ce94b24-62e9-4dbe-b612-c592f2b9f193_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/9ce94b24-62e9-4dbe-b612-c592f2b9f193_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:15</itunes:duration>
+      <pubDate>Sun, 27 Feb 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Farmen, vinterjakt og minneskap </title>
       <description><![CDATA[Isak sammenligner "Farmen kjendis" med Ludo, og Jens overbeviser Isak om å ta med rifle på rypejakt og deler sin verste turopplevelse. ]]></description>
