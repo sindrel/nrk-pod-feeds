@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Drivkraft. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/drivkraft for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 23 Feb 2022 12:47:23 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Feb 2022 13:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 28 Feb 2022 12:47:23 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Feb 2022 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Trygve Skaug</title>
+      <description><![CDATA[Østfoldingen hadde tidlig suksess med bandet StMorritz, når låta Prøve meg igjen var den mest spilte på P1 i hele 2010. Siden den gang har han sluppet fem kritikerroste soloalbum, i tillegg til å være en av landets mestselgende diktere, et forfatterskap som startet på Instagram hvor over 200 000 ivrige følgere nå leser diktene hans.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f3b49965-1334-46bc-ad2c-dfc89c22435e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f3b49965-1334-46bc-ad2c-dfc89c22435e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:40</itunes:duration>
+      <pubDate>Mon, 28 Feb 2022 13:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Morten Hvaal</title>
       <description><![CDATA[Han er en internasjonalt anerkjent og prisbelønt dokumentarfotograf. I mer enn 30 år har han dokumentert krig og katastrofer over hele verden. Hvaal jobber også som forfatter og filmskaper og siden 1982 har han jobbet i over 100 land. Nå fotograferer han de ofte voldsomme naturkreftene hjemme i Norge, blant annet med en fotoserie om Hallingskarvet.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/c931ded2-4de8-4dbf-abf7-156477b779ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:39</itunes:duration>
       <pubDate>Tue, 08 Feb 2022 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Arne Hjeltnes </title>
-      <description><![CDATA[Han mener det er utrolig viktig å ha det moro på jobb. Nå er programlederen, forfatteren og gründeren i gang med et nytt tv-program som skal vises i USA. People of the North.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/dd96b068-a9a6-4040-b41e-a14ec7267115_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/dd96b068-a9a6-4040-b41e-a14ec7267115_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:33</itunes:duration>
-      <pubDate>Mon, 07 Feb 2022 13:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
