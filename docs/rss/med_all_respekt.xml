@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 24 Feb 2022 21:51:32 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Feb 2022 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Feb 2022 17:31:23 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Feb 2022 18:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
+    <item>
+      <title>Hvem ville vi tatt med oss i krigen? </title>
+      <description><![CDATA[*Martin Lepperød er gjest, og Galvan er med fra sofaen hjemme!
+*Et klart råd om kebab!
+*Hva gjør du når gjesten har pissa i sofaen?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/ef951f2e-0d80-4040-ab1a-0afa3cb12909_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/ef951f2e-0d80-4040-ab1a-0afa3cb12909_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:33</itunes:duration>
+      <pubDate>Mon, 28 Feb 2022 18:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Guttas arkitekturopprør!</title>
       <description><![CDATA[Arkitektur og diktatur henger sammen?  
@@ -106,17 +117,6 @@ E-post: mar@nrk.no
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/ed406e73-5d32-4570-af45-e877483ffc57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:05</itunes:duration>
       <pubDate>Thu, 10 Feb 2022 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kan man kødde med alt?</title>
-      <description><![CDATA[* Jimmy Carr er cancelled?
-* Anders har pitch!
-* Abu kommer opp med den perfekte formelen for ALT: 70/30. 
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/fac33362-26ba-4fa6-84f0-c89d2409236b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/fac33362-26ba-4fa6-84f0-c89d2409236b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:57</itunes:duration>
-      <pubDate>Wed, 09 Feb 2022 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
