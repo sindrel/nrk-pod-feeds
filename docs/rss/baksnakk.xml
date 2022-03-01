@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Baksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baksnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 22 Feb 2022 05:26:34 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Feb 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 01 Mar 2022 05:27:04 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Mar 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Er Zara en ghoster?</title>
+      <description><![CDATA[Zara blir innhentet av datingapp-livet og Lydia leter fortsatt etter en aflahann til sin alfahunn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/3b385f5a-7130-4273-a335-d3564dab3713_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/3b385f5a-7130-4273-a335-d3564dab3713_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:07</itunes:duration>
+      <pubDate>Tue, 01 Mar 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Ferska av bestemor og mensenspor på gulvet</title>
       <description><![CDATA[Lydia og Zara deler av sine dypeste flauser fra livet.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/836742c1-3482-48cd-be36-0b2d25e044b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:39</itunes:duration>
       <pubDate>Tue, 28 Dec 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vi er ikke kjærester</title>
-      <description><![CDATA[To single og julestressa jenter deler siste nytt fra livet. Og svarer på et av de mest stilte spørsmålene i innboksen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/b6b0bfd8-c266-4658-b991-850b443fac45_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/b6b0bfd8-c266-4658-b991-850b443fac45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:13</itunes:duration>
-      <pubDate>Tue, 21 Dec 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten God bedring. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/god_bedring for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 22 Feb 2022 05:26:42 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Feb 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 01 Mar 2022 05:27:07 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Mar 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg"/>
+    <item>
+      <title>Frida Homlung, impostor syndrome og folk som snakker lavt</title>
+      <description><![CDATA[Frida lurer på hvorfor man ønsker å få barn? En lytter føler seg som en bedrager, og Kaveh snakker om meditasjon. Og klarer Peder å forklare hvorfor søstre av homofile menn får flere barn enn andre?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_bedring/fcf2bd46-f3b0-40d1-a208-df117367c2b2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_bedring/fcf2bd46-f3b0-40d1-a208-df117367c2b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:26</itunes:duration>
+      <pubDate>Tue, 01 Mar 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Girl In Red, kreft og squirting!</title>
       <description><![CDATA[Hun er Spellemannsnominert til hele 7 priser, men gruer seg til turné. Kaveh gir deg en ABC-leksjon om kreft, og Peder snakker om banning. En lytter overtenker når han blir forelsket, og hva er egentlig squirting?
@@ -99,14 +107,6 @@ Mann 42 lurer på hvorfor han gråter så mye, Peder dykker inn i sammenhengen m
       <enclosure url="https://podkast.nrk.no/fil/god_bedring/cb58975f-a442-4c62-9717-02da1dbb4ba0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:23</itunes:duration>
       <pubDate>Tue, 28 Dec 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Jonis Josef, headpushing og adrenalin.</title>
-      <description><![CDATA[Jonis Josef lurer på hva adrenalin gjør med kroppen. En innsender har hatt dårlig erfaring med sex og ønsker å bli komfortabel med å gå ned på kjæresten sin. En annen innsender lurer på om hun kanskje har en spiseforstyrrelse. Og er det like vondt å føde som de dere damene alltid klager på at det er? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_bedring/49ba2aeb-1dde-49c2-b870-7f60bbf53539_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_bedring/49ba2aeb-1dde-49c2-b870-7f60bbf53539_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:05</itunes:duration>
-      <pubDate>Tue, 21 Dec 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
