@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Dynga. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/karakter for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 23 Feb 2022 05:26:53 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Feb 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 02 Mar 2022 05:27:11 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Mar 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Filmtrailere, Sakse-Hege og dårlig stand-up </title>
+      <description><![CDATA[Jonis har tissa på veggen, Henrik blir distrahert av filmtrailere og Martin har med karakteren Sakse-Hege. Sammen forteller de hvordan man gjør flytting gøy.  Har du spørsmål eller forslag til spalte, nå oss på Dynga@nrk.no. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/a21c6092-e333-48cb-b410-4086c924f136_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/a21c6092-e333-48cb-b410-4086c924f136_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:42</itunes:duration>
+      <pubDate>Wed, 02 Mar 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Metaverset, Nazi-Lars og it's a trap</title>
       <description><![CDATA[Jonis har bursdag, Henrik har fundert over metaverset og Martin har med karakteren Nazi-Lars. Sammen diskuterer de hvilken matrett de ville spist av hverandres kropper. ]]></description>
@@ -95,16 +103,6 @@ Denne episoden er laget av Lyder produksjoner for NRK. Programledere er Henrik F
       <enclosure url="https://podkast.nrk.no/fil/karakter/5b12fe18-334a-4f94-8113-95295d22069a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:16</itunes:duration>
       <pubDate>Fri, 01 Oct 2021 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Karakter: Luksus</title>
-      <description><![CDATA[Vi kvakker oss inn i luksusens verden! Dessuten har Jonis spilt fotball igjen, Henrik har stått i kø for å skyte og Martin har knekt koden på torsk. Le quack!
-
-Denne episoden er laget av Lyder produksjoner for NRK. Programledere er Henrik Farley, Jonis Josef og Martin Lepperød. Produsent er Sigrid Dypbukt og ansvarlig redaktør i NRK er Mats Borch Bugge. Vil du komme i kontakt med oss? Send mail til karakter@nrk.no.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/7a93ffb9-7dd7-4cb9-bfaf-52ad05f048ad_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/7a93ffb9-7dd7-4cb9-bfaf-52ad05f048ad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:34</itunes:duration>
-      <pubDate>Fri, 24 Sep 2021 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

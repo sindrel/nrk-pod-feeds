@@ -6,11 +6,22 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Historiske kjendiser. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/historiske_kjendiser for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 23 Feb 2022 05:26:59 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Feb 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 02 Mar 2022 05:27:17 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Mar 2022 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg"/>
+    <item>
+      <title>Mahatma Gandhi</title>
+      <description><![CDATA[Dette er historien om fredsapostelen som førte en iherdig kamp mot
+rasisme og for et samlet, uavhengig India. En kamp som ble ett med han selv - og som til
+slutt kostet ham livet.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/50d05420-2940-4e55-989e-90828ad31119_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/50d05420-2940-4e55-989e-90828ad31119_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:42</itunes:duration>
+      <pubDate>Wed, 02 Mar 2022 06:01:00 +0100</pubDate>
+    </item>
     <item>
       <title>Amelia Earhart - folkehelten som sporløst forsvant</title>
       <description><![CDATA[Den modige piloten Amelia Earhart syntes ingen utfordringer var for store og ingen hinder umulige å overvinne. 
@@ -87,14 +98,6 @@ Men det er også en historie om stor kjærlighet - og destruktiv sorg.]]></descr
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/3aaceec9-fe23-469a-82b7-4d3091a670c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:04</itunes:duration>
       <pubDate>Wed, 05 Jan 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Smakebit: Historiske kjendiser</title>
-      <description><![CDATA[I Historiske kjendiser vekker Alexandra Gjerpen historiens største personer til live igjen, krydret med dramatiske scener.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/cfeb5b7e-6e70-47bc-93e7-4f06ce432333_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/cfeb5b7e-6e70-47bc-93e7-4f06ce432333_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:51</itunes:duration>
-      <pubDate>Wed, 29 Dec 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
