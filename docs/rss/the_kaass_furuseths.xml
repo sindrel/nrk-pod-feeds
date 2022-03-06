@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 27 Feb 2022 05:26:58 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Feb 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2022 05:26:52 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Mar 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pKt2heDSM3gDdo4y3mXDGQ-eh2uz1dFuMS4z_3tyIWSw.png"/>
+    <item>
+      <title>Edvard Valberg, kobraslange og chaiselong </title>
+      <description><![CDATA[Vokalist i Honningbarna, Edvard Valberg, forteller om den gangen bandet "faket" et kobra-bitt, om oppveksten med buddhistiske foreldre, og om da han brakk foten midt under en konsert. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/52c8c32b-82c9-4a28-8d8e-fded37790894_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/52c8c32b-82c9-4a28-8d8e-fded37790894_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:25</itunes:duration>
+      <pubDate>Sun, 06 Mar 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Marte Bratberg, gambling og sjalabais</title>
       <description><![CDATA[Programleder Marte Bratberg feirer liksom-bursdag med Else og Cecilie. Hun forteller om da vannet gikk hjemme hos broren, om møtet med Jens Stoltenberg og om da hun glemte første date med kjæresten.]]></description>
@@ -82,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/8ff91a80-e4b5-4285-9f6b-074da0f524d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:01:05</itunes:duration>
       <pubDate>Sun, 26 Dec 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Jannecke Weeden, klatremus og Vegas-bryllup</title>
-      <description><![CDATA[Programleder Jannecke Weeden forteller om drømmen om å bli jagerflypilot, og om den kortvarige relasjonen til flaskepostvinneren i Se og Hør når hun gjester brunsj hos Else. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/894e98b9-82a2-4d57-aa65-e66b9e735864_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/894e98b9-82a2-4d57-aa65-e66b9e735864_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:18</itunes:duration>
-      <pubDate>Sun, 19 Dec 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
