@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 28 Feb 2022 05:27:07 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Feb 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2022 12:48:10 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Mar 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwcWfR1jsD0nzRmmYVnqpdIA.png"/>
+    <item>
+      <title>Vi MÅ snakke om kvinnehelse</title>
+      <description><![CDATA[Hvorfor vet vi mest om menns sykdommer? Og hva betyr det for kvinner? Programleder og nysgjerrigper Selda Ekiz rydder opp. Medvirkende: Nina Brochmann og Julie Renberg.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/c31e357a-bb54-4e8e-b194-ae366db61a86_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/c31e357a-bb54-4e8e-b194-ae366db61a86_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:39</itunes:duration>
+      <pubDate>Mon, 07 Mar 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title> Det geniale med dugnad</title>
       <description><![CDATA[Halve Norge er bygget av amatører. Forfatter og eventyrer Erling Kagge forklarer og hyller den utskjelte dugnaden.]]></description>
@@ -86,15 +94,6 @@ Medvirkende: Monica Melby Lervåg, Pappaen til Sofie og Johan Brand. ]]></descri
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/8ea61544-04cd-40e0-a49c-875cf8b07e80_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:03</itunes:duration>
       <pubDate>Mon, 15 Nov 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hva gjør vi når jorda går under?</title>
-      <description><![CDATA[En dag slukes jordkloden vår av solen. Astrofysiker Maria Hammerstrøm tar deg med ut i verdensrommet for å fortelle deg hva vi bør gjøre da. 
-Medvirkende: Thomas Hylland Eriksen og Andrea Owe. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/e8004bc2-17c1-4574-b32d-56b77cfffe84_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/e8004bc2-17c1-4574-b32d-56b77cfffe84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:11</itunes:duration>
-      <pubDate>Mon, 08 Nov 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
