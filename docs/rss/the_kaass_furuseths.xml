@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 06 Mar 2022 05:26:52 +0000</lastBuildDate>
-    <pubDate>Sun, 06 Mar 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 05:39:17 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pKt2heDSM3gDdo4y3mXDGQ-eh2uz1dFuMS4z_3tyIWSw.png"/>
+    <item>
+      <title>Ulrikke Brandstorp, dagbok og analkjertler</title>
+      <description><![CDATA[Artist og skuespiller Ulrikke Brandstorp forteller om da hundens analkjertler ble tema på første date med kjæresten, om da hun tryna på scenen, og om å knuse glass som sinnemestring. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/83a1e915-e91d-48b3-98f5-6f9526da42d7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/83a1e915-e91d-48b3-98f5-6f9526da42d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:53</itunes:duration>
+      <pubDate>Sun, 13 Mar 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Edvard Valberg, kobraslange og chaiselong </title>
       <description><![CDATA[Vokalist i Honningbarna, Edvard Valberg, forteller om den gangen bandet "faket" et kobra-bitt, om oppveksten med buddhistiske foreldre, og om da han brakk foten midt under en konsert. 
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/782139e2-7eb2-4f75-911a-cc06397db106_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:23</itunes:duration>
       <pubDate>Sun, 09 Jan 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Julebrunsj! </title>
-      <description><![CDATA[Herman Flesvig har med julemust til brunsjbordet, Ida Gran-Jansen lager strull og fløtekarameller, mens «taffelmann Løland» spiller opp til dans i The Kåss Furuseths julespesial! I tillegg blir det avslørt store overraskelser!!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/8ff91a80-e4b5-4285-9f6b-074da0f524d4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/8ff91a80-e4b5-4285-9f6b-074da0f524d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:05</itunes:duration>
-      <pubDate>Sun, 26 Dec 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
