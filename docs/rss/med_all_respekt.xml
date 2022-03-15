@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Mar 2022 16:47:25 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Mar 2022 17:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2022 13:33:23 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Mar 2022 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
+    <item>
+      <title>Katastrofe, klein kompis og kjip kino!</title>
+      <description><![CDATA[*Klare for katastrofe? 
+*Galvans kleine gåtur med Christian Mikkelsen! 
+*Abu på kino! ( i salen)  
+E-post: mar@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/80c8aa3a-c5f5-4114-86f3-7236eee77273_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/80c8aa3a-c5f5-4114-86f3-7236eee77273_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:29</itunes:duration>
+      <pubDate>Tue, 15 Mar 2022 14:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Biff suger! </title>
       <description><![CDATA[*Matvrak og muslibolle!  
@@ -109,16 +120,6 @@ Norges fulleste fan.
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/ef951f2e-0d80-4040-ab1a-0afa3cb12909_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:33</itunes:duration>
       <pubDate>Mon, 28 Feb 2022 18:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Guttas arkitekturopprør!</title>
-      <description><![CDATA[Arkitektur og diktatur henger sammen?  
-Trassråd om høydeforskjell og grep for å piffe opp forholdet,
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/b62e53fb-7f3a-4653-a5c0-26248a9abcf5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/b62e53fb-7f3a-4653-a5c0-26248a9abcf5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:45</itunes:duration>
-      <pubDate>Thu, 24 Feb 2022 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
