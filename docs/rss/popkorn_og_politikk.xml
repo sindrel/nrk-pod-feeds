@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 12 Mar 2022 05:26:34 +0000</lastBuildDate>
-    <pubDate>Sat, 12 Mar 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2022 05:27:55 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Mar 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"/>
+    <item>
+      <title>Ekstraepisode: Soldaten - med Rune Wenneberg</title>
+      <description><![CDATA[En av de norske offiserene med mest stridserfaring fra utenlandsoppdrag forteller om soldatlivet, om kamp, frykt og død. Og hva lærer han og resten av Forsvaret av Ukraina?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/popkorn_og_politikk/bef4d96f-fc56-4fae-9027-66e4f76cfcb3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/bef4d96f-fc56-4fae-9027-66e4f76cfcb3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:18</itunes:duration>
+      <pubDate>Tue, 15 Mar 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Ekstraepisode: Krigskorrespondenten - med Roger Sevrin Bruland</title>
       <description><![CDATA[Fra Nordfjord til Kosovo, koronapandemi og krig. NRKs Europa-korrespondent Roger Sevrin Bruland setter pris på gode historier fra både levd liv og gode forfattere. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/41322ac4-4e06-401b-b131-ccbd7715255c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:53</itunes:duration>
       <pubDate>Tue, 08 Feb 2022 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Valg i ville vesten - med Sofie Høgestøl</title>
-      <description><![CDATA[Hvordan vil årets valg i USA stjeles? Hvordan foregår stemmeundertrykking og hvorfor er det så viktig for noen å gjøre det vanskelig for andre å stemme? OG hvorfor er western så viktig for å forstå amerikansk kultur og politikk? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/popkorn_og_politikk/6dfb7000-7172-4da2-af37-9cf4c1180ff4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/6dfb7000-7172-4da2-af37-9cf4c1180ff4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:14</itunes:duration>
-      <pubDate>Fri, 04 Feb 2022 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
