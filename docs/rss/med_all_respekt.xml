@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Mar 2022 16:45:37 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Mar 2022 17:21:00 +0100</pubDate>
+    <lastBuildDate>Thu, 17 Mar 2022 13:33:51 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Mar 2022 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
+    <item>
+      <title>Det luker karri! Hva er karri??</title>
+      <description><![CDATA[*En flyktning for Hemsedal
+*By møter bygd: Gutta fra den nye podkasten "Bingen" på besøk!
+*Trassråd om kjip kompis og matlukt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/25874c8f-0b30-440f-aa88-611807b59ab8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/25874c8f-0b30-440f-aa88-611807b59ab8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:04</itunes:duration>
+      <pubDate>Thu, 17 Mar 2022 14:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Lov å savne lcokdown?</title>
       <description><![CDATA[*Gonore-økning og siggforbud.
@@ -112,16 +122,6 @@ Norges fulleste fan.
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/753dd5cc-6956-4a50-bacc-a0955733707c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:38</itunes:duration>
       <pubDate>Wed, 02 Mar 2022 17:31:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Når n-ordet sies av barn..</title>
-      <description><![CDATA[*Tindersvindleren:  Lov å bli LITT imponert?
-*N- kommer fra barnemunn, overse eller snakke om det?
-*Krig og folk på flukt:  Verre fordi de er hvite?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/576c90a8-6c8c-4e0d-99b1-ca2e15e3bd20_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/576c90a8-6c8c-4e0d-99b1-ca2e15e3bd20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:01</itunes:duration>
-      <pubDate>Tue, 01 Mar 2022 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
