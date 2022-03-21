@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 17 Mar 2022 13:33:51 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Mar 2022 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 21 Mar 2022 16:47:29 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Mar 2022 10:07:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
+    <item>
+      <title>Fortjener Abu sin egen gate?</title>
+      <description><![CDATA[*Galvan går til kamp mot:  Pepper!
+*Tafsing fra kvinner
+*Abu gir deg Lørenskog!
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/a4c24eb0-236a-4d2c-9338-384bb1048172_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/a4c24eb0-236a-4d2c-9338-384bb1048172_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:52</itunes:duration>
+      <pubDate>Mon, 21 Mar 2022 10:07:00 +0100</pubDate>
+    </item>
     <item>
       <title>Det luker karri! Hva er karri??</title>
       <description><![CDATA[*En flyktning for Hemsedal
@@ -111,17 +122,6 @@ Norges fulleste fan.
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/307c748e-2fc9-4aa3-8fec-031552ca8a66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:39</itunes:duration>
       <pubDate>Thu, 03 Mar 2022 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Har du også svin på/i skogen?</title>
-      <description><![CDATA[*Renzo vrenger sjelen og beklager til gamle venner!
-*Abu er sint på preposisjonene "i" og "på"
-*Anders pitcher tidseffektiv sjampo
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/753dd5cc-6956-4a50-bacc-a0955733707c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/753dd5cc-6956-4a50-bacc-a0955733707c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:38</itunes:duration>
-      <pubDate>Wed, 02 Mar 2022 17:31:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
