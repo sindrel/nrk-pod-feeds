@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 12 Mar 2022 15:31:17 +0000</lastBuildDate>
-    <pubDate>Sat, 12 Mar 2022 16:05:00 +0100</pubDate>
+    <lastBuildDate>Mon, 21 Mar 2022 18:36:05 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Mar 2022 18:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>Amadeus- ros, Putin- sang, delfin- rusing</title>
+      <description><![CDATA[Advarsel: Inneholder materiale ALDRI sendt på radio. Kan virke sterkt latterfremkallende.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/4315c30a-1187-4ff9-a9cc-2df1d5760217_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/4315c30a-1187-4ff9-a9cc-2df1d5760217_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:28</itunes:duration>
+      <pubDate>Mon, 21 Mar 2022 18:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Gauders Gerilja, Butler- Osen, Mobil- do- mord.</title>
       <description><![CDATA[Advarsel: Kan virke sterkt latterfremkallende. Inneholder materiale aldri sendt på radio.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/6bff9181-3ac0-409f-929d-d617011de5bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:07:07</itunes:duration>
       <pubDate>Sat, 15 Jan 2022 16:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Jubileum, jall og jubel.</title>
-      <description><![CDATA[Advarsel: kan virke sterkt latterframkallende og inneholder materiale ALDRI sendt på radio!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/e681ea3d-0969-49e4-afde-b092ba3c39d4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/e681ea3d-0969-49e4-afde-b092ba3c39d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:15:51</itunes:duration>
-      <pubDate>Sat, 08 Jan 2022 15:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
