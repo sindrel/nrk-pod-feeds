@@ -1,39 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Mar 2022 23:29:50 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Mar 2022 00:06:00 +0100</pubDate>
+    <lastBuildDate>Sun, 27 Mar 2022 22:30:49 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Mar 2022 00:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw"/>
     <item>
-      <title>Smakebit: Kva skjedde med Arve? </title>
-      <description><![CDATA[Under eit russetreff våren 1999 blir indiskfødde Arve Beheim Karlsen jaga av to ungdommar ned under ei bru. Dei ropar rasistiske trugslar etter han. To dagar seinare blir han funnen drukna i Sogndalselvi. Kva skjedde med Arve? Du får episodane først i appen NRK Radio.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/74d4e7c1-ff3f-470b-ad7f-ac6a2bd7d014_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/74d4e7c1-ff3f-470b-ad7f-ac6a2bd7d014_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:55</itunes:duration>
-      <pubDate>Thu, 10 Mar 2022 00:03:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kva skjedde med Arve Beheim Karlsen? (1:2)</title>
-      <description><![CDATA[Ein vårkveld i 1999 blir indiskadopterte Arve Beheim Karlsen jaga av to ungdommar som ropar rasistiske trugslar etter han. To dagar seinare blir Arve funnen drukna i Sogndalselvi. Saken rystar heile landet. Episodane får du først i appen NRK Radio.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/f652b03e-c3f6-4535-9a5e-676c00546adb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/f652b03e-c3f6-4535-9a5e-676c00546adb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:15</itunes:duration>
-      <pubDate>Thu, 17 Mar 2022 00:03:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kva skjedde med Arve Beheim Karlsen? (2:2)</title>
-      <description><![CDATA[Indiskfødde Arve Beheim Karlsen blir funnen drukna i Sogndalselvi våren 1999. To dagar tidlegare blei han jaga av ungdommar som ropa rasistiske trugslar etter han. Familien vil ha rettferd for Arve, men politiet slit med å finne ut kva som eigentleg har hendt. Episodane ligg i appen NRK Radio.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/c5086fc6-9635-4e8a-a440-5857208ef72d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/c5086fc6-9635-4e8a-a440-5857208ef72d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:49</itunes:duration>
-      <pubDate>Thu, 17 Mar 2022 00:06:00 +0100</pubDate>
+      <title>Smakebit: Væpna revolusjon!</title>
+      <description><![CDATA[Det nye kommunistpartiet AKP(ml) vekker stor oppmerksomhet på 1970-tallet. Særlig studenter og kunstnere drømmer om et klasseløst samfunn. Men planer om en mulig væpna revolusjon opprører mange. Episodene får du i appen NRK Radio fra 31.03.22. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/5d9cb948-b31d-46de-a48a-36ca95e0aa87_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/5d9cb948-b31d-46de-a48a-36ca95e0aa87_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17</itunes:duration>
+      <pubDate>Mon, 28 Mar 2022 00:03:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
