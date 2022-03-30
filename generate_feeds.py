@@ -9,6 +9,7 @@ from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast
 
 podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
 podcasts_cfg_file = "podcasts.json"
+filter_teasers = True
 web_url = "https://sindrel.github.io/nrk-pod-feeds"
 
 def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
@@ -80,14 +81,18 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         audio_mime = manifest["playable"]["assets"][0]["mimeType"]
         audio_url = manifest["playable"]["assets"][0]["url"]
 
-        if audio_mime != "audio/mp3":
-            logging.info(f"Unrecognized audio MIME type ({audio_mime})")
-            continue
-
         logging.info(f"  Episode title: {episode_title}")
         logging.info(f"  Episode duration: {duration}")
         logging.info(f"  Episode date: {date}")
         logging.info(f"  Audio file URL: {audio_url}")
+
+        if audio_mime != "audio/mp3":
+            logging.info(f"  Unrecognized audio MIME type ({audio_mime})")
+            continue
+
+        if filter_teasers and episode_title.startswith("Neste episode: "):
+            logging.info("  Skipping teaser")
+            continue
 
         p.episodes += [
             Episode(
