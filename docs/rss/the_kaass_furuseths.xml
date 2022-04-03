@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 27 Mar 2022 04:40:09 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Mar 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2022 04:40:17 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pKt2heDSM3gDdo4y3mXDGQ-eh2uz1dFuMS4z_3tyIWSw.png"/>
+    <item>
+      <title>KAMARA, storytime og scampi</title>
+      <description><![CDATA[Artist KAMARA vil bare leve sitt beste liv på en yacht i en tangatruse. På brunsj gir hun Else og Cecilie Ramona gode råd om kjærlighet, jobb og om hvilken sang som er best å rusle til.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/002c0d92-6e49-40ee-87da-0655cff268ef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/002c0d92-6e49-40ee-87da-0655cff268ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:55</itunes:duration>
+      <pubDate>Sun, 03 Apr 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Nils Bech, stekt shorts og roteskuff</title>
       <description><![CDATA[Nils Bech steker shortsen sin i ovnen hvis han har dårlig tid. På brunsj forteller han også om da han møtte søstera til Beyoncé, og om gleden med å spise kebabpizza i sengen.]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/d360a64b-5854-4f03-a9de-fc4e8dbb18f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:18</itunes:duration>
       <pubDate>Sun, 30 Jan 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Annika Momrak, nesehorn og fyllepenn</title>
-      <description><![CDATA[Annika Momrak forteller hvordan en ugle endte opp med å bo i garasjen hennes, om hvorfor hun mener livet er som et musikkstykke, og om fyllepennen hun har tatt med seg, når hun gjester brunsj med Else og Cecilie.   ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/beca415f-9062-4e73-8a3b-b1f25a4b206f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/beca415f-9062-4e73-8a3b-b1f25a4b206f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:45</itunes:duration>
-      <pubDate>Sun, 23 Jan 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

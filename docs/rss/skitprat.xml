@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 27 Mar 2022 04:40:06 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Mar 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2022 04:40:14 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Båltips, jaktstart og hotellfrokost </title>
+      <description><![CDATA[Jens og Isak deler båltips, og historier om da det gikk galt. Jens hjelper en lytter som vil begynne med jakt, og Isak deler en vill drøm. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/0141c8c2-6d6d-4e6d-91b3-c1ead5629212_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/0141c8c2-6d6d-4e6d-91b3-c1ead5629212_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:09</itunes:duration>
+      <pubDate>Sun, 03 Apr 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Grønland, uvaner og dobbeldate</title>
       <description><![CDATA[Jens har endelig funnet en han vil dra på ekspedisjon med, men Isak er redd for hjemlengsel. Og valpen til Jens har fått en ny uvane.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/c58d9cd4-63b7-409b-abd4-812ba295c17c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:20</itunes:duration>
       <pubDate>Fri, 11 Feb 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kommer 11. februar: Skitprat med Jens og Isak</title>
-      <description><![CDATA[Hør en smakebit fra den kommende podkasten med Jens Kvernmo og Isak Dreyer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/4b3462e6-03de-40ff-a8ae-23ff11703940_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/4b3462e6-03de-40ff-a8ae-23ff11703940_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:47</itunes:duration>
-      <pubDate>Fri, 04 Feb 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
