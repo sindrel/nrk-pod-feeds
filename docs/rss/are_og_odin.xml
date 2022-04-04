@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 26 Mar 2022 15:32:05 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Mar 2022 16:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2022 08:35:46 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Apr 2022 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>Det beste fra året, så langt</title>
+      <description><![CDATA[Sterkt lattervekkende]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/54e67ba0-8be1-4cd5-b37d-da0d2093aac9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/54e67ba0-8be1-4cd5-b37d-da0d2093aac9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:21</itunes:duration>
+      <pubDate>Mon, 04 Apr 2022 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>A-ha, Antarktis, Aleine--gutar</title>
       <description><![CDATA[Advarsel: Inneholder materiale aldri sendt på radio. Kan virke sterkt latterfremkallende!
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/a1ae157c-8708-4786-9bae-876ba735b3af_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>52:00</itunes:duration>
       <pubDate>Sat, 29 Jan 2022 16:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Veganer-fiolin, Eggen-sang og Masturbasjons-marathon</title>
-      <description><![CDATA[Advarsel: kan virke latterfremkallende og humør- forbedrende. Forsiktighet under bilkjøring anbefales.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/dadfb14c-07ac-48de-98e8-1c5c2f07c310_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/dadfb14c-07ac-48de-98e8-1c5c2f07c310_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:34</itunes:duration>
-      <pubDate>Sat, 22 Jan 2022 16:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
