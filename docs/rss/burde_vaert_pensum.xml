@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 21 Mar 2022 05:27:40 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Mar 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2022 04:40:32 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Apr 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwcWfR1jsD0nzRmmYVnqpdIA.png"/>
+    <item>
+      <title>Det viktige vannet </title>
+      <description><![CDATA[Vann er livsviktig, men hvorfor det? 
+Programleder Selda Ekiz dykker ned i  et av de mest fantastiske stoffene i universet!  
+
+Medvirkende: Pia Ve Dahlen og Bjørn Samset ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/908b0b21-aaba-481c-86bc-5e59ada6b74b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/908b0b21-aaba-481c-86bc-5e59ada6b74b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:38</itunes:duration>
+      <pubDate>Mon, 04 Apr 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ny teknologi – nyttig eller farlig? </title>
       <description><![CDATA[Er den nye teknologien farlig for vår eksistens? Produktdesigner Nima Shahinian har kunnskap som kanskje gjør deg mindre bekymret. Medvirkende: Eirik Smilden og Niklas Mortensen
@@ -88,14 +99,6 @@ Medvirkende: Christian Bjorstad.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/df965729-1e22-4a79-9796-6ad7a9ebe6b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:10</itunes:duration>
       <pubDate>Mon, 06 Dec 2021 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hva er meningen med livet?</title>
-      <description><![CDATA[Stillhet, fjelltopp, og en varm dusj henger sammen, men hvordan? Eventyrer og gründer Erling Kagge rydder opp i hva som gir mening i livet. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/a237bdbf-fc05-47da-a81f-8e691e866215_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/a237bdbf-fc05-47da-a81f-8e691e866215_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:38</itunes:duration>
-      <pubDate>Mon, 29 Nov 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
