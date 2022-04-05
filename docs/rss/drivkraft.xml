@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Apr 2022 12:53:00 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Apr 2022 14:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2022 12:51:17 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2022 14:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Sverre Malling</title>
+      <description><![CDATA[Han er en av landets mest anerkjente og kritikerroste billedkunstnere - og er kjent for sine detaljerte og karakteristiske kulltegninger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ff202e8d-ef40-4b1e-a6b8-e24fb578dd60_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ff202e8d-ef40-4b1e-a6b8-e24fb578dd60_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Tue, 05 Apr 2022 14:40:00 +0200</pubDate>
+    </item>
     <item>
       <title>Christer Mjåset</title>
       <description><![CDATA[Han er viseadministrerende direktør i Helseplattformen AS, som jobber for å etablere en felles digital pasientjournal. Mjåset er utdannet lege og nevrokirurg. I tillegg har han skrevet to novellesamlinger og tre romaner. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/265af8ea-71b9-4c0b-a517-2db9098b533e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:42</itunes:duration>
       <pubDate>Mon, 21 Mar 2022 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nikolai Torgersen</title>
-      <description><![CDATA[Kunstneren var tidligere rusmisbruker og hjemløs. Nå selger han kunst for millionbeløp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a02950bc-bdd9-41f4-89af-628060fb875b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a02950bc-bdd9-41f4-89af-628060fb875b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:35</itunes:duration>
-      <pubDate>Wed, 16 Mar 2022 13:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
