@@ -7,13 +7,23 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Apr 2022 03:05:33 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Apr 2022 05:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2022 03:03:54 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2022 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
     <item>
+      <title>Spørretimen: Hjernen</title>
+      <description><![CDATA[Hjernen din er deg. Et panel av hjerneforskere svarer på spørsmål fra lytterne om hjernen.
+
+Programleder: Lena Gundersby Gravdal]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/419da273-4e3e-4904-933e-cce05503f8a4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/419da273-4e3e-4904-933e-cce05503f8a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:35</itunes:duration>
+      <pubDate>Thu, 07 Apr 2022 05:00:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Hva sier stemmen din om deg?</title>
-      <description><![CDATA[Folk med lyse stemmer kan oppfattes som mindre troverdige. Hvordan kan logopeden hjelpe?
+      <description><![CDATA[NRK Nyheters Bahare Viken har tvilt på seg selv på grunn av stemmen sin. Hva har det å si hvordan stemmen din høres ut?
 
 Av: Dang Trinh]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c97be500-93ac-4d1c-8a27-cce3607df64c_0_ID192MP3.mp3</guid>
@@ -100,16 +110,6 @@ Av: Dang Trinh]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/03bedbc7-d983-4184-8915-bd8c5a6e7ecb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:57</itunes:duration>
       <pubDate>Wed, 23 Mar 2022 05:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hvordan kan to like taxiturer ha så ulik pris?</title>
-      <description><![CDATA[På ett år har det kommet over 4600 nye drosjetillatelser her i landet. Er det derfor den samme turen kan koste sju ganger så mye hos et selskap som hos et annet? 
-
-Av: Hanna Randgaard Mikalsen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/89fed67d-89c6-4929-9b26-444b7c009405_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/89fed67d-89c6-4929-9b26-444b7c009405_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:42</itunes:duration>
-      <pubDate>Tue, 22 Mar 2022 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
