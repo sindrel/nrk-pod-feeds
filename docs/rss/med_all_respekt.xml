@@ -7,12 +7,23 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Apr 2022 15:34:05 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Apr 2022 17:25:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2022 12:57:55 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2022 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
     <item>
-      <title>True crime, parkjøglere og BeReal</title>
+      <title>Urenslig samboer og fulle aper!</title>
+      <description><![CDATA[Abu styrer skuta:
+*Tara har laget "Heller dette enn å støtte Russland"- liste
+*Nates lille musikkquiz
+*Trassråd!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e8d3fa30-d8b3-4909-8d6b-68ebc703a46f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e8d3fa30-d8b3-4909-8d6b-68ebc703a46f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:40</itunes:duration>
+      <pubDate>Thu, 07 Apr 2022 13:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>True crime, parkgjøglere og BeReal</title>
       <description><![CDATA[*Nate har testa "BeReal - appen"
 *Tara pitcher akkurat det du trenger i parken i sommer
 *Fantorangen sjokkerer igjen!
@@ -110,17 +121,6 @@ E-post: mar@nrk.no
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/b3d5f489-0fe1-4018-be32-541b410f1db0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:34</itunes:duration>
       <pubDate>Wed, 23 Mar 2022 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kunst, Italia og Ananas i vinduskarmen</title>
-      <description><![CDATA[*Sandeep om sine Italia-opplevelser
-*Abu sin vage kunstkritikk
-*Galvan om karaoke og katastrofefilm
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/43e076d2-bfbe-40bb-84ee-76ff8c64af4f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/43e076d2-bfbe-40bb-84ee-76ff8c64af4f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:06</itunes:duration>
-      <pubDate>Tue, 22 Mar 2022 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
