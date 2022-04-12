@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Apr 2022 04:40:32 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Apr 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2022 09:31:11 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwcWfR1jsD0nzRmmYVnqpdIA.png"/>
+    <item>
+      <title>Det gåtefulle atomet</title>
+      <description><![CDATA[Det å forstå atomet handler om å forstå livet og døden. Kjemiker Alexander Harald Sandtorv forklarer hvordan det gåtefulle atomet holder verden sammen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/316933e7-da13-424f-83b3-07f716e9b070_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/316933e7-da13-424f-83b3-07f716e9b070_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:48</itunes:duration>
+      <pubDate>Mon, 11 Apr 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Det viktige vannet </title>
       <description><![CDATA[Vann er livsviktig, men hvorfor det? 
@@ -91,14 +99,6 @@ Medvirkende: Christian Bjorstad.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/414f2379-aff9-4d15-a03d-ef835ada16c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:01</itunes:duration>
       <pubDate>Mon, 07 Feb 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hva er kjønn?</title>
-      <description><![CDATA[Innover- eller utover-tiss og andre forviklinger. Fysiker og nysgjerrigper Selda Ekiz rydder opp i hvordan kjønn påvirker livet ditt. Medvirkende: Sunniva Glenster, Anne Wæhre og Ellen Irene Klepaker. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/df965729-1e22-4a79-9796-6ad7a9ebe6b4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/df965729-1e22-4a79-9796-6ad7a9ebe6b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:10</itunes:duration>
-      <pubDate>Mon, 06 Dec 2021 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
