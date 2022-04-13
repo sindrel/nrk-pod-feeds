@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Apr 2022 03:10:20 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Apr 2022 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Apr 2022 03:14:48 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Apr 2022 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Hvorfor slår vi ikke oftere?</title>
+      <description><![CDATA[Mange kjenner på lysten til å slå, når det koker i hodet. Men hva er det som gjør at vi klarer å holde igjen? 
+Av: Dang Trinh]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1b2d296d-8e2e-497c-8582-eb961a237d2c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1b2d296d-8e2e-497c-8582-eb961a237d2c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:35</itunes:duration>
+      <pubDate>Wed, 13 Apr 2022 05:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Frode redder svaner</title>
       <description><![CDATA[Frode Munkehaugen bruker mesteparten av fritiden sin på å redde svaner. Hvorfor gjør han det?
@@ -100,16 +109,6 @@ Av: Rikke Eckhoff]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/de9ad5b0-9dd5-481d-b41f-67b604311eff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:40</itunes:duration>
       <pubDate>Mon, 28 Mar 2022 05:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Spørretimen:  Hvordan hjelpe skadde dyr?</title>
-      <description><![CDATA[Hva gjør vi når ville dyr blir syke eller skader seg? Kan vi forsøke å hjelpe dem eller skal vi la naturen gå sin gang?
-
-Programleder: Lena Gundersby Gravdal]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/23b0fb2f-51e3-4415-9bdd-80e0208ae87c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/23b0fb2f-51e3-4415-9bdd-80e0208ae87c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:37</itunes:duration>
-      <pubDate>Thu, 24 Mar 2022 05:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
