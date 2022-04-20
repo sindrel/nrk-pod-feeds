@@ -1,23 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Hele historien</title>
+    <title>De 3 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 18 Apr 2022 22:32:41 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Apr 2022 00:03:00 +0200</pubDate>
+    <lastBuildDate>Wed, 20 Apr 2022 22:34:26 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Apr 2022 00:06:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw"/>
     <item>
-      <title>Kommer 21. april: Gateslaget i Brummunddal</title>
-      <description><![CDATA[Etter at flyktningfamilier blir angrepet og innvandrerbutikken brennes ned, blir Brummundal stempla som ei rasistbygd. Konfliktene ender i et gateslag med nynazister og anti-rasister fra Blitz-miljøet i Oslo.  I 1991 vender lokalsamfunnet ryggen til rasismen. Episodene får du i appen NRK Radio fra 21.april.]]></description>
+      <title>Kommer 21. april: Gateslaget i Brumunddal</title>
+      <description><![CDATA[Etter at flyktningfamilier blir angrepet og innvandrerbutikken brennes ned, blir Brumunddal stempla som ei rasistbygd. Konfliktene ender i et gateslag med nynazister og anti-rasister fra Blitz-miljøet i Oslo.  I 1991 vender lokalsamfunnet ryggen til rasismen. Episodene får du i appen NRK Radio fra 21.april.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/02809219-4e34-4edd-8c2e-676fa6ee4718_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/02809219-4e34-4edd-8c2e-676fa6ee4718_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:10</itunes:duration>
       <pubDate>Tue, 19 Apr 2022 00:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gateslaget i Brumunddal (1:2)</title>
+      <description><![CDATA[I Brumunddal blir flyktninger angrepet og en innvandrerbutikk satt fyr på. På begynnelsen av 90-tallet får bygda et rasiststempel og lokker til seg både nynazister og anti-rasister. Episodene får du først i NRK Radio-appen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/a5d34735-d6d8-41a9-8110-02bf874f14ca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/a5d34735-d6d8-41a9-8110-02bf874f14ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:10</itunes:duration>
+      <pubDate>Thu, 21 Apr 2022 00:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gateslaget i Brumunddal (2:2)</title>
+      <description><![CDATA[Da Norges mest kjente innvandringsmotstander har folkemøte i Brumunddal blir det bråk. Det ender i et gateslag mellom folk fra bygda, tilreisende nynazister og anti-rasister fra Blitz-miljøet i Oslo. Så tar bygda et oppgjør med rasismen. Episodene får du først i appen NRK Radio. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/4e81bec9-cd86-4760-acaf-be76bf1d98b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/4e81bec9-cd86-4760-acaf-be76bf1d98b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:35</itunes:duration>
+      <pubDate>Thu, 21 Apr 2022 00:06:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
