@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 24 Apr 2022 18:36:09 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Apr 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Apr 2022 18:42:43 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Apr 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Den gærne skipperen fra Hvaler </title>
+      <description><![CDATA[Gabriel er ikke som alle de andre skipperne, og nå vil han seile til Dublin midtvinters. Tekst: «Seilasen til Dublin» av Elias Kræmer 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/101577d1-cccf-47a8-b046-caa37d4be15c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/101577d1-cccf-47a8-b046-caa37d4be15c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:27</itunes:duration>
+      <pubDate>Mon, 25 Apr 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Han + hun = sant  </title>
       <description><![CDATA[En vakker liten vårhistorie om ung kjærlighet. Tekst: «På låven» av Johan Falkberget ]]></description>
@@ -82,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/86ada7b5-f07c-4e0f-8c74-60c0a9ac3091_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>09:48</itunes:duration>
       <pubDate>Tue, 12 Apr 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Katten er menneskets beste venn</title>
-      <description><![CDATA[Alle katter bør drikke rødvin. Det viser alminnelig erfaring. Tekst av Vera Kvaal]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/fed7a1db-d4a2-43ba-897c-400ad48ae00e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/fed7a1db-d4a2-43ba-897c-400ad48ae00e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:42</itunes:duration>
-      <pubDate>Mon, 11 Apr 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
