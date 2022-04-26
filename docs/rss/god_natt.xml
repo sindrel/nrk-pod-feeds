@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Apr 2022 18:42:43 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Apr 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Apr 2022 18:41:23 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Apr 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Min magiske tekopp </title>
+      <description><![CDATA[I vinduskarmen står en porselenskopp. Gjennom den kan man se bakover i tid. Tekst av Vera Kvaal
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/6746ead6-294a-4757-a277-97e81ac6f436_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/6746ead6-294a-4757-a277-97e81ac6f436_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:00</itunes:duration>
+      <pubDate>Tue, 26 Apr 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Den gærne skipperen fra Hvaler </title>
       <description><![CDATA[Gabriel er ikke som alle de andre skipperne, og nå vil han seile til Dublin midtvinters. Tekst: «Seilasen til Dublin» av Elias Kræmer 
@@ -83,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/ed6e78e8-ae22-45c1-8700-8f69540ce85b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:17</itunes:duration>
       <pubDate>Wed, 13 Apr 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Den ufordragelige fiskeren</title>
-      <description><![CDATA[Alle fiskere konkurrerer med andre fiskere. Alltid. Tekst: «Hobbyfiskeren» av Odd W. Surén]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/86ada7b5-f07c-4e0f-8c74-60c0a9ac3091_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/86ada7b5-f07c-4e0f-8c74-60c0a9ac3091_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:48</itunes:duration>
-      <pubDate>Tue, 12 Apr 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
