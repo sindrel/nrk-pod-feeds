@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Apr 2022 09:32:07 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Apr 2022 06:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Apr 2022 04:09:06 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Apr 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg"/>
+    <item>
+      <title>Roald Amundsen - en kontroversiell heltefigur</title>
+      <description><![CDATA[Dette er historien om polarforskeren som risikerte alt for å være først med å plante det norske flagget. En mann med vinnerinstinkt og nok dødsforakt til å trosse naturens ville krefter. Men eventyrlysten kostet ham dyrt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/2bd2832f-475c-4b0b-a7b6-6cbca2616706_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/2bd2832f-475c-4b0b-a7b6-6cbca2616706_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:57</itunes:duration>
+      <pubDate>Wed, 27 Apr 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Kommer 27. april - Roald Amundsen</title>
       <description><![CDATA[I Historiske kjendiser vekker Alexandra Gjerpen historiens største personer til live igjen, krydret med dramatiske scener.]]></description>
@@ -82,14 +90,6 @@ Programleder Alexandra Gjerpen]]></description>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/fd0c12f0-8e86-4e2e-a11b-2645aed2850d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:48</itunes:duration>
       <pubDate>Wed, 23 Feb 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Grigorij Rasputin - orgier, spådommer og gift</title>
-      <description><![CDATA[Dette er historien om den gåtefulle bonden fra Sibir med et heftig forbruk av kvinner, vin og dans, som hadde åpne dører inn til tsarfamilien. Denne mektige posisjonen førte også til hans brutale død.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/72d2a804-39cb-44d3-9c55-8056d6f6d371_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/72d2a804-39cb-44d3-9c55-8056d6f6d371_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:33</itunes:duration>
-      <pubDate>Wed, 16 Feb 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
