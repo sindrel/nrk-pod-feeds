@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Apr 2022 15:34:53 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Apr 2022 16:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Apr 2022 12:57:47 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Apr 2022 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Aleksander Schau</title>
+      <description><![CDATA[Fotballeksperten skal ikke se et sekund av fotball-vm i Qatar. Det er helt uaktuelt. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0cea98fe-c38f-43b5-8892-c51aea191ed2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0cea98fe-c38f-43b5-8892-c51aea191ed2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:31</itunes:duration>
+      <pubDate>Wed, 27 Apr 2022 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Nina Brochmann</title>
       <description><![CDATA[Legen og forfatteren er mest kjent fra bestselgeren Gleden med skjeden og har alltid vært tiltrukket av det som gjør andre flaue]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/ff202e8d-ef40-4b1e-a6b8-e24fb578dd60_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:56</itunes:duration>
       <pubDate>Tue, 05 Apr 2022 14:40:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Christer Mjåset</title>
-      <description><![CDATA[Han er viseadministrerende direktør i Helseplattformen AS, som jobber for å etablere en felles digital pasientjournal. Mjåset er utdannet lege og nevrokirurg. I tillegg har han skrevet to novellesamlinger og tre romaner. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/23ef140d-d87d-4004-9c4b-0d88e1493188_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/23ef140d-d87d-4004-9c4b-0d88e1493188_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Mon, 04 Apr 2022 14:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
