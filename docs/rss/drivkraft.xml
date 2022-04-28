@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Apr 2022 12:57:47 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Apr 2022 14:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 Apr 2022 12:59:35 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Apr 2022 14:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Eva Rose</title>
+      <description><![CDATA[Hun har arbeidet som fødselsfotograf i 24 år og har fotografert over 200 fødsler. Bildene har gjort henne kjent over hele verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/19d86a7c-4014-4282-be4f-e487efe9cd07_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/19d86a7c-4014-4282-be4f-e487efe9cd07_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:50</itunes:duration>
+      <pubDate>Thu, 28 Apr 2022 14:40:00 +0200</pubDate>
+    </item>
     <item>
       <title>Aleksander Schau</title>
       <description><![CDATA[Fotballeksperten skal ikke se et sekund av fotball-vm i Qatar. Det er helt uaktuelt. ]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/2a7ce93a-1d78-4917-b9b6-3a867c7d154c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Wed, 06 Apr 2022 14:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sverre Malling</title>
-      <description><![CDATA[Han er en av landets mest anerkjente og kritikerroste billedkunstnere - og er kjent for sine detaljerte og karakteristiske kulltegninger. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ff202e8d-ef40-4b1e-a6b8-e24fb578dd60_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ff202e8d-ef40-4b1e-a6b8-e24fb578dd60_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Tue, 05 Apr 2022 14:40:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
