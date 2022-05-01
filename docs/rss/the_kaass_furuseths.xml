@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 24 Apr 2022 04:41:20 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Apr 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 01 May 2022 04:07:34 +0000</lastBuildDate>
+    <pubDate>Sun, 01 May 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Sondre Justad</title>
+      <description><![CDATA[Denne søndagen drar Else på besøk til artist Sondre Justad. Han forteller om fylla som sendte ham på legevakten som ungdom, om da han sølte yoghurt på en sovende mann på et fly, og om da han møtte en stripper i trappen - og bestilte ham til fest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/c6fa67a4-6f7b-484f-9778-0fdac8349323_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c6fa67a4-6f7b-484f-9778-0fdac8349323_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:40</itunes:duration>
+      <pubDate>Sun, 01 May 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Else besøker: Martha Leivestad</title>
       <description><![CDATA[Else drar på brunsjbesøk til Martha Leivestad i søken etter søndagsselskap. Martha plukker opp ting med tærne, drar frem ukulelen og forteller om hva naboene hennes får være vitne til. ]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/31fabb03-c4ac-4a9a-8a2a-bcb1913e3f69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:56</itunes:duration>
       <pubDate>Sun, 20 Feb 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Synne Vo, luggum morsdag</title>
-      <description><![CDATA[Synne Vo har med mamma på FaceTime når hun feirer morsdag med The Kåss Furuseths. Hun forteller om ungdomsfester på bygda, samboerskapet med søstera, og om da hun måtte bestille p-piller av svigermor.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/1c9c3f2f-aaac-4746-91c2-ab2aae109e18_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/1c9c3f2f-aaac-4746-91c2-ab2aae109e18_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:48</itunes:duration>
-      <pubDate>Sun, 13 Feb 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
