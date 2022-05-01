@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Apr 2022 18:40:58 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Apr 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 01 May 2022 18:36:40 +0000</lastBuildDate>
+    <pubDate>Sun, 01 May 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>På ferie</title>
+      <description><![CDATA[Hvem sa at lykken er å dra på ferie? Tekst: «På ferie» av Gro Dahle ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/87c7f9f4-c919-44e5-9cfb-acbefb316aab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/87c7f9f4-c919-44e5-9cfb-acbefb316aab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:09</itunes:duration>
+      <pubDate>Sun, 01 May 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hele veien hjem </title>
       <description><![CDATA[Julaften kveld kommer en velkledd kvinne inn på bussen. Sjåføren vet hvem hun er.  Tekst: «Hele veien hjem» av Levi Henriksen ]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/35f48cfa-74e9-4c05-acea-29e7ef5c76ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:22</itunes:duration>
       <pubDate>Mon, 18 Apr 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kvinnen som danset </title>
-      <description><![CDATA[ Det sitter en feit dame i baren. Og nå vil hun danse også. Tekst: «Kvinnen som danset» av Margaret Skjelbred ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/f0115844-33ab-4cae-9d2e-229dbc98bd6b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/f0115844-33ab-4cae-9d2e-229dbc98bd6b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:17</itunes:duration>
-      <pubDate>Sun, 17 Apr 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
