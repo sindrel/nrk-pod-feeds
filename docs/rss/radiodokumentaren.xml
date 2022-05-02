@@ -1,55 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.1.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 10 Jan 2022 23:33:09 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Jan 2022 00:12:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 02 May 2022 02:38:39 +0000</lastBuildDate>
+    <pubDate>Mon, 02 May 2022 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
-      <title>Smakebit: På innsiden av NAV</title>
-      <description><![CDATA[I 6 år har Ingrid Djupskås kjempet mot NAV for å bli delvis ufør. Hvorfor er NAV så omstridt? Ved å følge Ingrid sak gjennom systemet får vi en unik sjanse til å skjønne hvordan NAV fungerer, og ikke fungerer. Dokumentarserie i 4 deler fra 11.01.22. Du får den først i appen NRK Radio.  En serie av Marit Evertsen Grimstad. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/c2118b49-3405-44f8-929d-891f08a3bc17_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/c2118b49-3405-44f8-929d-891f08a3bc17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:45</itunes:duration>
-      <pubDate>Wed, 05 Jan 2022 00:03:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>På innsiden av NAV (1:4)</title>
-      <description><![CDATA[Ingrid Djupskås er frustrert etter å ha kjempet mot NAV i 6 år. Hvorfor må det være så vanskelig? Gjennom unik tilgang til hennes sak prøver vi å forstå det omstridte systemet. Du får alle episodene i appen NRK Radio fra 11.01.22. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/e3b687cc-09de-4780-86b0-4af44ceb6a84_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/e3b687cc-09de-4780-86b0-4af44ceb6a84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:29</itunes:duration>
-      <pubDate>Tue, 11 Jan 2022 00:03:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>På innsiden av NAV (2:4)</title>
-      <description><![CDATA[Uføresaken til Ingrid Djupskås får stadig nye runder i systemet. NAV åpner lukkede mapper som viser hvorfor saken har tatt så lang tid. Samtidig får Ingrid nye skuffelser. Episodene er først tilgjengelig i appen NRK Radio. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/d1c2e4bc-cd69-4e83-b702-a59116cb378c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d1c2e4bc-cd69-4e83-b702-a59116cb378c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:33</itunes:duration>
-      <pubDate>Tue, 11 Jan 2022 00:06:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>På innsiden av NAV (3:4)</title>
-      <description><![CDATA[Ingrid Djupskås' NAV-sak har pågått i 6 år. Bunken av dokumenter er diger. Jakten på hvem som har fattet hvilke vedtak sender oss landet rundt. Alle episodene er i appen NRK Radio fra 11.01.22.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/1b349a53-d45d-4acf-8d81-9148592d6684_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/1b349a53-d45d-4acf-8d81-9148592d6684_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:13</itunes:duration>
-      <pubDate>Tue, 11 Jan 2022 00:09:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>På innsiden av NAV (4:4)</title>
-      <description><![CDATA[Etter mange års kamp mot NAV er Ingrid Djupskås i ferd med å miste håpet. Så kommer det positive tegn, men tør hun tro på en løsning? Du finner hele serien i appen NRK Radio. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/5c71b878-cce5-49eb-9258-f976e808216d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5c71b878-cce5-49eb-9258-f976e808216d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:26</itunes:duration>
-      <pubDate>Tue, 11 Jan 2022 00:12:00 +0100</pubDate>
+      <title>Kommer: Penis i posten</title>
+      <description><![CDATA[Matias syns det er både skummelt og befriende å endre på kroppen. Hør alle episodene i NRK Radio fra 9. mai. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/dc6e980d-75a1-4d7d-a2ec-3322dfc1d6a5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/dc6e980d-75a1-4d7d-a2ec-3322dfc1d6a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:58</itunes:duration>
+      <pubDate>Mon, 02 May 2022 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
