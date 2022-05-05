@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Apr 2022 12:59:38 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Apr 2022 14:20:00 +0200</pubDate>
+    <lastBuildDate>Thu, 05 May 2022 13:46:53 +0000</lastBuildDate>
+    <pubDate>Thu, 05 May 2022 15:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/1nHt8ovnj56ilCHg0B_s8QHloqdIQuIKGufypReGs7-g"/>
+    <item>
+      <title>Doctor Strange in the Spoilerverse of Madness</title>
+      <description><![CDATA[I denne spoilerfylte podkasten diskuterer Birger, Marte og Sigurd den nye Marvel-filmen, og ser hvordan vi ligger an cirka midtveis i MCU fase 4.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/c91e8d6c-b07b-4ba5-ba50-b68457e43eff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/c91e8d6c-b07b-4ba5-ba50-b68457e43eff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:15</itunes:duration>
+      <pubDate>Thu, 05 May 2022 15:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ferske serietips: April 2022</title>
       <description><![CDATA[Sigurd og Marte gir deg ferske serieanbefalinger fra den siste måneden. Vi tipser om «We Own This City». «The Dropout», «Slow Horses», «Pachinko» og «Severance».]]></description>
@@ -82,16 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/39b8e477-e41c-48ff-9b2d-ebf5a78f2aff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:53</itunes:duration>
       <pubDate>Thu, 24 Feb 2022 15:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Boba Fett: S1E7 - In the Name of Honor</title>
-      <description><![CDATA[Vi elsker «Star Wars»-universet! Bli med å se «The Book of Boba Fett» sammen med oss! Birger, Sigurd og Marte nerder om serien som nå kan sees i sin helhet på Disney+.
-
-I dag diskuterer vi endelig den store finalen, «In the Name of Honor». Vi kårer det beste og verste med både episoden og hele serien, svarer spørsmål fra lytterne og drodler litt om hva som eventuelt kan skje med disse figurene videre i Star Wars-universet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/b0b9a27e-9703-40ee-b82b-7f1b78605172_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/b0b9a27e-9703-40ee-b82b-7f1b78605172_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:48:37</itunes:duration>
-      <pubDate>Mon, 21 Feb 2022 16:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
