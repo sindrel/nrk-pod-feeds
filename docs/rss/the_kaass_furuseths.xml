@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 01 May 2022 04:07:34 +0000</lastBuildDate>
-    <pubDate>Sun, 01 May 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 08 May 2022 04:44:00 +0000</lastBuildDate>
+    <pubDate>Sun, 08 May 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Vita og Wanda</title>
+      <description><![CDATA[Else besøker påvirker-tvillingene Vita og Wanda på Strømmen! De forteller om 90 cm løshår som i blant havner i rumpesprekken og om indre uro når det ikke er støvsugermerker på det hvite teppet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/e98bbb28-2c49-4853-99a1-7758232c068a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e98bbb28-2c49-4853-99a1-7758232c068a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:26</itunes:duration>
+      <pubDate>Sun, 08 May 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Else besøker: Sondre Justad</title>
       <description><![CDATA[Denne søndagen drar Else på besøk til artist Sondre Justad. Han forteller om fylla som sendte ham på legevakten som ungdom, om da han sølte yoghurt på en sovende mann på et fly, og om da han møtte en stripper i trappen - og bestilte ham til fest.]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e451ab30-214a-47ce-a789-1daa79a29645_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>37:57</itunes:duration>
       <pubDate>Sun, 27 Feb 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Astrid S og Dagny, løshår og nudes</title>
-      <description><![CDATA[Popduoen Dagny og Astrid S gjester brunsj, og forteller om sceneskrekk, løshår og varierende ferdigheter i skiløypa. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/31fabb03-c4ac-4a9a-8a2a-bcb1913e3f69_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/31fabb03-c4ac-4a9a-8a2a-bcb1913e3f69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:56</itunes:duration>
-      <pubDate>Sun, 20 Feb 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
