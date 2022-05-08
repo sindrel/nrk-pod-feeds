@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 30 Apr 2022 15:33:29 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Apr 2022 17:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 08 May 2022 12:51:22 +0000</lastBuildDate>
+    <pubDate>Sat, 07 May 2022 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>Par- terapi, sprengt hval, dyrenes hevn</title>
+      <description><![CDATA[Advarsel: Inneholder materiale aldri sendt på radio. Kan virke sterkt latterfremkallende.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/1d08131c-643e-411c-b1a0-c0d52a51fbb0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/1d08131c-643e-411c-b1a0-c0d52a51fbb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:00</itunes:duration>
+      <pubDate>Sat, 07 May 2022 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Landbruks-rør, Korps-oppgjør, Fotball fotball</title>
       <description><![CDATA[Hele gjengen på jobb igjen :-)]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/f1d9f9d8-36a8-43ad-af3d-5b439ec0b149_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:07:20</itunes:duration>
       <pubDate>Sat, 05 Mar 2022 16:05:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ku-klemming, fot-kluter, Flatens talefeil</title>
-      <description><![CDATA[Advarsel: Inneholder materiale aldri sendt på radio]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/cccf3d5e-d2c3-4799-af0c-f096fb5c0948_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/cccf3d5e-d2c3-4799-af0c-f096fb5c0948_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:45</itunes:duration>
-      <pubDate>Sat, 26 Feb 2022 16:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
