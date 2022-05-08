@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 05 May 2022 18:37:56 +0000</lastBuildDate>
-    <pubDate>Thu, 05 May 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 08 May 2022 18:36:36 +0000</lastBuildDate>
+    <pubDate>Sun, 08 May 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Klasseturen</title>
+      <description><![CDATA[Hvordan imponere en vennskapsklasse med pappmache?  Tekst: «Prosjekt vei og vann» av Per Andreas Persson ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/4554d4d9-790d-436d-bc0c-2c007a1f067a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/4554d4d9-790d-436d-bc0c-2c007a1f067a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:51</itunes:duration>
+      <pubDate>Sun, 08 May 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Brevet fra Johan </title>
       <description><![CDATA[En ung jente har endelig fått brev fra kjæresten. Men hva står det der? Tekst: «Brevet» av Regine Normann ]]></description>
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/101577d1-cccf-47a8-b046-caa37d4be15c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:27</itunes:duration>
       <pubDate>Mon, 25 Apr 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Han + hun = sant  </title>
-      <description><![CDATA[En vakker liten vårhistorie om ung kjærlighet. Tekst: «På låven» av Johan Falkberget ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/c051a877-6cef-4a9d-a404-214305b090a7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/c051a877-6cef-4a9d-a404-214305b090a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:44</itunes:duration>
-      <pubDate>Sun, 24 Apr 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
