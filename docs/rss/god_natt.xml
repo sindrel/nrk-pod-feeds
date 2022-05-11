@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 10 May 2022 18:39:58 +0000</lastBuildDate>
-    <pubDate>Tue, 10 May 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 11 May 2022 18:39:38 +0000</lastBuildDate>
+    <pubDate>Wed, 11 May 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Det gamle spøkelset</title>
+      <description><![CDATA[Selv en gammel bygård har et spøkelse i kjelleren. Tekst: «Usynlig selskap» av Regine Normann ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/e5cdc340-0ac1-4020-bd28-c92a25eceeef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/e5cdc340-0ac1-4020-bd28-c92a25eceeef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:02</itunes:duration>
+      <pubDate>Wed, 11 May 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Bestefars sitrondrops </title>
       <description><![CDATA[Kron betyr ja og mynt nei. Bestefar lar mynten bestemme alt. Tekst: «Hard valuta» av Joakim Kjørsvik ]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/10e9a9e9-fc9f-4dd4-b9d9-8547b31c6935_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:58</itunes:duration>
       <pubDate>Thu, 28 Apr 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Miraklet i faraos hage</title>
-      <description><![CDATA[En tryllekunstner ber om hjelp fra en liten gutt og publikum blir vitne til et mirakel. Tekst: «I faraos hage» av Tor Åge Bringsværd  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/ca166cef-6102-4614-a2a0-6439b8a1fd23_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/ca166cef-6102-4614-a2a0-6439b8a1fd23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:57</itunes:duration>
-      <pubDate>Wed, 27 Apr 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
