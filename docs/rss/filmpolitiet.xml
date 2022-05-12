@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 05 May 2022 13:46:53 +0000</lastBuildDate>
-    <pubDate>Thu, 05 May 2022 15:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 12 May 2022 13:55:40 +0000</lastBuildDate>
+    <pubDate>Thu, 12 May 2022 15:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/1nHt8ovnj56ilCHg0B_s8QHloqdIQuIKGufypReGs7-g"/>
+    <item>
+      <title>To ferske krimtips fra Los Angeles!</title>
+      <description><![CDATA[Vi diskuterer seriene «The Lincoln Lawyer» og «Bosch: Legacy», pluss Liam Neeson-filmen «Memory»! I studio: Birger Vestmo og Sigurd Vik.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/ef644ccb-d764-4dd4-a1a6-7e1908ad15d4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/ef644ccb-d764-4dd4-a1a6-7e1908ad15d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:13</itunes:duration>
+      <pubDate>Thu, 12 May 2022 15:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Doctor Strange in the Spoilerverse of Madness</title>
       <description><![CDATA[I denne spoilerfylte podkasten diskuterer Birger, Marte og Sigurd den nye Marvel-filmen, og ser hvordan vi ligger an cirka midtveis i MCU fase 4.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/2f30295a-580b-4ab4-89bc-9fd1f2766a8e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:45</itunes:duration>
       <pubDate>Thu, 03 Mar 2022 14:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>«Kasko» med Jonis Josef er treffsikker humor!</title>
-      <description><![CDATA[Jonis Josef er tilbake med treffsikker humor i serien «Kasko». Paul Thomas Anderson får nostalgiske hjerter til å banke med filmen «Licorice Pizza». Og serien «Vikings: Valhalla» er en fengende fortsettelse på «Vikings»-sagaen. I studio: Birger Vestmo, Marte Hedenstad og Sigurd Vik.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/39b8e477-e41c-48ff-9b2d-ebf5a78f2aff_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/39b8e477-e41c-48ff-9b2d-ebf5a78f2aff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:53</itunes:duration>
-      <pubDate>Thu, 24 Feb 2022 15:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
