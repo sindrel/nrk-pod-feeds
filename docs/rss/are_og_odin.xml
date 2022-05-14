@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 08 May 2022 12:51:22 +0000</lastBuildDate>
-    <pubDate>Sat, 07 May 2022 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 14 May 2022 14:29:47 +0000</lastBuildDate>
+    <pubDate>Sat, 14 May 2022 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>Gorgoroth, Nam- for, dame- middag</title>
+      <description><![CDATA[Advarsel: Inneholder materiale ALDRI sendt på radio. Kan virke sterkt latterfremkallende.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/0a0366e6-6cde-4f27-b189-37545693a2bd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/0a0366e6-6cde-4f27-b189-37545693a2bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:19</itunes:duration>
+      <pubDate>Sat, 14 May 2022 16:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Par- terapi, sprengt hval, dyrenes hevn</title>
       <description><![CDATA[Advarsel: Inneholder materiale aldri sendt på radio. Kan virke sterkt latterfremkallende.   ]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/f35dbe6c-f728-46c5-84a4-506f96ec685a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:00:42</itunes:duration>
       <pubDate>Sat, 12 Mar 2022 16:05:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nid-vise, dåps-krise, Grendas Heimevernslag</title>
-      <description><![CDATA[ADVARSEL! Sterkt lattervekkende! Unngå å operere tungt utstyr/maskineri når du lytter til dette. Inneholder materiale ikke før sendt på radio.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/f1d9f9d8-36a8-43ad-af3d-5b439ec0b149_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/f1d9f9d8-36a8-43ad-af3d-5b439ec0b149_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:07:20</itunes:duration>
-      <pubDate>Sat, 05 Mar 2022 16:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
