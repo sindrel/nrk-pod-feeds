@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 May 2022 18:42:08 +0000</lastBuildDate>
-    <pubDate>Thu, 12 May 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 15 May 2022 18:37:53 +0000</lastBuildDate>
+    <pubDate>Sun, 15 May 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Et spesielt barndomsminne</title>
+      <description><![CDATA[Som barn møter Johan Falkberget en mann dømt for drap. Tekst: «Et barndomsminne fra fjellet» av Johan Falkberget ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/997368ed-1483-4158-bc5e-3045faa5ed15_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/997368ed-1483-4158-bc5e-3045faa5ed15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:32</itunes:duration>
+      <pubDate>Sun, 15 May 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>En lang løpetur</title>
       <description><![CDATA[Ole Harald er født til å løpe.  Tekst: «Løpe og hoppe» av Gro Dahle ]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/672ff869-2839-453e-9bd9-6b40e8a512a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>09:27</itunes:duration>
       <pubDate>Mon, 02 May 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>På ferie</title>
-      <description><![CDATA[Hvem sa at lykken er å dra på ferie? Tekst: «På ferie» av Gro Dahle ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/87c7f9f4-c919-44e5-9cfb-acbefb316aab_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/87c7f9f4-c919-44e5-9cfb-acbefb316aab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:09</itunes:duration>
-      <pubDate>Sun, 01 May 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
