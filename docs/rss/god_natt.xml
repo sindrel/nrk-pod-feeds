@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 16 May 2022 18:41:03 +0000</lastBuildDate>
-    <pubDate>Mon, 16 May 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 17 May 2022 18:37:59 +0000</lastBuildDate>
+    <pubDate>Tue, 17 May 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Stine og fattighuset</title>
+      <description><![CDATA[Stine skal sendes til fattighuset. Nå er dagen her. Tekst: «Naadsensbrød» av Henrik Pontoppidan ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/c9dd9dd4-7da0-48f6-9428-3732e3b545ea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/c9dd9dd4-7da0-48f6-9428-3732e3b545ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:55</itunes:duration>
+      <pubDate>Tue, 17 May 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title> 100 francs</title>
       <description><![CDATA[På en bar i Paris sitter en fyllesjuk mann. Hva skjedde i går? Tekst: «Hundre franc» av Jon Ewo ]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/46d48b12-7b27-401b-a105-5eb81bef0419_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:43</itunes:duration>
       <pubDate>Wed, 04 May 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vil du være med meg hjem i natt?  </title>
-      <description><![CDATA[Han og hun møtes i en bar. Blir det de to, eller står bartenderen i veien? Tekst: «I regntiden» av Jon Ewo ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/1eb9cf11-e277-486b-8430-bf4582945b6a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/1eb9cf11-e277-486b-8430-bf4582945b6a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:23</itunes:duration>
-      <pubDate>Tue, 03 May 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
