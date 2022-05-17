@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 10 May 2022 04:42:42 +0000</lastBuildDate>
-    <pubDate>Tue, 10 May 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 17 May 2022 04:01:53 +0000</lastBuildDate>
+    <pubDate>Tue, 17 May 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Zara var nær døden (igjen)</title>
+      <description><![CDATA[Zara og Lydia sjekker horoskopet sitt og forteller om hver sin nær døden-opplevelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/4cc7643d-4c33-485d-9794-83503bdc2a25_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/4cc7643d-4c33-485d-9794-83503bdc2a25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:06</itunes:duration>
+      <pubDate>Tue, 17 May 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Fire piercinger på én dag </title>
       <description><![CDATA[Zara drømmer om utlandet og Lydia feiler med å være seg selv.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/845f62ae-ad98-4f76-94c4-2bbc056739be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:26</itunes:duration>
       <pubDate>Tue, 15 Mar 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kan ikke leve uten nudler</title>
-      <description><![CDATA[Lydia forteller om sin store kompass-tabbe i Kompani Lauritzen og Zara deler sitt kleineste øyeblikk fra uka som har gått.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/c31acce0-5106-4b13-a41b-5418f0e34c58_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/c31acce0-5106-4b13-a41b-5418f0e34c58_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:08</itunes:duration>
-      <pubDate>Tue, 08 Mar 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
