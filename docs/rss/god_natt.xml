@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 17 May 2022 18:37:59 +0000</lastBuildDate>
-    <pubDate>Tue, 17 May 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 18 May 2022 18:39:11 +0000</lastBuildDate>
+    <pubDate>Wed, 18 May 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Hunden som ventet</title>
+      <description><![CDATA[En historie om den tålmodige hunden Bjønn. Tekst: «Hunden»  av Arthur Omre ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/ca1f8125-3e3a-409c-a0c5-f9c81534c621_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/ca1f8125-3e3a-409c-a0c5-f9c81534c621_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:32</itunes:duration>
+      <pubDate>Wed, 18 May 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Stine og fattighuset</title>
       <description><![CDATA[Stine skal sendes til fattighuset. Nå er dagen her. Tekst: «Naadsensbrød» av Henrik Pontoppidan ]]></description>
@@ -82,15 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/c719d7e3-b6ca-46cf-8d64-c8d1ed947437_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:07</itunes:duration>
       <pubDate>Thu, 05 May 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vismannen i Alvdal</title>
-      <description><![CDATA[Høsten 1917 flyttet en indisk filosof, poet og yogi til en liten norsk bygd.  Tekst av Vera Kvaal
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/46d48b12-7b27-401b-a105-5eb81bef0419_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/46d48b12-7b27-401b-a105-5eb81bef0419_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:43</itunes:duration>
-      <pubDate>Wed, 04 May 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
