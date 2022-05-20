@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 15 May 2022 04:49:11 +0000</lastBuildDate>
-    <pubDate>Sun, 15 May 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 20 May 2022 10:36:43 +0000</lastBuildDate>
+    <pubDate>Fri, 20 May 2022 12:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Hyllest til B-mor</title>
+      <description><![CDATA[Vi hyller kjære B-mor, som sovnet fredelig inn til lyden av «Ja, vi elsker» og «hipp hurra!» på 17. mai,  og som dermed gikk ut av et langt og godt liv med flagget til topps. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/eec15f96-a834-4481-a32b-b4be4215e67b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/eec15f96-a834-4481-a32b-b4be4215e67b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:31</itunes:duration>
+      <pubDate>Fri, 20 May 2022 12:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Else besøker: Silje Nordnes </title>
       <description><![CDATA[Else drar på besøk til Silje Nordnes og katten Hunter. Silje forteller om den gangen hun ble tatt for smugrøyking, om hvordan man skal disiplinere en katt, og om jakten på den store kjærligheten. ]]></description>
@@ -83,15 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/83a1e915-e91d-48b3-98f5-6f9526da42d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:53</itunes:duration>
       <pubDate>Sun, 13 Mar 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Edvard Valberg, kobraslange og chaiselong </title>
-      <description><![CDATA[Vokalist i Honningbarna, Edvard Valberg, forteller om den gangen bandet "faket" et kobra-bitt, om oppveksten med buddhistiske foreldre, og om da han brakk foten midt under en konsert. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/52c8c32b-82c9-4a28-8d8e-fded37790894_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/52c8c32b-82c9-4a28-8d8e-fded37790894_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:25</itunes:duration>
-      <pubDate>Sun, 06 Mar 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
