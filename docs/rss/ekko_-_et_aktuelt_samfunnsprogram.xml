@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 18 May 2022 03:35:24 +0000</lastBuildDate>
-    <pubDate>Wed, 18 May 2022 05:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 23 May 2022 04:03:07 +0000</lastBuildDate>
+    <pubDate>Mon, 23 May 2022 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Strømmekrigen om din skjerm</title>
+      <description><![CDATA[Netflix er ikke lenger det eneste lokomotivet inn i strømmefremtiden. Hva bestemmer hvem som vinner kampen om din oppmerksomhet?
+
+Av: Dang Trinh
+
+Nye episoder mandag, tirsdag, onsdag og torsdag]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f16efc67-c36a-4fc9-b4e8-2e851f8e2d8f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f16efc67-c36a-4fc9-b4e8-2e851f8e2d8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:48</itunes:duration>
+      <pubDate>Mon, 23 May 2022 05:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Vitenskapen bak straffekonk</title>
       <description><![CDATA[Hvor tilfeldig er det egentlig hvem som vinner en straffespark-konkurranse?
@@ -118,18 +130,6 @@ Nye episoder mandag, tirsdag, onsdag og torsdag.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b3758d85-6727-4ae7-ab16-676124610d0a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:56</itunes:duration>
       <pubDate>Tue, 03 May 2022 05:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Erlend Loe prøver å forstå russerne</title>
-      <description><![CDATA[Hvordan kan vi forstå den tilsynelatende massive støtten til Putin i Russland?
-
-Av: Vibeke Røiri
-
-Nye episoder mandag, tirsdag, onsdag og torsdag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/139e4ca4-b3bb-4705-95f4-8ccf077cf368_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/139e4ca4-b3bb-4705-95f4-8ccf077cf368_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:51</itunes:duration>
-      <pubDate>Mon, 02 May 2022 05:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
