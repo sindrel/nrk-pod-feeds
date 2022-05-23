@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 19 May 2022 13:02:27 +0000</lastBuildDate>
-    <pubDate>Thu, 19 May 2022 13:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 23 May 2022 20:34:01 +0000</lastBuildDate>
+    <pubDate>Mon, 23 May 2022 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Gabriella Mathisen</title>
+      <description><![CDATA[Hun er profesjonell langdistanseløper - men har en en bakgrunn med omsorgssvikt, rus og prostitusjon. I fjor løp et av verdens tøffeste løp i den Namibiske ørken.   
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d11262c2-6644-4424-9eaa-9c98a0b7f080_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d11262c2-6644-4424-9eaa-9c98a0b7f080_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:04</itunes:duration>
+      <pubDate>Mon, 23 May 2022 14:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Håvard Danielsen</title>
       <description><![CDATA[Han tar i bruk kunstig intelligens i sin forskning på kreft. Dette har gitt ham Norges mest prestisjetunge kreftforskningspris]]></description>
@@ -82,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/19d86a7c-4014-4282-be4f-e487efe9cd07_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Thu, 28 Apr 2022 14:40:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Aleksander Schau</title>
-      <description><![CDATA[Fotballeksperten skal ikke se et sekund av fotball-vm i Qatar. Det er helt uaktuelt. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0cea98fe-c38f-43b5-8892-c51aea191ed2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0cea98fe-c38f-43b5-8892-c51aea191ed2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:31</itunes:duration>
-      <pubDate>Wed, 27 Apr 2022 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
