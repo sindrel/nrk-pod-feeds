@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 17 May 2022 04:01:53 +0000</lastBuildDate>
-    <pubDate>Tue, 17 May 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 24 May 2022 04:01:27 +0000</lastBuildDate>
+    <pubDate>Tue, 24 May 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Når bestevennen ligger med crushet ditt </title>
+      <description><![CDATA[Zara og Lydia deler tanker (og frustrasjon) rundt knuste drømmer om voksenlivet og vennskap. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/45af474d-9a01-4981-8d07-4ed05dbee4ba_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/45af474d-9a01-4981-8d07-4ed05dbee4ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:28</itunes:duration>
+      <pubDate>Tue, 24 May 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Zara var nær døden (igjen)</title>
       <description><![CDATA[Zara og Lydia sjekker horoskopet sitt og forteller om hver sin nær døden-opplevelse.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/260cd447-d136-4112-89d0-66192f123d17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:31</itunes:duration>
       <pubDate>Tue, 22 Mar 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Starstruck av Vegard Harm</title>
-      <description><![CDATA[ Zara forteller om sitt livs viktigste møte. Lydia er klar for krise.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/845f62ae-ad98-4f76-94c4-2bbc056739be_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/845f62ae-ad98-4f76-94c4-2bbc056739be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:26</itunes:duration>
-      <pubDate>Tue, 15 Mar 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
