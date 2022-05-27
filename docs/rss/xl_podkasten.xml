@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 20 May 2022 04:48:09 +0000</lastBuildDate>
-    <pubDate>Fri, 20 May 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 27 May 2022 04:01:34 +0000</lastBuildDate>
+    <pubDate>Fri, 27 May 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nqIRlhtxyF35TlALDzD0ggObot8931ArkY8dqAP2ctew"/>
+    <item>
+      <title>Historier fra gata!</title>
+      <description><![CDATA[Johnny Depp og Amber Heard rettsaken den siste uken.
+Brukket beinet 16 ganger.
+Varslingsbrev fra Anges.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/xl_podkasten/e2a30874-b38a-47b5-9610-87d2fd595c8f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/e2a30874-b38a-47b5-9610-87d2fd595c8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:59</itunes:duration>
+      <pubDate>Fri, 27 May 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Har du noensinne gjort alt for kjærligheten?</title>
       <description><![CDATA[Når du blir så forbanna at du slår av ditt eget radioprogram!
@@ -111,17 +122,6 @@ Per "Huspoet "Larsen:  Astrologi og Mordet i vaskekjelleren.
       <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/8139d8fb-b76f-4bd6-8698-d9eda471e0ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:14</itunes:duration>
       <pubDate>Fri, 25 Mar 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kunst, alkohol og kvakksalveri</title>
-      <description><![CDATA[Kunstner Nikolai Torgersen - Hjemløs i Paris
-Komiker Yousef Hadaoui - Sjekking av damer
-Huspoet Per Larsen - Krimen som ikke vil dø
-Når en kvakksalver reddet dagen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/xl_podkasten/744fd1fd-4633-4293-b809-e3ba90303bf6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/744fd1fd-4633-4293-b809-e3ba90303bf6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:02</itunes:duration>
-      <pubDate>Fri, 18 Mar 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
