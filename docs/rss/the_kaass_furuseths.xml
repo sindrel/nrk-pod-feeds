@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 22 May 2022 04:43:26 +0000</lastBuildDate>
-    <pubDate>Sun, 22 May 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 29 May 2022 04:49:52 +0000</lastBuildDate>
+    <pubDate>Sun, 29 May 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Jonas Benyoub</title>
+      <description><![CDATA[Artist Jonas Benyoub får besøk av Else i barndomshjemmet på Ellingsrud i Oslo. Han deler hemmeligheten bak en perfekt kebab og et innblikk i livet på turnébussen til Karpe. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/6f7e4d5f-c1c9-4ade-848d-6af4dd93a52a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/6f7e4d5f-c1c9-4ade-848d-6af4dd93a52a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:41</itunes:duration>
+      <pubDate>Sun, 29 May 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Else besøker: Stian Blipp</title>
       <description><![CDATA[Bak en hemmelig dør, besøker Else "man-caven" til Stian Blipp! Hun får servert beatboxing, og Stian forteller om å opptre foran spyende, slåssende publikummere da Norge åpnet etter pandemien. 
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/f7dd834e-16c9-4973-854c-989de5c78c0b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:34</itunes:duration>
       <pubDate>Sun, 27 Mar 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Thorbjørn Harr, Rattus Rimonoff og oppblåstbar krage</title>
-      <description><![CDATA[Skuespiller Thorbjørn Harr forteller om da datteren utløste airbag-hjelmen hans, om klining på filminnspilling, og om det fiktive skadedyret «Rattus Rimonoff» når han besøker brunsj.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/c5912c96-d891-4f1b-ad77-00c421d8c410_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c5912c96-d891-4f1b-ad77-00c421d8c410_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:43</itunes:duration>
-      <pubDate>Sun, 20 Mar 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
