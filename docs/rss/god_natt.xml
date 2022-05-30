@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 29 May 2022 18:38:03 +0000</lastBuildDate>
-    <pubDate>Sun, 29 May 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 May 2022 18:39:25 +0000</lastBuildDate>
+    <pubDate>Mon, 30 May 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Den dagen det klikka</title>
+      <description><![CDATA[Når lensmann Svingen kommer for å kreve inn penger mister familiefaren besinnelsen.  Tekst: «Fekastad» av Jonny Hallberg ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/452ea6e1-a538-446a-bb8f-c15ce3130b5d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/452ea6e1-a538-446a-bb8f-c15ce3130b5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:12</itunes:duration>
+      <pubDate>Mon, 30 May 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Den livsfarlige gaffelen</title>
       <description><![CDATA[Bare kjerringer ville spise med gaffel. Ekte mannfolk brukte nevene.  Tekst av Vera Kvaal]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/c9dd9dd4-7da0-48f6-9428-3732e3b545ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:55</itunes:duration>
       <pubDate>Tue, 17 May 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title> 100 francs</title>
-      <description><![CDATA[På en bar i Paris sitter en fyllesjuk mann. Hva skjedde i går? Tekst: «Hundre franc» av Jon Ewo ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/8d7e80dd-3210-4659-af01-9531cd751276_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/8d7e80dd-3210-4659-af01-9531cd751276_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:31</itunes:duration>
-      <pubDate>Mon, 16 May 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
