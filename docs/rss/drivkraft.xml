@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 30 May 2022 13:03:15 +0000</lastBuildDate>
-    <pubDate>Mon, 30 May 2022 14:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 31 May 2022 13:01:50 +0000</lastBuildDate>
+    <pubDate>Tue, 31 May 2022 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Frederic Hauge</title>
+      <description><![CDATA[Han grunnla Bellona som 20-åring og har vært en av de viktigste personene i miljøbevegelsen siden 80-tallet. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8dff296a-dade-4576-a313-f6e7d15e70ba_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8dff296a-dade-4576-a313-f6e7d15e70ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:52</itunes:duration>
+      <pubDate>Tue, 31 May 2022 14:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Marvin Halleraker</title>
       <description><![CDATA[Han er en av Nordens fremste avistegnere. I dag er han fast leverandør til Aftenposten og er særlig kjent for sine kommentar- og karikaturtegninger.]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/fef386ca-3102-4a2d-8075-0ea28e87a709_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:48</itunes:duration>
       <pubDate>Mon, 09 May 2022 14:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kristin Clemet</title>
-      <description><![CDATA[Hun er leder i den liberale tankesmien Civita - og har alltid hatt et sterkt samfunnsengasjement. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/77404d6f-28d7-4fde-a67c-fb63f96dcd1c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/77404d6f-28d7-4fde-a67c-fb63f96dcd1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:03</itunes:duration>
-      <pubDate>Thu, 05 May 2022 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
