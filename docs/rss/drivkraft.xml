@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 31 May 2022 13:01:50 +0000</lastBuildDate>
-    <pubDate>Tue, 31 May 2022 14:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jun 2022 13:09:43 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jun 2022 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Lise Finckenhagen</title>
+      <description><![CDATA[Hun er en av landets fremste formidlere av matglede og kokekunst, men føler seg ikke helt norsk. Når hun kommer til Italia - da lander hun. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5b9d16c6-c3aa-4035-8f9e-90b8cd803b0e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5b9d16c6-c3aa-4035-8f9e-90b8cd803b0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Wed, 01 Jun 2022 15:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Frederic Hauge</title>
       <description><![CDATA[Han grunnla Bellona som 20-åring og har vært en av de viktigste personene i miljøbevegelsen siden 80-tallet. ]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/06b7a279-61ff-4a4a-9516-dc66eb657a2c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:31</itunes:duration>
       <pubDate>Wed, 11 May 2022 15:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Malin Falch</title>
-      <description><![CDATA[Hun er skaperen av en av Norges mest populære fantasy-tegneserier . "Nordlys" - har røtter i norsk folketro.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/fef386ca-3102-4a2d-8075-0ea28e87a709_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/fef386ca-3102-4a2d-8075-0ea28e87a709_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:48</itunes:duration>
-      <pubDate>Mon, 09 May 2022 14:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
