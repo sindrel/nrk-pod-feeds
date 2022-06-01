@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 30 May 2022 18:39:25 +0000</lastBuildDate>
-    <pubDate>Mon, 30 May 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jun 2022 02:52:30 +0000</lastBuildDate>
+    <pubDate>Tue, 31 May 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Ørnen som vokste opp i en hønsegård </title>
+      <description><![CDATA[«Den stygge andungen» er fake news. Her er den virkelige historien. Tekst: «Ørneflugt» av Henrik Pontoppidan ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/1b39ac3c-7973-443c-82b9-b0e7eb057e26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/1b39ac3c-7973-443c-82b9-b0e7eb057e26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:37</itunes:duration>
+      <pubDate>Tue, 31 May 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Den dagen det klikka</title>
       <description><![CDATA[Når lensmann Svingen kommer for å kreve inn penger mister familiefaren besinnelsen.  Tekst: «Fekastad» av Jonny Hallberg ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/ca1f8125-3e3a-409c-a0c5-f9c81534c621_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:32</itunes:duration>
       <pubDate>Wed, 18 May 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Stine og fattighuset</title>
-      <description><![CDATA[Stine skal sendes til fattighuset. Nå er dagen her. Tekst: «Naadsensbrød» av Henrik Pontoppidan ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/c9dd9dd4-7da0-48f6-9428-3732e3b545ea_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/c9dd9dd4-7da0-48f6-9428-3732e3b545ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:55</itunes:duration>
-      <pubDate>Tue, 17 May 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
