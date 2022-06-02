@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 01 Jun 2022 18:42:00 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Jun 2022 18:39:50 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Festløvens kone</title>
+      <description><![CDATA[Et ekteskap er forbi og hun ser tilbake på det som var. Tekst: «Med slipset bak som vimpel» av Toril Brekke ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/08adb3fa-9c8f-4ff5-be27-d23419728c70_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/08adb3fa-9c8f-4ff5-be27-d23419728c70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:26</itunes:duration>
+      <pubDate>Thu, 02 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Derfor logrer hunden med halen </title>
       <description><![CDATA[En gammel fabel om hvordan hunder begynte å logre med halen. Tekst: «Hvorfor hunden logrer» av Tor Åge Bringsværd ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/12a6152b-bc02-40d0-84a0-bbb231349e81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:15</itunes:duration>
       <pubDate>Sun, 22 May 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Noe har satt seg fast mellom tenna</title>
-      <description><![CDATA[ Jeg hadde ikke trodd at tannpirking var så interessant – men det er det! Tekst av Vera Kvaal]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/c747c490-046a-4922-8eeb-f4a079185998_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/c747c490-046a-4922-8eeb-f4a079185998_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:27</itunes:duration>
-      <pubDate>Thu, 19 May 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
