@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 29 May 2022 04:49:49 +0000</lastBuildDate>
-    <pubDate>Sun, 29 May 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Jun 2022 04:37:46 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jun 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Legender, radio og jakttabbe </title>
+      <description><![CDATA[Jens og Isak elsker legender, og mener alle bør ha et forbilde. Gutta forteller om en lærerik jaktdag, Isak deler drøy historie fra Farmen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/bd926286-3474-4b00-8ce1-539c3d47fc99_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/bd926286-3474-4b00-8ce1-539c3d47fc99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:41</itunes:duration>
+      <pubDate>Sun, 05 Jun 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Kano, kniv og polferd </title>
       <description><![CDATA[Isak har begynt å gå med kniv i beltet på jobb etter at han traff Jens. Gutta prater om kanoturer og sin første langtur helt alene.  ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/0141c8c2-6d6d-4e6d-91b3-c1ead5629212_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:09</itunes:duration>
       <pubDate>Sun, 03 Apr 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Grønland, uvaner og dobbeldate</title>
-      <description><![CDATA[Jens har endelig funnet en han vil dra på ekspedisjon med, men Isak er redd for hjemlengsel. Og valpen til Jens har fått en ny uvane.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/4c989cce-eb13-4910-a123-26ce9672f15e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/4c989cce-eb13-4910-a123-26ce9672f15e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:17</itunes:duration>
-      <pubDate>Sun, 27 Mar 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
