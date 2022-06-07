@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 06 Jun 2022 18:37:22 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Jun 2022 18:35:44 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Den magiske fargen</title>
+      <description><![CDATA[ Marsboere er grønne. Det er trylledrikker også. Hva er det med grønn? 
+Tekst av Vera Kvaal ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/aaa5db5d-2fbc-4025-8dbf-e7bbf45aefe1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/aaa5db5d-2fbc-4025-8dbf-e7bbf45aefe1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:33</itunes:duration>
+      <pubDate>Tue, 07 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>De to elskende</title>
       <description><![CDATA[En gammel kjærlighetshistorie skrevet for hoffet til Kong Henrik 2. 
@@ -84,14 +93,6 @@ Tekst: «Postkassestativet» av Gro Dahle ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/god_natt/5cce85ba-dbb6-4fc2-895b-2eece2a2bf94_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:34</itunes:duration>
       <pubDate>Wed, 25 May 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vår i villmarka</title>
-      <description><![CDATA[En vårnatt sitter tre menn i en tømmerkoie og  forteller jakthistorier. Tekst: «Vår i villmarka» av Mikkjel Fønhus]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/7102b842-31c7-4b86-8561-61648fa3eb9a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/7102b842-31c7-4b86-8561-61648fa3eb9a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:08</itunes:duration>
-      <pubDate>Tue, 24 May 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
