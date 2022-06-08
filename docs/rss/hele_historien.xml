@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Hele historien</title>
+    <title>De 6 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 01 Jun 2022 22:35:21 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jun 2022 00:03:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jun 2022 22:31:31 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jun 2022 00:09:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw"/>
     <item>
@@ -50,6 +50,14 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/8a9c9725-5caa-460a-b903-9511aa597bf0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:52</itunes:duration>
       <pubDate>Thu, 02 Jun 2022 00:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tungtvannsaksjonene bonusepisode</title>
+      <description><![CDATA[Hva betydde egentlig tungtvannsaksjonene - både under krigen og etterpå? Historiker Lars Borgersrud og forfatter Jan Ketil Arnulf forteller om Norge som atommakt og tungtvannsprodusent etter 1945.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/a1416c29-e5b9-43be-b959-744fcea22dee_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/a1416c29-e5b9-43be-b959-744fcea22dee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:51</itunes:duration>
+      <pubDate>Thu, 09 Jun 2022 00:09:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
