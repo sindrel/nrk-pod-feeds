@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 12 Jun 2022 18:34:07 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Jun 2022 18:39:22 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Kråkeungen </title>
+      <description><![CDATA[Den sommeren Erna Elisabeth ble venn med en kråke. Tekst: «Kråkeben» av Regine Normann ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/770065b5-00d2-4ac2-a59f-6c391025f8ad_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/770065b5-00d2-4ac2-a59f-6c391025f8ad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:49</itunes:duration>
+      <pubDate>Mon, 13 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Den magiske steinen</title>
       <description><![CDATA[En historie om et merkverdig møte i skogen og om en stor stein. Tekst: «Steinen» av Lars Saabye Christensen ]]></description>
@@ -85,14 +93,6 @@ Tekst: «Postkassestativet» av Gro Dahle ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/god_natt/1b39ac3c-7973-443c-82b9-b0e7eb057e26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:37</itunes:duration>
       <pubDate>Tue, 31 May 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Den dagen det klikka</title>
-      <description><![CDATA[Når lensmann Svingen kommer for å kreve inn penger mister familiefaren besinnelsen.  Tekst: «Fekastad» av Jonny Hallberg ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/452ea6e1-a538-446a-bb8f-c15ce3130b5d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/452ea6e1-a538-446a-bb8f-c15ce3130b5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:12</itunes:duration>
-      <pubDate>Mon, 30 May 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
