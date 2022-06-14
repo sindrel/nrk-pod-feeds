@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Jun 2022 18:39:22 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jun 2022 18:37:32 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Hjorteflokken</title>
+      <description><![CDATA[Far og sønn er på biltur. Så får de se en flokk med ville dyr. Tekst: «Hjortetrekk» av Pål Gitmark Eriksen 
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/e5ddbcc1-d6f7-40df-b81e-6280c8ac2be9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/e5ddbcc1-d6f7-40df-b81e-6280c8ac2be9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:08</itunes:duration>
+      <pubDate>Tue, 14 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Kråkeungen </title>
       <description><![CDATA[Den sommeren Erna Elisabeth ble venn med en kråke. Tekst: «Kråkeben» av Regine Normann ]]></description>
@@ -85,14 +95,6 @@ Tekst: «Postkassestativet» av Gro Dahle ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/god_natt/0a73d338-9392-4542-9766-570b226553f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:05</itunes:duration>
       <pubDate>Wed, 01 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ørnen som vokste opp i en hønsegård </title>
-      <description><![CDATA[«Den stygge andungen» er fake news. Her er den virkelige historien. Tekst: «Ørneflugt» av Henrik Pontoppidan ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/1b39ac3c-7973-443c-82b9-b0e7eb057e26_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/1b39ac3c-7973-443c-82b9-b0e7eb057e26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:37</itunes:duration>
-      <pubDate>Tue, 31 May 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
