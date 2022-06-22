@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 21 Jun 2022 18:38:03 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Jun 2022 18:41:43 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Den trofaste lille høna</title>
+      <description><![CDATA[Når andemor ikke vil ha ungene sine overtar en høne oppdraget.  Tekst: «Den trofaste lille mora» av Regine Normann ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/0cbc8f04-a662-4c7e-9c42-abb09ab34072_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/0cbc8f04-a662-4c7e-9c42-abb09ab34072_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:20</itunes:duration>
+      <pubDate>Wed, 22 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Gjenferdet</title>
       <description><![CDATA[En sliten journalist skal overnatte hos en bekjent, men på veien møter han noe mystisk. Tekst: «Vaktmesteren» av Eyvind Hauge
@@ -87,14 +95,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/e7864744-b2d0-4e83-bc78-3934b846a337_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>16:09</itunes:duration>
       <pubDate>Thu, 09 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lillesøster</title>
-      <description><![CDATA[En liten gutt drømmer om å få et søsken å leke med. Tekst: «Lillesøster» av Peter Egge ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/e002d351-8bca-434c-9cfa-5dd83e1d16e1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/e002d351-8bca-434c-9cfa-5dd83e1d16e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:18</itunes:duration>
-      <pubDate>Wed, 08 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
