@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Jun 2022 13:49:41 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jun 2022 15:35:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Jun 2022 13:01:23 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jun 2022 13:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/1nHt8ovnj56ilCHg0B_s8QHloqdIQuIKGufypReGs7-g"/>
+    <item>
+      <title>Ferske sommertips: HBO Max</title>
+      <description><![CDATA[Sigurd og Marte gir deg sine seriefavoritter på strømmetjenestene siden sist sommer. Denne gangen: HBO Max. 
+
+Trenger du noen godbiter å titte på i sommer er altså disse seriene verdt en titt: The Staircase, Our Flag Means Death, Peacemaker, We Own This City, Sex Lives of College Girls og Landscapers!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/ce76e675-9798-4ff7-9585-beaa17f1eec6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/ce76e675-9798-4ff7-9585-beaa17f1eec6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:49</itunes:duration>
+      <pubDate>Thu, 23 Jun 2022 13:45:00 +0200</pubDate>
+    </item>
     <item>
       <title>Obi-Wan Kenobi-spesial E5</title>
       <description><![CDATA[Hello there! Sigurd og Marte kaster seg ut i galaksen langt, langt borte og diskuterer episode 5 av «Obi-Wan Kenobi» på Disney+.]]></description>
@@ -84,14 +94,6 @@ Sigurd og Marte diskuterer sesong 4 av «Stranger Things», og kjenner at det si
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/ef644ccb-d764-4dd4-a1a6-7e1908ad15d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:13</itunes:duration>
       <pubDate>Thu, 12 May 2022 15:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Doctor Strange in the Spoilerverse of Madness</title>
-      <description><![CDATA[I denne spoilerfylte podkasten diskuterer Birger, Marte og Sigurd den nye Marvel-filmen, og ser hvordan vi ligger an cirka midtveis i MCU fase 4.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/c91e8d6c-b07b-4ba5-ba50-b68457e43eff_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/c91e8d6c-b07b-4ba5-ba50-b68457e43eff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:10:15</itunes:duration>
-      <pubDate>Thu, 05 May 2022 15:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
