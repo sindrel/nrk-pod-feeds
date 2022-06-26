@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Jun 2022 18:40:27 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 26 Jun 2022 18:34:38 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Hershel og vertshuskona</title>
+      <description><![CDATA[En omstreifer kommer til en kro. Han er sulten. Men er han farlig? Tekst: «Hershel og vertshuskona» av Eva Scheel ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/01a6c23c-a1a9-4bc1-ad1d-2560fdb095bf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/01a6c23c-a1a9-4bc1-ad1d-2560fdb095bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:56</itunes:duration>
+      <pubDate>Sun, 26 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Lettkledd i Amerika</title>
       <description><![CDATA[  Det er familiefest på USAs nasjonaldag og far blir sint på sin lettkledte datter.  Tekst: «Starsprangled banner» av Gro Dahle ]]></description>
@@ -87,14 +95,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/770065b5-00d2-4ac2-a59f-6c391025f8ad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:49</itunes:duration>
       <pubDate>Mon, 13 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Den magiske steinen</title>
-      <description><![CDATA[En historie om et merkverdig møte i skogen og om en stor stein. Tekst: «Steinen» av Lars Saabye Christensen ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/7735d937-8e80-4fcd-ae82-799616b9501b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/7735d937-8e80-4fcd-ae82-799616b9501b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:18</itunes:duration>
-      <pubDate>Sun, 12 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
