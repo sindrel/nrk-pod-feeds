@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Jun 2022 13:01:23 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jun 2022 13:45:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jun 2022 14:32:13 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jun 2022 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/1nHt8ovnj56ilCHg0B_s8QHloqdIQuIKGufypReGs7-g"/>
+    <item>
+      <title>Obi-Wan Kenobi-spesial E6</title>
+      <description><![CDATA[Hello there! Sigurd og Marte kaster seg ut i galaksen langt, langt borte og diskuterer episode 6 av «Obi-Wan Kenobi» på Disney+.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/dcbbca4e-87a4-4bf4-a7ac-be318646d575_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/dcbbca4e-87a4-4bf4-a7ac-be318646d575_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35:00</itunes:duration>
+      <pubDate>Mon, 27 Jun 2022 16:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ferske sommertips: HBO Max</title>
       <description><![CDATA[Sigurd og Marte gir deg sine seriefavoritter på strømmetjenestene siden sist sommer. Denne gangen: HBO Max. 
@@ -86,14 +94,6 @@ Sigurd og Marte diskuterer sesong 4 av «Stranger Things», og kjenner at det si
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/ed797468-6617-4645-ace5-15f5dc3e4c9f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:57</itunes:duration>
       <pubDate>Thu, 19 May 2022 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>To ferske krimtips fra Los Angeles!</title>
-      <description><![CDATA[Vi diskuterer seriene «The Lincoln Lawyer» og «Bosch: Legacy», pluss Liam Neeson-filmen «Memory»! I studio: Birger Vestmo og Sigurd Vik.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/ef644ccb-d764-4dd4-a1a6-7e1908ad15d4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/ef644ccb-d764-4dd4-a1a6-7e1908ad15d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:13</itunes:duration>
-      <pubDate>Thu, 12 May 2022 15:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
