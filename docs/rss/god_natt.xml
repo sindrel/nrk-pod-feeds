@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 26 Jun 2022 18:34:38 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jun 2022 18:43:22 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Marsvinet </title>
+      <description><![CDATA[En ung mann skal treffe svigermor for første gang. Hun har et kjæledyr. Tekst: «Knappene» av Thorvald Steen ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/c8ffd6c3-79ce-487f-8e49-8de40cd2e5cd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/c8ffd6c3-79ce-487f-8e49-8de40cd2e5cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:11</itunes:duration>
+      <pubDate>Mon, 27 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hershel og vertshuskona</title>
       <description><![CDATA[En omstreifer kommer til en kro. Han er sulten. Men er han farlig? Tekst: «Hershel og vertshuskona» av Eva Scheel ]]></description>
@@ -87,14 +95,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/e5ddbcc1-d6f7-40df-b81e-6280c8ac2be9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>08:08</itunes:duration>
       <pubDate>Tue, 14 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kråkeungen </title>
-      <description><![CDATA[Den sommeren Erna Elisabeth ble venn med en kråke. Tekst: «Kråkeben» av Regine Normann ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/770065b5-00d2-4ac2-a59f-6c391025f8ad_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/770065b5-00d2-4ac2-a59f-6c391025f8ad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:49</itunes:duration>
-      <pubDate>Mon, 13 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
