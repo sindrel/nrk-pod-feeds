@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Jun 2022 18:43:22 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2022 18:44:53 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Sorg og bananer</title>
+      <description><![CDATA[Et ektepar leker med ord på badet. Hvilket ord er best? Tekst: «Sorg og bananer» av Gro Dahle ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/e802d1ec-f98b-4819-a742-79ed5158c956_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/e802d1ec-f98b-4819-a742-79ed5158c956_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:32</itunes:duration>
+      <pubDate>Tue, 28 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Marsvinet </title>
       <description><![CDATA[En ung mann skal treffe svigermor for første gang. Hun har et kjæledyr. Tekst: «Knappene» av Thorvald Steen ]]></description>
@@ -85,16 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/0ae7086b-0576-4321-913f-1997eff84d3e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:24</itunes:duration>
       <pubDate>Wed, 15 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hjorteflokken</title>
-      <description><![CDATA[Far og sønn er på biltur. Så får de se en flokk med ville dyr. Tekst: «Hjortetrekk» av Pål Gitmark Eriksen 
-
- ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/e5ddbcc1-d6f7-40df-b81e-6280c8ac2be9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/e5ddbcc1-d6f7-40df-b81e-6280c8ac2be9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:08</itunes:duration>
-      <pubDate>Tue, 14 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
