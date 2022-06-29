@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 Jun 2022 18:44:53 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2022 18:43:01 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Portrettet</title>
+      <description><![CDATA[En historie om da en ung gutt første gang kikket inn i et Leica-kamera.  Tekst: «Portrett» av Lars Saabye Christensen
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/890e45af-7290-496d-9952-893b2f852759_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/890e45af-7290-496d-9952-893b2f852759_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:13</itunes:duration>
+      <pubDate>Wed, 29 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Sorg og bananer</title>
       <description><![CDATA[Et ektepar leker med ord på badet. Hvilket ord er best? Tekst: «Sorg og bananer» av Gro Dahle ]]></description>
@@ -85,14 +95,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/b932cc26-9b90-4acb-a97a-9ff948092b80_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:01</itunes:duration>
       <pubDate>Thu, 16 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hoggormens venn</title>
-      <description><![CDATA[Kan to hoggormer elske hverandre. Ja, kanskje. Tekst av Vera Kvaal ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/0ae7086b-0576-4321-913f-1997eff84d3e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/0ae7086b-0576-4321-913f-1997eff84d3e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:24</itunes:duration>
-      <pubDate>Wed, 15 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
