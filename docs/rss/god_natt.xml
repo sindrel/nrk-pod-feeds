@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Jun 2022 18:43:01 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2022 18:42:57 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Gi barna tran</title>
+      <description><![CDATA[Når ingen ser hvordan du har det og tilbyr deg tran i stedet. Tekst: «Gi barna tran» av Eivind Hauge ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/5e89e79f-24ba-418d-b707-7d58c1ac5291_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/5e89e79f-24ba-418d-b707-7d58c1ac5291_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:42</itunes:duration>
+      <pubDate>Thu, 30 Jun 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Portrettet</title>
       <description><![CDATA[En historie om da en ung gutt første gang kikket inn i et Leica-kamera.  Tekst: «Portrett» av Lars Saabye Christensen
@@ -87,14 +95,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/8f2c9197-03ed-4654-9f8a-56fe9814f875_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:54</itunes:duration>
       <pubDate>Sun, 19 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sommerstreif i fjellet </title>
-      <description><![CDATA[En vakker sommernatt møtes to menn som begge elsker det frie omstreiferlivet.  Tekst: «Fanten Ole Pers»  av Johan Falkberget ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/b932cc26-9b90-4acb-a97a-9ff948092b80_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/b932cc26-9b90-4acb-a97a-9ff948092b80_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:01</itunes:duration>
-      <pubDate>Thu, 16 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
