@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 30 Jun 2022 18:42:57 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jun 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 03 Jul 2022 18:34:28 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Jul 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Hestkuk</title>
+      <description><![CDATA[En liten jente får høre et rart ord.  Men hva betyr det? Tekst: «Hestkuk» av Laila Stien ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/d3db523a-443a-4e0d-846f-791e7ac191ed_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/d3db523a-443a-4e0d-846f-791e7ac191ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:42</itunes:duration>
+      <pubDate>Sun, 03 Jul 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Gi barna tran</title>
       <description><![CDATA[Når ingen ser hvordan du har det og tilbyr deg tran i stedet. Tekst: «Gi barna tran» av Eivind Hauge ]]></description>
@@ -85,16 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/4d476faa-4c8a-463e-8a59-a23fa43ce048_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>10:03</itunes:duration>
       <pubDate>Mon, 20 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Anne  + Anne = sant</title>
-      <description><![CDATA[Anne og Anne er kjærester og nå skal de hjem å fortelle det. Tekst: «Anne og Anne kommer hjem til jul» av Gerd Brantenberg 
-
- ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/8f2c9197-03ed-4654-9f8a-56fe9814f875_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/8f2c9197-03ed-4654-9f8a-56fe9814f875_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:54</itunes:duration>
-      <pubDate>Sun, 19 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
