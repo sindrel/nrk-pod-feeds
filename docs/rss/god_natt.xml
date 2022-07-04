@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 03 Jul 2022 18:34:28 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Jul 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2022 18:38:00 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Jul 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Bankraneren</title>
+      <description><![CDATA[Pelle er kunstner med lav inntekt. Nå vil han rane en bank. Tekst: «Perler for svin» av Anne B. Ragde ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/a8557f4b-4bb7-4a4c-8798-cf44db8482e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/a8557f4b-4bb7-4a4c-8798-cf44db8482e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:54</itunes:duration>
+      <pubDate>Mon, 04 Jul 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hestkuk</title>
       <description><![CDATA[En liten jente får høre et rart ord.  Men hva betyr det? Tekst: «Hestkuk» av Laila Stien ]]></description>
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/7233503c-8634-497c-ba06-165052f6410a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>14:17</itunes:duration>
       <pubDate>Tue, 21 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kjærlighet og leppestift</title>
-      <description><![CDATA[Fargen rød er kongen av alle farger. Tekst av Vera Kvaal ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/4d476faa-4c8a-463e-8a59-a23fa43ce048_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/4d476faa-4c8a-463e-8a59-a23fa43ce048_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:03</itunes:duration>
-      <pubDate>Mon, 20 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
