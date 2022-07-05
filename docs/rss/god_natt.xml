@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Jul 2022 18:38:00 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Jul 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Jul 2022 18:38:02 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Jul 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Ulven</title>
+      <description><![CDATA[Er det bra eller dårlig når din kjærestes venninne kaller deg for et rovdyr? Tekst: «En ulv» av Geir Gulliksen ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/deb8582c-d321-427e-868d-08b661e70324_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/deb8582c-d321-427e-868d-08b661e70324_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:33</itunes:duration>
+      <pubDate>Tue, 05 Jul 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Bankraneren</title>
       <description><![CDATA[Pelle er kunstner med lav inntekt. Nå vil han rane en bank. Tekst: «Perler for svin» av Anne B. Ragde ]]></description>
@@ -84,15 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/0cbc8f04-a662-4c7e-9c42-abb09ab34072_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>08:20</itunes:duration>
       <pubDate>Wed, 22 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gjenferdet</title>
-      <description><![CDATA[En sliten journalist skal overnatte hos en bekjent, men på veien møter han noe mystisk. Tekst: «Vaktmesteren» av Eyvind Hauge
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/7233503c-8634-497c-ba06-165052f6410a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/7233503c-8634-497c-ba06-165052f6410a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:17</itunes:duration>
-      <pubDate>Tue, 21 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
