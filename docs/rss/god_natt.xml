@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Jul 2022 18:38:35 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Jul 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 12 Jul 2022 18:40:32 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Jul 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Råttent fjell </title>
+      <description><![CDATA[Reinhardt og Jezebel bor under en fjellhammer. Men snart vil den falle ned.  Tekst: «Råttent fjell» av Terje Stigen ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/bfa7483a-eefc-444b-9c12-8943d31b87f6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/bfa7483a-eefc-444b-9c12-8943d31b87f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:08</itunes:duration>
+      <pubDate>Tue, 12 Jul 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Besøk fra fortiden</title>
       <description><![CDATA[Et ektepar venter gjester. En av dem har en forhistorie.   Tekst: «Mårfellen» av Øystein Lønn ]]></description>
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/c8ffd6c3-79ce-487f-8e49-8de40cd2e5cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:11</itunes:duration>
       <pubDate>Mon, 27 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hershel og vertshuskona</title>
-      <description><![CDATA[En omstreifer kommer til en kro. Han er sulten. Men er han farlig? Tekst: «Hershel og vertshuskona» av Eva Scheel ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/01a6c23c-a1a9-4bc1-ad1d-2560fdb095bf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/01a6c23c-a1a9-4bc1-ad1d-2560fdb095bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:56</itunes:duration>
-      <pubDate>Sun, 26 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
