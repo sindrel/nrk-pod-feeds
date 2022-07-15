@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 08 Jul 2022 11:28:47 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Jul 2022 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 15 Jul 2022 08:38:36 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Jul 2022 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jciNfo-_zNunSBO4vSz6aAIsRUrc3MX-jTI_ZV3TUdwQ"/>
+    <item>
+      <title>Abels tårn - Skjønnheten i kaos</title>
+      <description><![CDATA[Kan det å møte sin elskede sammenlignes med kvantefysikk - bølgefunksjonens kollaps? Julia Ravanis skriver om det vakreste hun vet om: fysikk, kjærlighet og kaos.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f84b5d42-5a96-48f3-aae3-949591325dd0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f84b5d42-5a96-48f3-aae3-949591325dd0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:07</itunes:duration>
+      <pubDate>Fri, 15 Jul 2022 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Abels Tårn - Er insektshotell ren humbug? </title>
       <description><![CDATA[Dette er en sammensatt sending med ekstraopptak fra flere paneler som svarer på disse spørsmålene:
@@ -201,22 +209,6 @@ Hvor mye energi brukes for å produsere, og anvende kunstgjødsel?     ]]></desc
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e0d71cba-f446-4ba7-b1c1-6df881b0b9b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>58:00</itunes:duration>
       <pubDate>Fri, 03 Jun 2022 11:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Abels Bakgård - Boligdrømmen på Mars</title>
-      <description><![CDATA[To vitenskapsmenn, Eirik Newth og Vegard Rekaa tar for seg ett spørsmål fra en lytter:
-"Hva er egentlig status på planer for å bebo Mars"
- 
-I tillegg ser vi på planene til Elon Musk om å bebo Mars.
- 
-Vi hører fra mannen som er ansvarlig for bakkeradaren Rimfax og roveren Perseverance som nå tusler rundt og gjør sitt på Mars.
- 
-Og, vi snakker med årets vinner av Kavliprisen i astrofysikk.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/36299c16-b38b-4b4b-90d4-89be67686479_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/36299c16-b38b-4b4b-90d4-89be67686479_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:04</itunes:duration>
-      <pubDate>Fri, 03 Jun 2022 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
