@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 17 Jul 2022 18:35:34 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Jul 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Jul 2022 18:37:42 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Jul 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Et deilig sommerbad</title>
+      <description><![CDATA[En eldre mann vil gjøre noe grenseløst og bestemmer seg for å ta et bad. Det får konsekvenser.
+Tekst: «Jonsok» av Gro Dahle
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaktør: Ingerid Nordstrand]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/a3ee4f00-61d7-4f30-a60e-b299ffabdf48_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/a3ee4f00-61d7-4f30-a60e-b299ffabdf48_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:46</itunes:duration>
+      <pubDate>Mon, 18 Jul 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Fattiggutten</title>
       <description><![CDATA[En dag ringer de fra fengslet. Arrestanten vil snakke med sin gamle lærer. Tekst: «Den vergeløse» av Regine Normann]]></description>
@@ -86,14 +96,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/890e45af-7290-496d-9952-893b2f852759_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:13</itunes:duration>
       <pubDate>Wed, 29 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sorg og bananer</title>
-      <description><![CDATA[Et ektepar leker med ord på badet. Hvilket ord er best? Tekst: «Sorg og bananer» av Gro Dahle ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/e802d1ec-f98b-4819-a742-79ed5158c956_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/e802d1ec-f98b-4819-a742-79ed5158c956_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:32</itunes:duration>
-      <pubDate>Tue, 28 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
