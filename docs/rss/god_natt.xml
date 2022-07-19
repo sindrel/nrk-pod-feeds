@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 18 Jul 2022 18:37:42 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Jul 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2022 18:41:39 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Salami fra Sardinia</title>
+      <description><![CDATA[ Der bandittene herjer på Sardinia, bør man ikke spise salami. Tekst: «Salami fra Sardinia» av Olav Ottersen ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/fa9ebb5e-c97d-4fac-8e3f-7e23c68ae9b0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/fa9ebb5e-c97d-4fac-8e3f-7e23c68ae9b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:44</itunes:duration>
+      <pubDate>Tue, 19 Jul 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Et deilig sommerbad</title>
       <description><![CDATA[En eldre mann vil gjøre noe grenseløst og bestemmer seg for å ta et bad. Det får konsekvenser.
@@ -86,16 +94,6 @@ Tekst: «Jonsok» av Gro Dahle
       <enclosure url="https://podkast.nrk.no/fil/god_natt/5e89e79f-24ba-418d-b707-7d58c1ac5291_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:42</itunes:duration>
       <pubDate>Thu, 30 Jun 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Portrettet</title>
-      <description><![CDATA[En historie om da en ung gutt første gang kikket inn i et Leica-kamera.  Tekst: «Portrett» av Lars Saabye Christensen
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/890e45af-7290-496d-9952-893b2f852759_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/890e45af-7290-496d-9952-893b2f852759_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:13</itunes:duration>
-      <pubDate>Wed, 29 Jun 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
