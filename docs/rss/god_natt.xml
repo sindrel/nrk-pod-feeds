@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Jul 2022 18:40:19 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Jul 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Jul 2022 18:40:08 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Jul 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Strandet hval </title>
+      <description><![CDATA[En hval har strandet ved land, men hvem sin tomt ligger den på? Tekst: «Naboer» av Terje Stigen 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaktør: Ingerid Nordstrand]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/f3045522-ec2d-458a-b38b-02dec5a68ff9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/f3045522-ec2d-458a-b38b-02dec5a68ff9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:05</itunes:duration>
+      <pubDate>Tue, 26 Jul 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Om nakne menn</title>
       <description><![CDATA[En kvinne betrakter seks halvnakne menn. Tekst: «Om en uimotståelig påkledd pluss andre avkledde menn» av Tove Nilsen 
@@ -88,14 +97,6 @@ Tekst: «Jonsok» av Gro Dahle
       <enclosure url="https://podkast.nrk.no/fil/god_natt/deb8582c-d321-427e-868d-08b661e70324_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:33</itunes:duration>
       <pubDate>Tue, 05 Jul 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bankraneren</title>
-      <description><![CDATA[Pelle er kunstner med lav inntekt. Nå vil han rane en bank. Tekst: «Perler for svin» av Anne B. Ragde ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/a8557f4b-4bb7-4a4c-8798-cf44db8482e4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/a8557f4b-4bb7-4a4c-8798-cf44db8482e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:54</itunes:duration>
-      <pubDate>Mon, 04 Jul 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
