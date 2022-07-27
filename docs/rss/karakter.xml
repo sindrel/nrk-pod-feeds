@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 20 Jul 2022 02:36:05 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Jul 2022 04:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Jul 2022 02:48:04 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Jul 2022 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Lord of the skies and the sea</title>
+      <description><![CDATA[Jonis sjokkerer Martin og Henrik med en ny hooby og Martin ringer komiker Ole Soo for å få han til å slå en pølse i veggen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/e45cc188-b72c-44c2-8ebc-40fcfe2aa7f8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/e45cc188-b72c-44c2-8ebc-40fcfe2aa7f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:34</itunes:duration>
+      <pubDate>Wed, 27 Jul 2022 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Snoop Doggs metanabo og pjusk mæ i håret</title>
       <description><![CDATA[Hvordan kommer livet i meta-verset til å bli og hvordan gjøre en trøndersk date sjarmerende? Dynga svarer på alt. ]]></description>
@@ -84,14 +92,6 @@ NB: Denne episoden ble spilt inn før 25.06.2022. ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/karakter/4d428d9e-5fe7-4b8c-b5eb-a7527eaba45c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:10</itunes:duration>
       <pubDate>Wed, 15 Jun 2022 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Chip Chop suey i Chøben </title>
-      <description><![CDATA[Hvordan lager man skumma melk, hva er corn flakes og hvilket land bør Norge invadere? Alt dette får du svar på i dagens utgave av Dynga. Har du spørsmål, send til Dynga@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/02898372-54fe-4892-8946-57a30471e66d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/02898372-54fe-4892-8946-57a30471e66d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:28</itunes:duration>
-      <pubDate>Mon, 13 Jun 2022 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
