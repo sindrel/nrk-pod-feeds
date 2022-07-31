@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Jul 2022 18:40:08 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Jul 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 31 Jul 2022 18:35:34 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Jul 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>En kjærlighetshistorie </title>
+      <description><![CDATA[En ødelagt oppvaskmaskin, en stjålet rørtang og kjærlighet. Tekst: «Rørtangen» av Øystein Lønn 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaktør: Ingerid Nordstrand ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/99b6e1c6-28a3-4c05-bb60-9e0f7f1ecc2e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/99b6e1c6-28a3-4c05-bb60-9e0f7f1ecc2e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:27</itunes:duration>
+      <pubDate>Sun, 31 Jul 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Strandet hval </title>
       <description><![CDATA[En hval har strandet ved land, men hvem sin tomt ligger den på? Tekst: «Naboer» av Terje Stigen 
@@ -89,14 +98,6 @@ Tekst: «Jonsok» av Gro Dahle
       <enclosure url="https://podkast.nrk.no/fil/god_natt/bed7347e-20d2-4598-b222-2956d0714ae8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>07:12</itunes:duration>
       <pubDate>Sun, 10 Jul 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ulven</title>
-      <description><![CDATA[Er det bra eller dårlig når din kjærestes venninne kaller deg for et rovdyr? Tekst: «En ulv» av Geir Gulliksen ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/deb8582c-d321-427e-868d-08b661e70324_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/deb8582c-d321-427e-868d-08b661e70324_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:33</itunes:duration>
-      <pubDate>Tue, 05 Jul 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
