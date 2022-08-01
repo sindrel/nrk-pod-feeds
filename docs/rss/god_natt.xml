@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 31 Jul 2022 18:35:34 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Jul 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Aug 2022 18:43:40 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Aug 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Tapt kjærlighet</title>
+      <description><![CDATA[Tenk om du hadde valgt annerledes? Ville kjærligheten overlevd da? Tekst: «Nykommere» av Ari Behn 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaktør: Ingerid Nordstrand]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/a2025493-6fc7-499c-8dcf-a9a297e61bcc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/a2025493-6fc7-499c-8dcf-a9a297e61bcc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:58</itunes:duration>
+      <pubDate>Mon, 01 Aug 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>En kjærlighetshistorie </title>
       <description><![CDATA[En ødelagt oppvaskmaskin, en stjålet rørtang og kjærlighet. Tekst: «Rørtangen» av Øystein Lønn 
@@ -88,16 +97,6 @@ Tekst: «Jonsok» av Gro Dahle
       <enclosure url="https://podkast.nrk.no/fil/god_natt/f294781e-6f0d-4d27-b1da-fd8379a66a8c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:09</itunes:duration>
       <pubDate>Mon, 11 Jul 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>En sommermeditasjon </title>
-      <description><![CDATA[Er det mulig å fange sommeren med ord? Det sommerlige som vi alle lengter etter? Tekst av Vera Kvaal.
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaktør: Ingerid Nordstrand
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/bed7347e-20d2-4598-b222-2956d0714ae8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/bed7347e-20d2-4598-b222-2956d0714ae8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:12</itunes:duration>
-      <pubDate>Sun, 10 Jul 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
