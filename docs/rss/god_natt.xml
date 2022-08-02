@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 01 Aug 2022 18:43:40 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Aug 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Aug 2022 18:38:35 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Aug 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Den savnede</title>
+      <description><![CDATA[ Han var meldt omkommet. Det var ikke riktig. Nå kommer han hjem. Tekst: «Den savnede» av Arnulf Øverland ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/9676562d-066a-4de8-8906-1e557fe1a5e2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/9676562d-066a-4de8-8906-1e557fe1a5e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:34</itunes:duration>
+      <pubDate>Tue, 02 Aug 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Tapt kjærlighet</title>
       <description><![CDATA[Tenk om du hadde valgt annerledes? Ville kjærligheten overlevd da? Tekst: «Nykommere» av Ari Behn 
@@ -89,14 +97,6 @@ Tekst: «Jonsok» av Gro Dahle
       <enclosure url="https://podkast.nrk.no/fil/god_natt/bfa7483a-eefc-444b-9c12-8943d31b87f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:08</itunes:duration>
       <pubDate>Tue, 12 Jul 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Besøk fra fortiden</title>
-      <description><![CDATA[Et ektepar venter gjester. En av dem har en forhistorie.   Tekst: «Mårfellen» av Øystein Lønn ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/f294781e-6f0d-4d27-b1da-fd8379a66a8c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/f294781e-6f0d-4d27-b1da-fd8379a66a8c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:09</itunes:duration>
-      <pubDate>Mon, 11 Jul 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
