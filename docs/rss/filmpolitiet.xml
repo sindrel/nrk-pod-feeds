@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Jul 2022 07:29:55 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Jul 2022 09:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Aug 2022 07:30:12 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Aug 2022 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/1nHt8ovnj56ilCHg0B_s8QHloqdIQuIKGufypReGs7-g"/>
+    <item>
+      <title>Ferske sommertips: Prime Video</title>
+      <description><![CDATA[Sigurd og Marte gir deg sine seriefavoritter på strømmetjenestene siden sist sommer. I dag: Amazon Prime Video! Vi tipser om The Summer I Turned Pretty, Bosch: Legacy, The Expanse og Reacher. Også må vi en liten tur innom The Boys!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/5096ad3d-ef37-44bd-98a3-5918986fd9b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/5096ad3d-ef37-44bd-98a3-5918986fd9b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:05</itunes:duration>
+      <pubDate>Thu, 04 Aug 2022 09:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ferske sommertips: Norsk på norsk</title>
       <description><![CDATA[Sigurd og Marte gir deg sine seriefavoritter på strømmetjenestene siden sist sommer. I dag: Norsk på norsk! Vi tipser om Kasko på TV2 Play, Basic Bitch på Discovery+, Ida tar ansvar og Pørni på Viaplay, og Verden er min i NRK TV.]]></description>
@@ -87,14 +95,6 @@ Trenger du noen godbiter å titte på i sommer er altså disse seriene verdt en 
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/2750a866-bc69-4476-b334-19af471b7d4b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:17:31</itunes:duration>
       <pubDate>Mon, 20 Jun 2022 15:35:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>10 nye serier vi gleder oss til i sommer!</title>
-      <description><![CDATA[Vi diskuterer 10 splitter nye serier som vi ennå ikke har sett, men håper vil sette farge på sommerkveldene vi har foran oss!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/f5518926-c4ae-4a96-8d44-944e93fb82e6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/f5518926-c4ae-4a96-8d44-944e93fb82e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:08:12</itunes:duration>
-      <pubDate>Thu, 16 Jun 2022 15:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
