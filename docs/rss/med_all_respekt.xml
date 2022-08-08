@@ -7,10 +7,23 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 01 Aug 2022 04:47:52 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Aug 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Aug 2022 15:38:42 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Aug 2022 17:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
+    <item>
+      <title>Berlin! Nice! LA! Tønsberg?? </title>
+      <description><![CDATA[Sensongstart, og sommeren oppsummeres:
+*Fransk krangel!
+*Abus festivalulykke!
+*Galvan "Mr. Worldwide" i Berlin!
+*Anders pitcher fra LA!
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/421ce021-2957-420a-8794-fea67702f869_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/421ce021-2957-420a-8794-fea67702f869_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:35</itunes:duration>
+      <pubDate>Mon, 08 Aug 2022 17:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Flyskrekk, fast track og uventet luksus!</title>
       <description><![CDATA[Sommerpod #6
@@ -108,16 +121,6 @@ E-post: mar@nrk.no]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/0cf2603f-ba6f-4210-9e90-3b76015e3d03_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:54</itunes:duration>
       <pubDate>Tue, 21 Jun 2022 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ny diagnose og gamle road trips!</title>
-      <description><![CDATA[*Galvan har fått den: Diagnosen!
-*Sandeep på Abu på smale og skumle veier.
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/791a94e0-29fa-4b67-b878-42819ed97ec4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/791a94e0-29fa-4b67-b878-42819ed97ec4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:37</itunes:duration>
-      <pubDate>Mon, 20 Jun 2022 17:03:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
