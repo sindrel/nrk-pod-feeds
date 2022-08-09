@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Aug 2022 18:39:41 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Aug 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Aug 2022 18:38:14 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Aug 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Frieriet</title>
+      <description><![CDATA[Det finnes mange måte å fri til en kvinne på. Dette er en av dem. Tekst: «Frieriet» av Arthur Omre 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaktør: Ingerid Nordstrand ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/8bc66e7d-f108-4757-aa37-04d000932be4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/8bc66e7d-f108-4757-aa37-04d000932be4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:34</itunes:duration>
+      <pubDate>Tue, 09 Aug 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>De gule blomsters øy</title>
       <description><![CDATA[En tysk mann reiser tilbake til en øy i Nord-Norge der han var soldat under krigen. Hvordan gikk det med Esther?  Tekst: «De gule blomsters øy» av Halfdan F. Harnoll
@@ -89,16 +98,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/fa9ebb5e-c97d-4fac-8e3f-7e23c68ae9b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:44</itunes:duration>
       <pubDate>Tue, 19 Jul 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Et deilig sommerbad</title>
-      <description><![CDATA[En eldre mann vil gjøre noe grenseløst og bestemmer seg for å ta et bad. Det får konsekvenser.
-Tekst: «Jonsok» av Gro Dahle
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaktør: Ingerid Nordstrand]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/a3ee4f00-61d7-4f30-a60e-b299ffabdf48_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/a3ee4f00-61d7-4f30-a60e-b299ffabdf48_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:46</itunes:duration>
-      <pubDate>Mon, 18 Jul 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
