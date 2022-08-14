@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 09 Aug 2022 18:38:14 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Aug 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 14 Aug 2022 18:36:11 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Aug 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Det dyrbare loddet</title>
+      <description><![CDATA[Familien Isaksen har mange lodd i pengelotteriet, men det er noe rart med loddene deres.  Tekst: «Loddet» av Gunnar Hagen Hartvedt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/d929ae5e-ab82-4f86-adad-733223045c23_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/d929ae5e-ab82-4f86-adad-733223045c23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:37</itunes:duration>
+      <pubDate>Sun, 14 Aug 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Frieriet</title>
       <description><![CDATA[Det finnes mange måte å fri til en kvinne på. Dette er en av dem. Tekst: «Frieriet» av Arthur Omre 
@@ -90,14 +98,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/96760b2c-ea83-4f11-acf2-c3bfbdcff249_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>14:18</itunes:duration>
       <pubDate>Sun, 24 Jul 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Salami fra Sardinia</title>
-      <description><![CDATA[ Der bandittene herjer på Sardinia, bør man ikke spise salami. Tekst: «Salami fra Sardinia» av Olav Ottersen ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/fa9ebb5e-c97d-4fac-8e3f-7e23c68ae9b0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/fa9ebb5e-c97d-4fac-8e3f-7e23c68ae9b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:44</itunes:duration>
-      <pubDate>Tue, 19 Jul 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
