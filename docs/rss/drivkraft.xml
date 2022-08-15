@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Jun 2022 13:04:37 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jun 2022 15:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Aug 2022 13:03:54 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Aug 2022 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Christian Vennerød</title>
+      <description><![CDATA["Luksusfellen" viser hvordan skolen har svikta i opplæringa av økonomi. Det mener den tidligere Luksusfellen-eksperten og siviløkonomen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/90437b1f-f828-4dcb-bfd1-3b4ddce3f63c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/90437b1f-f828-4dcb-bfd1-3b4ddce3f63c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:25</itunes:duration>
+      <pubDate>Mon, 15 Aug 2022 15:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Liv Ullmann </title>
       <description><![CDATA[Skuespilleren og regissøren er bejublet verden over, men inni seg er hun fortsatt en 13 år gammel, sjenert jente.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/313ddc8e-9838-4bca-9379-070972cdc626_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Wed, 08 Jun 2022 15:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nefise Özkal Lorentzen</title>
-      <description><![CDATA[Hun er uønsket i hjemlandet Tyrkia etter sine  kontroversielle dokumentarfilmer om feminisme, menneskerettigheter og islam. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6c134039-3dae-4ee0-8b9d-4af37387229c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6c134039-3dae-4ee0-8b9d-4af37387229c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Tue, 07 Jun 2022 15:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
