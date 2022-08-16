@@ -7,16 +7,24 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Aug 2022 13:03:54 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Aug 2022 15:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Aug 2022 10:33:20 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Aug 2022 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Haddy Njie</title>
+      <description><![CDATA[Jeg drives av frykt, sier programlederen som nå debuterer som snakkende skuespiller]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/02ce35bc-7017-474c-be56-78ef2f31d0db_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/02ce35bc-7017-474c-be56-78ef2f31d0db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:52</itunes:duration>
+      <pubDate>Tue, 16 Aug 2022 12:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Christian Vennerød</title>
       <description><![CDATA["Luksusfellen" viser hvordan skolen har svikta i opplæringa av økonomi. Det mener den tidligere Luksusfellen-eksperten og siviløkonomen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/90437b1f-f828-4dcb-bfd1-3b4ddce3f63c_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/90437b1f-f828-4dcb-bfd1-3b4ddce3f63c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:25</itunes:duration>
+      <itunes:duration>56:32</itunes:duration>
       <pubDate>Mon, 15 Aug 2022 15:00:00 +0200</pubDate>
     </item>
     <item>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/b93164b6-4170-456c-951e-9a4c11ac0668_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:38</itunes:duration>
       <pubDate>Thu, 09 Jun 2022 15:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Martin Beyer-Olsen</title>
-      <description><![CDATA[Han tror at den folkelige humoren tas til et nytt nivå de neste 5 årene og  mener at verden er så fucka at vi trenger mer slapstick nå –en ny Mr Bean!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/313ddc8e-9838-4bca-9379-070972cdc626_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/313ddc8e-9838-4bca-9379-070972cdc626_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:18</itunes:duration>
-      <pubDate>Wed, 08 Jun 2022 15:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
