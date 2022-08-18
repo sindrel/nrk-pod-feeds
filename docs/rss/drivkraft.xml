@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 17 Aug 2022 11:29:29 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Aug 2022 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Aug 2022 13:05:17 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Aug 2022 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Torbjørn Færøvik</title>
+      <description><![CDATA[Han er en av Norges fremste Kina-kjennere, men får ikke lenger visum til landet. For ham er det uaktuelt å gi avkall på ytringsfriheten for å tekkes kineserne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/73b74292-656e-4941-953c-b8f4ed916201_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/73b74292-656e-4941-953c-b8f4ed916201_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:30</itunes:duration>
+      <pubDate>Thu, 18 Aug 2022 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Tom Egeland</title>
       <description><![CDATA[Suksessforfatteren var lenge sjenert og innadvendt og unngikk bokbad og medieopptredener. Han er redd for at noen oppfatter sjenansen hans som arroganse.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/3ab115ea-56a9-4862-97d1-ef6fb728549e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:05</itunes:duration>
       <pubDate>Tue, 14 Jun 2022 15:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Steinar Hoen</title>
-      <description><![CDATA[Han er stevnedirektør i Bislet Games, tidligere europamester i høydehopp og aksjeinvestor. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6f177f5e-598c-4266-8a29-16652c84fdfa_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6f177f5e-598c-4266-8a29-16652c84fdfa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:11</itunes:duration>
-      <pubDate>Mon, 13 Jun 2022 16:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
