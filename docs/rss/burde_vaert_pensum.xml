@@ -7,10 +7,26 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Apr 2022 09:31:11 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Apr 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2022 04:43:21 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Aug 2022 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwcWfR1jsD0nzRmmYVnqpdIA.png"/>
+    <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Det farlige nordlyset</title>
+      <description><![CDATA[Det har alltid vært noe mystisk og fantastisk med nordlyset. Fysiker Veronica Danielsen forteller hvorfor det magiske lyset også er et faresignal om en stor katastrofe. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/d13bfa45-aa27-4dfa-b7f5-2cf5701e9272_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/d13bfa45-aa27-4dfa-b7f5-2cf5701e9272_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:39</itunes:duration>
+      <pubDate>Mon, 22 Aug 2022 06:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hva er sykdom?</title>
+      <description><![CDATA[Sykdom handler om din kropp og ditt sinn, men skillet mellom syk og frisk er ikke alltid er så enkel. Lege Kaveh Rashidi forklarer hvem som bestemme om du er syk eller ikke. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/ae2355c6-933c-409f-8a71-6a8608f2ebe7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/ae2355c6-933c-409f-8a71-6a8608f2ebe7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:19</itunes:duration>
+      <pubDate>Mon, 22 Aug 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Det gåtefulle atomet</title>
       <description><![CDATA[Det å forstå atomet handler om å forstå livet og døden. Kjemiker Alexander Harald Sandtorv forklarer hvordan det gåtefulle atomet holder verden sammen.]]></description>
@@ -83,22 +99,6 @@ Medvirkende: Christian Bjorstad.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7b2443fa-89b3-4182-8279-8cc497a3ed11_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:12</itunes:duration>
       <pubDate>Mon, 14 Feb 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Sannheten om vektløshet</title>
-      <description><![CDATA[Er ikke astronautene på romstasjonen vektløse likevel? Fysiker og programleder Andreas Wahl mener du har misforstått.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/5b07732c-2038-4066-b6a2-d2a50d6a783f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/5b07732c-2038-4066-b6a2-d2a50d6a783f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:08</itunes:duration>
-      <pubDate>Mon, 07 Feb 2022 06:01:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Straffesak på 1-2-3</title>
-      <description><![CDATA[Hvordan dømmes folk i Norge? Jussforsker Sofie Høgestøl forklarer hvordan en rettssak fungerer. Medvirkende: Linn Elise Gjems-Onstad, Katrine Holter og Kim Heger. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/414f2379-aff9-4d15-a03d-ef835ada16c6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/414f2379-aff9-4d15-a03d-ef835ada16c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:01</itunes:duration>
-      <pubDate>Mon, 07 Feb 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
