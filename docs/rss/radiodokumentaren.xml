@@ -1,63 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Historier fra virkeligheten</title>
+    <title>De 3 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 09 May 2022 02:27:02 +0000</lastBuildDate>
-    <pubDate>Mon, 09 May 2022 04:12:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Aug 2022 12:59:46 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Aug 2022 14:06:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
-      <title>Kommer: Penis i posten</title>
-      <description><![CDATA[Matias syns det er både skummelt og befriende å endre på kroppen. Hør alle episodene i NRK Radio fra 9. mai. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/dc6e980d-75a1-4d7d-a2ec-3322dfc1d6a5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/dc6e980d-75a1-4d7d-a2ec-3322dfc1d6a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:58</itunes:duration>
-      <pubDate>Mon, 02 May 2022 04:00:00 +0200</pubDate>
+      <title>Quarten – skandalefestivalen (1:3) Fyll og idyll</title>
+      <description><![CDATA[Quarten blir fort Norges største festival, med rave på kanonene, hagleskudd fra scenen og razzia i campen. Det er lovløse tilstander på Sørlandet. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/d87ecf69-b2ff-4291-8188-34f510c99b67_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d87ecf69-b2ff-4291-8188-34f510c99b67_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:03</itunes:duration>
+      <pubDate>Tue, 23 Aug 2022 14:01:00 +0200</pubDate>
     </item>
     <item>
-      <title>Penis i posten (1:5) Første dose</title>
-      <description><![CDATA[Matias skal få sin første dose med testosteronbehandling. Han er utålmodig, men samtidig redd for å miste seg selv. Du får alle episodene i appen NRK Radio 9. mai.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a623ace2-fbd4-4394-b917-bd8bc1f5488d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a623ace2-fbd4-4394-b917-bd8bc1f5488d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:59</itunes:duration>
-      <pubDate>Mon, 09 May 2022 04:00:00 +0200</pubDate>
+      <title>Quarten – skandalefestivalen (2:3) Prinsessa på Quarten</title>
+      <description><![CDATA[Publikum elsker Quart. En cocktail av skjærgårdsidyll, konserter, nattklubber og utagerende sceneshow fungerer som fluepapir for de som er på jakt etter noe nytt og annerledes. Ei prinsesse får halve kongeriket, og en søplesekk med hundrelapper fraktes rundt i gatene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/7318b4bd-0fbb-45df-8329-a5c30b6091e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/7318b4bd-0fbb-45df-8329-a5c30b6091e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:16</itunes:duration>
+      <pubDate>Tue, 23 Aug 2022 14:03:00 +0200</pubDate>
     </item>
     <item>
-      <title>Penis i posten (2:5) Knuste fordommer</title>
-      <description><![CDATA[Matias forsøker å skjule at han er trans, men så dukker det opp ei jente han blir veldig betatt av.  Hva skjer om hun får vite at han er trans?  Du får alle episodene i appen NRK Radio 9. mai.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/22f9800d-34df-4dd2-a628-4c756c7b1e34_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/22f9800d-34df-4dd2-a628-4c756c7b1e34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:48</itunes:duration>
-      <pubDate>Mon, 09 May 2022 04:03:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Penis i posten (3:5) Mensen</title>
-      <description><![CDATA[Matias sin kropp er i endring. Han er sjeleglad, men så får han mensen. Du får alle episodene i appen NRK Radio 9. mai.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f856af23-693e-4b88-8338-dcc55b4ac345_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f856af23-693e-4b88-8338-dcc55b4ac345_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:43</itunes:duration>
-      <pubDate>Mon, 09 May 2022 04:06:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Penis i posten (4:5) Bul i buksa</title>
-      <description><![CDATA[Matias får endelig penisprotesen, men han aner ikke hvordan den skal ligge eller hvordan det skal se ut med en bul i buksa. Du får alle episodene i appen NRK Radio 9. mai.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6afd57a8-abf5-4642-8d52-0419c34717d3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6afd57a8-abf5-4642-8d52-0419c34717d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:10</itunes:duration>
-      <pubDate>Mon, 09 May 2022 04:09:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Penis i posten (5:5) Er jeg mann nok?</title>
-      <description><![CDATA[Må Matias ha penis for å være mann? Du får alle episodene i appen NRK Radio 9. mai.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/80007c11-4a07-4480-9ac4-7debe09bce3c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/80007c11-4a07-4480-9ac4-7debe09bce3c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:51</itunes:duration>
-      <pubDate>Mon, 09 May 2022 04:12:00 +0200</pubDate>
+      <title>Quarten – skandalefestivalen (3:3) Syndefall</title>
+      <description><![CDATA[Festivalen byr på den største skandalen av dem alle. Publikum tror de er på en vanlig rockekonsert,  da "Fuck for forest" entrer scenen. Nå blir det virkelig bråk i Quart-leiren. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/421a8587-5d3f-4873-86ad-d5a25d385bba_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/421a8587-5d3f-4873-86ad-d5a25d385bba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:08</itunes:duration>
+      <pubDate>Tue, 23 Aug 2022 14:06:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
