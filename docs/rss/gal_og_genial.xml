@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 4 siste fra Gal &amp; genial</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Gal &amp; genial. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gal_og_genial for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 23 Aug 2022 13:28:30 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Aug 2022 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"/>
+    <item>
+      <title>Isaac Newton &amp; jakten på gull og evig liv</title>
+      <description><![CDATA[Dette er historien om fysikeren, matematikeren og den mislykka læreren som stakk nåler i øyet og brukte halve livet på alkymi!  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gal_og_genial/e03c1c91-5fe7-4b09-8616-d78c8ca39c97_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/e03c1c91-5fe7-4b09-8616-d78c8ca39c97_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:13</itunes:duration>
+      <pubDate>Tue, 23 Aug 2022 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Albert Einstein &amp; det store dameproblemet</title>
+      <description><![CDATA[Dette er historien om en notorisk skjørtejeger og legendarisk kreativ type som ikke kjørte bil eller vasket klær, men som forstod universet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gal_og_genial/47db3c24-0a6c-4c51-bc67-268bf532d693_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/47db3c24-0a6c-4c51-bc67-268bf532d693_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:58</itunes:duration>
+      <pubDate>Tue, 16 Aug 2022 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Henry Cavendish &amp; den ekstreme blygheten</title>
+      <description><![CDATA[Dette er historien om geniet som gjorde så lite ut av seg at det tok 100 år før resten av verden ble klar over de viktige oppdagelsene hans]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gal_og_genial/3af7eb42-a249-4eaa-9974-48c855ce8ab4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/3af7eb42-a249-4eaa-9974-48c855ce8ab4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:11</itunes:duration>
+      <pubDate>Tue, 16 Aug 2022 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kommer snart: gale genier &amp; sære smartinger!</title>
+      <description><![CDATA[Gal & genial er en rampete vitenskapsserie for deg som elsker rare smartinger og sære genier!
+
+Er det som den tyske filosofen Arthur Schopenhauer sier, at for å gjøre noe genialt trengs en dose galskap?
+
+Premiere 16. august 2022. Ti episoder. Av og med Torfinn Borkhus og Sven Bisgaard Sundet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gal_og_genial/93832d5a-02a4-4567-822a-f9e5ed4350a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/93832d5a-02a4-4567-822a-f9e5ed4350a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:36</itunes:duration>
+      <pubDate>Tue, 09 Aug 2022 09:10:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
