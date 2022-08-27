@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 12 Jun 2022 04:42:52 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jun 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Aug 2022 04:33:19 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Aug 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Kommer 3.september</title>
+      <description><![CDATA[Nye episoder av Skitprat med Jens og Isak kommer snart!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/71aa822b-8ec9-4a45-9bb0-def1f944f51d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/71aa822b-8ec9-4a45-9bb0-def1f944f51d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:45</itunes:duration>
+      <pubDate>Sat, 27 Aug 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Skyting, nachspiel og øde øy</title>
       <description><![CDATA[Jens og Isak forklarer hvordan du skal trene for å bli en god skytter. Jens avslører hvilken låt han dro på gitar etter festen. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/a39a9a2f-ef19-491a-a291-71b3e62cd3eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:26</itunes:duration>
       <pubDate>Sun, 17 Apr 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vårtur, telttips og gavehysteri </title>
-      <description><![CDATA[Jens og Isak mener «barflekktida» er årets høydepunkt og beste tida for telt. Gutta diskuterer feller, og hva man gir til en som har alt. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/994e9d54-c226-4b91-89d1-bd61631b110a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/994e9d54-c226-4b91-89d1-bd61631b110a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:19</itunes:duration>
-      <pubDate>Sun, 10 Apr 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
