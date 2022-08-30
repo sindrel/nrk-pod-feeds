@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Gal &amp; genial</title>
+    <title>De 5 siste fra Gal &amp; genial</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Gal &amp; genial. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gal_og_genial for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Gal &amp; genial. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gal_og_genial for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 Aug 2022 13:28:30 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Aug 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2022 07:37:44 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Aug 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"/>
+    <item>
+      <title>Grigori Perelman &amp; det masete mattemiljøet</title>
+      <description><![CDATA[Dette er historien om mattegeniet som løste en milliongåte, nektet å ta imot pengene og forsvant! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gal_og_genial/5b16ed54-6b98-4217-be98-ca0e85b2515f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/5b16ed54-6b98-4217-be98-ca0e85b2515f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:13</itunes:duration>
+      <pubDate>Tue, 30 Aug 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Isaac Newton &amp; jakten på gull og evig liv</title>
       <description><![CDATA[Dette er historien om fysikeren, matematikeren og den mislykka læreren som stakk nåler i øyet og brukte halve livet på alkymi!  ]]></description>
