@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 25 Aug 2022 13:52:58 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Aug 2022 15:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2022 13:04:01 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Aug 2022 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Freddy Bolle</title>
+      <description><![CDATA[Å overleve til jul var hans største ønske da han som soldat tjenestegjorde i Somalia på 90-tallet. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/995d5c64-14a1-4bfb-988e-7745fbd2eaa2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/995d5c64-14a1-4bfb-988e-7745fbd2eaa2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Tue, 30 Aug 2022 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Karl-Petter Løken</title>
       <description><![CDATA[Hvorfor valgte toppscoreren i eliteserien i 1991 å samtidig jobbe fulltid som ingeniør i Statoil?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/88343b99-8384-4e7b-8ae4-c57094aafe71_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:31</itunes:duration>
       <pubDate>Mon, 27 Jun 2022 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bjørn Maaseide</title>
-      <description><![CDATA[Han var en verdensstjerne i sandvolleyball. Nå har han braksuksess som finansmann og ønsker å gjøre padel tennis til en folkesport. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b0cce8b0-6aee-4bd5-b1c9-68d366728174_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b0cce8b0-6aee-4bd5-b1c9-68d366728174_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:33</itunes:duration>
-      <pubDate>Thu, 23 Jun 2022 12:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
