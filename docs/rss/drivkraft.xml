@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 Aug 2022 13:04:01 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Aug 2022 14:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 13:52:51 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Irene Levin</title>
+      <description><![CDATA[Tausheten rundt Holocaust preget familien hennes i flere tiår, men plutselig åpnet moren opp om hva som hadde skjedd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b3a90e51-8a3d-4dcc-b0f9-9c8eaa354de7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b3a90e51-8a3d-4dcc-b0f9-9c8eaa354de7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Wed, 31 Aug 2022 15:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Freddy Bolle</title>
       <description><![CDATA[Å overleve til jul var hans største ønske da han som soldat tjenestegjorde i Somalia på 90-tallet. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/90437b1f-f828-4dcb-bfd1-3b4ddce3f63c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:32</itunes:duration>
       <pubDate>Mon, 15 Aug 2022 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Liv Ullmann </title>
-      <description><![CDATA[Skuespilleren og regissøren er bejublet verden over, men inni seg er hun fortsatt en 13 år gammel, sjenert jente.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/88343b99-8384-4e7b-8ae4-c57094aafe71_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/88343b99-8384-4e7b-8ae4-c57094aafe71_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:31</itunes:duration>
-      <pubDate>Mon, 27 Jun 2022 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
