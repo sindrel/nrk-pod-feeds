@@ -1,41 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 Aug 2022 12:59:46 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Aug 2022 14:06:00 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 04:35:18 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
-      <title>Quarten – skandalefestivalen (1:3) Fyll og idyll</title>
-      <description><![CDATA[Quarten blir fort Norges største festival, med rave på kanonene, hagleskudd fra scenen og razzia i campen. Det er lovløse tilstander på Sørlandet. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/d87ecf69-b2ff-4291-8188-34f510c99b67_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d87ecf69-b2ff-4291-8188-34f510c99b67_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:03</itunes:duration>
-      <pubDate>Tue, 23 Aug 2022 14:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Quarten – skandalefestivalen (2:3) Prinsessa på Quarten</title>
-      <description><![CDATA[Publikum elsker Quart. En cocktail av skjærgårdsidyll, konserter, nattklubber og utagerende sceneshow fungerer som fluepapir for de som er på jakt etter noe nytt og annerledes. Ei prinsesse får halve kongeriket, og en søplesekk med hundrelapper fraktes rundt i gatene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/7318b4bd-0fbb-45df-8329-a5c30b6091e6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/7318b4bd-0fbb-45df-8329-a5c30b6091e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:16</itunes:duration>
-      <pubDate>Tue, 23 Aug 2022 14:03:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Quarten – skandalefestivalen (3:3) Syndefall</title>
-      <description><![CDATA[Festivalen byr på den største skandalen av dem alle. Publikum tror de er på en vanlig rockekonsert,  da "Fuck for forest" entrer scenen. Nå blir det virkelig bråk i Quart-leiren. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/421a8587-5d3f-4873-86ad-d5a25d385bba_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/421a8587-5d3f-4873-86ad-d5a25d385bba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:08</itunes:duration>
-      <pubDate>Tue, 23 Aug 2022 14:06:00 +0200</pubDate>
+      <title>Mannen i Theresesgate</title>
+      <description><![CDATA[Joachim Førsund er tilbake med en ny podkastserie, om Rustam Louis Foss - mannen som ble skutt og drept av politiet i Oslo i fjor. Hvem var han egentlig? Og hvorfor måtte livet hans ende slik, på et fortau i Thereses gate?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/2ba51f61-6366-4145-ac01-7db12e2d528e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/2ba51f61-6366-4145-ac01-7db12e2d528e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:16</itunes:duration>
+      <pubDate>Sat, 03 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

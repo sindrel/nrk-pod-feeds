@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 27 Aug 2022 04:33:19 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Aug 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 04:35:21 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Hjem fra Grønland og klare for jakt</title>
+      <description><![CDATA[Jens og Isak er hjemme etter flere måneder på Grønland, og Jens forteller om nervepirrende hvaljakt med inuittene. Isak har vært på gåsejakt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/78c55acf-672c-4226-955a-ce51e3bf687b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/78c55acf-672c-4226-955a-ce51e3bf687b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:44</itunes:duration>
+      <pubDate>Sat, 03 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Kommer 3.september</title>
       <description><![CDATA[Nye episoder av Skitprat med Jens og Isak kommer snart!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/8e1ac64e-7f2c-45cf-9cab-5cf26095feb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:01</itunes:duration>
       <pubDate>Sun, 24 Apr 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Beverjakt, statsminister og nybegynnertips </title>
-      <description><![CDATA[Jens og Isak prøver å snakke om beverjakt, men får latterkrampe. Isak utfordres: Hva ville han gjort om han var statsminister for en dag?  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/a39a9a2f-ef19-491a-a291-71b3e62cd3eb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/a39a9a2f-ef19-491a-a291-71b3e62cd3eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:26</itunes:duration>
-      <pubDate>Sun, 17 Apr 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
