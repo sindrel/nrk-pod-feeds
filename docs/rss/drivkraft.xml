@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Sep 2022 11:29:45 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Sep 2022 13:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 13:02:10 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Nina Lykke</title>
+      <description><![CDATA[Hun skriver om den bortskjemte norske middelklassen med stor suksess. I kommende roman er det kultureliten som skal få høre det. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/41287aac-23b6-4bcc-a649-08ffc137b0e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/41287aac-23b6-4bcc-a649-08ffc137b0e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Mon, 05 Sep 2022 15:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Sigri Sandberg</title>
       <description><![CDATA[Hun har rodd hele Sognefjorden, i ro og mak, i  en gammel trebåt. Det ble det bok av. Forfatteren har en stor kjærlighet til naturen. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/e336e613-d14c-4673-b5ee-93d3b8a240f1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:30</itunes:duration>
       <pubDate>Wed, 17 Aug 2022 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Haddy Njie</title>
-      <description><![CDATA[Jeg drives av frykt, sier programlederen som nå debuterer som snakkende skuespiller]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/02ce35bc-7017-474c-be56-78ef2f31d0db_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/02ce35bc-7017-474c-be56-78ef2f31d0db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:52</itunes:duration>
-      <pubDate>Tue, 16 Aug 2022 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
