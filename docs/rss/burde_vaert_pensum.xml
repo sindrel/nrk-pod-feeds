@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 29 Aug 2022 04:59:32 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Aug 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 04:59:40 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Hvem er du egentlig?</title>
+      <description><![CDATA[Hjerneforsker Kaja Nordengen tar deg med inn i hjernen for å vise hvordan personligheten din lages.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/72e15a5b-ab30-496b-8edf-db3a205eb0b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/72e15a5b-ab30-496b-8edf-db3a205eb0b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:35</itunes:duration>
+      <pubDate>Mon, 05 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Finnes det en Gud?</title>
       <description><![CDATA[Hvis det finnes en Gud, hvorfor skjer det så mye kjipt i verden? Professor i filosof Einar Duenger Bøhn undrer seg over Gud. Medvirkende: Sunniva Gylver og Kristoffer Schau.]]></description>
@@ -89,15 +97,6 @@ Medvirkende Martha Leivestad, Runar Døving og Vidar Strømme. ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/3f3073a5-6645-4cc0-811e-414c8c6d2cb9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:50</itunes:duration>
       <pubDate>Mon, 28 Feb 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Universet og oss</title>
-      <description><![CDATA[Hva er vår plass i universet? Astrofysiker Maria Hammerstrøm tar deg med på en historisk reise ut i mørket mellom stjernene for å finne svar. 
-Medvirkende: Dag Øistein Endsjø og Kaja Melsom]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/9d943847-c8d6-491e-921b-e1029f4504d2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/9d943847-c8d6-491e-921b-e1029f4504d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:30</itunes:duration>
-      <pubDate>Mon, 21 Feb 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
