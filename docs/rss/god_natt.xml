@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 04 Sep 2022 18:37:58 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Sep 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 18:41:09 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title> En poet ved navn Rasmussen</title>
+      <description><![CDATA[En i rassen og to i musa – poesi over kafebordet. 
+Tekst: «Rasmussen» av Joakim Kjørsvik 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/a683832a-347a-4265-8bf0-178f8b4fa413_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/a683832a-347a-4265-8bf0-178f8b4fa413_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:02</itunes:duration>
+      <pubDate>Mon, 05 Sep 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ringen</title>
       <description><![CDATA[Anne Marie er den flotteste jenta i bygda – men hvorfor er hun så ulykkelig? 
@@ -99,14 +111,6 @@ Tekst: «En hundeelsker» av Ane Borgen
       <enclosure url="https://podkast.nrk.no/fil/god_natt/43bbcfa9-2af5-479f-9598-ed2bda4621f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:57</itunes:duration>
       <pubDate>Mon, 15 Aug 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Det dyrbare loddet</title>
-      <description><![CDATA[Familien Isaksen har mange lodd i pengelotteriet, men det er noe rart med loddene deres.  Tekst: «Loddet» av Gunnar Hagen Hartvedt]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/d929ae5e-ab82-4f86-adad-733223045c23_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/d929ae5e-ab82-4f86-adad-733223045c23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:37</itunes:duration>
-      <pubDate>Sun, 14 Aug 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
