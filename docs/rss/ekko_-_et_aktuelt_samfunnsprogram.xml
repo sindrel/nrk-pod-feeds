@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Sep 2022 06:48:27 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Sep 2022 05:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2022 03:13:16 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2022 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Slave-produktene som selges i Norge</title>
+      <description><![CDATA[Hjemmene våre er fylt med ting laget av tvangsarbeidere. Hva kan vi gjøre med det her i Norge?
+
+Laget av Hanna Mikalsen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cacda115-c902-42b2-90ff-47c4ef1624c6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cacda115-c902-42b2-90ff-47c4ef1624c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:05</itunes:duration>
+      <pubDate>Tue, 06 Sep 2022 05:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Spørretimen: Hvor mye bør vi trene?</title>
       <description><![CDATA[Hvor mye må vi trene for å ha god helse, og hva slags trening er best?
@@ -100,18 +110,6 @@ I sommer publiserer vi nye episoder hver tirsdag og torsdag.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a68014c0-7a32-4460-887a-a27edb06bf1d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:05</itunes:duration>
       <pubDate>Thu, 11 Aug 2022 05:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Trans, men ikke trans nok?</title>
-      <description><![CDATA[I Norge kan du få kjønnsbekreftende behandling som transperson. Men hva hvis du verken identifiserer deg som mann eller kvinne?
-
-Av: Hanna Randgaard
-
-I sommer publiserer vi nye episoder hver tirsdag og torsdag. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/335cc274-6946-4fcf-9ef2-fd2efe0bfe44_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/335cc274-6946-4fcf-9ef2-fd2efe0bfe44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:28</itunes:duration>
-      <pubDate>Tue, 09 Aug 2022 05:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
