@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 Aug 2022 05:04:33 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Aug 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2022 05:09:56 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Paradise Horror Story</title>
+      <description><![CDATA[Zara har besøk av Ronja Bysveen, og i denne episoden gir hun oss et lite gløtt bak Paradise sin lukkede dodør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/01b13d83-7e4d-4991-b757-36f78432fb8f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/01b13d83-7e4d-4991-b757-36f78432fb8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:15</itunes:duration>
+      <pubDate>Tue, 06 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Er det helikopteret til oss?</title>
       <description><![CDATA[Yung Scout Milie er kanskje ikke alltid beredt, og Zara har levd uten fryser i over ett år! ]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/34e68924-4698-45bc-90c8-c2f67ecf0a93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:28</itunes:duration>
       <pubDate>Tue, 05 Jul 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Verdens kleineste begravelse</title>
-      <description><![CDATA[En opplevelse Zara aldri vil glemme og mensensnakk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/9e5347aa-afc5-4804-92d6-753c929d1444_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/9e5347aa-afc5-4804-92d6-753c929d1444_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:39</itunes:duration>
-      <pubDate>Tue, 28 Jun 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
