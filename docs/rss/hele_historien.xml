@@ -1,40 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 24 Aug 2022 22:33:08 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Aug 2022 00:06:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 22:34:25 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 00:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw"/>
     <item>
-      <title>Smakebit: Hvorfor døde Helge Irgens? </title>
-      <description><![CDATA[En juninatt i 2014 blir Helge Irgens funnet død hjemme i sengen. Er det hjertesvikt eller selvmord? Etter en stund øker mistankene mot hans unge kone. Tilgjengelig i NRK Radio fra 25.08.2022 
-    ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/20ef5b30-558c-450d-9983-4033bdb51ddc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/20ef5b30-558c-450d-9983-4033bdb51ddc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:18</itunes:duration>
-      <pubDate>Thu, 18 Aug 2022 00:03:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hvorfor døde Helge Irgens? (1:2) </title>
-      <description><![CDATA[Helge Irgens blir funnet død i sengen sin i Telavåg utenfor Bergen sommeren 2014. Er det hjertesvikt eller selvmord? Det går gradvis opp for politiet og familien at han må ha blitt drept. Hør begge episodene i appen NRK Radio.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/5289f5fb-836f-46a1-8948-1e81723cabbf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/5289f5fb-836f-46a1-8948-1e81723cabbf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:21</itunes:duration>
-      <pubDate>Thu, 25 Aug 2022 00:03:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hvorfor døde Helge Irgens? (2:2) </title>
-      <description><![CDATA[Flere og flere ting tyder på at Helge Irgens ble drept i hjemmet sitt sommeren 2014. Men hvem står bak og klarer man å finne bevis? Mistanken øker mot den unge enken. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/5c623f1b-38f2-43d6-9469-c837ea7a7727_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/5c623f1b-38f2-43d6-9469-c837ea7a7727_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:57</itunes:duration>
-      <pubDate>Thu, 25 Aug 2022 00:06:00 +0200</pubDate>
+      <title>Smakebit: Wimbledon - en norsk fotballtragedie</title>
+      <description><![CDATA[På slutten av 90-tallet blir Premier League-klubben Wimbledon F.C. kjøpt opp av milliardærene Kjell Inge Røkke og Bjørn Rune Gjelsten. Egil "Drillo" Olsen blir hentet inn som trener for å gjenskape miraklene han har opplevd med det norske landslaget. I NRK Radio fra 15.09.22. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/f1200135-67b1-44d6-84d4-81e602a2e735_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/f1200135-67b1-44d6-84d4-81e602a2e735_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:30</itunes:duration>
+      <pubDate>Thu, 08 Sep 2022 00:03:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
