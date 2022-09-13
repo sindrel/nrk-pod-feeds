@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 06 Sep 2022 05:09:56 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Sep 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 05:03:12 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Hjelp oss å finne Didrik!</title>
+      <description><![CDATA[Jentene snakker om #goodguys og tipser om hvordan man kan få en gutts interesse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/6fddd268-9d8f-4ee5-b7d8-f3b1e0f54406_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/6fddd268-9d8f-4ee5-b7d8-f3b1e0f54406_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:03</itunes:duration>
+      <pubDate>Tue, 13 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Paradise Horror Story</title>
       <description><![CDATA[Zara har besøk av Ronja Bysveen, og i denne episoden gir hun oss et lite gløtt bak Paradise sin lukkede dodør.]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/15d39999-5e87-434e-99ba-909fddd4fcd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:33</itunes:duration>
       <pubDate>Tue, 12 Jul 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lydias verste ghostehistorie</title>
-      <description><![CDATA[Vi forteller kleine ghostehistorier og leker «er det porno eller fødsel?»]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/34e68924-4698-45bc-90c8-c2f67ecf0a93_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/34e68924-4698-45bc-90c8-c2f67ecf0a93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:28</itunes:duration>
-      <pubDate>Tue, 05 Jul 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

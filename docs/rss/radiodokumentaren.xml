@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Historier fra virkeligheten</title>
+    <title>De 5 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 06 Sep 2022 05:10:12 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Sep 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 05:03:30 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
@@ -20,20 +20,36 @@
       <pubDate>Sat, 03 Sep 2022 06:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Oslo (Episode 2:7)</title>
-      <description><![CDATA[Rustam flytter til hovedstaden for å følge drømmen om å bli skuespiller, men veien til Oslos underverden er kortere enn veien til teaterscenen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/bed97ef5-11eb-4daf-97b4-01bed17e9e93_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/bed97ef5-11eb-4daf-97b4-01bed17e9e93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:30</itunes:duration>
-      <pubDate>Tue, 06 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Drammen (Episode 1:7)</title>
       <description><![CDATA[Flyktningen og bryteren Rustam (15) kommer til Drammen sammen med tanta si. Han allierer seg med Rønningen-brødrene og kjemper seg umiddelbart inn i norgeseliten i bryting. Men han har andre drømmer også - og andre demoner.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6410d741-b3b1-40da-bf2e-de967e6ab7be_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6410d741-b3b1-40da-bf2e-de967e6ab7be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:25</itunes:duration>
       <pubDate>Tue, 06 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Oslo (Episode 2:7)</title>
+      <description><![CDATA[Rustam flytter til hovedstaden for å følge drømmen om å bli skuespiller, men veien til Oslos underverden er kortere enn veien til teaterscenen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/bed97ef5-11eb-4daf-97b4-01bed17e9e93_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/bed97ef5-11eb-4daf-97b4-01bed17e9e93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:30</itunes:duration>
+      <pubDate>Tue, 06 Sep 2022 06:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Teaterhøyskolen (Episode 3:7)</title>
+      <description><![CDATA[Mot alle odds kommer asylsøkeren og gategutten Rustam inn på Teaterhøyskolen, en av Norges mest prestisjefylte utdannelser. Men det skal vise seg at den brokete fortida hans innhenter ham ganske fort.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/2fb96a62-e49b-4a03-abf8-38ac8d7cd776_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/2fb96a62-e49b-4a03-abf8-38ac8d7cd776_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:57</itunes:duration>
+      <pubDate>Tue, 13 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fossen (Episode 4:7)</title>
+      <description><![CDATA[De er bare åtte elever i Rustams klasse på Teaterhøyskolen, og alle sammen blir på sett og vis viklet inn i Rustams stadig farligere og mer kompliserte liv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a30cc6e2-3c04-407b-9d43-5026cd061b7d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a30cc6e2-3c04-407b-9d43-5026cd061b7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:17</itunes:duration>
+      <pubDate>Tue, 13 Sep 2022 06:01:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
