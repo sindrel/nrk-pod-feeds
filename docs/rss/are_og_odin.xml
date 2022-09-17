@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 10 Sep 2022 14:31:26 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Sep 2022 16:05:00 +0200</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 14:31:31 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 16:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>Korv-kris, Waterloo-vås, flyttevise</title>
+      <description><![CDATA[Advarsel! Sterkt latterfremkallende. Inneholder materiale aldri sendt på radio!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/6520fb4d-ddd2-4746-b068-3e0ff9257fef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/6520fb4d-ddd2-4746-b068-3e0ff9257fef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:06</itunes:duration>
+      <pubDate>Sat, 17 Sep 2022 16:05:00 +0200</pubDate>
+    </item>
     <item>
       <title>Snabbnudlar, SEX-kabel og SP-krise</title>
       <description><![CDATA[Advarsel! Kan føre til ukontrollerte latterutbrudd! Inneholder materiale aldri sendt på radio.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/0a0366e6-6cde-4f27-b189-37545693a2bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:19</itunes:duration>
       <pubDate>Sat, 14 May 2022 16:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Par- terapi, sprengt hval, dyrenes hevn</title>
-      <description><![CDATA[Advarsel: Inneholder materiale aldri sendt på radio. Kan virke sterkt latterfremkallende.   ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/1d08131c-643e-411c-b1a0-c0d52a51fbb0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/1d08131c-643e-411c-b1a0-c0d52a51fbb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:00</itunes:duration>
-      <pubDate>Sat, 07 May 2022 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
