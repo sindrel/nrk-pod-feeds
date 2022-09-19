@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Sep 2022 03:09:15 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 04:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 05:48:43 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Molekylhotellet for alltid</title>
+      <description><![CDATA[Kan man sylte kjøtt og hva synes Dynga er flaut? Det får du svar på i dagens episode. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/7e47490f-fc37-4438-bba0-d855cf036230_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/7e47490f-fc37-4438-bba0-d855cf036230_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:20</itunes:duration>
+      <pubDate>Mon, 19 Sep 2022 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Funbank family </title>
       <description><![CDATA[Martin stjal showet i bryllup! Den nye Ringenes Herre-serien diskuteres og Dynga svarer på om de ville blitt drept eller vært serie mordere.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/karakter/e70c9500-cae7-4be7-9d93-aaf8445af64f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:03:19</itunes:duration>
       <pubDate>Wed, 17 Aug 2022 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Titty boom boom i dobbel bro</title>
-      <description><![CDATA[Martin og Henrik har hjemme alene-fest, og trekker fra bolla! Reporter Tobban vil spare penger, og tigger til seg mat fra fremmede på gata.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/94cf67b2-6161-45d8-ac03-ceaa6ab1dc76_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/94cf67b2-6161-45d8-ac03-ceaa6ab1dc76_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:20</itunes:duration>
-      <pubDate>Mon, 15 Aug 2022 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
