@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 19 Sep 2022 13:09:07 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 15:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 14:04:27 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 15:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Herman Friele</title>
+      <description><![CDATA[Han liker at ting skjer, og elsker å kjøpe og selge. Men hva driver finansmannen, politikeren og kaffemannen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/80ee364e-e612-4ec5-90ee-3bb96cfd6e69_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/80ee364e-e612-4ec5-90ee-3bb96cfd6e69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Tue, 20 Sep 2022 15:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Marit Kolby</title>
       <description><![CDATA[Dropp mellommåltidene og kjenn på sulten - det er ernæringsbiologens råd for en sunnere mage. ]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/83655fdf-f27a-4ccf-97d9-f29fd2446f44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:37</itunes:duration>
       <pubDate>Thu, 01 Sep 2022 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Irene Levin</title>
-      <description><![CDATA[Tausheten rundt Holocaust preget familien hennes i flere tiår, men plutselig åpnet moren opp om hva som hadde skjedd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b3a90e51-8a3d-4dcc-b0f9-9c8eaa354de7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b3a90e51-8a3d-4dcc-b0f9-9c8eaa354de7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:51</itunes:duration>
-      <pubDate>Wed, 31 Aug 2022 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
