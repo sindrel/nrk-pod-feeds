@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 15 Sep 2022 03:17:12 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 05:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 03:07:18 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Bør jeg varsle om sjefen?</title>
+      <description><![CDATA[Du tar en større risiko hvis du varsler sjefen på jobben enn en kollega. Men hva er prisen for å varsle og hvordan går du fram? 
+
+Laget av Line Hødnebø og Jan Erlend Leine]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cb28658b-8cb5-4d5f-872c-694f84541a4f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cb28658b-8cb5-4d5f-872c-694f84541a4f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:10</itunes:duration>
+      <pubDate>Tue, 20 Sep 2022 05:00:00 +0200</pubDate>
+    </item>
     <item>
       <title> Spørretime: LÆRERENS drømmeskole</title>
       <description><![CDATA[Om lærerne fikk bygge skolen på nytt: hvordan ville den sett ut? 
@@ -95,16 +105,6 @@ Laget av: Vibeke Røiri]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a9055830-70bc-4489-98f9-01fd89b949c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Thu, 25 Aug 2022 05:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Artene som invaderer norsk planteliv</title>
-      <description><![CDATA[Nye vekster kommer stadig til Norge. Hvordan kommer de seg hit, og hvordan går det med de “norske” plantene de konkurrerer mot?
-
-Av: Marit Garfjeld]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/69b73144-834b-41eb-884c-ef49f0a2ae61_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/69b73144-834b-41eb-884c-ef49f0a2ae61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:55</itunes:duration>
-      <pubDate>Wed, 24 Aug 2022 05:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
