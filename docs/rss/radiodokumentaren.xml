@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Historier fra virkeligheten</title>
+    <title>De 8 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 13 Sep 2022 05:03:30 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Sep 2022 06:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 05:01:09 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
@@ -50,6 +50,30 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a30cc6e2-3c04-407b-9d43-5026cd061b7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:17</itunes:duration>
       <pubDate>Tue, 13 Sep 2022 06:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Eventyrbrua (Episode 5:7)</title>
+      <description><![CDATA[Det blir snart tydelig at Rustam ikke bare har et rusproblem, han sliter også med en uoppdaget, psykisk lidelse. Den slår nå ut i full blomst, og ingen foretar seg noe før en uskyldig mann på Eventyrbrua i Oslo nesten mister livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/c8cf428e-9685-43ce-9633-ef821f5cbf16_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/c8cf428e-9685-43ce-9633-ef821f5cbf16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:35</itunes:duration>
+      <pubDate>Tue, 20 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Thereses gate (Episode 6:7)</title>
+      <description><![CDATA[Rustam blir dømt for knivangrepet på Eventyrbrua, blir erklært strafferettslig utilregnelig og skal sone i tvungent psykisk helsevern. Men den gradvise tilvenningen til et fritt liv ender i katastrofe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/774431be-627a-4614-b3ff-5dd0d4cc85fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/774431be-627a-4614-b3ff-5dd0d4cc85fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:44</itunes:duration>
+      <pubDate>Tue, 20 Sep 2022 06:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Karaganda (Episode 7/7)</title>
+      <description><![CDATA[Journalist Joachim Førsund blir med Rustams tante til hjembyen i Kasakhstan for å treffe Rustams søster, og for å forstå hva han en gang flyktet fra. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f5407a2f-0338-48b0-ab4b-5965ddb4e694_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f5407a2f-0338-48b0-ab4b-5965ddb4e694_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:46</itunes:duration>
+      <pubDate>Tue, 20 Sep 2022 06:02:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
