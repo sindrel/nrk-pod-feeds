@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 20 Sep 2022 14:04:27 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 15:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 13:10:09 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Karsten Warholm og Leif Olav Alnes</title>
+      <description><![CDATA[Møt verdens raskeste mann på 400 meter hekk, og trenerlegenden som hjelper ham å løpe stadig raskere]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c2a6c795-cb2b-4d9e-b7ad-534f3a56fbf6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c2a6c795-cb2b-4d9e-b7ad-534f3a56fbf6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:57</itunes:duration>
+      <pubDate>Wed, 21 Sep 2022 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Herman Friele</title>
       <description><![CDATA[Han liker at ting skjer, og elsker å kjøpe og selge. Men hva driver finansmannen, politikeren og kaffemannen?]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/41287aac-23b6-4bcc-a649-08ffc137b0e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Mon, 05 Sep 2022 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sigri Sandberg</title>
-      <description><![CDATA[Hun har rodd hele Sognefjorden, i ro og mak, i  en gammel trebåt. Det ble det bok av. Forfatteren har en stor kjærlighet til naturen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/83655fdf-f27a-4ccf-97d9-f29fd2446f44_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/83655fdf-f27a-4ccf-97d9-f29fd2446f44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:37</itunes:duration>
-      <pubDate>Thu, 01 Sep 2022 13:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
