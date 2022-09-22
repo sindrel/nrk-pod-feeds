@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 21 Sep 2022 13:10:09 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Sep 2022 14:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 13:06:19 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Jonis Josef</title>
+      <description><![CDATA[Hvorfor føler den suksessrike komikeren Jonis Josef seg som en bedrager?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/faee52ba-efe2-4c78-a49d-c29a7aa17d6e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/faee52ba-efe2-4c78-a49d-c29a7aa17d6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Thu, 22 Sep 2022 14:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Karsten Warholm og Leif Olav Alnes</title>
       <description><![CDATA[Møt verdens raskeste mann på 400 meter hekk, og trenerlegenden som hjelper ham å løpe stadig raskere]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/835eddc4-2d0e-4a13-8638-cb954b64d361_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:16</itunes:duration>
       <pubDate>Tue, 06 Sep 2022 13:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nina Lykke</title>
-      <description><![CDATA[Hun skriver om den bortskjemte norske middelklassen med stor suksess. I kommende roman er det kultureliten som skal få høre det. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/41287aac-23b6-4bcc-a649-08ffc137b0e9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/41287aac-23b6-4bcc-a649-08ffc137b0e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:10</itunes:duration>
-      <pubDate>Mon, 05 Sep 2022 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
