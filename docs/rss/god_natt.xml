@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 20 Sep 2022 18:43:53 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2022 18:42:20 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>I skjul av natten </title>
+      <description><![CDATA[En båt med flyktninger seiler over Middelhavet. Hvem tar dem imot?
+Tekst: «Pinjelunden» av Øystein Lønn
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand  
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/4670b908-40bb-4817-9b25-a9d171aea961_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/4670b908-40bb-4817-9b25-a9d171aea961_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <pubDate>Sun, 25 Sep 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Susie stjeler andres mannfolk  </title>
       <description><![CDATA[Hvem vil ha en venninne som legger seg etter andres menn?
@@ -110,15 +122,6 @@ Tekst: «Folkevise» av Sigbjørn Obstfelder
       <enclosure url="https://podkast.nrk.no/fil/god_natt/33271969-08ce-4eb2-8e8f-950ee0b207c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>08:15</itunes:duration>
       <pubDate>Sun, 04 Sep 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>De bråkete brødrene</title>
-      <description><![CDATA[ Kim og Ken er brødre og slåss hele tiden. Men de elsker fugler og vil helst la dem fly fritt. Tekst: «Kim og Ken» av Joakim Kjørsvik 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaktør: Ingerid Nordstrand]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/f61b267a-89a4-4f82-8b56-972f9d165de7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/f61b267a-89a4-4f82-8b56-972f9d165de7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:14</itunes:duration>
-      <pubDate>Tue, 30 Aug 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
