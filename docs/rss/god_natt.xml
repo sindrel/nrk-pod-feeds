@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 25 Sep 2022 18:42:20 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Sep 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2022 18:46:21 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Et farlig frieri </title>
+      <description><![CDATA[Aslaug er forelsket i Tore, men faren til Aslaug er en hissigpropp. 
+Tekst: «Et farlig frieri» av Bjørnstjerne Bjørnson 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand 
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/6591720d-2c99-4ac8-8e7a-e643472e3ecd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/6591720d-2c99-4ac8-8e7a-e643472e3ecd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:58</itunes:duration>
+      <pubDate>Mon, 26 Sep 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>I skjul av natten </title>
       <description><![CDATA[En båt med flyktninger seiler over Middelhavet. Hvem tar dem imot?
@@ -110,18 +122,6 @@ Tekst: «Rasmussen» av Joakim Kjørsvik
       <enclosure url="https://podkast.nrk.no/fil/god_natt/a683832a-347a-4265-8bf0-178f8b4fa413_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>08:02</itunes:duration>
       <pubDate>Mon, 05 Sep 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ringen</title>
-      <description><![CDATA[Anne Marie er den flotteste jenta i bygda – men hvorfor er hun så ulykkelig? 
-Tekst: «Folkevise» av Sigbjørn Obstfelder 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/33271969-08ce-4eb2-8e8f-950ee0b207c1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/33271969-08ce-4eb2-8e8f-950ee0b207c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:15</itunes:duration>
-      <pubDate>Sun, 04 Sep 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
