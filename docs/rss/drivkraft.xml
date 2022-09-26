@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 22 Sep 2022 13:06:19 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Sep 2022 14:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2022 13:10:18 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2022 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Jens Ulltveit-Moe</title>
+      <description><![CDATA[«Jeg skiftet fra Høyre med avsky». Nå er milliardæren  sentralstyremedlem i MDG for å motkjempe klimaendringer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/305325b0-9468-41c1-9679-a4d12e25f0c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/305325b0-9468-41c1-9679-a4d12e25f0c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:12</itunes:duration>
+      <pubDate>Mon, 26 Sep 2022 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Jonis Josef</title>
       <description><![CDATA[Hvorfor føler den suksessrike komikeren Jonis Josef seg som en bedrager?]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/edcce40c-960a-48a0-8f09-4db20d9f10a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:47</itunes:duration>
       <pubDate>Wed, 07 Sep 2022 14:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Michael Ray Vera Cruz Angeles</title>
-      <description><![CDATA[I sommer har over 100 000 publikummere hørt Karpe synge om Mike i Oslo Spektrum. Men hvem er han egentlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/835eddc4-2d0e-4a13-8638-cb954b64d361_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/835eddc4-2d0e-4a13-8638-cb954b64d361_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:16</itunes:duration>
-      <pubDate>Tue, 06 Sep 2022 13:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
