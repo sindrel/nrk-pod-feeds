@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Gal &amp; genial</title>
+    <title>De 8 siste fra Gal &amp; genial</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Gal &amp; genial. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gal_og_genial for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Gal &amp; genial. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gal_og_genial for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 20 Sep 2022 05:00:56 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 04:52:55 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"/>
+    <item>
+      <title>Jane Goodall &amp; livet med apene</title>
+      <description><![CDATA[Dette er historien om kvinnen som ble forsker ved en tilfeldighet og revolusjonerte vår oppfatning av sjimpanser]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gal_og_genial/e65f328e-82bb-44ef-9af6-a0d20b9ffa1a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/e65f328e-82bb-44ef-9af6-a0d20b9ffa1a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:51</itunes:duration>
+      <pubDate>Tue, 27 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Thor Heyerdahl &amp; de ni livene</title>
       <description><![CDATA[Dette er historien om tidenes mest kjente nordmann, som utfordret vitenskapen og krysset verdenshavene!]]></description>
