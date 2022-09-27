@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 26 Sep 2022 13:10:18 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Sep 2022 14:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 13:11:57 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Maria Ekerhovd</title>
+      <description><![CDATA[Filmprodusenten gråt da hun leste manuset til "Krigsseileren". Hun levde seg inn i de menneskelige skjebnene. Nå er filmen Norges Oscar-kandidat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cdc150b0-9dc5-4f1a-8e6d-24a0685b3214_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cdc150b0-9dc5-4f1a-8e6d-24a0685b3214_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Tue, 27 Sep 2022 15:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Jens Ulltveit-Moe</title>
       <description><![CDATA[«Jeg skiftet fra Høyre med avsky». Nå er milliardæren  sentralstyremedlem i MDG for å motkjempe klimaendringer.]]></description>
@@ -82,15 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/98994f44-5ff5-4d36-8cd5-67fb3549f246_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:33</itunes:duration>
       <pubDate>Thu, 08 Sep 2022 14:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Anne Holt </title>
-      <description><![CDATA[I mange år levde krimforfatteren i det hun kaller "ubalanse", og var på et mørkt sted i livet, men så fant hun den store kjærligheten.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/edcce40c-960a-48a0-8f09-4db20d9f10a6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/edcce40c-960a-48a0-8f09-4db20d9f10a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:47</itunes:duration>
-      <pubDate>Wed, 07 Sep 2022 14:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
