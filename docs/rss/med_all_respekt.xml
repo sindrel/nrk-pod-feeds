@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 27 Sep 2022 13:12:09 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 14:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 13:08:36 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
+    <item>
+      <title>Helt ekte historier fra gata!</title>
+      <description><![CDATA[*Trigger warning: Galvans traumatiske møte
+*Tara stiller opp og hjelper, men bør hun?
+*Hvis MAR var en gangstergjeng
+*Takle gamle rasister 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/876ab1cf-af63-44ed-8765-80fe0bed5c81_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/876ab1cf-af63-44ed-8765-80fe0bed5c81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:23</itunes:duration>
+      <pubDate>Wed, 28 Sep 2022 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Whiteface-party og hallikquiz!</title>
       <description><![CDATA[*Rihanna er tilbake!
@@ -117,16 +129,6 @@ E-post: mar@nrk.no]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/d3306249-52af-4a5b-9fe4-683ac9eac8a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:41</itunes:duration>
       <pubDate>Tue, 13 Sep 2022 14:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Abu vs. monarkiet</title>
-      <description><![CDATA[Abu har beefa med monarkiet, Tara ramser opp fem av dronning Elizabeths best bevarte hemmeligheter, og hva faen skjer i Sverige?
-
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/06f6f7c4-eb05-4977-b76c-bb453aeb1d15_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/06f6f7c4-eb05-4977-b76c-bb453aeb1d15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:45</itunes:duration>
-      <pubDate>Mon, 12 Sep 2022 17:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

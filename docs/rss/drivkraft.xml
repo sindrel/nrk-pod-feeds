@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 27 Sep 2022 13:11:57 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 15:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 13:08:27 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Mikael Forselius</title>
+      <description><![CDATA[Som 14-åring bestemte han seg for å bli hotelldirektør. I dag er han direktør på Britannia hotel i Trondheim.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7b328c73-35ad-46e8-9755-b8b8cd49e2ca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7b328c73-35ad-46e8-9755-b8b8cd49e2ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Wed, 28 Sep 2022 15:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Maria Ekerhovd</title>
       <description><![CDATA[Filmprodusenten gråt da hun leste manuset til "Krigsseileren". Hun levde seg inn i de menneskelige skjebnene. Nå er filmen Norges Oscar-kandidat.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/87cbdce0-d672-4091-ac1b-5d22511fa6d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Mon, 12 Sep 2022 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Simon Simonnæs</title>
-      <description><![CDATA[Han vokste opp i et sjømannsvertshus i Rotterdam og er i dag en av Bergens fremste forretningsmenn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/98994f44-5ff5-4d36-8cd5-67fb3549f246_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/98994f44-5ff5-4d36-8cd5-67fb3549f246_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:33</itunes:duration>
-      <pubDate>Thu, 08 Sep 2022 14:45:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
