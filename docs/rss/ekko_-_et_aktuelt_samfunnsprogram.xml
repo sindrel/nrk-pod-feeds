@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 27 Sep 2022 03:03:29 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 03:09:36 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Hvorfor bo i et drivhus?</title>
+      <description><![CDATA[Fordelene og ulempene med å bo i et drivhus i Norge
+
+Laget av Silje Kilmork Vemøy]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8c769b69-dc75-41ee-81a1-38d0b6653aab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8c769b69-dc75-41ee-81a1-38d0b6653aab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:58</itunes:duration>
+      <pubDate>Wed, 28 Sep 2022 05:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Sånn husker du bedre!</title>
       <description><![CDATA[Teknikker til å huske bedre på rekordtid
@@ -95,18 +105,6 @@ Laget av Hanna Mikalesen]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f3d40ad9-7db8-4bd4-b0d8-f95df51dba1a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:36</itunes:duration>
       <pubDate>Wed, 07 Sep 2022 05:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Spørretime: Hvor mye bør vi trene?</title>
-      <description><![CDATA[Hvor mye må vi trene for å ha god helse, og hva slags trening er best?
-
-I panelet: Yngvar Andersen, trener/tidligere friidrettsutøver, Ekaterina Zotcheva, forsker på trening og hjernehelse ved Folkehelseinstituttet, og Henriette Øien, Helsedirektoratet 
-
-Programleder: Marta Våge]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f2fd3f48-3a56-4fbe-a85e-f5a1d9c194c3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f2fd3f48-3a56-4fbe-a85e-f5a1d9c194c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:26</itunes:duration>
-      <pubDate>Thu, 01 Sep 2022 05:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
