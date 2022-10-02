@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 27 Sep 2022 18:51:45 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 18:44:16 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Den usynlige mannens hevn</title>
+      <description><![CDATA[Hva fikk vaktmesteren til å slå i stykker alle maskinene på jobb?  
+Tekst: «Pålitelig og pliktoppfyllende» av Johan Borgen
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/ea63390f-9bc0-497e-8e1d-7724c39d99b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/ea63390f-9bc0-497e-8e1d-7724c39d99b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:10</itunes:duration>
+      <pubDate>Sun, 02 Oct 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Om mus og menn </title>
       <description><![CDATA[Er det forskjell på å eie en mus og det å ha en kjæreste? 
@@ -112,16 +122,6 @@ Tekst: «Kysset» av Toril Brekke
       <enclosure url="https://podkast.nrk.no/fil/god_natt/3d87c793-1b0d-43d2-aa63-b6c6cd4cbec2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:36</itunes:duration>
       <pubDate>Sun, 11 Sep 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Valgets kval</title>
-      <description><![CDATA[En nygift mann har et dilemma. Skal han gå hjem til kona Grethe eller skal han dra til elskerinnen Helga? 
-Tekst: «Dualisme» av Arve Moen 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/a5f12fbd-9b9d-407c-9af7-fb061618dd56_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/a5f12fbd-9b9d-407c-9af7-fb061618dd56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:04</itunes:duration>
-      <pubDate>Tue, 06 Sep 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
