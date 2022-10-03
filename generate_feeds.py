@@ -42,7 +42,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     )
 
     if season == "LATEST_SEASON":
-        season = metadata["_embedded"]["seasons"][0]["id"]
+        season = metadata["_links"]["seasons"][0]["name"]
 
     if ep_count == 0:
         episodes = get_all_podcast_episodes(podcast_id)
