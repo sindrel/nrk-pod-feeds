@@ -26,7 +26,7 @@ def test_get_episode_manifest():
 
 def test_get_podcast_episodes_by_season():
     podcast_id = "kongerekka"
-    season_id = "sesong-2"
+    season_id = "2022"
 
     episodes = psapi.get_podcast_episodes(podcast_id, season_id)
 
