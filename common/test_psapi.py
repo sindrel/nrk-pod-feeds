@@ -24,6 +24,14 @@ def test_get_episode_manifest():
 
     assert manifest != None
 
+def test_get_latest_podcast_season():
+    podcast_id = "kongerekka"
+
+    metadata = psapi.get_podcast_metadata(podcast_id)
+    latest_season = metadata["_links"]["seasons"][0]["name"]
+
+    assert latest_season == "2022"
+
 def test_get_podcast_episodes_by_season():
     podcast_id = "kongerekka"
     season_id = "2020"
