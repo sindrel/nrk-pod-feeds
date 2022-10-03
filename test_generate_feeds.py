@@ -7,7 +7,7 @@ def test_get_podcast():
     os.makedirs(feeds_dir, exist_ok=True)
 
     podcast_id = "kongerekka"
-    season_id = "sesong-2"
+    season_id = "2020"
 
     podcast = get_podcast(podcast_id, season_id, feeds_dir, 10)
     assert podcast
@@ -20,7 +20,7 @@ def test_get_podcast_void():
     feeds_dir = "tests/rss"
 
     podcast_id = "kongerdekka"
-    season_id = "sesong-2"
+    season_id = "2020"
 
     podcast = get_podcast(podcast_id, season_id, feeds_dir, 10)
     assert podcast == None
