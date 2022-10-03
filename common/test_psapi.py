@@ -10,7 +10,7 @@ def test_get_podcast_metadata():
     assert metadata != None
 
 def test_get_podcast_episodes():
-    podcast_id = "kongerekka"
+    podcast_id = "berrum_beyer_snakker_om_greier"
 
     episodes = psapi.get_podcast_episodes(podcast_id)
 
@@ -26,7 +26,7 @@ def test_get_episode_manifest():
 
 def test_get_podcast_episodes_by_season():
     podcast_id = "kongerekka"
-    season_id = "2022"
+    season_id = "2020"
 
     episodes = psapi.get_podcast_episodes(podcast_id, season_id)
 
