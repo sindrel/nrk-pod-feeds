@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 03 Oct 2022 18:50:22 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Oct 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 18:52:31 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Den forelskede fangevokteren </title>
+      <description><![CDATA[ En barnemorderske skal fraktes i fengsel – men klarer de å få henne dit?  
+Teksten: «En fangetransport» av  Astrid Berge
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/f06fc00b-8bf1-4094-9982-84e4bd204066_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/f06fc00b-8bf1-4094-9982-84e4bd204066_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:14</itunes:duration>
+      <pubDate>Tue, 04 Oct 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Rosa drømmer og blått hav</title>
       <description><![CDATA[Er det mulig å fortelle et helt menneskets liv gjennom hva hun liker og ikke liker?  
@@ -110,16 +120,6 @@ Tekst: «Enken»  av Cora Sandel
       <enclosure url="https://podkast.nrk.no/fil/god_natt/c512913e-2ff8-4223-a4ac-6c725f076c4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:59</itunes:duration>
       <pubDate>Tue, 13 Sep 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Dårlig energi </title>
-      <description><![CDATA[Et ungt par leier en bolig der huseier har renset energien med en bjelle. Det går ikke så bra. Tekst: «Lisa» av Joakim Kjørsvik 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/cdbd7a35-3cd3-4ea0-aa9e-54c4742af965_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/cdbd7a35-3cd3-4ea0-aa9e-54c4742af965_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:30</itunes:duration>
-      <pubDate>Mon, 12 Sep 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
