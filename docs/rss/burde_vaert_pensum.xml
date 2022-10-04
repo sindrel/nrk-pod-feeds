@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 26 Sep 2022 13:10:15 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Sep 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 09:41:53 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Hvor farlig er radioaktiv stråling?</title>
+      <description><![CDATA[Radioaktiv stråling gjør mange redde. Men hvor redde bør vi være? Kjernefysiker Sunniva Rose gir deg svar. Medvirkende: Anders Magnus]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/2d2b48d0-677c-4308-8452-2d84095b5565_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/2d2b48d0-677c-4308-8452-2d84095b5565_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:50</itunes:duration>
+      <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Den mystiske fargen brun</title>
       <description><![CDATA[Brødet i butikken er ikke brunt slik som du tror. Fysiker Andreas Wahl forklarer hvorfor han mener at fargen brun ikke finnes. Medvirkende: Eivind Stoud Platou ]]></description>
@@ -85,16 +93,6 @@ Medvirkende: Pia Ve Dahlen og Bjørn Samset ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/908b0b21-aaba-481c-86bc-5e59ada6b74b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:38</itunes:duration>
       <pubDate>Mon, 04 Apr 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ny teknologi – nyttig eller farlig? </title>
-      <description><![CDATA[Er den nye teknologien farlig for vår eksistens? Produktdesigner Nima Shahinian har kunnskap som kanskje gjør deg mindre bekymret. Medvirkende: Eirik Smilden og Niklas Mortensen
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/86a3fda7-2ddb-4e5f-897a-95d36c89d27c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/86a3fda7-2ddb-4e5f-897a-95d36c89d27c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:02</itunes:duration>
-      <pubDate>Mon, 21 Mar 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
