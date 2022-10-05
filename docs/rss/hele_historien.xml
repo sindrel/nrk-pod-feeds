@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Hele historien</title>
+    <title>De 2 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 28 Sep 2022 22:39:18 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Sep 2022 00:03:00 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2022 22:41:59 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 00:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw"/>
     <item>
@@ -18,6 +18,14 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/40f5e8d5-cc4b-4839-897a-d1038a83a4e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:15</itunes:duration>
       <pubDate>Thu, 29 Sep 2022 00:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Spionflyet i Bodø</title>
+      <description><![CDATA[I 1960 holdt verden pusten da et spionfly fra USA ble skutt ned over Russland. U2-flyet var på hemmelig tokt og skulle landet i Bodø. I Nordland ble folk livredde da Sovjetunionen truet med å bruke atomvåpen mot flybasen i Bodø. Du hører det først i appen NRK Radio. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/6a3037d5-7937-415c-890e-d3433617a25b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/6a3037d5-7937-415c-890e-d3433617a25b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:40</itunes:duration>
+      <pubDate>Thu, 06 Oct 2022 00:03:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
