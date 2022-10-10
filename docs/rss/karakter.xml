@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Oct 2022 02:41:02 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Oct 2022 04:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2022 03:07:35 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2022 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Kjøttfri BBQ og sanger i mormors begravelse</title>
+      <description><![CDATA[Alenefesten fortsetter med Martin og Henrik. De snakker om å være vegetarianer og hvilke låter man kan spille i en begravelse. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/a27b4677-e6e7-4ba5-89ed-f689868f862f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/a27b4677-e6e7-4ba5-89ed-f689868f862f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:25</itunes:duration>
+      <pubDate>Mon, 10 Oct 2022 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Vold for å vise glede </title>
       <description><![CDATA[Henrik og Martin har hjemmealenefest! De snakker om hvordan de flørter, være ufin på fly og svarer på masse spørsmål. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/karakter/097b1ae7-47f4-4ddf-acf7-19ab896feb17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:06</itunes:duration>
       <pubDate>Wed, 07 Sep 2022 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sperm på en mandag</title>
-      <description><![CDATA[Vi leser oss opp på sæddonorer fra Danmark, og får Galvan Mehidi på overraskelsesbesøk! Vi fortsetter å trekke spørsmål fra bollaaa!!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/70139096-30b3-45bb-8eac-1ce5cc28dd9d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/70139096-30b3-45bb-8eac-1ce5cc28dd9d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:41</itunes:duration>
-      <pubDate>Mon, 05 Sep 2022 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
