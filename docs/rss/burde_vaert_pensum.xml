@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 04 Oct 2022 09:41:53 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2022 04:58:30 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Hva er gjeld ?</title>
+      <description><![CDATA[Økonomikommentator i NRK, Cecilie Langum Becker, forklarer det kjipe og det fantastiske med gjeld. Medvirkende: Bård Ove Molberg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/d2aa6938-acb5-41ea-af30-1bb662327d69_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/d2aa6938-acb5-41ea-af30-1bb662327d69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:11</itunes:duration>
+      <pubDate>Mon, 10 Oct 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hvor farlig er radioaktiv stråling?</title>
       <description><![CDATA[Radioaktiv stråling gjør mange redde. Men hvor redde bør vi være? Kjernefysiker Sunniva Rose gir deg svar. Medvirkende: Anders Magnus]]></description>
@@ -82,17 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/316933e7-da13-424f-83b3-07f716e9b070_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:48</itunes:duration>
       <pubDate>Mon, 11 Apr 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Det viktige vannet </title>
-      <description><![CDATA[Vann er livsviktig, men hvorfor det? 
-Programleder Selda Ekiz dykker ned i  et av de mest fantastiske stoffene i universet!  
-
-Medvirkende: Pia Ve Dahlen og Bjørn Samset ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/908b0b21-aaba-481c-86bc-5e59ada6b74b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/908b0b21-aaba-481c-86bc-5e59ada6b74b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:38</itunes:duration>
-      <pubDate>Mon, 04 Apr 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

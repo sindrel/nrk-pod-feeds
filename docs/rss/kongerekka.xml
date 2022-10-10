@@ -1,42 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Kongerekka</title>
+    <title>De 6 siste fra Kongerekka</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Kongerekka. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kongerekka for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Kongerekka. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kongerekka for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 03 Oct 2022 04:15:00 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2022 04:58:43 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg"/>
     <item>
-      <title>Sverre Sigurdsson - Kongen som løy så han trodde det selv (21:30)</title>
-      <description><![CDATA[En hemmelig tronarving seiler inn. Eller en bedrager? Uansett var han vill som en løve og mild som et lam. Og utstyrsfrik. 
-(År 1177-1202)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/b162931c-9397-4124-8fe9-820dc246a134_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kongerekka/b162931c-9397-4124-8fe9-820dc246a134_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:17</itunes:duration>
-      <pubDate>Mon, 05 Sep 2022 06:00:00 +0200</pubDate>
+      <title>Magnus Lagabøte - Kongen som avskaffet Hunger Games (26:30)</title>
+      <description><![CDATA[Han kom inn som reserve, men la grunnen for det som er Norges superkraft den dag i dag! 
+(År 1263-1280)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/e58cff01-1b50-4def-9307-24e0aa9fee62_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/e58cff01-1b50-4def-9307-24e0aa9fee62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:32</itunes:duration>
+      <pubDate>Mon, 10 Oct 2022 06:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Håkon Sverresson - Kongen med juleselskapet fra helvete (22:30)</title>
-      <description><![CDATA[Det gjør noe med stemningen i familien når du kidnapper din egen søster.
-(År 1202-1204)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/048f67f6-cdfa-48a5-b7d8-be5392ef5ebb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kongerekka/048f67f6-cdfa-48a5-b7d8-be5392ef5ebb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:24</itunes:duration>
-      <pubDate>Mon, 12 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Inge Bårdsson - Kongen som ble undervurdert (23:30)</title>
-      <description><![CDATA[Han fikk kongejobb og borgerkrig lempet i fanget, og Norge skal være glad for at kong Inge var sånn en grei fyr! Men han kom aldri helt til hektene igjen etter et blodig bryllup.
-(År 1204-1217)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/b245d949-2799-40af-a132-061110e1aca5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kongerekka/b245d949-2799-40af-a132-061110e1aca5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:22</itunes:duration>
-      <pubDate>Mon, 19 Sep 2022 06:00:00 +0200</pubDate>
+      <title>Snorre Sturlasson - Mannen som gjorde kongene udødelige (25:30)</title>
+      <description><![CDATA[Denne kjendisforfatteren elsket piker, mjød og boblebadet sitt. Men hvorfor ville Norges konge ha Snorre drept?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/bf634fe1-2962-4682-bd2d-df45ed0e1fd9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/bf634fe1-2962-4682-bd2d-df45ed0e1fd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:41</itunes:duration>
+      <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Håkon Håkonsson - Kongen som tok Norge til toppen (24:30)</title>
@@ -48,12 +38,31 @@
       <pubDate>Mon, 26 Sep 2022 06:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Snorre Sturlasson - Mannen som gjorde kongene udødelige (25:30)</title>
-      <description><![CDATA[Denne kjendisforfatteren elsket piker, mjød og boblebadet sitt. Men hvorfor ville Norges konge ha Snorre drept?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/bf634fe1-2962-4682-bd2d-df45ed0e1fd9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kongerekka/bf634fe1-2962-4682-bd2d-df45ed0e1fd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:41</itunes:duration>
-      <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
+      <title>Inge Bårdsson - Kongen som ble undervurdert (23:30)</title>
+      <description><![CDATA[Han fikk kongejobb og borgerkrig lempet i fanget, og Norge skal være glad for at kong Inge var sånn en grei fyr! Men han kom aldri helt til hektene igjen etter et blodig bryllup.
+(År 1204-1217)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/b245d949-2799-40af-a132-061110e1aca5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/b245d949-2799-40af-a132-061110e1aca5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:22</itunes:duration>
+      <pubDate>Mon, 19 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Håkon Sverresson - Kongen med juleselskapet fra helvete (22:30)</title>
+      <description><![CDATA[Det gjør noe med stemningen i familien når du kidnapper din egen søster.
+(År 1202-1204)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/048f67f6-cdfa-48a5-b7d8-be5392ef5ebb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/048f67f6-cdfa-48a5-b7d8-be5392ef5ebb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:24</itunes:duration>
+      <pubDate>Mon, 12 Sep 2022 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sverre Sigurdsson - Kongen som løy så han trodde det selv (21:30)</title>
+      <description><![CDATA[En hemmelig tronarving seiler inn. Eller en bedrager? Uansett var han vill som en løve og mild som et lam. Og utstyrsfrik. 
+(År 1177-1202)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/b162931c-9397-4124-8fe9-820dc246a134_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/b162931c-9397-4124-8fe9-820dc246a134_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:17</itunes:duration>
+      <pubDate>Mon, 05 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
