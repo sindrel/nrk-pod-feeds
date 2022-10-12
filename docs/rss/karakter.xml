@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 10 Oct 2022 03:07:35 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Oct 2022 04:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 03:10:03 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Gollums hvite måned på Henritz og Mauritz</title>
+      <description><![CDATA[Martin har startet en hvit måned og Henrik har med en ny parodi. De får inn en ny skrifting og svarer på spørsmål fra bolla.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/5065b55d-1fe8-4b7b-96de-11d37624e455_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/5065b55d-1fe8-4b7b-96de-11d37624e455_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Wed, 12 Oct 2022 04:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Kjøttfri BBQ og sanger i mormors begravelse</title>
       <description><![CDATA[Alenefesten fortsetter med Martin og Henrik. De snakker om å være vegetarianer og hvilke låter man kan spille i en begravelse. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/karakter/a455816d-d5b7-432e-9cbc-d54bbc96ecc5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:08</itunes:duration>
       <pubDate>Mon, 12 Sep 2022 09:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Andrew Tate på TikTok tv-en </title>
-      <description><![CDATA[Henrik viser frem sin Tik Tok-parodi. Gutta diskuterer også Andrew Tate, om menn kan være luremus og om gamle folk er bærekraftige. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/097b1ae7-47f4-4ddf-acf7-19ab896feb17_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/097b1ae7-47f4-4ddf-acf7-19ab896feb17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:06</itunes:duration>
-      <pubDate>Wed, 07 Sep 2022 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
