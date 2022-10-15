@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 08 Oct 2022 15:38:56 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Oct 2022 17:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2022 15:39:33 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2022 17:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>A*us, svik og melankoli</title>
+      <description><![CDATA[Et humorprogram fra bartebyen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/0a8230c3-7ce4-4285-8f56-dcf493f45207_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/0a8230c3-7ce4-4285-8f56-dcf493f45207_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:46</itunes:duration>
+      <pubDate>Sat, 15 Oct 2022 17:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Kåte elger, Jukebox-bonanza, Kringle-demens</title>
       <description><![CDATA[Et humorprogram med skråblikk på det meste]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/e66816e2-5fbb-4073-ba0c-c1c14e5f1f82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:30</itunes:duration>
       <pubDate>Sat, 11 Jun 2022 16:05:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Dyrisk bra sending</title>
-      <description><![CDATA[Sommeren står for tur]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/f3816f47-da5e-4fd5-888f-7445c1198324_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/f3816f47-da5e-4fd5-888f-7445c1198324_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:18</itunes:duration>
-      <pubDate>Sat, 04 Jun 2022 17:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
