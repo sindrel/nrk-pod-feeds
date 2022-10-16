@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Oct 2022 18:48:51 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Oct 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 18:44:43 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Den gjeve hagefesten</title>
+      <description><![CDATA[De kulturelle påfuglene glitrer på Aschehougs hagefest. Men hvordan oppleves festen av den unge debutanten?
+Tekst: «Hensikten med hagefesten» av Ola Jostein Jørgensen
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/63c040d1-cc90-4e43-9e93-fc19829de5de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/63c040d1-cc90-4e43-9e93-fc19829de5de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:18</itunes:duration>
+      <pubDate>Sun, 16 Oct 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>En besværlig panteautomat og en sulten måke</title>
       <description><![CDATA[Et gammelt ektepar skal pante flasker i butikken. Det byr på flere opplevelser. 
@@ -106,16 +116,6 @@ Tekst: «Pinjelunden» av Øystein Lønn
       <enclosure url="https://podkast.nrk.no/fil/god_natt/4670b908-40bb-4817-9b25-a9d171aea961_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
       <pubDate>Sun, 25 Sep 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Susie stjeler andres mannfolk  </title>
-      <description><![CDATA[Hvem vil ha en venninne som legger seg etter andres menn?
-Tekst: «Ting skjer» av Laila Stien
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/e052c892-e05d-428d-9d95-76bdcaec8233_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/e052c892-e05d-428d-9d95-76bdcaec8233_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:31</itunes:duration>
-      <pubDate>Tue, 20 Sep 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
