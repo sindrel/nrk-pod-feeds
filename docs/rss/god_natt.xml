@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 16 Oct 2022 18:44:43 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Oct 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2022 19:00:17 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>De røde leppene til Unni   </title>
+      <description><![CDATA[De var en gang kjærester. Nå møtes de igjen.  
+Tekst: «Gjensyn» av Arve Moen
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/cd26889c-b3e5-4dd4-b2e9-5cb19c4780f5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/cd26889c-b3e5-4dd4-b2e9-5cb19c4780f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:16</itunes:duration>
+      <pubDate>Mon, 17 Oct 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Den gjeve hagefesten</title>
       <description><![CDATA[De kulturelle påfuglene glitrer på Aschehougs hagefest. Men hvordan oppleves festen av den unge debutanten?
@@ -104,18 +114,6 @@ Tekst: «Et farlig frieri» av Bjørnstjerne Bjørnson
       <enclosure url="https://podkast.nrk.no/fil/god_natt/6591720d-2c99-4ac8-8e7a-e643472e3ecd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:58</itunes:duration>
       <pubDate>Mon, 26 Sep 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>I skjul av natten </title>
-      <description><![CDATA[En båt med flyktninger seiler over Middelhavet. Hvem tar dem imot?
-Tekst: «Pinjelunden» av Øystein Lønn
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand  
-
- ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/4670b908-40bb-4817-9b25-a9d171aea961_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/4670b908-40bb-4817-9b25-a9d171aea961_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:00</itunes:duration>
-      <pubDate>Sun, 25 Sep 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
