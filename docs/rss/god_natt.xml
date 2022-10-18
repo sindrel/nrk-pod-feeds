@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 17 Oct 2022 19:00:17 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Oct 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2022 18:54:58 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Drømmen om Valparaiso </title>
+      <description><![CDATA[Hun drømte om å reise. Helst til Valparaiso - bare navnet var så fint.
+Tekst: «Valparaiso» av Laila Stien 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/39e9d75b-cb0e-4d21-b65c-63798464d390_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/39e9d75b-cb0e-4d21-b65c-63798464d390_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:40</itunes:duration>
+      <pubDate>Tue, 18 Oct 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>De røde leppene til Unni   </title>
       <description><![CDATA[De var en gang kjærester. Nå møtes de igjen.  
@@ -102,18 +112,6 @@ Tekst: «Om mus og menn» av Gro Dahle
       <enclosure url="https://podkast.nrk.no/fil/god_natt/1dc520b9-3c3e-4786-b266-c1a9b6a49e8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>07:59</itunes:duration>
       <pubDate>Tue, 27 Sep 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Et farlig frieri </title>
-      <description><![CDATA[Aslaug er forelsket i Tore, men faren til Aslaug er en hissigpropp. 
-Tekst: «Et farlig frieri» av Bjørnstjerne Bjørnson 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand 
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/6591720d-2c99-4ac8-8e7a-e643472e3ecd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/6591720d-2c99-4ac8-8e7a-e643472e3ecd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:58</itunes:duration>
-      <pubDate>Mon, 26 Sep 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
