@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 14 Oct 2022 03:19:31 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Oct 2022 04:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2022 05:05:17 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+    <item>
+      <title>Hotelltrøbbel, Grillkylling og Kakefil </title>
+      <description><![CDATA[Lars har hatt hotelltrøbbel. Martin har fått oversettelsen fra pissoaret. Sammen diskuterer de om en kan rømme fra fengsel med en fil. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5def1ca7-1432-4da5-b54d-e8e4ec38fbf6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5def1ca7-1432-4da5-b54d-e8e4ec38fbf6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:25</itunes:duration>
+      <pubDate>Tue, 18 Oct 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Isabelle Ringnes: Chip i hånda og oppkast</title>
       <description><![CDATA[Lars og Martin får besøk av gründer, Isabelle Ringnes. De snakker om teknologi, likestillingen og en felles fortid mellom Lars og Isabelle.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e0085a69-55ea-4637-8c9c-dce168780385_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:01:31</itunes:duration>
       <pubDate>Tue, 06 Sep 2022 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Podagra, Pepperkakehus og Duer</title>
-      <description><![CDATA[Lars har sittet på småfly og vært konferansier. Martin spiller opp til sang. Sammen diskuterer de perspektiv fra innboksen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/2240181e-ee9a-4e15-b38e-2817609bae91_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/2240181e-ee9a-4e15-b38e-2817609bae91_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:26</itunes:duration>
-      <pubDate>Tue, 30 Aug 2022 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
