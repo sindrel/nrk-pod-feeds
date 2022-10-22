@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 15 Oct 2022 15:39:33 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Oct 2022 17:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 14:37:58 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>Krise-åpning, Diktator-sex, Giske-sang</title>
+      <description><![CDATA[Advarsel! Kan virke sterkt latterfremkallende. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/4fcdabe7-338c-45ea-8f27-85473891d9ea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/4fcdabe7-338c-45ea-8f27-85473891d9ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:44</itunes:duration>
+      <pubDate>Sat, 22 Oct 2022 16:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>A*us, svik og melankoli</title>
       <description><![CDATA[Et humorprogram fra bartebyen]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/4126355d-0522-4594-a867-46f456900a55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:25</itunes:duration>
       <pubDate>Sat, 18 Jun 2022 16:05:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Noen av Are og Odins utvalgte høydepunkter fra året som gikk.</title>
-      <description><![CDATA[ADVARSEL: Sterkt latterfremkallende!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/e66816e2-5fbb-4073-ba0c-c1c14e5f1f82_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/e66816e2-5fbb-4073-ba0c-c1c14e5f1f82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:30</itunes:duration>
-      <pubDate>Sat, 11 Jun 2022 16:05:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
