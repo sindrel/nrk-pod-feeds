@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 18 Oct 2022 18:54:58 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Oct 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2022 18:45:24 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2022 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Husarrest</title>
+      <description><![CDATA[Gutten har gjort noe galt og får husarrest. Hva vil pappa si? 
+Tekst: «Husarrest» av Gunnar Lunde 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/0e37f692-ae2d-4ec7-aa4a-39a71fbef2f4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/0e37f692-ae2d-4ec7-aa4a-39a71fbef2f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:38</itunes:duration>
+      <pubDate>Sun, 23 Oct 2022 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Drømmen om Valparaiso </title>
       <description><![CDATA[Hun drømte om å reise. Helst til Valparaiso - bare navnet var så fint.
@@ -100,18 +110,6 @@ Tekst: «Pålitelig og pliktoppfyllende» av Johan Borgen
       <enclosure url="https://podkast.nrk.no/fil/god_natt/ea63390f-9bc0-497e-8e1d-7724c39d99b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>10:10</itunes:duration>
       <pubDate>Sun, 02 Oct 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Om mus og menn </title>
-      <description><![CDATA[Er det forskjell på å eie en mus og det å ha en kjæreste? 
-Tekst: «Om mus og menn» av Gro Dahle
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Ingerid Nordstrand 
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/1dc520b9-3c3e-4786-b266-c1a9b6a49e8d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/1dc520b9-3c3e-4786-b266-c1a9b6a49e8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:59</itunes:duration>
-      <pubDate>Tue, 27 Sep 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
