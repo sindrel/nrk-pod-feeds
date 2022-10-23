@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 16 Oct 2022 05:21:04 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Oct 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2022 04:46:24 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Hedda Mae</title>
+      <description><![CDATA[Else besøker kollektivet til artist Hedda Mae. Hedda forteller om da hun fikk elektrisk støt i dusjen, og om den gangen luftambulansen og politiet var involvert i å finne hennes savnede, rosa lommebok. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/c6ba1bd4-c57a-4dbe-beec-e8c1ff64ecec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c6ba1bd4-c57a-4dbe-beec-e8c1ff64ecec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:34</itunes:duration>
+      <pubDate>Sun, 23 Oct 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Else besøker: Odd Nordstoga</title>
       <description><![CDATA[Else besøker Odd Nordstoga i et hus med gamle møbler, en katt med nattkjole, og tomater i vinduskarmen. Han forteller om den gangen han kjeftet på en fyr i et parkeringshus, om hvordan han møtte kona, og hvorfor han synes de gamle låtene sine er litt grisete. 
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/ad458ff8-966d-4694-bd44-5fcd39b539c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:03</itunes:duration>
       <pubDate>Sun, 21 Aug 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Else besøker: Karsten Blomvik</title>
-      <description><![CDATA[Programleder Karsten Blomvik forteller om rave i skogen, om da han jobbet som kloakkrenser, og om tiden i Jehovas vitner når Else besøker han og katten Kai.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/50d66fc0-915d-4d2c-bc6c-16772285d22a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/50d66fc0-915d-4d2c-bc6c-16772285d22a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:40</itunes:duration>
-      <pubDate>Sun, 14 Aug 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
