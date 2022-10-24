@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Oct 2022 13:16:09 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2022 11:38:08 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Oct 2022 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Arif - Live på Trekanten i Oslo</title>
+      <description><![CDATA[Om rasisme, den tøffe oppveksten på Bogerud i Oslo, forholdet til moren og sangen som fikk kjæresten hans til å gråte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/aae6b59a-b185-44c3-8a86-01886aede462_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/aae6b59a-b185-44c3-8a86-01886aede462_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Mon, 24 Oct 2022 13:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ole Thorstensen</title>
       <description><![CDATA[Praktikere er mer ansvarlige mennesker enn teoretikere. Det mener i hvert fall tømrer og forfatter Ole Thorstensen.]]></description>
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/7b328c73-35ad-46e8-9755-b8b8cd49e2ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:14</itunes:duration>
       <pubDate>Wed, 28 Sep 2022 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Maria Ekerhovd</title>
-      <description><![CDATA[Filmprodusenten gråt da hun leste manuset til "Krigsseileren". Hun levde seg inn i de menneskelige skjebnene. Nå er filmen Norges Oscar-kandidat.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cdc150b0-9dc5-4f1a-8e6d-24a0685b3214_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cdc150b0-9dc5-4f1a-8e6d-24a0685b3214_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:10</itunes:duration>
-      <pubDate>Tue, 27 Sep 2022 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
