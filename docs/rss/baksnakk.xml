@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 18 Oct 2022 05:05:14 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Oct 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 05:52:35 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Halloween spesial!</title>
+      <description><![CDATA[Det blir nesten litt dårlig stemning i studio, da vi skal snakke om det betente temaet: Halloween.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/f7cee0e6-05ae-4dd1-ae9c-e3b6a2a1dfc3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/f7cee0e6-05ae-4dd1-ae9c-e3b6a2a1dfc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:20</itunes:duration>
+      <pubDate>Tue, 25 Oct 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Zara skal på prisutdeling!</title>
       <description><![CDATA[Vi deler gleder, flauser og... kjæreste? Zara skal overraske Lars Berrum og Jan Thomas reddet Lydias dag.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/64ce38a2-96f7-44dd-b16d-93cd5c076e3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:24</itunes:duration>
       <pubDate>Tue, 23 Aug 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Zara har fått voksenkjeft</title>
-      <description><![CDATA[Zara svarer på kritikk og Milie gir råd om å komme ut av skapet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/84615aa7-bac3-4990-a86e-9c7c74a67c51_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/84615aa7-bac3-4990-a86e-9c7c74a67c51_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:00</itunes:duration>
-      <pubDate>Tue, 16 Aug 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

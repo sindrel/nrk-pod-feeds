@@ -1,79 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 20 Sep 2022 05:01:09 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 06:02:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 05:52:46 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
-      <title>Mannen i Theresesgate</title>
-      <description><![CDATA[Joachim Førsund er tilbake med en ny podkastserie, om Rustam Louis Foss - mannen som ble skutt og drept av politiet i Oslo i fjor. Hvem var han egentlig? Og hvorfor måtte livet hans ende slik, på et fortau i Thereses gate?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/2ba51f61-6366-4145-ac01-7db12e2d528e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/2ba51f61-6366-4145-ac01-7db12e2d528e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:16</itunes:duration>
-      <pubDate>Sat, 03 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Drammen (Episode 1:7)</title>
-      <description><![CDATA[Flyktningen og bryteren Rustam (15) kommer til Drammen sammen med tanta si. Han allierer seg med Rønningen-brødrene og kjemper seg umiddelbart inn i norgeseliten i bryting. Men han har andre drømmer også - og andre demoner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6410d741-b3b1-40da-bf2e-de967e6ab7be_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6410d741-b3b1-40da-bf2e-de967e6ab7be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:25</itunes:duration>
-      <pubDate>Tue, 06 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Oslo (Episode 2:7)</title>
-      <description><![CDATA[Rustam flytter til hovedstaden for å følge drømmen om å bli skuespiller, men veien til Oslos underverden er kortere enn veien til teaterscenen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/bed97ef5-11eb-4daf-97b4-01bed17e9e93_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/bed97ef5-11eb-4daf-97b4-01bed17e9e93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:30</itunes:duration>
-      <pubDate>Tue, 06 Sep 2022 06:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Teaterhøyskolen (Episode 3:7)</title>
-      <description><![CDATA[Mot alle odds kommer asylsøkeren og gategutten Rustam inn på Teaterhøyskolen, en av Norges mest prestisjefylte utdannelser. Men det skal vise seg at den brokete fortida hans innhenter ham ganske fort.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/2fb96a62-e49b-4a03-abf8-38ac8d7cd776_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/2fb96a62-e49b-4a03-abf8-38ac8d7cd776_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:57</itunes:duration>
-      <pubDate>Tue, 13 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Fossen (Episode 4:7)</title>
-      <description><![CDATA[De er bare åtte elever i Rustams klasse på Teaterhøyskolen, og alle sammen blir på sett og vis viklet inn i Rustams stadig farligere og mer kompliserte liv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a30cc6e2-3c04-407b-9d43-5026cd061b7d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a30cc6e2-3c04-407b-9d43-5026cd061b7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:17</itunes:duration>
-      <pubDate>Tue, 13 Sep 2022 06:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Eventyrbrua (Episode 5:7)</title>
-      <description><![CDATA[Det blir snart tydelig at Rustam ikke bare har et rusproblem, han sliter også med en uoppdaget, psykisk lidelse. Den slår nå ut i full blomst, og ingen foretar seg noe før en uskyldig mann på Eventyrbrua i Oslo nesten mister livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/c8cf428e-9685-43ce-9633-ef821f5cbf16_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/c8cf428e-9685-43ce-9633-ef821f5cbf16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:35</itunes:duration>
-      <pubDate>Tue, 20 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Thereses gate (Episode 6:7)</title>
-      <description><![CDATA[Rustam blir dømt for knivangrepet på Eventyrbrua, blir erklært strafferettslig utilregnelig og skal sone i tvungent psykisk helsevern. Men den gradvise tilvenningen til et fritt liv ender i katastrofe.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/774431be-627a-4614-b3ff-5dd0d4cc85fc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/774431be-627a-4614-b3ff-5dd0d4cc85fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:44</itunes:duration>
-      <pubDate>Tue, 20 Sep 2022 06:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Karaganda (Episode 7/7)</title>
-      <description><![CDATA[Journalist Joachim Førsund blir med Rustams tante til hjembyen i Kasakhstan for å treffe Rustams søster, og for å forstå hva han en gang flyktet fra. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f5407a2f-0338-48b0-ab4b-5965ddb4e694_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f5407a2f-0338-48b0-ab4b-5965ddb4e694_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:46</itunes:duration>
-      <pubDate>Tue, 20 Sep 2022 06:02:00 +0200</pubDate>
+      <title>Smakebit: Utilgivelig</title>
+      <description><![CDATA[Mennesker i konflikt får hjelp til å ordne opp ansikt til ansikt, men det er ikke lett å møte en man tenker har gjort noe helt utilgivelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/9f66ccad-c58b-4e6b-8ffa-bccffb566a1a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9f66ccad-c58b-4e6b-8ffa-bccffb566a1a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06</itunes:duration>
+      <pubDate>Tue, 25 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
