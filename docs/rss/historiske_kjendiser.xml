@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Oct 2022 04:44:24 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Oct 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2022 04:28:26 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2022 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg"/>
+    <item>
+      <title>Charlie Chaplin – Fra fattigdom til Hollywoods it-person</title>
+      <description><![CDATA[Dette er historien om den ikoniske stumfilmstjernen, som med kløkt
+og komisk talent tok seg fra fattigdom til å bli et kjent fjes verden over.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/b49ded34-d020-4659-82d8-aeb190766e2a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/b49ded34-d020-4659-82d8-aeb190766e2a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Wed, 26 Oct 2022 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title> Nzinga – Dronning av Ndongo og Matamba</title>
       <description><![CDATA[Dette er historien om krigsdronningen som gjorde alt for sitt rike, og hardnakket sto imot en gryende kolonimakt. Med kløkt og dyktighet vant hun store seire i et taktisk spill – men ble tvunget til å gjøre grusomme ofre på veien.]]></description>
@@ -91,16 +100,6 @@ Radio.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/007c85f8-ea27-4192-8021-efff43cac730_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:22</itunes:duration>
       <pubDate>Wed, 22 Jun 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Marco Polo, kunsten å skrive en bestselger</title>
-      <description><![CDATA[Historiens mest kjente oppdagelsesreiser erobret Europa med
-fortellinger fra Kina og det myteomspunnede mongolriket. På eventyrene sine tok han seg
-hele veien inn i selveste Kublai khans innerste kammer. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/a03674a9-556f-4851-b67c-93c3a5bd02e5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/a03674a9-556f-4851-b67c-93c3a5bd02e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:22</itunes:duration>
-      <pubDate>Wed, 08 Jun 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
