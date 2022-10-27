@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 27 Oct 2022 11:29:54 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Oct 2022 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 13:07:19 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 15:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Amanda Tenfjord</title>
+      <description><![CDATA[Satser på musikken etter Eurovision-suksess, men gleder seg til å bli fastlege i bygde-Norge på sikt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/53733bd3-3c39-421b-ae61-3323a6311c73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/53733bd3-3c39-421b-ae61-3323a6311c73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:47</itunes:duration>
+      <pubDate>Thu, 27 Oct 2022 15:05:00 +0200</pubDate>
+    </item>
     <item>
       <title>Andreas Thorsheim</title>
       <description><![CDATA[Rekordhøye strømpriser gir solcelle-gründeren veldig travle dager på jobben]]></description>
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/4bb3dd77-050a-47eb-9412-b692faa2679d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:40</itunes:duration>
       <pubDate>Thu, 06 Oct 2022 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title> Audun Myskja</title>
-      <description><![CDATA[Ritualer er veien til ungdomskilden,  mener legen, forfatteren og forskeren. Gjennom 40 år har han prøvd ut metoder for å finne de beste verktøyene mot stress og indre uro.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/242cefe6-6883-4768-942a-b9c2b4c70149_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/242cefe6-6883-4768-942a-b9c2b4c70149_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:07</itunes:duration>
-      <pubDate>Wed, 05 Oct 2022 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
