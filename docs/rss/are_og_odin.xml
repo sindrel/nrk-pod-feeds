@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 22 Oct 2022 14:37:58 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Oct 2022 16:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2022 14:31:34 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2022 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>Ugle-angrep, Film-kveld, Mat-stjeling</title>
+      <description><![CDATA[Advarsel! Kan virke sterkt latterfremkallende.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/4d6331a7-7c8d-4690-acfc-ea6f99cfd04f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/4d6331a7-7c8d-4690-acfc-ea6f99cfd04f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:28</itunes:duration>
+      <pubDate>Sat, 29 Oct 2022 16:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Krise-åpning, Diktator-sex, Giske-sang</title>
       <description><![CDATA[Advarsel! Kan virke sterkt latterfremkallende. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/61e193d1-dfb0-422b-a43e-d772a6445512_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:03</itunes:duration>
       <pubDate>Sat, 27 Aug 2022 16:05:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Flere av Are og Odins utvalgte høydepunkter fra året som gikk.</title>
-      <description><![CDATA[ADVARSEL: Sterkt lattervekkende!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/4126355d-0522-4594-a867-46f456900a55_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/4126355d-0522-4594-a867-46f456900a55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:25</itunes:duration>
-      <pubDate>Sat, 18 Jun 2022 16:05:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
