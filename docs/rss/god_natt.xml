@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 25 Oct 2022 18:11:21 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 19:26:50 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Et siste farvel</title>
+      <description><![CDATA[Han skal reise bort og de sverger evig troskap. For det er vel ikke mulig å leve uten hverandre? 
+Tekst: «Farvel» av Arve Moen 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/fd6c8429-fc7c-4e40-8674-aaa4a54e0ce2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/fd6c8429-fc7c-4e40-8674-aaa4a54e0ce2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:52</itunes:duration>
+      <pubDate>Sun, 30 Oct 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Den uunnværlige statsministeren </title>
       <description><![CDATA[Når Gud snakker til statsministeren  får det uante konsekvenser.
@@ -101,16 +111,6 @@ Tekst: «Pianostemmeren» av Lars Saabye Christensen
       <enclosure url="https://podkast.nrk.no/fil/god_natt/9678b429-e04a-4587-b344-db9c0a855b59_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:36</itunes:duration>
       <pubDate>Sun, 09 Oct 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Den forelskede fangevokteren </title>
-      <description><![CDATA[ En barnemorderske skal fraktes i fengsel – men klarer de å få henne dit?  
-Teksten: «En fangetransport» av  Astrid Berge
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/f06fc00b-8bf1-4094-9982-84e4bd204066_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/f06fc00b-8bf1-4094-9982-84e4bd204066_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:14</itunes:duration>
-      <pubDate>Tue, 04 Oct 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
