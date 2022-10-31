@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Kongerekka</title>
+    <title>De 9 siste fra Kongerekka</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Kongerekka. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kongerekka for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Kongerekka. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kongerekka for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 24 Oct 2022 05:53:17 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Oct 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Oct 2022 06:43:45 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Oct 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg"/>
+    <item>
+      <title>Magnus Eriksson og Håkon VI Magnusson - Kongen som ble satt i fengsel av kongen (29:30)</title>
+      <description><![CDATA[Homorykter, tvangsbarbering, pest og løsepenger. Nok å henge fingrene i for Kose-Magnus og sønner. 
+(År 1319-1380)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/86811af1-a8f0-4a7c-b832-30b6cef56260_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/86811af1-a8f0-4a7c-b832-30b6cef56260_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:57</itunes:duration>
+      <pubDate>Mon, 31 Oct 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Håkon V Magnusson - Kongen som spilte høyt med døtrene sine (28:30)</title>
       <description><![CDATA[Han ble kalt Langbein, men han var verken klumsete eller tomsete. En streng ekteskapsarrangør var han. Og er det Vinteren som kommer? 
