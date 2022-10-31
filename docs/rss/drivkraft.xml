@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 27 Oct 2022 13:07:19 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Oct 2022 15:05:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Oct 2022 14:04:33 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Oct 2022 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Thor Gotaas</title>
+      <description><![CDATA[Folkeminnegranskeren som har skrevet 45 bøker opplevde skolen som et fengsel. Han mener du skal ha god fysikk for å sitte mye stille]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7145d0ca-0648-46fc-99f2-59905205c0de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7145d0ca-0648-46fc-99f2-59905205c0de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:42</itunes:duration>
+      <pubDate>Mon, 31 Oct 2022 13:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Amanda Tenfjord</title>
       <description><![CDATA[Satser på musikken etter Eurovision-suksess, men gleder seg til å bli fastlege i bygde-Norge på sikt]]></description>
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/006c2767-eef6-49ac-ae26-aaf79d095afa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Tue, 11 Oct 2022 13:25:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Anne Marit Jacobsen </title>
-      <description><![CDATA[Skuespilleren har mange baller i lufta. Bekymrer seg over Botox. Og har nylig kjøpt noen små statuer til 150 000 kroner, som kanskje kan bli til teater? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4bb3dd77-050a-47eb-9412-b692faa2679d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4bb3dd77-050a-47eb-9412-b692faa2679d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:40</itunes:duration>
-      <pubDate>Thu, 06 Oct 2022 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
