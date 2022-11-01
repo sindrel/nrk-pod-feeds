@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 31 Oct 2022 19:27:40 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Oct 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2022 19:28:23 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Susann Rosenvinge</title>
+      <description><![CDATA[Han drømmer om å få barn med den vakre Susann – men hva drømmer hun om? 
+Tekst: «Susann Rosenvinge» av Willy Flock 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/6fd4651f-ecc4-4bb3-8043-21a904dbb792_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/6fd4651f-ecc4-4bb3-8043-21a904dbb792_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:44</itunes:duration>
+      <pubDate>Tue, 01 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Forsøk på lykke</title>
       <description><![CDATA[Trivselsdepartementet vil at folk skal bli lykkelige og tester folks tissevaner.
@@ -101,16 +111,6 @@ Tekst: «Panteautomaten» av  Ola Jostein Jørgensen
       <enclosure url="https://podkast.nrk.no/fil/god_natt/7c73901e-9a2d-429b-853e-cf5a21c3b549_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>10:53</itunes:duration>
       <pubDate>Tue, 11 Oct 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hvorfor ommøblerer Marianne hele tiden?</title>
-      <description><![CDATA[Venninnepraten går om hvor merkelig Marianne er. Hun som har så grei mann.   
-Tekst: «Sola skinner» av Laila Stien 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/963d1fc2-6b30-44c0-b78e-241b6ec90217_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/963d1fc2-6b30-44c0-b78e-241b6ec90217_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:52</itunes:duration>
-      <pubDate>Mon, 10 Oct 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
