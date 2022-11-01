@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 31 Oct 2022 14:04:33 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Oct 2022 13:30:00 +0100</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2022 13:13:39 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2022 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Finn Schjøll </title>
+      <description><![CDATA[Tv-personligheten og floristen mener selv han er litt overflatisk, noe som fungerer godt for han]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/fe63c457-1820-43e0-bbf0-e28b6a9f1c8c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/fe63c457-1820-43e0-bbf0-e28b6a9f1c8c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:12</itunes:duration>
+      <pubDate>Tue, 01 Nov 2022 14:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Thor Gotaas</title>
       <description><![CDATA[Folkeminnegranskeren som har skrevet 45 bøker opplevde skolen som et fengsel. Han mener du skal ha god fysikk for å sitte mye stille]]></description>
@@ -84,15 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/6a225df8-0154-4fbd-a72e-638f7c2d5eea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Thu, 13 Oct 2022 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Egon Holstad</title>
-      <description><![CDATA[Jeg er livredd kjedsomhet, sier redaktøren og kommentatoren i avisen iTromsø . Holstad er  en markant stemme i den norske samfunnsdebatten. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/006c2767-eef6-49ac-ae26-aaf79d095afa_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/006c2767-eef6-49ac-ae26-aaf79d095afa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Tue, 11 Oct 2022 13:25:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
