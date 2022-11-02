@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 01 Nov 2022 13:13:39 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Nov 2022 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2022 13:11:10 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Nov 2022 13:50:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Anne Bitsch</title>
+      <description><![CDATA[Hun  prøver å forstå de mørke kreftene i samfunnet som skader andre. Forfatteren og samfunnsgeografen skriver om menneskerettigheter, seksuell vold og nordisk høyreekstremisme. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7019f92d-4174-42ed-8764-9f452dae0c2c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7019f92d-4174-42ed-8764-9f452dae0c2c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Wed, 02 Nov 2022 13:50:00 +0100</pubDate>
+    </item>
     <item>
       <title>Finn Schjøll </title>
       <description><![CDATA[Tv-personligheten og floristen mener selv han er litt overflatisk, noe som fungerer godt for han]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/2ec6e543-c665-46be-8330-ff8754dd86b8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:31</itunes:duration>
       <pubDate>Mon, 17 Oct 2022 13:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Thomas Dybdahl</title>
-      <description><![CDATA[Musikeren drives av å skape noe - hvis ikke visner han hen. Nå har han begynte å male i tillegg til å lage musikk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6a225df8-0154-4fbd-a72e-638f7c2d5eea_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6a225df8-0154-4fbd-a72e-638f7c2d5eea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Thu, 13 Oct 2022 13:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
