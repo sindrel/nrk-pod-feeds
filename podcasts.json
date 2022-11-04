@@ -124,7 +124,8 @@
         "id": "nokke_for_seg_sjoel",
         "title": "De 10 siste fra Nokke for seg sjøl",
         "season": null,
-        "enabled": true
+        "enabled": false,
+        "hidden": true
     },
     {
         "id": "popkorn_og_politikk",
@@ -154,6 +155,12 @@
     {
         "id": "the_kaass_furuseths",
         "title": "De 10 siste fra The Kåss Furuseths",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "trygdekontoret",
+        "title": "De 10 siste fra Trygdekontoret",
         "season": null,
         "enabled": true
     },
