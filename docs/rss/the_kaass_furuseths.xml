@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 30 Oct 2022 08:38:14 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2022 05:29:44 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Nov 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Emilie Nicolas</title>
+      <description><![CDATA[Else besøker Emilie Nicolas i et musikkstudio i Oslo sentrum. Hun forteller om hvorfor hun er hjemløs, om den gangen hun ble med en fremmed hjem for å klappe hund, og om hvorfor hun synes det er flaut å rope fra scenen.   
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/754c91c2-e2b5-43a7-968f-e6c590199c56_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/754c91c2-e2b5-43a7-968f-e6c590199c56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:52</itunes:duration>
+      <pubDate>Sun, 06 Nov 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Else besøker: Anders Nilsen og Galvan Mehidi</title>
       <description><![CDATA[De bor i samme oppgang, er bestevenner, og har samme type arbeidsdynamikk som Karpe. Gutta fra podkasten "Med all respekt" gir deg ultimate søndagstips, snakker om vennskapets opp- og nedsider, og diskuterer kjærligheten.   ]]></description>
@@ -83,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/2da936ad-351b-4439-97c7-f432036c15d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:50</itunes:duration>
       <pubDate>Sun, 04 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Else besøker: Mikkel Niva</title>
-      <description><![CDATA[Else besøker Mikkel Niva i landets mest knirkete hus. Han forteller om tiden i Colombia som alteregoet “Miguel Diaz”, om da han flyttet hjemmefra som 15-åring og om sitt første brutale møte med webcam. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/d5d3f417-3f90-4059-b4e3-cb118068506b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/d5d3f417-3f90-4059-b4e3-cb118068506b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:41</itunes:duration>
-      <pubDate>Sun, 28 Aug 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
