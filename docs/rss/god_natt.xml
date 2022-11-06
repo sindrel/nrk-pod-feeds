@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 01 Nov 2022 19:28:23 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Nov 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2022 19:25:25 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title> Et jentenavn på M</title>
+      <description><![CDATA[De er på skolen. Strømmen går og han strekker ut en hånd - til vakre Marianne. 
+Tekst: «Et jentenavn på M» av  Sigmund Doksum 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/0b4c1276-9a67-4fd9-bd13-a5b57d7f5532_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/0b4c1276-9a67-4fd9-bd13-a5b57d7f5532_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:23</itunes:duration>
+      <pubDate>Sun, 06 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Susann Rosenvinge</title>
       <description><![CDATA[Han drømmer om å få barn med den vakre Susann – men hva drømmer hun om? 
@@ -101,16 +111,6 @@ Tekst: «Hensikten med hagefesten» av Ola Jostein Jørgensen
       <enclosure url="https://podkast.nrk.no/fil/god_natt/63c040d1-cc90-4e43-9e93-fc19829de5de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:18</itunes:duration>
       <pubDate>Sun, 16 Oct 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>En besværlig panteautomat og en sulten måke</title>
-      <description><![CDATA[Et gammelt ektepar skal pante flasker i butikken. Det byr på flere opplevelser. 
-Tekst: «Panteautomaten» av  Ola Jostein Jørgensen
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/7c73901e-9a2d-429b-853e-cf5a21c3b549_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/7c73901e-9a2d-429b-853e-cf5a21c3b549_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:53</itunes:duration>
-      <pubDate>Tue, 11 Oct 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
