@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 06 Nov 2022 19:25:25 +0000</lastBuildDate>
-    <pubDate>Sun, 06 Nov 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 07 Nov 2022 19:26:07 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Et tre av gull</title>
+      <description><![CDATA[I skogen står et merkelig tre som lyser opp. Hvem plantet det der? 
+Tekst: «Gullregnen» av  Ingvald Svinsaas
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/907b77d6-21ed-417b-8447-33315d964eb0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/907b77d6-21ed-417b-8447-33315d964eb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Mon, 07 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title> Et jentenavn på M</title>
       <description><![CDATA[De er på skolen. Strømmen går og han strekker ut en hånd - til vakre Marianne. 
@@ -101,16 +112,6 @@ Tekst: «Gjensyn» av Arve Moen
       <enclosure url="https://podkast.nrk.no/fil/god_natt/cd26889c-b3e5-4dd4-b2e9-5cb19c4780f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>06:16</itunes:duration>
       <pubDate>Mon, 17 Oct 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Den gjeve hagefesten</title>
-      <description><![CDATA[De kulturelle påfuglene glitrer på Aschehougs hagefest. Men hvordan oppleves festen av den unge debutanten?
-Tekst: «Hensikten med hagefesten» av Ola Jostein Jørgensen
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/63c040d1-cc90-4e43-9e93-fc19829de5de_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/63c040d1-cc90-4e43-9e93-fc19829de5de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:18</itunes:duration>
-      <pubDate>Sun, 16 Oct 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
