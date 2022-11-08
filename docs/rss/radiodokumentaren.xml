@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Historier fra virkeligheten</title>
+    <title>De 3 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 01 Nov 2022 05:58:29 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Nov 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 08 Nov 2022 05:38:26 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Nov 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
@@ -21,11 +21,19 @@
     </item>
     <item>
       <title>Utilgivelig: Hekken</title>
-      <description><![CDATA[Espen kom hjem og oppdaget at hekken var kappet ned og fjerna – av naboen.]]></description>
+      <description><![CDATA[Espen kom hjem fra jobb og oppdaget at hekken var kappa ned og fjerna – av naboen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/ae76c2ca-e7a0-4968-8334-42e83176c75d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ae76c2ca-e7a0-4968-8334-42e83176c75d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:16</itunes:duration>
       <pubDate>Tue, 01 Nov 2022 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Utilgivelig: Spritflaska</title>
+      <description><![CDATA[Andreas havnet midt i en alvorlig voldshendelse. Nå vil gjerningsmannen møte han, ansikt til ansikt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/452b95f4-6c88-4889-980c-0097b9dde32d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/452b95f4-6c88-4889-980c-0097b9dde32d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:49</itunes:duration>
+      <pubDate>Tue, 08 Nov 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
