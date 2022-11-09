@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 08 Nov 2022 13:05:01 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Nov 2022 13:45:00 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2022 13:05:26 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2022 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Agnete "Agnetesh" Husebye</title>
+      <description><![CDATA[Mens hun før filmet seg selv badende i ostepop, foretrekker hun nå å poste treningsvideoer. Hva syns egentlig YouTube-fansen om det? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/2e54339e-5753-45ec-b3e1-f9b18e85b433_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/2e54339e-5753-45ec-b3e1-f9b18e85b433_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:40</itunes:duration>
+      <pubDate>Wed, 09 Nov 2022 13:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Jan Åge Fjørtoft</title>
       <description><![CDATA[Når eks-proffen intervjuer verdens største fotballstjerner liker han å se for seg at de kommer fra små steder. Akkurat som han selv.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/aae6b59a-b185-44c3-8a86-01886aede462_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:05</itunes:duration>
       <pubDate>Mon, 24 Oct 2022 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ole Thorstensen</title>
-      <description><![CDATA[Praktikere er mer ansvarlige mennesker enn teoretikere. Det mener i hvert fall tømrer og forfatter Ole Thorstensen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/484565ab-105e-4e1e-af94-258b904de90b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/484565ab-105e-4e1e-af94-258b904de90b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:07</itunes:duration>
-      <pubDate>Wed, 19 Oct 2022 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
