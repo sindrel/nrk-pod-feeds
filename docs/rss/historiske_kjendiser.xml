@@ -7,12 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 26 Oct 2022 04:28:26 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Oct 2022 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2022 07:30:34 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg"/>
     <item>
-      <title>Charlie Chaplin – Fra fattigdom til Hollywoods it-person</title>
+      <title>Asbjørnsen og Moe – Hele Norges eventyrere</title>
+      <description><![CDATA[Dette er historien om Peter Christen Asbjørnsen og Jørgen Moe.
+Eventyrerne som i et land på leting etter identitet, reiste rundt og samlet fortellinger fra det
+norske folk, og i samme slengen fant nasjonalfølelsen til hele kongeriket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d46e342c-c8b4-42e3-9e57-f360e7bf0efe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d46e342c-c8b4-42e3-9e57-f360e7bf0efe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:30</itunes:duration>
+      <pubDate>Wed, 09 Nov 2022 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Charlie Chaplin – Fra fattigdom til Hollywoods yndling</title>
       <description><![CDATA[Dette er historien om den ikoniske stumfilmstjernen, som med kløkt
 og komisk talent tok seg fra fattigdom til å bli et kjent fjes verden over.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/b49ded34-d020-4659-82d8-aeb190766e2a_0_ID192MP3.mp3</guid>
@@ -92,14 +102,6 @@ Radio.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/40fee2cb-3ccf-46a6-b59a-7783652aad98_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:31</itunes:duration>
       <pubDate>Wed, 06 Jul 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Frida Kahlo - erobret verden med kunsten sin</title>
-      <description><![CDATA[Dette er historien om Frida Kahlo, kunstneren som med uknuselig viljekraft trosset smerten som forfulgte henne gjennom hele livet. Den banebrytende kreativiteten hennes berørte mange verdener – og gjorde suksess i alle sammen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/007c85f8-ea27-4192-8021-efff43cac730_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/007c85f8-ea27-4192-8021-efff43cac730_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:22</itunes:duration>
-      <pubDate>Wed, 22 Jun 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
