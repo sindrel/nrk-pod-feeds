@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 05 Nov 2022 15:31:51 +0000</lastBuildDate>
-    <pubDate>Sat, 05 Nov 2022 16:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 12 Nov 2022 16:45:03 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Nov 2022 17:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>Prinsesseproblemer, punktert pensjonist, Casablanca-kaos</title>
+      <description><![CDATA[Lattervekkende radioshow]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/6b934cff-2008-4a0b-a88e-799af169f51a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/6b934cff-2008-4a0b-a88e-799af169f51a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Sat, 12 Nov 2022 17:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Tann i øyet, Hest er best, Mimring</title>
       <description><![CDATA[Advarsel! Kan virke sterkt latterfremkallende.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/b0884d62-0713-47ef-bcb0-4720fac9d667_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:46</itunes:duration>
       <pubDate>Sat, 10 Sep 2022 16:05:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ost, ottomanere og optimisme</title>
-      <description><![CDATA[Advarsel! Sterkt latterfremkallende! Inneholder materiale aldri sendt på radio.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/64b9409a-ba9a-4f66-aaef-83cfa072cc4a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/64b9409a-ba9a-4f66-aaef-83cfa072cc4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:54</itunes:duration>
-      <pubDate>Sat, 03 Sep 2022 16:05:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
