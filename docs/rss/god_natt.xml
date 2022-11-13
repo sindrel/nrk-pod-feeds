@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 09 Nov 2022 06:47:19 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Nov 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 13 Nov 2022 19:25:52 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Dårleg nyheit på fisketur</title>
+      <description><![CDATA[Pappa tek David med på fisketur, fordi han har ein vond beskjed å gi sonen.
+Tekst: «Oktober» av Frode Grytten
+«God natt» er laga av Vera Kvaal, Janne Kjellberg og Raymond Lidal. Redaksjonssjef: Helle Vaagland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/c1a7df2c-1e5e-4425-9e71-b0d610c73231_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/c1a7df2c-1e5e-4425-9e71-b0d610c73231_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:22</itunes:duration>
+      <pubDate>Sun, 13 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Mannen som ble en jerv</title>
       <description><![CDATA[Er det mulig for et menneske å bli et dyr? En fabel om å skifte ham på fjellvidda.  
@@ -102,16 +112,6 @@ Tekst: «Husarrest» av Gunnar Lunde
       <enclosure url="https://podkast.nrk.no/fil/god_natt/0e37f692-ae2d-4ec7-aa4a-39a71fbef2f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>08:38</itunes:duration>
       <pubDate>Sun, 23 Oct 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Drømmen om Valparaiso </title>
-      <description><![CDATA[Hun drømte om å reise. Helst til Valparaiso - bare navnet var så fint.
-Tekst: «Valparaiso» av Laila Stien 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/39e9d75b-cb0e-4d21-b65c-63798464d390_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/39e9d75b-cb0e-4d21-b65c-63798464d390_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:40</itunes:duration>
-      <pubDate>Tue, 18 Oct 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
