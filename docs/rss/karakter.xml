@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 09 Nov 2022 07:30:28 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Nov 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2022 05:39:13 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Den er prima! </title>
+      <description><![CDATA[Det er alfamandag i Dynga, hvem kan lage den beste nye trenden? Det blir sniking, Morten Ramm over telefon og vitser om kreft. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/9116804e-c10b-45e0-acd7-3768c8d4c1d6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/9116804e-c10b-45e0-acd7-3768c8d4c1d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:28</itunes:duration>
+      <pubDate>Mon, 14 Nov 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Glede: Slampoesi og cat door pissed my pants </title>
       <description><![CDATA[Glede er dagens tema. Martin har ny reklamelår, Henrik lager ny film-trailer og Jonis er blitt slampoet. I tillegg masse spørsmål. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/karakter/5065b55d-1fe8-4b7b-96de-11d37624e455_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Wed, 12 Oct 2022 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kjøttfri BBQ og sanger i mormors begravelse</title>
-      <description><![CDATA[Alenefesten fortsetter med Martin og Henrik. De snakker om å være vegetarianer og hvilke låter man kan spille i en begravelse. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/a27b4677-e6e7-4ba5-89ed-f689868f862f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/a27b4677-e6e7-4ba5-89ed-f689868f862f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:25</itunes:duration>
-      <pubDate>Mon, 10 Oct 2022 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
