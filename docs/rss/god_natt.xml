@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 13 Nov 2022 19:25:52 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Nov 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2022 19:26:26 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Poeten og påfuglane</title>
+      <description><![CDATA[Bukollektivet til ein poet forstår ikkje kunsten hans. Skal han berre gi opp?
+Tekst: «Ei historie om ender på Vestlandet» av Ragnar Hovland.
+«God natt» er laga av Vera Kvaal, Janne Kjellberg og Raymond Lidal. Redaksjonssjef: Helle Vaagland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/94a02851-4be9-4695-adec-1048640f0145_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/94a02851-4be9-4695-adec-1048640f0145_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:05</itunes:duration>
+      <pubDate>Mon, 14 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Dårleg nyheit på fisketur</title>
       <description><![CDATA[Pappa tek David med på fisketur, fordi han har ein vond beskjed å gi sonen.
@@ -102,16 +112,6 @@ Redaksjonssjef: Helle Vaagland]]></description>
       <enclosure url="https://podkast.nrk.no/fil/god_natt/f75c2a87-5333-4684-b6bc-d435623a8e50_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:21</itunes:duration>
       <pubDate>Mon, 24 Oct 2022 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Husarrest</title>
-      <description><![CDATA[Gutten har gjort noe galt og får husarrest. Hva vil pappa si? 
-Tekst: «Husarrest» av Gunnar Lunde 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/0e37f692-ae2d-4ec7-aa4a-39a71fbef2f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/0e37f692-ae2d-4ec7-aa4a-39a71fbef2f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:38</itunes:duration>
-      <pubDate>Sun, 23 Oct 2022 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
