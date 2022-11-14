@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 10 Nov 2022 14:45:47 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Nov 2022 15:30:00 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2022 14:34:55 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2022 15:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Mads Gilbert  </title>
+      <description><![CDATA[-Vi leger skal være de fattiges advokat, mener  Gilbert , som gjennom hele sin karriere har kjempet for internasjonalt, medisinsk solidaritetsarbeid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b7399b15-de05-4e3f-adbd-69d5796700bc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b7399b15-de05-4e3f-adbd-69d5796700bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:52</itunes:duration>
+      <pubDate>Mon, 14 Nov 2022 15:15:00 +0100</pubDate>
+    </item>
     <item>
       <title>Henrik Fladseth</title>
       <description><![CDATA[Komikeren mener det er krise med mørke tanker når man driver med humor. Kanskje det er derfor han en periode lurte seg selv til å tenke at det ikke var skummelt å stå på scenen.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/6217e430-227e-4242-8dac-9237a9e46cea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:07</itunes:duration>
       <pubDate>Thu, 27 Oct 2022 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bugge Wesseltoft</title>
-      <description><![CDATA[Jazzpianisten synes det er "helt sjukt" når andre klarer å høre at det er han som spiller ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/21323280-baec-4d0a-914c-5fb48658f928_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/21323280-baec-4d0a-914c-5fb48658f928_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:37</itunes:duration>
-      <pubDate>Thu, 27 Oct 2022 11:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
