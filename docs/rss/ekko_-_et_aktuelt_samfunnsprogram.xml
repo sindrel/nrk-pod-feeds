@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 13 Nov 2022 17:32:19 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Nov 2022 18:20:00 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Nov 2022 05:29:17 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Nov 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Hva betyr det å være fattig i Norge?</title>
+      <description><![CDATA[Kaisa vet hvordan det er å være fattig. 1 av 10 av nordmenn har det som henne. 
+
+Av Rikke Eckhoff]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fa17a5a5-abc5-4210-8e76-8af6d4a361f5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fa17a5a5-abc5-4210-8e76-8af6d4a361f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:59</itunes:duration>
+      <pubDate>Wed, 16 Nov 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title> Videodømming -ødelegger det fotballen?</title>
       <description><![CDATA[Nå kommer videodømming også til Norge. Det utskjelte VAR-systemet gjør fotballen mer rettferdig. Men hvorfor er det så upopulært?
@@ -96,15 +106,6 @@ Av Hanna Randgaard]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7a1bf7f-a4c0-4076-98a0-e0f988935f06_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>17:01</itunes:duration>
       <pubDate>Wed, 26 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Spørretime: Hvordan takle høstdepresjonen</title>
-      <description><![CDATA[Psykologen, legen og professoren har rådene.
-Programleder: Sven Ole Engelsvold]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c464a109-c914-43c9-b36f-ea771f990fb9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c464a109-c914-43c9-b36f-ea771f990fb9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:51</itunes:duration>
-      <pubDate>Thu, 20 Oct 2022 05:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

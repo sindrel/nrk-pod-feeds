@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Nov 2022 05:39:13 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Nov 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Nov 2022 05:29:13 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Nov 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Trender: Qatar-VM og Rosa onepiece </title>
+      <description><![CDATA[Dagens tema er trender i Dynga. Det blir prat om Qatar-VM og fantasy trailere. OG selvfølgelig masse spørsmål. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/6e58b13d-084e-4ade-ba2f-f2f8a6aa1e81_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/6e58b13d-084e-4ade-ba2f-f2f8a6aa1e81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:24</itunes:duration>
+      <pubDate>Wed, 16 Nov 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Den er prima! </title>
       <description><![CDATA[Det er alfamandag i Dynga, hvem kan lage den beste nye trenden? Det blir sniking, Morten Ramm over telefon og vitser om kreft. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/karakter/7b0da708-256d-46c0-82c2-e363ee404b37_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:16</itunes:duration>
       <pubDate>Mon, 17 Oct 2022 04:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gollums hvite måned på Henritz og Mauritz</title>
-      <description><![CDATA[Martin har startet en hvit måned og Henrik har med en ny parodi. De får inn en ny skrifting og svarer på spørsmål fra bolla.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/5065b55d-1fe8-4b7b-96de-11d37624e455_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/5065b55d-1fe8-4b7b-96de-11d37624e455_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Wed, 12 Oct 2022 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
