@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Nov 2022 05:29:17 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Nov 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 17 Nov 2022 05:30:02 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Nov 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Spørretime: hva skjer med USA nå? </title>
+      <description><![CDATA[Hvordan skal vi skjønne USA? Og hvorfor er vi så opptatt av USA? Panelet forklarer politikken, religionen og kulturen.  
+
+Programleder: Sven Ole Engelsvold ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4ffe5a50-6a88-4abd-b939-64376f31ed2b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4ffe5a50-6a88-4abd-b939-64376f31ed2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:18</itunes:duration>
+      <pubDate>Thu, 17 Nov 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hva betyr det å være fattig i Norge?</title>
       <description><![CDATA[Kaisa vet hvordan det er å være fattig. 1 av 10 av nordmenn har det som henne. 
@@ -97,15 +107,6 @@ Av Rikke Eckhoff]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a73b4558-246a-4e44-9821-5c9aae80c0b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:25</itunes:duration>
       <pubDate>Thu, 27 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demonstrasjoner- hva er vitsen?</title>
-      <description><![CDATA[Verden brenner, men hjelper det å demonstrere her i Norge, når konfliktene er så langt unna?
-Av Hanna Randgaard]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7a1bf7f-a4c0-4076-98a0-e0f988935f06_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7a1bf7f-a4c0-4076-98a0-e0f988935f06_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:01</itunes:duration>
-      <pubDate>Wed, 26 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
