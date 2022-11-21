@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 20 Nov 2022 19:24:19 +0000</lastBuildDate>
-    <pubDate>Sun, 20 Nov 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 21 Nov 2022 19:25:10 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Ulvens kraft</title>
+      <description><![CDATA[Hva var det med det ulveskinnet? Var det ulven som fikk tragedien til å ramme? 
+Tekst: «Ulveskinnet» av Risten Sokki Oversatt fra samisk av Laila Stien
+«God natt» er laget av Torun Torbo,  Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/b868c8e0-3291-4814-a285-51d00e065ff7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/b868c8e0-3291-4814-a285-51d00e065ff7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:56</itunes:duration>
+      <pubDate>Mon, 21 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Før minnet lukkes</title>
       <description><![CDATA[I USA sitter en hundreårig norsk-amerikaner som sakte svinner hen. Kan en omreisende nordmann nå ham gjennom barndommens språk? 
@@ -102,16 +113,6 @@ Tekst: «Monolog fra en forsøksperson»  av Gunnar Lunde
       <enclosure url="https://podkast.nrk.no/fil/god_natt/87eafb2c-f285-486f-92dd-d2984e97af75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>06:09</itunes:duration>
       <pubDate>Mon, 31 Oct 2022 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Et siste farvel</title>
-      <description><![CDATA[Han skal reise bort og de sverger evig troskap. For det er vel ikke mulig å leve uten hverandre? 
-Tekst: «Farvel» av Arve Moen 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/fd6c8429-fc7c-4e40-8674-aaa4a54e0ce2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/fd6c8429-fc7c-4e40-8674-aaa4a54e0ce2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:52</itunes:duration>
-      <pubDate>Sun, 30 Oct 2022 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
