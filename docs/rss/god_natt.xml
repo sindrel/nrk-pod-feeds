@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 21 Nov 2022 19:25:10 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Nov 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2022 19:25:27 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Måkemennesket</title>
+      <description><![CDATA[Gamle Rannveig er ikke mye blid, men vi kan godt smile litt av grådigheten hennes. 
+Tekst: «Måka» av Linn Skåber
+«God natt» er laget av Torun Torbo, Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/5143c905-4195-4c31-bb65-e52ee714dd34_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/5143c905-4195-4c31-bb65-e52ee714dd34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:42</itunes:duration>
+      <pubDate>Tue, 22 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Ulvens kraft</title>
       <description><![CDATA[Hva var det med det ulveskinnet? Var det ulven som fikk tragedien til å ramme? 
@@ -103,16 +114,6 @@ Tekst: «Susann Rosenvinge» av Willy Flock
       <enclosure url="https://podkast.nrk.no/fil/god_natt/6fd4651f-ecc4-4bb3-8043-21a904dbb792_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>14:44</itunes:duration>
       <pubDate>Tue, 01 Nov 2022 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Forsøk på lykke</title>
-      <description><![CDATA[Trivselsdepartementet vil at folk skal bli lykkelige og tester folks tissevaner.
-Tekst: «Monolog fra en forsøksperson»  av Gunnar Lunde 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/87eafb2c-f285-486f-92dd-d2984e97af75_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/87eafb2c-f285-486f-92dd-d2984e97af75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:09</itunes:duration>
-      <pubDate>Mon, 31 Oct 2022 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
