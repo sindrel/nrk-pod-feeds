@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 15 Nov 2022 05:29:30 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Nov 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2022 05:29:39 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Baksnakk 1 år: Vi tømmer innboksen!</title>
+      <description><![CDATA[Vi feirer ettårsdagen med å svare på dine spørsmål!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/c1d8cf37-518f-41ba-9157-61116ecb7756_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/c1d8cf37-518f-41ba-9157-61116ecb7756_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:54</itunes:duration>
+      <pubDate>Tue, 22 Nov 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Flørting? Eller seksuell trakassering?</title>
       <description><![CDATA[Milie stepper inn for Lydia i dagens episode, og med seg har hun en historie fra egen 20 årsdag.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/6b013b6b-a31f-4807-a3e6-737fed192863_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:06</itunes:duration>
       <pubDate>Tue, 20 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hjelp oss å finne Didrik!</title>
-      <description><![CDATA[Jentene snakker om #goodguys og tipser om hvordan man kan få en gutts interesse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/6fddd268-9d8f-4ee5-b7d8-f3b1e0f54406_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/6fddd268-9d8f-4ee5-b7d8-f3b1e0f54406_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:03</itunes:duration>
-      <pubDate>Tue, 13 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
