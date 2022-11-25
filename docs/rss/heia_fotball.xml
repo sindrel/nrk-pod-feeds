@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 24 Nov 2022 11:25:30 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Nov 2022 11:55:00 +0100</pubDate>
+    <lastBuildDate>Fri, 25 Nov 2022 10:32:22 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Nov 2022 11:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <item>
+      <title>Heia VM? #5 - Carl-Erik Torp</title>
+      <description><![CDATA[Vi har besøk av NRK sin fotballekspert, Calle Torp, som er på pressesenteret i Qatar. Vi snakker om folkefest, overvåkning og Ghana vs CR7!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/44cf113e-2128-401d-9a21-6d42b1e7ad9c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/44cf113e-2128-401d-9a21-6d42b1e7ad9c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:24</itunes:duration>
+      <pubDate>Fri, 25 Nov 2022 11:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Heia VM? #5 - Andrine Hegerberg</title>
       <description><![CDATA[Heia Fotball gir deg siste nytt fra VM i Qatar. Om målhungrige spanjoler, om selvsikre Ghanesere, om Adelina Hegerberg og CANADIA!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/3c78ee49-f38b-4336-bda7-572dd6370909_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:38</itunes:duration>
       <pubDate>Tue, 15 Nov 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Heia VM? Gruppe E</title>
-      <description><![CDATA[Sven, Tete og Emil lader opp til Fotball VM 2022. Heier vi egentlig på VM i Qatar? I denne episoden tar vi for oss gruppe E.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/1ea037e4-e91b-4f39-8e03-bae5c5ffe781_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/1ea037e4-e91b-4f39-8e03-bae5c5ffe781_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:37</itunes:duration>
-      <pubDate>Mon, 14 Nov 2022 07:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
