@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 22 Nov 2022 19:25:27 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Nov 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 27 Nov 2022 19:23:03 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Eit møte i skogen</title>
+      <description><![CDATA[Endre går ein vanleg tur i skogen. Men så treffer han nokon han aldri har sett der før.
+Tekst: «Skogen som står der» av Einar Økland.
+«God natt» er laga av Vera Kvaal, Janne Kjellberg og Raymond Lidal. Redaksjonssjef: Helle Vaagland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/df7dafcd-4fa8-45d4-ad23-18afcf3031a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/df7dafcd-4fa8-45d4-ad23-18afcf3031a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:54</itunes:duration>
+      <pubDate>Sun, 27 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Måkemennesket</title>
       <description><![CDATA[Gamle Rannveig er ikke mye blid, men vi kan godt smile litt av grådigheten hennes. 
@@ -104,16 +114,6 @@ Tekst: «Et jentenavn på M» av  Sigmund Doksum
       <enclosure url="https://podkast.nrk.no/fil/god_natt/0b4c1276-9a67-4fd9-bd13-a5b57d7f5532_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>16:23</itunes:duration>
       <pubDate>Sun, 06 Nov 2022 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Susann Rosenvinge</title>
-      <description><![CDATA[Han drømmer om å få barn med den vakre Susann – men hva drømmer hun om? 
-Tekst: «Susann Rosenvinge» av Willy Flock 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/6fd4651f-ecc4-4bb3-8043-21a904dbb792_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/6fd4651f-ecc4-4bb3-8043-21a904dbb792_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:44</itunes:duration>
-      <pubDate>Tue, 01 Nov 2022 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
