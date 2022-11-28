@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 27 Nov 2022 19:23:03 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Nov 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2022 19:23:48 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Eit barn leitar etter mamma</title>
+      <description><![CDATA[Eit barn må greie seg åleine. Kor er mora?
+Tekst: «Eg greier meg» av Rønnaug Kleiva.
+«God natt» er laga av Vera Kvaal, Janne Kjellberg og Raymond Lidal. Redaksjonssjef: Helle Vaagland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/3ee1c04c-a083-4273-a4a0-75a359f411be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/3ee1c04c-a083-4273-a4a0-75a359f411be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:33</itunes:duration>
+      <pubDate>Mon, 28 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Eit møte i skogen</title>
       <description><![CDATA[Endre går ein vanleg tur i skogen. Men så treffer han nokon han aldri har sett der før.
@@ -104,16 +114,6 @@ Tekst: «Gullregnen» av  Ingvald Svinsaas
       <enclosure url="https://podkast.nrk.no/fil/god_natt/907b77d6-21ed-417b-8447-33315d964eb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Mon, 07 Nov 2022 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title> Et jentenavn på M</title>
-      <description><![CDATA[De er på skolen. Strømmen går og han strekker ut en hånd - til vakre Marianne. 
-Tekst: «Et jentenavn på M» av  Sigmund Doksum 
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/0b4c1276-9a67-4fd9-bd13-a5b57d7f5532_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/0b4c1276-9a67-4fd9-bd13-a5b57d7f5532_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:23</itunes:duration>
-      <pubDate>Sun, 06 Nov 2022 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
