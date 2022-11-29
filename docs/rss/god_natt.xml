@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 19:23:48 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Nov 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 29 Nov 2022 19:23:47 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Nov 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ"/>
+    <item>
+      <title>Fugl kjempar for livet</title>
+      <description><![CDATA[Når ein fugl plutseleg treng hjelp, må ei kvinne ordne opp, men ho likar ikkje ansvaret.
+Tekst: «Fuglen» av Siri Økland.
+«God natt» er laga av Vera Kvaal, Janne Kjellberg og Raymond Lidal. Redaksjonssjef: Helle Vaagland
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/46e64ee1-5dbb-4a22-ad14-05e0941f10e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/46e64ee1-5dbb-4a22-ad14-05e0941f10e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:47</itunes:duration>
+      <pubDate>Tue, 29 Nov 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Eit barn leitar etter mamma</title>
       <description><![CDATA[Eit barn må greie seg åleine. Kor er mora?
@@ -103,17 +114,6 @@ Tekst: «Jeg Gulo jerven»  av Gunnar Lund
       <enclosure url="https://podkast.nrk.no/fil/god_natt/0f2e9d6c-3fc1-4651-9701-f722faa57ede_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:08</itunes:duration>
       <pubDate>Tue, 08 Nov 2022 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Et tre av gull</title>
-      <description><![CDATA[I skogen står et merkelig tre som lyser opp. Hvem plantet det der? 
-Tekst: «Gullregnen» av  Ingvald Svinsaas
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/907b77d6-21ed-417b-8447-33315d964eb0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/907b77d6-21ed-417b-8447-33315d964eb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Mon, 07 Nov 2022 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
