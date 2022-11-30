@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 10:32:31 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Nov 2022 11:10:00 +0100</pubDate>
+    <lastBuildDate>Wed, 30 Nov 2022 10:32:47 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Nov 2022 11:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <item>
+      <title>Heia VM? - #9 - Åge Hareide</title>
+      <description><![CDATA[Vi har besøk av trener-legende, Åge Hareide. Vi snakker om livet på innsiden av det Danske laget og om hvordan Åge har opplevd VM i Qatar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/580eb74a-8780-43ac-9d93-6bd3693263c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/580eb74a-8780-43ac-9d93-6bd3693263c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:02</itunes:duration>
+      <pubDate>Wed, 30 Nov 2022 11:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>HEIA VM? #8 - Ken Wasenius-Nilsen</title>
       <description><![CDATA[Vi har besøk av NRK-legende, Ken Wasenius-Nilsen! Han forteller om hvor høyt han elsker VM som konsept og vi hyller banestormeren i Qatar.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/615186ed-cf11-41d8-b480-113ccc2ae5c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:21:28</itunes:duration>
       <pubDate>Fri, 18 Nov 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Heia VM? Gruppe H</title>
-      <description><![CDATA[Sven, Tete og Emil lader opp til Fotball VM 2022. Heier vi egentlig på VM i Qatar? I denne episoden tar vi for oss gruppe H.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/c787b6ed-ec03-43ad-8936-a18a84a923a1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/c787b6ed-ec03-43ad-8936-a18a84a923a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:16</itunes:duration>
-      <pubDate>Thu, 17 Nov 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
