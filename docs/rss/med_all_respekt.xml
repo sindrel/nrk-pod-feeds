@@ -7,13 +7,23 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Dec 2022 13:43:12 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Dec 2022 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Dec 2022 16:40:16 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Dec 2022 16:55:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
     <item>
+      <title>Norges sprøeste dialekt!</title>
+      <description><![CDATA[* Netflix-filmen «Troll» og helgelandsdialekt!
+*Anders pitcher pillen som redder deg fra juleselskapet
+*Vi hyller Vågard Unstad (1986-2022)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/6cfc3bec-1075-48b6-90e4-16c0989bd860_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/6cfc3bec-1075-48b6-90e4-16c0989bd860_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:28</itunes:duration>
+      <pubDate>Mon, 05 Dec 2022 16:55:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Hjelp! Pappa er på OnlyFans!</title>
-      <description><![CDATA[*Suppe + hårklipp, anyone? Våre beste forslag til "combosjapper" i pitcherunden!
+      <description><![CDATA[*Suppe + hårklipp, anyone? Våre beste forslag til "kombosjapper" i pitcherunden!
 *Trassråd om fedre på badet og masete vennskap.
 Mail: mar@nrk.no
 ]]></description>
@@ -106,17 +116,6 @@ E-post: mar@nrk.no]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/1fbb3a28-cc37-4fec-b714-467e431adfc0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:21</itunes:duration>
       <pubDate>Thu, 17 Nov 2022 13:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Atle Antonsen anmeldt for rasisme </title>
-      <description><![CDATA[*Abu kom bare nest øverst på Dagbladet. 
-* "Fengsel+" for kjendiser. Kommer det?
-*Taras liste for søvnløse!
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/9953ecbc-d31d-4494-bcb7-aeb342e31348_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/9953ecbc-d31d-4494-bcb7-aeb342e31348_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:39</itunes:duration>
-      <pubDate>Wed, 16 Nov 2022 15:17:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
