@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 02 Dec 2022 07:25:23 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Dec 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2022 05:26:49 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Dec 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/s0TsgKdyp9f2IlrornHn9w2l03TAWhBbv2e7cTrHx1Ng"/>
+    <item>
+      <title>Kaizers Orchestra: Du skal danse til pipa vår</title>
+      <description><![CDATA[Hvordan har bandet fra Bryne fått en så stor og forventningsfull fanbase at de etter en ni års lang pause kunne selge 80 000 billetter på et kvarter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/7cb642be-f38a-4826-a124-b6bbb21fb484_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/7cb642be-f38a-4826-a124-b6bbb21fb484_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:47</itunes:duration>
+      <pubDate>Fri, 09 Dec 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title> Mariah Carey: Slik skapte hun et julemonster</title>
       <description><![CDATA[«All I Want For Christmas Is You» er større enn noen gang, til tross for at den snart er 30 år gammel. Hvordan skapte Mariah Carey monsterhiten som har erobret alle julelister? Og hvorfor fører låta til nye drapstrusler hver jul?
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/musikkrommet/c2db3fbd-d2f3-4fa3-878c-dd4011a3ebac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:49</itunes:duration>
       <pubDate>Fri, 23 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bad Bunny: Verdens tøffeste kjæledegge</title>
-      <description><![CDATA[På bare fem år har Bad Bunny fra Puerto Rico gått fra å pakke varer i matbutikk til å rive ned språkbarrierer i musikken og bli en av verdens største popartister. Hvordan har han fått til det? Og hva i all verden har wrestling med suksessen hans å gjøre?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/065bac0f-c059-428e-b98f-e96791792ee3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/065bac0f-c059-428e-b98f-e96791792ee3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:15</itunes:duration>
-      <pubDate>Fri, 16 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
