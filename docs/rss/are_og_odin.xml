@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 03 Dec 2022 16:37:06 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Dec 2022 17:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 10 Dec 2022 16:37:30 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Dec 2022 17:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw"/>
+    <item>
+      <title>Are &amp; Odins nest siste sending</title>
+      <description><![CDATA[snart i mål....]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/053ab1b9-83ca-4f05-a502-e2b3e802792f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/053ab1b9-83ca-4f05-a502-e2b3e802792f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:16</itunes:duration>
+      <pubDate>Sat, 10 Dec 2022 17:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Are  og Odins 3.siste sending</title>
       <description><![CDATA[Bare to igjen..]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/are_og_odin/4e0e464a-51c0-4ec6-86cc-7ac0e0c4c01a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:14</itunes:duration>
       <pubDate>Sat, 08 Oct 2022 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Laxe-tax, Purè-brist, Hytte-sang</title>
-      <description><![CDATA[En hyggelig stund med kloke betraktninger, sang og musikk]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/are_og_odin/f5852758-7c81-4f01-bd9a-90c9d29f148b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/are_og_odin/f5852758-7c81-4f01-bd9a-90c9d29f148b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:38</itunes:duration>
-      <pubDate>Sat, 01 Oct 2022 17:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
