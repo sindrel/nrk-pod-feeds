@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 05 Dec 2022 05:27:29 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Dec 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Dec 2022 05:27:11 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Dec 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"/>
+    <item>
+      <title>Kroppsbygging</title>
+      <description><![CDATA[Vi snakker om å ha en kropp og det å bygge en kropp! 
+Noen har gått fra heroin til dopamin, andre trener bort livets traumer, og atter andre sliter med antasting av biceps på byen. 
+Kroppsbyggerne Svend Karlsen, Marius Brown og forfattende treningsentusiast Maria Kjos Fonn tar oss igjennom sine perspektiver på det å ha en kropp som løfter vekter og hvordan det har preget livene deres. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/300909b3-c7ba-46eb-b22b-c6b81ef4ae5f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/300909b3-c7ba-46eb-b22b-c6b81ef4ae5f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:49</itunes:duration>
+      <pubDate>Mon, 12 Dec 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Fransk filosofi og samfunnets syndebukker</title>
       <description><![CDATA[Den franske filosofen René Girard har fundert frem det han mener er fasiten og meningen i livet. 
@@ -105,15 +115,6 @@ Snoen og Seltzer snakker om mellomvalget.
       <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/7fa458fc-4934-48c9-9b34-0583c5bf7b2d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:18</itunes:duration>
       <pubDate>Mon, 10 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Trygdekontoret blir podkast!</title>
-      <description><![CDATA[Trygdekontoret med Thomas Seltzer i førersetet har kastet seg på den 10 år gamle trenden og laget podkast. 
-Premiere 10. oktober!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/ebdfc0d9-e536-4927-933d-2c1f2aa6c5dd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ebdfc0d9-e536-4927-933d-2c1f2aa6c5dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01</itunes:duration>
-      <pubDate>Wed, 05 Oct 2022 16:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
