@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 12 Dec 2022 13:33:08 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Dec 2022 14:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 13 Dec 2022 13:32:46 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Dec 2022 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Christine Koht</title>
+      <description><![CDATA[Etter kreftsjukdommen har komikeren og programlederen fått et helt nytt syn på livet. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3867112e-6c82-49ee-b222-c4fc298106ba_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3867112e-6c82-49ee-b222-c4fc298106ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:42</itunes:duration>
+      <pubDate>Tue, 13 Dec 2022 14:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Ervin Kohn</title>
       <description><![CDATA[Samfunnsdebattanten vokste opp med foreldre som overlevde Holocaust, og insisterer på å ikke se på seg selv som offer.
@@ -88,14 +96,6 @@ Møt en av Skandinavias mest anerkjente skuespillere, som i snart 20 år har spi
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/d2f651fb-901f-4c16-80ea-041928755816_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:52</itunes:duration>
       <pubDate>Wed, 23 Nov 2022 13:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Åsne Seierstad</title>
-      <description><![CDATA[- Jeg var et uregjerlig barn, sier forfatteren og journalisten. Og hun er fortsatt ikke så glad i å la andre bestemme over seg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5fb2581a-46bc-4822-bddc-b7b68e3727db_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5fb2581a-46bc-4822-bddc-b7b68e3727db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:52</itunes:duration>
-      <pubDate>Mon, 21 Nov 2022 15:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
