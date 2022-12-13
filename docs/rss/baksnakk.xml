@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 06 Dec 2022 05:26:04 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Dec 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 13 Dec 2022 05:27:00 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Dec 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Hvem er verst - generasjon Z eller 40+?</title>
+      <description><![CDATA[Lydia forteller om sine flertallige brainfarts, og Zara har ENDELIG blitt en genser og t-skjorte fattigere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/cca845a1-9c18-46d3-baab-79fa2b99f7c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/cca845a1-9c18-46d3-baab-79fa2b99f7c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:49</itunes:duration>
+      <pubDate>Tue, 13 Dec 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Blodig alvor i underbuksa.</title>
       <description><![CDATA[Zara har blitt overtalt til å teste mensentruse, og Lydia har en aldri så liten utblåsning om VM.
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/009ee9de-a9a9-42ee-89da-5d2b30cc70ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:38</itunes:duration>
       <pubDate>Tue, 11 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sannheten om hvor Lydia har vært</title>
-      <description><![CDATA[Har Lydia vært i fengsel? Og ville Zara overlevd uten telefon?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/12ebb52c-5254-4173-89f6-f6594267e862_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/12ebb52c-5254-4173-89f6-f6594267e862_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:15</itunes:duration>
-      <pubDate>Tue, 04 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
