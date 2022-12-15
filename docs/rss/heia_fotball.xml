@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Dec 2022 10:30:56 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Dec 2022 11:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Dec 2022 12:49:44 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Dec 2022 12:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <item>
+      <title>Heia VM? - #18 - Ingerid Stenvold og Kristoffer Løkberg</title>
+      <description><![CDATA[Tete får besøk av NRKs egen Ingerid Stenvold og fotballspiller og ekspert Kristoffer Løkberg. Om gleden over Marokko tross tap, om Mbappé vs Messi i finalen, om kommende tider i PSG-garderoben og sjølsagt: hva er HOT og hva er NOT i VM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/70b68193-41e1-4cc2-9337-76f0fbc93f7e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/70b68193-41e1-4cc2-9337-76f0fbc93f7e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:35</itunes:duration>
+      <pubDate>Thu, 15 Dec 2022 12:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Heia VM? - #17 - Ken Wasenius-Nilsen</title>
       <description><![CDATA[Vi har besøk av legende, Ken Wasenius-Nilsen! Vi prater om Messi sin utrolige aften, om familiens ribbe-konflikt og fotballens storhet!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/580eb74a-8780-43ac-9d93-6bd3693263c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:02</itunes:duration>
       <pubDate>Wed, 30 Nov 2022 11:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Heia VM? #8 - Ken Wasenius-Nilsen</title>
-      <description><![CDATA[Vi har besøk av NRK-legende, Ken Wasenius-Nilsen! Han forteller om hvor høyt han elsker VM som konsept og vi hyller banestormeren i Qatar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/5fe8e485-12ce-4d12-8665-39694d6992e8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/5fe8e485-12ce-4d12-8665-39694d6992e8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:01</itunes:duration>
-      <pubDate>Tue, 29 Nov 2022 11:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
