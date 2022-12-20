@@ -153,6 +153,12 @@
         "enabled": true
     },
     {
+        "id": "statens_mal_for_medarbeidersamtale",
+        "title": "De 10 siste fra Statens mal for medarbeidersamtale",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "the_kaass_furuseths",
         "title": "De 10 siste fra The Kåss Furuseths",
         "season": null,
@@ -168,6 +174,6 @@
         "id": "xl_podkasten",
         "title": "De 10 siste fra XL - podkasten",
         "season": null,
-        "enabled": true
+        "enabled": false
     }
 ]
