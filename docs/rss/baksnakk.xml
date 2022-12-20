@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 13 Dec 2022 05:27:00 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Dec 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2022 05:26:09 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Er Google Translate sexistisk?</title>
+      <description><![CDATA[I dagens episode har internett splittet og samlet Zara og Lydia. For liksom, kan typen din være sykepleier? Google translate svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/b791e384-f402-4afe-9c6a-e057bf65ba96_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/b791e384-f402-4afe-9c6a-e057bf65ba96_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:10</itunes:duration>
+      <pubDate>Tue, 20 Dec 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvem er verst - generasjon Z eller 40+?</title>
       <description><![CDATA[Lydia forteller om sine flertallige brainfarts, og Zara har ENDELIG blitt en genser og t-skjorte fattigere.]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/a574ab61-b9b3-4953-bf71-4a7c7bd4e96a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:50</itunes:duration>
       <pubDate>Tue, 18 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Er Zara en «catfish»?</title>
-      <description><![CDATA[Zara har fått en personlig hater. Og det er ikke Lydia!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/009ee9de-a9a9-42ee-89da-5d2b30cc70ba_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/009ee9de-a9a9-42ee-89da-5d2b30cc70ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:38</itunes:duration>
-      <pubDate>Tue, 11 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
