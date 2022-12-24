@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 23 Dec 2022 19:22:15 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Dec 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 24 Dec 2022 19:22:06 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Dec 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/XdKn1Nh_y8whkXixDaPaeg5jRRhAIWrKYMTnNVeh4HwA"/>
+    <item>
+      <title>Ein julaftan utan deg</title>
+      <description><![CDATA[Jula er her, og ein pappa leitar etter sonen sin, som han aldri har treft.
+Tekst: «Om du kom til meg» av Brynjulf Jung Tjønn.
+«God natt» er laga av Vera Kvaal, Janne Kjellberg og Raymond Lidal. Redaksjonssjef: Helle Vaagland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/c85dd85f-3b8a-40cc-babc-d09cf024f94a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/c85dd85f-3b8a-40cc-babc-d09cf024f94a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:33</itunes:duration>
+      <pubDate>Sat, 24 Dec 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Veras jul 15: O jul med din sorg og din glede </title>
       <description><![CDATA[Hvorfor er julen så sår for så mange av oss? Som om alt det fine blir finere, og alt det vonde blir verre. Vera drar hjem der Dickens gjenferd venter og kommer til en slags forsoning. 
@@ -100,16 +110,6 @@
       <enclosure url="https://podkast.nrk.no/fil/god_natt/edc4691c-9297-4839-b119-70b6cf5d071d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>06:15</itunes:duration>
       <pubDate>Tue, 13 Dec 2022 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Veras jul 6: «Ingen varme kunne gjøre ham varm»</title>
-      <description><![CDATA[Vera lar seg imponere av Dickens beskrivelse av verdens største kjiping: den rike, slemme Ebenezer Scrooge.
-«Veras jul» er God natts julespesial, skrevet og fortalt av Vera Kvaal. Dette er del 6 av 15 episoder  
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/2f643117-abf3-4701-8ca4-ec8f14ed514a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/2f643117-abf3-4701-8ca4-ec8f14ed514a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:44</itunes:duration>
-      <pubDate>Mon, 12 Dec 2022 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
