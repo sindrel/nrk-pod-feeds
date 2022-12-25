@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 18 Dec 2022 05:25:07 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Dec 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 25 Dec 2022 05:25:44 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Dec 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Delara</title>
+      <description><![CDATA[Artist Delara inviterer til julefeiring med dekket bord, harpespill og pistasj i grøten. Hun forteller om barndomstraumer fra stolheisen, spøkelser fra andre verdenskrig, og om aktivismen som startet på barneskolen.    ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/688d8611-ddec-49a5-84d6-41e7c88d8344_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/688d8611-ddec-49a5-84d6-41e7c88d8344_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:58</itunes:duration>
+      <pubDate>Sun, 25 Dec 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Else besøker: Petter Pilgaard og Vendela Kirsebom</title>
       <description><![CDATA["The Pilboms" forteller om bryllupsreiseplanene, Vendelas tid som modell i Paris, og om da Petter kuttet internettkabelen midt under koronaen når Else kommer på besøk. 
@@ -84,15 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c6ba1bd4-c57a-4dbe-beec-e8c1ff64ecec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:34</itunes:duration>
       <pubDate>Sun, 23 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Else besøker: Odd Nordstoga</title>
-      <description><![CDATA[Else besøker Odd Nordstoga i et hus med gamle møbler, en katt med nattkjole, og tomater i vinduskarmen. Han forteller om den gangen han kjeftet på en fyr i et parkeringshus, om hvordan han møtte kona, og hvorfor han synes de gamle låtene sine er litt grisete. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/5d7c805c-a0a7-40b2-a1e4-c34e22a9b4a6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/5d7c805c-a0a7-40b2-a1e4-c34e22a9b4a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:17</itunes:duration>
-      <pubDate>Sun, 16 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

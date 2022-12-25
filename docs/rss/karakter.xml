@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 21 Dec 2022 05:26:04 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Dec 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 25 Dec 2022 05:25:32 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Dec 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Karbonade og høre på mi</title>
+      <description><![CDATA[Dynga fortsetter å tømme bolla. Hva er det mest grisete Dynga gutta har gjort? Svaret får du her.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/ebdb6244-ec45-4b59-b7dd-51f1308366a8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/ebdb6244-ec45-4b59-b7dd-51f1308366a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:08</itunes:duration>
+      <pubDate>Sun, 25 Dec 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Lost in the sauce </title>
       <description><![CDATA[I dagens dynga snakker gutta om saus på pølse, nevøen til Martin og Jonis sin flytur fra Bergen. I tillegg fortsetter bolla og tømmes.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/karakter/425bacc7-b12b-4a74-91c4-f5d751082beb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:09:48</itunes:duration>
       <pubDate>Wed, 23 Nov 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Lamme iskrem og hjemmelaget hot sauce </title>
-      <description><![CDATA[Hvem er ukens alfa når det kommer til mat? Det blir penger i mat, kjøtt som iskrem og hjemmelaget hot sauce!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/801f1063-20af-450f-9673-4f4abcfc188c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/801f1063-20af-450f-9673-4f4abcfc188c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:13</itunes:duration>
-      <pubDate>Mon, 21 Nov 2022 08:31:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
