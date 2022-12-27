@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 26 Dec 2022 19:22:10 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Dec 2022 20:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2022 19:21:59 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Dec 2022 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/XdKn1Nh_y8whkXixDaPaeg5jRRhAIWrKYMTnNVeh4HwA"/>
+    <item>
+      <title>Snøens velsignelser</title>
+      <description><![CDATA[Stopp litt og lytt til nysnøen davel! Kanskje den kan hjelpe deg å finne et godt tempo i dagen? 
+Tekst: «Snø er synlig tid» Skrevet og fortalt av Torun Torbo. 
+«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/72fa44eb-1a78-4a87-8045-581f485c5863_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/god_natt/72fa44eb-1a78-4a87-8045-581f485c5863_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:21</itunes:duration>
+      <pubDate>Tue, 27 Dec 2022 20:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>En ekte juleflue</title>
       <description><![CDATA[Når hytta varmes opp våkner fluene opp fra vinterdvalen og skaper julestemning på sitt eget vis. 
@@ -100,16 +111,6 @@ Tekst: «Om du kom til meg» av Brynjulf Jung Tjønn.
       <enclosure url="https://podkast.nrk.no/fil/god_natt/1040a7a9-2043-4607-b417-2072eeaa88f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>07:29</itunes:duration>
       <pubDate>Thu, 15 Dec 2022 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Veras jul 8: Drikker spøkelser te?</title>
-      <description><![CDATA[Hva gjør man med et spøkelse som er taust og såret og full av skam? Vera forsøker å lette situasjonen. 
-«Veras jul» er God natts julespesial, skrevet og fortalt av Vera Kvaal. Dette er del 8 av 15 episoder  
-«God natt» er laget av Vera Kvaal og Janne Kjellberg. Redaksjonssjef: Helle Vaagland ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/god_natt/9e4404b1-c259-4cac-a8f0-c4e90ad058a8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/god_natt/9e4404b1-c259-4cac-a8f0-c4e90ad058a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:39</itunes:duration>
-      <pubDate>Wed, 14 Dec 2022 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
