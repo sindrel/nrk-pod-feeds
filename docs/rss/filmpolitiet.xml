@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 22 Dec 2022 05:25:54 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Dec 2022 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Dec 2022 05:26:00 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Dec 2022 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/r-jclHOjz12XRGUZIXkZGwuRBA4bhwvFL-BiymXzy5dw"/>
+    <item>
+      <title>2022: Årets beste filmer!</title>
+      <description><![CDATA[Film er best på kino – og dette er de 10 beste filmene fra 2022!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a39f8779-e76f-46fd-ae36-53b5de4dfa3d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a39f8779-e76f-46fd-ae36-53b5de4dfa3d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:01</itunes:duration>
+      <pubDate>Thu, 29 Dec 2022 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>2022: Årets beste serier!</title>
       <description><![CDATA[2022 har vært et knallbra serieår! Vi tar deg gjennom våre topp 10 favoritter, og kårer seriene vi mener var best!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/2227f3dd-69bb-4a5a-8ba0-4df291533733_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:30</itunes:duration>
       <pubDate>Thu, 27 Oct 2022 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>House of the Dragon: S1 E10 - Sesongfinale!</title>
-      <description><![CDATA[Sigurd og Marte setter seg på drageryggen og kaster seg ut i diskusjonen om sesongfinalen av House of The Dragon! Vi deler ut shame of drageegg til episode 10 — The Black Queen, men diskuterer også sesongen som helhet og kårer det beste og det verste med serien. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/9bc9d4c2-d17a-4cfe-8393-05c16d703e8c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/9bc9d4c2-d17a-4cfe-8393-05c16d703e8c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:38:26</itunes:duration>
-      <pubDate>Tue, 25 Oct 2022 17:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
