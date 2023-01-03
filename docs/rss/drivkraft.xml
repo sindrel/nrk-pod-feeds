@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Dec 2022 12:49:13 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Dec 2022 13:10:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2023 13:30:27 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Jan 2023 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Lars Fr. H Svendsen </title>
+      <description><![CDATA[Filosofen mener fritida tar knekken på oss]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/054b8beb-9839-4ae3-844a-f4f776c770c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/054b8beb-9839-4ae3-844a-f4f776c770c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:24</itunes:duration>
+      <pubDate>Tue, 03 Jan 2023 14:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Peggy Hessen Følsvik</title>
       <description><![CDATA[LO-leder Peggy Hessen Følsvik sier hun er født med hvilepuls, og mener at bekymring kan trigge energi.]]></description>
@@ -86,16 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/0516f06e-09cf-489f-a035-ad9686574f63_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:24</itunes:duration>
       <pubDate>Mon, 28 Nov 2022 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Jakob Oftebro</title>
-      <description><![CDATA[Han fikk betennelse i tunga etter å ha øvd på det danske språket. Tunga ble dobbel så stor. 
-Møt en av Skandinavias mest anerkjente skuespillere, som i snart 20 år har spilt i norske, svenske og danske teaterstykker, tv-serier og filmer. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ce272901-8ba2-47e5-80c1-99f94e876f51_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ce272901-8ba2-47e5-80c1-99f94e876f51_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:17</itunes:duration>
-      <pubDate>Thu, 24 Nov 2022 12:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
