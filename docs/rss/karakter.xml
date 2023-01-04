@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 01 Jan 2023 05:25:23 +0000</lastBuildDate>
-    <pubDate>Sun, 01 Jan 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2023 05:26:08 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Jan 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Dynga presenterer: Pølsepodden</title>
+      <description><![CDATA[Dynga tar en velfortjent pause noen ukers tid. For at ikke vakumet skal bli for stort samles Martin og Markus for å gi deg pølsepodden. Det blir det kjente fra Dynga: det blir rør og søppel fra deg som hører på. Har du spørsmål eller perspektiver send dem inn til Dynga@nrk.no. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/c2dcd0a3-fc61-41fd-add6-4228a23bce55_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/c2dcd0a3-fc61-41fd-add6-4228a23bce55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:54</itunes:duration>
+      <pubDate>Wed, 04 Jan 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Dette er smaken av nyttår for meg!</title>
       <description><![CDATA[Dynga gutta feirer starten på 2023 med å fortsette bolle-tømminga! Er hestemagen den nye julemiddagen?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/karakter/23b23941-a448-462f-abb5-bf995cf7bdfb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:16:09</itunes:duration>
       <pubDate>Wed, 30 Nov 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Lepperøds lekeland, Human kapital og Comeback backup </title>
-      <description><![CDATA[Hvem har ukens beste buisness ide. Lepperøds lekeland, Human kapital og Comeback backup konkurrerer om å bli ukens alfa. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/22903217-a5df-4426-b0b6-cfefe7fb5b50_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/22903217-a5df-4426-b0b6-cfefe7fb5b50_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:20</itunes:duration>
-      <pubDate>Mon, 28 Nov 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

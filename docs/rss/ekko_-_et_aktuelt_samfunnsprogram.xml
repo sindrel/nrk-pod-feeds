@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 05:26:23 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Jan 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2023 05:26:09 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Jan 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Hvorfor blir så mange avvist hos psykologen?</title>
+      <description><![CDATA[1 av 4 blir avvist hos psykologen, selv om fastlegen har henvist dem. Hvorfor er det sånn?
+Av: Hanna Randgaard]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ca145b90-a726-4759-a6ff-899dd00467a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ca145b90-a726-4759-a6ff-899dd00467a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:13</itunes:duration>
+      <pubDate>Wed, 04 Jan 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>På tide å skrote den gamle dieselbilen?</title>
       <description><![CDATA[Hva er best for miljøet? Hva er best for lommeboka? Og- hvilke følelser har du for bilen din?
@@ -90,17 +99,6 @@ Av: Line Hødnebø]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/73cbc453-4b70-4125-be19-56fde1679dc4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:34</itunes:duration>
       <pubDate>Tue, 13 Dec 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Spørretime: hvordan blir arbeidslivet fremover?</title>
-      <description><![CDATA[Hjemmekontor, effektivisering, quiet quitting. I et arbeidsmarked i endring er det nå stor rift om arbeidstakerne. Men hvordan  vil vi ha det på jobb? 
-Programleder: Martha Våge
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a60b1332-9fd9-434a-909f-ff8c43093270_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a60b1332-9fd9-434a-909f-ff8c43093270_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:50</itunes:duration>
-      <pubDate>Thu, 08 Dec 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
