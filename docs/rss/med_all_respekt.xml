@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 14:27:10 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Jan 2023 15:03:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2023 15:32:27 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Jan 2023 15:46:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ"/>
+    <item>
+      <title>Glatt føre og sure kjendiser!</title>
+      <description><![CDATA[*Når fansen får kjendiser til å klikke!
+*Slutt på afterski om noen år?
+*Taras liste: Dette gjøre du hvis du faller på isen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/8756d185-74ca-4ce6-9fee-b29e4422c945_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/8756d185-74ca-4ce6-9fee-b29e4422c945_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:10</itunes:duration>
+      <pubDate>Wed, 04 Jan 2023 15:46:00 +0100</pubDate>
+    </item>
     <item>
       <title>Quiet quitting og knekkebrød!</title>
       <description><![CDATA[*Enighet om knekkebrød, men hva med rosiner?
@@ -109,16 +119,6 @@ E-post:mar@nrk.no
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/3d4228f3-7923-42e2-8dc8-72214e741422_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:38</itunes:duration>
       <pubDate>Thu, 15 Dec 2022 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Å ta en Hulsker</title>
-      <description><![CDATA[Karsten Blomvik er gjest, Galvan kink shamer menn som liker å bli ydmyka og Tara sliter med statisk elektrisitet. 
-
-E-post: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/ac23c304-7720-4841-ae50-833e27230bd0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/ac23c304-7720-4841-ae50-833e27230bd0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:23</itunes:duration>
-      <pubDate>Wed, 14 Dec 2022 15:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
