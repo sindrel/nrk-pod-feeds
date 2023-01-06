@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 31 Dec 2022 08:29:58 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Dec 2022 09:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Jan 2023 15:28:53 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Jan 2023 15:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
+    <item>
+      <title>Kjærlighet, lappen og filosofi = 3 gode tilbakemeldinger!</title>
+      <description><![CDATA[Året er i gang. Vi starter isj-sesongen med tre særdeles gode tilbakemeldinger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/34af6da0-ad5e-4625-80e4-79ad0f3e9046_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/34af6da0-ad5e-4625-80e4-79ad0f3e9046_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:31</itunes:duration>
+      <pubDate>Fri, 06 Jan 2023 15:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Høydepunkter fra 2022 - nr.11</title>
       <description><![CDATA[Høydepunkter fra 2022 - nr.11]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/5db606b8-aaf8-499d-994f-cc21c74cbd2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:11:31</itunes:duration>
       <pubDate>Sat, 10 Dec 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ironica Sarcastica!</title>
-      <description><![CDATA[Tilbakemelding fra Ironica Sarcastica. Hva spiste Live etter tømmer innboksen? Fyllemail!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/fd67d5b0-3c92-4e13-93b8-caeee5f08b81_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/fd67d5b0-3c92-4e13-93b8-caeee5f08b81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:40</itunes:duration>
-      <pubDate>Wed, 07 Dec 2022 16:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
