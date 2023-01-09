@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 06 Jan 2023 19:22:09 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Jan 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Jan 2023 07:24:45 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ"/>
+    <item>
+      <title>Bevissthet #1 - Zombier (og jeg)</title>
+      <description><![CDATA[Zombier har ikke sjel - de har ikke bevissthet. Er det da mulig for dem å operere i den virkelige verden?
+
+Republisering fra sommeren 2021.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/39e57b2d-28c3-40a5-b304-0bd8b3007c34_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/39e57b2d-28c3-40a5-b304-0bd8b3007c34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:39</itunes:duration>
+      <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Abels tårn - Den viktigste forskninga i 2022!</title>
       <description><![CDATA[Kunstig intelligens kom brakende inn over oss i 2022. Men var det viktigste som skjedde på vitenskapsfronten i året som gikk?
@@ -152,27 +163,6 @@ Opprinnelig ble det sagt at disse ikke var like farlige som insektmiddelet DDT. 
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/70bd6cb6-90fe-424c-a9ba-5fcdba70db7e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:38</itunes:duration>
       <pubDate>Fri, 09 Dec 2022 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Abels tårn fra Kroa i Bø - Er beveren landskapsarkitekt?</title>
-      <description><![CDATA[Abels tårn fra Kroa i Bø
-
--Driver beveren egentlig med landskapsarkitektur?
--Hvordan påvirker dietten treningen?
--Er det mer riktig å kalle de ulike variantene av oss for raser og
- ikke arter?
--Hvor farlige er egentlig flodhester?
--Hva er "god form" oksygenopptaket vårt eller muskelmassen vår?
--Kan man overføre måten å måle miljø DNA i vann, til å måle det på land?
-
-Panelet:
-Hanna Kavli Lodberg-Holm
-Jørn Henrik Sønstebø
-Eva Maria Støa]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/300e0816-f39f-4481-9a66-a7cb5b475e1d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/300e0816-f39f-4481-9a66-a7cb5b475e1d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:40</itunes:duration>
-      <pubDate>Fri, 09 Dec 2022 09:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
