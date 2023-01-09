@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 02 Jan 2023 05:26:06 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Jan 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Jan 2023 05:26:35 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Antibiotikakrisen</title>
+      <description><![CDATA[Kjemiker Alexander Sandtorv forklarer alt du bør vite om medisinen som forandret verden. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7e88fd11-4a7a-4ada-9e29-68c4d9bffa73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7e88fd11-4a7a-4ada-9e29-68c4d9bffa73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:52</itunes:duration>
+      <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>La oss snakke om seksualitet </title>
       <description><![CDATA[Seksualitet er mer enn sex. Spesialist i sexologisk rådgivning, Nanna Klingenberg, forklarer hvorfor du bør snakke med partneren din om sex. 
@@ -18,7 +26,7 @@
  ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/77d539b4-d585-48de-a135-8e520bbafdb1_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/77d539b4-d585-48de-a135-8e520bbafdb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:32</itunes:duration>
+      <itunes:duration>26:21</itunes:duration>
       <pubDate>Mon, 02 Jan 2023 06:00:00 +0100</pubDate>
     </item>
     <item>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/d53e20cf-29af-4949-82aa-ace3886ac95c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:29</itunes:duration>
       <pubDate>Mon, 29 Aug 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Det farlige nordlyset</title>
-      <description><![CDATA[Det har alltid vært noe mystisk og fantastisk med nordlyset. Fysiker Veronica Danielsen forteller hvorfor det magiske lyset også er et faresignal om en stor katastrofe. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/d13bfa45-aa27-4dfa-b7f5-2cf5701e9272_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/d13bfa45-aa27-4dfa-b7f5-2cf5701e9272_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:39</itunes:duration>
-      <pubDate>Mon, 22 Aug 2022 06:01:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
