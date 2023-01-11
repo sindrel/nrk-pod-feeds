@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 10 Jan 2023 13:32:42 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Jan 2023 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Jan 2023 14:40:56 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Jan 2023 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Iselin Steiro</title>
+      <description><![CDATA[Modellen med den eventyrlige karrieren - og jobb som arkitekt - ønsker å "makse" livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/280487cf-6895-4326-b264-1f9ec069d691_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/280487cf-6895-4326-b264-1f9ec069d691_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Wed, 11 Jan 2023 14:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Morten Joachim Henriksen </title>
       <description><![CDATA[Teatersjefen ble født med heroinabstinenser, og mener drivkraften i livet er revansj]]></description>
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/611c531c-77fb-4945-8c47-54af78f1367d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:54</itunes:duration>
       <pubDate>Thu, 08 Dec 2022 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Herborg Kråkevik</title>
-      <description><![CDATA[Den folkekjære artisten føler ofte skam når hun snakker for mye om seg selv. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/30ec6208-e7a6-413b-b2b5-2e4f93d6c7a9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/30ec6208-e7a6-413b-b2b5-2e4f93d6c7a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:22</itunes:duration>
-      <pubDate>Mon, 05 Dec 2022 15:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
