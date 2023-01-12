@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Jan 2023 14:40:56 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Jan 2023 14:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Jan 2023 14:36:52 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Jan 2023 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Kari Killén</title>
+      <description><![CDATA[Hun har kjempet  for å beskytte barn mot omsorgssvikt i over 60 år - Kjærlighet er ikke nok, sier sosionomen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0522a387-6281-4984-9abb-bc5ad7e66789_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0522a387-6281-4984-9abb-bc5ad7e66789_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Thu, 12 Jan 2023 15:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Iselin Steiro</title>
       <description><![CDATA[Modellen med den eventyrlige karrieren - og jobb som arkitekt - ønsker å "makse" livet.]]></description>
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/1f99f516-4b09-4b3a-8649-10e9c130b82e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:22</itunes:duration>
       <pubDate>Mon, 12 Dec 2022 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Olaug Nilssen</title>
-      <description><![CDATA[Sinne har vært en drivkraft for den prisvinnende forfatteren  i mange år. Nå har sinnet sluppet. Hva gjør det med henne?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/611c531c-77fb-4945-8c47-54af78f1367d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/611c531c-77fb-4945-8c47-54af78f1367d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:54</itunes:duration>
-      <pubDate>Thu, 08 Dec 2022 13:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
