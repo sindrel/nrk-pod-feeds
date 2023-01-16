@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Jan 2023 05:27:03 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Jan 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2023 05:26:33 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Hvordan er det å ta abort?</title>
+      <description><![CDATA[Hver tredje norske kvinne tar abort i løpet av livet. Fagfolk mener det forskes for lite på hvordan det oppleves. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/da8f371a-dff7-4243-89a5-4798a88c4667_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/da8f371a-dff7-4243-89a5-4798a88c4667_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:07</itunes:duration>
+      <pubDate>Mon, 16 Jan 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Spørretime: Hva er "normalkroppen" i 2023?</title>
       <description><![CDATA[Vi blir stadig tyngre, men gjør det noe?  Legen, psykologen og helsemyndighetene tar saken i ukas spørretime. ]]></description>
@@ -90,15 +98,6 @@ Av: Rikke Eckhoff]]></description>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6020afae-4f5f-40ab-875a-fb4972b4b9b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:54</itunes:duration>
       <pubDate>Wed, 21 Dec 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hva gjør hormonell prevensjon med kroppen din? </title>
-      <description><![CDATA[Flere og flere kvinner kutter ut prevensjon med hormoner.  Men hva er egentlig fordelene , og hva er ulempene? 
-Av: Line Hødnebø]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/37d99e86-627e-422d-96ef-21cdeaecc6f8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/37d99e86-627e-422d-96ef-21cdeaecc6f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:19</itunes:duration>
-      <pubDate>Tue, 20 Dec 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
