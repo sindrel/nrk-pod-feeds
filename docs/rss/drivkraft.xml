@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 Jan 2023 14:36:52 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Jan 2023 15:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Jan 2023 13:32:27 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Jan 2023 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Harald Rosenløw Eeg</title>
+      <description><![CDATA[Forfatteren vokste opp i et strengt, kristent hjem, men ser på seg selv som halvt buddhistisk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/54db906a-12b3-4b34-ab9d-68b945a1cdc3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/54db906a-12b3-4b34-ab9d-68b945a1cdc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:16</itunes:duration>
+      <pubDate>Thu, 19 Jan 2023 14:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Kari Killén</title>
       <description><![CDATA[Hun har kjempet  for å beskytte barn mot omsorgssvikt i over 60 år - Kjærlighet er ikke nok, sier sosionomen]]></description>
@@ -82,18 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/3867112e-6c82-49ee-b222-c4fc298106ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:42</itunes:duration>
       <pubDate>Tue, 13 Dec 2022 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ervin Kohn</title>
-      <description><![CDATA[Samfunnsdebattanten vokste opp med foreldre som overlevde Holocaust, og insisterer på å ikke se på seg selv som offer.
-
-
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1f99f516-4b09-4b3a-8649-10e9c130b82e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1f99f516-4b09-4b3a-8649-10e9c130b82e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:22</itunes:duration>
-      <pubDate>Mon, 12 Dec 2022 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
