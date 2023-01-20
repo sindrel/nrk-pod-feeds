@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 13 Jan 2023 12:47:43 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Jan 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Jan 2023 12:48:49 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Jan 2023 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ"/>
+    <item>
+      <title>Bevissthet #3 - Vi må snakke om Mary</title>
+      <description><![CDATA[Mary er oppvokst i en verden uten fager, men hun har studert fysikk og kan alt om dem. Hvilke bølgelengder rødt er, hva som skjer i øyet når rødt lys treffer den, hva slags signaler som går videre inn i hjernen og til og med hvordan signalene behandles og tolkes av hjernen. Allikevel, nå hun går ut i verden og ser et rødt eple første gang - så får hun en ny erfaring, hun har lært noe nytt. Men hva? Hvis hun alt visste alt som kunne tallfestes og objektivt sies om fargen rødt. 
+
+Dette er en republisering av en serie fra 2021]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/ca07d13a-77e0-4510-b8a7-26a25e916c55_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ca07d13a-77e0-4510-b8a7-26a25e916c55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:40</itunes:duration>
+      <pubDate>Fri, 20 Jan 2023 10:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Abels tårn - Bra immunforsvar: arv eller miljø?</title>
       <description><![CDATA[*Kan alle type matvarer, som for eksempel melk og honning, dyrkes i laboratorier?
@@ -150,19 +160,6 @@ Biolog/zoolog Petter Bøckman]]></description>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/10237025-be4d-465e-946b-37a4c8e5b33a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:48</itunes:duration>
       <pubDate>Fri, 16 Dec 2022 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Abels kjeller - Fusjon! Endelig et gjennombrudd!</title>
-      <description><![CDATA[Vil gjennombruddet i fusjonsteknologi bety ubegrenset grønn energi?
-For én time siden blei det holdt pressekonferanse i det amerikanske energidepartementet. Vi fulgte konferansen med to fysikere som jobber med kjernekraft og fusjonsteknologi.
-
-Panel:
-Ann-Cecilie Larsen
-Audun Theodorsen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/44f92358-7e6e-4ef9-8388-59e42d22d46b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/44f92358-7e6e-4ef9-8388-59e42d22d46b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:04</itunes:duration>
-      <pubDate>Tue, 13 Dec 2022 18:17:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

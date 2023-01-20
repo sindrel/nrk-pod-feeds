@@ -1,39 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 Jan 2023 05:27:06 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Jan 2023 06:06:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Jan 2023 12:48:55 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Jan 2023 12:25:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw"/>
     <item>
-      <title>Havariet KNM "Helge Ingstad" (1:3)</title>
-      <description><![CDATA[I nattemørket kjører krigsskipet i høy fart rett mot en tankbåt. Da de forstår faren er for sent.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/e7d1a964-b6e1-49fe-b944-b81c7aaf427f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/e7d1a964-b6e1-49fe-b944-b81c7aaf427f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:35</itunes:duration>
-      <pubDate>Thu, 12 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Havariet KNM "Helge Ingstad" (2:3)</title>
-      <description><![CDATA[Etter kollisjonen går KNM «Helge Ingstad» på grunn med store skader. Vannet velter inn i skipet. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/7dd9316a-a561-473d-91b9-ee846603fef1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/7dd9316a-a561-473d-91b9-ee846603fef1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:18</itunes:duration>
-      <pubDate>Thu, 12 Jan 2023 06:03:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Havariet KNM "Helge Ingstad" (3:3)</title>
-      <description><![CDATA[Mange krever svar. Hvordan kunne en fregatt til 4 milliarder kroner krasje og synke? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/98fc5b34-4b32-440c-b98b-e1c1acd8f980_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/98fc5b34-4b32-440c-b98b-e1c1acd8f980_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:14</itunes:duration>
-      <pubDate>Thu, 12 Jan 2023 06:06:00 +0100</pubDate>
+      <title>Kommer: Knivdrapene på Valdresekspressen</title>
+      <description><![CDATA[I 2003 går en desperat mann med kniv til angrep på en fullsatt buss. 10 år senere skjer et nytt knivdrama på samme bussrute. Fra 23. januar i  appen NRK Radio. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/4ab4107c-9ac3-4a18-b42f-ada7c41ada5f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/4ab4107c-9ac3-4a18-b42f-ada7c41ada5f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:52</itunes:duration>
+      <pubDate>Fri, 20 Jan 2023 12:25:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
