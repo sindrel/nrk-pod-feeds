@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 19 Jan 2023 13:32:27 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Jan 2023 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Jan 2023 12:48:59 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Jan 2023 13:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Kari Schibevaag</title>
+      <description><![CDATA[- Livet i bobil er som å bo på 5-stjerners hotell, ifølge den tidligere verdensmesteren i kiting på både snø og vann.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1ca0933e-28d3-4757-a9fb-4efdc3cb3761_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1ca0933e-28d3-4757-a9fb-4efdc3cb3761_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:33</itunes:duration>
+      <pubDate>Mon, 23 Jan 2023 13:15:00 +0100</pubDate>
+    </item>
     <item>
       <title>Harald Rosenløw Eeg</title>
       <description><![CDATA[Forfatteren vokste opp i et strengt, kristent hjem, men ser på seg selv som halvt buddhistisk.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/7a9833a2-f0df-4670-ad2d-db620e6d04d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:28</itunes:duration>
       <pubDate>Wed, 14 Dec 2022 13:10:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Christine Koht</title>
-      <description><![CDATA[Etter kreftsjukdommen har komikeren og programlederen fått et helt nytt syn på livet. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3867112e-6c82-49ee-b222-c4fc298106ba_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3867112e-6c82-49ee-b222-c4fc298106ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:42</itunes:duration>
-      <pubDate>Tue, 13 Dec 2022 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
