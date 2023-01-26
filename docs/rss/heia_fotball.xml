@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 19 Jan 2023 05:27:07 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Jan 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Jan 2023 15:27:54 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Jan 2023 15:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <item>
+      <title>#335 Olav Svarstad Haugland</title>
+      <description><![CDATA[Komiker Olav Svarstad Haugland forteller om lidenskapen for Chelsea, møtet med Kofi Annan og hvordan han ble ufrivillig jordmor på Ring 3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/4d9c2d3a-0154-41b9-a99e-8d5fd19cd587_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/4d9c2d3a-0154-41b9-a99e-8d5fd19cd587_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:11:41</itunes:duration>
+      <pubDate>Thu, 26 Jan 2023 15:30:00 +0100</pubDate>
+    </item>
     <item>
       <title># 334 Linda Eide</title>
       <description><![CDATA[Journalist, programleder og Leicester- fan Linda Eide drømte om å bli Italia-proff som liten og ville prøve alle idretter som finnes.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/df575854-a57e-4031-a184-1ede131a957a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:08:04</itunes:duration>
       <pubDate>Tue, 06 Dec 2022 11:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Heia VM? #12 - Marius Skjelbæk</title>
-      <description><![CDATA[Vi gir deg tre "NOT'er" til Askepott, snakker om en ladbar VM-ball, Ghanas hevn, VMs rareste mål, deler ut post i koppen og hyller Mbappé.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/d5aac691-a85c-4ff1-853d-81c1e5c933df_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d5aac691-a85c-4ff1-853d-81c1e5c933df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:02:53</itunes:duration>
-      <pubDate>Mon, 05 Dec 2022 11:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
