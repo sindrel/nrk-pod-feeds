@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 23 Jan 2023 05:26:29 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Jan 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2023 05:26:47 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Jan 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Hjelp, jeg skal føde!</title>
+      <description><![CDATA[ Fødselslege Thorbjørn Brook Steen tar deg med på en fødsel fra start til slutt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/eaf517da-08fd-4a9c-8094-1485f1f5073c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/eaf517da-08fd-4a9c-8094-1485f1f5073c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:49</itunes:duration>
+      <pubDate>Mon, 30 Jan 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hva gjør en stortingsrepresentant?</title>
       <description><![CDATA[Hva skjer på Stortinget? Jusforsker Sofie Høgestøl tar deg med inn på Stortinget for å forklare hva en stortingsrepresentant jobber med. ]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/96ac71c1-0b24-40ba-b1c7-86c1c2b8d47e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:26</itunes:duration>
       <pubDate>Mon, 19 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Den deilige og farlige alkoholen</title>
-      <description><![CDATA[Kjemiker Alexander Sandtorv tar deg med på fest for å forklare hva alkohol er og hva det gjør med kroppen din. Medvirkende: Runar Døving]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/dfa5b0e3-8d13-47db-9ac1-cc9536c4683b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/dfa5b0e3-8d13-47db-9ac1-cc9536c4683b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:55</itunes:duration>
-      <pubDate>Mon, 12 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
