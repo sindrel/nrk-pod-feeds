@@ -181,5 +181,11 @@
         "title": "De 10 siste fra XL - podkasten",
         "season": null,
         "enabled": false
+    },
+    {
+        "id": "yeblikket",
+        "title": "De 10 siste fra Øyeblikket",
+        "season": "LATEST_SEASON",
+        "enabled": true
     }
 ]
