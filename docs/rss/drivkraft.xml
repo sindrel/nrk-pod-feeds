@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 12:49:19 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Jan 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2023 14:27:33 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Feb 2023 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Danby Choi </title>
+      <description><![CDATA[Da redaktøren nylig tok personlighetstest fant han ut at han er "eksepsjonelt lite snill". Det lever han godt med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d4eb6773-97d4-4ea0-96d1-244d6b6ed958_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d4eb6773-97d4-4ea0-96d1-244d6b6ed958_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:41</itunes:duration>
+      <pubDate>Wed, 01 Feb 2023 10:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Marit Larsen </title>
       <description><![CDATA[Hun løper ut av butikken når hun hører egen musikk, men har likevel begynt å erkjenne at det betyr noe for
@@ -84,14 +92,6 @@ forstå og formidle tradisjonshåndverk.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/280487cf-6895-4326-b264-1f9ec069d691_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Wed, 11 Jan 2023 14:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Morten Joachim Henriksen </title>
-      <description><![CDATA[Teatersjefen ble født med heroinabstinenser, og mener drivkraften i livet er revansj]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d5d7bc6c-2354-465f-9ce7-8d17dc169754_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d5d7bc6c-2354-465f-9ce7-8d17dc169754_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:06</itunes:duration>
-      <pubDate>Tue, 10 Jan 2023 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
