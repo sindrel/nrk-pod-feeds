@@ -24,7 +24,7 @@ def get_podcasts_config(podcasts_cfg_file):
 
 def write_podcasts_config(config_file, podcasts):
     f = open(config_file, "w")
-    str = json.dumps(podcasts, ensure_ascii=False)
+    str = json.dumps(podcasts, ensure_ascii=False, indent=4)
     f.write(str)
     f.close()
     
