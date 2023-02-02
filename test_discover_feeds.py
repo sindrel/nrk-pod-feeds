@@ -34,6 +34,10 @@ def test_update_podcasts_config():
         "snoefall" : {
             "seriesId": "snoefall",
             "title": "De 10 siste fra snoefall",
+        },
+        "dagsnytt_atten" : {
+            "seriesId": "dagsnytt_atten",
+            "title": "De 10 siste fra dagsnytt_atten",
         }
     }
 

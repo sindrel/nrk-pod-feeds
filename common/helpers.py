@@ -32,7 +32,7 @@ def write_podcasts_config(config_file, podcasts):
 
 def write_feeds_file(feeds_file, podcasts):
     f = open(feeds_file, "w")
-    str = json.dumps(podcasts)
+    str = json.dumps(podcasts, ensure_ascii=False, indent=2)
     f.write(f"const feeds = {str}")
     f.close()
     

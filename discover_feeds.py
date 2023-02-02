@@ -12,6 +12,8 @@ inactive_days_limit = 30
 ignore_days_limit = 365
 title_prefix = "De 10 siste fra "
 
+ignored_categories = ["forstaa"]
+
 def check_if_podcast_active(today, episodes):
     active = False
     obsolete = False
@@ -47,8 +49,13 @@ def update_podcasts_config(configured, discovered):
 
         metadata = psapi.get_podcast_metadata(podcast['seriesId'])
         latest_season = None
+        
         if "seasons" in metadata["_links"] and len(metadata["_links"]["seasons"]) > 0:
             latest_season = metadata["_links"]["seasons"][0]["name"]
+
+        if metadata['series']['category']['id'] in ignored_categories:
+            logging.debug(f"Podcast {podcast['seriesId']} is in ignored category {metadata['series']['category']['id']}")
+            continue
 
         episodes = psapi.get_podcast_episodes(podcast['seriesId'])
         
@@ -75,6 +82,7 @@ def update_podcasts_config(configured, discovered):
         if active['obsolete']:
             logging.warning(f"Podcast {podcast['title']} is considered obsolete and will be ignored in the future")
             new_feed["ignore"] = True
+            new_feed["hidden"] = True
 
         if exists and (configured[exists_i]['enabled'] != new_feed['enabled'] or configured[exists_i]['season'] != new_feed['season']):
             logging.info(f"Updating existing podcast {podcast['seriesId']} (i: {exists_i})")
