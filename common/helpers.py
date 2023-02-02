@@ -22,13 +22,21 @@ def get_podcasts_config(podcasts_cfg_file):
         data = file.read()
         return json.loads(data)
 
+def write_podcasts_config(config_file, podcasts):
+    f = open(config_file, "w")
+    str = json.dumps(podcasts, ensure_ascii=False)
+    f.write(str)
+    f.close()
+    
+    logging.info(f"Podcasts config written to file: {config_file}")
+
 def write_feeds_file(feeds_file, podcasts):
     f = open(feeds_file, "w")
     str = json.dumps(podcasts)
     f.write(f"const feeds = {str}")
     f.close()
     
-    logging.info(f"Podcasts config written to file: {feeds_file}")
+    logging.info(f"Podcast feeds written to file: {feeds_file}")
 
 def get_version():
     with open("version.txt") as file:
