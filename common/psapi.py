@@ -77,3 +77,36 @@ def get_podcast_metadata(podcast_id, format = "json"):
         return r.text
 
     return r.json()
+
+def get_all_podcasts():
+    url = f"{api_base_url}/radio/search/categories/podcast?take=1000"
+
+    podcasts = {}
+    series_c = 0
+
+    while True:
+        r = requests.get(url)
+        if not r.ok:
+            logging.info(f"Unable to fetch podcasts ({url} returned {r.status_code})")
+            return None
+
+        for series in r.json()["series"]:
+            if series['type'] != "podcast":
+                continue
+
+            logging.debug(f"Found seriesId {series['title']} ({series['seriesId']})")
+
+            podcasts[series['seriesId']] = {
+                "seriesId" : series['seriesId'],
+                "title" : series['title'],
+            }
+
+            series_c+=1
+        
+        if not "next" in r.json()["_links"]:
+            break
+
+        url = api_base_url + r.json()["_links"]["next"]["href"]
+
+    logging.info(f"Discovered {len(podcasts)} podcast(s), {series_c} season(s)")
+    return podcasts

@@ -12,13 +12,22 @@ Feel free to open a pull request or create an issue.
   <summary>Instructions</summary>
 
 ## Getting started
-### Install dependencies
-```python3 -m pip install -r requirements.txt```
+### Set up venv and install dependencies
+```shell
+python3 -m venv venv
+source venv/bin/activate
+python3 -m pip install -r requirements.txt
+python3 -m pip install pytest
+```
 
 ### Run tests
-```pytest -v --disable-warnings --log-cli-level=DEBUG```
+```shell
+pytest -v --disable-warnings --log-cli-level=DEBUG
+```
 
 ### Build or update podcast feeds
-```python3 generate_feeds.py```
+```shell
+python3 generate_feeds.py
+```
 
 </details>

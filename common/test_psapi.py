@@ -46,3 +46,12 @@ def test_get_all_podcast_episodes():
     episodes = psapi.get_all_podcast_episodes(podcast_id)
 
     assert len(episodes) > 0
+
+def test_get_all_podcasts():
+    podcasts = psapi.get_all_podcasts()
+
+    for podcast_k, podcast in podcasts.items():
+        assert "seriesId" in podcast
+        assert "title" in podcast
+
+    assert len(podcasts) > 0
