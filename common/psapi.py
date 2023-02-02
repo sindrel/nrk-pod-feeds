@@ -87,7 +87,7 @@ def get_all_podcasts():
     while True:
         r = requests.get(url, headers=headers)
         if not r.ok:
-            logging.info(f"Unable to fetch podcasts ({url} returned {r.status_code})")
+            logging.error(f"Unable to fetch podcasts ({url} returned {r.status_code})")
             return None
 
         for series in r.json()["series"]:

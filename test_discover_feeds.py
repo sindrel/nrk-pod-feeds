@@ -26,10 +26,14 @@ def test_update_podcasts_config():
         "abels_taarn" : {
             "seriesId": "abels_taarn",
             "title": "De 10 siste fra Abels Tårn",
-        },
+        }, 
         "berrum_beyer_snakker_om_greier" : {
             "seriesId": "berrum_beyer_snakker_om_greier",
             "title": "De 10 siste fra Foo og Bar",
+        },
+        "snoefall" : {
+            "seriesId": "snoefall",
+            "title": "De 10 siste fra snoefall",
         }
     }
 

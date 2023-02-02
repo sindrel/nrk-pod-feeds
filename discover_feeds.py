@@ -6,20 +6,28 @@ from datetime import datetime
 from common import psapi
 from common import helpers
 
-podcasts_cfg_file = "podcasts.json"
+podcasts_cfg_file = "podcasts.tmp"
 
 inactive_days_limit = 30
+ignore_days_limit = 365
 title_prefix = "De 10 siste fra "
 
 def check_if_podcast_active(today, episodes):
     active = False
+    obsolete = False
     for episode in episodes:
         episode_date = episode["date"]
         days_passed = ((today.timestamp() - parser.parse(episode_date).timestamp()) / 86400)
         if days_passed < inactive_days_limit:
             logging.debug(f"Podcast is active (episode age: {days_passed}d)")
             active = True
-    return active
+        if not active and (days_passed > ignore_days_limit):
+            obsolete = True
+
+    return {
+        "active": active,
+        "obsolete": obsolete
+    }
 
 def update_podcasts_config(configured, discovered):
     updated_c = 0
@@ -48,10 +56,10 @@ def update_podcasts_config(configured, discovered):
         season = None
 
         active = check_if_podcast_active(today, episodes) # If not based on seasons
-        if not active and latest_season:
+        if not active['active'] and latest_season:
             episodes_season = psapi.get_podcast_episodes(podcast['seriesId'], latest_season)
             active = check_if_podcast_active(today, episodes_season) # If based on seasons
-            if active:
+            if active['active']:
                 season = "LATEST_SEASON"
                 episodes = episodes_season
 
@@ -61,8 +69,12 @@ def update_podcasts_config(configured, discovered):
             "id": podcast['seriesId'],
             "title": f"{title_prefix}{podcast['title']}",
             "season": season,
-            "enabled": active
+            "enabled": active['active']
         }
+
+        if active['obsolete']:
+            logging.warning(f"Podcast {podcast['title']} is considered obsolete and will be ignored in the future")
+            new_feed["ignore"] = True
 
         if exists and (configured[exists_i]['enabled'] != new_feed['enabled'] or configured[exists_i]['season'] != new_feed['season']):
             logging.info(f"Updating existing podcast {podcast['seriesId']} (i: {exists_i})")
@@ -84,6 +96,6 @@ if __name__ == '__main__':
     discovered = psapi.get_all_podcasts()
     updated = update_podcasts_config(configured, discovered)
 
-    helpers.write_podcasts_config("podcasts_discovered.tmp", updated)
+    helpers.write_podcasts_config(podcasts_cfg_file, updated)
 
     logging.info("Done")
