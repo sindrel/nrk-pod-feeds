@@ -26,6 +26,20 @@ def test_get_podcast_episodes():
 
     assert len(episodes) == 10
 
+def test_get_all_podcast_episodes():
+    podcast_id = "kongerekka"
+
+    episodes = psapi.get_all_podcast_episodes(podcast_id)
+    
+    for episode in episodes:
+        assert "title" in episode['titles']
+        assert "subtitle" in episode['titles']
+        assert "date" in episode
+        assert "episodeId" in episode
+        assert "durationInSeconds" in episode
+
+    assert len(episodes) > 0
+
 def test_get_episode_manifest():
     podcast_id = "kongerekka"
 
@@ -51,25 +65,9 @@ def test_get_podcast_episodes_by_season():
 
     assert len(episodes) == 10
 
-def test_get_all_podcast_episodes():
-    podcast_id = "kongerekka"
-
-    episodes = psapi.get_all_podcast_episodes(podcast_id)
-    
-    for episode in episodes:
-        assert "title" in episode['titles']
-        assert "subtitle" in episode['titles']
-        assert "date" in episode
-        assert "episodeId" in episode
-        assert "durationInSeconds" in episode
-
-    assert len(episodes) > 0
-
 def test_get_all_podcasts():
     podcasts = psapi.get_all_podcasts()
 
     for podcast_k, podcast in podcasts.items():
         assert "seriesId" in podcast
         assert "title" in podcast
-
-    assert len(podcasts) > 0

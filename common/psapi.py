@@ -108,5 +108,5 @@ def get_all_podcasts():
 
         url = api_base_url + r.json()["_links"]["next"]["href"]
 
-    logging.info(f"Discovered {len(podcasts)} podcast(s), a total of {series_c} were parsed")
+    logging.info(f"Discovered {len(podcasts)} podcast(s) in a total of {series_c} items in search result")
     return podcasts
