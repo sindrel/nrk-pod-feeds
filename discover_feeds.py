@@ -6,7 +6,7 @@ from datetime import datetime
 from common import psapi
 from common import helpers
 
-podcasts_cfg_file = "podcasts.tmp"
+podcasts_cfg_file = "podcasts.json"
 
 inactive_days_limit = 30
 ignore_days_limit = 365
@@ -48,27 +48,23 @@ def update_podcasts_config(configured, discovered):
             continue
 
         metadata = psapi.get_podcast_metadata(podcast['seriesId'])
-        latest_season = None
-        
-        if "seasons" in metadata["_links"] and len(metadata["_links"]["seasons"]) > 0:
-            latest_season = metadata["_links"]["seasons"][0]["name"]
 
-        if metadata['series']['category']['id'] in ignored_categories:
+        if "category" in metadata['series'] and metadata['series']['category']['id'] in ignored_categories:
             logging.debug(f"Podcast {podcast['seriesId']} is in ignored category {metadata['series']['category']['id']}")
             continue
 
-        episodes = psapi.get_podcast_episodes(podcast['seriesId'])
-        
-        today = datetime.now()
+        latest_season = None
         season = None
 
-        active = check_if_podcast_active(today, episodes) # If not based on seasons
-        if not active['active'] and latest_season:
-            episodes_season = psapi.get_podcast_episodes(podcast['seriesId'], latest_season)
-            active = check_if_podcast_active(today, episodes_season) # If based on seasons
-            if active['active']:
-                season = "LATEST_SEASON"
-                episodes = episodes_season
+        if metadata['seriesType'] == "umbrella":
+            latest_season = metadata["_links"]["seasons"][0]["name"]
+            season = "LATEST_SEASON"
+
+        episodes = psapi.get_podcast_episodes(podcast['seriesId'], latest_season)
+        
+        today = datetime.now()
+        
+        active = check_if_podcast_active(today, episodes)
 
         logging.debug(f"Latest season: {latest_season}, episodes found: {len(episodes)}")
 
@@ -104,6 +100,6 @@ if __name__ == '__main__':
     discovered = psapi.get_all_podcasts()
     updated = update_podcasts_config(configured, discovered)
 
-    helpers.write_podcasts_config(podcasts_cfg_file, updated)
+    helpers.write_podcasts_config("podcasts.tmp", updated)
 
     logging.info("Done")
