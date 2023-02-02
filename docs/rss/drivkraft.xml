@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 14:27:33 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Feb 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Feb 2023 12:50:34 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Feb 2023 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Christian Lomsdalen</title>
+      <description><![CDATA[Lederen for Human-Etisk Forbund ønsker å bli til kompost etter sin død. På den måten kan han fortsette å bidra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ad9ad312-64ec-4e4c-aeaf-ccd114ec91e2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ad9ad312-64ec-4e4c-aeaf-ccd114ec91e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:39</itunes:duration>
+      <pubDate>Thu, 02 Feb 2023 13:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Danby Choi </title>
       <description><![CDATA[Da redaktøren nylig tok personlighetstest fant han ut at han er "eksepsjonelt lite snill". Det lever han godt med.]]></description>
@@ -84,14 +92,6 @@ forstå og formidle tradisjonshåndverk.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/0522a387-6281-4984-9abb-bc5ad7e66789_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Thu, 12 Jan 2023 15:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Iselin Steiro</title>
-      <description><![CDATA[Modellen med den eventyrlige karrieren - og jobb som arkitekt - ønsker å "makse" livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/280487cf-6895-4326-b264-1f9ec069d691_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/280487cf-6895-4326-b264-1f9ec069d691_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Wed, 11 Jan 2023 14:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
