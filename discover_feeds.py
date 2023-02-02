@@ -100,6 +100,6 @@ if __name__ == '__main__':
     discovered = psapi.get_all_podcasts()
     updated = update_podcasts_config(configured, discovered)
 
-    helpers.write_podcasts_config("podcasts.tmp", updated)
+    helpers.write_podcasts_config("podcasts_tmp.json", updated)
 
     logging.info("Done")

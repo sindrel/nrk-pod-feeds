@@ -27,11 +27,15 @@ jobs:
 
       - name: Execute discovery script
         run: python discover_feeds.py
-          
-      - name: Auto-commit changes and push
-        uses: stefanzweifel/git-auto-commit-action@v4
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
         with:
-          commit_message: Configuration auto-update
-          commit_author: Podcast Auto-Discovery <actions@github.com>
-          repository: .
-          file_pattern: 'podcasts.json'
+          title: "chore(auto): Update podcast configuration"
+          body: "Automated discovery routine found new podcasts or changes to existing podcast feeds."
+          branch: update-podcast-configuration
+          commit-message: "chore(auto): Update podcast configuration"
+          committer: nrk-pod-feeds auto-discovery <actions@github.com>
+          delete-branch: true
+          add-paths: |
+            podcasts_tmp.json
