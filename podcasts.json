@@ -876,7 +876,8 @@
         "title": "De 17 siste fra Steinar og Bjørns bærbare fredagsparty",
         "season": null,
         "enabled": false,
-        "ignore": true
+        "ignore": true,
+        "hidden": false
     },
     {
         "id": "stroemwasenius",
@@ -918,11 +919,11 @@
     },
     {
         "id": "tazte_priv",
-        "title": "De 10 siste fra Tazte Priv",
+        "title": "De 12 siste fra Tazte Priv",
         "season": null,
         "enabled": false,
         "ignore": true,
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "teige_lydstudio",
@@ -958,11 +959,11 @@
     },
     {
         "id": "tore_og_einars_podkast_om_norge",
-        "title": "De 10 siste fra Tore og Einars podkast om Norge",
+        "title": "De 16 siste fra Tore og Einars podkast om Norge",
         "season": null,
         "enabled": false,
         "ignore": true,
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "tore_sagens_podkast",

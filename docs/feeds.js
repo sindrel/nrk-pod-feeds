@@ -873,11 +873,10 @@ const feeds = [
   },
   {
     "id": "steinar_og_bjoerns_baerbare_fredagsparty",
-    "title": "De 10 siste fra Steinar og Bjørns bærbare fredagsparty",
+    "title": "De 17 siste fra Steinar og Bjørns bærbare fredagsparty",
     "season": null,
-    "enabled": true,
-    "ignore": false,
-    "episodes": 0
+    "enabled": false,
+    "ignore": true
   },
   {
     "id": "stroemwasenius",
@@ -921,9 +920,9 @@ const feeds = [
     "id": "tazte_priv",
     "title": "De 10 siste fra Tazte Priv",
     "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
+    "enabled": true,
+    "ignore": false,
+    "episodes": 0
   },
   {
     "id": "teige_lydstudio",
@@ -961,9 +960,9 @@ const feeds = [
     "id": "tore_og_einars_podkast_om_norge",
     "title": "De 10 siste fra Tore og Einars podkast om Norge",
     "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
+    "enabled": true,
+    "ignore": false,
+    "episodes": 0
   },
   {
     "id": "tore_sagens_podkast",
