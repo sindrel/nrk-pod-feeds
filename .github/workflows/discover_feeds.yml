@@ -38,4 +38,4 @@ jobs:
           committer: nrk-pod-feeds auto-discovery <actions@github.com>
           delete-branch: true
           add-paths: |
-            podcasts_tmp.json
+            podcasts.json
