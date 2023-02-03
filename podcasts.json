@@ -9,7 +9,9 @@
         "id": "are_og_odin",
         "title": "De 10 siste fra Are og Odin",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "baksnakk",
@@ -58,6 +60,7 @@
         "title": "De 10 siste fra Friminutt med Herman og Mikkel",
         "season": null,
         "enabled": false,
+        "ignore": true,
         "hidden": true
     },
     {
@@ -144,7 +147,8 @@
         "title": "De 1583 siste fra Radioresepsjonen",
         "season": null,
         "enabled": false,
-        "episodes": 0
+        "episodes": 0,
+        "ignore": true
     },
     {
         "id": "skitprat",
@@ -180,7 +184,9 @@
         "id": "i_det_lange_loep",
         "title": "De 10 siste fra I det lange løp",
         "season": null,
-        "enabled": true
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "xl_podkasten",
@@ -214,7 +220,9 @@
         "id": "andakten",
         "title": "De 10 siste fra Andakten",
         "season": null,
-        "enabled": true
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "andregenerasjonen",
@@ -254,7 +262,9 @@
         "id": "brillebjoerns_kvissvas",
         "title": "De 10 siste fra Brillebjørns Kvissvas",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "clue",
@@ -284,7 +294,9 @@
         "id": "dilemmaklemma",
         "title": "De 10 siste fra Dilemmaklemma",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "einstein__paa_sporet_av_den_toeyde_tid",
@@ -304,7 +316,9 @@
         "id": "eventyret_om_vazelina_bilopphoeggers",
         "title": "De 10 siste fra Eventyret om Vazelina Bilopphøggers",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "familiene_paa_orderud",
@@ -318,7 +332,9 @@
         "id": "fantorangens_lydmysterier",
         "title": "De 10 siste fra Fantorangens lydmysterier",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "feriestemning",
@@ -352,7 +368,9 @@
         "id": "gozuid_alde",
         "title": "De 10 siste fra Gozuid alde",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "groess_og_gru",
@@ -426,7 +444,9 @@
         "id": "julestemning",
         "title": "De 10 siste fra Julestemning med Live og Ronny",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "juntafil",
@@ -528,7 +548,9 @@
         "id": "labyrinthemmeligheter",
         "title": "De 10 siste fra Labyrinthemmeligheter",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "lindmo_og_co",
@@ -580,7 +602,8 @@
         "id": "maskoramapodkasten",
         "title": "De 10 siste fra Maskorama-podkasten",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "hidden": true
     },
     {
         "id": "mellom_oss",
@@ -668,7 +691,9 @@
         "id": "nrkscenen",
         "title": "De 10 siste fra NRK-scenen",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "o-fag",
@@ -760,7 +785,9 @@
         "id": "roeverradion_i_nrk_p2",
         "title": "De 10 siste fra Røverradion i NRK P2",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "salongen",
@@ -986,7 +1013,9 @@
         "id": "verdens_ekleste_podkast",
         "title": "De 10 siste fra Verdens ekleste podkast",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "verdens_rikeste_land",
