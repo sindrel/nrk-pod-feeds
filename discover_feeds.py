@@ -100,6 +100,7 @@ if __name__ == '__main__':
     discovered = psapi.get_all_podcasts()
     updated = update_podcasts_config(configured, discovered)
 
-    helpers.write_podcasts_config(podcasts_cfg_file, updated)
+    updated_sorted = sorted(updated, key=lambda d: d['id']) 
+    helpers.write_podcasts_config(podcasts_cfg_file, updated_sorted)
 
     logging.info("Done")

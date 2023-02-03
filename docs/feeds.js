@@ -1,9 +1,41 @@
 const feeds = [
   {
+    "id": "22_juli_-_hvordan_kunne_det_skje",
+    "title": "De 10 siste fra 22. JULI - Hvordan kunne det skje?",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
+    "id": "72_timer",
+    "title": "De 10 siste fra 72 timer",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "abels_taarn",
     "title": "De 10 siste fra Abels Tårn",
     "season": null,
     "enabled": true
+  },
+  {
+    "id": "andakten",
+    "title": "De 10 siste fra Andakten",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
+    "id": "andregenerasjonen",
+    "title": "De 10 siste fra Andregenerasjonen",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "are_og_odin",
@@ -26,213 +58,6 @@ const feeds = [
     "enabled": true
   },
   {
-    "id": "burde_vaert_pensum",
-    "title": "De 10 siste fra Burde vært pensum",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "drivkraft",
-    "title": "De 10 siste fra Drivkraft",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "karakter",
-    "title": "De 10 siste fra Dynga",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "ekko_-_et_aktuelt_samfunnsprogram",
-    "title": "De 10 siste fra Ekko - samfunnspodden",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "filmpolitiet",
-    "title": "De 10 siste fra Filmpolitiet",
-    "season": "LATEST_SEASON",
-    "enabled": true
-  },
-  {
-    "id": "friminutt_med_herman_og_mikkel",
-    "title": "De 10 siste fra Friminutt med Herman og Mikkel",
-    "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
-  },
-  {
-    "id": "gal_og_genial",
-    "title": "De 10 siste fra Gal og Genial",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "god_bedring",
-    "title": "De 10 siste fra God bedring",
-    "season": null,
-    "enabled": false
-  },
-  {
-    "id": "god_natt",
-    "title": "De 10 siste fra God natt",
-    "season": null,
-    "enabled": false
-  },
-  {
-    "id": "heia_fotball",
-    "title": "De 10 siste fra Heia Fotball",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "hele_historien",
-    "title": "De 10 siste fra Hele Historien",
-    "season": "LATEST_SEASON",
-    "enabled": true
-  },
-  {
-    "id": "historiske_kjendiser",
-    "title": "De 10 siste fra Historiske kjendiser",
-    "season": null,
-    "enabled": false
-  },
-  {
-    "id": "kongerekka",
-    "title": "De 10 siste fra Kongerekka",
-    "season": null,
-    "enabled": false
-  },
-  {
-    "id": "loerdagsraadet",
-    "title": "De 10 siste fra Lørdagsrådet",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "med_all_respekt",
-    "title": "De 10 siste fra Med All Respekt",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "musikkrommet",
-    "title": "De 10 siste fra Musikkrommet",
-    "season": null,
-    "enabled": false
-  },
-  {
-    "id": "nokke_for_seg_sjoel",
-    "title": "De 10 siste fra Nokke for seg sjøl",
-    "season": null,
-    "enabled": false,
-    "hidden": true
-  },
-  {
-    "id": "popkorn_og_politikk",
-    "title": "De 10 siste fra Popkorn og politikk",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "radiodokumentaren",
-    "title": "De 10 siste fra Historier fra virkeligheten",
-    "season": "LATEST_SEASON",
-    "enabled": false
-  },
-  {
-    "id": "radioresepsjonen",
-    "title": "De 1583 siste fra Radioresepsjonen",
-    "season": null,
-    "enabled": false,
-    "episodes": 0,
-    "ignore": true
-  },
-  {
-    "id": "skitprat",
-    "title": "De 10 siste fra Skitprat med Jens og Isak",
-    "season": null,
-    "enabled": false
-  },
-  {
-    "id": "spraakteigen",
-    "title": "De 10 siste fra Språksnakk",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "statens_mal_for_medarbeidersamtale",
-    "title": "De 10 siste fra Statens mal for medarbeidersamtale",
-    "season": null,
-    "enabled": false
-  },
-  {
-    "id": "the_kaass_furuseths",
-    "title": "De 10 siste fra The Kåss Furuseths",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "trygdekontoret",
-    "title": "De 10 siste fra Trygdekontoret",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "i_det_lange_loep",
-    "title": "De 10 siste fra I det lange løp",
-    "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
-  },
-  {
-    "id": "xl_podkasten",
-    "title": "De 10 siste fra XL - podkasten",
-    "season": null,
-    "enabled": false
-  },
-  {
-    "id": "yeblikket",
-    "title": "De 10 siste fra Øyeblikket",
-    "season": null,
-    "enabled": true
-  },
-  {
-    "id": "22_juli_-_hvordan_kunne_det_skje",
-    "title": "De 10 siste fra 22. JULI - Hvordan kunne det skje?",
-    "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
-  },
-  {
-    "id": "72_timer",
-    "title": "De 10 siste fra 72 timer",
-    "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
-  },
-  {
-    "id": "andakten",
-    "title": "De 10 siste fra Andakten",
-    "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
-  },
-  {
-    "id": "andregenerasjonen",
-    "title": "De 10 siste fra Andregenerasjonen",
-    "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
-  },
-  {
     "id": "billis_og_bollos",
     "title": "De 10 siste fra Billis og Bollos",
     "season": null,
@@ -245,6 +70,12 @@ const feeds = [
     "title": "De 10 siste fra Bingen – historier fra bygda",
     "season": null,
     "enabled": false
+  },
+  {
+    "id": "bok_i_p2",
+    "title": "De 10 siste fra Åpen bok",
+    "season": "LATEST_SEASON",
+    "enabled": true
   },
   {
     "id": "brannbamsen_bjoernis",
@@ -267,16 +98,14 @@ const feeds = [
     "hidden": true
   },
   {
-    "id": "clue",
-    "title": "De 10 siste fra CLUE",
+    "id": "burde_vaert_pensum",
+    "title": "De 10 siste fra Burde vært pensum",
     "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
+    "enabled": true
   },
   {
-    "id": "p060ms2h",
-    "title": "De 10 siste fra Death in Ice Valley",
+    "id": "clue",
+    "title": "De 10 siste fra CLUE",
     "season": null,
     "enabled": false,
     "ignore": true,
@@ -299,12 +128,24 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "drivkraft",
+    "title": "De 10 siste fra Drivkraft",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "einstein__paa_sporet_av_den_toeyde_tid",
     "title": "De 10 siste fra Einstein – på sporet av den tøyde tid",
     "season": null,
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "ekko_-_et_aktuelt_samfunnsprogram",
+    "title": "De 10 siste fra Ekko - samfunnspodden",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "etikketaten",
@@ -343,8 +184,36 @@ const feeds = [
     "enabled": false
   },
   {
+    "id": "filmpolitiet",
+    "title": "De 10 siste fra Filmpolitiet",
+    "season": "LATEST_SEASON",
+    "enabled": true
+  },
+  {
     "id": "fredagspanelet",
     "title": "De 10 siste fra Fredagspanelet",
+    "season": null,
+    "enabled": true
+  },
+  {
+    "id": "friminutt_med_herman_og_mikkel",
+    "title": "De 10 siste fra Friminutt med Herman og Mikkel",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
+    "id": "gaaten_i_isdalen",
+    "title": "De 10 siste fra Gåten i Isdalen",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
+    "id": "gal_og_genial",
+    "title": "De 10 siste fra Gal og Genial",
     "season": null,
     "enabled": true
   },
@@ -355,6 +224,18 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "god_bedring",
+    "title": "De 10 siste fra God bedring",
+    "season": null,
+    "enabled": false
+  },
+  {
+    "id": "god_natt",
+    "title": "De 10 siste fra God natt",
+    "season": null,
+    "enabled": false
   },
   {
     "id": "googla_med_synnoeve_svaboe",
@@ -381,12 +262,28 @@ const feeds = [
     "hidden": true
   },
   {
-    "id": "gaaten_i_isdalen",
-    "title": "De 10 siste fra Gåten i Isdalen",
+    "id": "heia_fotball",
+    "title": "De 10 siste fra Heia Fotball",
     "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
+    "enabled": true
+  },
+  {
+    "id": "hele_historien",
+    "title": "De 10 siste fra Hele Historien",
+    "season": "LATEST_SEASON",
+    "enabled": true
+  },
+  {
+    "id": "historiske_kjendiser",
+    "title": "De 10 siste fra Historiske kjendiser",
+    "season": null,
+    "enabled": false
+  },
+  {
+    "id": "hoera",
+    "title": "De 10 siste fra Hør'a!",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "hos_peder",
@@ -397,10 +294,12 @@ const feeds = [
     "hidden": true
   },
   {
-    "id": "hoera",
-    "title": "De 10 siste fra Hør'a!",
+    "id": "i_det_lange_loep",
+    "title": "De 10 siste fra I det lange løp",
     "season": null,
-    "enabled": true
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "i_doedens_spor",
@@ -457,6 +356,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "karakter",
+    "title": "De 10 siste fra Dynga",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "karriereveilederen",
     "title": "De 10 siste fra Karriereveilederen",
     "season": null,
@@ -495,6 +400,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "kongerekka",
+    "title": "De 10 siste fra Kongerekka",
+    "season": null,
+    "enabled": false
   },
   {
     "id": "koselig",
@@ -559,6 +470,20 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "loensj_med_rune_nilson",
+    "title": "De 10 siste fra Lønsj med Rune Nilson",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
+    "id": "loerdagsraadet",
+    "title": "De 10 siste fra Lørdagsrådet",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "lyden_av_17_mai",
     "title": "De 10 siste fra Lyden av 17. mai",
     "season": null,
@@ -583,14 +508,6 @@ const feeds = [
     "hidden": true
   },
   {
-    "id": "loensj_med_rune_nilson",
-    "title": "De 10 siste fra Lønsj med Rune Nilson",
-    "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
-  },
-  {
     "id": "manin_ja_danin",
     "title": "De 10 siste fra Manin ja danin",
     "season": null,
@@ -604,6 +521,12 @@ const feeds = [
     "season": null,
     "enabled": false,
     "hidden": true
+  },
+  {
+    "id": "med_all_respekt",
+    "title": "De 10 siste fra Med All Respekt",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "mellom_oss",
@@ -652,15 +575,15 @@ const feeds = [
     "hidden": true
   },
   {
-    "id": "mysterier_fra_norge",
-    "title": "De 10 siste fra Mysterier fra Norge",
+    "id": "musikkrommet",
+    "title": "De 10 siste fra Musikkrommet",
     "season": null,
     "enabled": false
   },
   {
-    "id": "radioteatrets_paaskekrim",
-    "title": "De 10 siste fra Mørke fortellinger",
-    "season": "LATEST_SEASON",
+    "id": "mysterier_fra_norge",
+    "title": "De 10 siste fra Mysterier fra Norge",
+    "season": null,
     "enabled": false
   },
   {
@@ -688,6 +611,13 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "nokke_for_seg_sjoel",
+    "title": "De 10 siste fra Nokke for seg sjøl",
+    "season": null,
+    "enabled": false,
+    "hidden": true
+  },
+  {
     "id": "nrkscenen",
     "title": "De 10 siste fra NRK-scenen",
     "season": null,
@@ -698,6 +628,14 @@ const feeds = [
   {
     "id": "o-fag",
     "title": "De 10 siste fra O-fag",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
+    "id": "p060ms2h",
+    "title": "De 10 siste fra Death in Ice Valley",
     "season": null,
     "enabled": false,
     "ignore": true,
@@ -718,12 +656,26 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "paalogga",
+    "title": "De 10 siste fra Pålogga",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "popaganda",
     "title": "De 10 siste fra Popaganda",
     "season": null,
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "popkorn_og_politikk",
+    "title": "De 10 siste fra Popkorn og politikk",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "psykologen",
@@ -742,12 +694,10 @@ const feeds = [
     "hidden": true
   },
   {
-    "id": "paalogga",
-    "title": "De 10 siste fra Pålogga",
-    "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
+    "id": "radiodokumentaren",
+    "title": "De 10 siste fra Historier fra virkeligheten",
+    "season": "LATEST_SEASON",
+    "enabled": false
   },
   {
     "id": "radiolegen",
@@ -766,6 +716,14 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "radioresepsjonen",
+    "title": "De 1583 siste fra Radioresepsjonen",
+    "season": null,
+    "enabled": false,
+    "episodes": 0,
+    "ignore": true
+  },
+  {
     "id": "radioresepsjonens_arkivpodkast",
     "title": "De 10 siste fra Radioresepsjonens arkivpodkast",
     "season": null,
@@ -782,6 +740,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "radioteatrets_paaskekrim",
+    "title": "De 10 siste fra Mørke fortellinger",
+    "season": "LATEST_SEASON",
+    "enabled": false
+  },
+  {
     "id": "roeverradion_i_nrk_p2",
     "title": "De 10 siste fra Røverradion i NRK P2",
     "season": null,
@@ -790,16 +754,16 @@ const feeds = [
     "hidden": true
   },
   {
-    "id": "salongen",
-    "title": "De 10 siste fra Salongens lesesirkel ",
+    "id": "saann_er_du",
+    "title": "De 10 siste fra Sånn er du",
     "season": null,
     "enabled": false,
     "ignore": true,
     "hidden": true
   },
   {
-    "id": "smi_horror",
-    "title": "De 10 siste fra Sámi Horror",
+    "id": "salongen",
+    "title": "De 10 siste fra Salongens lesesirkel ",
     "season": null,
     "enabled": false,
     "ignore": true,
@@ -838,6 +802,20 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "skitprat",
+    "title": "De 10 siste fra Skitprat med Jens og Isak",
+    "season": null,
+    "enabled": false
+  },
+  {
+    "id": "smi_horror",
+    "title": "De 10 siste fra Sámi Horror",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "snoefall",
     "title": "De 10 siste fra Snøfall",
     "season": null,
@@ -864,6 +842,20 @@ const feeds = [
     "enabled": false
   },
   {
+    "id": "spraakteigen",
+    "title": "De 10 siste fra Språksnakk",
+    "season": null,
+    "enabled": true
+  },
+  {
+    "id": "staale_utslagsnes_fra_loensj",
+    "title": "De 10 siste fra Ståle Utslagsnes fra Lønsj",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "stanghelle",
     "title": "De 10 siste fra Stanghelle",
     "season": null,
@@ -872,11 +864,18 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "statens_mal_for_medarbeidersamtale",
+    "title": "De 10 siste fra Statens mal for medarbeidersamtale",
+    "season": null,
+    "enabled": false
+  },
+  {
     "id": "steinar_og_bjoerns_baerbare_fredagsparty",
     "title": "De 17 siste fra Steinar og Bjørns bærbare fredagsparty",
     "season": null,
     "enabled": false,
-    "ignore": true
+    "ignore": true,
+    "hidden": false
   },
   {
     "id": "stroemwasenius",
@@ -893,14 +892,6 @@ const feeds = [
     "enabled": true
   },
   {
-    "id": "staale_utslagsnes_fra_loensj",
-    "title": "De 10 siste fra Ståle Utslagsnes fra Lønsj",
-    "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
-  },
-  {
     "id": "supernytt",
     "title": "De 10 siste fra Supernytt",
     "season": null,
@@ -909,20 +900,12 @@ const feeds = [
     "hidden": true
   },
   {
-    "id": "saann_er_du",
-    "title": "De 10 siste fra Sånn er du",
+    "id": "tazte_priv",
+    "title": "De 12 siste fra Tazte Priv",
     "season": null,
     "enabled": false,
     "ignore": true,
-    "hidden": true
-  },
-  {
-    "id": "tazte_priv",
-    "title": "De 10 siste fra Tazte Priv",
-    "season": null,
-    "enabled": true,
-    "ignore": false,
-    "episodes": 0
+    "hidden": false
   },
   {
     "id": "teige_lydstudio",
@@ -939,6 +922,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "the_kaass_furuseths",
+    "title": "De 10 siste fra The Kåss Furuseths",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "to_hvite_menn",
@@ -958,11 +947,11 @@ const feeds = [
   },
   {
     "id": "tore_og_einars_podkast_om_norge",
-    "title": "De 10 siste fra Tore og Einars podkast om Norge",
+    "title": "De 16 siste fra Tore og Einars podkast om Norge",
     "season": null,
-    "enabled": true,
-    "ignore": false,
-    "episodes": 0
+    "enabled": false,
+    "ignore": true,
+    "hidden": false
   },
   {
     "id": "tore_sagens_podkast",
@@ -971,6 +960,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "trygdekontoret",
+    "title": "De 10 siste fra Trygdekontoret",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "turister",
@@ -1047,9 +1042,15 @@ const feeds = [
     "hidden": true
   },
   {
-    "id": "bok_i_p2",
-    "title": "De 10 siste fra Åpen bok",
-    "season": "LATEST_SEASON",
+    "id": "xl_podkasten",
+    "title": "De 10 siste fra XL - podkasten",
+    "season": null,
+    "enabled": false
+  },
+  {
+    "id": "yeblikket",
+    "title": "De 10 siste fra Øyeblikket",
+    "season": null,
     "enabled": true
   }
 ]
