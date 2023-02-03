@@ -875,9 +875,9 @@ const feeds = [
     "id": "steinar_og_bjoerns_baerbare_fredagsparty",
     "title": "De 10 siste fra Steinar og Bjørns bærbare fredagsparty",
     "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
+    "enabled": true,
+    "ignore": false,
+    "episodes": 0
   },
   {
     "id": "stroemwasenius",
