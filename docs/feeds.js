@@ -81,7 +81,9 @@ const feeds = [
     "id": "brannbamsen_bjoernis",
     "title": "De 10 siste fra Brannbamsen Bjørnis",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "brenner_deler_dikt",
@@ -584,7 +586,8 @@ const feeds = [
     "id": "mysterier_fra_norge",
     "title": "De 10 siste fra Mysterier fra Norge",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "hidden": true
   },
   {
     "id": "natt_til_loerdag",
