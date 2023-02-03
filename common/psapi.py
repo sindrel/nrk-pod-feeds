@@ -13,7 +13,7 @@ def get_all_podcast_episodes(podcast_id):
 
     episodes = []
     while True:
-        r = requests.get(url)
+        r = requests.get(url, headers=headers)
         if not r.ok:
             logging.info(f"Unable to fetch podcast episodes ({url} returned {r.status_code})")
             return None
@@ -35,7 +35,7 @@ def get_podcast_episodes(podcast_id, season = None, format = "json"):
     if season:
         url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/seasons/{season}?page=1&pageSize=10&sort=desc"
 
-    r = requests.get(url)
+    r = requests.get(url, headers=headers)
     if not r.ok:
         logging.info(f"Unable to fetch podcast episodes ({url} returned {r.status_code})")
         return None
@@ -52,7 +52,7 @@ def get_episode_manifest(podcast_id, episode_id, format = "json"):
     logging.info(f"  Fetching assets for episode {episode_id}...")
 
     url = f"{api_base_url}/playback/manifest/podcast/{podcast_id}/{episode_id}"
-    r = requests.get(url)
+    r = requests.get(url, headers=headers)
 
     if not r.ok:
         logging.info(f"  Unable to fetch episode manifest ({url} returned {r.status_code})")
@@ -67,7 +67,7 @@ def get_podcast_metadata(podcast_id, format = "json"):
     logging.info(f"Fetching metadata for podcast {podcast_id}...")
 
     url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}"
-    r = requests.get(url)
+    r = requests.get(url, headers=headers)
 
     if not r.ok:
         logging.info(f"Unable to fetch podcast metadata ({url} returned {r.status_code})")
@@ -77,3 +77,36 @@ def get_podcast_metadata(podcast_id, format = "json"):
         return r.text
 
     return r.json()
+
+def get_all_podcasts():
+    url = f"{api_base_url}/radio/search/categories/podcast?take=1000"
+
+    podcasts = {}
+    series_c = 0
+
+    while True:
+        r = requests.get(url, headers=headers)
+        if not r.ok:
+            logging.error(f"Unable to fetch podcasts ({url} returned {r.status_code})")
+            return None
+
+        for series in r.json()["series"]:
+            if series['type'] != "podcast":
+                continue
+
+            logging.debug(f"Found seriesId {series['title']} ({series['seriesId']})")
+
+            podcasts[series['seriesId']] = {
+                "seriesId" : series['seriesId'],
+                "title" : series['title'],
+            }
+
+            series_c+=1
+        
+        if not "next" in r.json()["_links"]:
+            break
+
+        url = api_base_url + r.json()["_links"]["next"]["href"]
+
+    logging.info(f"Discovered {len(podcasts)} podcast(s) in a total of {series_c} items in search result")
+    return podcasts

@@ -7,14 +7,38 @@ def test_get_podcast_metadata():
 
     metadata = psapi.get_podcast_metadata(podcast_id)
 
-    assert metadata != None
+    assert "title" in metadata["series"]["titles"]
+    assert "url" in metadata["series"]["squareImage"][4]
+    assert "href" in metadata["_links"]["share"]
+    assert "name" in metadata["_links"]["seasons"][0]
 
 def test_get_podcast_episodes():
     podcast_id = "berrum_beyer_snakker_om_greier"
 
     episodes = psapi.get_podcast_episodes(podcast_id)
 
+    for episode in episodes:
+        assert "title" in episode['titles']
+        assert "subtitle" in episode['titles']
+        assert "date" in episode
+        assert "episodeId" in episode
+        assert "durationInSeconds" in episode
+
     assert len(episodes) == 10
+
+def test_get_all_podcast_episodes():
+    podcast_id = "kongerekka"
+
+    episodes = psapi.get_all_podcast_episodes(podcast_id)
+    
+    for episode in episodes:
+        assert "title" in episode['titles']
+        assert "subtitle" in episode['titles']
+        assert "date" in episode
+        assert "episodeId" in episode
+        assert "durationInSeconds" in episode
+
+    assert len(episodes) > 0
 
 def test_get_episode_manifest():
     podcast_id = "kongerekka"
@@ -22,7 +46,8 @@ def test_get_episode_manifest():
     episodes = psapi.get_podcast_episodes(podcast_id)
     manifest = psapi.get_episode_manifest(podcast_id, episodes[0]["episodeId"])
 
-    assert manifest != None
+    assert "mimeType" in manifest["playable"]["assets"][0]
+    assert "url" in manifest["playable"]["assets"][0]
 
 def test_get_latest_podcast_season():
     podcast_id = "kongerekka"
@@ -40,9 +65,9 @@ def test_get_podcast_episodes_by_season():
 
     assert len(episodes) == 10
 
-def test_get_all_podcast_episodes():
-    podcast_id = "kongerekka"
+def test_get_all_podcasts():
+    podcasts = psapi.get_all_podcasts()
 
-    episodes = psapi.get_all_podcast_episodes(podcast_id)
-
-    assert len(episodes) > 0
+    for podcast_k, podcast in podcasts.items():
+        assert "seriesId" in podcast
+        assert "title" in podcast

@@ -22,7 +22,6 @@ def test_write_feeds_file():
     saved.close()
 
     assert str
-    #assert str == f"const feeds = {podcasts}"
 
 def test_get_podcasts_config():
     podcasts_cfg_file = "podcasts.json"

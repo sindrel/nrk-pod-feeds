@@ -1,5 +1,8 @@
 # Open NRK Podcast Feeds
-Publishes RSS feeds with the last 10 episodes of every configured podcast, without delay. For personal use.
+![update-podcast-feeds badge](https://github.com/sindrel/nrk-pod-feeds/actions/workflows/update_feeds.yml/badge.svg)
+![python version badge](https://badgen.net/pypi/python/black)
+
+Publishes RSS feeds with the last 10 episodes of every configured podcast, without delay. For personal use.  
 
 ## Feeds
 **Go to [this page](https://sindrel.github.io/nrk-pod-feeds) for a list of available feeds.**
@@ -12,13 +15,22 @@ Feel free to open a pull request or create an issue.
   <summary>Instructions</summary>
 
 ## Getting started
-### Install dependencies
-```python3 -m pip install -r requirements.txt```
+### Set up venv and install dependencies (Linux & MacOS)
+```shell
+python3 -m venv venv
+source venv/bin/activate
+python3 -m pip install -r requirements.txt
+python3 -m pip install pytest
+```
 
 ### Run tests
-```pytest -v --disable-warnings --log-cli-level=DEBUG```
+```shell
+pytest -v --disable-warnings --log-cli-level=DEBUG
+```
 
 ### Build or update podcast feeds
-```python3 generate_feeds.py```
+```shell
+python3 generate_feeds.py
+```
 
 </details>
