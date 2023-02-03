@@ -1,5 +1,8 @@
 # Open NRK Podcast Feeds
-Publishes RSS feeds with the last 10 episodes of every configured podcast, without delay. For personal use.
+![update-podcast-feeds badge](https://github.com/sindrel/nrk-pod-feeds/actions/workflows/update_feeds.yml/badge.svg)
+![python version badge](https://badgen.net/pypi/python/black)
+
+Publishes RSS feeds with the last 10 episodes of every configured podcast, without delay. For personal use.  
 
 ## Feeds
 **Go to [this page](https://sindrel.github.io/nrk-pod-feeds) for a list of available feeds.**
