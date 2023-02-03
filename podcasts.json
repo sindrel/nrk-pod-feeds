@@ -9,7 +9,7 @@
         "id": "are_og_odin",
         "title": "De 10 siste fra Are og Odin",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "baksnakk",
@@ -50,7 +50,7 @@
     {
         "id": "filmpolitiet",
         "title": "De 10 siste fra Filmpolitiet",
-        "season": null,
+        "season": "LATEST_SEASON",
         "enabled": true
     },
     {
@@ -70,13 +70,13 @@
         "id": "god_bedring",
         "title": "De 10 siste fra God bedring",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "god_natt",
-        "title": "De 10 siste fra God Natt",
+        "title": "De 10 siste fra God natt",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "heia_fotball",
@@ -94,13 +94,13 @@
         "id": "historiske_kjendiser",
         "title": "De 10 siste fra Historiske kjendiser",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "kongerekka",
         "title": "De 10 siste fra Kongerekka",
-        "season": "LATEST_SEASON",
-        "enabled": true
+        "season": null,
+        "enabled": false
     },
     {
         "id": "loerdagsraadet",
@@ -118,7 +118,7 @@
         "id": "musikkrommet",
         "title": "De 10 siste fra Musikkrommet",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "nokke_for_seg_sjoel",
@@ -135,9 +135,9 @@
     },
     {
         "id": "radiodokumentaren",
-        "title": "De 10 siste fra Radiodok",
+        "title": "De 10 siste fra Historier fra virkeligheten",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "radioresepsjonen",
@@ -150,7 +150,7 @@
         "id": "skitprat",
         "title": "De 10 siste fra Skitprat med Jens og Isak",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "spraakteigen",
@@ -162,7 +162,7 @@
         "id": "statens_mal_for_medarbeidersamtale",
         "title": "De 10 siste fra Statens mal for medarbeidersamtale",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "the_kaass_furuseths",
@@ -191,6 +191,836 @@
     {
         "id": "yeblikket",
         "title": "De 10 siste fra Øyeblikket",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "22_juli_-_hvordan_kunne_det_skje",
+        "title": "De 10 siste fra 22. JULI - Hvordan kunne det skje?",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "72_timer",
+        "title": "De 10 siste fra 72 timer",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "andakten",
+        "title": "De 10 siste fra Andakten",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "andregenerasjonen",
+        "title": "De 10 siste fra Andregenerasjonen",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "billis_og_bollos",
+        "title": "De 10 siste fra Billis og Bollos",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "bingen",
+        "title": "De 10 siste fra Bingen – historier fra bygda",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "brannbamsen_bjoernis",
+        "title": "De 10 siste fra Brannbamsen Bjørnis",
+        "season": "LATEST_SEASON",
+        "enabled": false
+    },
+    {
+        "id": "brenner_deler_dikt",
+        "title": "De 10 siste fra Brenner deler dikt",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "brillebjoerns_kvissvas",
+        "title": "De 10 siste fra Brillebjørns Kvissvas",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "clue",
+        "title": "De 10 siste fra CLUE",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "p060ms2h",
+        "title": "De 10 siste fra Death in Ice Valley",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "delfi_og_dolfy",
+        "title": "De 10 siste fra Delfi og Dolfy",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "dilemmaklemma",
+        "title": "De 10 siste fra Dilemmaklemma",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "einstein__paa_sporet_av_den_toeyde_tid",
+        "title": "De 10 siste fra Einstein – på sporet av den tøyde tid",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "etikketaten",
+        "title": "De 10 siste fra Etikketaten",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "eventyret_om_vazelina_bilopphoeggers",
+        "title": "De 10 siste fra Eventyret om Vazelina Bilopphøggers",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "familiene_paa_orderud",
+        "title": "De 10 siste fra Familiene på Orderud",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "fantorangens_lydmysterier",
+        "title": "De 10 siste fra Fantorangens lydmysterier",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "feriestemning",
+        "title": "De 10 siste fra Feriestemning",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "fredagspanelet",
+        "title": "De 10 siste fra Fredagspanelet",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "gfestallan_lisain",
+        "title": "De 10 siste fra Gáfestallan Lisain",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "googla_med_synnoeve_svaboe",
+        "title": "De 10 siste fra Googla med Synnøve Svabø",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "gozuid_alde",
+        "title": "De 10 siste fra Gozuid alde",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "groess_og_gru",
+        "title": "De 10 siste fra Grøss og gru",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "gaaten_i_isdalen",
+        "title": "De 10 siste fra Gåten i Isdalen",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "hos_peder",
+        "title": "De 10 siste fra Hos Peder",
+        "season": "LATEST_SEASON",
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "hoera",
+        "title": "De 10 siste fra Hør'a!",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "i_doedens_spor",
+        "title": "De 10 siste fra I dødens spor",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "i_elsa_laulas_fotspor",
+        "title": "De 10 siste fra I Elsa Laulas fotspor",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "i_karantene_med_ronny_og_tuva",
+        "title": "De 10 siste fra I karantene med Ronny og Tuva",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "jan_olsen_fra_loensj",
+        "title": "De 10 siste fra Jan Olsen fra Lønsj",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "jonas_og_henrik",
+        "title": "De 10 siste fra Jonas og Henrik",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "julestemning",
+        "title": "De 10 siste fra Julestemning med Live og Ronny",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "juntafil",
+        "title": "De 10 siste fra Juntafil",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "karriereveilederen",
+        "title": "De 10 siste fra Karriereveilederen",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "katakombens_hemmelighet_",
+        "title": "De 10 siste fra Katakombens hemmelighet ",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "kjente_boeker_paa_4_minutter",
+        "title": "De 10 siste fra Kjente bøker på 4 minutter",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "klassikere_fra_p3-arkivet",
+        "title": "De 10 siste fra Klassikere fra P3-arkivet",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "kokosbananas",
+        "title": "De 10 siste fra Kokosbananas",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "koselig",
+        "title": "De 10 siste fra Koselig",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "kraft",
+        "title": "De 10 siste fra KRAFT",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "krig_paa_200_minutter",
+        "title": "De 10 siste fra Krig på 200 minutter",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "kroppen",
+        "title": "De 10 siste fra Kroppen",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "kunne_vaert_meg",
+        "title": "De 10 siste fra Kunne vært meg",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "kurer",
+        "title": "De 10 siste fra Kurer",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "labyrinthemmeligheter",
+        "title": "De 10 siste fra Labyrinthemmeligheter",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "lindmo_og_co",
+        "title": "De 10 siste fra Lindmo og Co",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "lyden_av_17_mai",
+        "title": "De 10 siste fra Lyden av 17. mai",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "lyden_av_nytt_paa_nytt",
+        "title": "De 10 siste fra Lyden av Nytt på Nytt",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "lystad_og_mathisens_radioshow",
+        "title": "De 10 siste fra Lystad og Mathisens radioshow",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "loensj_med_rune_nilson",
+        "title": "De 10 siste fra Lønsj med Rune Nilson",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "manin_ja_danin",
+        "title": "De 10 siste fra Manin ja danin",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "maskoramapodkasten",
+        "title": "De 10 siste fra Maskorama-podkasten",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "mellom_oss",
+        "title": "De 10 siste fra Mellom oss",
+        "season": "LATEST_SEASON",
+        "enabled": false
+    },
+    {
+        "id": "mesterdetektiven_mali",
+        "title": "De 10 siste fra Mesterdetektiven Mali",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "min_foerste_gang",
+        "title": "De 10 siste fra Min første gang",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "min_venn_marlon",
+        "title": "De 10 siste fra Min venn Marlon",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "mitt_liv_med_hund",
+        "title": "De 10 siste fra Mitt liv med hund",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "museum",
+        "title": "De 10 siste fra Museum - et program om norsk historie",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "mysterier_fra_norge",
+        "title": "De 10 siste fra Mysterier fra Norge",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "radioteatrets_paaskekrim",
+        "title": "De 10 siste fra Mørke fortellinger",
+        "season": "LATEST_SEASON",
+        "enabled": false
+    },
+    {
+        "id": "natt_til_loerdag",
+        "title": "De 10 siste fra Natt til lørdag",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "nei_nei_nei",
+        "title": "De 10 siste fra Nei nei nei",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "nesten_helt_sant_",
+        "title": "De 10 siste fra Nesten helt sant ",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "nrkscenen",
+        "title": "De 10 siste fra NRK-scenen",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "o-fag",
+        "title": "De 10 siste fra O-fag",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "p3_dokumentar",
+        "title": "De 10 siste fra P3 Dokumentar",
+        "season": "LATEST_SEASON",
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "p3morgen",
+        "title": "De 10 siste fra P3morgen",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "popaganda",
+        "title": "De 10 siste fra Popaganda",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "psykologen",
+        "title": "De 10 siste fra Psykologen",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "purk_eller_skurk",
+        "title": "De 10 siste fra Purk eller skurk?",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "paalogga",
+        "title": "De 10 siste fra Pålogga",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "radiolegen",
+        "title": "De 10 siste fra Radiolegen",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "radiomat",
+        "title": "De 10 siste fra Radiomat",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "radioresepsjonens_arkivpodkast",
+        "title": "De 10 siste fra Radioresepsjonens arkivpodkast",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "radioteatret",
+        "title": "De 10 siste fra Radioteatret",
+        "season": "LATEST_SEASON",
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "roeverradion_i_nrk_p2",
+        "title": "De 10 siste fra Røverradion i NRK P2",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "salongen",
+        "title": "De 10 siste fra Salongens lesesirkel ",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "smi_horror",
+        "title": "De 10 siste fra Sámi Horror",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "satiriks_redaksjonsmoete",
+        "title": "De 10 siste fra Satiriks redaksjonsmøte",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "seriesnakk",
+        "title": "De 10 siste fra Seriesnakk: Jenta som forsvant",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "sex_over_60",
+        "title": "De 10 siste fra Sex over 60",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "skampod",
+        "title": "De 10 siste fra Skampod",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "snoefall",
+        "title": "De 10 siste fra Snøfall",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "sommer_i_p2",
+        "title": "De 10 siste fra Sommer og vinter i P2",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "sophie_og_fetisha",
+        "title": "De 10 siste fra Sophie og Fetisha",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "sos_noedtelefonen",
+        "title": "De 10 siste fra SOS Nødtelefonen",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "stanghelle",
+        "title": "De 10 siste fra Stanghelle",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "steinar_og_bjoerns_baerbare_fredagsparty",
+        "title": "De 10 siste fra Steinar og Bjørns bærbare fredagsparty",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "stroemwasenius",
+        "title": "De 10 siste fra Strøm/Wasenius",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "studio_2",
+        "title": "De 10 siste fra Studio 2",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "staale_utslagsnes_fra_loensj",
+        "title": "De 10 siste fra Ståle Utslagsnes fra Lønsj",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "supernytt",
+        "title": "De 10 siste fra Supernytt",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "saann_er_du",
+        "title": "De 10 siste fra Sånn er du",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "tazte_priv",
+        "title": "De 10 siste fra Tazte Priv",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "teige_lydstudio",
+        "title": "De 10 siste fra Teige lydstudio",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "tett_paa",
+        "title": "De 10 siste fra Tett på",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "to_hvite_menn",
+        "title": "De 10 siste fra To hvite menn",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "tomms_afrikanske_fortellinger",
+        "title": "De 10 siste fra Tomms afrikanske fortellinger",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "tore_og_einars_podkast_om_norge",
+        "title": "De 10 siste fra Tore og Einars podkast om Norge",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "tore_sagens_podkast",
+        "title": "De 10 siste fra Tore Sagens podkast",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "turister",
+        "title": "De 10 siste fra Turister",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "ubaatsaken",
+        "title": "De 10 siste fra Ubåtsaken",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "ukjent",
+        "title": "De 10 siste fra Ukjent: Er det noen der ute?",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "ulrikkes_univers",
+        "title": "De 10 siste fra Ulrikkes univers",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "utakt",
+        "title": "De 10 siste fra Utakt",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "verdens_ekleste_podkast",
+        "title": "De 10 siste fra Verdens ekleste podkast",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "verdens_rikeste_land",
+        "title": "De 10 siste fra Verdens Rikeste Land",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "verdiboersen",
+        "title": "De 10 siste fra Verdibørsen",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "vg3",
+        "title": "De 10 siste fra VG3",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "westworld-podden",
+        "title": "De 10 siste fra Westworld-podden",
+        "season": null,
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
+    },
+    {
+        "id": "bok_i_p2",
+        "title": "De 10 siste fra Åpen bok",
         "season": "LATEST_SEASON",
         "enabled": true
     }
