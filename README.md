@@ -15,7 +15,7 @@ Feel free to open a pull request or create an issue.
   <summary>Instructions</summary>
 
 ## Getting started
-### Set up venv and install dependencies
+### Set up venv and install dependencies (Linux & MacOS)
 ```shell
 python3 -m venv venv
 source venv/bin/activate
