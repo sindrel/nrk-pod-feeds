@@ -29,6 +29,7 @@ jobs:
         run: python discover_feeds.py
 
       - name: Create Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v4
         with:
           title: "chore(auto): Update podcast configuration"
@@ -36,6 +37,18 @@ jobs:
           branch: update-podcast-configuration
           commit-message: "chore(auto): Update podcast configuration"
           committer: nrk-pod-feeds auto-discovery <actions@github.com>
+          labels: enhancement
           delete-branch: true
           add-paths: |
             podcasts.json
+      
+      - name: Checkout PR branch
+        if: ${{ steps.cpr.outputs.pull-request-operation == 'created' }}
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: update-podcast-configuration
+
+      - name: Run tests on PR branch
+        if: ${{ steps.cpr.outputs.pull-request-operation == 'created' }}
+        run: pytest -vv
