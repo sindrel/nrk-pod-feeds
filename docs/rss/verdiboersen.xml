@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 03 Feb 2023 17:44:44 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Feb 2023 13:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Feb 2023 05:26:02 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>Hva skal vi ha lov til å selge?</title>
+      <description><![CDATA[Om kroppen som handelsvare]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/8886fb76-f274-4873-b594-d77a26689bb0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/8886fb76-f274-4873-b594-d77a26689bb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:29</itunes:duration>
+      <pubDate>Sat, 04 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title> Gerorg Santos og hans absurde løgner</title>
       <description><![CDATA[Hvorfor skaper politikerens løgner et slikt raseri?
@@ -88,17 +96,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/7357bb7e-0965-495d-8488-4227858224d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:43</itunes:duration>
       <pubDate>Fri, 13 Jan 2023 11:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>-I dag forventer vi lange og gode liv</title>
-      <description><![CDATA[Men den forventingen kan selvfølgelig ikke oppfylles.
-Peder Kjøs og Einar Duenger Bøhn i  3. del av serien «Tidsånden»
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/8bab6d00-ac41-4455-8ab9-7a6d3a08c357_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/8bab6d00-ac41-4455-8ab9-7a6d3a08c357_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:37</itunes:duration>
-      <pubDate>Sun, 08 Jan 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
