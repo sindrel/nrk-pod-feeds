@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 16:37:01 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Feb 2023 16:59:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 04 Feb 2023 12:44:24 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Feb 2023 13:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
+    <item>
+      <title>Henrik Farley / Annika Momrak / Thomas Giertsen</title>
+      <description><![CDATA[Er Petter sitt hjerte like knust? / PROBLEMER: Nysgjerrige Nils / Konsertbilletter kjøpt i fylla / Starten på voksenlivet ble ikke som planlagt / Shoppegal mamma / Introvert bryllup? / Medstudent med rusproblem? / Overstaying / Kan voksne ha kosedyr i senga?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/bc69561e-b6c3-4af9-8924-1f8d76dc1e88_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/bc69561e-b6c3-4af9-8924-1f8d76dc1e88_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:19:15</itunes:duration>
+      <pubDate>Sat, 04 Feb 2023 13:02:00 +0100</pubDate>
+    </item>
     <item>
       <title>Steketakke-takk, pengeproblemer og tannlegehistorie</title>
       <description><![CDATA[Vi hører fra: Grogu med forbrukslån, lærere med opplysninger og en trøtt lege... og tusen takk til lytter Guro som tok insj til steketakkespleis!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/34af6da0-ad5e-4625-80e4-79ad0f3e9046_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:31</itunes:duration>
       <pubDate>Fri, 06 Jan 2023 15:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Høydepunkter fra 2022 - nr.11</title>
-      <description><![CDATA[Høydepunkter fra 2022 - nr.11]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/23ee45fc-d869-4110-bf97-34138fcfaba6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/23ee45fc-d869-4110-bf97-34138fcfaba6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:44</itunes:duration>
-      <pubDate>Sat, 31 Dec 2022 09:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

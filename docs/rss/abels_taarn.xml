@@ -6,11 +6,66 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Abels tårn. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/abels_taarn for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 27 Jan 2023 12:46:53 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Jan 2023 10:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 04 Feb 2023 12:44:16 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Feb 2023 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ"/>
+    <item>
+      <title>Abels tårn - Kan KI snakke med insekter? ... Vil dette ENDRE ALT?</title>
+      <description><![CDATA[- Kan insekter snakke? Spørsmålet er ikke stilt av et menneske, men av en KI. Og vi lurer på to ting: vil kunstig intelligens gjøre at vi forstår insektspråk  - og vil inntoget av ChatGPT og lignende ENDRE ALT?
+- Hvordan skal vi forstå fysikkens prat om mange dimensjoner? Kan vi få hjelp av KI?
+- Den beste strategien for å vinne i pantelotteriet.
+- Kan sopp hjelpe oss med å bli kvitt miljøgifter, som PFAS?
+- Tar det aldri slutt på nye melodier?
+- Hva mener statistikere når de sier det er mer variasjon internt i en gruppe, enn mellom ulike grupper?
+
+Panelet:
+Partikkelfysiker Anders Kvellestad
+Toksikolog Julie Sørlie Paus-Knudsen
+Statistiker Solveig Engebretsen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d3ebda42-43c5-4585-bb73-1c7fbc59bb6f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d3ebda42-43c5-4585-bb73-1c7fbc59bb6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:26</itunes:duration>
+      <pubDate>Fri, 03 Feb 2023 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bevissthet # 5 - Narkose, flytsone og oppsummering</title>
+      <description><![CDATA[Bevissthetsserien er ferdig. Vi oppsummerer med et nytt panel som kommenterer innspill og spørsmål vi har fått fra lyttere i løpet av de siste ukene.
+
+Panelet:
+Gaute Einevoll
+Hedda Hassel Mørch
+Bjørn Erik Juel]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fbe2ef76-1721-47c1-b63c-e92b74202fd6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fbe2ef76-1721-47c1-b63c-e92b74202fd6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:07</itunes:duration>
+      <pubDate>Fri, 03 Feb 2023 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Abels tårn - Løve vs Bjørn vs Slange vs alle dyr i verden. Hvem vinner?</title>
+      <description><![CDATA[
+Hvis vi sperrer alle landdyr i verden inne i samme innhegning, hvilket dyr overlever til slutt?
+
+Hvor ofte bør vi dusje?
+
+Hvordan må vi kjøre el-bil på langtur for at tiden som brukes til ladninger under veis- og kjørehastigheten begge blir optimale?
+
+Hvorfor har salamandere pupiller som ser ut som et nøkkelhull?
+
+Vil en bowlingball og en fjær treffe bakken like hardt hvis de faller i vakuum?
+
+Når får vi medisiner mot åreforkalkning?
+
+I panelet:
+Fysiker - Anja Røyne                            
+Lege og forsker - Ida Kathrine Gravensteen   
+Forsker på dyrevelferd - Kristian Ellingsen-Dalskau]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/5422578f-9690-4ee7-a9f7-806d6e3d8b9b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/5422578f-9690-4ee7-a9f7-806d6e3d8b9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:56</itunes:duration>
+      <pubDate>Fri, 27 Jan 2023 11:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Bevissthet #4 - Maskinene kommer</title>
       <description><![CDATA[Elon Musk frykter at kunstige intelligenser vil true menneskeheten. Men er maskinene farlige hvis de ikke har bevissthet?
@@ -114,56 +169,6 @@ Paleontolog Lene Liebe Delsett]]></description>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d56f991c-8419-44f0-b45e-43e4fc39330c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Fri, 06 Jan 2023 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Abels tårn - Årskavalkade! ... Pandikulering, kalde damerumper, sjark til månen og mye mer</title>
-      <description><![CDATA[Vi oppsummerer noen av de beste radioøyeblikkene fra året som kom og gikk .
-Og - ønsker alle våre lyttere et riktig godt nytt år.
-
-Har du spørsmål, ris eller ros - ta gjerne kontakt med redaksjonen på NRK.no/abels]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/8a54a6eb-ee1c-4ba0-9e95-4296d987cabb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8a54a6eb-ee1c-4ba0-9e95-4296d987cabb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:02</itunes:duration>
-      <pubDate>Fri, 30 Dec 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Abels juletårn - Akevitt, pinnkjøttoppsøt, Gud som foton og evangeliet om AI</title>
-      <description><![CDATA[Abels tårns tradisjonsrike juleavslutning fra Nasjonalbiblioteket. Dyp eksistensialisme og en ny vri på multekremen                       
-
--Er jul kun religion?			
-
--Hva kan dempe pinnekjøtt-oppstøt? 				
-
--Kan Gud være lys? 					
-
--Hvilken farge har Big Bang?				
-
--Hvorfor smaker banan så mye?	 
-
--Kan man i fremtiden bli lastet opp på nettet? 			
-
--Kan vi forstå hvordan AI "tenker"?			
-
--Kan salmiakklakris svi av smaksløkene?	  	
-
-Deilig er jorden]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/906f3f72-0ab4-4a9f-ab03-49df48d2bf13_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/906f3f72-0ab4-4a9f-ab03-49df48d2bf13_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Fri, 23 Dec 2022 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Abels tårn - Er vi mennesker monogame, sånn egentlig?</title>
-      <description><![CDATA[En lytter reagerte på at en beverforsker nylig uttalte "de er som oss, monogame livet ut" i Abels tårn.
-Derfor har vi satt sammen et lite panel for å drøfte - monogamiet. 
-I panelet: 
-Sosialantropolog Runar Døving
-Rettsmedisiner Ida Kathrine Gravensteen
-Biolog/zoolog Petter Bøckman]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c16d1e3a-5686-4fa1-97d7-fb42a4df58f5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c16d1e3a-5686-4fa1-97d7-fb42a4df58f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:23</itunes:duration>
-      <pubDate>Mon, 19 Dec 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
