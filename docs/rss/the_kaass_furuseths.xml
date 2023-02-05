@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten The Kåss Furuseths. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/the_kaass_furuseths for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 29 Jan 2023 05:26:07 +0000</lastBuildDate>
-    <pubDate>Sun, 29 Jan 2023 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sun, 05 Feb 2023 05:25:38 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Lars Vaular</title>
+      <description><![CDATA[Lars Vaular forteller om å gifte seg med bollesveis, om et underlig thaimassasje-rykte og en sterk fascinasjon for Prince. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/3ae11de2-852c-496d-96ef-3e08ed77d18c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/3ae11de2-852c-496d-96ef-3e08ed77d18c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:48</itunes:duration>
+      <pubDate>Sun, 05 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Else besøker: Erlend Mørch</title>
       <description><![CDATA[Komiker og programskaper Erlend Mørch forteller om telefonsamtalen med John Cleese, og innrømmer hva som gjør ham skikkelig flau! ]]></description>
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/845f153a-c4de-4744-a146-53d5792fe443_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:06</itunes:duration>
       <pubDate>Sun, 04 Dec 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Else og Cecilie Ramona besøker: Metteson</title>
-      <description><![CDATA[Søstrene besøker artist Metteson, som snakker om alt fra «offside» i fotball, til hvordan man svarer i et Vogue-intervju.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/9247a6cf-115f-4fc0-baf1-0c9450dc2865_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/9247a6cf-115f-4fc0-baf1-0c9450dc2865_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:45</itunes:duration>
-      <pubDate>Sun, 27 Nov 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
