@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Burde vært pensum. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/burde_vaert_pensum for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 30 Jan 2023 05:26:47 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Jan 2023 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 06 Feb 2023 05:26:34 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Hva tenker hunden</title>
+      <description><![CDATA[Hunden er ikke alltid menneskets beste venn. Hundetrener Maren Teien Rørvik forklarer hva hunden tenker og hvorfor det er viktig å forstå hunden for å lykkes med hundetreningen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7374732c-72b4-4788-a96f-13519dac2fe7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7374732c-72b4-4788-a96f-13519dac2fe7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:40</itunes:duration>
+      <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hjelp, jeg skal føde!</title>
       <description><![CDATA[ Fødselslege Thorbjørn Brook Steen tar deg med på en fødsel fra start til slutt.]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/10c8f3f7-59a3-4af7-8e7d-12b9d204d53b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:16</itunes:duration>
       <pubDate>Mon, 26 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hva skjer hvis Russland angriper Norge? </title>
-      <description><![CDATA[Tormod Heier, professor ved Forsvarets høgskole, forklarer hva som skjer hvis Russland går til krig mot Norge. Hadde vi klart å forsvare oss selv? Medvirkende: Stein Helge Kingsrød, Tor Ivar Strømmen, Thea Baastad og Christian Hole.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/96ac71c1-0b24-40ba-b1c7-86c1c2b8d47e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/96ac71c1-0b24-40ba-b1c7-86c1c2b8d47e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:26</itunes:duration>
-      <pubDate>Mon, 19 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
