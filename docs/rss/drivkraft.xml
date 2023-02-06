@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Drivkraft. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/drivkraft for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Feb 2023 12:50:34 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Feb 2023 13:30:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 06 Feb 2023 13:37:52 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Feb 2023 14:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Runar Vatne</title>
+      <description><![CDATA[Investoren satt på verdier til over milliarden da han rundet 40 - og  kobler gjerne av i 300 km i timen på det som regnes som verdens farligste motorsportbane.  
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/37aeb2ce-750a-4076-af20-2f561f5df340_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/37aeb2ce-750a-4076-af20-2f561f5df340_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Mon, 06 Feb 2023 14:15:00 +0100</pubDate>
+    </item>
     <item>
       <title>Christian Lomsdalen</title>
       <description><![CDATA[Lederen for Human-Etisk Forbund ønsker å bli til kompost etter sin død. På den måten kan han fortsette å bidra.]]></description>
@@ -84,14 +94,6 @@ forstå og formidle tradisjonshåndverk.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/54db906a-12b3-4b34-ab9d-68b945a1cdc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:16</itunes:duration>
       <pubDate>Thu, 19 Jan 2023 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kari Killén</title>
-      <description><![CDATA[Hun har kjempet  for å beskytte barn mot omsorgssvikt i over 60 år - Kjærlighet er ikke nok, sier sosionomen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0522a387-6281-4984-9abb-bc5ad7e66789_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0522a387-6281-4984-9abb-bc5ad7e66789_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Thu, 12 Jan 2023 15:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
