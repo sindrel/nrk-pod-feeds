@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Historiske kjendiser. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/historiske_kjendiser for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 21 Dec 2022 05:26:10 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Dec 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 06 Feb 2023 08:32:23 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg"/>
+    <item>
+      <title>Elsa Laula Renberg – Rebellen fra Sápmi</title>
+      <description><![CDATA[Dette er historien om den samiske pioneren Elsa Laula Renberg. En egenrådig og ukuelig aktivist som banet vei for reformer, men som også stanget mot et samfunn som ikke var klare for en som henne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/5e98fdb2-93dc-42bd-9c65-bdd573eee444_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/5e98fdb2-93dc-42bd-9c65-bdd573eee444_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:16</itunes:duration>
+      <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Leonardo da Vinci – Historiens største geni</title>
       <description><![CDATA[Dette er historien om et av tidenes største genier, som til tross for sin tendens til å ikke fullføre prosjekter, malte et av verdens mest kjente kunstverk: Mona Lisa.]]></description>
@@ -29,7 +37,7 @@
     </item>
     <item>
       <title>Grace O’Malley – Legendarisk piratdronning</title>
-      <description><![CDATA[Dette er historien om havets dronning,en hensynsløs pirat somkjempet for å overleve i et Irland i ferd med å bli erobret av en fremmed makt. Helt utenskrupler tok det hun trengte – og hadde lyst på.]]></description>
+      <description><![CDATA[Dette er historien om havets dronning, en hensynsløs pirat som kjempet for å overleve i et Irland i ferd med å bli erobret av en fremmed makt. Helt uten skrupler tok det hun trengte – og hadde lyst på.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/187219b6-beea-462b-8db5-89186aae878e_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/187219b6-beea-462b-8db5-89186aae878e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:20</itunes:duration>
@@ -37,9 +45,7 @@
     </item>
     <item>
       <title>Asbjørnsen og Moe – Hele Norges eventyrere</title>
-      <description><![CDATA[Dette er historien om Peter Christen Asbjørnsen og Jørgen Moe.
-Eventyrerne som i et land på leting etter identitet, reiste rundt og samlet fortellinger fra det
-norske folk, og i samme slengen fant nasjonalfølelsen til hele kongeriket.]]></description>
+      <description><![CDATA[Dette er historien om Peter Christen Asbjørnsen og Jørgen Moe. Eventyrerne som i et land på leting etter identitet, reiste rundt og samlet fortellinger fra det norske folk, og i samme slengen fant nasjonalfølelsen til hele kongeriket.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d46e342c-c8b4-42e3-9e57-f360e7bf0efe_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d46e342c-c8b4-42e3-9e57-f360e7bf0efe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:30</itunes:duration>
@@ -47,8 +53,7 @@ norske folk, og i samme slengen fant nasjonalfølelsen til hele kongeriket.]]></
     </item>
     <item>
       <title>Charlie Chaplin – Fra fattigdom til Hollywoods yndling</title>
-      <description><![CDATA[Dette er historien om den ikoniske stumfilmstjernen, som med kløkt
-og komisk talent tok seg fra fattigdom til å bli et kjent fjes verden over.]]></description>
+      <description><![CDATA[Dette er historien om den ikoniske stumfilmstjernen, som med kløkt og komisk talent tok seg fra fattigdom til å bli et kjent fjes verden over.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/b49ded34-d020-4659-82d8-aeb190766e2a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/b49ded34-d020-4659-82d8-aeb190766e2a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:44</itunes:duration>
@@ -64,7 +69,7 @@ og komisk talent tok seg fra fattigdom til å bli et kjent fjes verden over.]]><
     </item>
     <item>
       <title>Vlad III Tepes – Virkelighetens Dracula</title>
-      <description><![CDATA[Dette er historien om dragesønnenfra Transsylvania, som bleinspirasjonen til en av de mest fryktinngytende skapningene i skjønnlitteraturen: Vampyren.Men virkelighetens Dracula satte ikke tennene i offerets halspulsåre. Han spiddet dem påspisse påler.]]></description>
+      <description><![CDATA[Dette er historien om dragesønnen fra Transsylvania, som ble inspirasjonen til en av de mest fryktinngytende skapningene i skjønnlitteraturen: Vampyren. Men virkelighetens Dracula satte ikke tennene i offerets halspulsåre. Han spiddet dem på spisse påler.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d795ea9a-2d90-456e-afaf-eb3f5b4fd28d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d795ea9a-2d90-456e-afaf-eb3f5b4fd28d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:03</itunes:duration>
@@ -80,21 +85,11 @@ og komisk talent tok seg fra fattigdom til å bli et kjent fjes verden over.]]><
     </item>
     <item>
       <title>Sonja Henie – Hollywoodstjerne og banebrytende idrettstalent</title>
-      <description><![CDATA[Dette er historien om Sonja Henie, den ikoniske kunstløperen som tok
-med seg skøytene helt fra Frogner stadion til Hollywood, og klarte å vinne en hel verden. En
-verden som spant rundt henne selv.]]></description>
+      <description><![CDATA[Dette er historien om Sonja Henie, den ikoniske kunstløperen som tok med seg skøytene helt fra Frogner stadion til Hollywood, og klarte å vinne en hel verden. En verden som spant rundt henne selv.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/489202f7-8651-4b89-aa7a-c0bb92c2fb3f_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/489202f7-8651-4b89-aa7a-c0bb92c2fb3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:25</itunes:duration>
       <pubDate>Wed, 31 Aug 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Marsha P. Johnson – ikonisk dragqueen under fødselen til Pride</title>
-      <description><![CDATA[Dette er historien om et menneske som kjempet mot vold, undertrykkelse, rasisme og en mur av normer. Den sprakende energien hennes skapte gnister som ikke bare tente hennes egen kamp, men en verdensomfattende revolusjon.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/dc47f95a-0af3-46ea-a6f1-a11fa9da30a5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/dc47f95a-0af3-46ea-a6f1-a11fa9da30a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:26</itunes:duration>
-      <pubDate>Wed, 17 Aug 2022 03:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

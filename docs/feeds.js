@@ -279,7 +279,7 @@ const feeds = [
     "id": "historiske_kjendiser",
     "title": "De 10 siste fra Historiske kjendiser",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hoera",
