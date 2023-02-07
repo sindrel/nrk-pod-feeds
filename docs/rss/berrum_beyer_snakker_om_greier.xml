@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Berrum &amp; Beyer snakker om greier. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 03 Feb 2023 05:27:03 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Feb 2023 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 07 Feb 2023 05:26:39 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+    <item>
+      <title>Thailand: Bassenglegenden og servelat </title>
+      <description><![CDATA[Lars har dratt nedover og opplevd litt av hvert. Det blir preiking om altfor dyr vin, en levende legende og diskusjon om servelat. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/1897615d-8f0a-489a-8cc1-4dd6e108cbf3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/1897615d-8f0a-489a-8cc1-4dd6e108cbf3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Tue, 07 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Einar Duenger Bøhn: Meningen med livet? </title>
       <description><![CDATA[Lars drar til Thailand og derfor er filosof Einar Duenger Bøhn innom for å snakke om hva meningen med livet er? ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/9ce96376-4ac0-4458-a8c3-493d9abcfce8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:12:21</itunes:duration>
       <pubDate>Fri, 06 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Rakettbombe, Soppduxelles og Mandagstaco</title>
-      <description><![CDATA[Lars har vært vitne til en rakettbombe. Martin har lært et nytt ord på nyttårsaften. Sammen snakker de om å spise fredagstaco på mandag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f3e099e1-336f-4936-8e40-23fe3f2bdbb5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f3e099e1-336f-4936-8e40-23fe3f2bdbb5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:02:04</itunes:duration>
-      <pubDate>Tue, 03 Jan 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

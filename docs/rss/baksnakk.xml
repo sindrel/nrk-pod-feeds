@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Baksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baksnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 05:26:12 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Jan 2023 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 07 Feb 2023 05:26:37 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Måtte Lydia dra kjendiskortet?</title>
+      <description><![CDATA[Lydia glemte passet på byen og Zara har et spennende år foran seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/e8ca159c-7109-45d7-aad1-395936ea70ff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/e8ca159c-7109-45d7-aad1-395936ea70ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:19</itunes:duration>
+      <pubDate>Tue, 07 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title> «Jeg er That Girl»</title>
       <description><![CDATA[Lydia tester Zara på livsstilsmyter.]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/f67adb4b-885b-4d55-ab09-03781e00c6de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:33</itunes:duration>
       <pubDate>Tue, 06 Dec 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Litt mindre «rasshøl» i monitor - TAKK!</title>
-      <description><![CDATA[Milie er vikar for Zara i dagens episode, og sammen med Lydia snakker de om folkesykdommen: «Rasshøl»]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/774a7256-4beb-4c71-a72a-05b58f696fba_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/774a7256-4beb-4c71-a72a-05b58f696fba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:18</itunes:duration>
-      <pubDate>Tue, 29 Nov 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
