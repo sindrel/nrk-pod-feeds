@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ekko – samfunnspodden. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Feb 2023 05:26:42 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Feb 2023 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 07 Feb 2023 13:31:15 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Feb 2023 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Spørretime: Hvordan få et godt sexliv?</title>
+      <description><![CDATA[Lurer du på noe om sex? Sjansen er GOD for at du får svar her :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/83258358-1ca1-4a04-831f-a8e794133bb5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/83258358-1ca1-4a04-831f-a8e794133bb5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:47</itunes:duration>
+      <pubDate>Tue, 07 Feb 2023 14:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hva lærer personer med utviklingshemming om sex?</title>
       <description><![CDATA[Alle har krav på seksualundervisning, hvorfor opplever noen å bli tatt ut av timene på skolen da?    
@@ -37,8 +45,8 @@
       <pubDate>Tue, 31 Jan 2023 06:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Dette skjer om du får gonorè</title>
-      <description><![CDATA[Fem nordmenn får gonoré idag! Dèt er nemlig en av kjønnsykdommene som det blir mer av nå, og er virkelig en du ikke vil ha. Hør hvorfor her.  ]]></description>
+      <title>Dette skjer om du får gonoré</title>
+      <description><![CDATA[Fem nordmenn får gonoré i dag! Dèt er nemlig en av kjønnssykdommene som det blir mer av nå, og er virkelig en du ikke vil ha. Hør hvorfor her.  ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b5de3840-3f19-4c2c-9e44-947c5f8a6cf2_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b5de3840-3f19-4c2c-9e44-947c5f8a6cf2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:58</itunes:duration>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c67213c6-ae19-4dcd-ad65-8d4db4272240_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:35</itunes:duration>
       <pubDate>Wed, 18 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kan du bli syk av mobilen din?</title>
-      <description><![CDATA[Hjerneforskere mener hjernen bruker pauser i hverdagen til å "skape mening".  Bør du da plukke opp mobilen hver gang det ikke skjer noe?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4a37388a-c90a-4f0d-8429-104e16119e27_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4a37388a-c90a-4f0d-8429-104e16119e27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:48</itunes:duration>
-      <pubDate>Tue, 17 Jan 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
