@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 03 Feb 2023 17:44:42 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Feb 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2023 09:29:08 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2023 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g"/>
+    <item>
+      <title>Mossafår og spion-ballong</title>
+      <description><![CDATA[Vi byr på bombe-flaggermus, fotsvette og dødsårsaker mens vi lurer på om dyr lar seg imponere av oss mennesker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/d71796e4-62e2-4516-9dff-e1971f2ca267_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/d71796e4-62e2-4516-9dff-e1971f2ca267_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:03</itunes:duration>
+      <pubDate>Wed, 08 Feb 2023 10:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Alle presidentens dyr!</title>
       <description><![CDATA[Vi gjenbruker radio, slakter sponsorbilletter og sjekker hvem som er oppkalt etter krydder. Vi lærer deg å lage egen nasjon på gutterommet.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/d42d01b0-1e79-4861-bb1e-ec04a697f5fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:41</itunes:duration>
       <pubDate>Wed, 30 Nov 2022 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Dommer-reality og treplanting for pistol</title>
-      <description><![CDATA[Vi går i joggebukse og cowboystøvler, drikker Madagaskar-cola og diskuterer rosiner. Og vi tar siste loddtrekning fra mellomvalget i USA.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/d5def65a-5d00-4bc2-ac09-eb4c5c0b9add_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utakt/d5def65a-5d00-4bc2-ac09-eb4c5c0b9add_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:58</itunes:duration>
-      <pubDate>Wed, 23 Nov 2022 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
