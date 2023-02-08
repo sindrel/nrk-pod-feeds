@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Dynga. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/karakter for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 05:26:59 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Feb 2023 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 08 Feb 2023 05:27:39 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Pølsepodd: Varulv og pølselake </title>
+      <description><![CDATA[Martin vil sjekke pølsene i Svarige, Markus har hatt en skummel hendelse på natta og Henrik lager varulv-rollespill. Sammen svarer de på pølsespørsmål. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/d14ed16e-4415-445c-b5c5-50581e7d2e61_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/d14ed16e-4415-445c-b5c5-50581e7d2e61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:14</itunes:duration>
+      <pubDate>Wed, 08 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Pølsepodden: Pølsetest og Kile, gråte, prompe</title>
       <description><![CDATA[Martin har med en ny variant av "fuck, marry, kill", Markus ønsker seg ny en latter og Henrik har med en pløsetest. I tillegg blir det reisebrev fra utenlandskongen vår. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/karakter/37a3ea78-9002-4cb6-a281-1a622b3c559c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:19</itunes:duration>
       <pubDate>Mon, 19 Dec 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>The plane is banging up and down</title>
-      <description><![CDATA[Det blir prat om flyskrekk og Ai i dagens episode av Dynga. I tillegg starter gutta det ambisiøse målet å tømme bolla får jul. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/13ec2917-243f-48c1-af30-f0701115c24e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/13ec2917-243f-48c1-af30-f0701115c24e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:33</itunes:duration>
-      <pubDate>Wed, 14 Dec 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
