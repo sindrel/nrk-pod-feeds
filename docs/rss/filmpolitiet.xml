@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Filmpolitiet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/filmpolitiet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Feb 2023 16:38:01 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Feb 2023 17:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 09 Feb 2023 16:39:27 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Feb 2023 16:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA"/>
+    <item>
+      <title>«Titanic» 25 år: Har den holdt seg?</title>
+      <description><![CDATA[Storfilmen «Titanic» seiler nå på ny inn på norske kinoer. Vi mimrer om Kate og Leo og diskuterer om filmen har holdt seg. Og hva synes Sigurd – som aldri har sett filmen før nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/44e454fc-02b4-4932-823b-156c10aebfc2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/44e454fc-02b4-4932-823b-156c10aebfc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:06</itunes:duration>
+      <pubDate>Thu, 09 Feb 2023 16:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hollywoods store fabelmann </title>
       <description><![CDATA[Mesterregissør Steven Spielberg er kinoaktuell med «The Fabelmans». Vi anmelder filmen, diskuterer hvorfor Spielberg er så god til å skape kinomagi og kommer med våre favorittfilmer.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/d2776ba0-385f-4dc7-92c6-46f0982caef2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:54</itunes:duration>
       <pubDate>Thu, 08 Dec 2022 16:10:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Juletrash det er verdt å bruke tiden på!</title>
-      <description><![CDATA[Og juletrash du bør styre langt unna? Romantiske julefilmer, fulle av glitter og glossy bilder, men ikke nødvendigvis kvalitet, har blitt en egen sjanger. Vi diskuterer fenomenet, kommer med noen anbefalinger, og konstaterer hvilken film som er kronen på søppeldynga av det verste juletrashet der ute.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/f61d3533-e093-4603-afa8-6b1ae35047b9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/f61d3533-e093-4603-afa8-6b1ae35047b9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:25</itunes:duration>
-      <pubDate>Thu, 01 Dec 2022 15:50:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
