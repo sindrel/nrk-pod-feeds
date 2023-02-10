@@ -296,6 +296,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "hvordan_moettes_dere_",
+    "title": "De 10 siste fra Hvordan møttes dere? ",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "i_det_lange_loep",
     "title": "De 10 siste fra I det lange løp",
     "season": null,
