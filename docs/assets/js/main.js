@@ -10,14 +10,28 @@ function copyToClipboard(feed) {
 
 function listFeeds() {
     base_url = "https://sindrel.github.io/nrk-pod-feeds/rss/";
+    info_base_url = "https://radio.nrk.no/podkast/";
 
     feeds.forEach(feed => {
+        stateColor = "#338500"
+        stateMsg = "⬈"
+
         if(feed["hidden"]) {
             return;
         }
 
+        if(!feed["enabled"]) {
+            stateColor = "#eb8904"
+            stateMsg = "⬊"
+        }
+
+        if(feed["ignore"]) {
+            stateColor = "#333"
+            stateMsg = "⏹"
+        }
+
         feed_url = base_url + feed["id"] + ".xml";
-        item = `<h3>${feed["title"]}<br/><input type="text" size="50" value="${feed_url}" id="feed_url_${feed["id"]}"><button onclick="copyToClipboard('${feed["id"]}')">Copy</button><h3>`;
+        item = `<h4><font color="${stateColor}"><sup>${stateMsg}</sup></font> <a href="${info_base_url}${feed["id"]}" target="_blank">${feed["title"]}</a><br/><input type="text" size="40" value="${feed_url}" id="feed_url_${feed["id"]}" disabled> <button onclick="copyToClipboard('${feed["id"]}')">Copy</button><h3>`;
         
         document.getElementById("feeds_list").innerHTML += item;
     });
