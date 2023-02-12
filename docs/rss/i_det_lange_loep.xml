@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 03 Feb 2023 05:27:14 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Feb 2023 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sun, 12 Feb 2023 21:10:41 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/h1rA99YwnkIlpXi5MmE_8goxXUMs_fNtfXMKOAGDODkw"/>
+    <item>
+      <title>Slik trente Brå på sitt beste</title>
+      <description><![CDATA[Da 12 år gamle Oddvar Brå fortalte han ville bli best i verden, kastet bestefaren hjemmebrentapparatet og familien endret juletradisjonene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/c07c8905-e566-4d79-8604-7a3095887a09_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/c07c8905-e566-4d79-8604-7a3095887a09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:41:02</itunes:duration>
+      <pubDate>Fri, 10 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Johaug var best da hun veide mest</title>
       <description><![CDATA[Therese Johaug slet i perioder med å gå fort på ski fordi hun hadde for lite næring i kroppen. Nå skal hun hjelpe andre som sliter.]]></description>
@@ -83,15 +91,6 @@ Hun gikk mot strømmen og løp turer på 50 km, og nå er 18-åringen blitt god.
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/28796dff-cd01-461a-a726-e2e23cd09743_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:10:40</itunes:duration>
       <pubDate>Fri, 09 Dec 2022 03:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>- Trodde kun afrikanere tok VM-gull</title>
-      <description><![CDATA[Han har NM-sølv på 5000m som junior og var et av Norges største talent. 
-Likevel valgte Martin Mørk (21) langrenn. Det samme gjorde søsteren. Hvorfor?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/630e8d5b-46b6-4320-9e78-870300d57274_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/630e8d5b-46b6-4320-9e78-870300d57274_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:11:52</itunes:duration>
-      <pubDate>Fri, 02 Dec 2022 03:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -305,9 +305,7 @@ const feeds = [
     "id": "i_det_lange_loep",
     "title": "De 10 siste fra I det lange løp",
     "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
+    "enabled": true
   },
   {
     "id": "i_doedens_spor",
