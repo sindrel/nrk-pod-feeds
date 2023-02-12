@@ -916,10 +916,11 @@ const feeds = [
   },
   {
     "id": "teige_lydstudio",
-    "title": "De 10 siste fra Teige lydstudio",
+    "title": "De 24 siste fra Teige lydstudio",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": false,
+    "ignore": true,
+    "hidden": false
   },
   {
     "id": "tett_paa",
