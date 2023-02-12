@@ -918,9 +918,8 @@ const feeds = [
     "id": "teige_lydstudio",
     "title": "De 10 siste fra Teige lydstudio",
     "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
+    "enabled": true,
+    "episodes": 0
   },
   {
     "id": "tett_paa",
