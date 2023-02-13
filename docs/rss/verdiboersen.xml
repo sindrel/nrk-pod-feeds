@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 11 Feb 2023 09:25:24 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Feb 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2023 09:28:55 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Feb 2023 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>Ingen Valentinskort i år heller?</title>
+      <description><![CDATA[Hvorfor så mange ufrivillig single i en tid med datingapper og stor åpenhet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/bfbbb6ac-59e4-4789-bb3b-88915a927f68_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/bfbbb6ac-59e4-4789-bb3b-88915a927f68_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:45</itunes:duration>
+      <pubDate>Mon, 13 Feb 2023 10:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Jordskjelvet og det ondes problem</title>
       <description><![CDATA[Etter katastrofer har store tenkere stilt spørsmålet: Er Gud god?]]></description>
@@ -88,14 +96,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ef98ae6d-8fdf-4959-a68b-a9bafb3f47ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>14:49</itunes:duration>
       <pubDate>Mon, 23 Jan 2023 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title> Hvordan kom Hitler til makten?</title>
-      <description><![CDATA[Det er 90 år siden Hitler ble utnevnt til rikskansler. Hvordan kunne det skje? Og hvem ga ham makt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/cfa42f6c-3d93-4366-aaef-1cea2bd44c3b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cfa42f6c-3d93-4366-aaef-1cea2bd44c3b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:12</itunes:duration>
-      <pubDate>Sat, 21 Jan 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
