@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 06 Feb 2023 05:26:34 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2023 05:27:36 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Hvordan takler du hersketeknikker?</title>
+      <description><![CDATA[Hersketeknikker kan psyke deg helt ut. Journalist Hilde Sandvik forteller hva du bør gjøre når du utsettes for det. Medvirkende: Sofie Frøysaa]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/e15d0004-c981-401d-bfad-4c2508c7f533_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/e15d0004-c981-401d-bfad-4c2508c7f533_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:33</itunes:duration>
+      <pubDate>Mon, 13 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hva tenker hunden</title>
       <description><![CDATA[Hunden er ikke alltid menneskets beste venn. Hundetrener Maren Teien Rørvik forklarer hva hunden tenker og hvorfor det er viktig å forstå hunden for å lykkes med hundetreningen.]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/2d2b48d0-677c-4308-8452-2d84095b5565_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:50</itunes:duration>
       <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Den mystiske fargen brun</title>
-      <description><![CDATA[Brødet i butikken er ikke brunt slik som du tror. Fysiker Andreas Wahl forklarer hvorfor han mener at fargen brun ikke finnes. Medvirkende: Eivind Stoud Platou ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/10c8f3f7-59a3-4af7-8e7d-12b9d204d53b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/10c8f3f7-59a3-4af7-8e7d-12b9d204d53b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:16</itunes:duration>
-      <pubDate>Mon, 26 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
