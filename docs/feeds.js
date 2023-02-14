@@ -392,6 +392,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "kladden_har_daevva",
+    "title": "De 10 siste fra Kladden har dævva",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "klassikere_fra_p3-arkivet",
     "title": "De 10 siste fra Klassikere fra P3-arkivet",
     "season": null,
