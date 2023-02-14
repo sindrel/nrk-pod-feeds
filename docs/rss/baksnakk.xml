@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 07 Feb 2023 05:26:37 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Feb 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Feb 2023 05:27:48 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Hokus pokus rumpe i fokus</title>
+      <description><![CDATA[Hva gjør du når rumpa di plutselig havner på storskjerm?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/8b7c1016-700e-4419-8d14-7ef7b9f8a608_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/8b7c1016-700e-4419-8d14-7ef7b9f8a608_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:55</itunes:duration>
+      <pubDate>Tue, 14 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Måtte Lydia dra kjendiskortet?</title>
       <description><![CDATA[Lydia glemte passet på byen og Zara har et spennende år foran seg.]]></description>
@@ -82,15 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/cca845a1-9c18-46d3-baab-79fa2b99f7c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:49</itunes:duration>
       <pubDate>Tue, 13 Dec 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Blodig alvor i underbuksa.</title>
-      <description><![CDATA[Zara har blitt overtalt til å teste mensentruse, og Lydia har en aldri så liten utblåsning om VM.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/f67adb4b-885b-4d55-ab09-03781e00c6de_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/f67adb4b-885b-4d55-ab09-03781e00c6de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:33</itunes:duration>
-      <pubDate>Tue, 06 Dec 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
