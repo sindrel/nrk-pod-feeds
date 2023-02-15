@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 09:29:08 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Feb 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2023 09:28:44 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2023 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g"/>
+    <item>
+      <title>Nifse reker og skummel aspik</title>
+      <description><![CDATA[Vi byr på alternative veddemål, Stevens Johnsons syndrom og vi tester om vi kan høre forskjellen på varmt og kaldt vann]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/35a63f7b-f9f2-4e40-86f3-da530901fec3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/35a63f7b-f9f2-4e40-86f3-da530901fec3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:31</itunes:duration>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Mossafår og spion-ballong</title>
       <description><![CDATA[Vi byr på bombe-flaggermus, fotsvette og dødsårsaker mens vi lurer på om dyr lar seg imponere av oss mennesker.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/e91ffa53-57dd-4d07-9cc0-99e8eebba211_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>52:03</itunes:duration>
       <pubDate>Wed, 07 Dec 2022 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Enhjulsykkelfotball og stjålet juletre</title>
-      <description><![CDATA[Vi byr på Flappie, nye memoarer og tvungen, tysk jule-karaoke. Vi prøver også cola-wasser mens Stavangersmurfen vil opprette egen stat.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/d42d01b0-1e79-4861-bb1e-ec04a697f5fb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utakt/d42d01b0-1e79-4861-bb1e-ec04a697f5fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:41</itunes:duration>
-      <pubDate>Wed, 30 Nov 2022 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
