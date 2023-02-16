@@ -590,7 +590,7 @@ const feeds = [
     "id": "musikkrommet",
     "title": "De 10 siste fra Musikkrommet",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "mysterier_fra_norge",
