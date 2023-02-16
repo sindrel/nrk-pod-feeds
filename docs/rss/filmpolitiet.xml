@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Filmpolitiet</title>
+    <title>De 10 siste fra Filmpolitiets podkast </title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Filmpolitiet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/filmpolitiet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Filmpolitiets podkast . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/filmpolitiet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 09 Feb 2023 16:39:27 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Feb 2023 16:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Feb 2023 15:29:13 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Feb 2023 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA"/>
+    <item>
+      <title>Filmer som gir oss mareritt</title>
+      <description><![CDATA[Den norske skrekkfilmen «Marerittet» er kinoaktuell. Vi tipser om seks filmer som faktisk har gitt oss søvnløse netter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/620aabb6-0e57-478a-89f6-c4a6272ef8e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/620aabb6-0e57-478a-89f6-c4a6272ef8e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:33</itunes:duration>
+      <pubDate>Thu, 16 Feb 2023 16:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>«Titanic» 25 år: Har den holdt seg?</title>
       <description><![CDATA[Storfilmen «Titanic» seiler nå på ny inn på norske kinoer. Vi mimrer om Kate og Leo og diskuterer om filmen har holdt seg. Og hva synes Sigurd – som aldri har sett filmen før nå?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/70945bde-4c89-4a58-aabd-e3554d2ffad8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:07:06</itunes:duration>
       <pubDate>Thu, 15 Dec 2022 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Våre julefilmfavoritter!</title>
-      <description><![CDATA[Vi elsker julefilmer, og her får du våre personlige favoritter – både nye og gamle!  Og hva er det som egentlig gjør at en film blir en julefilmfavoritt? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/d2776ba0-385f-4dc7-92c6-46f0982caef2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/d2776ba0-385f-4dc7-92c6-46f0982caef2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:54</itunes:duration>
-      <pubDate>Thu, 08 Dec 2022 16:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
