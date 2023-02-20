@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 12:49:31 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Feb 2023 12:30:00 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2023 15:29:05 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Feb 2023 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Cecilie Løveid</title>
+      <description><![CDATA[Den prisberømte forfatteren om myrlik, maleren Francis Bacon og litteratur som «trylleri».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d4a0a53b-7526-44e0-874c-7d3111b40f96_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d4a0a53b-7526-44e0-874c-7d3111b40f96_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Mon, 20 Feb 2023 16:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Therese Johaug</title>
       <description><![CDATA[Den gravide skistjernen er klar for et nytt liv utenfor sporet, men blir sur når hun ikke lenger klarer å holde tempoet til venninnene på trening. ]]></description>
@@ -82,15 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/8b2dd34f-9026-4470-b27a-011d6ddf8817_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:47</itunes:duration>
       <pubDate>Mon, 30 Jan 2023 13:10:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Jon Bojer Godal</title>
-      <description><![CDATA[De gamle er eldst. Og kunnskapen deres har fortsatt stor verdi. Det mener mannen som har brukt store deler av livet til å
-forstå og formidle tradisjonshåndverk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/47fce20a-9618-4567-a0aa-5212874dd508_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/47fce20a-9618-4567-a0aa-5212874dd508_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:33</itunes:duration>
-      <pubDate>Thu, 26 Jan 2023 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
