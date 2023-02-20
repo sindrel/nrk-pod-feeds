@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Feb 2023 05:27:36 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Feb 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2023 05:28:01 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Hva er en god diskusjon?</title>
+      <description><![CDATA[Ofte ender diskusjonen i krangel. Filosof Einar Duenger Bøhn vil at du skal unngå krangelen, og gir deg tre kjøreregler for en god diskusjon. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/12bd704e-f79f-4140-8926-f813e6b249e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/12bd704e-f79f-4140-8926-f813e6b249e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:43</itunes:duration>
+      <pubDate>Mon, 20 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvordan takler du hersketeknikker?</title>
       <description><![CDATA[Hersketeknikker kan psyke deg helt ut. Journalist Hilde Sandvik forteller hva du bør gjøre når du utsettes for det. Medvirkende: Sofie Frøysaa]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/d2aa6938-acb5-41ea-af30-1bb662327d69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:42</itunes:duration>
       <pubDate>Mon, 10 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hvor farlig er radioaktiv stråling?</title>
-      <description><![CDATA[Radioaktiv stråling gjør mange redde. Men hvor redde bør vi være? Kjernefysiker Sunniva Rose gir deg svar. Medvirkende: Anders Magnus]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/2d2b48d0-677c-4308-8452-2d84095b5565_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/2d2b48d0-677c-4308-8452-2d84095b5565_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:50</itunes:duration>
-      <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
