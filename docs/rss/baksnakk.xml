@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 Feb 2023 05:27:48 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Feb 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2023 05:26:03 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Lydias traumatiske opplevelse.</title>
+      <description><![CDATA[Tamanna er vikar for Zara i dagens episode hvor Lydia letter på sløret om sitt seneste traume.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/67e9ad70-860c-47dd-a0d7-a9fb19d3575b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/67e9ad70-860c-47dd-a0d7-a9fb19d3575b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:45</itunes:duration>
+      <pubDate>Tue, 21 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hokus pokus rumpe i fokus</title>
       <description><![CDATA[Hva gjør du når rumpa di plutselig havner på storskjerm?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/b791e384-f402-4afe-9c6a-e057bf65ba96_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:10</itunes:duration>
       <pubDate>Tue, 20 Dec 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hvem er verst - generasjon Z eller 40+?</title>
-      <description><![CDATA[Lydia forteller om sine flertallige brainfarts, og Zara har ENDELIG blitt en genser og t-skjorte fattigere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/cca845a1-9c18-46d3-baab-79fa2b99f7c5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/cca845a1-9c18-46d3-baab-79fa2b99f7c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:49</itunes:duration>
-      <pubDate>Tue, 13 Dec 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
