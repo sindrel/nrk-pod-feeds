@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Feb 2023 15:29:05 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Feb 2023 16:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2023 13:32:22 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Feb 2023 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Jørgine Massa Vasstrand</title>
+      <description><![CDATA[Da influenseren var 9 år tok moren henne med til Italia. Det ble starten på en turbulent periode med rå og brutal slossing med jentegjenger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b3e3f2a3-f3c0-49b1-8115-54b243034dbe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b3e3f2a3-f3c0-49b1-8115-54b243034dbe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Tue, 21 Feb 2023 14:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Cecilie Løveid</title>
       <description><![CDATA[Den prisberømte forfatteren om myrlik, maleren Francis Bacon og litteratur som «trylleri».]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/eb6e2b02-6f27-4ce1-bf95-a3abb8e7bd61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:12</itunes:duration>
       <pubDate>Tue, 31 Jan 2023 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Tine Thing Helseth</title>
-      <description><![CDATA[Trompetisten lot i mange år musikken trumfe alt, inkludert sin egen helse. Sånn er det ikke lenger]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8b2dd34f-9026-4470-b27a-011d6ddf8817_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8b2dd34f-9026-4470-b27a-011d6ddf8817_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:47</itunes:duration>
-      <pubDate>Mon, 30 Jan 2023 13:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
