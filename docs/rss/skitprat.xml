@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Skitprat med Jens og Isak. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/skitprat for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 05 Nov 2022 05:29:54 +0000</lastBuildDate>
-    <pubDate>Sat, 05 Nov 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 25 Feb 2023 09:26:10 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Hundekjøring, polititrøbbel og «Funkygine»</title>
+      <description><![CDATA[Jens forbereder seg til Finnmarksløpet, mens Isak har vært på telttur med «Funkygine» og havnet i våpentrøbbel med politiet. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/d82a0cc8-47c1-4aec-b7bd-0322d534fd77_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/d82a0cc8-47c1-4aec-b7bd-0322d534fd77_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:00</itunes:duration>
+      <pubDate>Sat, 25 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Rådyrjakt, skitne rekorder og lokke-quiz!</title>
       <description><![CDATA[Jens forteller hvorfor rådyrjakta betyr så mye, og gutta avslører noen skitne rekorder på tur. Jens tester hvor god Isak er på lokke-lyder.]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/f9897175-0bc5-4810-85ad-dcd0fac5eca2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:36</itunes:duration>
       <pubDate>Sat, 10 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hjem fra Grønland og klare for jakt</title>
-      <description><![CDATA[Jens og Isak er hjemme etter flere måneder på Grønland, og Jens forteller om nervepirrende hvaljakt med inuittene. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/78c55acf-672c-4226-955a-ce51e3bf687b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/78c55acf-672c-4226-955a-ce51e3bf687b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:44</itunes:duration>
-      <pubDate>Sat, 03 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

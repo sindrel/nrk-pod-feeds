@@ -818,7 +818,7 @@ const feeds = [
     "id": "skitprat",
     "title": "De 10 siste fra Skitprat med Jens og Isak",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "smi_horror",
