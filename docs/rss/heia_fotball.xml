@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 24 Feb 2023 13:32:59 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Feb 2023 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2023 12:51:46 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2023 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <item>
+      <title>Snakkis: Premiere, ligacup og fransk opprør</title>
+      <description><![CDATA[Heia Fotballs nye mandagspodkast er endelig her! Sven, Tete og Emil Gukild ser nærmere på ukas snakkiser i fotballverden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/e03c828c-b233-4eaa-b134-8129eb308ded_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/e03c828c-b233-4eaa-b134-8129eb308ded_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:19</itunes:duration>
+      <pubDate>Mon, 27 Feb 2023 13:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Kunngjøring!</title>
       <description><![CDATA[Viktig melding: Vi utvider. Bidra gjerne med innspill til heiafotball@nrk.no eller på twitter @p3heiafotball.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/8494f7d3-d751-40fd-9000-e2fd868bbc94_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:12</itunes:duration>
       <pubDate>Fri, 16 Dec 2022 14:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Heia VM? - #18 - Ingerid Stenvold og Kristoffer Løkberg</title>
-      <description><![CDATA[Tete får besøk av NRKs egen Ingerid Stenvold og fotballspiller og ekspert Kristoffer Løkberg. Om gleden over Marokko tross tap, om Mbappé vs Messi i finalen, om kommende tider i PSG-garderoben og sjølsagt: hva er HOT og hva er NOT i VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/70b68193-41e1-4cc2-9337-76f0fbc93f7e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/70b68193-41e1-4cc2-9337-76f0fbc93f7e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:35</itunes:duration>
-      <pubDate>Thu, 15 Dec 2022 12:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
