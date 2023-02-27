@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Kladden har dævva</title>
+    <title>De 4 siste fra Kladden har dævva</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Kladden har dævva. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kladden_har_daevva for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Kladden har dævva. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kladden_har_daevva for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Feb 2023 05:28:08 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Feb 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2023 05:27:10 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA"/>
+    <item>
+      <title>Martha Leivestad: JEG DØR! JEG DØR! </title>
+      <description><![CDATA[Martin blir satt ut av Marthas siste måltid og strenge holdning til død. Inneholder spor av kjefting. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/3fef5833-3a7b-453b-ae20-37cceb3c6f73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/3fef5833-3a7b-453b-ae20-37cceb3c6f73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:09</itunes:duration>
+      <pubDate>Mon, 27 Feb 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Magnus Devold, kidnappet</title>
       <description><![CDATA[Hjertestarteren, mareritt i Tyrkia og verdens aller lengste kiste. 
@@ -18,7 +26,7 @@
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/4364411b-e251-4ce8-ba15-f76cab301861_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4364411b-e251-4ce8-ba15-f76cab301861_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:50</itunes:duration>
-      <pubDate>Mon, 20 Feb 2023 06:00:00 +0100</pubDate>
+      <pubDate>Mon, 20 Feb 2023 06:02:00 +0100</pubDate>
     </item>
     <item>
       <title>Linn Skåber i stormens øye</title>
@@ -26,7 +34,7 @@
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/e995d639-d797-4c0e-8a1d-07ffbeb9b30d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e995d639-d797-4c0e-8a1d-07ffbeb9b30d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:57</itunes:duration>
-      <pubDate>Mon, 20 Feb 2023 06:00:00 +0100</pubDate>
+      <pubDate>Mon, 20 Feb 2023 06:01:00 +0100</pubDate>
     </item>
     <item>
       <title>En humorpodkast om døden - premiere 20.februar! </title>
