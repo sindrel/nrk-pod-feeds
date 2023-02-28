@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Feb 2023 13:39:15 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Feb 2023 14:10:00 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Feb 2023 12:50:48 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Feb 2023 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Fay Wildhagen</title>
+      <description><![CDATA[Popartisten ville helst stå bakerst på klassebildene og har fortsatt ikke noe behov for å bli sett. Men musikken presser seg på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/709a6ab9-8a42-487a-bdb7-84a86f6d4101_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/709a6ab9-8a42-487a-bdb7-84a86f6d4101_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:28</itunes:duration>
+      <pubDate>Tue, 28 Feb 2023 13:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Kurt Nilsen</title>
       <description><![CDATA[- Jeg ville vært ensom uten musikken, sier den folkekjære musikeren , som slo igjennom da han vant Idol for 20 år siden]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/37aeb2ce-750a-4076-af20-2f561f5df340_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:08</itunes:duration>
       <pubDate>Mon, 06 Feb 2023 14:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Christian Lomsdalen</title>
-      <description><![CDATA[Lederen for Human-Etisk Forbund ønsker å bli til kompost etter sin død. På den måten kan han fortsette å bidra.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ad9ad312-64ec-4e4c-aeaf-ccd114ec91e2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ad9ad312-64ec-4e4c-aeaf-ccd114ec91e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:39</itunes:duration>
-      <pubDate>Thu, 02 Feb 2023 13:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
