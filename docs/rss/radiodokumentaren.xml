@@ -1,55 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Historier fra virkeligheten</title>
+    <title>De 4 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 15 Nov 2022 05:29:51 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Nov 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 01 Mar 2023 07:26:05 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Mar 2023 04:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
-      <title>Smakebit: Utilgivelig</title>
-      <description><![CDATA[Mennesker i konflikt får hjelp til å ordne opp ansikt til ansikt, men det er ikke lett å møte en man tenker har gjort noe helt utilgivelig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/9f66ccad-c58b-4e6b-8ffa-bccffb566a1a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9f66ccad-c58b-4e6b-8ffa-bccffb566a1a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:06</itunes:duration>
-      <pubDate>Tue, 25 Oct 2022 06:00:00 +0200</pubDate>
+      <title>Foreldrene gir opp (2:4)</title>
+      <description><![CDATA[Bekymringene øker for tenåringen. Får barnevernet tak i henne?
+Toåringen flyttes rundt med mammaen sin, som sliter med å ta vare på datteren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/63719fbb-4d8d-4c4c-8b86-55b2ff71a49c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/63719fbb-4d8d-4c4c-8b86-55b2ff71a49c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:06</itunes:duration>
+      <pubDate>Wed, 01 Mar 2023 04:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Utilgivelig: Hekken</title>
-      <description><![CDATA[Espen kom hjem fra jobb og oppdaget at hekken var kappa ned og fjerna – av naboen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/ae76c2ca-e7a0-4968-8334-42e83176c75d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ae76c2ca-e7a0-4968-8334-42e83176c75d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:16</itunes:duration>
-      <pubDate>Tue, 01 Nov 2022 06:00:00 +0100</pubDate>
+      <title>To barn i hver sin krise (1:4)</title>
+      <description><![CDATA[En toåring hentes ut av hjemmet i en politiaksjon. 
+En tenåring på selvstyr skyr all kontakt med barnevernet. 
+Hva skjer med barna nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/344995d8-3143-403b-a6b3-a6294f6da4eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/344995d8-3143-403b-a6b3-a6294f6da4eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:35</itunes:duration>
+      <pubDate>Wed, 01 Mar 2023 04:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Utilgivelig: Spritflaska</title>
-      <description><![CDATA[Andreas havnet midt i en alvorlig voldshendelse. Nå vil gjerningsmannen møte han, ansikt til ansikt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/452b95f4-6c88-4889-980c-0097b9dde32d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/452b95f4-6c88-4889-980c-0097b9dde32d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:49</itunes:duration>
-      <pubDate>Tue, 08 Nov 2022 06:00:00 +0100</pubDate>
+      <title>Når er det akutt? (3:4)</title>
+      <description><![CDATA[Toåringen plasseres i beredskapshjem når mamma ikke klarer mer.
+Barnevernet leter etter fosterhjem til tenåringen. Vil hun flytte frivillig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/80399b75-a562-48e3-8830-7339de7305ce_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/80399b75-a562-48e3-8830-7339de7305ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:31</itunes:duration>
+      <pubDate>Wed, 01 Mar 2023 04:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Utilgivelig: Påkjørt (2:2)</title>
-      <description><![CDATA[Renate skal møte Richard, mannen som nesten drepte henne. Vil hun tilgi han?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4b5f9085-0baf-4dbf-bb78-f06c1b675505_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4b5f9085-0baf-4dbf-bb78-f06c1b675505_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:50</itunes:duration>
-      <pubDate>Tue, 15 Nov 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Utilgivelig: Påkjørt (1:2)</title>
-      <description><![CDATA[Renate ble påkjørt og skadet for livet. Ti år senere dumper det et brev ned i postkassa. Gjerningsmannen vil møte henne og si unnskyld.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/537c3ce4-61b1-4432-a523-b09ecbbe0c06_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/537c3ce4-61b1-4432-a523-b09ecbbe0c06_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:13</itunes:duration>
-      <pubDate>Tue, 15 Nov 2022 06:00:00 +0100</pubDate>
+      <title>Hva skjer med barna? (4:4)</title>
+      <description><![CDATA[Tenåringens sak går til barnevernsnemnda. Det haster å finne et fosterhjem.
+Toåringens far får treffe datteren igjen. Kan han få tilbake omsorgen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f636f9dc-8d19-45f0-81d4-82bc776f0a9d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f636f9dc-8d19-45f0-81d4-82bc776f0a9d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:01</itunes:duration>
+      <pubDate>Wed, 01 Mar 2023 04:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

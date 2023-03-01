@@ -710,7 +710,7 @@ const feeds = [
     "id": "radiodokumentaren",
     "title": "De 10 siste fra Historier fra virkeligheten",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "radiolegen",
