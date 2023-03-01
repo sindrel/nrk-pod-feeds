@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 22 Feb 2023 05:28:25 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Feb 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 01 Mar 2023 05:28:40 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Mar 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg"/>
+    <item>
+      <title> Mary Shelley – Frankensteins mor</title>
+      <description><![CDATA[Dette er historien om kvinnen bak et av litteraturens mest berømte
+monstre. En nyskapende forfatter og et banebrytende individ som vekket ny litteratur til live,
+til tross for at hun selv vandret i dødens skygge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/ea985fc2-3e76-4375-91de-a9b8ea96f3ef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/ea985fc2-3e76-4375-91de-a9b8ea96f3ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:26</itunes:duration>
+      <pubDate>Wed, 01 Mar 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Aristoteles viet livet til kunnskapen</title>
       <description><![CDATA[Dette er historien om grekeren som ble en av filosofiens fedre, og hvis
@@ -84,14 +94,6 @@ Livet viet han til kunnskapen, og selv i dag er den tydeligere enn vi kanskje fo
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/549da420-bc15-4d0f-83f0-9e4acd5d4f9d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:35</itunes:duration>
       <pubDate>Wed, 12 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vlad III Tepes – Virkelighetens Dracula</title>
-      <description><![CDATA[Dette er historien om dragesønnen fra Transsylvania, som ble inspirasjonen til en av de mest fryktinngytende skapningene i skjønnlitteraturen: Vampyren. Men virkelighetens Dracula satte ikke tennene i offerets halspulsåre. Han spiddet dem på spisse påler.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d795ea9a-2d90-456e-afaf-eb3f5b4fd28d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d795ea9a-2d90-456e-afaf-eb3f5b4fd28d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Wed, 28 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
