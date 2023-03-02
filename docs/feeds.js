@@ -1064,6 +1064,6 @@ const feeds = [
     "id": "yeblikket",
     "title": "De 10 siste fra Øyeblikket",
     "season": null,
-    "enabled": true
+    "enabled": false
   }
 ]
