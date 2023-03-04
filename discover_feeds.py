@@ -12,7 +12,7 @@ inactive_days_limit = 30
 ignore_days_limit = 365
 title_prefix = "De 10 siste fra "
 
-ignored_categories = ["forstaa"]
+ignored_categories = []
 
 def check_if_podcast_active(today, episodes):
     active = False
