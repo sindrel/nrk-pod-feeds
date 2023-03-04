@@ -72,6 +72,14 @@ const feeds = [
     "enabled": false
   },
   {
+    "id": "bjoernen_lyver",
+    "title": "De 10 siste fra Bjørnen lyver",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "bok_i_p2",
     "title": "De 10 siste fra Åpen bok",
     "season": "LATEST_SEASON",
@@ -114,6 +122,18 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "dagsnytt_atten",
+    "title": "De 10 siste fra Dagsnytt 18",
+    "season": null,
+    "enabled": true
+  },
+  {
+    "id": "debatten",
+    "title": "De 10 siste fra Debatten",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "delfi_og_dolfy",
     "title": "De 10 siste fra Delfi og Dolfy",
     "season": null,
@@ -134,6 +154,14 @@ const feeds = [
     "title": "De 10 siste fra Drivkraft",
     "season": null,
     "enabled": true
+  },
+  {
+    "id": "eallima_mohkit",
+    "title": "De 10 siste fra Eallima mohkit",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "einstein__paa_sporet_av_den_toeyde_tid",
@@ -192,6 +220,14 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "forstaa_norge",
+    "title": "De 10 siste fra Forstå Norge",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "fredagspanelet",
     "title": "De 10 siste fra Fredagspanelet",
     "season": null,
@@ -215,9 +251,9 @@ const feeds = [
   },
   {
     "id": "gal_og_genial",
-    "title": "De 10 siste fra Gal og Genial",
+    "title": "De 10 siste fra Gal & genial",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "gfestallan_lisain",
@@ -436,6 +472,14 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "krig_og_fred",
+    "title": "De 10 siste fra Krig og fred",
+    "season": "LATEST_SEASON",
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "krig_paa_200_minutter",
     "title": "De 10 siste fra Krig på 200 minutter",
     "season": null,
@@ -555,6 +599,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "millionaerhjerne",
+    "title": "De 10 siste fra Millionærhjerne",
+    "season": null,
+    "enabled": false
+  },
+  {
     "id": "min_foerste_gang",
     "title": "De 10 siste fra Min første gang",
     "season": null,
@@ -573,6 +623,14 @@ const feeds = [
   {
     "id": "mitt_liv_med_hund",
     "title": "De 10 siste fra Mitt liv med hund",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
+    "id": "moerketid",
+    "title": "De 10 siste fra Mørketid",
     "season": null,
     "enabled": false,
     "ignore": true,
@@ -631,6 +689,20 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "norsken_svensken_og_dansken",
+    "title": "De 10 siste fra Norsken, svensken og dansken",
+    "season": null,
+    "enabled": true
+  },
+  {
+    "id": "nrkbeta",
+    "title": "De 10 siste fra NRKbeta",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "nrkscenen",
     "title": "De 10 siste fra NRK-scenen",
     "season": null,
@@ -639,12 +711,36 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "nyhetsblanding",
+    "title": "De 10 siste fra Nyhetsblanding",
+    "season": null,
+    "enabled": false
+  },
+  {
+    "id": "nyhetsmorgen",
+    "title": "De 10 siste fra Nyhetsmorgen",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "o-fag",
     "title": "De 10 siste fra O-fag",
     "season": null,
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "odaspodda",
+    "title": "De 10 siste fra Ođaspodda",
+    "season": null,
+    "enabled": false
+  },
+  {
+    "id": "oppdatert",
+    "title": "De 10 siste fra Oppdatert",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "p060ms2h",
@@ -677,6 +773,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "politisk_kvarter",
+    "title": "De 10 siste fra Politisk kvarter",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "popaganda",
     "title": "De 10 siste fra Popaganda",
     "season": null,
@@ -688,7 +790,7 @@ const feeds = [
     "id": "popkorn_og_politikk",
     "title": "De 10 siste fra Popkorn og politikk",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "psykologen",
@@ -759,6 +861,14 @@ const feeds = [
     "enabled": false
   },
   {
+    "id": "revolusjonen",
+    "title": "De 10 siste fra Revolusjonen",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "roeverradion_i_nrk_p2",
     "title": "De 10 siste fra Røverradion i NRK P2",
     "season": null,
@@ -807,6 +917,14 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "sjakksnakk",
+    "title": "De 10 siste fra Sjakksnakk",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "skampod",
     "title": "De 10 siste fra Skampod",
     "season": null,
@@ -819,6 +937,14 @@ const feeds = [
     "title": "De 10 siste fra Skitprat med Jens og Isak",
     "season": null,
     "enabled": true
+  },
+  {
+    "id": "smartere_paa_10_minutter",
+    "title": "De 10 siste fra Smartere på 10 minutter",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "smi_horror",
@@ -943,6 +1069,14 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "timeout",
+    "title": "De 10 siste fra Timeout",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "to_hvite_menn",
     "title": "De 10 siste fra To hvite menn",
     "season": null,
@@ -975,6 +1109,22 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "treningskompis",
+    "title": "De 10 siste fra Treningskompis",
+    "season": "LATEST_SEASON",
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
+    "id": "trump_mot_verden",
+    "title": "De 10 siste fra Trump mot verden",
+    "season": null,
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
     "id": "trygdekontoret",
     "title": "De 10 siste fra Trygdekontoret",
     "season": null,
@@ -997,6 +1147,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "ukeslutt",
+    "title": "De 10 siste fra Ukeslutt",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "ukjent",
     "title": "De 10 siste fra Ukjent: Er det noen der ute?",
     "season": null,
@@ -1013,6 +1169,12 @@ const feeds = [
   {
     "id": "utakt",
     "title": "De 10 siste fra Utakt",
+    "season": null,
+    "enabled": true
+  },
+  {
+    "id": "verden_paa_loerdag",
+    "title": "De 10 siste fra Urix på lørdag",
     "season": null,
     "enabled": true
   },
