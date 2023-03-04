@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 25 Feb 2023 09:26:10 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Feb 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Mar 2023 05:27:05 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Mar 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Spesial: Fangstlegenden John S. Opdahl</title>
+      <description><![CDATA[Jens og Isak har besøk av den legendariske fangstmannen John S. Opdahl, som forteller utrolige historier fra et langt jegerliv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/53e8c9d2-d051-45d3-ad74-2e88e7e86ea7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/53e8c9d2-d051-45d3-ad74-2e88e7e86ea7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:53</itunes:duration>
+      <pubDate>Sat, 04 Mar 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hundekjøring, polititrøbbel og «Funkygine»</title>
       <description><![CDATA[Jens forbereder seg til Finnmarksløpet, mens Isak har vært på telttur med «Funkygine» og havnet i våpentrøbbel med politiet. ]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/bcb3929d-f234-4240-b1ba-8bec0136fda0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:34</itunes:duration>
       <pubDate>Sat, 17 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Rypejakt, helikopter-sinne og hundespising</title>
-      <description><![CDATA[Årets rypejakt er i gang og Jens og Isak deler sine beste tips for å lykkes. De hisser seg også opp over trenden med helikopter-jakt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/f9897175-0bc5-4810-85ad-dcd0fac5eca2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/f9897175-0bc5-4810-85ad-dcd0fac5eca2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:36</itunes:duration>
-      <pubDate>Sat, 10 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
