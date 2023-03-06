@@ -7,10 +7,26 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 04 Mar 2023 16:56:36 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Mar 2023 09:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2023 08:34:24 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2023 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/K05yaAgcOh32pA977RdeYA6Lrc-pcVlIHWSLUPZM-QHQ"/>
+    <item>
+      <title>06.03.2023 Nyhetsmorgen</title>
+      <description><![CDATA[Kvinner og menn får ulik behandling for smerter, viser ny forskning.  
+
+Fosen-dommen og protestene har skapt nervøs stemning blant politikere og i næringslivet i Finnmarksom frykter for utviklingen. 
+
+Den lave norske kronen fryder dansker på vinterferie i Norge... 
+
+Vi teller opp etter VM på ski, og kommer til at de norske utøverne gjorde det bra. 
+
+Ugo Fermariello og Birger Kolsrud Jåsund er i studio i dag]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nyhetsmorgen/554a266c-1c5e-49b5-8749-730f1b30c929_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/554a266c-1c5e-49b5-8749-730f1b30c929_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:29:00</itunes:duration>
+      <pubDate>Mon, 06 Mar 2023 08:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>03.03.2023 Nyhetsmorgen</title>
       <description><![CDATA[Huseigarane kritiserer kommunane for kraftig auke av gebyr på vatn og avløp. 
@@ -120,18 +136,6 @@ Friidretten vil sette helsen foran prestasjonene - hekkeløper Vladimir Vukicevi
       <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/036a4554-fa85-43be-8e30-cca2ccd2894e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:30:08</itunes:duration>
       <pubDate>Tue, 21 Feb 2023 08:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>20.02.2023 Nyhetsmorgen</title>
-      <description><![CDATA[Foreldre er redde for å sende døtrene sine i Forsvaret, seier Hovudverneombodet.
-
-Tusenvis av norske pasientbilder blir tolket av rumenske leger uten norsk godkjenning. Det får Helse Vest til å reagere mot selskapet Unilabs.
-
-Nasjonalmuseet ville setje det ikoniske måleriet av Leiv Eiriksson på lager - det har skapt voldsomme bølger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nyhetsmorgen/ff9a74c2-3551-450a-b414-b1504941b616_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/ff9a74c2-3551-450a-b414-b1504941b616_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:30:10</itunes:duration>
-      <pubDate>Mon, 20 Feb 2023 08:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
