@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Mar 2023 05:28:26 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2023 12:51:08 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2023 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <item>
+      <title>Snakkis: Sjokktap, sutring og raske røde kort</title>
+      <description><![CDATA[Manchester United tapte 7-0 mot Liverpool, Bruno Fernandez sutra på sidelinja og Moise Kean fikk rødt kort etter bare 40 sekunder!
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/cd407d0d-5eaa-450a-9ad6-e36885f15a39_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/cd407d0d-5eaa-450a-9ad6-e36885f15a39_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:30</itunes:duration>
+      <pubDate>Mon, 06 Mar 2023 13:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>#340 Peder Samdal</title>
       <description><![CDATA[Forfatter Peder Samdal forteller om Forfatterlandslaget, bakt potet og hvorfor Ada Hegerberg har valgt helt riktig klubb.]]></description>
@@ -82,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/406b0f38-dd63-4004-a198-98db7a11361f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:37:38</itunes:duration>
       <pubDate>Thu, 19 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>#333 - Erlend Hanstveit</title>
-      <description><![CDATA[Erlend Hanstveit forteller om hvorfor han takket nei til sir Alex Ferguson som 16-åring og røk i tottene på egen trener foran kamera i 2007.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/31194621-64d2-4f14-85e0-ca9ed6a86d81_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/31194621-64d2-4f14-85e0-ca9ed6a86d81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:50:59</itunes:duration>
-      <pubDate>Thu, 12 Jan 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
