@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 06 Mar 2023 11:25:03 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Mar 2023 11:42:00 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2023 11:25:24 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Mar 2023 12:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Kloakksystemet på Grønland</title>
+      <description><![CDATA[Karsten og Tete får Siri til å fortelle vitser. Isak Dreyer er også innom og kan rapportere om hvordan Grønland er.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/181867ad-508d-4ed5-a824-e973500e46b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/181867ad-508d-4ed5-a824-e973500e46b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Tue, 07 Mar 2023 12:01:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hundekrangel med Jon Almaas</title>
       <description><![CDATA[God mandag! Tuva Fellman og Jon Almaas er nye makkere i "Praktisk Info", og Lytter Emma trenger en oppmuntring etter gårsdagens kamp.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/6c5ddd90-60a5-4ec2-9000-a51e79f263fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:54</itunes:duration>
       <pubDate>Tue, 28 Feb 2023 10:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Tete klikker på Karsten sitt pizzahjul</title>
-      <description><![CDATA[Komikerduoen Amalie og Mathea truer med en parodi av P3morgen, Tete kjøper saltstenger til 200kr og Karsten har vært den rare naboen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/180e9e68-07c8-4136-b757-450530820cf0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/180e9e68-07c8-4136-b757-450530820cf0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:34</itunes:duration>
-      <pubDate>Tue, 28 Feb 2023 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
