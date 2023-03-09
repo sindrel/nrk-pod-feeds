@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Mar 2023 15:30:17 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Mar 2023 16:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Mar 2023 15:30:28 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Mar 2023 16:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA"/>
+    <item>
+      <title>Våre Oscar-favoritter</title>
+      <description><![CDATA[Spinnvilt og spektulært: Seks godbiter fra årets Oscar-nominerte filmer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/fcb88408-ebda-47a8-aabe-c8187d94abd0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/fcb88408-ebda-47a8-aabe-c8187d94abd0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:55</itunes:duration>
+      <pubDate>Thu, 09 Mar 2023 16:10:00 +0100</pubDate>
+    </item>
     <item>
       <title>Dusørjeger, smugler og årets far</title>
       <description><![CDATA[Pedro Pascal spiller motvillig farsfigur i to av de største TV-seriene akkurat nå, «The Mandalorian» og «The Last of Us». ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/502d215d-982a-43ce-a1ef-43d96ecca757_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:44</itunes:duration>
       <pubDate>Thu, 05 Jan 2023 16:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>2022: Årets beste filmer!</title>
-      <description><![CDATA[Film er best på kino – og dette er de 10 beste filmene fra 2022!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a39f8779-e76f-46fd-ae36-53b5de4dfa3d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a39f8779-e76f-46fd-ae36-53b5de4dfa3d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:01</itunes:duration>
-      <pubDate>Thu, 29 Dec 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
