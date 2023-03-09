@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 07 Mar 2023 22:29:56 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Mar 2023 22:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Mar 2023 22:30:16 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Mar 2023 22:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4gaGiS_XqwJgw6WtibpgPgsxZ8ZnJbohdX0Sj5Eatmdg"/>
+    <item>
+      <title>Fødsel mindre verdt enn prostataoperasjon</title>
+      <description><![CDATA[Er det fornuftig at pasientens tilstand (og kjønn) avgjør hvor mye penger sykehuset skal få?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/eb4e40df-979d-4c41-91cc-a177c9eec0cb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/eb4e40df-979d-4c41-91cc-a177c9eec0cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:28</itunes:duration>
+      <pubDate>Thu, 09 Mar 2023 22:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Norsk vindkraft kan ende i skatteparadis</title>
       <description><![CDATA[Utenlandske vindselskap eies i så mange ledd at ingen vet hvor pengene blir av.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/68270b7c-d580-4fcd-8993-da071cd224a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:06</itunes:duration>
       <pubDate>Tue, 07 Feb 2023 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Åpner for vindmøller nært folk</title>
-      <description><![CDATA[Forsker sier nye vindmøller ikke gir lavere strømpriser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/feb84f5d-e4fa-4521-9de7-2a62e2211b61_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/feb84f5d-e4fa-4521-9de7-2a62e2211b61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:26</itunes:duration>
-      <pubDate>Thu, 02 Feb 2023 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
