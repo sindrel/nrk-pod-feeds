@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Mar 2023 05:28:32 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Mar 2023 05:28:36 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Mar 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ"/>
+    <item>
+      <title>Redningsmenn i lær</title>
+      <description><![CDATA[Fosen-aktivistene fikk hjelp fra uventet hold, Anne har fått parkeringsbot og Rune gir lytterne sjekketips.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/b9a1a5bf-e92f-4efa-b5aa-c6fc8cde5b24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/b9a1a5bf-e92f-4efa-b5aa-c6fc8cde5b24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:57</itunes:duration>
+      <pubDate>Thu, 09 Mar 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Jenka!</title>
       <description><![CDATA[Anne har noen nye ideer til 8.mars-toget.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/5b6f7868-ea81-4c9c-9175-88ccbc7971db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:22</itunes:duration>
       <pubDate>Thu, 05 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>God jul!</title>
-      <description><![CDATA[Om julefeiring, Rockefeller og bikkjer i bleie. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/15055a73-28ba-48a0-81aa-a286cd9e9c82_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/15055a73-28ba-48a0-81aa-a286cd9e9c82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:52</itunes:duration>
-      <pubDate>Thu, 08 Dec 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
