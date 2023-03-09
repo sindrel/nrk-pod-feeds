@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 08 Mar 2023 12:50:13 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Mar 2023 13:05:00 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Mar 2023 13:40:01 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Mar 2023 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Tobias Santelmann</title>
+      <description><![CDATA[Da EXIT-skuespilleren jobba som bartender hatet han å servere øl til dem som hadde kommet inn på teaterhøyskolen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3fc049b0-a738-4cad-8584-1e9f3fb4f6a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3fc049b0-a738-4cad-8584-1e9f3fb4f6a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:13</itunes:duration>
+      <pubDate>Thu, 09 Mar 2023 14:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hooman Sharifi</title>
       <description><![CDATA[- Det iranske regimet har stjålet dansen fra en hel verden, sier koreografen som flyktet alene til Norge som 14-åring.]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/c78e79cd-1195-4e9b-8923-507dcb2d90fa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:33</itunes:duration>
       <pubDate>Thu, 16 Feb 2023 12:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Janne Haaland Matlary </title>
-      <description><![CDATA[Statsviteren om den nye verdenssituasjonen, troen - og hunder.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a32e06e1-72d6-42b6-9f98-e0438c7c3fcd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a32e06e1-72d6-42b6-9f98-e0438c7c3fcd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:23</itunes:duration>
-      <pubDate>Wed, 15 Feb 2023 13:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
