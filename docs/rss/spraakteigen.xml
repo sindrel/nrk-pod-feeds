@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 03 Mar 2023 05:31:03 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Mar 2023 05:28:56 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Mar 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ"/>
+    <item>
+      <title>Fonask, virak og trøndersk, e det.</title>
+      <description><![CDATA[Er det typisk trøndersk med etterheng? Hvor kommer fonask fra - og er du fysen på litt virak?
+I panelet: Ellen Andenæs, Klara Sjo og Stian Hårstad]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/91b17631-e690-4ca8-922a-dfa2fa3028f0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/91b17631-e690-4ca8-922a-dfa2fa3028f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:49</itunes:duration>
+      <pubDate>Fri, 10 Mar 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Oj, å gro mat, kompromiss</title>
       <description><![CDATA[Starter du et svar med å si oj? Er det et kompromi eller et kompromiss? Kan vi gro egen mat? 
@@ -90,14 +99,6 @@ I panelet: Rikke van Ommeren, Kristin Melum Eide og Olaf Husby.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/spraakteigen/a979cd3f-b199-4782-98a0-da297be90b75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:17</itunes:duration>
       <pubDate>Fri, 06 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bikkjekaldt, sylte og kosegris</title>
-      <description><![CDATA[Kavalkade med utvalgte godbiter, hvor språkeksperter besvarer innspill som dere lyttere, i løpet av 2022, har sendt til epost: snakk@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/868bef86-456c-4023-a951-3c6b87252f9e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/868bef86-456c-4023-a951-3c6b87252f9e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:07</itunes:duration>
-      <pubDate>Fri, 23 Dec 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
