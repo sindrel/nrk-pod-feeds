@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 04 Mar 2023 05:27:05 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 11 Mar 2023 05:26:17 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Mar 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Grønland, hvalrossjakt og dopapir</title>
+      <description><![CDATA[Jens og Isak forteller (nesten) alt om Grønlandseventyret og Jens har forsket seg frem til naturens beste dopapir.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/aab7e981-4d10-4d12-8d8f-3b255539464f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/aab7e981-4d10-4d12-8d8f-3b255539464f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:03</itunes:duration>
+      <pubDate>Sat, 11 Mar 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Spesial: Fangstlegenden John S. Opdahl</title>
       <description><![CDATA[Jens og Isak har besøk av den legendariske fangstmannen John S. Opdahl, som forteller utrolige historier fra et langt jegerliv.]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/15e9757e-8dbb-4cc1-a510-f5feedbe2bdf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:37</itunes:duration>
       <pubDate>Sat, 24 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Villreinjakt, revelokking og ulvedilemma</title>
-      <description><![CDATA[Jens og Isak har vært på villreinjakt, som ble mer komisk enn de hadde sett for seg. De deler også sine beste lokketips på revejakt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/bcb3929d-f234-4240-b1ba-8bec0136fda0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/bcb3929d-f234-4240-b1ba-8bec0136fda0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:34</itunes:duration>
-      <pubDate>Sat, 17 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
