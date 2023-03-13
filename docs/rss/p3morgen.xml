@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 10 Mar 2023 12:50:40 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Mar 2023 10:15:00 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Mar 2023 11:23:38 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Mar 2023 10:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Noe Attåt: That's what she said</title>
+      <description><![CDATA[Det blir barnslig når Tete og Karsten går all inn på 'That's what she said'-vitser. Vi hører også på diverse Eurovision-bidrag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3ce468c7-d02b-4466-a443-fd601db602fa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3ce468c7-d02b-4466-a443-fd601db602fa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:17</itunes:duration>
+      <pubDate>Mon, 13 Mar 2023 10:15:00 +0100</pubDate>
+    </item>
     <item>
       <title>Noe Attåt: Henning vil lage bar</title>
       <description><![CDATA[Storfint besøk når reporter Henning kommer fra Trondheim. Han pitcher baren 'Pulbar' til oss.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/fdd0ad56-78f5-4414-b98e-0e1aa6e8b870_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:08</itunes:duration>
       <pubDate>Mon, 06 Mar 2023 11:42:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Noe attåt: Det ble 7-0 ja</title>
-      <description><![CDATA[Det er mandag. Vi snakker selvfølgelig om gårsdagens store kamp, og tar en runde på helga. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/83f5e0cc-99ec-40b5-bade-cc8379bcfc08_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/83f5e0cc-99ec-40b5-bade-cc8379bcfc08_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:43</itunes:duration>
-      <pubDate>Mon, 06 Mar 2023 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
