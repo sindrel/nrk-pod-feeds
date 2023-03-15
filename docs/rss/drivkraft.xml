@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 Mar 2023 13:43:35 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Mar 2023 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Mar 2023 12:48:44 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Mar 2023 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Arnhild Lauveng</title>
+      <description><![CDATA[Hun var i 10 år innlagt på psykiatriske avdelinger med diagnosen schizofreni. I dag er hun frisk og jobber som forsker og psykolog. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cecc2d93-fd73-4a25-9b9b-f74aad9556a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cecc2d93-fd73-4a25-9b9b-f74aad9556a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:09</itunes:duration>
+      <pubDate>Wed, 15 Mar 2023 13:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Gisle Gjevestad Agledahl</title>
       <description><![CDATA[Han vil endre influenser-bransjen, men journalisten tror ikke på moralske pekefingre]]></description>
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/8d67db1c-adf2-466e-8b29-6e63686aabc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>58:03</itunes:duration>
       <pubDate>Wed, 22 Feb 2023 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Jørgine Massa Vasstrand</title>
-      <description><![CDATA[Da influenseren var 9 år tok moren henne med til Italia. Det ble starten på en turbulent periode med rå og brutal slossing med jentegjenger. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b3e3f2a3-f3c0-49b1-8115-54b243034dbe_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b3e3f2a3-f3c0-49b1-8115-54b243034dbe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Tue, 21 Feb 2023 14:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
