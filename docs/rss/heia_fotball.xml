@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Mar 2023 12:49:40 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Mar 2023 13:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2023 05:27:19 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Mar 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <item>
+      <title>#342 Amahl Pellegrino</title>
+      <description><![CDATA[Bodø/Glimt-spiller Amahl Pellegrino forteller hvordan han ble Eliteseriens mest verdifulle spiller, mot alle odds. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/ffe98ffc-b1fd-46ae-8c22-2d28ce6b0b83_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/ffe98ffc-b1fd-46ae-8c22-2d28ce6b0b83_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:00:46</itunes:duration>
+      <pubDate>Thu, 16 Mar 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Snakkis: Snøballer, familien Ødegaard og Will Still</title>
       <description><![CDATA[Straffekonk flyttes på grunn av snøballkasting, supertrener Will Still har lært alt av Football Manager, og vinner Arsenal Premiere League?]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d0fa3d6c-7026-4894-9e8e-644b5fea926d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:58:31</itunes:duration>
       <pubDate>Thu, 09 Feb 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>#336 - Karl-Petter Løken</title>
-      <description><![CDATA[Generalsekretær Karl-Petter Løken i Norges Fotballforbund jobber minst 70 timer i uka og lover at vi skal til EM i Tyskland i 2024.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/a190f4f8-91df-412b-88a2-342d26fb4418_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/a190f4f8-91df-412b-88a2-342d26fb4418_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:39:11</itunes:duration>
-      <pubDate>Thu, 02 Feb 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
