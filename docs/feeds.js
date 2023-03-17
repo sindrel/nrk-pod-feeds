@@ -450,6 +450,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "kommentert",
+    "title": "De 10 siste fra Kommentert",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "kongerekka",
     "title": "De 10 siste fra Kongerekka",
     "season": null,
