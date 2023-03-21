@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 Mar 2023 22:28:32 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Mar 2023 22:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2023 22:26:01 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Mar 2023 22:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4gaGiS_XqwJgw6WtibpgPgsxZ8ZnJbohdX0Sj5Eatmdg"/>
+    <item>
+      <title>Hvorfor reiser «rikingene» til Sveits?</title>
+      <description><![CDATA[SVs Kirsti Bergstø sier ryk og reis og møter næringslivet til debatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/efd359b6-f3e1-4fe9-adad-e0e8652a483f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/efd359b6-f3e1-4fe9-adad-e0e8652a483f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:09</itunes:duration>
+      <pubDate>Tue, 21 Mar 2023 22:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Huitfeldts møte med Iran vekker harme</title>
       <description><![CDATA[Norsk-iranere sterkt uenige i at regjeringen møtte iransk minister og feiret den islamske revolusjonen i Teheran.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/9637c6fa-1931-4356-a668-3be6e165d49c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:19</itunes:duration>
       <pubDate>Thu, 16 Feb 2023 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vil at bøtene skal svi enda mer</title>
-      <description><![CDATA[Regjeringen har doblet trafikkbøtene på ett år. Blir det færre dødsulykker av slikt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/feacc8dc-2796-4565-a59d-fa0011c56380_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/feacc8dc-2796-4565-a59d-fa0011c56380_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:58</itunes:duration>
-      <pubDate>Tue, 14 Feb 2023 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
