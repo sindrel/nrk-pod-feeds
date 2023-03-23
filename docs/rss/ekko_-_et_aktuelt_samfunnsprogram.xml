@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 05:26:13 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Mar 2023 12:48:07 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Mar 2023 12:50:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Spørretime: Hva skjer med din økonomi nå?</title>
+      <description><![CDATA[Er det en helt ny finanskrise på gang eller er dette bare litt urolig sjø i finansverdenen? Ekspertene svarer bekymra lyttere. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4cd1bbe1-15c3-493e-9e80-c34d88b370d1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4cd1bbe1-15c3-493e-9e80-c34d88b370d1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:17</itunes:duration>
+      <pubDate>Thu, 23 Mar 2023 12:50:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvorfor blir minoritetsmenn deprimert?</title>
       <description><![CDATA[Psykolog Usman Chaudhry har strevd med depresjon, og skriver dikt om hvordan han og andre norsk-pakistanere tar vare på egen psykisk helse.
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a3a8775e-5e85-4fe1-a7db-f349fb533980_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:28</itunes:duration>
       <pubDate>Wed, 01 Mar 2023 08:50:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hva gjør kokain med deg?</title>
-      <description><![CDATA[Rusforsker Willy Pedersen er bekymret for økende kokainbruk i festkulturen. -De fleste legger dette av seg, men noen henger fast i det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/aea4e84d-0b26-4fb7-bba3-c8c635f56fe0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/aea4e84d-0b26-4fb7-bba3-c8c635f56fe0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:16</itunes:duration>
-      <pubDate>Tue, 28 Feb 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
