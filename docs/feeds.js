@@ -309,7 +309,7 @@ const feeds = [
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "historiske_kjendiser",
