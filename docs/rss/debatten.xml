@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 22:26:01 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Mar 2023 22:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Mar 2023 22:27:31 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Mar 2023 22:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4gaGiS_XqwJgw6WtibpgPgsxZ8ZnJbohdX0Sj5Eatmdg"/>
+    <item>
+      <title>Statkrafts millionbonuser hisser til debatt</title>
+      <description><![CDATA[Skal statseide selskap premiere ansatte med høye bonuser og være åpne om det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/78b6e8f1-103e-45f7-ad92-732017d6a32f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/78b6e8f1-103e-45f7-ad92-732017d6a32f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:55</itunes:duration>
+      <pubDate>Thu, 23 Mar 2023 22:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Hvorfor reiser «rikingene» til Sveits?</title>
       <description><![CDATA[SVs Kirsti Bergstø sier ryk og reis og møter næringslivet til debatt.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/60166a52-3105-4c9b-a888-712c59a486ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:15</itunes:duration>
       <pubDate>Tue, 21 Feb 2023 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>NAV sender folk til matkø hos Frelsesarmeen</title>
-      <description><![CDATA[Er det andre enn det offentliges ansvar å sørge for at folk har mat på bordet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/9637c6fa-1931-4356-a668-3be6e165d49c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/9637c6fa-1931-4356-a668-3be6e165d49c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:19</itunes:duration>
-      <pubDate>Thu, 16 Feb 2023 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
