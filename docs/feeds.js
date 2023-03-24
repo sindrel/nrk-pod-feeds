@@ -192,12 +192,24 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "eventyrstund_med_morten_og_saft",
+    "title": "De 10 siste fra Eventyrstund med Morten og Saft",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "familiene_paa_orderud",
     "title": "De 10 siste fra Familiene på Orderud",
     "season": null,
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "fantorangenfortellinger",
+    "title": "De 10 siste fra Fantorangenfortellinger",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "fantorangens_lydmysterier",
@@ -298,6 +310,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "guttapassasjen",
+    "title": "De 10 siste fra Guttapassasjen",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "heia_fotball",
