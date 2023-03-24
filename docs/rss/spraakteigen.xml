@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 17 Mar 2023 05:27:39 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 24 Mar 2023 05:26:43 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ"/>
+    <item>
+      <title>Oslo-mål, snedig og overlegen</title>
+      <description><![CDATA[Er Oslo-målet ei dialekt? Ikke si snedig når du mener snodig, eller overlegen når du mener overlegen!
+I panelet: Toril Opsahl, Øystein Vangsnes og Mari Nygård.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/9c78b2fc-a5c0-407a-a19d-38bf5f5ebbd9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/9c78b2fc-a5c0-407a-a19d-38bf5f5ebbd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:54</itunes:duration>
+      <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Tindre, sensitivitetsleser og trøndere</title>
       <description><![CDATA[Kan man tindre seg ei dame? Er en sensitivitetsleser hvem som helst? Hvorfor har trøndere gått fra å bruke palatal "n" til retrofleks "n"?
@@ -90,15 +99,6 @@ I panel:  Helene Uri, Olaf Husby og Andre Midtskogseter Reite.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/spraakteigen/76e09ac7-fdac-4c76-b173-0be6e8a05324_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:01:51</itunes:duration>
       <pubDate>Fri, 20 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nuskelusk, musefletter og æpp eller app</title>
-      <description><![CDATA[Hvorfor bruker vi kallenavn på kjæledyrene? Vi sier æpp og tæppe, men kan ordene skrives slik? Er uttalen av bokstaven r på vei ut i østlandsk? 
-I panelet: Anne Mette Sunde, Jan Kristian Hognestad og Ellen Andenæs.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/25aa5475-93a4-427f-a0bc-89a2658ca821_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/25aa5475-93a4-427f-a0bc-89a2658ca821_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:52</itunes:duration>
-      <pubDate>Fri, 13 Jan 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
