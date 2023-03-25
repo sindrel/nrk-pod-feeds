@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 18 Mar 2023 05:26:22 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2023 05:25:40 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Isak forsvinner i isødet</title>
+      <description><![CDATA[Jens og Isak mister hverandre i isødet på Grønland. Jens må følge sporene til Isak, som fører rett ut i utrygg is. 
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/3c01dc2d-c7ea-4050-864d-ba665aa0daa6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/3c01dc2d-c7ea-4050-864d-ba665aa0daa6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:55</itunes:duration>
+      <pubDate>Sat, 25 Mar 2023 06:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Grønlandshund, sledebygging og hvalkuk</title>
       <description><![CDATA[Jens og Isak forteller hvordan det gikk da de skulle skaffe seg eget hundespann på Grønland. Det var enklere sagt enn gjort!]]></description>
@@ -82,15 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/2aa253d1-3ee7-49e1-84fa-c0796f52f70c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Sat, 08 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Harejakt, byggekaos og praktiske tamponger</title>
-      <description><![CDATA[Isak har vært på harejakt og klikker av byggesaksbyråkrati, mens Jens gir deg svaret på hvordan tamponger kan brukes som mår-felle! 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/fa91b1ca-13fe-48f1-b22c-840b98e6e0de_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/fa91b1ca-13fe-48f1-b22c-840b98e6e0de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:09</itunes:duration>
-      <pubDate>Sat, 01 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
