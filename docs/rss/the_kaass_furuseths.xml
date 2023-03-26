@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 19 Mar 2023 05:26:34 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 26 Mar 2023 04:29:54 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Mar 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Sval</title>
+      <description><![CDATA[Popstjerna Sval lytter til country-musikk og spiser smågodt mens hun hilser på alle deler av seg selv på søndager. I dag har hun også Else på besøk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/f6a441b2-5f5d-408a-ab6f-43c32caf1979_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/f6a441b2-5f5d-408a-ab6f-43c32caf1979_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:44</itunes:duration>
+      <pubDate>Sun, 26 Mar 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Else besøker: Linnéa Myhre og Emil Gukild</title>
       <description><![CDATA[Linnéa Myhre og Emil Gukild skal gifte seg til sommeren. De forteller om biltrøbbel på USA-tur, en rekke uvanlige dater, og om hvorfor de har gitt hverandre sabler i gave.]]></description>
@@ -82,15 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e5c044f8-b320-4328-93a9-826a477d7a7e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:24</itunes:duration>
       <pubDate>Sun, 22 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Else besøker: Anne Lindmo</title>
-      <description><![CDATA[Talkshowdronning Anne Lindmo forteller hvorfor hun liker stygge urner, hvem folk tror er kusina hennes, og hva som er hennes største last i livet.  
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/dd459d14-ba54-4ff3-bc61-42dd65528123_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/dd459d14-ba54-4ff3-bc61-42dd65528123_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:26</itunes:duration>
-      <pubDate>Sun, 15 Jan 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
