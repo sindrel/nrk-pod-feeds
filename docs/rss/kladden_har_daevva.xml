@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Kladden har dævva</title>
+    <title>De 9 siste fra Kladden har dævva</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Kladden har dævva. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kladden_har_daevva for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Kladden har dævva. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kladden_har_daevva for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Mar 2023 05:27:34 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Mar 2023 04:31:04 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Mar 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA"/>
+    <item>
+      <title>Sigrid Bonde Tusvik - for travel til å dø </title>
+      <description><![CDATA[Martin har på en måte nesten dødd siden sist, Sigrid vil faen ikke dø og vil helst slippe å bære kister. Bonustelefon til redningsmannen fra klamydiadammen! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/481f74e5-fb67-47a3-81ff-0fbc71ae1851_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/481f74e5-fb67-47a3-81ff-0fbc71ae1851_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:24</itunes:duration>
+      <pubDate>Mon, 27 Mar 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Odd-Magnus Williamson søker taksidermist </title>
       <description><![CDATA[Han er mer redd for baksmell på skatten enn for døden, men skulle gjerne hatt en pumpehagle til å forsvare seg med. Just in case. ]]></description>
