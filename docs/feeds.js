@@ -111,7 +111,7 @@ const feeds = [
     "id": "burde_vaert_pensum",
     "title": "De 10 siste fra Burde vært pensum",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "clue",
