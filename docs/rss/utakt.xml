@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 22 Mar 2023 09:25:19 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Mar 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Mar 2023 08:31:16 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Mar 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g"/>
+    <item>
+      <title>Fremtidsvisjoner og cola-yoghurt-brus</title>
+      <description><![CDATA[Fremtidens retningsanvisninger og fremtidens autografer. Vi ser også på tusenbein.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/8ec3e191-a2aa-4027-8421-31c71348bb3e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/8ec3e191-a2aa-4027-8421-31c71348bb3e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:39</itunes:duration>
+      <pubDate>Wed, 29 Mar 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Nitrogen-cola og barnestjerner</title>
       <description><![CDATA[Vi foreslår obligatoriske bolig-sertifikat. Vi spør også: Kan kunstig intelligens lage pizza og hvor mange sex-partnere har du hatt?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/1c2eeaa2-a7fd-4a2f-b6b7-ea86eae1f83b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:05</itunes:duration>
       <pubDate>Wed, 25 Jan 2023 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Tikk-Takk Reklamebyrå lever </title>
-      <description><![CDATA[Vi tester kunstig intelligens. Vi sklir på bananskall og vi gir gode råd til deg som skal fri. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/f23d2e5c-7cee-49f0-8182-4de45b9dfde4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utakt/f23d2e5c-7cee-49f0-8182-4de45b9dfde4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:08</itunes:duration>
-      <pubDate>Wed, 18 Jan 2023 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
