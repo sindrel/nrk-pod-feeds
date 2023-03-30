@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Mar 2023 16:36:22 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Mar 2023 16:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2023 14:27:21 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Mar 2023 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA"/>
+    <item>
+      <title>Hytteskrekk og gru</title>
+      <description><![CDATA[Ifølge skrekkfilmsjangeren er det ikke bare kos på hytta. Vi har undersøkt hva som kan gå galt, og gir deg noen blodige og uhyggelige filmfavoritter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/63dd41dc-ebc0-4d11-85ba-e652759f0c7c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/63dd41dc-ebc0-4d11-85ba-e652759f0c7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:30</itunes:duration>
+      <pubDate>Thu, 30 Mar 2023 16:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Virus, flykrasj og kannibalisme</title>
       <description><![CDATA[Har du abstinenser etter «The Last of Us»? Da kan du overleve ved hjelp av disse 6 film- og serietipsene om overlevelse.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/05d94ef6-9769-491b-bf52-e862f190b114_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>37:45</itunes:duration>
       <pubDate>Thu, 26 Jan 2023 14:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Når Hollywood-versjonen blir meh!</title>
-      <description><![CDATA[Denne uken har Tom Hanks-filmen «A Man Called Otto» premiere. Den føyer seg inn i rekken av Hollywood-versjoner av eksisterende filmer som vi egentlig ikke trenger. Vi diskuterer hvorfor Hollywood er så lite kreative, og kommer med ett tips til en nyinnspilling som faktisk er bedre enn originalen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/45ee873d-7912-4613-baab-be509c457c69_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/45ee873d-7912-4613-baab-be509c457c69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:53</itunes:duration>
-      <pubDate>Thu, 19 Jan 2023 16:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
