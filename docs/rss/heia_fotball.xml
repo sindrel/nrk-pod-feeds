@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Mar 2023 11:23:00 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Mar 2023 12:50:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2023 04:30:30 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Mar 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <item>
+      <title>#344 Kristoffer Olsen</title>
+      <description><![CDATA[Skuespiller Kristoffer Olsen forteller om Keira Knigthley, Kaliningrad og den mystiske hettegenseren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/6767f932-7eff-4a52-990d-a77214ff0d18_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/6767f932-7eff-4a52-990d-a77214ff0d18_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:22:52</itunes:duration>
+      <pubDate>Thu, 30 Mar 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Snakkis: Naken-spa, Bølgen og Kjernen-dialog</title>
       <description><![CDATA[Malin har vært på Naken-spa, Tete hater fortsatt Bølgen og Sven har hatt en fin prat med sinte fans på Twitter.]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/e03c828c-b233-4eaa-b134-8129eb308ded_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:19</itunes:duration>
       <pubDate>Mon, 27 Feb 2023 13:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kunngjøring!</title>
-      <description><![CDATA[Viktig melding: Vi utvider. Bidra gjerne med innspill til heiafotball@nrk.no eller på twitter @p3heiafotball.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/02c793b7-81d5-4dda-8ce3-40c834ec6ca3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/02c793b7-81d5-4dda-8ce3-40c834ec6ca3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:15</itunes:duration>
-      <pubDate>Fri, 24 Feb 2023 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

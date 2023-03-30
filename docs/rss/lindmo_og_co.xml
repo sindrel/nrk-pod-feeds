@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Mar 2023 05:25:52 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2023 04:30:35 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Mar 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ"/>
+    <item>
+      <title>Shoppestopp</title>
+      <description><![CDATA[Anne har mista evnen til å shoppe, Halvor har fått ny sveis og Rune har tips for den aldrende klubbgjenger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/49b5fd6b-f849-49fb-a866-75e78ab75856_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/49b5fd6b-f849-49fb-a866-75e78ab75856_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:56</itunes:duration>
+      <pubDate>Thu, 30 Mar 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Svarta Bjørn</title>
       <description><![CDATA[Anne har vært i Nord-Norge og ruller terningkast seks på Narvik!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/e8d279ba-f6c1-4898-9a25-bf116f59469c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:41</itunes:duration>
       <pubDate>Thu, 26 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Høy svull</title>
-      <description><![CDATA[Anne har skapt kork i Oslo-trafikken,  Rune har lært seg å gå på ski og Halvor vurderer å stjele fra sønnens sparebøsse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/31e59e82-fa5d-4c15-b927-028fddd6537b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/31e59e82-fa5d-4c15-b927-028fddd6537b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:40</itunes:duration>
-      <pubDate>Thu, 19 Jan 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
