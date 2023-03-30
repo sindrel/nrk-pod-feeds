@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Mar 2023 08:32:11 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Mar 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2023 10:29:49 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Mar 2023 11:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>- Skolen er brutal for mange</title>
+      <description><![CDATA[Utsetter det norske skolesystemet barn for systematisk omsorgssvikt? Skader skolen barns psykiske og fysiske helse?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/35fef231-094d-48dd-9b77-3a7989dc9a95_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/35fef231-094d-48dd-9b77-3a7989dc9a95_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:51</itunes:duration>
+      <pubDate>Thu, 30 Mar 2023 11:30:00 +0200</pubDate>
+    </item>
     <item>
       <title> Skyldes rikdom talent eller flaks?</title>
       <description><![CDATA[Hvordan vi tenker om de rike får store konsekvenser for samfunnet.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/bcb97e47-97b5-42e1-a0ac-9ced1aac3662_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:55</itunes:duration>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hvordan er "kampen om historien" i skolen?</title>
-      <description><![CDATA[Historien er en ideologisk slagmark. Særlig merkes det i amerikanske klasserom. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/88d3d8e6-d18c-495d-a637-1c97356d0522_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/88d3d8e6-d18c-495d-a637-1c97356d0522_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:52</itunes:duration>
-      <pubDate>Sun, 26 Feb 2023 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
