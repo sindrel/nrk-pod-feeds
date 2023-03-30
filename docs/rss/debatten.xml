@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 Mar 2023 22:26:49 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Mar 2023 21:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2023 21:22:10 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Mar 2023 22:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+    <item>
+      <title>Nå skjer det noe i EU-debatten</title>
+      <description><![CDATA[Høyre vil ha utredning om norsk EU-medlemskap og MDG vil ha forhandlinger og folkeavstemning. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/00c2d68e-c219-46b0-a978-a10912d87b3d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/00c2d68e-c219-46b0-a978-a10912d87b3d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:55</itunes:duration>
+      <pubDate>Thu, 30 Mar 2023 22:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Laksemilliardærer møter Støre og Vedum</title>
       <description><![CDATA[Krever at statsministeren lytter til dem som sier at skatten ødelegger næringen.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/d4bd20ea-860f-4eff-adb7-5d769a3f3f34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:18</itunes:duration>
       <pubDate>Tue, 28 Feb 2023 22:05:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vil fjerne Sophie Elise fra NRK</title>
-      <description><![CDATA[Hva er det med fenomenet Sophie Elise som hisser opp det norske folk?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/565f7b29-cbc0-4f93-821c-f5b85051f97d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/565f7b29-cbc0-4f93-821c-f5b85051f97d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:10</itunes:duration>
-      <pubDate>Thu, 23 Feb 2023 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
