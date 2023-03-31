@@ -1,16 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Fantorangenfortellinger</title>
+    <title>De 5 siste fra Fantorangenfortellinger</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Fantorangenfortellinger. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantorangenfortellinger for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Fantorangenfortellinger. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantorangenfortellinger for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 24 Mar 2023 07:23:00 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 31 Mar 2023 04:30:27 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Mar 2023 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/uY0voNJjGJXQgjyIj8BGaQQPTFYBL8eBkR8hS_sBd4fQ"/>
+    <item>
+      <title>Stjernefotball</title>
+      <description><![CDATA[Fantorangen og Pivi ligger i snøsofaen og ser på stjernene. Plutselig faller det noe ned fra stjernehimmelen. Er det en snøfotball? Eller er det et lite romvesen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/1a422a87-46d4-41f8-b2cd-01d8b0933ee5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/1a422a87-46d4-41f8-b2cd-01d8b0933ee5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:43</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kattehattemakeren</title>
+      <description><![CDATA[Det er vinterstorm og Pivi trenger en varm hatt for ikke å fryse på ørene. Heldigvis kjenner Fantorangen en Kattehattemaker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/9baa2820-442a-46b7-9a29-02172943796f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/9baa2820-442a-46b7-9a29-02172943796f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:02</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:02:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kamelmelbollefest</title>
+      <description><![CDATA[Fantorangen og Pivi må finne en kamel, så de kan lage kamelboller til bollefesten. Nei, ikke kanelboller, men kamelboller. 
+Gjestene kommer snart. Hvor kan de finne en kamel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/58986286-c751-44d4-b730-81846e2303f0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/58986286-c751-44d4-b730-81846e2303f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:06</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Heksekost og stinkepromp</title>
+      <description><![CDATA[ Det stinker promp. Når Fantorangen og Pivi finner ut at det er en heks som promper på taket deres, gjør de alt for å få henne bort. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/d3921d9a-9ba7-46d9-90ab-dcf665c628d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/d3921d9a-9ba7-46d9-90ab-dcf665c628d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:06</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Fantorangenfortellinger har premiere 31.mars</title>
       <description><![CDATA[I Pivi og Fantorangen sin verden kan alt skje, og det gjør det. De to vennne møter på gøyale, rare og spennende utfordringer.  

@@ -1,23 +1,114 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Guttapassasjen</title>
+    <title>De 7 siste fra Guttapassasjen</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Guttapassasjen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/guttapassasjen for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Guttapassasjen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/guttapassasjen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 24 Mar 2023 07:23:01 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 31 Mar 2023 04:30:30 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Mar 2023 06:06:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zNiiAJz-PW7g3KncoT9czg47yOXQq9w323Eyw3mhADOg"/>
     <item>
-      <title>Premiereteaser</title>
-      <description><![CDATA[Guttapassasjen kommer 31. mars! ]]></description>
+      <title>Fire kompiser blir drept på hyttetur. Hva skjedde?</title>
+      <description><![CDATA[Hør alle episodene kun i appen NRK Radio – fra fredag 31. mars.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/guttapassasjen/71f1fa8d-c3dd-41e8-9025-b44293584114_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/guttapassasjen/71f1fa8d-c3dd-41e8-9025-b44293584114_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:46</itunes:duration>
+      <itunes:duration>01:44</itunes:duration>
       <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Guttapodden (1:6)</title>
+      <description><![CDATA[Det er god stemning på hytta. Så finner Eilif en hagle og putter den i munnen.
+
+Skuespillere: Darin Hagi, Gustav Lie Gundersen, Erik Goplen, David Kløve Kjernlie, Joakim Ljønes, Linn Skåber, Trond Fausa Aurvåg m.fl.
+Manus: Gustav Lie Gundersen og Erik Goplen 
+Regi: Gustav Lie Gundersen og Erik Goplen 
+Lyddesign: Pål Gauslaa Sivertzen
+Produsent: Ingrid Torjesen
+Redaktør: Marianne Furevold 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/guttapassasjen/083562ea-9820-4d2f-82be-372e04ff6bd9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/guttapassasjen/083562ea-9820-4d2f-82be-372e04ff6bd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:16</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Alias (2:6)</title>
+      <description><![CDATA[Sistemann, som går under navnet Tom Hanks, kommer én dag etter de andre. Gutta finner ut at Snorre har med seg en mystisk koffert.
+
+Skuespillere: Darin Hagi, Gustav Lie Gundersen, Erik Goplen, David Kløve Kjernlie, Joakim Ljønes, Sarah Francesca, Francisco Kalle Navarro m.fl.
+Manus: Gustav Lie Gundersen og Erik Goplen 
+Regi: Gustav Lie Gundersen og Erik Goplen 
+Lyddesign: Pål Gauslaa Sivertzen
+Produsent: Ingrid Torjesen
+Redaktør: Marianne Furevold ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/guttapassasjen/6e7b3fe7-3eeb-40a0-8940-8ab108bbe41e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/guttapassasjen/6e7b3fe7-3eeb-40a0-8940-8ab108bbe41e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:18</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:02:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kofferten (3:6)</title>
+      <description><![CDATA[Gutta blir redde når de skjønner at noen skal hente den mystiske kofferten, og insisterer på at Snorre skal åpne den.
+
+Skuespillere: Darin Hagi, Gustav Lie Gundersen, Erik Goplen, David Kløve Kjernlie, Joakim Ljønes, Marit Adeleide Andreassen, Tara Lina Shahin m.fl.
+Manus: Gustav Lie Gundersen og Erik Goplen 
+Regi: Gustav Lie Gundersen og Erik Goplen 
+Lyddesign: Pål Gauslaa Sivertzen
+Produsent: Ingrid Torjesen
+Redaktør: Marianne Furevold ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/guttapassasjen/975925d7-283f-4264-a14e-1501f13c1512_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/guttapassasjen/975925d7-283f-4264-a14e-1501f13c1512_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:10</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lierfest (4:6)</title>
+      <description><![CDATA[Clara oppsøker gamle venner, og får vite en hemmelighet. Kanskje gutta ikke var så uskyldige likevel?
+
+Skuespillere: Darin Hagi, Gustav Lie Gundersen, Erik Goplen, David Kløve Kjernlie, Joakim Ljønes, Linn Skåber, Tara Lina Shahin, Francisco Kalle Navarro, Marie Guldteig, Ellen Sekulic Andenæs, Brita Gram Økland, Helle Ryg Eia, Hedda Gundersen Gullikstad, Anna Filippa Hjarne. 
+Manus: Gustav Lie Gundersen og Erik Goplen 
+Regi: Gustav Lie Gundersen og Erik Goplen 
+Lyddesign: Pål Gauslaa Sivertzen
+Produsent: Ingrid Torjesen
+Redaktør: Marianne Furevold ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/guttapassasjen/2f2893d1-034c-4b8f-8319-5b6054c47627_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/guttapassasjen/2f2893d1-034c-4b8f-8319-5b6054c47627_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:57</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:04:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>TurtleKing (5:6)</title>
+      <description><![CDATA[Brått stopper alle opptakene. Clara oppsøker den mystiske TurtleKing i håp om å finne ut noe mer.
+
+Skuespillere: Darin Hagi, Gustav Lie Gundersen, Erik Goplen, David Kløve Kjernlie, Joakim Ljønes, Linn Skåber, Sarah Francesca, Pfilip Helgar, Robin Wissler, Marie Guldteig, Ellen Sekulic Andenæs, Brita Gram Økland, Helle Ryg Eia, Hedda Gundersen Gullikstad, Jon Sindre Fjellvang, Lilli Marie Haug Lundby.
+Manus: Gustav Lie Gundersen og Erik Goplen 
+Regi: Gustav Lie Gundersen og Erik Goplen 
+Lyddesign: Pål Gauslaa Sivertzen
+Produsent: Ingrid Torjesen
+Redaktør: Marianne Furevold ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/guttapassasjen/2dc3af33-35be-420c-9f5a-99619f708686_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/guttapassasjen/2dc3af33-35be-420c-9f5a-99619f708686_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:05:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Den siste mobilen (6:6)</title>
+      <description><![CDATA[Clara reiser til hytta og leter etter den savnede telefonen til Tom Hanks. Kan den gi svaret på hva som skjedde?
+
+Skuespillere: Darin Hagi, Gustav Lie Gundersen, Erik Goplen, Joakim Ljønes, Linn Skåber, Bernhard Arnø.
+Manus: Gustav Lie Gundersen og Erik Goplen 
+Regi: Gustav Lie Gundersen og Erik Goplen 
+Lyddesign: Pål Gauslaa Sivertzen
+Produsent: Ingrid Torjesen
+Redaktør: Marianne Furevold ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/guttapassasjen/4440f613-90d1-4094-b310-5f78b669607c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/guttapassasjen/4440f613-90d1-4094-b310-5f78b669607c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:48</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:06:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
