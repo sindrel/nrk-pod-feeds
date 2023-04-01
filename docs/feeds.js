@@ -882,7 +882,7 @@ const feeds = [
     "id": "radioteatrets_paaskekrim",
     "title": "De 10 siste fra Mørke fortellinger",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "revolusjonen",
@@ -996,7 +996,7 @@ const feeds = [
     "id": "sophie_og_fetisha",
     "title": "De 10 siste fra Sophie og Fetisha",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "sos_noedtelefonen",
