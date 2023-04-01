@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 25 Mar 2023 05:25:40 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Mar 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 01 Apr 2023 04:29:00 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Seljakt, mor Toku og urbefolkningen</title>
+      <description><![CDATA[Jens og Isak får være med på seljakt og blir kjent med Toku, som blir som en mor for dem på Grønland. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/b1256d28-3187-4e78-bee5-82f2ba8c46ca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/b1256d28-3187-4e78-bee5-82f2ba8c46ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:11</itunes:duration>
+      <pubDate>Sat, 01 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Isak forsvinner i isødet</title>
       <description><![CDATA[Jens og Isak mister hverandre i isødet på Grønland. Jens må følge sporene til Isak, som fører rett ut i utrygg is. 
@@ -23,7 +31,7 @@
     </item>
     <item>
       <title>Grønlandshund, sledebygging og hvalkuk</title>
-      <description><![CDATA[Jens og Isak forteller hvordan det gikk da de skulle skaffe seg eget hundespann på Grønland. Det var enklere sagt enn gjort!]]></description>
+      <description><![CDATA[Jens og Isak forteller hvordan det gikk da de skulle skaffe seg eget hundespann på Grønland. Det var enklere sagt enn gjort! ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/a2b64b65-99ba-4703-8a23-4bfd1b83073f_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/skitprat/a2b64b65-99ba-4703-8a23-4bfd1b83073f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:02</itunes:duration>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/ba3f9c10-0898-4e9f-8745-85c8db00faed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:46</itunes:duration>
       <pubDate>Sat, 15 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Leirplass, kokegrop og trofébilder på jakt</title>
-      <description><![CDATA[Oktober er høytid fra å sove ute og Jens forteller om leirplassen fra helvete. Gutta diskuterer også om trofébilder på jakt er innafor.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/2aa253d1-3ee7-49e1-84fa-c0796f52f70c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/2aa253d1-3ee7-49e1-84fa-c0796f52f70c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Sat, 08 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
