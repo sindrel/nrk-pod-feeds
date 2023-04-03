@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Kladden har dævva</title>
+    <title>De 10 siste fra Kladden har dævva</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Kladden har dævva. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kladden_har_daevva for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kladden har dævva. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kladden_har_daevva for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Mar 2023 04:31:04 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Mar 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Apr 2023 04:29:06 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA"/>
+    <item>
+      <title>Tor-Håkon Håvardsen, begravelsesagenten </title>
+      <description><![CDATA[Om hva som skjer med oss etter døden, hvorfor man ikke bør dø på varmekabler, om kistebunnen som ga etter og utrolige historier fra et liv med de døde. Med landets mest tatoverte og triveligste begravelsesagent, Tor-Håkon Gabriel Håvardsen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/a0ae162a-13d2-41c3-99e9-aee829e4bb4d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a0ae162a-13d2-41c3-99e9-aee829e4bb4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:01</itunes:duration>
+      <pubDate>Mon, 03 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Sigrid Bonde Tusvik - for travel til å dø </title>
       <description><![CDATA[Martin har på en måte nesten dødd siden sist, Sigrid vil faen ikke dø og vil helst slippe å bære kister. Bonustelefon til redningsmannen fra klamydiadammen! ]]></description>
