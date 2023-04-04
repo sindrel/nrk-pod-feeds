@@ -748,12 +748,11 @@ const feeds = [
   },
   {
     "id": "o-fag",
-    "title": "De 10 siste fra O-fag",
+    "title": "De 55 siste fra O-fag",
     "season": null,
-    "enabled": true,
-    "ignore": false,
-    "hidden": false,
-    "episodes": 0
+    "enabled": false,
+    "ignore": true,
+    "hidden": false
   },
   {
     "id": "odaspodda",
