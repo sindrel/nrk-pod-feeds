@@ -49,6 +49,10 @@ def update_podcasts_config(configured, discovered):
 
         metadata = psapi.get_podcast_metadata(podcast['seriesId'])
 
+        if not metadata:
+            logging.warning(f"No metadata was found for podcast {podcast['seriesId']}")
+            continue
+
         if "category" in metadata['series'] and metadata['series']['category']['id'] in ignored_categories:
             logging.debug(f"Podcast {podcast['seriesId']} is in ignored category {metadata['series']['category']['id']}")
             continue
