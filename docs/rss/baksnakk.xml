@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 Mar 2023 04:30:46 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Mar 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2023 04:28:48 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Er jeg drittsekken?</title>
+      <description><![CDATA[Zara har gravd fram litt fordømmelse fra sitt favorittforum, og Lydia trodde hun hadde mistet en arm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/47109c8a-9901-4485-9eb3-8a1bef532dbf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/47109c8a-9901-4485-9eb3-8a1bef532dbf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:40</itunes:duration>
+      <pubDate>Tue, 04 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Flaks at puppene mine er små og ydmyke</title>
       <description><![CDATA[Zara og Lydia får hjelp av en trollmann.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/38a48092-6e26-4317-9aab-c66d851911e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:27</itunes:duration>
       <pubDate>Tue, 31 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Icks om hverandre</title>
-      <description><![CDATA[Milie er i studio og vi deler dramatiske beretninger fra julen og hvilke icks vi har om hverandre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/db97aacb-1121-47d8-ab02-d341f105938e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/db97aacb-1121-47d8-ab02-d341f105938e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:17</itunes:duration>
-      <pubDate>Tue, 24 Jan 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

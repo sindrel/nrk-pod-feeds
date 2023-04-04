@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Hvordan møttes dere? </title>
+    <title>De 10 siste fra Hvordan møttes dere? </title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Hvordan møttes dere? . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hvordan_moettes_dere_ for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hvordan møttes dere? . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hvordan_moettes_dere_ for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 Mar 2023 04:30:58 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Mar 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2023 04:29:04 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/OD3v6WqJ1GtvBmx6BvV_-Q7T5Wi8xtzlVb0I9PLhWb9w"/>
+    <item>
+      <title>Martine Halvorsen (9:10)  </title>
+      <description><![CDATA[Martine Halvorsen blir kjent med Christian Kåsastul på Snapchat. Han avlyser to ganger før han endelig våger å møte henne på tredje forsøk.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/0b211b0e-7814-4fa9-b333-36c103784a72_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/0b211b0e-7814-4fa9-b333-36c103784a72_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:51</itunes:duration>
+      <pubDate>Tue, 04 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Tonje F. Garvik (8:10)</title>
       <description><![CDATA[Tonje F. Garvik har nettopp kommet ut av et langt forhold og er overhodet ikke interessert i å møte noen, men så møter hun blikket til Lene.]]></description>
