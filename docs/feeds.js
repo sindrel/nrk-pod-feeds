@@ -678,8 +678,7 @@ const feeds = [
     "id": "mysterier_fra_norge",
     "title": "De 10 siste fra Mysterier fra Norge",
     "season": null,
-    "enabled": false,
-    "hidden": true
+    "enabled": true
   },
   {
     "id": "natt_til_loerdag",
@@ -748,11 +747,11 @@ const feeds = [
   },
   {
     "id": "o-fag",
-    "title": "De 55 siste fra O-fag",
+    "title": "De 10 siste fra O-fag",
     "season": null,
     "enabled": false,
     "ignore": true,
-    "hidden": false
+    "hidden": true
   },
   {
     "id": "odaspodda",
