@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Mar 2023 08:31:16 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Mar 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Apr 2023 08:31:50 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Apr 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g"/>
+    <item>
+      <title>Flodsvin, Bever og usynlige gensere</title>
+      <description><![CDATA[Vi snakker også om møbel-kretsløpet, smarte do-dører, Pepsi Peeps og  Påskelabyrint med mestringsfølelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/4136fa13-ca07-4fdd-b113-b88a0f235386_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/4136fa13-ca07-4fdd-b113-b88a0f235386_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:43</itunes:duration>
+      <pubDate>Wed, 05 Apr 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Fremtidsvisjoner og cola-yoghurt-brus</title>
       <description><![CDATA[Fremtidens retningsanvisninger og fremtidens autografer. Vi ser også på tusenbein.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/1b95df04-1b5f-4598-801f-89b6fe70ae17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:31</itunes:duration>
       <pubDate>Wed, 01 Feb 2023 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Sulliker, såpekokere og auto-tune</title>
-      <description><![CDATA[Vi skiter i eget reir, rangerer gavekort, prøver mer kunstig intelligens og foredrar om grønne, hvite og blå kort i idretten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/1c2eeaa2-a7fd-4a2f-b6b7-ea86eae1f83b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utakt/1c2eeaa2-a7fd-4a2f-b6b7-ea86eae1f83b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:05</itunes:duration>
-      <pubDate>Wed, 25 Jan 2023 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
