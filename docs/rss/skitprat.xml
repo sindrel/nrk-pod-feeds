@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 01 Apr 2023 04:29:00 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Apr 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 08 Apr 2023 04:28:49 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"/>
+    <item>
+      <title>Vårløsning, isfjell og hvalfangst</title>
+      <description><![CDATA[Det er vår på Grønland, Isak syr isbjørnbukse og Jens får være med hvalfangst, men det er så vidt han kommer hjem igjen! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/7a14bea7-a6f7-4310-8c13-5a5ddf620133_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/7a14bea7-a6f7-4310-8c13-5a5ddf620133_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:02</itunes:duration>
+      <pubDate>Sat, 08 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Seljakt, mor Toku og urbefolkningen</title>
       <description><![CDATA[Jens og Isak får være med på seljakt og blir kjent med Toku, som blir som en mor for dem på Grønland. ]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skitprat/90b9d6fb-4f54-484b-9802-8384c7cc772e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:40</itunes:duration>
       <pubDate>Sat, 22 Oct 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Skogsfugljakt, hestesanking og cowboyliv</title>
-      <description><![CDATA[Jens og Isak deler sine beste historier og flauser fra skogsfugl-jakta og gutta drømmer om et liv som cowboy og indianer. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skitprat/ba3f9c10-0898-4e9f-8745-85c8db00faed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skitprat/ba3f9c10-0898-4e9f-8745-85c8db00faed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:46</itunes:duration>
-      <pubDate>Sat, 15 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
