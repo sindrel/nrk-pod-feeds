@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 04:29:34 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Apr 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2023 04:29:06 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Spørretime: Hvordan plante ute?</title>
+      <description><![CDATA[Få hjelp med å vekke hagen, vinduskarmen eller balkongen for sesongen! Mat-dyrkeren, agronomen og landskapsarkitekten svarer på spørsmål. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/31d55319-dcf3-4812-a296-581b59be801f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/31d55319-dcf3-4812-a296-581b59be801f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Wed, 12 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hvordan jobbe mindre?</title>
       <description><![CDATA[Filosofen, bonden og økonomen diskuterer. Og blir ikke helt enige.]]></description>
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0e6000d3-ca3b-4e58-9245-05f3dd2f9ff0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:48</itunes:duration>
       <pubDate>Tue, 14 Mar 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hva tenker voldtektsmannen selv?</title>
-      <description><![CDATA[En av fem norske kvinner oppgir at de har blitt voldtatt. Hva tenker voldtektsmennene om egen forbrytelse? Det ville en ung filmskaper finne ut av.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b35b58e3-fe01-42f2-9ef9-ea4102e65a53_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b35b58e3-fe01-42f2-9ef9-ea4102e65a53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:29</itunes:duration>
-      <pubDate>Fri, 10 Mar 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
