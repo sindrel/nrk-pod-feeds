@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 21:22:05 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Apr 2023 22:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Apr 2023 21:22:04 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Apr 2023 22:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+    <item>
+      <title>Slankemedisiner tar av</title>
+      <description><![CDATA[Fedmeeksperter kaller de nye medisinene en slankerevolusjon, men staten nekter å betale.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/4fcfd325-5da3-4d01-b187-ab8fbed7f597_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/4fcfd325-5da3-4d01-b187-ab8fbed7f597_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:26</itunes:duration>
+      <pubDate>Thu, 13 Apr 2023 22:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Får vi nå dyrere melk?</title>
       <description><![CDATA[Regjeringen trosser faglige råd og kutter støtten til Q-Meieriene.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/5aa85c68-15c2-4c05-be1f-3e76d4660cef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:36</itunes:duration>
       <pubDate>Tue, 07 Mar 2023 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vil ha livsvarig forbud mot tobakk</title>
-      <description><![CDATA[Forslag om røyke-aldersgrense på 60, 70 og 80 år - og forbud mot smakstilsatt snus.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/45b324ab-7f69-4d65-be05-011b3e34208d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/45b324ab-7f69-4d65-be05-011b3e34208d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:40</itunes:duration>
-      <pubDate>Thu, 02 Mar 2023 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
