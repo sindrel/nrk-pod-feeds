@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Kommentert</title>
+    <title>De 5 siste fra Kommentert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Kommentert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kommentert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Kommentert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kommentert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 07 Apr 2023 04:29:42 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Apr 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Apr 2023 04:29:06 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg"/>
+    <item>
+      <title>Hvorfor gjør Arbeiderpartiet det så dårlig?</title>
+      <description><![CDATA[Hva er grunnene til at Arbeiderpartiet sliter? Og nok en gang går prisveksten opp og kronekursen ned. Hvorfor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/60449488-4f03-462f-836b-cfe053f377e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/60449488-4f03-462f-836b-cfe053f377e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:27</itunes:duration>
+      <pubDate>Fri, 14 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Politisk påskelabyrint: Kampen om storbyene</title>
       <description><![CDATA[Valget i høst blir kampen om storbyene. Det er også tema for Tone Sofies påskelabyrint.]]></description>
