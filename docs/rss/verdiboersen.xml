@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 14 Apr 2023 08:29:12 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Apr 2023 09:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Apr 2023 12:44:01 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Apr 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>Ambulansearbeider stjal fra nylig avdød</title>
+      <description><![CDATA[Videoen  er vist i all verdens nettaviser. Men hvorfor var det han gjorde så galt? Kan vi gjøre noe galt mot en som er død?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/c664f165-5ac1-4dcd-ac7e-05d371d52054_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c664f165-5ac1-4dcd-ac7e-05d371d52054_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Fri, 14 Apr 2023 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Sykdom hos politikere har endret historien</title>
       <description><![CDATA[Putin har kreft, hevder lekkede Pentagon-dokumenter. Hvis dette stemmer kan det ha stor betydning.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cee31b67-2bfe-486d-892f-5ffc6bfb3b42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:07</itunes:duration>
       <pubDate>Sun, 12 Mar 2023 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Var Norge en kolonimakt?</title>
-      <description><![CDATA[Eller var Norge selv en koloni?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/128cb60b-ac3e-4eba-a293-f5593bc8d2cd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/128cb60b-ac3e-4eba-a293-f5593bc8d2cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:23</itunes:duration>
-      <pubDate>Fri, 10 Mar 2023 08:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
