@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 14 Apr 2023 12:44:01 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Apr 2023 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 15 Apr 2023 04:29:23 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>Vårt farlige natursyn</title>
+      <description><![CDATA[Vi tenker at naturen er til for oss. Fører denne ideen oss nærmere klimakollaps?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/013d5f5a-d019-4e38-bc9b-22e458b63d84_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/013d5f5a-d019-4e38-bc9b-22e458b63d84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:58</itunes:duration>
+      <pubDate>Sat, 15 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ambulansearbeider stjal fra nylig avdød</title>
       <description><![CDATA[Videoen  er vist i all verdens nettaviser. Men hvorfor var det han gjorde så galt? Kan vi gjøre noe galt mot en som er død?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/fa1ae7d3-61da-4aeb-bd6a-9f63609535fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:36</itunes:duration>
       <pubDate>Wed, 15 Mar 2023 14:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Du kan selv gjøre noe for å bli lykkelig!</title>
-      <description><![CDATA[Lykke er knyttet til hvordan vi lever livet vårt, mente Aristoteles.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/cee31b67-2bfe-486d-892f-5ffc6bfb3b42_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cee31b67-2bfe-486d-892f-5ffc6bfb3b42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:07</itunes:duration>
-      <pubDate>Sun, 12 Mar 2023 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
