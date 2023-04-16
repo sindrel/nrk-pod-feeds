@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 15 Apr 2023 04:29:23 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Apr 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 16 Apr 2023 04:28:59 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title> Hvorfor hyller Bolsonaro 1964-kuppet?</title>
+      <description><![CDATA[Eks-presidenten mener diktaturet var et gode for Brasil. Hva slags fortid er det han lengter etter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/b89d4431-f035-4bef-8461-a3a5751c06e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/b89d4431-f035-4bef-8461-a3a5751c06e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:40</itunes:duration>
+      <pubDate>Sun, 16 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Vårt farlige natursyn</title>
       <description><![CDATA[Vi tenker at naturen er til for oss. Fører denne ideen oss nærmere klimakollaps?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/dfd27bc2-f6fd-42fe-85bc-67331120d601_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:38</itunes:duration>
       <pubDate>Fri, 17 Mar 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hvordan mente Odin at vikingene skulle leve?</title>
-      <description><![CDATA[Ikke skryte, ikke bli for full, ikke være for klok..]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/fa1ae7d3-61da-4aeb-bd6a-9f63609535fb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/fa1ae7d3-61da-4aeb-bd6a-9f63609535fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:36</itunes:duration>
-      <pubDate>Wed, 15 Mar 2023 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
