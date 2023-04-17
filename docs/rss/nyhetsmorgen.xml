@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 14 Apr 2023 08:29:03 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Apr 2023 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2023 07:23:26 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Apr 2023 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/K05yaAgcOh32pA977RdeYA6Lrc-pcVlIHWSLUPZM-QHQ"/>
+    <item>
+      <title>17.04.2023 Nyhetsmorgen</title>
+      <description><![CDATA[For en halv time siden gikk 25.000 ansatte organisert i LO og YS ut i streik. 
+Streiken vil råke ein rekkje bedriftar over heile landet. Innstilte ferger og tomme butikkhyller og ølkraner er nokre stikkord.
+Staten må komme på banen for å hindre en langvarig storstreik utover våren. 
+Forelesarar på universitetet riv seg i håret, studentar klarer ikkje lesa lange tekstar. Mobiltelefonen får skylda  
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nyhetsmorgen/6a858aa4-38f1-4df0-83aa-b41e9a27d4e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/6a858aa4-38f1-4df0-83aa-b41e9a27d4e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:30:10</itunes:duration>
+      <pubDate>Mon, 17 Apr 2023 09:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>14.04.2023 Nyhetsmorgen</title>
       <description><![CDATA[Hvis Russland svarer med å utvise norske diplomater, risikerer vi å gå tom for diplmoater i øst, sier eksperter.
@@ -119,18 +131,6 @@ Storhamar tok seg til NM-finalen i ishockey etter at de slo Vålerenga på Jorda
       <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/65614bd8-555c-4e5f-acf4-56681dc48182_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:30:11</itunes:duration>
       <pubDate>Thu, 30 Mar 2023 09:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>29.03.2023 Nyhetsmorgen</title>
-      <description><![CDATA[ I natt landet de to terrorsiktede søstrene fra Bærum på Gardermoen, og nå står lange forhør med PST for døren. 
-For første gang skal Den europeiske menneskerettighetssdomstolen  vurdere om en stat bryter menneskerettigheter på grunn av klimapolitikken.
-Det står nå en lang kø av vestlige statsledere som vil komme på besøk til Kina og snakke med president Xi Jinping. 
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nyhetsmorgen/257667ac-79bc-4a9b-93b7-3c4165515d9c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/257667ac-79bc-4a9b-93b7-3c4165515d9c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:30:10</itunes:duration>
-      <pubDate>Wed, 29 Mar 2023 09:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
