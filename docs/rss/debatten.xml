@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 13 Apr 2023 21:22:04 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Apr 2023 22:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Apr 2023 21:24:14 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Apr 2023 22:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+    <item>
+      <title>LO vil streike lenge</title>
+      <description><![CDATA[NHO vil forhandle mer lokalt, men LO protesterer og varsler opptrapping.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/133ba6a9-fe7a-4480-b10e-2a0d18196b1b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/133ba6a9-fe7a-4480-b10e-2a0d18196b1b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:47</itunes:duration>
+      <pubDate>Tue, 18 Apr 2023 22:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Slankemedisiner tar av</title>
       <description><![CDATA[Fedmeeksperter kaller de nye medisinene en slankerevolusjon, men staten nekter å betale.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/eb4e40df-979d-4c41-91cc-a177c9eec0cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:28</itunes:duration>
       <pubDate>Thu, 09 Mar 2023 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Norsk vindkraft kan ende i skatteparadis</title>
-      <description><![CDATA[Utenlandske vindselskap eies i så mange ledd at ingen vet hvor pengene blir av.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/5aa85c68-15c2-4c05-be1f-3e76d4660cef_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/5aa85c68-15c2-4c05-be1f-3e76d4660cef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:36</itunes:duration>
-      <pubDate>Tue, 07 Mar 2023 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
