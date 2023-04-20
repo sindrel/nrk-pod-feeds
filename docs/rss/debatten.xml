@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 18 Apr 2023 21:24:14 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Apr 2023 22:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2023 21:22:15 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Apr 2023 22:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+    <item>
+      <title>«Skatteflyktninger» utfordrer regjeringen</title>
+      <description><![CDATA[De flyttet til Sveits grunnet norsk skatt. Nå møter de regjeringen til debatt om skatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/a2bc603c-b386-4abd-bb19-4658802fe038_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/a2bc603c-b386-4abd-bb19-4658802fe038_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:59</itunes:duration>
+      <pubDate>Thu, 20 Apr 2023 22:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>LO vil streike lenge</title>
       <description><![CDATA[NHO vil forhandle mer lokalt, men LO protesterer og varsler opptrapping.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/3c32debc-a460-4d19-81f2-8e8daed2d9f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:57</itunes:duration>
       <pubDate>Tue, 14 Mar 2023 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Fødsel mindre verdt enn prostataoperasjon</title>
-      <description><![CDATA[Er det fornuftig at pasientens tilstand (og kjønn) avgjør hvor mye penger sykehuset skal få?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/eb4e40df-979d-4c41-91cc-a177c9eec0cb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/eb4e40df-979d-4c41-91cc-a177c9eec0cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:28</itunes:duration>
-      <pubDate>Thu, 09 Mar 2023 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
