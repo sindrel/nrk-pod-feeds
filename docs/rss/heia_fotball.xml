@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 20 Apr 2023 04:30:02 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Apr 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Apr 2023 11:22:27 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Apr 2023 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <item>
+      <title>Snakkis: Eliteserien, dommere og ræva innlegg</title>
+      <description><![CDATA[Panelet er nyforelska i eliteserien, men misfornøyde med dommeravgjørelser og innlegg som går rett i første mann.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/a2ab1532-c93a-4610-aa07-bb160d33ee8d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/a2ab1532-c93a-4610-aa07-bb160d33ee8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:53</itunes:duration>
+      <pubDate>Mon, 24 Apr 2023 13:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>#346 Eduardo «Doddo» Andersen</title>
       <description><![CDATA[Kulturbyråd og blogger Eduardo «Doddo» Andersen forteller om drama med Brann-treneren, grining med Lars Berrum og nær døden- opplevelser.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/ffe98ffc-b1fd-46ae-8c22-2d28ce6b0b83_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:00:46</itunes:duration>
       <pubDate>Thu, 16 Mar 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Snakkis: Snøballer, familien Ødegaard og Will Still</title>
-      <description><![CDATA[Straffekonk flyttes på grunn av snøballkasting, supertrener Will Still har lært alt av Football Manager, og vinner Arsenal Premiere League?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/d883dbb3-b3a2-4d74-aada-1367097b9337_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d883dbb3-b3a2-4d74-aada-1367097b9337_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:08</itunes:duration>
-      <pubDate>Mon, 13 Mar 2023 13:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
