@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 23 Apr 2023 08:28:16 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Apr 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Apr 2023 08:29:54 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Apr 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title> Fridager kan være slitsomme!</title>
+      <description><![CDATA[Friheten minner oss på hvordan vi egentlig har det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/2e37f70f-0783-4cee-801d-201bb1286af9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/2e37f70f-0783-4cee-801d-201bb1286af9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:46</itunes:duration>
+      <pubDate>Tue, 25 Apr 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Kant mente at løgn alltid var galt</title>
       <description><![CDATA[Ikke en gang for å beskytte et annen mot en gal morder, kunne man lyve, mente Kant. Vi snakker om løgnens filosofi ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/35fef231-094d-48dd-9b77-3a7989dc9a95_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:51</itunes:duration>
       <pubDate>Thu, 30 Mar 2023 11:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title> Skyldes rikdom talent eller flaks?</title>
-      <description><![CDATA[Hvordan vi tenker om de rike får store konsekvenser for samfunnet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/7c6e3bdb-0ef8-4194-8373-ccf7f19188d8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/7c6e3bdb-0ef8-4194-8373-ccf7f19188d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:58</itunes:duration>
-      <pubDate>Mon, 27 Mar 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
