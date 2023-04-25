@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 20 Apr 2023 21:22:15 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Apr 2023 22:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Apr 2023 21:22:20 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Apr 2023 22:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+    <item>
+      <title>Kokainbruk blant unge øker</title>
+      <description><![CDATA[De siste to årene har dobbelt så mange unge mellom 16 - 30 år sagt at de har brukt kokain.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/6bcf4113-2451-4680-b6aa-1ecacf8cc458_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/6bcf4113-2451-4680-b6aa-1ecacf8cc458_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:16</itunes:duration>
+      <pubDate>Tue, 25 Apr 2023 22:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>«Skatteflyktninger» utfordrer regjeringen</title>
       <description><![CDATA[De flyttet til Sveits grunnet norsk skatt. Nå møter de regjeringen til debatt om skatt.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/098e2bab-191f-4c76-86e3-f476f2ce41c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:36</itunes:duration>
       <pubDate>Thu, 16 Mar 2023 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Thorbjørn Berntsen: "Vi må se på hele partiledelsen" </title>
-      <description><![CDATA[Ap-veteran Thorbjørn Berntsen peker på at i den tiden Støre har vært partileder, har meningsmålingene for Ap bare gått nedover. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/3c32debc-a460-4d19-81f2-8e8daed2d9f7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/3c32debc-a460-4d19-81f2-8e8daed2d9f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:57</itunes:duration>
-      <pubDate>Tue, 14 Mar 2023 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
