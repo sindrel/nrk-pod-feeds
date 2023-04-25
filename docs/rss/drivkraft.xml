@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 24 Apr 2023 12:53:48 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Apr 2023 14:20:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Apr 2023 12:44:19 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Apr 2023 14:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Tuva Fellman</title>
+      <description><![CDATA[Programlederen har sluttet å se på mobilen på t-banen. I stedet håper hun å finne en eller annen å snakke med.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5ba7e105-0d5d-4a93-8bff-e3bbea1ce16d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5ba7e105-0d5d-4a93-8bff-e3bbea1ce16d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:12</itunes:duration>
+      <pubDate>Tue, 25 Apr 2023 14:15:00 +0200</pubDate>
+    </item>
     <item>
       <title>Kristin Solberg </title>
       <description><![CDATA[Utenrikskorrespondenten ønsker å lage historier som tvinger folk til å bry seg. Da må hun være til stede der det skjer.]]></description>
@@ -86,14 +95,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/3d0f92ac-41a6-4027-931a-e505d6a13328_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Tue, 28 Mar 2023 15:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bjørn Westlie</title>
-      <description><![CDATA[Journalisten vokste opp med en far som var nazist og tidligere frontkjemper. Selv drives han av ønsket om å bekjempe nazisme og jødehat.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4f095a59-57dc-423d-9db2-3899bf1ae2d9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4f095a59-57dc-423d-9db2-3899bf1ae2d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:38</itunes:duration>
-      <pubDate>Mon, 27 Mar 2023 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
