@@ -122,6 +122,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "cold_front_skyggekrigen",
+    "title": "De 10 siste fra Cold Front – Skyggekrigen",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "dagsnytt_atten",
     "title": "De 10 siste fra Dagsnytt 18",
     "season": null,
