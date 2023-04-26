@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 13:27:44 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Apr 2023 15:12:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Apr 2023 13:27:44 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Apr 2023 15:26:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Måker, valper og ender.</title>
+      <description><![CDATA[Fotballprat, dyreprat og ellers teknisk trøbbel - bli med inn i Onsdags-jungelen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8172eb47-67bc-41df-84bd-bef34b628fc2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8172eb47-67bc-41df-84bd-bef34b628fc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:26</itunes:duration>
+      <pubDate>Wed, 26 Apr 2023 15:26:00 +0200</pubDate>
+    </item>
     <item>
       <title>Noe attåt: Sofie ble hasteringt</title>
       <description><![CDATA[Redaksjonen er svært preget over været på Østlandet. Til stede: Adelina, Karsten, Sofie, Anna og Dr. Jones. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/d072b7b1-276c-4269-824d-0e1e02669de0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:53</itunes:duration>
       <pubDate>Wed, 19 Apr 2023 10:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Jonis lager stand-up på sparket</title>
-      <description><![CDATA[Jonis Josef blir utfordret til å lage stand-up om på kort varsel, og Egil har laget låt til deg som er rammet av streik.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/fd25ceed-4ba3-460b-a270-466ad4c3dc5d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/fd25ceed-4ba3-460b-a270-466ad4c3dc5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:40</itunes:duration>
-      <pubDate>Wed, 19 Apr 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
