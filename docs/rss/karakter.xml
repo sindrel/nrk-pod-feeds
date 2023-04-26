@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Apr 2023 04:30:22 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Apr 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Apr 2023 04:29:29 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA"/>
+    <item>
+      <title>Pupper i Peru </title>
+      <description><![CDATA[Jonis har med seg Mads som skal på audition. Martin lurer på om han burde skamme seg og Henrik har med konkurranse. I tillegg blir det upopulære meninger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/702d91c7-a5dc-41d8-8819-bb799aac5e4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/karakter/702d91c7-a5dc-41d8-8819-bb799aac5e4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:18</itunes:duration>
+      <pubDate>Wed, 26 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Paralgin Jonis deler ut 1000 kroner</title>
       <description><![CDATA[Jonis har tannverk og går på smertestillende, Henrik har skammet seg på fly, Martin har med "Sebastian". Sammen deler de ut 1000 kroner til lytterne. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/karakter/42bc35ef-f45e-4caa-bc9e-1dd8092626dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:58</itunes:duration>
       <pubDate>Wed, 22 Feb 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Pølsepodden: Bazooka og autoritær stemme</title>
-      <description><![CDATA[Martin lager drink på pølse-juice, Markus vil finne ut hvem som hadde vunnet i "The Last of us" og Henrik lurer på hvem som har mest autoritær stemme. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/karakter/b1ed67ba-1693-495e-93de-36dff8be6b29_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/karakter/b1ed67ba-1693-495e-93de-36dff8be6b29_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:25</itunes:duration>
-      <pubDate>Wed, 15 Feb 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Cold Front – Skyggekrigen</title>
+    <title>De 3 siste fra Cold Front – Skyggekrigen</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Cold Front – Skyggekrigen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/cold_front_skyggekrigen for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Cold Front – Skyggekrigen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/cold_front_skyggekrigen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 10:29:04 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Apr 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Apr 2023 04:29:19 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Apr 2023 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA"/>
     <item>
@@ -18,6 +18,22 @@
       <enclosure url="https://podkast.nrk.no/fil/cold_front_skyggekrigen/5f84e8e9-5945-4ea0-8cc0-3954b5cabfda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:03</itunes:duration>
       <pubDate>Mon, 24 Apr 2023 10:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cold Front - Skyggekrigen (1:6)</title>
+      <description><![CDATA[Russland mistenkes å stå bak brudd på undersjøiske kabler i Nord-Norge. Reportere får tak i en hemmelig liste over russiske agenter i Sverige.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/cold_front_skyggekrigen/6f3f77e2-31fb-4395-8566-d487d07fc7b3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/cold_front_skyggekrigen/6f3f77e2-31fb-4395-8566-d487d07fc7b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:34</itunes:duration>
+      <pubDate>Wed, 26 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cold Front - Skyggekrigen (2:6)</title>
+      <description><![CDATA[I Tromsø og København blir forskere arrestert – mistenkt for spionasje. I Sverige blir et ektepar pågrepet i en dramatisk helikopteraksjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/cold_front_skyggekrigen/aa1fd17b-c8bd-4a10-81cd-2f3d08e63571_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/cold_front_skyggekrigen/aa1fd17b-c8bd-4a10-81cd-2f3d08e63571_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:58</itunes:duration>
+      <pubDate>Wed, 26 Apr 2023 06:03:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
