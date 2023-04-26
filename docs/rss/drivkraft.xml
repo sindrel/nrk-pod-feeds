@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 12:44:19 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Apr 2023 14:15:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Apr 2023 12:44:43 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Apr 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Anine Kierulf</title>
+      <description><![CDATA[Juristen elsker jakt og slakt og skjøt sin første elg som 19-åring. Å besvime når alt var ferdig sluttet hun med først 10 år senere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3b1df696-d8d0-447c-8261-26e62fa1aa45_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3b1df696-d8d0-447c-8261-26e62fa1aa45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Wed, 26 Apr 2023 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Tuva Fellman</title>
       <description><![CDATA[Programlederen har sluttet å se på mobilen på t-banen. I stedet håper hun å finne en eller annen å snakke med.
@@ -87,14 +95,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/8eba2b3c-f904-4f2b-8749-fafdc4e82588_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:41</itunes:duration>
       <pubDate>Wed, 29 Mar 2023 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Reneè Fagerhøi</title>
-      <description><![CDATA[Hun vokste opp på selvstendig jordbrukskollektiv som barn, nå blir hun rost av kritikere for den eksperimentelle kokkestilen sin.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3d0f92ac-41a6-4027-931a-e505d6a13328_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3d0f92ac-41a6-4027-931a-e505d6a13328_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:01</itunes:duration>
-      <pubDate>Tue, 28 Mar 2023 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
