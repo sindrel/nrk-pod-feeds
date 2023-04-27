@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 14:26:45 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Apr 2023 16:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Apr 2023 08:28:54 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Apr 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Fugemasse på engelsk</title>
+      <description><![CDATA[Vi har besøk av vår alles kjære Hilde Skaar som har en ørliten pause i turnélivet og forteller om det. Videojournalist Daniel holder språkkurs. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d6134b01-005e-48c1-8be0-a579367bf939_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d6134b01-005e-48c1-8be0-a579367bf939_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:47</itunes:duration>
+      <pubDate>Thu, 27 Apr 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Noe attåt: Er det greit å stjele?</title>
       <description><![CDATA[Adelina har hilst på Margit, og vi skal se kamp i kveld. Til stede: Adelina, Karsten, Sofie, Anna og Egil.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/182a72dd-b49b-421b-af86-86da63d2385c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:09</itunes:duration>
       <pubDate>Thu, 20 Apr 2023 15:02:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mercury retrograde </title>
-      <description><![CDATA[God torsdag! Noen har en kjip dag, andre lar seg trøste av sovende otere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c42db1d6-2f3d-411a-9829-4cf5132a358d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c42db1d6-2f3d-411a-9829-4cf5132a358d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:36</itunes:duration>
-      <pubDate>Thu, 20 Apr 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
