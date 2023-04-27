@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 20 Apr 2023 15:25:52 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Apr 2023 16:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Apr 2023 14:26:00 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Apr 2023 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA"/>
+    <item>
+      <title>Heia Norge i Hollywood </title>
+      <description><![CDATA[Storserien «Succession» fråtser i norsk luksus. Vi tar på oss lusekoften og hyller - ganske ukritisk - de gangene Hollywood har bydd på et lite stykke Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/95a4eb3a-4e99-4de1-9207-2069e48d235d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/95a4eb3a-4e99-4de1-9207-2069e48d235d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:43</itunes:duration>
+      <pubDate>Thu, 27 Apr 2023 16:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hollywoods beste beefer</title>
       <description><![CDATA[I anledning den saftige krangleserien «Beef» har vi plukket ut våre favorittbeefer fra Hollywood - både på film og fra virkeligheten.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/620aabb6-0e57-478a-89f6-c4a6272ef8e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:33</itunes:duration>
       <pubDate>Thu, 16 Feb 2023 16:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>«Titanic» 25 år: Har den holdt seg?</title>
-      <description><![CDATA[Storfilmen «Titanic» seiler nå på ny inn på norske kinoer. Vi mimrer om Kate og Leo og diskuterer om filmen har holdt seg. Og hva synes Sigurd – som aldri har sett filmen før nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/44e454fc-02b4-4932-823b-156c10aebfc2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/44e454fc-02b4-4932-823b-156c10aebfc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:06</itunes:duration>
-      <pubDate>Thu, 09 Feb 2023 16:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
