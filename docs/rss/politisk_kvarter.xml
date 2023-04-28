@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 06:30:02 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Apr 2023 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2023 07:22:49 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Apr 2023 08:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg"/>
+    <item>
+      <title>BONUS Politisk kvarter live i Bergen</title>
+      <description><![CDATA[Frode Grytten gir Bergen et kjærlig spark i skrittet. Og hva er det med Bergenspolitikken? Live debatt i samarbeid med Studentersamfunnet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/878ae1e2-8621-4ed4-982c-b2c009882c55_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/878ae1e2-8621-4ed4-982c-b2c009882c55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:25:44</itunes:duration>
+      <pubDate>Fri, 28 Apr 2023 08:45:00 +0200</pubDate>
+    </item>
     <item>
       <title>Er det problemer innad i Fremskrittspartiets hus?</title>
       <description><![CDATA[Regjeringen ligger nede. Hvorfor klarere ikke protestpartiet Frp å vokse?  ]]></description>
@@ -87,18 +95,6 @@ Politisk kvarter med valkampens første ordførarduell mellom ordførar Kari Nes
       <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/706faa5a-32b1-4ba6-a82c-2e994c9b3aa5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:19</itunes:duration>
       <pubDate>Wed, 19 Apr 2023 08:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Er det en god nyhet at gassrørledning i nord han være lønnsom?</title>
-      <description><![CDATA[I går kom nyheten om at en gassrørledning i Barentshavet kan være lønnsom.
-
-Er dette redningen for olje- og gassnæringen?
-
-Eller vil et slikt rør være tidenes tabbe?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/c7ea7c1b-aa54-4510-9b37-2b7290038a6d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/c7ea7c1b-aa54-4510-9b37-2b7290038a6d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:02</itunes:duration>
-      <pubDate>Tue, 18 Apr 2023 08:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
