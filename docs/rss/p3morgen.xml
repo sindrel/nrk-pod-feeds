@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 10:28:23 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Apr 2023 12:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2023 12:42:31 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Apr 2023 13:18:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Noe attåt: Babyugler</title>
+      <description><![CDATA[Vi tar som vanlig helgepraten, som sklir ut og blir rar. Til stede: Adelina, Karsten, Daniel og ho Anna]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/40e6eab6-ba6d-47c1-8658-07457b333ece_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/40e6eab6-ba6d-47c1-8658-07457b333ece_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:13</itunes:duration>
+      <pubDate>Fri, 28 Apr 2023 13:18:00 +0200</pubDate>
+    </item>
     <item>
       <title>En forræder i studio</title>
       <description><![CDATA[Hvem har harselert med Adelina på sykkel, hvem har tatt colombiske droger og hvem er forræderen?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/386b2139-065c-4466-82df-16d82055077f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:40</itunes:duration>
       <pubDate>Mon, 24 Apr 2023 14:02:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Noe attåt: Pepperkake og blåmuggost</title>
-      <description><![CDATA[USA, festival, blåmuggost og pepperkaker er gjengens helgeplaner kort oppsummert. Tilstede: Karsten, Daniel, Johannes, Sofie, Anna og Synne]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/33e061ac-42a1-4784-b4bc-05ae164e1ca6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/33e061ac-42a1-4784-b4bc-05ae164e1ca6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:59</itunes:duration>
-      <pubDate>Fri, 21 Apr 2023 10:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
