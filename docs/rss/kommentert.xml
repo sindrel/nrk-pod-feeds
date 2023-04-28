@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Kommentert</title>
+    <title>De 8 siste fra Kommentert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Kommentert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kommentert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Kommentert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kommentert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 21 Apr 2023 04:29:45 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Apr 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2023 04:29:01 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg"/>
+    <item>
+      <title>Hvorfor snakker så mange om kjernekraft nå?</title>
+      <description><![CDATA[Hvorfor er plutselig så mange opptatt av kjernekraft? 
+Jordbruksoppgjøret er i gang og matvareprisene blir dyrere til uka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fa2d9535-b668-46b8-b000-4e6ad93d4767_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/fa2d9535-b668-46b8-b000-4e6ad93d4767_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:34</itunes:duration>
+      <pubDate>Fri, 28 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Slik vinner du et valg</title>
       <description><![CDATA[Oppskrift på hvordan vinne et valg, og så spør vi: Hvordan ble Krf så små og Rødt så store?]]></description>
