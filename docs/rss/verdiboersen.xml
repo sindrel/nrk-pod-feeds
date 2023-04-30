@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 11:22:17 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Apr 2023 13:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 30 Apr 2023 04:28:26 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Apr 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>Hvorfor er Svalbard en del av Norge?</title>
+      <description><![CDATA[Økt spenning i nord. Vi forteller historien om da Norge fikk Svalbard.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/373672af-c1d2-4f09-8c85-ac63d1427770_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/373672af-c1d2-4f09-8c85-ac63d1427770_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:03</itunes:duration>
+      <pubDate>Sun, 30 Apr 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title> - KI kan bli jordas redning</title>
       <description><![CDATA[... men ikke menneskehetens. Det sier en av Sveriges mest kjente filosofer ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/3faf613d-0de5-4b77-8fe5-eebf0e428451_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:14</itunes:duration>
       <pubDate>Fri, 07 Apr 2023 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Presteenken som ble brent på bålet</title>
-      <description><![CDATA[-Anne Pedersdotter kom på kant med mange, forteller historiker Mona Ringvej]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/d0f6c34b-34c4-4474-a103-941cc98e7bd1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/d0f6c34b-34c4-4474-a103-941cc98e7bd1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:02</itunes:duration>
-      <pubDate>Sun, 02 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
