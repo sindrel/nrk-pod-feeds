@@ -893,7 +893,7 @@ const feeds = [
     "id": "radioteatrets_paaskekrim",
     "title": "De 10 siste fra Mørke fortellinger",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "revolusjonen",
@@ -1247,7 +1247,7 @@ const feeds = [
     "id": "vikinger",
     "title": "De 10 siste fra Vikinger",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "westworld-podden",

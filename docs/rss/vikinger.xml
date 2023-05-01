@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 1 siste fra Vikinger</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Vikinger. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/vikinger for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 01 May 2023 07:23:16 +0000</lastBuildDate>
+    <pubDate>Mon, 01 May 2023 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/M3xKXaVWQAm1ecAE-YfDRAH9RpEWv16hjM-HvfKIYCmw"/>
+    <item>
+      <title>Vikinger kommer 8. mai i NRK Radio!</title>
+      <description><![CDATA[Serien som vekker vikingene til liv. Dramatiserte fortellinger basert på Snorre Sturlassons udødelige historier. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vikinger/3574774d-4456-4157-ac2b-fa042fe98ccc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/3574774d-4456-4157-ac2b-fa042fe98ccc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:11</itunes:duration>
+      <pubDate>Mon, 01 May 2023 06:00:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
