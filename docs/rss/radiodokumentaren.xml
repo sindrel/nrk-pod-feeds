@@ -1,40 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Apr 2023 07:23:38 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Apr 2023 06:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 May 2023 16:32:14 +0000</lastBuildDate>
+    <pubDate>Tue, 02 May 2023 16:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
-      <title>Altfor seint (Episode 1:3)</title>
-      <description><![CDATA[Legene ber Toril skjule sannheten for sin egen sønn, Raymond. Men det blir vanskeligere og vanskeligere å holde på hemmeligheten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/5355de33-5afa-4319-bd64-3d3a0b4b3bf4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5355de33-5afa-4319-bd64-3d3a0b4b3bf4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:35</itunes:duration>
-      <pubDate>Wed, 19 Apr 2023 06:03:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Legestudentene (Episode 2:3)</title>
-      <description><![CDATA[På 1980-tallet ble en gruppe spesielt intelligente menn ble betalt for å gi sæden sin. Raymond innser at en av dem er hans biologiske far.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/2a863983-f99a-49b3-956a-4267a3976fa0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/2a863983-f99a-49b3-956a-4267a3976fa0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:29</itunes:duration>
-      <pubDate>Wed, 19 Apr 2023 06:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Søskenflokken (Episode 3:3)</title>
-      <description><![CDATA[Hvis en donor gir sæd i minst seks år, hvor stor blir den søskenflokken da? Og hva skjer når barna begynner å finne hverandre?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/8ab595d1-f69e-4b82-913a-8a82f732c524_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/8ab595d1-f69e-4b82-913a-8a82f732c524_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:04</itunes:duration>
-      <pubDate>Wed, 19 Apr 2023 06:15:00 +0200</pubDate>
+      <title>Kommer i NRK Radio: Abid og de gode hjelperne</title>
+      <description><![CDATA[Lille Abid Raja var en syk og forsømt fattiggutt som lett kunne havna på skråplanet. Hvilke mennesker ble avgjørende for hans vei videre i livet? 
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/09801fdf-b0bf-461a-be24-c15238ca6653_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/09801fdf-b0bf-461a-be24-c15238ca6653_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35</itunes:duration>
+      <pubDate>Tue, 02 May 2023 16:45:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
