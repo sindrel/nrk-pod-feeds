@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 04:28:26 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Apr 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 May 2023 04:28:39 +0000</lastBuildDate>
+    <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>En enestående tenker</title>
+      <description><![CDATA[For 200 år siden sprengte Henrik Steffens grenser med nye tanker om natur og ånd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/5713f776-576e-4086-ae81-fe3ececc10e0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5713f776-576e-4086-ae81-fe3ececc10e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:17</itunes:duration>
+      <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hvorfor er Svalbard en del av Norge?</title>
       <description><![CDATA[Økt spenning i nord. Vi forteller historien om da Norge fikk Svalbard.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/af46bbdf-6866-4049-9150-9bd3b8f9646f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:03</itunes:duration>
       <pubDate>Fri, 14 Apr 2023 09:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title> De japanske vandrepoetene</title>
-      <description><![CDATA[De levde på almisser og lot veien bestemme hvor de gikk .Idealet var å slippe tak i alle ting.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/3faf613d-0de5-4b77-8fe5-eebf0e428451_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/3faf613d-0de5-4b77-8fe5-eebf0e428451_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:14</itunes:duration>
-      <pubDate>Fri, 07 Apr 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
