@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 21:22:29 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Apr 2023 22:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 May 2023 21:22:06 +0000</lastBuildDate>
+    <pubDate>Tue, 02 May 2023 22:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA"/>
+    <item>
+      <title>Personstrid før Aps landsmøte</title>
+      <description><![CDATA[Sterke reaksjoner på at telefon fra Støre fikk Helga Pedersen til å trekke seg som kandidat som partisekretær.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/2eb9b93d-cddd-469c-b11e-3d4cfc1b7a62_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/2eb9b93d-cddd-469c-b11e-3d4cfc1b7a62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:01</itunes:duration>
+      <pubDate>Tue, 02 May 2023 22:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Forskere: Spis så lite kjøtt som mulig</title>
       <description><![CDATA[Spis mye mindre kjøtt, sier ny rapport. Men er det helse, miljø eller landbruket som skal styre nye kostråd?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/78b6e8f1-103e-45f7-ad92-732017d6a32f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:55</itunes:duration>
       <pubDate>Thu, 23 Mar 2023 22:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Hvorfor reiser «rikingene» til Sveits?</title>
-      <description><![CDATA[SVs Kirsti Bergstø sier ryk og reis og møter næringslivet til debatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/efd359b6-f3e1-4fe9-adad-e0e8652a483f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/efd359b6-f3e1-4fe9-adad-e0e8652a483f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:09</itunes:duration>
-      <pubDate>Tue, 21 Mar 2023 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
