@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 04:28:23 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Apr 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 May 2023 04:28:47 +0000</lastBuildDate>
+    <pubDate>Wed, 03 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Helsespesial: Tine Sundfør</title>
+      <description><![CDATA[Ernæring er tema når Else besøker klinisk ernæringsfysiolog Tine Sundfør hjemme i Asker. Se "Helsekost Furuseth" i NRK TV!  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/24d2c473-aa90-4778-b207-563da6f75d6e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/24d2c473-aa90-4778-b207-563da6f75d6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:23</itunes:duration>
+      <pubDate>Wed, 03 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Else besøker: Kristoffer Olsen</title>
       <description><![CDATA[Skuespiller Kristoffer Olsen forteller om fortiden som erotisk novelle-forfatter, om hvorfor han ikke liker tv-serier, og om en dramatisk dag som endte i et spesielt klesvalg.]]></description>
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/8dc912f1-51ed-4762-823a-4876c7344324_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:02</itunes:duration>
       <pubDate>Sun, 19 Mar 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Else besøker: girl in red</title>
-      <description><![CDATA[Marie Ulven, bedre kjent som "girl in red", viser frem trofeer på pianoet, herjede kofferter, og kaffe fra Japan når Else kommer på besøk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/6e1f02a8-e2c3-48d3-93a4-c50dcd215df4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/6e1f02a8-e2c3-48d3-93a4-c50dcd215df4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:00</itunes:duration>
-      <pubDate>Sun, 12 Mar 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
