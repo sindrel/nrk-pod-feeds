@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 May 2023 12:45:12 +0000</lastBuildDate>
-    <pubDate>Tue, 02 May 2023 14:19:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 May 2023 09:23:35 +0000</lastBuildDate>
+    <pubDate>Wed, 03 May 2023 11:21:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Kaffe og beef</title>
+      <description><![CDATA[It's Wednesday, my dudes! Vi snakker om Norske beefer med Ludwig Løkholm Lewin, og Egil Skurdal fyller lufta med søt musikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2c42ddf9-f343-4d8a-80dc-726c8fa380e2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2c42ddf9-f343-4d8a-80dc-726c8fa380e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:00</itunes:duration>
+      <pubDate>Wed, 03 May 2023 11:21:00 +0200</pubDate>
+    </item>
     <item>
       <title>Noe attåt: Colombia-debrief</title>
       <description><![CDATA[Tete forteller om småkryp og Adelina forteller om flis. Til stede: Adelina, Karsten, Tete, Sofie, Anna og Synne]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/aad2158e-9946-4980-ae63-11f610ed1462_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:11</itunes:duration>
       <pubDate>Tue, 25 Apr 2023 15:12:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tidskapsel i kjøkkenveggen</title>
-      <description><![CDATA[Russetid, stekepanner og englemalerier. Det er tirsdagen sin, det!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a2168f07-b66a-4891-be32-40515c156000_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a2168f07-b66a-4891-be32-40515c156000_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Tue, 25 Apr 2023 15:02:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
