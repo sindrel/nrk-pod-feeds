@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 03 May 2023 11:22:14 +0000</lastBuildDate>
-    <pubDate>Wed, 03 May 2023 13:18:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 May 2023 13:30:25 +0000</lastBuildDate>
+    <pubDate>Thu, 04 May 2023 14:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Jesper Saltvik Pedersen</title>
+      <description><![CDATA[Allerede som 2-åring ble han tatt med i skibakken, med ryggmarksbrokk. I dag er han verdens raskeste på én ski. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d55869f7-18c0-471e-a016-b43a3d054096_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d55869f7-18c0-471e-a016-b43a3d054096_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Thu, 04 May 2023 14:15:00 +0200</pubDate>
+    </item>
     <item>
       <title>Christian Borch</title>
       <description><![CDATA[- Jeg definerer meg som europeer, sier NRKs mangeårige nyhetsanker. I sine memoarer tar han oss med på en reise rundt på kontinentet.]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/3a5eec43-15cb-4046-af0d-9771c822c76f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:46</itunes:duration>
       <pubDate>Thu, 13 Apr 2023 15:53:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Maria Mena</title>
-      <description><![CDATA[Som høysensitiv syns hun det er mest behagelig å være rundt mennesker som ikke trenger å tolkes hele tiden. Og ærligheten trumfer alt!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/eb3b7bf1-c19c-4ece-b55a-f1cf40381f90_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/eb3b7bf1-c19c-4ece-b55a-f1cf40381f90_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:43</itunes:duration>
-      <pubDate>Wed, 12 Apr 2023 13:05:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
