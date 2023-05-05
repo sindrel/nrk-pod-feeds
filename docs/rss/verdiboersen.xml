@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 May 2023 04:28:39 +0000</lastBuildDate>
-    <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 May 2023 12:42:55 +0000</lastBuildDate>
+    <pubDate>Fri, 05 May 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>Startet covid med laboratorielekkasje?</title>
+      <description><![CDATA[Virus har lekket flere ganger tidligere]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/c4d3ca84-3cdf-4f95-94d3-056d6ac41305_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c4d3ca84-3cdf-4f95-94d3-056d6ac41305_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:16</itunes:duration>
+      <pubDate>Fri, 05 May 2023 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>En enestående tenker</title>
       <description><![CDATA[For 200 år siden sprengte Henrik Steffens grenser med nye tanker om natur og ånd.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c664f165-5ac1-4dcd-ac7e-05d371d52054_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:11</itunes:duration>
       <pubDate>Fri, 14 Apr 2023 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sykdom hos politikere har endret historien</title>
-      <description><![CDATA[Putin har kreft, hevder lekkede Pentagon-dokumenter. Hvis dette stemmer kan det ha stor betydning.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/af46bbdf-6866-4049-9150-9bd3b8f9646f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/af46bbdf-6866-4049-9150-9bd3b8f9646f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:03</itunes:duration>
-      <pubDate>Fri, 14 Apr 2023 09:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
