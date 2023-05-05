@@ -1041,7 +1041,7 @@ const feeds = [
     "id": "statens_mal_for_medarbeidersamtale",
     "title": "De 10 siste fra Statens mal for medarbeidersamtale",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "steinar_og_bjoerns_baerbare_fredagsparty",
