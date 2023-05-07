@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 05 May 2023 12:42:55 +0000</lastBuildDate>
-    <pubDate>Fri, 05 May 2023 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 07 May 2023 04:28:25 +0000</lastBuildDate>
+    <pubDate>Sun, 07 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>Da de unge gikk amok</title>
+      <description><![CDATA[90 år siden nazistenes bokbål]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/c7b23df1-3915-4e32-9e27-aa9ec11b5374_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c7b23df1-3915-4e32-9e27-aa9ec11b5374_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:44</itunes:duration>
+      <pubDate>Sun, 07 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Startet covid med laboratorielekkasje?</title>
       <description><![CDATA[Virus har lekket flere ganger tidligere]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/013d5f5a-d019-4e38-bc9b-22e458b63d84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:58</itunes:duration>
       <pubDate>Sat, 15 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ambulansearbeider stjal fra nylig avdød</title>
-      <description><![CDATA[Videoen  er vist i all verdens nettaviser. Men hvorfor var det han gjorde så galt? Kan vi gjøre noe galt mot en som er død?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/c664f165-5ac1-4dcd-ac7e-05d371d52054_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c664f165-5ac1-4dcd-ac7e-05d371d52054_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:11</itunes:duration>
-      <pubDate>Fri, 14 Apr 2023 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
