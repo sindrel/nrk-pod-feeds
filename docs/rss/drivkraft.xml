@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 04 May 2023 13:30:25 +0000</lastBuildDate>
-    <pubDate>Thu, 04 May 2023 14:15:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 May 2023 11:22:05 +0000</lastBuildDate>
+    <pubDate>Mon, 08 May 2023 13:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Øystein Greni</title>
+      <description><![CDATA[Øystein Greni hater Bigbang som bandnavn - og han hater middagsselskaper. Men han elsker å gjøre ting i stedet for å sitte og sutre.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8da7dac4-ee80-4fbd-aa85-d6981bb620f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8da7dac4-ee80-4fbd-aa85-d6981bb620f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:54</itunes:duration>
+      <pubDate>Mon, 08 May 2023 13:15:00 +0200</pubDate>
+    </item>
     <item>
       <title>Jesper Saltvik Pedersen</title>
       <description><![CDATA[Allerede som 2-åring ble han tatt med i skibakken, med ryggmarksbrokk. I dag er han verdens raskeste på én ski. ]]></description>
@@ -84,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/e7d8c25d-027e-4031-a341-37b7347bf575_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Tue, 18 Apr 2023 13:05:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Inga Strümke</title>
-      <description><![CDATA[Forskeren mener hun ble "født med overtenning". Nå bruker hun energien på kunstig intelligens.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3a5eec43-15cb-4046-af0d-9771c822c76f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3a5eec43-15cb-4046-af0d-9771c822c76f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:46</itunes:duration>
-      <pubDate>Thu, 13 Apr 2023 15:53:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
