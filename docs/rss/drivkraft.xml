@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 May 2023 11:22:05 +0000</lastBuildDate>
-    <pubDate>Mon, 08 May 2023 13:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 May 2023 13:17:40 +0000</lastBuildDate>
+    <pubDate>Tue, 09 May 2023 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Niklas Baarli </title>
+      <description><![CDATA[Da programlederen var 17 havnet han på glattcelle, og følte at han var i ferd med å "føkke opp" livet.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/240c452a-24e0-4c50-8940-443a1cba4ad6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/240c452a-24e0-4c50-8940-443a1cba4ad6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Tue, 09 May 2023 14:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Øystein Greni</title>
       <description><![CDATA[Øystein Greni hater Bigbang som bandnavn - og han hater middagsselskaper. Men han elsker å gjøre ting i stedet for å sitte og sutre.
@@ -85,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/960dd477-54e6-477b-b384-de2843a6c031_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:25</itunes:duration>
       <pubDate>Wed, 19 Apr 2023 14:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tom Stiansen</title>
-      <description><![CDATA["Den som gir seg er en dritt" er mantraet til den tidligere verdensmesteren, straks i gang med 18. året som programleder for 71 grader nord.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e7d8c25d-027e-4031-a341-37b7347bf575_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e7d8c25d-027e-4031-a341-37b7347bf575_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Tue, 18 Apr 2023 13:05:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
