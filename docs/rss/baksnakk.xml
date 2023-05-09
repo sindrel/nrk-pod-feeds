@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 May 2023 04:28:13 +0000</lastBuildDate>
-    <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 May 2023 04:28:15 +0000</lastBuildDate>
+    <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>En døende due til besvær</title>
+      <description><![CDATA[Hør Zaras harde kamp for tilværelsen, først på vegne av en due, så mot Vestlandet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/185f7289-ef90-4d61-a92f-0971d0f1b484_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/185f7289-ef90-4d61-a92f-0971d0f1b484_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:48</itunes:duration>
+      <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Zara og Wiliam har møtt en vassekte Keegasus</title>
       <description><![CDATA[The man, the myth, the legend - politiet har tvitret om Keegasus selv!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/8625822a-decc-4d79-b653-bfc33ee813be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:29</itunes:duration>
       <pubDate>Tue, 07 Mar 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Løgner om prevensjon</title>
-      <description><![CDATA[Zara har fjernet P-ringen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/8fe44322-8bcc-422a-b57e-eb3a403eb7e0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/8fe44322-8bcc-422a-b57e-eb3a403eb7e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:40</itunes:duration>
-      <pubDate>Tue, 28 Feb 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

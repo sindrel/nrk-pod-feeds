@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 May 2023 04:28:29 +0000</lastBuildDate>
-    <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 May 2023 04:28:44 +0000</lastBuildDate>
+    <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"/>
+    <item>
+      <title>Demonveggen</title>
+      <description><![CDATA[En kirke er fylt opp av 2000 demoner. To forskere prøver å finne ut hvorfor. 
+
+Et mysterium fra Sauherad i Telemark
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/565daa57-08a1-47cd-8058-237c75372097_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/565daa57-08a1-47cd-8058-237c75372097_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:41</itunes:duration>
+      <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Lysene i Hessdalen (2:2)</title>
       <description><![CDATA[Mediene går amok: Hessdals-mysteriet er løst. Eller er det? 
@@ -101,17 +112,6 @@ Et mysterium fra Oslo. ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/678672cc-8ba6-4b50-8ea3-342266a575e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:18</itunes:duration>
       <pubDate>Tue, 10 May 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Dødsforliset</title>
-      <description><![CDATA[I 1760 omkommer 120 russere i et blodig skipsforlis utenfor Trøndelagskysten. Eller - blir de brutalt drept av lokalbefolkningen, som så plyndrer vraket? 
-
-Et mysterium fra Hitra i Trøndelag. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/72566f94-0914-47b0-9efa-9b5c6a0fcf14_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/72566f94-0914-47b0-9efa-9b5c6a0fcf14_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:25</itunes:duration>
-      <pubDate>Tue, 03 May 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
