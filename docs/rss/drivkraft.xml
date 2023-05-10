@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 09 May 2023 13:17:40 +0000</lastBuildDate>
-    <pubDate>Tue, 09 May 2023 14:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 May 2023 12:44:39 +0000</lastBuildDate>
+    <pubDate>Wed, 10 May 2023 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Cathrine Fodstad</title>
+      <description><![CDATA[- Jo mer vi prøver å kontrollere noen, jo mindre "connection" får vi. Sier hestetemmeren. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a09e4559-d933-4379-a2d9-240aad2c12b5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a09e4559-d933-4379-a2d9-240aad2c12b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Wed, 10 May 2023 13:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Niklas Baarli </title>
       <description><![CDATA[Da programlederen var 17 havnet han på glattcelle, og følte at han var i ferd med å "føkke opp" livet.
@@ -85,15 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/7f9b3c3f-2926-431a-8f44-13fca43b16c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:25</itunes:duration>
       <pubDate>Mon, 24 Apr 2023 14:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Britt Tajet-Foxell </title>
-      <description><![CDATA[Da idrettspsykologen opplevde at roer Olaf Tufte nektet å danse ballett satte hun hardt mot hardt og truet med å avslutte samarbeidet. Tufte ga seg, og Tajet-Foxell mener dansetreningen kan ha vært utslagsgivende for at Tufte senere tok gull.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/960dd477-54e6-477b-b384-de2843a6c031_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/960dd477-54e6-477b-b384-de2843a6c031_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:25</itunes:duration>
-      <pubDate>Wed, 19 Apr 2023 14:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
