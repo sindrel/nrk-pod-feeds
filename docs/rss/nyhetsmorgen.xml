@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 09 May 2023 08:28:27 +0000</lastBuildDate>
-    <pubDate>Tue, 09 May 2023 09:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 May 2023 08:28:27 +0000</lastBuildDate>
+    <pubDate>Wed, 10 May 2023 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/K05yaAgcOh32pA977RdeYA6Lrc-pcVlIHWSLUPZM-QHQ"/>
+    <item>
+      <title>10.05.2023 Nyhetsmorgen </title>
+      <description><![CDATA[Få republikanere tar avstand etter at Donald Trump i går ble dømt for seksuelt overgrep og æreskrenkelser. De mener han fortsatt kan bli den neste presidenten.
+Noreg kan ta kontakt med houthi-rørsla i Jemen for å få den terrormistenkte nordmannen Anders Østensvik Dale ut av fengsel. Det seier styresmaktene i hovudstaden Sana.
+Det ble en tøff dag på jobben for Erling Braut Haaland i den første semifinalen i mesterligaen i går - som endte uavgjort.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nyhetsmorgen/a198890c-4b8b-44ae-a4cb-37ae388ee4ad_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/a198890c-4b8b-44ae-a4cb-37ae388ee4ad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:30:10</itunes:duration>
+      <pubDate>Wed, 10 May 2023 09:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>09.05.2023 Nyhetsmorgen</title>
       <description><![CDATA[Tykk svart røyk fra Ullevål sykehus var synlig fra store deler av Oslo i morgentimene i dag, men brannvesenet rykket ut i tide. 
@@ -142,23 +153,6 @@ Nyhetsmorgen i dag med Birger og Ugo.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/33b93a2c-78a8-4e46-a26b-1c7093eac2d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:30:08</itunes:duration>
       <pubDate>Wed, 26 Apr 2023 09:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>25.04.2023 Nyhetsmorgen</title>
-      <description><![CDATA[Norsktrente afghanere kjemper på russisk side i krigen i Ukraina.
-
-USAs mest kjente TV-programleder har fått sparken. Tucker Carlson ble en for stor belastning for Fox News, sier vår USA-korrespondent.
-
-Vinteren er tilbake. Bilister med sommerdekk gjør klokt i å la bilen stå nå i morgentimene. Det er rådet fra vegtrafikksentralen, etter en rekke ulykker på Østlandet.
-
-Norge står overfor store endringer i behovet for arbeidskraft i årene framover. Det er konklusjonen på en rapport NAV
-legger fram i dag. De er her for å fortelle mer om hva vi må belage oss på i framtida.
-
-I studio denne tirsdagen sitter Ida Kjøstelsen og Ugo Fermariello.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nyhetsmorgen/bfd898a5-dbe5-40dd-8e3a-3f4da3d2634f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/bfd898a5-dbe5-40dd-8e3a-3f4da3d2634f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:30:08</itunes:duration>
-      <pubDate>Tue, 25 Apr 2023 09:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

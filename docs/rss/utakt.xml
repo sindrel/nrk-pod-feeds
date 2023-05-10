@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 03 May 2023 08:28:35 +0000</lastBuildDate>
-    <pubDate>Wed, 03 May 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 May 2023 08:28:32 +0000</lastBuildDate>
+    <pubDate>Wed, 10 May 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g"/>
+    <item>
+      <title>Rydder i garasjen og kjøper feil billett</title>
+      <description><![CDATA[Vi vurderer å sende presang til kong Charles og diskuterer om  livets harde skole er utdannelse god nok.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/e7a0d268-06da-4023-95a7-181fa220580c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/e7a0d268-06da-4023-95a7-181fa220580c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:32</itunes:duration>
+      <pubDate>Wed, 10 May 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ufyselige bursdagskaker og tap men vinn</title>
       <description><![CDATA[Når helligdagene blir for mange, når ordene blir for mange og når insektene møtte den første lyspæra.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/095089e1-31b1-46a3-89eb-fc8c18b774fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:31</itunes:duration>
       <pubDate>Wed, 08 Mar 2023 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>173 000 aper sendt i posten</title>
-      <description><![CDATA[Effektive protester, hanens hørsel og begravelsesbyrået til Stavangersmurfen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/3a624e7e-a50a-4d17-a808-b159f04a9545_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utakt/3a624e7e-a50a-4d17-a808-b159f04a9545_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:23</itunes:duration>
-      <pubDate>Wed, 01 Mar 2023 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
