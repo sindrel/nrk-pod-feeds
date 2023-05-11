@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 10 May 2023 12:44:50 +0000</lastBuildDate>
-    <pubDate>Wed, 10 May 2023 14:40:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 May 2023 11:22:12 +0000</lastBuildDate>
+    <pubDate>Thu, 11 May 2023 13:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Tete-torsdag</title>
+      <description><![CDATA[Tete styrer skuta mens Adelina og Karsten er ute på andre tokt! Emil Gukild bidrar på seilaset, sammen med Daniel, Johannes og ho Anna.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/0dc9723b-7461-427f-8292-4f3be3fbc5be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/0dc9723b-7461-427f-8292-4f3be3fbc5be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:39</itunes:duration>
+      <pubDate>Thu, 11 May 2023 13:20:00 +0200</pubDate>
+    </item>
     <item>
       <title>Noe attåt: Vi har laget "TV-serie"</title>
       <description><![CDATA[Og serien kan du finne på P3.no/mujaffa. Til stede: Adelina, Tete, Daniel, Egil og Sofie. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/b552e28f-7eb1-4e8e-afde-4dbc0f106f63_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>06:12</itunes:duration>
       <pubDate>Thu, 04 May 2023 13:59:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>En pakke fra Finland</title>
-      <description><![CDATA[Vi har fått en pakke fra Tankbilsjåfør Ronny med spennende innhold! Tuva Fellman er også innom for å snakke om Naked Attraction. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/344a87fe-c679-4cf0-95f4-c17eb603d8d3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/344a87fe-c679-4cf0-95f4-c17eb603d8d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:07:14</itunes:duration>
-      <pubDate>Thu, 04 May 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
