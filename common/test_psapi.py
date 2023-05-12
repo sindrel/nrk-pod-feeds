@@ -55,7 +55,7 @@ def test_get_latest_podcast_season():
     metadata = psapi.get_podcast_metadata(podcast_id)
     latest_season = metadata["_links"]["seasons"][0]["name"]
 
-    assert latest_season == "2022"
+    assert latest_season == "2023"
 
 def test_get_podcast_episodes_by_season():
     podcast_id = "kongerekka"
