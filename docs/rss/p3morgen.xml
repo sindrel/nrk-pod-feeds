@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 May 2023 11:22:12 +0000</lastBuildDate>
-    <pubDate>Thu, 11 May 2023 13:20:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 May 2023 09:23:55 +0000</lastBuildDate>
+    <pubDate>Fri, 12 May 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Karsten er døende</title>
+      <description><![CDATA[Det er fredag! Karsten og Henning styrer skuta, til tross for at Karsten er litt pjusk. Vi får besøk av Arian og Egil som skal lede P3s ESC-sending på lørdag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1b07084f-ec75-4865-a21e-9b10397822c4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1b07084f-ec75-4865-a21e-9b10397822c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:50</itunes:duration>
+      <pubDate>Fri, 12 May 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Tete-torsdag</title>
       <description><![CDATA[Tete styrer skuta mens Adelina og Karsten er ute på andre tokt! Emil Gukild bidrar på seilaset, sammen med Daniel, Johannes og ho Anna.]]></description>
@@ -18,6 +26,14 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/0dc9723b-7461-427f-8292-4f3be3fbc5be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:08:39</itunes:duration>
       <pubDate>Thu, 11 May 2023 13:20:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Noe attåt: Anna tisset på seg</title>
+      <description><![CDATA[Denne episoden blir bra til slutt altså, lover! <3 Tilstede: Anna, Sofie, Daniel og Johannes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/264cc910-5d77-4755-abe8-6f6264fb4e0a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/264cc910-5d77-4755-abe8-6f6264fb4e0a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:46</itunes:duration>
+      <pubDate>Thu, 11 May 2023 10:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Noe attåt: Vi har laget "TV-serie"</title>
@@ -74,22 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/09d8898f-9d6e-42b1-b359-93f76e9499a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:19</itunes:duration>
       <pubDate>Fri, 05 May 2023 12:17:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Banking og fingerknekking</title>
-      <description><![CDATA[Ålreit å jobbe som torpedo, eller? Vi får besøk av Sindre Reinholt, som har laget podkast om arbeidstakere litt utenom det vanlige. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5062ea65-f051-48b9-b649-ca8673c8910f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5062ea65-f051-48b9-b649-ca8673c8910f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Fri, 05 May 2023 11:54:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Noe attåt: Verdens korteste attåt</title>
-      <description><![CDATA[Hei og beklager for kort episode, men vi har det travelt i dag! Likevel rekker vi å smake på en brus, og Anna deler en gledelig nyhet<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b552e28f-7eb1-4e8e-afde-4dbc0f106f63_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b552e28f-7eb1-4e8e-afde-4dbc0f106f63_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:12</itunes:duration>
-      <pubDate>Thu, 04 May 2023 13:59:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
