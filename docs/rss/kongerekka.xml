@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kongerekka. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kongerekka for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 07 Nov 2022 07:30:09 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Nov 2022 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 12 May 2023 07:22:13 +0000</lastBuildDate>
+    <pubDate>Fri, 12 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg"/>
+    <item>
+      <title>17.mai-spesial: Hvem er hvem i Ja, vi elsker?</title>
+      <description><![CDATA[Hvilke konger er nevnt i nasjonalsangen vår? Det vet du når du har hørt denne festen av en episode!   
+         
+Musikk: SyncPoint, Kaare og Partiet, Det Norske Jentekor + KORK + Kajsa Balto]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/c2cba974-6f09-4b8e-8757-c4ea364e9453_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/c2cba974-6f09-4b8e-8757-c4ea364e9453_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:05</itunes:duration>
+      <pubDate>Fri, 12 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Olav Håkonsson - Kongen som satt på mammas fang (30:30)</title>
       <description><![CDATA[Dronning Margrete styrte den unge kong Olav. Lett. Men hvordan manøvrerte hun da en falsk kong Olav dukket opp? 
@@ -44,7 +54,7 @@
 (År 1280-1299)]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/fc44b379-82c7-4785-9424-1f4ca148e1b2_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kongerekka/fc44b379-82c7-4785-9424-1f4ca148e1b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:29</itunes:duration>
+      <itunes:duration>30:38</itunes:duration>
       <pubDate>Mon, 17 Oct 2022 06:00:00 +0200</pubDate>
     </item>
     <item>
@@ -90,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kongerekka/048f67f6-cdfa-48a5-b7d8-be5392ef5ebb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:24</itunes:duration>
       <pubDate>Mon, 12 Sep 2022 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sverre Sigurdsson - Kongen som løy så han trodde det selv (21:30)</title>
-      <description><![CDATA[En hemmelig tronarving seiler inn. Eller en bedrager? Uansett var han vill som en løve og mild som et lam. Og utstyrsfrik. 
-(År 1177-1202)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/b162931c-9397-4124-8fe9-820dc246a134_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kongerekka/b162931c-9397-4124-8fe9-820dc246a134_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:17</itunes:duration>
-      <pubDate>Mon, 05 Sep 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
