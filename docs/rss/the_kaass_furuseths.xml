@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 10 May 2023 04:28:58 +0000</lastBuildDate>
-    <pubDate>Wed, 10 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 14 May 2023 04:27:55 +0000</lastBuildDate>
+    <pubDate>Sun, 14 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Kjartan Lauritzen</title>
+      <description><![CDATA[Kjartan Lauritzen og hele vennegjengen fra Balestrand møter Else i Oslo. De snakker om alt som kan gå galt på fest, hva som skjer når man leker «hard to get», og om å drive hotell med familien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/8f11bbcb-2f6d-4552-8fec-03419409c151_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/8f11bbcb-2f6d-4552-8fec-03419409c151_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:49</itunes:duration>
+      <pubDate>Sun, 14 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Helsespesial: Carina Carlsen</title>
       <description><![CDATA[Kropp er tema når Else får besøk av kroppsaktivist og burlesquedanser Carina Carlsen. Se "Helsekost Furuseth" i NRK TV!  
@@ -88,14 +96,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/5b0571fd-80e1-4069-9281-40b4b7ef3cf1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:30</itunes:duration>
       <pubDate>Sun, 09 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Else besøker: Tara Lina Shahin</title>
-      <description><![CDATA[Komiker og programleder Tara Lina hater å være vertinne, men byr på brioche, påskeegg, og historier fra brusfabrikken hun bor i når Else kommer på besøk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/5f4c8ecf-d7cc-4447-aa44-8bd0b2fd8e41_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/5f4c8ecf-d7cc-4447-aa44-8bd0b2fd8e41_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:47</itunes:duration>
-      <pubDate>Sun, 02 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
