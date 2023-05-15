@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Vikinger</title>
+    <title>De 6 siste fra Vikinger</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Vikinger. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/vikinger for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Vikinger. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/vikinger for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 May 2023 04:29:07 +0000</lastBuildDate>
-    <pubDate>Mon, 08 May 2023 06:02:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 May 2023 04:28:38 +0000</lastBuildDate>
+    <pubDate>Mon, 15 May 2023 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/M3xKXaVWQAm1ecAE-YfDRAH9RpEWv16hjM-HvfKIYCmw"/>
     <item>
@@ -42,6 +42,22 @@
       <enclosure url="https://podkast.nrk.no/fil/vikinger/9f0053b7-1429-4fdc-bb0d-f0af7d5c216f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:29</itunes:duration>
       <pubDate>Mon, 08 May 2023 06:02:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gudrid Thorbjørnsdatter del 1:2</title>
+      <description><![CDATA[Gudrid seiler fra Island for å skape et nytt liv på Grønland. Hun gifter seg med Thorstein, men vinteren er hard og ektemannen blir alvorlig syk. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vikinger/bd8b3afe-72d0-4f66-a7be-9394b928deac_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/bd8b3afe-72d0-4f66-a7be-9394b928deac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:56</itunes:duration>
+      <pubDate>Mon, 15 May 2023 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gudrid Thorbjørnsdatter del 2:2</title>
+      <description><![CDATA[Thorstein overlever ikke den harde vinteren, men Gudrid hører Thorstein tale til henne – hun skal forfølge deres drøm om å seile til Vinland. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vikinger/44203830-4c3c-4aad-85dc-86e07b9a0a1f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/44203830-4c3c-4aad-85dc-86e07b9a0a1f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:53</itunes:duration>
+      <pubDate>Mon, 15 May 2023 06:01:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

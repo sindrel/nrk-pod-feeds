@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 May 2023 04:28:14 +0000</lastBuildDate>
-    <pubDate>Thu, 11 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 May 2023 04:28:17 +0000</lastBuildDate>
+    <pubDate>Mon, 15 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>– Vi digger Bollywoodfilmer!</title>
+      <description><![CDATA[Hvorfor er disse filmene så viktig for mange av dem som vokser opp i Norge, men har røtter et annet sted?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cdaf2600-eab1-48b3-90cd-a553ff7375a2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cdaf2600-eab1-48b3-90cd-a553ff7375a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:36</itunes:duration>
+      <pubDate>Mon, 15 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Historien om forbudstida i norsk skating</title>
       <description><![CDATA[Hør Øystein Greni fortelle om kvelden da skateboard ble lov i Norge: «Nå skal vi skate opp og ned Karl Johan!»]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/efac0ff2-4acd-4815-b376-fdd94ee65e35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:50</itunes:duration>
       <pubDate>Thu, 20 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Spørretime: Kan "nedvekst" redde kloden?</title>
-      <description><![CDATA[Går det an å skru ned forbruket og likevel ha det bra? Ekspertene svarer på lytternes spørsmål.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/05649e88-5992-4c1f-9e8d-9e957a2b3cd9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/05649e88-5992-4c1f-9e8d-9e957a2b3cd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:03</itunes:duration>
-      <pubDate>Wed, 19 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
