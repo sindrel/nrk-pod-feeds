@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 May 2023 12:45:33 +0000</lastBuildDate>
-    <pubDate>Mon, 15 May 2023 13:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 May 2023 12:46:30 +0000</lastBuildDate>
+    <pubDate>Tue, 16 May 2023 13:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Line Ramstad</title>
+      <description><![CDATA[Landskapsarkitekten elsker bygda, og mener folk der hjelper hverandre på en annen måte enn i byene.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0d4d12a0-6931-44c8-a66b-76c480719499_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0d4d12a0-6931-44c8-a66b-76c480719499_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Tue, 16 May 2023 13:40:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ingebrigt Steen Jensen</title>
       <description><![CDATA[- Åpenheten min om alzheimer er bra for meg, sier den tidligere reklameguruen. Og fastholder at han er en lykkelig mann.]]></description>
@@ -84,15 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/3b1df696-d8d0-447c-8261-26e62fa1aa45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Wed, 26 Apr 2023 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tuva Fellman</title>
-      <description><![CDATA[Programlederen har sluttet å se på mobilen på t-banen. I stedet håper hun å finne en eller annen å snakke med.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5ba7e105-0d5d-4a93-8bff-e3bbea1ce16d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5ba7e105-0d5d-4a93-8bff-e3bbea1ce16d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:12</itunes:duration>
-      <pubDate>Tue, 25 Apr 2023 14:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
