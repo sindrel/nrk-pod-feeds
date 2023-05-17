@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 10 May 2023 08:28:32 +0000</lastBuildDate>
-    <pubDate>Wed, 10 May 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 May 2023 08:29:00 +0000</lastBuildDate>
+    <pubDate>Wed, 17 May 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g"/>
+    <item>
+      <title>Verdens lengste flytur og verdens lengste tålmodighet</title>
+      <description><![CDATA[Vi diskuterer også diverse 17 mai-utfordringer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/7ed2bb0e-de8f-4c28-960a-05e3bba7fc08_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/7ed2bb0e-de8f-4c28-960a-05e3bba7fc08_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:50</itunes:duration>
+      <pubDate>Wed, 17 May 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Rydder i garasjen og kjøper feil billett</title>
       <description><![CDATA[Vi vurderer å sende presang til kong Charles og diskuterer om  livets harde skole er utdannelse god nok.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/8dce1dbe-44de-49ec-8a0e-16c28cc6b351_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>52:02</itunes:duration>
       <pubDate>Wed, 15 Mar 2023 10:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kurong og baklengs-idrett</title>
-      <description><![CDATA[Handlekraftig politi, krise-begravelse, setevarme og en annen, tredje og fjerde verden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/095089e1-31b1-46a3-89eb-fc8c18b774fb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utakt/095089e1-31b1-46a3-89eb-fc8c18b774fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:31</itunes:duration>
-      <pubDate>Wed, 08 Mar 2023 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
