@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 14 May 2023 08:27:10 +0000</lastBuildDate>
-    <pubDate>Sun, 14 May 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 May 2023 04:29:04 +0000</lastBuildDate>
+    <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>Hitler mot Stalin</title>
+      <description><![CDATA[2.verdenskrig er som en  religion i Russland, og Putin forbinder dagens invasjon med 2 v k. Men hva skjedde for 80 år siden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/bdad9e91-54c0-4cdf-9e7e-dca5318bc59d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/bdad9e91-54c0-4cdf-9e7e-dca5318bc59d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:48</itunes:duration>
+      <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>I kongens hode</title>
       <description><![CDATA[Charles 3. er blitt kalt «filosofkongen».  Hvordan er hans syn på verden?
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/e719332a-a059-4d7f-a036-aa186322717b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:24</itunes:duration>
       <pubDate>Sun, 23 Apr 2023 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title> "AI kan bety slutten for menneskeheten"</title>
-      <description><![CDATA[Matematikkprofessor advarer : Utviklingen innen kunstig intelligens går altfor fort og er en trussel mot sivilisasjonen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/1c742f81-4d2b-4032-9b19-d60852b28d04_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1c742f81-4d2b-4032-9b19-d60852b28d04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:59</itunes:duration>
-      <pubDate>Fri, 21 Apr 2023 13:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 12 May 2023 04:28:37 +0000</lastBuildDate>
-    <pubDate>Fri, 12 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 May 2023 04:28:56 +0000</lastBuildDate>
+    <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xRP5wKPnLQ0Y4dTN8bK6-Q6gCzxavVunu2v3PXhToQHQ"/>
+    <item>
+      <title>Tripsitter</title>
+      <description><![CDATA["Sander" passer på folk som tar psykedeliske rusmidler. Blir han fristet til å feste med kundene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/7945ad50-7d29-4c64-8872-41fffa2391e0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/7945ad50-7d29-4c64-8872-41fffa2391e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:42</itunes:duration>
+      <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Klimaaktivist</title>
       <description><![CDATA[Karoline er klimaaktivist. Er karrieremålet om å redde kloden for ambisiøst, og hvor i Norge er politiet snillest?]]></description>
@@ -123,16 +131,6 @@ Komponist: David Atarodiyan]]></description>
       <enclosure url="https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/398839a2-dac9-4f4c-b7aa-a27f14142c74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:49</itunes:duration>
       <pubDate>Sun, 20 Nov 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Bli med på medarbeidersamtale</title>
-      <description><![CDATA[Har fremmedkrigeren en trygg arbeidsplass? Hvor ser doplangeren seg selv om fem år? Og tenker sexarbeideren nok på HMS? 
-
-I podkasten Statens mal for medarbeidersamtale får du svarene. Premiere 20. november.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/829b025e-bb16-465c-b669-2635d7c121a9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/829b025e-bb16-465c-b669-2635d7c121a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:41</itunes:duration>
-      <pubDate>Sun, 13 Nov 2022 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

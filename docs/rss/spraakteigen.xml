@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 12 May 2023 04:28:34 +0000</lastBuildDate>
-    <pubDate>Fri, 12 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 May 2023 04:28:54 +0000</lastBuildDate>
+    <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ"/>
+    <item>
+      <title>Chili, snippsekk og beklager</title>
+      <description><![CDATA[Heter det chili eller sjili? Pakker du snippsekken eller snippesken? Beklager at du føler...
+Et gjenhør med spørsmål og svar fra vårens sendinger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/7c8747b7-afb6-493c-b96c-f09c411a476b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/7c8747b7-afb6-493c-b96c-f09c411a476b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:01</itunes:duration>
+      <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Tæn, tross og balla</title>
       <description><![CDATA[Betyr de små rare ordene i Wordfeud noe? Utprøving av genus i barnespråket kan føre til balla og haga.  Hva er underteksten når noe skjer på tross av? Og å bygge ned kan uttrykke noe helt annet enn hva som faktisk skjer. 
@@ -90,15 +99,6 @@ I panelet: Kristin Melum Eide, Nils Heldal og Olaf Husby]]></description>
       <enclosure url="https://podkast.nrk.no/fil/spraakteigen/9c7d8dca-0825-4381-b8c6-c2638ca63c7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:28</itunes:duration>
       <pubDate>Fri, 17 Mar 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Fonask, virak og trøndersk, e det.</title>
-      <description><![CDATA[Er det typisk trøndersk med etterheng? Hvor kommer fonask fra - og er du fysen på litt virak?
-I panelet: Ellen Andenæs, Klara Sjo og Stian Hårstad]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/91b17631-e690-4ca8-922a-dfa2fa3028f0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/91b17631-e690-4ca8-922a-dfa2fa3028f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:49</itunes:duration>
-      <pubDate>Fri, 10 Mar 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
