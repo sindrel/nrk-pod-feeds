@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 19 May 2023 08:27:47 +0000</lastBuildDate>
-    <pubDate>Fri, 19 May 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 20 May 2023 04:27:41 +0000</lastBuildDate>
+    <pubDate>Sat, 20 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ"/>
+    <item>
+      <title>Tema: Bølgekraft</title>
+      <description><![CDATA[På 80-tallet ble det forsket på bølgekraft i Øygarden utenfor Bergen. Hvorfor sa det så plutselig stopp så bølgekraften blei skylt til havs?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/59d6b17b-2fb1-4947-b966-2f6c3ee910c6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/59d6b17b-2fb1-4947-b966-2f6c3ee910c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:29</itunes:duration>
+      <pubDate>Sat, 20 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Abels tårn - Mentos i Cola, Solo, Farris og Cremant </title>
       <description><![CDATA[ABESL TÅRN - Hvordan holde på kullsyra i en åpnet brusflaske?
@@ -174,16 +182,6 @@ Kjemiker - Carl Henrik Gørbitz
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7af41b8b-cffd-4fca-ac85-60c42af88902_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:21</itunes:duration>
       <pubDate>Tue, 02 May 2023 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ekstrapod - Elon Musk og arven etter sovjetisk romfart</title>
-      <description><![CDATA[Hva er det Elon Musk og Spacex driver med når de skyter opp tilsynelatende halvferdige raketter? Har de tatt opp arven etter sovjetisk romfart? Og hva skal ESA gjøre nå som de alle arbeidshestrakettene - Ariane 5 - er brukt opp?`
-
-Abels tårn trekker ned i kjelleren, og nerder videre med Astronom Vegard Rakaa og Romsenterets Marianne Vinje Tantillo]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c8810698-304b-4bcf-9d18-610d254f62c1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c8810698-304b-4bcf-9d18-610d254f62c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:59</itunes:duration>
-      <pubDate>Fri, 28 Apr 2023 11:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
