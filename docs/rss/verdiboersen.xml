@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 19 May 2023 04:29:04 +0000</lastBuildDate>
-    <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 May 2023 08:29:06 +0000</lastBuildDate>
+    <pubDate>Mon, 22 May 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw"/>
+    <item>
+      <title>  Filosof ville bli utstoppet</title>
+      <description><![CDATA[- og ble det!. Han er en av 3 favorittfilosofer som du kan høre om her!,]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/45695dff-ee21-404e-a36a-461207c29960_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/45695dff-ee21-404e-a36a-461207c29960_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:22</itunes:duration>
+      <pubDate>Mon, 22 May 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hitler mot Stalin</title>
       <description><![CDATA[2.verdenskrig er som en  religion i Russland, og Putin forbinder dagens invasjon med 2 v k. Men hva skjedde for 80 år siden?]]></description>
@@ -86,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/2e37f70f-0783-4cee-801d-201bb1286af9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:46</itunes:duration>
       <pubDate>Tue, 25 Apr 2023 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kant mente at løgn alltid var galt</title>
-      <description><![CDATA[Ikke en gang for å beskytte et annen mot en gal morder, kunne man lyve, mente Kant. Vi snakker om løgnens filosofi ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/e719332a-a059-4d7f-a036-aa186322717b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/e719332a-a059-4d7f-a036-aa186322717b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:24</itunes:duration>
-      <pubDate>Sun, 23 Apr 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
