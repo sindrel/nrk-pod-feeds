@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 16 May 2023 04:28:48 +0000</lastBuildDate>
-    <pubDate>Tue, 16 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 May 2023 04:28:09 +0000</lastBuildDate>
+    <pubDate>Tue, 23 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <item>
+      <title>Hva koster det å sterilisere seg?</title>
+      <description><![CDATA[Barn er gjerne dyrt, men er det billigere å sterilisere seg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/cdeef84f-d827-40a1-9da9-d1f6fa16d9c9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/cdeef84f-d827-40a1-9da9-d1f6fa16d9c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:12</itunes:duration>
+      <pubDate>Tue, 23 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hvem er du i en krise?</title>
       <description><![CDATA[Annika Momrak er vikar i dagens episode og forteller om en busstur utenom det vanlige!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/a0ff9ee8-82aa-469a-a56d-eb6cbb41cdab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:54</itunes:duration>
       <pubDate>Tue, 21 Mar 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Milies nær døden-opplevelse</title>
-      <description><![CDATA[Blekkspruter spruter blekk, pungrotter leker død - men hva gjør Milie når hun føler seg truet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/feb667a5-3adf-4127-984c-1e1a3cb17965_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/feb667a5-3adf-4127-984c-1e1a3cb17965_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:34</itunes:duration>
-      <pubDate>Tue, 14 Mar 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
