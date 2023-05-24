@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 21 May 2023 04:27:48 +0000</lastBuildDate>
-    <pubDate>Sun, 21 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 May 2023 04:29:21 +0000</lastBuildDate>
+    <pubDate>Wed, 24 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Helsespesial: Spørsmålsrunde</title>
+      <description><![CDATA[Seksjonsoverlegen og ernæringsfysiologen svarer på spørsmål fra publikum om bl.a. slankemedisin, kostholdsråd og trender. Se "Helsekost Furuseth" i NRK TV! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/e13e3467-9214-42cc-9bb6-a4788d899f4e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e13e3467-9214-42cc-9bb6-a4788d899f4e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:59</itunes:duration>
+      <pubDate>Wed, 24 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Else besøker: Fritz Aanes</title>
       <description><![CDATA[Tidligere bryter og brytetrener Fritz Aanes åpner døra for Else. Hunden rømmer, kona ringer og Fritz viser frem treningsgarasjen sin. ]]></description>
@@ -87,15 +95,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/7178f871-9cbb-41ce-b20c-48f08f7974e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:16</itunes:duration>
       <pubDate>Sun, 23 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Helsespesial: KariAnne Vrabel</title>
-      <description><![CDATA[Overspising og følelser rundt dette er tema når psykologspesialist KariAnne Vrabel kommer hjem til Else. Se "Helsekost Furuseth" i NRK TV fra 20. april.  
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/c8a1053b-d821-4943-845f-4879a1bb1b79_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c8a1053b-d821-4943-845f-4879a1bb1b79_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:54</itunes:duration>
-      <pubDate>Wed, 19 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

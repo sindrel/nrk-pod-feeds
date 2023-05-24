@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 16 May 2023 10:28:21 +0000</lastBuildDate>
-    <pubDate>Tue, 16 May 2023 12:10:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 May 2023 04:29:01 +0000</lastBuildDate>
+    <pubDate>Wed, 24 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Spørretime: Alt du lurer på om allergi</title>
+      <description><![CDATA["Hvorfor er noen allergiske og andre ikke?" Overlegen, biologen og rådgiveren fra Astma og Allergiforbundet svarer på spørsmål som dere har stilt! 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/25848589-fec7-4d6f-af4f-aec140867590_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/25848589-fec7-4d6f-af4f-aec140867590_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Wed, 24 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Spørretime: Den vanskelige bunaden</title>
       <description><![CDATA[Nødhjelp til trege skjortestrykere og usikre sjeler! Syersken, bunadsforskeren og motehistorikeren svarer lytterne om trender og tradisjoner.]]></description>
@@ -83,15 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a81473be-5f2d-4ba0-9d93-6fdabb435ee1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>58:08</itunes:duration>
       <pubDate>Wed, 26 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Er du en nyttig idiot for russiske troll?</title>
-      <description><![CDATA[Hvordan foregår skjult påvirkning og manipulasjon på nett og sosiale medier? Vi spør Forsvarets forskningsinstitutt.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c4b13e78-97d2-48f4-825c-65b19bf8d4c8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c4b13e78-97d2-48f4-825c-65b19bf8d4c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:42</itunes:duration>
-      <pubDate>Mon, 24 Apr 2023 09:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
