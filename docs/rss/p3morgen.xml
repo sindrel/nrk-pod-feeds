@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 May 2023 12:44:14 +0000</lastBuildDate>
-    <pubDate>Tue, 23 May 2023 13:23:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 May 2023 10:28:59 +0000</lastBuildDate>
+    <pubDate>Wed, 24 May 2023 12:06:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Kunstig intelligens og krigsskip</title>
+      <description><![CDATA[Skummel tittel, gøyal episode. Tete og Adelina styrer skuta (krigsskipet?), og vi får besøk av Inga Strümke - her skal det snakkes om KI!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2e85bad9-479b-41ee-b5ff-d50ec4e317de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2e85bad9-479b-41ee-b5ff-d50ec4e317de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:36</itunes:duration>
+      <pubDate>Wed, 24 May 2023 12:06:00 +0200</pubDate>
+    </item>
     <item>
       <title>Noe attåt: Rapport fra toalettet</title>
       <description><![CDATA[Blir litt bæsjeprat i dag, så det er bare å advare mot. Prates også eldreomsorg, skrekkfilmer og vår nye matboks.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/97450e03-92f4-42d6-95e8-0a5fb963701d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:15</itunes:duration>
       <pubDate>Mon, 15 May 2023 11:33:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Noe attåt: kvakk kvakk</title>
-      <description><![CDATA[Vi går gjennom helgeplaner og Johannes forteller om den sagnomsuste USA-turen sin. Til stede: Karsten, Henning, Johannes, Daniel og ho Anna]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3a610add-71e8-484a-9b84-3ae174eef333_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3a610add-71e8-484a-9b84-3ae174eef333_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:31</itunes:duration>
-      <pubDate>Fri, 12 May 2023 11:31:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
