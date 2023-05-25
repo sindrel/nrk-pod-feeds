@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 24 May 2023 04:29:01 +0000</lastBuildDate>
-    <pubDate>Wed, 24 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 25 May 2023 04:28:12 +0000</lastBuildDate>
+    <pubDate>Thu, 25 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Brukes satelittdata fra Svalbard i krig?</title>
+      <description><![CDATA[Krigføring er avhengig av satellitter. Norge har den største antenneparken av alle - på Svalbard. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e2d8c583-7047-4048-b5cf-d64e25affe7f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e2d8c583-7047-4048-b5cf-d64e25affe7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:39</itunes:duration>
+      <pubDate>Thu, 25 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Spørretime: Alt du lurer på om allergi</title>
       <description><![CDATA["Hvorfor er noen allergiske og andre ikke?" Overlegen, biologen og rådgiveren fra Astma og Allergiforbundet svarer på spørsmål som dere har stilt! 
@@ -84,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7af29fde-ad52-4a07-acef-c12f9533543f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:52</itunes:duration>
       <pubDate>Wed, 26 Apr 2023 14:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Spørretime: Hvordan best hjelpe barnløse?</title>
-      <description><![CDATA[Stadig flere nordmenn opplever problemer med å få barn. Hva er det riktig at helsevesenet hjelper dem med? Og hva er best for barnet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a81473be-5f2d-4ba0-9d93-6fdabb435ee1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a81473be-5f2d-4ba0-9d93-6fdabb435ee1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:08</itunes:duration>
-      <pubDate>Wed, 26 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
