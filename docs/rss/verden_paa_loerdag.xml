@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 20 May 2023 11:22:24 +0000</lastBuildDate>
-    <pubDate>Sat, 20 May 2023 13:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 May 2023 04:28:45 +0000</lastBuildDate>
+    <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg"/>
+    <item>
+      <title>Krigen i Ukraina - Å leve i en krig</title>
+      <description><![CDATA[I Kyiv prøver folk å leve som normalt mens bombene smeller.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/5c086630-fe69-4208-8d52-e2dac2f24395_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/5c086630-fe69-4208-8d52-e2dac2f24395_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:43</itunes:duration>
+      <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Det farlige flagget</title>
       <description><![CDATA[Vil nasjonalisme i Europa gi oss krig igjen?
@@ -91,14 +99,6 @@ De er fanget i krigen mellom to generaler.
       <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/12cb4c38-03f5-4840-8a16-71cabcda3cf7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:11</itunes:duration>
       <pubDate>Sat, 22 Apr 2023 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: Hevnen mot forræderne</title>
-      <description><![CDATA[Hvorfor velger noen ukrainere å samarbeide med fienden ? Hva skjer når de oppdages ?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/f5c41c42-a3a5-40a9-a339-69396ec56005_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/f5c41c42-a3a5-40a9-a339-69396ec56005_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:10</itunes:duration>
-      <pubDate>Fri, 21 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
