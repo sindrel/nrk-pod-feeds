@@ -971,7 +971,7 @@ const feeds = [
     "id": "skitprat",
     "title": "De 10 siste fra Skitprat med Jens og Isak",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "smartere_paa_10_minutter",
