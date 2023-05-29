@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Vikinger</title>
+    <title>De 9 siste fra Vikinger</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Vikinger. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/vikinger for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Vikinger. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/vikinger for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 22 May 2023 04:28:46 +0000</lastBuildDate>
-    <pubDate>Mon, 22 May 2023 06:01:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 May 2023 04:28:56 +0000</lastBuildDate>
+    <pubDate>Mon, 29 May 2023 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/M3xKXaVWQAm1ecAE-YfDRAH9RpEWv16hjM-HvfKIYCmw"/>
     <item>
@@ -66,6 +66,22 @@
       <enclosure url="https://podkast.nrk.no/fil/vikinger/1414b134-6fa8-4a4b-bbf5-26a313d057b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:59</itunes:duration>
       <pubDate>Mon, 22 May 2023 06:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Harald Hardråde del 1:2</title>
+      <description><![CDATA[Harald Hardråde mister sin bror Olav i slaget på Stiklestad, og flykter med skalden Tjodolv. Målet er å én dag vende tilbake som Norges konge. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vikinger/512a990f-c1c6-4460-80c1-a920e83562c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/512a990f-c1c6-4460-80c1-a920e83562c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:15</itunes:duration>
+      <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Harald Hardråde del 2:2</title>
+      <description><![CDATA[Harald vender tilbake til Norge for å hevne sin brors død og gjenvinne tronen. Men i Norge er det nå brorens sønn, Magnus, som styrer landet.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vikinger/b7718b90-d78a-45d6-9775-627cc5ba26a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/b7718b90-d78a-45d6-9775-627cc5ba26a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:24</itunes:duration>
+      <pubDate>Mon, 29 May 2023 06:01:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
