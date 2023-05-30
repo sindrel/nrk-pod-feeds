@@ -1,19 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Hævvi</title>
+    <title>De 8 siste fra Hævvi</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Hævvi. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/haevvi for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Hævvi. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/haevvi for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 May 2023 04:28:28 +0000</lastBuildDate>
-    <pubDate>Tue, 23 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 May 2023 04:28:31 +0000</lastBuildDate>
+    <pubDate>Tue, 30 May 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ"/>
     <item>
-      <title>6. Sex saemien gïelsene </title>
-      <description><![CDATA[Båetieh / Kommer]]></description>
+      <title>7. Jaahkoe jïh joikagaahkoeh</title>
+      <description><![CDATA[Nelly veanhta dïhte fealadimmiegærroem åtna. Goltelæjja vaajtele saemien beapmoen bïjre govledh – nïejth vierhtiedimmieh vedtieh.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/a25c5aa5-0e50-4c96-97ac-fafdd591845c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/haevvi/a25c5aa5-0e50-4c96-97ac-fafdd591845c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:58</itunes:duration>
+      <pubDate>Tue, 30 May 2023 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>6. Sex saemien gïelesne </title>
+      <description><![CDATA[Nelly jïh Jonna baakoeh sex-posisjovnide darjoeh. Goltelæjja soptseste dïhte baerniem meatan låavtegen sïjse vaalteme – joekoen staelhpies sjædta. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/84806a58-cfe2-4a2b-97fa-798290b16247_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/haevvi/84806a58-cfe2-4a2b-97fa-798290b16247_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:48</itunes:duration>
@@ -21,7 +29,7 @@
     </item>
     <item>
       <title>5. Naasjonale laavlomeh mojhtesistie</title>
-      <description><![CDATA[Båehtie/Kommer]]></description>
+      <description><![CDATA[Nellyen voestes suehpeden 17. biejjien heevehtimmie, jïh dïhte aavode. Nöörjen, Sveerjen jïh saemien åålmegelaavloemidie mojtesistie laavloeh.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/53b1d372-f8e6-4d92-84de-b6e9a8358259_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/haevvi/53b1d372-f8e6-4d92-84de-b6e9a8358259_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:15</itunes:duration>
