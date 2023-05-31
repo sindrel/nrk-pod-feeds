@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 May 2023 12:46:32 +0000</lastBuildDate>
-    <pubDate>Tue, 30 May 2023 14:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 12:45:57 +0000</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hjiLrx_KEiOHn-F7Wu33tQ2i4a47ka44YPG2ikcE2f1Q"/>
+    <item>
+      <title>På trynet på Karl Johan!</title>
+      <description><![CDATA[Sandeep tok en ny og flau vei hjem! Gutta svarer FOMO- lærling og gir råd mot studiestress!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e8091bf4-a460-4756-8cd2-fd52588ee02e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e8091bf4-a460-4756-8cd2-fd52588ee02e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:45</itunes:duration>
+      <pubDate>Wed, 31 May 2023 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>- Livet er ikke en kalender!</title>
       <description><![CDATA[Galvan og Sandeep om å gi  "kompispris", justisministerens TikTok og det evige problemet ghosting!
@@ -88,15 +96,6 @@ Mail: mar@nrk.no
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/b101257c-9d74-462b-bd3a-487df95f5a7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:11</itunes:duration>
       <pubDate>Wed, 10 May 2023 15:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vi tester den som ligger under stolsetet!</title>
-      <description><![CDATA[Galvan har møtt Politiets utlendingsenhet og tenkt på avanserte navn. Test av redningsvester pluss litt mer om Arendal.
-Mail: mar@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e018c2c6-d5ff-40e7-83f5-4bc529998934_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e018c2c6-d5ff-40e7-83f5-4bc529998934_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:49</itunes:duration>
-      <pubDate>Tue, 09 May 2023 14:50:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

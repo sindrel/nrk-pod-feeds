@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 May 2023 12:46:23 +0000</lastBuildDate>
-    <pubDate>Tue, 30 May 2023 14:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 12:45:51 +0000</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 14:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <item>
+      <title>Ellen Arnstad</title>
+      <description><![CDATA[Den mangeårige medielederen mener sønnens sykdom har gjort henne mer empatisk, og til en mer tålmodig leder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4767da42-06be-4135-a37d-6a833fb7588a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4767da42-06be-4135-a37d-6a833fb7588a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:27</itunes:duration>
+      <pubDate>Wed, 31 May 2023 14:05:00 +0200</pubDate>
+    </item>
     <item>
       <title>Franciska Eliassen </title>
       <description><![CDATA[Filmskaperen anbefaler andre å være alene med seg selv, lenge. Selv bodde hun i et og et halvt år i en selvlaget jordgamme i Lofoten.]]></description>
@@ -85,15 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/240c452a-24e0-4c50-8940-443a1cba4ad6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:05</itunes:duration>
       <pubDate>Tue, 09 May 2023 14:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Øystein Greni</title>
-      <description><![CDATA[Øystein Greni hater Bigbang som bandnavn - og han hater middagsselskaper. Men han elsker å gjøre ting i stedet for å sitte og sutre.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8da7dac4-ee80-4fbd-aa85-d6981bb620f7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8da7dac4-ee80-4fbd-aa85-d6981bb620f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:54</itunes:duration>
-      <pubDate>Mon, 08 May 2023 13:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
