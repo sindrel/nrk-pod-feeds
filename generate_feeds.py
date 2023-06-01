@@ -20,7 +20,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         for channel in existing_feed.findall('channel'):
             last_build_date = channel.find('lastBuildDate').text
             last_feed_update = parser.parse(last_build_date)
-            logging.info(f"Feed was last built {last_feed_update}")
+            logging.debug(f"Feed was last built {last_feed_update}")
 
     metadata = get_podcast_metadata(podcast_id)
     if not metadata:
@@ -30,8 +30,8 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     image = metadata["series"]["squareImage"][4]["url"]
     website = metadata["_links"]["share"]["href"]
 
-    logging.info(f"  Title: {original_title}")
-    logging.info(f"  Image: {image}")
+    logging.debug(f"  Title: {original_title}")
+    logging.debug(f"  Image: {image}")
 
     p = Podcast(
         generator=podgen_agent,
@@ -142,7 +142,7 @@ if __name__ == '__main__':
 
         podcast = get_podcast(podcast_id, podcast_season, feeds_dir, ep_count)
         if not podcast:
-            logging.info(f"Got empty result when fetching podcast {podcast_id}")
+            logging.debug(f"Got empty result when fetching podcast {podcast_id}")
             continue
 
         write_podcast_xml(feeds_dir, podcast_id, podcast)

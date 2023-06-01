@@ -49,7 +49,7 @@ def get_podcast_episodes(podcast_id, season = None, format = "json"):
     return r.json()["_embedded"]["episodes"]
 
 def get_episode_manifest(podcast_id, episode_id, format = "json"):
-    logging.info(f"  Fetching assets for episode {episode_id}...")
+    logging.debug(f"  Fetching assets for episode {episode_id}...")
 
     url = f"{api_base_url}/playback/manifest/podcast/{podcast_id}/{episode_id}"
     r = requests.get(url, headers=headers)
@@ -64,7 +64,7 @@ def get_episode_manifest(podcast_id, episode_id, format = "json"):
     return r.json()
 
 def get_podcast_metadata(podcast_id, format = "json"):
-    logging.info(f"Fetching metadata for podcast {podcast_id}...")
+    logging.debug(f"Fetching metadata for podcast {podcast_id}...")
 
     url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}"
     r = requests.get(url, headers=headers)
