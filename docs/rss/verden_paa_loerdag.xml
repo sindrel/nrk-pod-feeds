@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Urix. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/verden_paa_loerdag for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 27 May 2023 11:22:33 +0000</lastBuildDate>
-    <pubDate>Sat, 27 May 2023 12:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 12:45:44 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Jun 2023 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg"/>
+    <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Krigen i Ukraina: Hva nå, Jens?</title>
+      <description><![CDATA[Russlands angrep på Ukraina har ført til at Jens Stoltenberg ennå ikke har fått gå av som NATOs generalsekretær. Men hva har krigen gjort med ham? Og hva skal Jens Stoltenberg gjøre nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/45369120-140d-4ec7-ba55-7cabeba00324_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/45369120-140d-4ec7-ba55-7cabeba00324_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:58</itunes:duration>
+      <pubDate>Thu, 01 Jun 2023 14:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Får Erdogan fem nye år ved makten i Tyrkia? </title>
       <description><![CDATA[Nå snakker mange om en hjerneflukt hvis Erdogan blir sittende. ]]></description>
@@ -89,14 +97,6 @@ Vår korrespondent i Moskva stiller et viktig spørsmål i ukas korrespondentbre
       <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/2597ade6-81e7-449d-bc62-5a36222aff71_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:11</itunes:duration>
       <pubDate>Sat, 29 Apr 2023 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: Et barneombud som stjeler barn?</title>
-      <description><![CDATA[Barneombudet i Russland har 23 barn sjøl – og beskyldes for å ha bortført tusenvis fra krigen i Ukraina. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ebaa1b80-d4e3-4d42-a902-9932c13723ee_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ebaa1b80-d4e3-4d42-a902-9932c13723ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:59</itunes:duration>
-      <pubDate>Fri, 28 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
