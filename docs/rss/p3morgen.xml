@@ -6,11 +6,27 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten P3morgen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/p3morgen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 26 May 2023 12:43:08 +0000</lastBuildDate>
-    <pubDate>Fri, 26 May 2023 14:38:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 11:22:26 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Jun 2023 10:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Kaotisk talentshow</title>
+      <description><![CDATA[Vi er i nytt studio, og arrangerer talentkonkurranse. Husk å gi din stemme i appen NRK Radio på hvem som var best! (Det var kun mulig med en avstemning) Tilstede: Tete, Karsten, Johannes, Sofie og Anna]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9879dd9a-09df-46cf-a9c1-ca166bb6c15c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9879dd9a-09df-46cf-a9c1-ca166bb6c15c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:23</itunes:duration>
+      <pubDate>Thu, 01 Jun 2023 10:15:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Blir kvalm av lydmelding fra Adelina</title>
+      <description><![CDATA[Tete og Karsten er tilbake fra seminaruke, og Adelina er med via en kontroversiell lydmelding. Vi får også besøk av Kristin Gjelsvik! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f3f112df-06dc-4b37-9467-c9e6cd29674a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f3f112df-06dc-4b37-9467-c9e6cd29674a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:52</itunes:duration>
+      <pubDate>Thu, 01 Jun 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Noe attåt: Johannes kjører quiz</title>
       <description><![CDATA[Det er helg i redaksjonen. Vi går gjennom planene våre, og Johannes holder quiz for Tete. Til stede: Adelina, Karsten, Tete, Johannes og ho Anna. ]]></description>
@@ -75,22 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/7c8a2d2e-e768-455d-a5a0-51a952fb2fd7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:07:08</itunes:duration>
       <pubDate>Tue, 23 May 2023 11:42:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Noe attåt: Tete smaker sterk chilibjørn</title>
-      <description><![CDATA[En kruttsterk episode preges av SK Brann og surt og sterkt godtegodt fra Sverige! Tilstede: Adelina, Johannes, Sofie, Tete og Hani.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7e810577-7b1f-4f33-b242-02d529d9be65_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7e810577-7b1f-4f33-b242-02d529d9be65_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:07</itunes:duration>
-      <pubDate>Mon, 22 May 2023 10:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>XL1 og rætt i koppen i rumpa mi</title>
-      <description><![CDATA[Det blir hett når to av lytterne konkurrerer i trønderduell. Reporter Hani prøver seg som frisørlærer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/093b65f3-fd5e-4c0f-861b-11bc9c60ac5d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/093b65f3-fd5e-4c0f-861b-11bc9c60ac5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:04:44</itunes:duration>
-      <pubDate>Mon, 22 May 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
