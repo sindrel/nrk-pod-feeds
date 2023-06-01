@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 31 May 2023 04:27:51 +0000</lastBuildDate>
-    <pubDate>Wed, 31 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Jun 2023 04:28:59 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ"/>
+    <item>
+      <title>Unge streber seg syke!</title>
+      <description><![CDATA[Stadig flere unge sliter med perfeksjonisme, og er mer bekymret for skole og jobb enn foreldrene var.  Hvorfor er vi så strenge mot oss selv? 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dc9d60a3-82db-428e-8909-7cfcbfc7715c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dc9d60a3-82db-428e-8909-7cfcbfc7715c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:38</itunes:duration>
+      <pubDate>Thu, 01 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Spørretime: Hvorfor spiser vi mer enn vi trenger?</title>
       <description><![CDATA["-Jeg orker ikke være sulten!" Fedmeforsker, psykolog og rådgiver i spiseforstyrrelser svarer lyttene om blant annet "emosjonell sult". ]]></description>
@@ -85,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0f1e81f8-9f91-45d0-8db7-baaaf8d6628e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:13</itunes:duration>
       <pubDate>Thu, 04 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Spørretime: Hva kan vi bruke DNA til?</title>
-      <description><![CDATA[Hvem var slekta di? Har du en genetisk arvelig sykdom? Slektsgranskeren, juristen og molekylærbiologen svarer lytterne om DNA. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/73903a46-1c16-45c5-9ce1-8752c3e0b1ee_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/73903a46-1c16-45c5-9ce1-8752c3e0b1ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:00</itunes:duration>
-      <pubDate>Wed, 03 May 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

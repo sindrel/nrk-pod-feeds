@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 25 May 2023 04:28:23 +0000</lastBuildDate>
-    <pubDate>Thu, 25 May 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Jun 2023 04:29:08 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FR6kyC3yBkrXZT2C9pPaPgkLjja1tQ9GbtqeYH3hIrfA"/>
+    <item>
+      <title>Metteson: Frihet til å være seg selv</title>
+      <description><![CDATA[Hva fikk den vellykkede skuespilleren Sverre Breivik til å bytte scene og bli artisten Metteson? Anna snakker med ham om veien til musikken, flyktig kjærlighet og det å finne ut hvem man er på tross av forventningspress.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/b9683c68-9a39-44eb-a848-de4094c7f478_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/b9683c68-9a39-44eb-a848-de4094c7f478_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:26</itunes:duration>
+      <pubDate>Thu, 01 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Eminem: Verdens beste rapper? </title>
       <description><![CDATA[Eminem forandret rap-gamet da han gjorde sin entré på 90-tallet. Anna prater med sin nye kollega i Musikkrommet, Jakob Naustdal, om hvordan Eminem ble en av verdens største rappere.]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/musikkrommet/be828701-49ba-45be-8cde-8504006f23bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:54</itunes:duration>
       <pubDate>Thu, 23 Mar 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd: Det udødelige albumet</title>
-      <description><![CDATA[“Dark Side of the Moon” av Pink Floyd får stadig nye fans 50 år etter utgivelsen, og trender nå også på TikTok. Anna snakker med kollega Oddvin Aune om hva det er som gjør den udødelig, til tross for kontroversene knytta til bandet i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/aa7f3d83-89f4-4371-b0e6-e75914559b17_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/aa7f3d83-89f4-4371-b0e6-e75914559b17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:49</itunes:duration>
-      <pubDate>Thu, 16 Mar 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
