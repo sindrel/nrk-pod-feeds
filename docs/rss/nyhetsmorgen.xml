@@ -6,11 +6,25 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Nyhetsmorgen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/nyhetsmorgen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 31 May 2023 08:28:17 +0000</lastBuildDate>
-    <pubDate>Wed, 31 May 2023 08:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 07:22:25 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Jun 2023 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/K05yaAgcOh32pA977RdeYA6Lrc-pcVlIHWSLUPZM-QHQ"/>
+    <itunes:image href="https://gfx.nrk.no/K05yaAgcOh32pA977RdeYA6Lrc-pcVlIHWSLUPZM-QHQ.jpg"/>
+    <item>
+      <title>01.06.2023 Nyhetsmorgen</title>
+      <description><![CDATA[Høge straumprisar gav kraftkommunar store inntekter i fjor. Dei var nær tre gonger så høge som året før, viser nye tal.  
+
+I USA puster mange letta ut etter at Kongressen vedtok å heve gjeldstaket - etter ukesvis med forhandlinger. 
+
+Oljebransjen meiner SV prøver å kuppe norsk oljepolitikk i budsjettforhandlingane med Arbeidarpartiet og Senterpartiet.  Det er ikkje SV enige i. 
+
+Nyhetsmorgen er i dag ved Katrine Nybø og Ida Kjøstelsen ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nyhetsmorgen/b7405f20-4b79-4820-a491-5a325ffce727_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/b7405f20-4b79-4820-a491-5a325ffce727_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:29:41</itunes:duration>
+      <pubDate>Thu, 01 Jun 2023 08:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>31.05.2023 Nyhetsmorgen</title>
       <description><![CDATA[Antall spillavhengige har blitt halvert. Norge har ikke hatt færre spillavhengige på 20 år. 
@@ -135,22 +149,6 @@ Programledere er Ida Kjøstelsen og Katrine Nybø. ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/6f29ed28-3626-4fd1-b711-d38abfbd30e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:29:09</itunes:duration>
       <pubDate>Tue, 16 May 2023 09:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>15.05.2023 Nyhetsmorgen</title>
-      <description><![CDATA[Det går mot ein andre valomgang i Tyrkia, tilhengjarane til den sitjande presidenten har inkassert sigeren på førehand.
-
-På tross av prisstigning, viser oversikt fra Innovasjon Norge at tallet på selskap som vokser fort og har mange ansatte, har økt. 
-
-Steinkjer kommune kravde i ti år inn ei ulovleg avgift for tilsyn av barn med særskilde behov. No må dei betala pengane tilbake.
-
-Loreen vant på lørdag i Liverpool, men kritikk av jury-systemet i Eurovision song contest overskygger nå svensk jubel.
-
-I studio denne mandagen sitter Ida Kjøstelsen og Katrine Nybø.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nyhetsmorgen/853b4078-f493-40c3-9196-fd65a68f3709_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nyhetsmorgen/853b4078-f493-40c3-9196-fd65a68f3709_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:30:08</itunes:duration>
-      <pubDate>Mon, 15 May 2023 08:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
