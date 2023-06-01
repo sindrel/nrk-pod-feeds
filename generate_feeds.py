@@ -27,7 +27,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         return None
 
     original_title = metadata["series"]["titles"]["title"]
-    image = metadata["series"]["squareImage"][4]["url"]
+    image = f"{metadata['series']['squareImage'][4]['url']}.jpg"
     website = metadata["_links"]["share"]["href"]
 
     logging.debug(f"  Title: {original_title}")
