@@ -6,18 +6,30 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Politisk kvarter. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/politisk_kvarter for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 06:17:55 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Jun 2023 08:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 02 Jun 2023 06:29:18 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
+    <item>
+      <title>100 dager til valget</title>
+      <description><![CDATA[Arbeiderpartiet sliter, Høyre flyr høyt, 100 dager før valget.
+
+Men Erna Solberg jages av kannibaler.
+
+I Trondheim kan trynefaktor avgjøre valget, i Stavanger kan det se ut som trynefaktor ikke betyr mye.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/1df1485c-6228-4fc6-84cf-2203653ee504_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/1df1485c-6228-4fc6-84cf-2203653ee504_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 08:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Lærere får bruke fysisk makt mot elever</title>
       <description><![CDATA[Ny opplæringslov vedtas og nå skal lærerne også få bruke makt når elever går løs på andre elever. Men er det så lett? og når kommer loven? Frp vil være strengere. 
 Og hva skjer nå med eksamen etter datatrøbbelet  forrige uke?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/a88188b7-5168-4783-9bb3-724ac1b5d7ad_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/a88188b7-5168-4783-9bb3-724ac1b5d7ad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:23</itunes:duration>
+      <itunes:duration>13:45</itunes:duration>
       <pubDate>Thu, 01 Jun 2023 08:00:00 +0200</pubDate>
     </item>
     <item>
@@ -94,15 +106,6 @@ Betyr det noe for deg hvem av dem som får en hånd på rattet i din kommune?]]>
       <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/fe4e54b7-8d4e-4058-a48b-c1cd486d874c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:28</itunes:duration>
       <pubDate>Fri, 19 May 2023 08:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hvem skal styre Oslo? </title>
-      <description><![CDATA[Kan private sykehjem løse problemene i eldreomsorgen? Skal skolematen bort igjen, selv om den nettopp er innført?  Mye skal endres dersom Eirik Lae Solberg (H) overtar etter Raymond Johansen (Ap) som byrådsleder i Oslo. Men selv om Høyre er mer enn dobbelt så store som Ap i Oslo, er det fortsatt usikkert hvem av de to som får flertall til å styre byen. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/df2522e8-2201-4b3f-8a73-062c974bec55_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/df2522e8-2201-4b3f-8a73-062c974bec55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:37</itunes:duration>
-      <pubDate>Tue, 16 May 2023 08:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
