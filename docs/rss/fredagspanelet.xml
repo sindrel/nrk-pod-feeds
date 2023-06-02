@@ -6,11 +6,30 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Fredagspanelet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fredagspanelet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 26 May 2023 07:22:39 +0000</lastBuildDate>
-    <pubDate>Fri, 26 May 2023 08:30:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 02 Jun 2023 08:27:44 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg"/>
+    <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>02.06.2023 Fredagspanelet</title>
+      <description><![CDATA[Spørsmål:
+1. I årets engelskeksamen skulle kandidatene analysere et dikt, av Amanda K. Amadson - som ikke finnes... spiller det en rolle hvem som har skrevet diktet?
+
+2. Er tiden kommet for å slutte å gi prisene til beste skuespiller delt inn etter kjønn?
+
+3. Prinsessens russehilsen ble redigert av Slottet, der hun la vekt på at russetiden er mer enn "fest og fanteri". Det ble byttet ut med "fest og fjas". Er det for tidlig - som Språkrådet mener -  å konkludere med  at det er et nedsettende ord og derfor innføre et slags språklig forbud?
+
+Panel:
+
+Sigrid Hvidsten, kommentator i Dagbladet.
+Thorbjørn Harr, skuespiller;
+Ulrik Imtiaz Rolfsen, regissør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/13fcf5fd-057e-4a79-ac3e-e4e688ec66ae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/13fcf5fd-057e-4a79-ac3e-e4e688ec66ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:40</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 09:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>26.05.2023 Fredagspanelet</title>
       <description><![CDATA[Panel: Filmregissør og forfatter Nina Grünfeld, artistmanager Jan Fredrik Karlsen,  programskaper og nå også politiker Gaute Grøtta Grav.
@@ -148,20 +167,6 @@ Spørsmål 1: Vi har strømstøtte her til lands, burde vi også hatt kulturstø
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/811bad84-f2e4-4403-98b9-9422829859af_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:45</itunes:duration>
       <pubDate>Fri, 24 Mar 2023 08:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>17.03.2023 Fredagspanelet</title>
-      <description><![CDATA[Panelet: Nora Paynter Gundersen, Styremedlem i Oslo World; Mohmoud Faramand, stortingpolitiker for Høyre; Susanne Kaluza, leder for Litteraturhuset i Oslo.
-
-Spørsmål 1: - Sosiale medier er negativt for unges mentale helse. Det er nå slått fast, en gang for alle. Vi kan ikke lenger si at forskningen spriker når vi ser på det totale bilde, mener lege og forfatter Ole Petter Hjelle. Bør unge fratas muligheten å være på sosiale medier? 
-
-Spørsmål 2: Selskapet OpenAi har lansert en ny og forbedret versjon av sin egen tekstrobot ChatGPT. Selskapet hevder blant annet at tekstroboten gjør det like bra som de 10 prosent beste juristene på advokatprøven. Vil du la kunstig intelligens føre saken din i rettssalen? 
-
-Spørsmål 3: Den britiske avisen The Times melder at Tom Cruise er nektet å lande med helikopter på Svalbard. Bør Tom Cruise få unntak, siden reklameeffekten vil være til god hjelp for turistindustrien på Svalbard? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/5abb05b2-c77e-411a-82cb-a14f3bec096b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/5abb05b2-c77e-411a-82cb-a14f3bec096b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:03</itunes:duration>
-      <pubDate>Fri, 17 Mar 2023 08:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
