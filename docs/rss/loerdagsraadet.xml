@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 27 May 2023 11:22:19 +0000</lastBuildDate>
-    <pubDate>Sat, 27 May 2023 13:05:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 02 Jun 2023 15:24:29 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 16:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
+    <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Tørketrommel får en løsning og fy-fy-fysioterapeut</title>
+      <description><![CDATA[Tilbakemelding fra Omo og Color + fysioterapeuter har strenge regler + fyllemail med plot twist!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/37c42d5e-f187-484b-be4d-50639c07be56_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/37c42d5e-f187-484b-be4d-50639c07be56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:46</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 16:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ulrikke Brandstorp / Adelina Ibishi / Hans-Olav Brenner</title>
       <description><![CDATA[Ble det 17. mai frokost? PROBLEMER: Fysio eller drink?! / Liker bror, men ikke det han skal gifte seg inn i / Nabokjærlighetssorg / Kakemannen med lite repertoar / Ulik grad av eventyrlyst / Kan mødre være skløttete? / Tørketrommelproblemet /Akseptert invitasjonen tre ganger]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/8c063cca-80c5-4315-b45b-a69bd16e23b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:38</itunes:duration>
       <pubDate>Thu, 27 Apr 2023 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Henriette Steenstrup / Erik Solbakken / Jan Thomas</title>
-      <description><![CDATA[Er Lise stressa på tur? / PROBLEMER: Drømmekollektiv med eksflørt? / Den bortkomne sønn / For ung til å spankulerere? /Hvem har førsteretten? / Er det vanlig å tørke seg i rumpa MED PAPIR etter man har dusjet? / Workaholic samboer / Emosjonellt forvirra tenåring i nød / Blir aldri brun i sola / Koppen skal ut]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/1719d948-eb92-44dc-805c-9ae9365e1a2a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1719d948-eb92-44dc-805c-9ae9365e1a2a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:11:01</itunes:duration>
-      <pubDate>Sat, 22 Apr 2023 13:20:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
