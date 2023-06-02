@@ -6,11 +6,35 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Abels tårn. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/abels_taarn for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 29 May 2023 04:28:24 +0000</lastBuildDate>
-    <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 02 Jun 2023 14:25:32 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ"/>
+    <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ.jpg"/>
+    <item>
+      <title>Abels Tårn - Finnes det en kreftvaksine for hunder?</title>
+      <description><![CDATA[ABELS TÅRN
+Et strålende ekspertpanel sitter klare for å svare på følgende spørsmål fra våre lyttere:
+
+- Finnes det en kreftvaksine for hunder?
+
+- Er det lettere å bli syk når «kroppen slapper av»?
+
+- Hvis stress gjør oss syke blir vi vel friske av kjærlighet og glede?
+
+- Hvordan kan en hvit linskjorte bli rosa når den legges i klorvann?
+
+- Hvorfor kiler det vanvittig når andre kiler oss, men ikke når vi gjør det selv?
+
+- Berøring utløser kjærlighetshormonet oksytocin, men hva skjer etter det?
+
+- Ballonger blir slappe etter hvert, men hvor er det luften slipper ut? 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3d3f1715-ad3d-496e-833b-5ca9cdd3ad93_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3d3f1715-ad3d-496e-833b-5ca9cdd3ad93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:39</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Forskningsfronten - Aggressive spekkhoggere, mobile labber og elektronikk av tr</title>
       <description><![CDATA[FORSKNINGSFRONTEN med nyheter fra vitenskapens verden:
@@ -181,28 +205,6 @@ Med Olav Lysne og Gullik Gundersen]]></description>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c4eafe91-2f53-47a5-97d2-e6f1d0510e84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:51</itunes:duration>
       <pubDate>Sat, 13 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Abels tårn - Hører telefonen hva du sier?</title>
-      <description><![CDATA[ABELS TÅRN
-
- - Hvordan kan vi avsløre om vi snakker med en ChatBot på telefonen?
-
- - Kan mitokondriedonasjon fra en frisk donor være skadelig?
-
- - Overlever vi hvis galaksene Melkeveien og Andromeda kolliderer?
-
- - En kvantedatamaskin løser regneoppgaver ufattelig raskt, men regner den riktig?
-
- - Når oppstod kreft, og kjenner vi det første historiske tilfellet som er registrert?
-
- - Hvorfor har solsystemet fire små steinplaneter innerst og fire store gassplaneter ytterst?
-
- - Kan smarttelefonen høre hva jeg sier? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/6e6c7d0e-fc3a-41b7-9a7a-0c335bbf22ae_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6e6c7d0e-fc3a-41b7-9a7a-0c335bbf22ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:55</itunes:duration>
-      <pubDate>Fri, 12 May 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
