@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hør'a!. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hoera for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 26 May 2023 04:28:21 +0000</lastBuildDate>
-    <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 02 Jun 2023 04:28:08 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA"/>
+    <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    <item>
+      <title>Jordbær på pinne og kurder i åkeren </title>
+      <description><![CDATA[Tyrkiske såpeoperaer,  skandinaviske sommerdrømmer, depresjon og Seppis liste over steder som er verre enn fengsel.
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/9310f639-c390-4207-a307-28fa558c3824_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/9310f639-c390-4207-a307-28fa558c3824_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:40</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Kjære femten år gamle oss</title>
       <description><![CDATA[Oslo er full av amerikanske sjømenn, Arin har hatt bursdagsblues, influensere er passiv aggressive og vi gir råd til oss selv som femten. 
@@ -102,17 +112,6 @@ Send oss en mail! HORA@nrk.no]]></description>
       <enclosure url="https://podkast.nrk.no/fil/hoera/2ccd8b0d-5237-423b-89a3-90e0c6d3b41c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:15</itunes:duration>
       <pubDate>Fri, 31 Mar 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kebabnorsk med dressing på</title>
-      <description><![CDATA[Ily har blødd gjennom, Arin kjører digital detox, Sosh sliter med new moon, og vi må alle møte i Hør'a-retten. 
-
-Send oss en mail! HORA@nrk.no
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/35e0be6d-e15c-4cbc-9c94-ab545614f9ce_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hoera/35e0be6d-e15c-4cbc-9c94-ab545614f9ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:06</itunes:duration>
-      <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

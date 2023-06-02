@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 04:29:11 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Jun 2023 05:59:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 02 Jun 2023 04:28:20 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/q2KQ7Moyue9ANLOwimqC9ADISYTWtS3wsjIruI7GuZzA"/>
+    <itunes:image href="https://gfx.nrk.no/q2KQ7Moyue9ANLOwimqC9ADISYTWtS3wsjIruI7GuZzA.jpg"/>
+    <item>
+      <title>Mirakel-nonne i USA: Kan hun bli ny helgen?</title>
+      <description><![CDATA[Da nonnene i et kloster i Missouri skulle flytte graven til sin kjære grunnlegger, Wilhelmina Lancaster, oppdaget de noe som kunne tolkes som et mirakel. Oppdagelsen har fått tusenvis av mennesker til å legge ut på en pilgrimreise for å se den døde nonna, som nå spås å kunne bli en ny helgen for den katolske kirke. Hva er det de oppdaga? Og kan hun virkelig være en helgen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d328d62d-ee30-4147-ac9a-6c675298fa9c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d328d62d-ee30-4147-ac9a-6c675298fa9c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:02</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 05:59:00 +0200</pubDate>
+    </item>
     <item>
       <title>Stupeulykke i retten: Hvem har ansvaret?</title>
       <description><![CDATA[En sommerdag for to år siden ble livet til MMA-utøver Geir Kåre Nyland endra for alltid. Han skulle bare ta seg en rask dukkert på Sørenga i Oslo, men endte opp med brukket rygg – og en hverdag som rullestolbruker. Nå mener Geir Kåre at kommunen må ta sin del av skylda for det som skjedde. Men hvem er det egentlig som har ansvaret?]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/345d7075-8079-46fa-9005-a975070dab5f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:14</itunes:duration>
       <pubDate>Mon, 22 May 2023 05:59:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Snowden-lekkasjene (2:2): Flukten</title>
-      <description><![CDATA[I 2013 ble en rekke topphemmelige dokumenter lekket ut til verden. Dokumentene sjokkerte USAs allierte, men også egne borgere, fordi de viste systematisk og ulovlig overvåking fra amerikanske myndigheter. Lekkasjen utløste en diplomatisk krise - men også en vill jakt på mannen bak: nemlig den unge IT-teknikeren Edward Snowden. Episode 2 av 2.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/5c0d5a54-ceac-43f6-a6a6-d2545cde088c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/5c0d5a54-ceac-43f6-a6a6-d2545cde088c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:49</itunes:duration>
-      <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

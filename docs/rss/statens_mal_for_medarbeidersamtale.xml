@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Statens mal for medarbeidersamtale. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/statens_mal_for_medarbeidersamtale for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 26 May 2023 04:28:40 +0000</lastBuildDate>
-    <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 02 Jun 2023 04:28:26 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/xRP5wKPnLQ0Y4dTN8bK6-Q6gCzxavVunu2v3PXhToQHQ"/>
+    <itunes:image href="https://gfx.nrk.no/xRP5wKPnLQ0Y4dTN8bK6-Q6gCzxavVunu2v3PXhToQHQ.jpg"/>
+    <item>
+      <title>Yrkeskriminell</title>
+      <description><![CDATA[Ikke alt "Markus" tjener penger på er lovlig. Hvordan ser arbeidsdagen hans ut?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/5c19e50c-4303-47b7-a905-ec92dd4dc694_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/5c19e50c-4303-47b7-a905-ec92dd4dc694_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:41</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Amatørporno-medarbeider</title>
       <description><![CDATA[Espen lager amatørporno på Finnsnes. Er han fornøyd med lønna, og hvordan skal han nå målet om å bli proff pornostjerne?]]></description>
@@ -127,19 +135,6 @@ Komponist: David Atarodiyan]]></description>
       <enclosure url="https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/0f2da034-ad2b-47c0-8fde-83b41124ec6d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:07</itunes:duration>
       <pubDate>Sun, 27 Nov 2022 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Healer</title>
-      <description><![CDATA[Alma er healer, men blir hun selv syk av jobben? Og hvordan trives hun med arbeidsoppgaven demonutdriving?
-
-
-Programleder: Sindre Reinholt
-Produsent: Jakob Naustdal
-Komponist: David Atarodiyan]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/4a710bb2-477c-4a63-9cfb-8c97eadb7336_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/4a710bb2-477c-4a63-9cfb-8c97eadb7336_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:18</itunes:duration>
-      <pubDate>Sun, 20 Nov 2022 06:01:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

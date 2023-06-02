@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Berrum &amp; Beyer snakker om greier. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 May 2023 04:28:23 +0000</lastBuildDate>
-    <pubDate>Tue, 30 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 02 Jun 2023 04:27:57 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q"/>
+    <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Wolfgang Wee: Kostholdsgame og bratwurst</title>
+      <description><![CDATA[Podkaster Wolfgang Wee er dagens gjest. Det blir preik om kjøttspising, kanseleringskultur, festivalen i Cannes og et gammelt samarbeid. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/29fb98d6-6eb4-44ab-bf9f-78fbd0d65ec0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/29fb98d6-6eb4-44ab-bf9f-78fbd0d65ec0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:21</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Vaska til TG3, dobbel leamus og RETT FØR juni</title>
       <description><![CDATA[Lars har vasket bort sluket i dusjen, Martin har fått leamus på begge øya. Sammen diskuterer de når 10-tiden er og vi er RETT før juni. ]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/32fed143-c289-453d-ac7b-0337a0c0abaf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:08:01</itunes:duration>
       <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ingrid Simensen: Fargen kjendis og mykoplasma</title>
-      <description><![CDATA[Programleder Ingrid Simensen er dagens gjest. Det blir prat om Farmen kjendis, mykoplasma, nevroser og hennes fargejobb. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e9d51bed-486b-4969-a709-5f9903337364_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e9d51bed-486b-4969-a709-5f9903337364_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:08:13</itunes:duration>
-      <pubDate>Fri, 28 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

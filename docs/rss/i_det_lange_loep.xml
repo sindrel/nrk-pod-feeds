@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 26 May 2023 04:28:23 +0000</lastBuildDate>
-    <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 02 Jun 2023 04:28:10 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw"/>
+    <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw.jpg"/>
+    <item>
+      <title>Manglende helsesertifikat og snuoperasjonen</title>
+      <description><![CDATA[Norgesmester Mathilde Theisen innfridde ikke kravene til helsesertifikat og fikk startnekt. Det var flaut, men nå vil hun fortelle sin historie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/09aaa025-66b9-481e-a151-8572d61bf18d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/09aaa025-66b9-481e-a151-8572d61bf18d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:52</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Alt som kan måles</title>
       <description><![CDATA[Fredrik Mentzoni har doktorgrad og har som ansvarsområde å videreutvikle fagområdet teknologi og utstyr på Olympiatoppen for landets beste idrettsutøvere. Vi har snakket med han om alt som kan måles (estimeres) i utholdenhetsidrett, i hvilken grad vi kan stole på tallene, og hva vi kan bruke dem til. Bør vi alle bli labrotter og gjøre treningen så teknologisk som mulig? Eller kommer vi fortsatt langt med egen følelse?
@@ -87,14 +95,6 @@ Kristian og Jann sliter fortsatt med sykdom, men prøver å få opp humøret med
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/6b4b5c73-9a3a-4e18-a9b9-a70de58f9863_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:31:29</itunes:duration>
       <pubDate>Fri, 31 Mar 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Den menneskelige maskinen</title>
-      <description><![CDATA[Skademareritt og tøffe krav til seg selv preget crossfitdronningen Kristin Holtes vei til å bli verdens nest best trente kvinne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/590b949e-49d6-40ee-a3bc-3ecc74f8a3e9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/590b949e-49d6-40ee-a3bc-3ecc74f8a3e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:43:09</itunes:duration>
-      <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
