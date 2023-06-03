@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Norsken, svensken og dansken. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/norsken_svensken_og_dansken for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 27 May 2023 04:27:30 +0000</lastBuildDate>
-    <pubDate>Sat, 27 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 03 Jun 2023 04:27:48 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg"/>
+    <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    <item>
+      <title>Dansk potens og norsk overmot</title>
+      <description><![CDATA[Hva skal egentlig til for å få statsborgerskap i våre land? Har Norge fått et alvorlig anfall av hybris? Og kan det være at sæd er den danske oljen? Hør også om Nato-besøk i Oslo og svensk puppesjokk i Danmark.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/d7fe6732-131c-49b5-83f2-c558634d0cd9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/d7fe6732-131c-49b5-83f2-c558634d0cd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:29</itunes:duration>
+      <pubDate>Sat, 03 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Barn og fulle folk</title>
       <description><![CDATA[Er barneoppdragelsen på ville veier? Kan løsningen for fattige barnefamilier i Sverige være å spise billigere mat? Og: Statsminister i Danmark, Mette Fredriksen, har vært på Bilderberg-konferansen. Hva er det, og hva skjer på dette møtet for den øverste eliten i Vesten? Hør også om fylla på 17. mai og besk kritikk fra Sverige.]]></description>
@@ -88,14 +96,6 @@ Hør om Finland sitt Stockholmsyndrom, det nye Nato-medlemskapet og mye mer du k
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/75267ac4-92ab-4c4b-b983-51ee4b679bae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:34</itunes:duration>
       <pubDate>Sat, 01 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Må man kastrere seg for å bli kvinne? </title>
-      <description><![CDATA[Hvilken garderobe skal man velge om har byttet juridisk kjønn, men beholder sin kropp intakt? Burde Danmark samarbeide med Russland i etterforskningen av North Stream-sabotasjen? Og skal vi bare flytte til Sveits? Hør også om middelaldrende kvinners storhet, finsk lykke og dragshow for barn i København, som skaper store kontroverser. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/2873085a-113c-42f8-a064-a0f511c0a382_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/2873085a-113c-42f8-a064-a0f511c0a382_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:11</itunes:duration>
-      <pubDate>Sat, 25 Mar 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

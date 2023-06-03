@@ -6,11 +6,22 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Brenner deler dikt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/brenner_deler_dikt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 27 May 2023 04:27:19 +0000</lastBuildDate>
-    <pubDate>Sat, 27 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 03 Jun 2023 04:27:37 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/r3WrsnfKyOZAfbNtiGT60QVs6Uw0pJMF0JuZunO3N1CA"/>
+    <itunes:image href="https://gfx.nrk.no/r3WrsnfKyOZAfbNtiGT60QVs6Uw0pJMF0JuZunO3N1CA.jpg"/>
+    <item>
+      <title>Ella Marie Hætta Isaksen: Glad læreren nekta meg den språkpolitivesten</title>
+      <description><![CDATA[Aktivismen til Ella Marie startet tidlig. Som 6-åring konfronterte hun venner som ikke snakket samisk og utropte seg selv til språkpoliti i skolegården. Diktet hun deler gjør henne stolt av å være samisk. 
+Ukas dikt er «Madrid 1981» av Nils-Aslak Valkeapää.
+Oversatt til norsk av Harald Gaski
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/07f3b140-54b4-4303-8eca-1efd3a5e8229_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/07f3b140-54b4-4303-8eca-1efd3a5e8229_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:14</itunes:duration>
+      <pubDate>Sat, 03 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Lars Saabye Christensen: Hvor er det blitt av alle gutta?</title>
       <description><![CDATA[Forfatter Lars Saabye Christensen byr på en skikkelig diktklassiker som har gitt generasjoner av nordmenn ord på den nostalgiske følelsen av vennskap som har gått i oppløsning. 
@@ -98,16 +109,6 @@ Ukas dikt er "Kl. 02.16" av Sara Zahid. ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/67e334a8-5615-4551-9f5a-16cec7d1abad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>16:44</itunes:duration>
       <pubDate>Sat, 08 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sissel Gran: Stakkars moren og faren min</title>
-      <description><![CDATA[Et dikt av Inger Hagerup ga psykolog Sissel Gran plutselig innsikt i foreldrenes turbulente kjærlighetsrelasjon. I en norsktime på Teisen gymnas fikk hun høre et dikt hun har hatt med seg hele livet. 
-
-Ukas dikt er "Episode" av Inger Hagerup]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/b6d7bd51-6c44-45d0-b619-01765b5b1107_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/b6d7bd51-6c44-45d0-b619-01765b5b1107_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:07</itunes:duration>
-      <pubDate>Sat, 01 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
