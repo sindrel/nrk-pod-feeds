@@ -6,11 +6,25 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ukeslutt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ukeslutt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 27 May 2023 12:41:23 +0000</lastBuildDate>
-    <pubDate>Sat, 27 May 2023 14:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 03 Jun 2023 12:42:13 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Jun 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q"/>
+    <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q.jpg"/>
+    <item>
+      <title>03.06.2023 Ukeslutt</title>
+      <description><![CDATA[Vi har fått vite sannheten om overgrepene mot samer, kvener og skogfinner, men kan det nå bli en forsoning?
+
+Ukeslutt følger musiker på veg til Dissimilis-festivalen i Oslo og vi møter også majoren som ble kalt «Gud» etter redningsaksjon i Kosovo.
+
+Det er «lobbedag» på Idrettstinget før valget på ny president.
+
+Og trenger lærerne bøllekurs for å få disiplin og ro i klasserommet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/d127322e-7713-4dfa-93ac-9034d9a832fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/d127322e-7713-4dfa-93ac-9034d9a832fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:05</itunes:duration>
+      <pubDate>Sat, 03 Jun 2023 14:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ukeslutt podkast 27.05.2023</title>
       <description><![CDATA[Fjellklatrer Kristin Harila satte denne uka rekord i klatretempo opp to av verdens høyeste fjell. Men hvordan er det for kjæreste og familien når verdensrekordforsøket er livsfarlig? 
@@ -109,22 +123,6 @@ I kveld tar en Spellemann nemlig på seg en litt for trang dress for å feire 50
       <enclosure url="https://podkast.nrk.no/fil/ukeslutt/b09f1f2d-1537-48b5-8906-52ffa50137cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:09:25</itunes:duration>
       <pubDate>Sat, 01 Apr 2023 15:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>25.03.2023 Ukeslutt</title>
-      <description><![CDATA["Viktig, men retraumatiserende". Det sier Martine Aurdal om at Riksadvokaten vil gjenoppta saken mot Jan Helge Andersen.  
-
-Kan den såre lysken til en 22 år gammel jærbu ødelegge for Norges EM-sjanser? 
-
-Brautens fravær i kveldens landskamp gjør spanjolene ekstra selvsikre.  
-
-Amerikanske tilstander med partyband, glitter og Erna-effekter. 
-
-Høyres landsmøte skårer høyt i kategorien "fest og moro" på landsmøtebarometeret. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/59dc8007-d6dc-44de-9542-5138edc1e918_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/59dc8007-d6dc-44de-9542-5138edc1e918_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:52</itunes:duration>
-      <pubDate>Sat, 25 Mar 2023 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
