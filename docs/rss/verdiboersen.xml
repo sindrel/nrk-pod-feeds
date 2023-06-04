@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 02 Jun 2023 12:48:13 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Jun 2023 14:15:00 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Jun 2023 08:26:26 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Jun 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Om det tragiske</title>
+      <description><![CDATA[- Livet har ingen mening. Hvorfor mente filosofen  Peter Wessel Zapffe det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/7327c90a-5ac3-4862-aa88-f7681fb5b836_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/7327c90a-5ac3-4862-aa88-f7681fb5b836_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:57</itunes:duration>
+      <pubDate>Sun, 04 Jun 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title> Den 37. sultanen</title>
       <description><![CDATA[Erdogan og drømmen om Det osmanske riket]]></description>
@@ -90,14 +98,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c4d3ca84-3cdf-4f95-94d3-056d6ac41305_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:16</itunes:duration>
       <pubDate>Fri, 05 May 2023 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>En enestående tenker</title>
-      <description><![CDATA[For 200 år siden sprengte Henrik Steffens grenser med nye tanker om natur og ånd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/5713f776-576e-4086-ae81-fe3ececc10e0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5713f776-576e-4086-ae81-fe3ececc10e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:17</itunes:duration>
-      <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
