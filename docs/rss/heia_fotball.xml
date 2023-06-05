@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Heia Fotball. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/heia_fotball for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 31 May 2023 04:27:56 +0000</lastBuildDate>
-    <pubDate>Wed, 31 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 05 Jun 2023 11:21:57 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Jun 2023 12:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg"/>
+    <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
+    <item>
+      <title>Snakkis: HF-AWARDS, Zlatan og Rice-hyllest</title>
+      <description><![CDATA[Heia fotball deler ut priser til kule dommere, velkledde spillere og årets Braut.
+
+I panelet: Sven Bisgaard Sundet, Emil Gukild og Tete Lidbom]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/46d95ca7-ba17-4d26-ad3a-86b58ed80562_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/46d95ca7-ba17-4d26-ad3a-86b58ed80562_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:16</itunes:duration>
+      <pubDate>Mon, 05 Jun 2023 12:40:00 +0200</pubDate>
+    </item>
     <item>
       <title>#351 Lise Klaveness</title>
       <description><![CDATA[Fotballpresident Lise Klaveness forteller om livet etter FIFA-talen, isfronten med Infantino og hvorfor hun vurderte å si opp før Qatar-VM.]]></description>
@@ -91,14 +101,6 @@ Tete Lidbom, Sven Bisgaard Sundet og Carl-Erik Torp
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/7c91a0f5-ab2a-4b88-a69c-a709f5844cec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:11:25</itunes:duration>
       <pubDate>Thu, 27 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Snakkis: Eliteserien, dommere og ræva innlegg</title>
-      <description><![CDATA[Panelet er nyforelska i eliteserien, men misfornøyde med dommeravgjørelser og innlegg som går rett i første mann.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/a2ab1532-c93a-4610-aa07-bb160d33ee8d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/a2ab1532-c93a-4610-aa07-bb160d33ee8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:53</itunes:duration>
-      <pubDate>Mon, 24 Apr 2023 13:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
