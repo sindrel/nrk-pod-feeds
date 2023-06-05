@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 02 Jun 2023 06:29:18 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Jun 2023 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Jun 2023 06:29:51 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Jun 2023 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
+    <item>
+      <title>Kan kronekursen reddes?</title>
+      <description><![CDATA[Norge blir rikere, men pengene våre blir likevel mindre verdt. Har Norges Bank noen mulighet til å gjøre noe med det? I så fall hva? Og så er det Høyres Jon Gunnar Pedersen som mener det er regjeringens skyld at krona er lav.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/b10352a9-cac9-4fad-9a47-94acc56c03c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/b10352a9-cac9-4fad-9a47-94acc56c03c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:10</itunes:duration>
+      <pubDate>Mon, 05 Jun 2023 08:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>100 dager til valget</title>
       <description><![CDATA[Arbeiderpartiet sliter, Høyre flyr høyt, 100 dager før valget.
@@ -96,16 +104,6 @@ Og hva gjør regjeringen nå? Hva skal SV ha for å gi dem flertall?]]></descrip
       <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4df1367f-848e-4f93-be3c-9354ee3e8be7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:11</itunes:duration>
       <pubDate>Mon, 22 May 2023 08:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mdg og Frp - motpololene i norsk politikk?</title>
-      <description><![CDATA[Formynderstat med pålagt askese for å berge planeten mot friheten til å høre den gode lyden av V8 motor på vei til en grill full av biff.
-Er Mdg - og Frp de egentlige motpolene i norsk politikk som knapt er enige om en eneste sak?
-Betyr det noe for deg hvem av dem som får en hånd på rattet i din kommune?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/fe4e54b7-8d4e-4058-a48b-c1cd486d874c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/fe4e54b7-8d4e-4058-a48b-c1cd486d874c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:28</itunes:duration>
-      <pubDate>Fri, 19 May 2023 08:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
