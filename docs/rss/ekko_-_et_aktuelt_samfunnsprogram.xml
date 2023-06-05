@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 02 Jun 2023 04:28:02 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Jun 2023 04:28:04 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ.jpg"/>
+    <item>
+      <title>EKKO: Kunsten å bli hørt</title>
+      <description><![CDATA[Slik får du folk til å lytte til deg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e05c7ab3-b3f2-4091-a9b5-6e59ea632d5f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e05c7ab3-b3f2-4091-a9b5-6e59ea632d5f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:41</itunes:duration>
+      <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Mannen med elektrokofferten</title>
       <description><![CDATA[Dette er historien om hvordan lille dyslektiske Espen ble "mannen med elektrokofferten". Den skulle endre hans eget -og mange andres liv. ]]></description>
@@ -85,15 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/13d07f69-2e4c-411e-b841-248a3979b831_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:30</itunes:duration>
       <pubDate>Wed, 10 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kan dødstraffen komme tilbake?</title>
-      <description><![CDATA[De fleste nordmenn er prinsipielt imot dødsstraff, men hva skal til for at vi igjen bruker døden som straff for kriminelle handlinger?
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/56e755cc-aadd-4ddc-8e87-7adf1e924e56_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/56e755cc-aadd-4ddc-8e87-7adf1e924e56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:11</itunes:duration>
-      <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

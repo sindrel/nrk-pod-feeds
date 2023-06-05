@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kladden har dævva. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kladden_har_daevva for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 29 May 2023 04:28:37 +0000</lastBuildDate>
-    <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 05 Jun 2023 04:28:12 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA"/>
+    <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Jonas Bergland, på jobb med døden</title>
+      <description><![CDATA[Hvordan er det best å overbringe et dødsbudskap? Og hvorfor vil Martin plutselig ha dr. Bergland som fastlege? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/caf5fb29-5a86-4350-861a-39aca2cdbc75_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/caf5fb29-5a86-4350-861a-39aca2cdbc75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:42</itunes:duration>
+      <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Espen Fadnes i fritt fall</title>
       <description><![CDATA[Espen lever av å kaste seg ut fra fjellvegger og har så mange nær døden-opplevelser at det er vanskelig å velge. Møt verdens raskeste vingedraktflyger og Martins rake motsetning. ]]></description>
@@ -83,14 +91,6 @@ Trenger du noen å snakke med? Mental helses hjelpetelefon: 116 123. RUSinfo: 91
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a0ae162a-13d2-41c3-99e9-aee829e4bb4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:01</itunes:duration>
       <pubDate>Mon, 03 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sigrid Bonde Tusvik - for travel til å dø </title>
-      <description><![CDATA[Martin har på en måte nesten dødd siden sist, Sigrid vil faen ikke dø og vil helst slippe å bære kister. Bonustelefon til redningsmannen fra klamydiadammen! ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/481f74e5-fb67-47a3-81ff-0fbc71ae1851_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/481f74e5-fb67-47a3-81ff-0fbc71ae1851_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:24</itunes:duration>
-      <pubDate>Mon, 27 Mar 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
