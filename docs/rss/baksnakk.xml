@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Baksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baksnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 May 2023 04:28:21 +0000</lastBuildDate>
-    <pubDate>Tue, 30 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 06 Jun 2023 04:27:59 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA"/>
+    <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA.jpg"/>
+    <item>
+      <title>Men, hvorfor feirer vi Pride, egentlig?</title>
+      <description><![CDATA[Hvordan spør man om navnet til noen man ÅPENBART burde vite hva heter, og hva var egentlig Stonewall-opprøret]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/595f37c8-bfdb-41d5-a40f-64dd1c200097_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/595f37c8-bfdb-41d5-a40f-64dd1c200097_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:56</itunes:duration>
+      <pubDate>Tue, 06 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Spøtta spesial!</title>
       <description><![CDATA[Zara og Lydia gjør sitt ytterste for å besvare dine spørsmål fra den elskede spøtta!]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/47109c8a-9901-4485-9eb3-8a1bef532dbf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:40</itunes:duration>
       <pubDate>Tue, 04 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Flaks at puppene mine er små og ydmyke</title>
-      <description><![CDATA[Zara og Lydia får hjelp av en trollmann.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/829d8535-2406-4aac-af81-1dcf0c3b4c69_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/829d8535-2406-4aac-af81-1dcf0c3b4c69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:12</itunes:duration>
-      <pubDate>Tue, 28 Mar 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Åpen bok. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bok_i_p2 for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 May 2023 04:28:25 +0000</lastBuildDate>
-    <pubDate>Tue, 30 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 06 Jun 2023 04:28:05 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g"/>
+    <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Åpen bok: Kritikerne 02.06.23</title>
+      <description><![CDATA[Åpen bok: Kritikerne fra Norsk Litteraturfestival på Lillehammer! Fra festivalteltet anmelder vi «Merking» Fríða Ísberg, «Blokka på Bjerke» av Bjørn Hatterud og «Pestnetter» av Orhan Pamuk. Ukens kritikerteam består av Marta Norheim, Knut Hoem og Anne Cathrine Straume.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/cf73efa8-7691-4d75-8006-410a0608fc57_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/cf73efa8-7691-4d75-8006-410a0608fc57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Tue, 06 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Åpen bok: Kritikerne 26.05.23</title>
       <description><![CDATA[Vi anmelder «Vi skulle fortalt hverandre alt» av Judith Hermann, 
@@ -45,14 +53,6 @@
       <pubDate>Tue, 23 May 2023 06:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Åpen bok med Cille Biermann 12.05.23</title>
-      <description><![CDATA[Hva gjorde ADHD-diagnosen med meg? Alexander Fallo svarer med dikt i samlingen «Dopamin». Kokk og kokebokforfatter Andreas Viestads boktips er et mesterverk i kunsten å nyde, ført i pennen av den legendariske journalisten og gourrmeten A.J. Liebling.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/a7c6d8ff-2c86-41db-b06f-f2d3a68c2949_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/a7c6d8ff-2c86-41db-b06f-f2d3a68c2949_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:36</itunes:duration>
-      <pubDate>Tue, 16 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Åpen bok: Kritikerne 12.05.23</title>
       <description><![CDATA[Margaret Atwood (83) gir seg ikke, og er ute med novellesamlingen «Ryper i solnedgang». Lars Ramslie skriver opp mot sitt aller beste i «Fjellet, geværet, vannet». László Krasznahorkai skriver som musikken til Bach i «Herscht 07769».]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/e31a6156-6ba6-4a99-9047-0d26f0f3c070_0_ID192MP3.mp3</guid>
@@ -61,12 +61,12 @@
       <pubDate>Tue, 16 May 2023 06:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Åpen bok med Cille Biermann 05.05.23</title>
-      <description><![CDATA[Hen er den første som skriver skeiv fantasylitteratur, og sier fantasy er det beste stedet for å utvide virkeligheten. Lesetipseren vår er slått i bakken av det vakre språket i Victoria Kiellands «Mine menn», til tross for at hovedpersonen er tidenes seriemorder.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/f4cbb7ec-8b5e-4903-9cfb-5cf0ad933b84_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/f4cbb7ec-8b5e-4903-9cfb-5cf0ad933b84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:54</itunes:duration>
-      <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
+      <title>Åpen bok med Cille Biermann 12.05.23</title>
+      <description><![CDATA[Hva gjorde ADHD-diagnosen med meg? Alexander Fallo svarer med dikt i samlingen «Dopamin». Kokk og kokebokforfatter Andreas Viestads boktips er et mesterverk i kunsten å nyde, ført i pennen av den legendariske journalisten og gourrmeten A.J. Liebling.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/a7c6d8ff-2c86-41db-b06f-f2d3a68c2949_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/a7c6d8ff-2c86-41db-b06f-f2d3a68c2949_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:36</itunes:duration>
+      <pubDate>Tue, 16 May 2023 06:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Åpen bok: Kritikerne 05.05.23</title>
@@ -77,12 +77,12 @@
       <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Åpen bok med Cille Biermann 28.04.23</title>
-      <description><![CDATA[Han setter vern av naturen opp mot bruken av vold. Sin litterære oppvåkning fikk han på bingo`en på Kløfta som fjortenåring. Olav Løkken Reisop er gjest i ukas forfatterintervju. Hedda Vormeland lesetipser «Alle dagers ende».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/87598a21-3fed-4852-a55d-d91cd9fa8951_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/87598a21-3fed-4852-a55d-d91cd9fa8951_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:44</itunes:duration>
-      <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
+      <title>Åpen bok med Cille Biermann 05.05.23</title>
+      <description><![CDATA[Hen er den første som skriver skeiv fantasylitteratur, og sier fantasy er det beste stedet for å utvide virkeligheten. Lesetipseren vår er slått i bakken av det vakre språket i Victoria Kiellands «Mine menn», til tross for at hovedpersonen er tidenes seriemorder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/f4cbb7ec-8b5e-4903-9cfb-5cf0ad933b84_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/f4cbb7ec-8b5e-4903-9cfb-5cf0ad933b84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:54</itunes:duration>
+      <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Åpen bok: Kritikerne 28.04.23</title>

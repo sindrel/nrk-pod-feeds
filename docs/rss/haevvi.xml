@@ -1,16 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Hævvi</title>
+    <title>De 9 siste fra Hævvi</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Hævvi. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/haevvi for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Hævvi. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/haevvi for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 May 2023 04:28:31 +0000</lastBuildDate>
-    <pubDate>Tue, 30 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 06 Jun 2023 04:28:13 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ"/>
+    <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
+    <item>
+      <title>8. Gieresvoetegïelh jïh sosijale medija</title>
+      <description><![CDATA[Båetieh / Kommer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/d140f27c-11c4-4d5d-9341-e7d1ff92f3c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/haevvi/d140f27c-11c4-4d5d-9341-e7d1ff92f3c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:17</itunes:duration>
+      <pubDate>Tue, 06 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>7. Jaahkoe jïh joikagaahkoeh</title>
       <description><![CDATA[Nelly veanhta dïhte fealadimmiegærroem åtna. Goltelæjja vaajtele saemien beapmoen bïjre govledh – nïejth vierhtiedimmieh vedtieh.]]></description>
