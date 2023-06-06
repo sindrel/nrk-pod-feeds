@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Drivkraft. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/drivkraft for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 31 May 2023 12:45:51 +0000</lastBuildDate>
-    <pubDate>Wed, 31 May 2023 14:05:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 06 Jun 2023 12:46:48 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Jun 2023 13:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA"/>
+    <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Jeanette Solstad Remø</title>
+      <description><![CDATA[- Jeg måtte til opptaksprøve som trans. Lenge gjemte den tidligere ubåtkapteinen kvinneklær i safen, sammen med topphemmelige NATO-dokumenter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e9d687c2-27f2-4633-b2e9-289bf09c6ea8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e9d687c2-27f2-4633-b2e9-289bf09c6ea8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:50</itunes:duration>
+      <pubDate>Tue, 06 Jun 2023 13:45:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ellen Arnstad</title>
       <description><![CDATA[Den mangeårige medielederen mener sønnens sykdom har gjort henne mer empatisk, og til en mer tålmodig leder.]]></description>
@@ -84,15 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/a09e4559-d933-4379-a2d9-240aad2c12b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:15</itunes:duration>
       <pubDate>Wed, 10 May 2023 13:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Niklas Baarli </title>
-      <description><![CDATA[Da programlederen var 17 havnet han på glattcelle, og følte at han var i ferd med å "føkke opp" livet.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/240c452a-24e0-4c50-8940-443a1cba4ad6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/240c452a-24e0-4c50-8940-443a1cba4ad6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:05</itunes:duration>
-      <pubDate>Tue, 09 May 2023 14:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
