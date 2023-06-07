@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Historiske kjendiser. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/historiske_kjendiser for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 31 May 2023 04:27:58 +0000</lastBuildDate>
-    <pubDate>Wed, 31 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 07 Jun 2023 04:28:18 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg"/>
+    <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Djengis Khan - verdenshersker og drapsmaskin</title>
+      <description><![CDATA[Han vokste opp som analfabet, utstøtt og farløs, men ble en av verdens mektigste hærførere, Djengis Khan, og grunnla et imperium av helt usannsynlige proporsjoner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/f82ac21f-efe7-44f6-9230-0c6024740a7d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/f82ac21f-efe7-44f6-9230-0c6024740a7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:40</itunes:duration>
+      <pubDate>Wed, 07 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Josephine Baker - hemmelig agent og historiens første popstjerne</title>
       <description><![CDATA[Den sjarmerende artisten kom fra fattige kår, og tok verden med storm med dans, sang og show. Men popstjernen ble også innblandet i andre verdenskrig, og ble en vaskeekte hemmelig agent.]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/b611bba5-3cc8-412e-b7e5-7df8268b5611_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:51</itunes:duration>
       <pubDate>Wed, 15 Feb 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Elsa Laula Renberg – Rebellen fra Sápmi</title>
-      <description><![CDATA[Dette er historien om den samiske pioneren Elsa Laula Renberg. En egenrådig og ukuelig aktivist som banet vei for reformer, men som også stanget mot et samfunn som ikke var klare for en som henne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/5e98fdb2-93dc-42bd-9c65-bdd573eee444_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/5e98fdb2-93dc-42bd-9c65-bdd573eee444_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:05</itunes:duration>
-      <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
