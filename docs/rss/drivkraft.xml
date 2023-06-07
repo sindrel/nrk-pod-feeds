@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 06 Jun 2023 12:46:48 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Jun 2023 13:45:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Jun 2023 12:46:32 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Jun 2023 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Thomas Thiis-Evensen</title>
+      <description><![CDATA[- Jeg tenker arkitektur hele tiden! Møt professoren som i over 50 år har jobbet for å skape mer menneskevennlige byer. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cb8fc163-57e8-428f-aee7-08f377d665c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cb8fc163-57e8-428f-aee7-08f377d665c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Wed, 07 Jun 2023 13:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Jeanette Solstad Remø</title>
       <description><![CDATA[- Jeg måtte til opptaksprøve som trans. Lenge gjemte den tidligere ubåtkapteinen kvinneklær i safen, sammen med topphemmelige NATO-dokumenter.]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/e951abb0-8f37-42a8-b479-b67fb81500cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:46</itunes:duration>
       <pubDate>Thu, 11 May 2023 13:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Cathrine Fodstad</title>
-      <description><![CDATA[- Jo mer vi prøver å kontrollere noen, jo mindre "connection" får vi. Sier hestetemmeren. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a09e4559-d933-4379-a2d9-240aad2c12b5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a09e4559-d933-4379-a2d9-240aad2c12b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Wed, 10 May 2023 13:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
