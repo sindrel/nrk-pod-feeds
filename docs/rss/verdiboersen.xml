@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 08:26:26 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Jun 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Jun 2023 08:29:07 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Jun 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title> Dyrs liv betyr noe</title>
+      <description><![CDATA[Når dyr dør ut, forsvinner intelligente og interessante skapninger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/5e5d82cc-90bf-48b2-b155-98df37b9eb8b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5e5d82cc-90bf-48b2-b155-98df37b9eb8b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:57</itunes:duration>
+      <pubDate>Wed, 07 Jun 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Om det tragiske</title>
       <description><![CDATA[- Livet har ingen mening. Hvorfor mente filosofen  Peter Wessel Zapffe det?]]></description>
@@ -90,14 +98,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c7b23df1-3915-4e32-9e27-aa9ec11b5374_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>17:44</itunes:duration>
       <pubDate>Sun, 07 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Startet covid med laboratorielekkasje?</title>
-      <description><![CDATA[Virus har lekket flere ganger tidligere]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/c4d3ca84-3cdf-4f95-94d3-056d6ac41305_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c4d3ca84-3cdf-4f95-94d3-056d6ac41305_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:16</itunes:duration>
-      <pubDate>Fri, 05 May 2023 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
