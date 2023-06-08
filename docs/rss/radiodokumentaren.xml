@@ -6,19 +6,19 @@
     <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 25 May 2023 06:29:34 +0000</lastBuildDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 08 Jun 2023 17:25:45 +0000</lastBuildDate>
     <pubDate>Thu, 25 May 2023 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
+    <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
       <title>Hemmeligheten (1:4)</title>
-      <description><![CDATA[En livlig familie lever et godt og aktivt liv på Ås. 
-Men en dag får eldstejenta Selma (9) vite om den mørke hemmeligheten.]]></description>
+      <description><![CDATA[En livlig familie lever et godt og aktivt liv på Ås. Men en dag får eldstejenta Selma (9) vite om den mørke hemmeligheten.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/48a2254f-1782-401f-978d-14e7604cf326_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/48a2254f-1782-401f-978d-14e7604cf326_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:52</itunes:duration>
       <pubDate>Thu, 25 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/trTChJk8O8GXGF-Si_mfeQJiOuTw2y1XtCe6ALf9c7Kw.jpg"/>
     </item>
     <item>
       <title>Tre fremmede (2:4)</title>
@@ -27,15 +27,16 @@ Men en dag får eldstejenta Selma (9) vite om den mørke hemmeligheten.]]></desc
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ef1e22d7-c5fe-4230-afc1-f100b27f8d26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:50</itunes:duration>
       <pubDate>Thu, 25 May 2023 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/trTChJk8O8GXGF-Si_mfeQJiOuTw2y1XtCe6ALf9c7Kw.jpg"/>
     </item>
     <item>
       <title>Istanbul (3:4)</title>
-      <description><![CDATA[Selmas pappa Ahmad lever fortsatt livet sitt i Lofoten, men bare på skjerm. 
-Fysisk befinner han seg 4500 kilometer unna. ]]></description>
+      <description><![CDATA[Selmas pappa Ahmad lever fortsatt livet sitt i Lofoten, men bare på skjerm. Fysisk befinner han seg 4500 kilometer unna. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a64c5347-9e45-4eb8-b004-5eecd483211e_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a64c5347-9e45-4eb8-b004-5eecd483211e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:35</itunes:duration>
       <pubDate>Thu, 25 May 2023 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/trTChJk8O8GXGF-Si_mfeQJiOuTw2y1XtCe6ALf9c7Kw.jpg"/>
     </item>
     <item>
       <title>Bak fjell og hav (4:4)</title>
@@ -44,6 +45,7 @@ Fysisk befinner han seg 4500 kilometer unna. ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/73853a20-ead4-4891-b02b-688df0e8d81e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:39</itunes:duration>
       <pubDate>Thu, 25 May 2023 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/trTChJk8O8GXGF-Si_mfeQJiOuTw2y1XtCe6ALf9c7Kw.jpg"/>
     </item>
   </channel>
 </rss>
