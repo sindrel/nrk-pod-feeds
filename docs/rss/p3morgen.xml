@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 07 Jun 2023 12:46:44 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Jun 2023 14:35:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Jun 2023 11:22:24 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Jun 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>P3morgen hyller kongen</title>
+      <description><![CDATA[Vi snakker om to konger i dag - Harald og Haaland ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/38c1ca1a-c574-449e-b66e-8de01d7dcdd9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/38c1ca1a-c574-449e-b66e-8de01d7dcdd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:33</itunes:duration>
+      <pubDate>Thu, 08 Jun 2023 10:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Noe attåt: Bading og drikkelek</title>
       <description><![CDATA[Gjestebooker Anna har begått årets første bad, og Adelina og Sofie er på Breezer-kjøret. Tilstede: Adelina, Sofie, Karsten, Johannes og Tete (som stikker etter 2 minutter)]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/9879dd9a-09df-46cf-a9c1-ca166bb6c15c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:23</itunes:duration>
       <pubDate>Thu, 01 Jun 2023 10:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Blir kvalm av lydmelding fra Adelina</title>
-      <description><![CDATA[Tete og Karsten er tilbake fra seminaruke, og Adelina er med via en kontroversiell lydmelding. Vi får også besøk av Kristin Gjelsvik! ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f3f112df-06dc-4b37-9467-c9e6cd29674a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f3f112df-06dc-4b37-9467-c9e6cd29674a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:02:52</itunes:duration>
-      <pubDate>Thu, 01 Jun 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
