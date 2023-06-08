@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Musikkrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/musikkrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 04:29:08 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 08 Jun 2023 04:28:56 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/FR6kyC3yBkrXZT2C9pPaPgkLjja1tQ9GbtqeYH3hIrfA"/>
+    <itunes:image href="https://gfx.nrk.no/FR6kyC3yBkrXZT2C9pPaPgkLjja1tQ9GbtqeYH3hIrfA.jpg"/>
+    <item>
+      <title>Tina Turner: Dronningen av rock 'n' roll</title>
+      <description><![CDATA[Tina Turner var en foregangskvinne i musikkhistorien og ble en levende legende og et ikon. Anna snakker med Ragna Nordenborg for å finne ut hvordan hun ble det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/fbc47c0e-35de-4830-b76a-63cff102f79a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/fbc47c0e-35de-4830-b76a-63cff102f79a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:27</itunes:duration>
+      <pubDate>Thu, 08 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Metteson: Frihet til å være seg selv</title>
       <description><![CDATA[Hva fikk den vellykkede skuespilleren Sverre Breivik til å bytte scene og bli artisten Metteson? Anna snakker med ham om veien til musikken, flyktig kjærlighet og det å finne ut hvem man er på tross av forventningspress.]]></description>
@@ -82,16 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/musikkrommet/1d6ace38-dc8f-448b-809f-6e5d9463c75e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:36</itunes:duration>
       <pubDate>Thu, 06 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lana Del Rey: Slik gjorde hun "trist pike" stuerent</title>
-      <description><![CDATA[Hvordan ble Lana Del Rey det store forbildet til Billie Eilish, Olivia Rodrigo og flere av dagens største popstjerner? Og hvordan gjorde hun  «trist pike» stuerent?
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/be828701-49ba-45be-8cde-8504006f23bd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/be828701-49ba-45be-8cde-8504006f23bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:54</itunes:duration>
-      <pubDate>Thu, 23 Mar 2023 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

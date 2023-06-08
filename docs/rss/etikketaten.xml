@@ -6,11 +6,19 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Etikketaten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/etikketaten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 04:29:01 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 08 Jun 2023 04:28:46 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ"/>
+    <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    <item>
+      <title>Foreldra er polyamorøse. Bør barna vite det?</title>
+      <description><![CDATA[ I panelet sit foredragshaldar Marco Elsafadi, filosof Heine Holmen og forfattar Elin Ørjasæter. Programleiar er Madeleine Cederström.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/1838e615-ee0e-448b-b64b-a320405e9563_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/1838e615-ee0e-448b-b64b-a320405e9563_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Thu, 08 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Er tida over for fairplay i fotball?</title>
       <description><![CDATA[Er det greitt å oppdra vener?
@@ -94,20 +102,6 @@ I panelet sit filosof Kristina Miklavic, komikar Erlend Osnes og programleiar og
       <enclosure url="https://podkast.nrk.no/fil/etikketaten/549e7246-d551-4de0-b5c9-8fd58572c09b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:58</itunes:duration>
       <pubDate>Wed, 05 Apr 2023 05:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vere aleine eller be heile slekta til hytta?</title>
-      <description><![CDATA[Vere aleine eller be heile slekta til hytta?
-Må ein lærar vere glad i alle elevar?
-Korleis takle ei skravlebøtte?
-Kan kunstig intelligens døme i ei rettssak?
-I panelet sit journalist Leo Ajkic , advokat Geir Lippestad og mattelærar Hanan Abderahman
-Programleiar er Madeleine Cederström
-Ny episode torsdag]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/98376780-a577-4cbd-959e-ddc52651eb8f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/etikketaten/98376780-a577-4cbd-959e-ddc52651eb8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:58</itunes:duration>
-      <pubDate>Thu, 30 Mar 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
