@@ -71,9 +71,10 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         episode_id = episode["episodeId"]
         episode_title = episode["titles"]["title"]
         episode_subtitle = episode["titles"]["subtitle"]
+        episode_image = f"{episode['squareImage'][4]['url']}.jpg"
         duration = episode["durationInSeconds"]
         date = episode["date"]
-
+        
         manifest = get_episode_manifest(podcast_id, episode_id)
         if not manifest:
             continue
@@ -85,6 +86,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         logging.info(f"  Episode duration: {duration}")
         logging.info(f"  Episode date: {date}")
         logging.info(f"  Audio file URL: {audio_url}")
+        logging.info(f"  Episode image URL: {episode_image}")
 
         if audio_mime != "audio/mp3":
             logging.info(f"  Unrecognized audio MIME type ({audio_mime})")
@@ -99,7 +101,8 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
                 title=episode_title,
                 media=Media(audio_url, 0, duration=timedelta(seconds=duration)),
                 summary=episode_subtitle,
-                publication_date=parser.parse(date)
+                publication_date=parser.parse(date),
+                image=episode_image
             ),
         ]
 
