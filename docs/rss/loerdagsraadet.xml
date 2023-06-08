@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 04:26:56 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Jun 2023 10:29:25 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Jun 2023 12:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Mindre emosjonelt forvirra</title>
+      <description><![CDATA[Søtnosene Live og Dr. Jones diskuterer rumpetroll, Vegards emosjonelle reise, og en liten fyllemail.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ab1518c2-fbda-4131-8d5f-c4e0cd6fcf7e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ab1518c2-fbda-4131-8d5f-c4e0cd6fcf7e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:32</itunes:duration>
+      <pubDate>Thu, 08 Jun 2023 12:25:00 +0200</pubDate>
+    </item>
     <item>
       <title>Mikkelsen / Rodin / Niva: Bonusproblem!</title>
       <description><![CDATA[Vi tar en runde på Ulf sitt problem: Blåtur med gutta!]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e1e73fa8-3035-48c2-bf07-ae64b961ca39_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:53</itunes:duration>
       <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Cecilie Kåss Furuseth / Nate Kahungu / Janne Rønningen</title>
-      <description><![CDATA[Stjeler fremdeles Klepto-Kaia? PROBLEMER: Teste han i vennegjengen? / Skal jeg dra på Beyonce-konsert alene? / Tidenes tristeste 17.mai? / Stuck med utro eks / Ånei – er jeg hun dusten på kontoret? / Kollega med barndomsvenn/mobberen / Langdistanse til kortdistanse / Naboen mater måkene]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/24357686-f35c-4a9d-a6b7-1f9d2b9961b3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/24357686-f35c-4a9d-a6b7-1f9d2b9961b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:12:18</itunes:duration>
-      <pubDate>Sat, 06 May 2023 13:25:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
