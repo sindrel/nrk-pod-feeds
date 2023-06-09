@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Studio 2. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/studio_2 for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 17:26:12 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jun 2023 18:45:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 09 Jun 2023 16:31:10 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Jun 2023 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/egAmGW9DzfGuxiLmj11JQQnocqcVt7OTZaaGVLbNAaFg.jpg"/>
+    <item>
+      <title>Trenger vi klovnen?</title>
+      <description><![CDATA[Viggo Venn, klovnen fra Kongsberg, vant finalen av "Britain's Got Talent" med sine overdrevent mange refleksvester. Hva er det med klovnen som både underholder, fascinerer og - for noen - skremmer? Og trenger vi denne figuren?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/8c29b146-488f-4fee-8dc0-76d2ceb301d2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/8c29b146-488f-4fee-8dc0-76d2ceb301d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:58</itunes:duration>
+      <pubDate>Fri, 09 Jun 2023 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/egAmGW9DzfGuxiLmj11JQQnocqcVt7OTZaaGVLbNAaFg.jpg"/>
+    </item>
     <item>
       <title>Måkespy kan gi svar på klimagåte i Antarktis</title>
       <description><![CDATA[Eldgammelt måkespy kan gi menneskeheten svar på hvordan klimaet her på jorda har utviklet seg gjennom 50.000 år. I Studio 2 får du høre hvordan fuglenes etterlatenskaper i Antarktis kan fungere som en klimadagbok.]]></description>
@@ -91,15 +101,6 @@
       <enclosure url="https://podkast.nrk.no/fil/studio_2/021fb3ee-4b02-4a39-bfe3-99a4a6dd0309_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:39</itunes:duration>
       <pubDate>Thu, 01 Jun 2023 18:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/egAmGW9DzfGuxiLmj11JQQnocqcVt7OTZaaGVLbNAaFg.jpg"/>
-    </item>
-    <item>
-      <title>"Birget" skal skape dialog i dansesalen</title>
-      <description><![CDATA[Under Festspillene i Bergen prøver danseensemblet Carte Blanche å skape forsoning mellom samer og nordmenn, med en elv av gule plastsekker og brøytepinner på scenen med forestillinga "Birget".]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/572289b6-e641-4788-ad0f-27c5a558e294_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/572289b6-e641-4788-ad0f-27c5a558e294_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:29</itunes:duration>
-      <pubDate>Thu, 01 Jun 2023 18:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/egAmGW9DzfGuxiLmj11JQQnocqcVt7OTZaaGVLbNAaFg.jpg"/>
     </item>
   </channel>
