@@ -6,11 +6,27 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Dagsnytt 18. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/dagsnytt_atten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 18:27:40 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jun 2023 19:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 09 Jun 2023 18:27:49 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Jun 2023 19:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Prisveksten øker mer enn ventet, nestor mister troen på menneskeånden av å lese Dagbladet, og finnes det en objektiv moral?</title>
+      <description><![CDATA[Prisene stiger mer enn ventet - og fortsatt skal renta opp. Hvor ille kan det egentlig bli etter hvert?
+Norge skal få 17 nye langdistansetog - men de er ikke tilrettelagt for rullestolbrukere.
+Pinlig, sier Likestillings - og diskrimineringsombudet.
+Professor Bernt Hagtvet tar farvel med Dagbladet - kaller avisa en branntomt.
+Det Dagbladet han savner har aldri eksistert, svarer sjefredaktør Alexandra Beverfjord.
+En kunstutstilling med Laila Bertheussen får kritikk fra flere hold.
+- Mangel på takhøyde, svarer kunstnerisk ansvarlig, Morten Traavik.
+Vel møtt til ukas siste sending i Dagsnytt Atten, jeg heter Sigrid Sollund.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/689bde83-6e33-4d81-82b9-d0d0fee7c046_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/689bde83-6e33-4d81-82b9-d0d0fee7c046_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:09</itunes:duration>
+      <pubDate>Fri, 09 Jun 2023 19:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mycWNQv3gKBJN-hjid9Q5Q9SqEa3rxvElyO-ZLWChRHA.jpg"/>
+    </item>
     <item>
       <title>25. juni-rapport, klimagassutslipp og skolefravær</title>
       <description><![CDATA[To mennesker ble drept og mange såret under angrepet i Oslo i juni i fjor. Kanskje kunne det blitt forhindret, sier en ny rapport. 
@@ -149,21 +165,6 @@ Påstand om fem års fengsel for gruppevoldtekt i Bergen. Forsvarer vil ha milde
       <itunes:duration>59:08</itunes:duration>
       <pubDate>Fri, 26 May 2023 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yqoGsEUXrZy4jm-UsKz81w7BdXBjqczYEs8IPfAIXVaQ.jpg"/>
-    </item>
-    <item>
-      <title>Jagerfly og norsk trening for Ukraina, Brann-suppertere overdøvet nasjonalsangen  og koshermat i fengslene</title>
-      <description><![CDATA[Norge vil trene opp ukrainske piloter på F-16-fly.  - Vi har allerede underskudd på instruktører, hevder analytiker.  - Og vil regjeringen også sende norske fly i krigen?
-
-Besøket av hangarskipet styrker ikke norsk sikkerhet, mener Rødt, og møter forsvarsministeren i debatt.
-
-Regjeringens vil ikke gi jødiske fanger kosher-mat. - Et brudd på religionsfriheten, mener Det mosaiske trossamfunn. 
-
-Brann har Norges dummeste supportere som burde skamme seg etter å ha overdøvet nasjonalsangen med Nystemten på Cup-finalen, hevder kommentator i Nettavisen. - Humørløs kritikk svarer Audun Lysbakken, fra Bergen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bc031efb-dbb0-4b29-890c-d3cff10c7024_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bc031efb-dbb0-4b29-890c-d3cff10c7024_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:09</itunes:duration>
-      <pubDate>Thu, 25 May 2023 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vbpGRJpAcemiVUE3EfBD8QraefszzhWJ5FediaM_kw1w.jpg"/>
     </item>
   </channel>
 </rss>
