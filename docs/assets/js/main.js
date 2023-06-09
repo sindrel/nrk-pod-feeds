@@ -27,7 +27,7 @@ function listFeeds() {
 
         if(feed["ignore"]) {
             stateColor = "#333"
-            stateMsg = "⏹"
+            stateMsg = "⬊"
         }
 
         feed_url = base_url + feed["id"] + ".xml";
@@ -44,7 +44,6 @@ function searchFeeds() {
   ul = document.getElementById("feeds_ul");
   li = ul.getElementsByTagName('li');
 
-  // Loop through all list items, and hide those who don't match the search query
   for (i = 0; i < li.length; i++) {
     a = li[i].getElementsByTagName("a")[0];
     txtValue = a.textContent || a.innerText;
