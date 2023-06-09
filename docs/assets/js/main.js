@@ -31,8 +31,27 @@ function listFeeds() {
         }
 
         feed_url = base_url + feed["id"] + ".xml";
-        item = `<h4><font color="${stateColor}"><sup>${stateMsg}</sup></font> <a href="${info_base_url}${feed["id"]}" target="_blank">${feed["title"]}</a><br/><input type="text" size="40" value="${feed_url}" id="feed_url_${feed["id"]}" disabled> <button onclick="copyToClipboard('${feed["id"]}')">Copy</button><h3>`;
+        item = `<li><h4><font color="${stateColor}"><sup>${stateMsg}</sup></font> <a href="${info_base_url}${feed["id"]}" target="_blank">${feed["title"]}</a><br/><input type="text" size="40" value="${feed_url}" id="feed_url_${feed["id"]}" disabled> <button onclick="copyToClipboard('${feed["id"]}')">Copy</button><h3></li>`;
         
         document.getElementById("feeds_list").innerHTML += item;
     });
+}
+
+function searchFeeds() {
+  var input, filter, ul, li, a, i, txtValue;
+  input = document.getElementById('searchInput');
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("feeds_ul");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
 }

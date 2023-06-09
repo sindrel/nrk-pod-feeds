@@ -20,7 +20,12 @@
             </tr>
           </table> 
         </h5>
-        <div id="feeds_list"></div>
+
+        <input type="text" id="searchInput" onkeyup="searchFeeds()" placeholder="Søk..." size="50">
+
+        <ul id="feeds_ul">
+          <div id="feeds_list"></div>
+        </ul>
 
         <script type="text/javascript" src="feeds.js"></script>
         <script type="text/javascript" src="assets/js/main.js"></script>

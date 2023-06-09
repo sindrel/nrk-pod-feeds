@@ -71,3 +71,9 @@ input {
     color: #FAFBFC;
     transition-duration: 0.1s;
   }
+
+  #feeds_ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
