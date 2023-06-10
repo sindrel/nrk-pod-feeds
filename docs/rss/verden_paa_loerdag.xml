@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Urix. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/verden_paa_loerdag for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Jun 2023 04:28:29 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 10 Jun 2023 11:22:08 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Jun 2023 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>– Vi er blitt et land av tiggere, sier argentiner</title>
+      <description><![CDATA[- Vi er blitt et land av tiggere, sier en argentiner. Landet er på nytt havnet i en ny, alvorlig, økonomisk krise. Inflasjonen er på over 100%, og nesten annenhver innbygger er kastet ut i fattigdom. Igjen snakker man om sultproblemer i et land som en gang var et av verdens rikeste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/a9e77d17-38c0-4442-9385-d85d05f4c882_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/a9e77d17-38c0-4442-9385-d85d05f4c882_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Sat, 10 Jun 2023 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/40q4RKpsTKMJktoTfx4RYgO95-gcu2RDOdIH_JKjZJ-w.jpg"/>
+    </item>
     <item>
       <title>Krigen i Ukraina  - Russiske Alex har vendt hjemlandet ryggen</title>
       <description><![CDATA[Russiske Alex håper Ukraina vil seire over Russland. Han snudde hjemlandet ryggen. Nå gir han penger til den ukrainske hæren.]]></description>
@@ -93,15 +102,6 @@ Er den europeiske nasjonalismen uskyldig veiving med flagg og synging av sanger,
       <itunes:duration>12:11</itunes:duration>
       <pubDate>Fri, 12 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_RKH2X-kEe0uMTSuGm25GwJdweDHE7AxYZQgLLTgzmIQ.jpg"/>
-    </item>
-    <item>
-      <title>Sekten som sultet seg til døde</title>
-      <description><![CDATA[I Kenya er over hundre medlemmer av en kristen menighet funnet døde. Pastoren deres hadde bedt dem sulte seg i hjel for å få møte Jesus. Nå er også en kjent tv-predikant anklaget for drap og for oppfordring til selvmord.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/16c1bf20-065e-4777-9ec1-1a1f7cd32507_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/16c1bf20-065e-4777-9ec1-1a1f7cd32507_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:32</itunes:duration>
-      <pubDate>Sat, 06 May 2023 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/d4ARA2AKZj3XV7ZPYbfekgqK0N_jylYFfwMCEEH7SscQ.jpg"/>
     </item>
   </channel>
 </rss>
