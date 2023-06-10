@@ -226,6 +226,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "fantorangens_vitseshow",
+    "title": "De 10 siste fra Fantorangens vitseshow",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "feriestemning",
     "title": "De 10 siste fra Feriestemning",
     "season": null,
