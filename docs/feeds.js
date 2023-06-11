@@ -495,7 +495,7 @@ const feeds = [
     "id": "kongerekka",
     "title": "De 10 siste fra Kongerekka",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "koselig",
