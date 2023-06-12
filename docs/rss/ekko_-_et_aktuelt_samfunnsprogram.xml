@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Jun 2023 07:22:00 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Jun 2023 08:43:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2023 04:28:15 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ.jpg"/>
+    <item>
+      <title>Hvorfor har vi rett til ferie?</title>
+      <description><![CDATA[Veien fra 0 til 25 feriedager -  slik ble sommerferien kjempet frem. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/299cbe7d-c9eb-451e-8f2a-c555117bc919_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/299cbe7d-c9eb-451e-8f2a-c555117bc919_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:50</itunes:duration>
+      <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ.jpg"/>
+    </item>
     <item>
       <title>Kan det bli for mye dagslys?</title>
       <description><![CDATA[Etter en mørk vinter er det deilig med masse daglys. Men hva skjer med kroppen når den ikke skjønner at det er natt?]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>57:34</itunes:duration>
       <pubDate>Wed, 24 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ.jpg"/>
-    </item>
-    <item>
-      <title>Spørretime: Den vanskelige bunaden</title>
-      <description><![CDATA[Nødhjelp til trege skjortestrykere og usikre sjeler! Syersken, bunadsforskeren og motehistorikeren svarer lytterne om trender og tradisjoner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2007e6ea-4368-4a68-b0df-f8ff38501549_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2007e6ea-4368-4a68-b0df-f8ff38501549_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:22</itunes:duration>
-      <pubDate>Tue, 16 May 2023 12:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Sdy7-naWUTIpIby9B-TCPAWJUjMH8o-9g5bsdZWoAu9g.jpg"/>
     </item>
   </channel>
 </rss>

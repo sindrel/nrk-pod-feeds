@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kladden har dævva. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kladden_har_daevva for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 04:28:12 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 12 Jun 2023 04:28:21 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Jonis Josefs dødsentusiasme</title>
+      <description><![CDATA[Jonis gleder seg mer over døden enn Martin hadde forutsett og det blir total uenighet om drømmen om evig liv. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/5b55afbb-8690-48e6-8f10-9c929c7c892b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5b55afbb-8690-48e6-8f10-9c929c7c892b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:56</itunes:duration>
+      <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/soAGVJWGyIGcxuQJmqUjQwpZAymQ9l_BehkOTP14jeQw.jpg"/>
+    </item>
     <item>
       <title>Jonas Bergland, på jobb med døden</title>
       <description><![CDATA[Hvordan er det best å overbringe et dødsbudskap? Og hvorfor vil Martin plutselig ha dr. Bergland som fastlege? ]]></description>
@@ -18,6 +27,7 @@
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/caf5fb29-5a86-4350-861a-39aca2cdbc75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>58:42</itunes:duration>
       <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fagCTkX4cNLk6R6WybF71QRgSauR4pUPUyMk5CNz3zEQ.jpg"/>
     </item>
     <item>
       <title>Espen Fadnes i fritt fall</title>
@@ -26,6 +36,7 @@
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/114ac608-5204-4acb-83c7-01f3022103e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:17</itunes:duration>
       <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dAD3VguOZMHcYsCgkRtnGwn_Zq1O2PKsISheLdpi2Qhw.jpg"/>
     </item>
     <item>
       <title>Fetishas spøkelser og hissige gangstere</title>
@@ -34,6 +45,7 @@
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7d9779b3-705f-4d21-a515-3d3015187691_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:24</itunes:duration>
       <pubDate>Mon, 22 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9xvQ1xogr2-jVlaSBEJ-GAOpECiB4xtarUiztyj4UyMg.jpg"/>
     </item>
     <item>
       <title>Isahs hjerteklapp</title>
@@ -42,6 +54,7 @@
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/99c2933f-bfed-4afe-be32-b494cf99afab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:21</itunes:duration>
       <pubDate>Mon, 15 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GEE0nnPi7me5OuMEBac6eA6y9fWjcRwsovV7V4PrVWew.jpg"/>
     </item>
     <item>
       <title>Ronny Brede Aase, levegutt og livsrealist</title>
@@ -50,6 +63,7 @@
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/9a5cb0c0-47c6-434e-a8cf-6d736d694cdb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:03</itunes:duration>
       <pubDate>Mon, 08 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aiSJ-WrFpXaroYJ7JDCRRAhrSpyxpWTlwQj21TWK7mOg.jpg"/>
     </item>
     <item>
       <title>Tinashe Williamson, tvilling og talemelding</title>
@@ -58,6 +72,7 @@
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5ea3364f-67d2-4a40-a6c9-21841da5b7d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:05</itunes:duration>
       <pubDate>Mon, 01 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CDmSfARcOS4TOpIbVDM3dwZd5lTgQwGB1byY7ZaYbdkg.jpg"/>
     </item>
     <item>
       <title>Eirik Krokås og hjelpetelefonen</title>
@@ -67,6 +82,7 @@ Trenger du noen å snakke med? Mental helses hjelpetelefon: 116 123. RUSinfo: 91
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/96aec025-7807-43f4-b679-1acc7a7d8d9e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:04</itunes:duration>
       <pubDate>Mon, 24 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zC0Q-3w9XZCmFbEGLMVIVQF12_4xc8Dw-d0Z4MYJT-Ag.jpg"/>
     </item>
     <item>
       <title>Bjørn Eidsvågs Hubba Bubba-liv</title>
@@ -75,6 +91,7 @@ Trenger du noen å snakke med? Mental helses hjelpetelefon: 116 123. RUSinfo: 91
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b4b2d065-881c-491c-8317-b58d10cd3be0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:27</itunes:duration>
       <pubDate>Mon, 17 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uXJXGTIN3Ns-SmJFN-N3eAGG8ecRD1SAs14q3EvEZO6Q.jpg"/>
     </item>
     <item>
       <title>Linnéa Myhres berg-og-dalbane</title>
@@ -83,14 +100,7 @@ Trenger du noen å snakke med? Mental helses hjelpetelefon: 116 123. RUSinfo: 91
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d7296942-c608-4fda-b83f-81b9b60f4703_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:17</itunes:duration>
       <pubDate>Mon, 10 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tor-Håkon Håvardsen, begravelsesagenten </title>
-      <description><![CDATA[Om hva som skjer med oss etter døden, hvorfor man ikke bør dø på varmekabler, om kistebunnen som ga etter og utrolige historier fra et liv med de døde. Med landets mest tatoverte og triveligste begravelsesagent, Tor-Håkon Gabriel Håvardsen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/a0ae162a-13d2-41c3-99e9-aee829e4bb4d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a0ae162a-13d2-41c3-99e9-aee829e4bb4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:01</itunes:duration>
-      <pubDate>Mon, 03 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TvkIGrVA0AScOXLGFIivgg_x7Zj-gPe9nOkFpDcc9wEg.jpg"/>
     </item>
   </channel>
 </rss>
