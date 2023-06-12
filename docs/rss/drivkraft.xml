@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Drivkraft. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/drivkraft for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 12:42:58 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jun 2023 14:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 12 Jun 2023 11:21:58 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2023 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Arne Duinker </title>
+      <description><![CDATA[Sjømatforskeren elsker tang, tare og strandsnegler. Og mener vi bør spise lenger ned i næringskjeden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/199c0a76-85c5-4342-9f89-f2809c8d00c4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/199c0a76-85c5-4342-9f89-f2809c8d00c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:19</itunes:duration>
+      <pubDate>Mon, 12 Jun 2023 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/93wqIReXj-eHwie8J6-43wscgcvKDIRtVm9w-m6bN7vQ.jpg"/>
+    </item>
     <item>
       <title>Emilie Anker Stordalen</title>
       <description><![CDATA[Hotellarvingen er et konkurransemenneske, i likhet med resten av familien. Og har tre NM-titler i badminton. En sport hun mener hun valgte fordi den er så liten i Norge at det var gode muligheter for å bli best.]]></description>
@@ -18,6 +27,7 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/3501c3f8-d173-433d-a5d3-8fc70879da51_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:40</itunes:duration>
       <pubDate>Thu, 08 Jun 2023 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xbz2dfcpQnyA1hJLhbyrOQ-eUeIYleb-NTnn83RVub_Q.jpg"/>
     </item>
     <item>
       <title>Thomas Thiis-Evensen</title>
@@ -26,6 +36,7 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/cb8fc163-57e8-428f-aee7-08f377d665c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Wed, 07 Jun 2023 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5i3f703JdkrnOeVKowckqwGbKM5ALEHC0eFiRgldU5KA.jpg"/>
     </item>
     <item>
       <title>Jeanette Solstad Remø</title>
@@ -34,6 +45,7 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/e9d687c2-27f2-4633-b2e9-289bf09c6ea8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Tue, 06 Jun 2023 13:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nn2LC_1NMtb3M-E7T2ThSA0Efz4Wb2xdyLKXIL0m6UUQ.jpg"/>
     </item>
     <item>
       <title>Ellen Arnstad</title>
@@ -42,6 +54,7 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/4767da42-06be-4135-a37d-6a833fb7588a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:27</itunes:duration>
       <pubDate>Wed, 31 May 2023 14:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Sl4msTtkljEyPRXVr4m6cg4kTU1ej1A3BgFHIY8QHWlA.jpg"/>
     </item>
     <item>
       <title>Franciska Eliassen </title>
@@ -50,6 +63,7 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/eecd5f51-ba35-4f84-a481-2a9d2c9e8c12_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:07</itunes:duration>
       <pubDate>Tue, 30 May 2023 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s1aICkSOt_T8E1DFxuNj1Amj6_FCSlQy61xAxKgRKYlg.jpg"/>
     </item>
     <item>
       <title>Helge Kvam </title>
@@ -58,6 +72,7 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/a4e542e2-2882-427c-9b90-29d9b14d8747_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:51</itunes:duration>
       <pubDate>Thu, 25 May 2023 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jlOShra-0BPzK1ASvqgFXwKKcPRoRlIaFVgkwvCOiSnQ.jpg"/>
     </item>
     <item>
       <title>Olav Bleie</title>
@@ -67,6 +82,7 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/7778b1e5-f8c3-449f-9ea6-40ebc5731329_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:27</itunes:duration>
       <pubDate>Tue, 23 May 2023 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ean_6ApMNn7-G6XxwoxM5AWPMjKtBntGesyYk9p8cnog.jpg"/>
     </item>
     <item>
       <title>Olli Wermskog</title>
@@ -75,6 +91,7 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/49d8c6ce-7c92-4088-8b14-3ca315e2295c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:31</itunes:duration>
       <pubDate>Mon, 22 May 2023 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r1vhrZD6BaH_O5_1zPtqKQot-_hbYjR-h9skd-d1D4Eg.jpg"/>
     </item>
     <item>
       <title>Line Ramstad</title>
@@ -84,14 +101,7 @@
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/0d4d12a0-6931-44c8-a66b-76c480719499_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Tue, 16 May 2023 13:40:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ingebrigt Steen Jensen</title>
-      <description><![CDATA[- Åpenheten min om alzheimer er bra for meg, sier den tidligere reklameguruen. Og fastholder at han er en lykkelig mann.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/333a4c8a-49df-4500-a668-e9dc4d0fbe04_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/333a4c8a-49df-4500-a668-e9dc4d0fbe04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:42</itunes:duration>
-      <pubDate>Mon, 15 May 2023 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XXj87bVuutfMncv4EYMiHQfVhxd3PKmvGob6JrPEiLbw.jpg"/>
     </item>
   </channel>
 </rss>
