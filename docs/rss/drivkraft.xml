@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 12 Jun 2023 11:21:58 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Jun 2023 13:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 Jun 2023 11:22:14 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Jun 2023 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Thomas Talawa Prestø</title>
+      <description><![CDATA[Koreografen ble utsatt for rasistisk vold som barn, men bestefaren lærte ham å ta kroppen tilbake. Gjennom dans.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ce07e733-b3e6-4664-8999-16904760ed9e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ce07e733-b3e6-4664-8999-16904760ed9e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:22</itunes:duration>
+      <pubDate>Tue, 13 Jun 2023 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/375n183O0o0xh40FX6vjWA3kFduk1Z13xjon2VaHkPDg.jpg"/>
+    </item>
     <item>
       <title>Arne Duinker </title>
       <description><![CDATA[Sjømatforskeren elsker tang, tare og strandsnegler. Og mener vi bør spise lenger ned i næringskjeden.]]></description>
@@ -92,16 +103,6 @@
       <itunes:duration>56:31</itunes:duration>
       <pubDate>Mon, 22 May 2023 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r1vhrZD6BaH_O5_1zPtqKQot-_hbYjR-h9skd-d1D4Eg.jpg"/>
-    </item>
-    <item>
-      <title>Line Ramstad</title>
-      <description><![CDATA[Landskapsarkitekten elsker bygda, og mener folk der hjelper hverandre på en annen måte enn i byene.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0d4d12a0-6931-44c8-a66b-76c480719499_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0d4d12a0-6931-44c8-a66b-76c480719499_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Tue, 16 May 2023 13:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XXj87bVuutfMncv4EYMiHQfVhxd3PKmvGob6JrPEiLbw.jpg"/>
     </item>
   </channel>
 </rss>
