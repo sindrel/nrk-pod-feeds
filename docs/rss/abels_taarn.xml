@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 12 Jun 2023 15:24:57 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Jun 2023 17:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 Jun 2023 14:26:42 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Jun 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ.jpg"/>
+    <item>
+      <title>Forskningsfronten - Fiske-DNA i svevestøv og DNA-lagring av data.</title>
+      <description><![CDATA[Abels tårns skråblikk inn i verdenen av forskningsnyhter. Denne uka om et uventet funn i målestasjoner for luftforurensning, og de avsindige mengdene data som kan lagres i DNA]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/35661778-9c9c-48bd-95d3-0ba7a3f76be1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/35661778-9c9c-48bd-95d3-0ba7a3f76be1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:39</itunes:duration>
+      <pubDate>Tue, 13 Jun 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ynyFaQIZKZfqAhL8z289AgoKpaXnxsyweaGztB5IHSmA.jpg"/>
+    </item>
     <item>
       <title>Tema: På tide å spise mer genredigert mat?</title>
       <description><![CDATA[Ville du spist brød laget av korn som var beviselig mindre kreftfremkallende, og som man kunne dyrke mer av på et mindre areal... - Hvis du også visste at kornet var genredigert? 
@@ -184,15 +193,6 @@ Fysiker Are Raklev ]]></description>
       <itunes:duration>33:18</itunes:duration>
       <pubDate>Mon, 22 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tDXT0vXWtKF6fa9Syd4O_Q0ViO04LDPTPePXW118DXSQ.jpg"/>
-    </item>
-    <item>
-      <title>Tema: Bølgekraft</title>
-      <description><![CDATA[På 80-tallet ble det forsket på bølgekraft i Øygarden utenfor Bergen. Hvorfor sa det så plutselig stopp så bølgekraften blei skylt til havs?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/59d6b17b-2fb1-4947-b966-2f6c3ee910c6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/59d6b17b-2fb1-4947-b966-2f6c3ee910c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:29</itunes:duration>
-      <pubDate>Sat, 20 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KXI9DgyqXtZDjPdULkR2XQ9ewHYxtxfuJmvwMsVO5x-Q.jpg"/>
     </item>
   </channel>
 </rss>
