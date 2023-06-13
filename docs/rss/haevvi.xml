@@ -1,23 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Hævvi</title>
+    <title>De 10 siste fra Hævvi</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Hævvi. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/haevvi for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hævvi. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/haevvi for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 06 Jun 2023 04:28:13 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 13 Jun 2023 04:28:55 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     <item>
+      <title>9. Saemien Kardashian fuelhkie</title>
+      <description><![CDATA[Jonna vaajtele saemielaavsemem unniedidh. Goltelæjja sæjhta åarjelsaemien baerniej bïjre govledh. Nïejth saemien Kardashian-fuelkiem öörnieh.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/4c933739-629c-4e36-9af4-0e74870119e3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/haevvi/4c933739-629c-4e36-9af4-0e74870119e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:07</itunes:duration>
+      <pubDate>Tue, 13 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
+    </item>
+    <item>
       <title>8. Gieresvoetegïelh jïh sosijale medija</title>
-      <description><![CDATA[Båetieh / Kommer]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/d140f27c-11c4-4d5d-9341-e7d1ff92f3c2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/haevvi/d140f27c-11c4-4d5d-9341-e7d1ff92f3c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:17</itunes:duration>
+      <description><![CDATA[Jonna pluejjies sjædta gosse Nelly sæjhta gieriesvoetegïelen bïjre soptsestidh. Jonna vaajtele Nelly edtja vielie sosijaale meedijidie bïejedh. Gie edtjh veeljedh crusheste jïh one-night-standeste?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/4ebd05d1-d436-4fd0-b8a8-02117743e397_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/haevvi/4ebd05d1-d436-4fd0-b8a8-02117743e397_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:51</itunes:duration>
       <pubDate>Tue, 06 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
     <item>
       <title>7. Jaahkoe jïh joikagaahkoeh</title>
@@ -26,6 +36,7 @@
       <enclosure url="https://podkast.nrk.no/fil/haevvi/a25c5aa5-0e50-4c96-97ac-fafdd591845c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:58</itunes:duration>
       <pubDate>Tue, 30 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
     <item>
       <title>6. Sex saemien gïelesne </title>
@@ -34,6 +45,7 @@
       <enclosure url="https://podkast.nrk.no/fil/haevvi/84806a58-cfe2-4a2b-97fa-798290b16247_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:48</itunes:duration>
       <pubDate>Tue, 23 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
     <item>
       <title>5. Naasjonale laavlomeh mojhtesistie</title>
@@ -42,6 +54,7 @@
       <enclosure url="https://podkast.nrk.no/fil/haevvi/53b1d372-f8e6-4d92-84de-b6e9a8358259_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:15</itunes:duration>
       <pubDate>Tue, 16 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
     <item>
       <title>4. Depresjovne lea goh akte bïenje</title>
@@ -50,6 +63,7 @@
       <enclosure url="https://podkast.nrk.no/fil/haevvi/1aaee903-9b09-4f62-8e2c-b3a20368e281_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:28</itunes:duration>
       <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
     <item>
       <title>3. Asketruerie jïh lohketæjjan aerpie</title>
@@ -59,6 +73,7 @@ Goltelæjja onterde jis åadtjoeh jeatjebi beelhtide staeriedidh.]]></descriptio
       <enclosure url="https://podkast.nrk.no/fil/haevvi/54041ce2-044c-48d5-9270-a44b08956f3b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:52</itunes:duration>
       <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
     <item>
       <title>2. Gïele-tsagkese</title>
@@ -67,6 +82,7 @@ Goltelæjja onterde jis åadtjoeh jeatjebi beelhtide staeriedidh.]]></descriptio
       <enclosure url="https://podkast.nrk.no/fil/haevvi/9a180ee7-d025-42f8-b157-97b9f2472105_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:15</itunes:duration>
       <pubDate>Tue, 25 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
     <item>
       <title>1. Aejnie-vaejnie vuelie</title>
@@ -75,6 +91,7 @@ Goltelæjja onterde jis åadtjoeh jeatjebi beelhtide staeriedidh.]]></descriptio
       <enclosure url="https://podkast.nrk.no/fil/haevvi/b68849ec-4c10-4e00-98d4-4606fa5d81d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:31</itunes:duration>
       <pubDate>Tue, 18 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
     <item>
       <title>Trailer Hævvi podkaste</title>
@@ -84,6 +101,7 @@ Premiere 18 april.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/haevvi/915d9d0f-4b29-4b0e-a0fe-c7ade59cbea6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:00</itunes:duration>
       <pubDate>Wed, 12 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
   </channel>
 </rss>
