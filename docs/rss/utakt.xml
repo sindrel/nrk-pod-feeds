@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Utakt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/utakt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 07 Jun 2023 08:29:03 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Jun 2023 10:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 14 Jun 2023 08:28:26 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Jun 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    <item>
+      <title>Naken-cruise, likhunder og Bjørn Eidsvåg</title>
+      <description><![CDATA[Sesongens siste Utakt byr også på sommertid-tøys, Georgia-cola og hullete bukse vesus hullete skjorte]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/069a75ec-dfd9-40da-9f05-a4fb5b0a3b02_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/069a75ec-dfd9-40da-9f05-a4fb5b0a3b02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:41</itunes:duration>
+      <pubDate>Wed, 14 Jun 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
     <item>
       <title>Nonchalent lapping av hageslange</title>
       <description><![CDATA[ Vi er kritiske til havfruer, hjernen og vi er skuffet over mauren.]]></description>
@@ -18,6 +27,7 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/ee5da003-c8a8-4457-b701-fec39e6934c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:18</itunes:duration>
       <pubDate>Wed, 07 Jun 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
     <item>
       <title>Narkotika-ekorn og maraton-r..king</title>
@@ -26,6 +36,7 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/56494ac7-450e-48d8-90a6-f8c870462406_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:12:53</itunes:duration>
       <pubDate>Wed, 31 May 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
     <item>
       <title>Forskjell på Hebridene og Hemoroidene</title>
@@ -34,6 +45,7 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/dc83eedc-9fb9-4184-bcd3-d709acc94000_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:23</itunes:duration>
       <pubDate>Wed, 24 May 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
     <item>
       <title>Verdens lengste flytur og verdens lengste tålmodighet</title>
@@ -42,6 +54,7 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/7ed2bb0e-de8f-4c28-960a-05e3bba7fc08_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:50</itunes:duration>
       <pubDate>Wed, 17 May 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
     <item>
       <title>Rydder i garasjen og kjøper feil billett</title>
@@ -50,6 +63,7 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/e7a0d268-06da-4023-95a7-181fa220580c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:32</itunes:duration>
       <pubDate>Wed, 10 May 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
     <item>
       <title>Ufyselige bursdagskaker og tap men vinn</title>
@@ -58,6 +72,7 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/95eca4de-ed27-44a5-920e-d964bbbb01bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:37</itunes:duration>
       <pubDate>Wed, 03 May 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
     <item>
       <title>Stillingskrig og generasjonskløft</title>
@@ -66,6 +81,7 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/6d1b24ea-165c-4ccb-b86b-1a70fd6038e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>52:54</itunes:duration>
       <pubDate>Wed, 26 Apr 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
     <item>
       <title>Utstoppet drone-ørn eldgamle lyspærer</title>
@@ -74,6 +90,7 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/ead10732-6872-4471-980b-b340c9434424_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>52:56</itunes:duration>
       <pubDate>Wed, 19 Apr 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
     <item>
       <title>Erotiske bilnavn og flyvende Jacob</title>
@@ -82,14 +99,7 @@
       <enclosure url="https://podkast.nrk.no/fil/utakt/d6a97850-7b6f-42dd-a7fd-cc797a5076be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:26</itunes:duration>
       <pubDate>Wed, 12 Apr 2023 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Flodsvin, Bever og usynlige gensere</title>
-      <description><![CDATA[Vi snakker også om møbel-kretsløpet, smarte do-dører, Pepsi Peeps og  Påskelabyrint med mestringsfølelse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/4136fa13-ca07-4fdd-b113-b88a0f235386_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utakt/4136fa13-ca07-4fdd-b113-b88a0f235386_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:43</itunes:duration>
-      <pubDate>Wed, 05 Apr 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
   </channel>
 </rss>

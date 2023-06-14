@@ -280,6 +280,12 @@ const feeds = [
     "enabled": false
   },
   {
+    "id": "gamle_greier",
+    "title": "De 10 siste fra Gamle greier",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "gfestallan_lisain",
     "title": "De 10 siste fra Gáfestallan Lisain",
     "season": null,
