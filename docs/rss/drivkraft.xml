@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 13 Jun 2023 11:22:14 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Jun 2023 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Jun 2023 12:45:18 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Jun 2023 14:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Jørn Lier Horst</title>
+      <description><![CDATA[- Jeg er på et punkt i livet hvor det er viktig å gjøre noe gøy. Vestfoldingen som har solgt bøker for rundt 80 millioner satser nå på Vågå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/824f0f02-3135-4f40-8da0-ccc5a9956218_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/824f0f02-3135-4f40-8da0-ccc5a9956218_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:50</itunes:duration>
+      <pubDate>Thu, 15 Jun 2023 14:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uvGom241nhbQfykXikEvKA42NnrxOQRMqmp3UGlW9rBA.jpg"/>
+    </item>
     <item>
       <title>Thomas Talawa Prestø</title>
       <description><![CDATA[Koreografen ble utsatt for rasistisk vold som barn, men bestefaren lærte ham å ta kroppen tilbake. Gjennom dans.
@@ -94,15 +103,6 @@
       <itunes:duration>56:27</itunes:duration>
       <pubDate>Tue, 23 May 2023 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ean_6ApMNn7-G6XxwoxM5AWPMjKtBntGesyYk9p8cnog.jpg"/>
-    </item>
-    <item>
-      <title>Olli Wermskog</title>
-      <description><![CDATA[Skuespilleren vokste opp med alvorlig allergi, og fikk ikke dra i barnebursdager. Da fant han på andre ting, og ble kjempegod til å steppe.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/49d8c6ce-7c92-4088-8b14-3ca315e2295c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/49d8c6ce-7c92-4088-8b14-3ca315e2295c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:31</itunes:duration>
-      <pubDate>Mon, 22 May 2023 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r1vhrZD6BaH_O5_1zPtqKQot-_hbYjR-h9skd-d1D4Eg.jpg"/>
     </item>
   </channel>
 </rss>
