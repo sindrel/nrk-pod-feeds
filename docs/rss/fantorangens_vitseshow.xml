@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Fantorangens vitseshow</title>
+    <title>De 10 siste fra Fantorangens vitseshow</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Fantorangens vitseshow. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantorangens_vitseshow for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Fantorangens vitseshow. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantorangens_vitseshow for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 09:23:08 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Jun 2023 11:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2023 10:28:51 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 11:56:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
     <item>
@@ -127,6 +127,57 @@ Redaktør: Siril Heyerdahl]]></description>
       <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/bb7df1ad-ab87-4205-92bf-4ff416fb276a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>10:30</itunes:duration>
       <pubDate>Fri, 16 Jun 2023 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
+    <item>
+      <title>Kelner kelner, boblebad og Zook</title>
+      <description><![CDATA[Hvordan får du bobler i badekaret? Hva gjør fluer i suppa hele tiden? 
+Idag ringer Fantorangen og Pivi inn en vits fra Zook.
+
+Fantorangen: Inger Lindheim Gundersen
+Pivi: Haakon Strøm
+Zook: Thomas Hildebrand
+Manus/regi: Margrethe Røed
+Lyddesign: Lillian Grønning
+Redaktør: Siril Heyerdahl]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/6db86621-0073-4ab5-882b-73d96acf705a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/6db86621-0073-4ab5-882b-73d96acf705a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:47</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 11:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
+    <item>
+      <title>Slange,  poli10 og NinjaMatias</title>
+      <description><![CDATA[Er slangen en hale eller hals? 
+Hvorfor kan ikke jeg se, når vit-ser?
+I dag ringer Fantorangen og Pivi NinjaMatias.
+
+Fantorangen: Inger Lindheim Gundersen
+Pivi: Haakon Strøm
+NinjaMatias: Matias Alegria
+Manus/regi: Margrethe Røed
+Lyddesign: Lillian Grønning
+Redaktør: Siril Heyerdahl]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/5b3304d4-0dc8-4e1e-a7e0-7c3dbaf5df30_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/5b3304d4-0dc8-4e1e-a7e0-7c3dbaf5df30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:48</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 11:34:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
+    <item>
+      <title>Tull-ipan, tiss,  Morten og Saft</title>
+      <description><![CDATA[Hvem tisser lengst av svenken, dansken og nordmannen? Fantorangen elsker sine egne vitser og lytter ikke til Pivi. I dag ringer de inn en vits fra Morten og Saft.
+
+Fantorangen: Inger Lindheim Gundersen
+Pivi: Haakon Strøm
+Gjest: Morten og Saft Suse
+Manus/regi: Margrethe Røed
+Lyddesign: Lillian Grønning
+Redaktør: Siril Heyerdahl]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/02e98c3b-777e-470a-8b04-2bb812c1407c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/02e98c3b-777e-470a-8b04-2bb812c1407c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:31</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 11:56:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
     </item>
   </channel>
