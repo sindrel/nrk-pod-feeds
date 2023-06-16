@@ -6,14 +6,25 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hør'a!. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hoera for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Jun 2023 04:28:13 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 16 Jun 2023 04:28:16 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
     <item>
+      <title>Seks timer og åtti kilo fiskefarse</title>
+      <description><![CDATA[Sosh er hekta på Vanderpump Rules, vi mimrer om våre verste jobber og Arin har tenkt dype dusjtanker. 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/f5ecfa8a-6cfb-43dc-b7de-fe7ac1f19b6e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/f5ecfa8a-6cfb-43dc-b7de-fe7ac1f19b6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:11</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
       <title>Ekstremt dickmatized </title>
-      <description><![CDATA[To pride or not to pride, ting som hadde DREPT et 1800-tallsbarn, sommertrender som må dø og ekstremt juicy mail om utroskap. 
+      <description><![CDATA[To pride or not to pride, ting som hadde DREPT et 1800-tallsbarn, sommertrender som må dø og juicy mail om utroskap. 
 
 Send oss en mail! HORA@nrk.no]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/3744350d-bdf0-461c-9250-858f1e2cc925_0_ID192MP3.mp3</guid>
@@ -110,17 +121,6 @@ Send oss en mail! HORA@nrk.no  ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/hoera/6669625d-aed2-4ef7-815c-a0475bd16cce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:08</itunes:duration>
       <pubDate>Fri, 14 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
-    </item>
-    <item>
-      <title>Brune jenter + hvite gutter = sant</title>
-      <description><![CDATA[Tar nordmenn baida i påsken? Blir Ilyada noen gang voksen? Og liker egentlig brune jenter hvite gutter? 
-
-Send oss en mail! HORA@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/b69f03a7-efa6-4877-a9c3-e49a027a522e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hoera/b69f03a7-efa6-4877-a9c3-e49a027a522e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:05</itunes:duration>
-      <pubDate>Fri, 07 Apr 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
     </item>
   </channel>

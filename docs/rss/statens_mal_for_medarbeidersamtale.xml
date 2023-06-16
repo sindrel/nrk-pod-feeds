@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Statens mal for medarbeidersamtale. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/statens_mal_for_medarbeidersamtale for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Jun 2023 04:28:25 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 16 Jun 2023 04:28:32 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xRP5wKPnLQ0Y4dTN8bK6-Q6gCzxavVunu2v3PXhToQHQ.jpg"/>
+    <item>
+      <title>Torpedo</title>
+      <description><![CDATA[Pistol og hammer er arbeidsutstyr torpedoen trenger, men tenker han nok på HMS?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/5c577b4d-3952-4afc-a140-e55d0045813c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/5c577b4d-3952-4afc-a140-e55d0045813c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:44</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tUDEYyQ4rdXTncGsB_kmgwkdq4uPZo4OTVzV7obfLo4Q.jpg"/>
+    </item>
     <item>
       <title>Gambler</title>
       <description><![CDATA[Aylar er profesjonell gambler. Hvor trygg er inntekten, og hvordan føles det å bløffe for tusenvis av kroner?]]></description>
@@ -125,20 +134,6 @@ Lydtekniker: Ida Larald Brenna]]></description>
       <itunes:duration>22:01</itunes:duration>
       <pubDate>Sun, 11 Dec 2022 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hSH2BeMLot5dggt4S4UtvwxVKeQqnu7a1iZZXrtRwlIg.jpg"/>
-    </item>
-    <item>
-      <title>Stand up-komiker</title>
-      <description><![CDATA[ Bli med på medarbeidersamtale med stand up-komikeren Kevin. Tar han jobben seriøst? Og drikker han for mye lønningspils?  
-
-
-Programleder: Sindre Reinholt
-Produsent: Jakob Naustdal
-Komponist: David Atarodiyan]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/f37e664a-d632-49b1-8612-f3ea63abce30_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/statens_mal_for_medarbeidersamtale/f37e664a-d632-49b1-8612-f3ea63abce30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:48</itunes:duration>
-      <pubDate>Sun, 04 Dec 2022 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IL7diCpPPonaAE2-5Tg4XwQtKfYPafJLOLe7qRDCbZeA.jpg"/>
     </item>
   </channel>
 </rss>

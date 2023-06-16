@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Jun 2023 04:28:14 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 16 Jun 2023 04:28:18 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw.jpg"/>
+    <item>
+      <title>Grensesprengeren Bannister</title>
+      <description><![CDATA[Idrettshistoriker Thor Gotaas forteller om Roger Bannister som sprengte historisk grense ved å bli første løper under 4 minutter på en engelsk mil.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/76d51285-a7c3-4cca-ad89-6c97ba726f4f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/76d51285-a7c3-4cca-ad89-6c97ba726f4f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:58:09</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DFWKnV75OrrdDx4wttDYKgPVjcJ3f3mKn4_LuD-YofFQ.jpg"/>
+    </item>
     <item>
       <title>Gjennombruddet</title>
       <description><![CDATA[Kristin Waaktaar Opland er tobarnsmoren på over 40 år som plutselig ble veldig god til å løpe. I år har satt hun norsk rekord for 40-44 år på 5000 meter.]]></description>
@@ -94,15 +103,6 @@ Kristian og Jann sliter fortsatt med sykdom, men prøver å få opp humøret med
       <itunes:duration>02:24:11</itunes:duration>
       <pubDate>Fri, 14 Apr 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8QcVx156WOngtOLUr700rwOS2bwXn1aijSNg5WGtzrPQ.jpg"/>
-    </item>
-    <item>
-      <title>OL-legenden</title>
-      <description><![CDATA[Hallgeir Brenden kunne tatt OL-medalje i både langrenn og løping, men han valgte skiene. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/226efb9c-d733-4462-bc14-bb550cfa0ad9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/226efb9c-d733-4462-bc14-bb550cfa0ad9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:01:56</itunes:duration>
-      <pubDate>Fri, 07 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/S5NUUvtGXt6P8ZrUaWdECgzlPF96bZLM7HXxYQTCSEZw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Språksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/spraakteigen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Jun 2023 04:28:23 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 16 Jun 2023 04:28:30 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ.jpg"/>
+    <item>
+      <title>Instrumental, masse, med brask og bram</title>
+      <description><![CDATA[Kan Erling Braut Haaland omtales som instrumental? Hva er forskjellen på mange, mye og masse? Og hvor kommer uttrykket med brask og bram fra? I panelet: Ellen Andenæs, Jan Kristian Hognestad og Leiv Inge Aa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/862012b6-6cc3-4cb3-8344-fa0824cc2e9a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/862012b6-6cc3-4cb3-8344-fa0824cc2e9a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:12</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ.jpg"/>
+    </item>
     <item>
       <title>Tasjlat, sikkert og forsømme seg</title>
       <description><![CDATA[Trønderdialekten har en eksotisk lyd, som også finnes i språk fra Ringenes herre. Hva er betydningen av å forsømme seg, og kan ulik tolkning føre til uvennskap? Det er ikke sikkert at alt er  like sikkert.
@@ -97,16 +106,6 @@ I panelet: Kristine Bentzen, Ellen Andenæs og Leiv Inge Aa. ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/spraakteigen/9e0debf2-54c6-4ab9-ae34-43f07d6f82b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:29</itunes:duration>
       <pubDate>Fri, 14 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ.jpg"/>
-    </item>
-    <item>
-      <title>Språksnakks påskegodtepose</title>
-      <description><![CDATA[Et gjenhør med bl.a musefletter, kjælenavn på dyr og skall eller skrell, i podkasten fra 'skarpast påska'!
-Språkforskere: Helen Uri, Andre Midtskogseter Reite, Ellen Andenæs, Jan Kristian Hognestad, Stian Hårstad og Mari Nygård]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/64537549-2562-4b58-a37e-ffaa1fca0d23_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/64537549-2562-4b58-a37e-ffaa1fca0d23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Fri, 07 Apr 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ.jpg"/>
     </item>
   </channel>

@@ -1,16 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Fantorangens vitseshow</title>
+    <title>De 6 siste fra Fantorangens vitseshow</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Fantorangens vitseshow. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantorangens_vitseshow for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Fantorangens vitseshow. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantorangens_vitseshow for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 10 Jun 2023 23:22:50 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2023 04:28:11 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    <item>
+      <title>Alle barna, lurevitser og Kongen</title>
+      <description><![CDATA[Fantorangen og Pivi tøyser enda mer og lærer deg hvordan du kan lage egne vitser.
+Dagens vitsegjest er Konglen...eh nei, Kongen.
+
+Fantorangen: Inger Lindheim Gundersen
+Pivi/Kongen:  Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Lillian Grønning
+Redaktør: Siril Heyerdahl
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/74dce728-7ff5-423c-adc6-e4b58e143e0e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/74dce728-7ff5-423c-adc6-e4b58e143e0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:55</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
+    <item>
+      <title>Sang, promp og Fantus</title>
+      <description><![CDATA[Pivi synes ikke alt er så morsomt når Fantorangen synger.
+I dag ringer de inn en vits fra Fantus som bare sier promp.
+
+Fantorangen: Inger Lindheim Gundersen
+Pivi: Haakon Strøm
+Fantus: Liv Gulbrandsen
+Manus/regi: Margrethe Røed
+Lyddesign: Lillian Grønning
+Redaktør: Siril Heyerdahl]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/ef12810b-bdc3-465b-a4ca-b872c7206dba_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/ef12810b-bdc3-465b-a4ca-b872c7206dba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:00</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
+    <item>
+      <title>Brødsmuler, sitron og Brillebjørn</title>
+      <description><![CDATA[Hva skjer når Dum og Ingen går en tur?  Hvorfor er sitronen sur? 
+I dag ringer Fantorangen og Pivi inn en vits fra selveste Brillebjørn.
+
+Fantorangen: Inger Lindheim Gundersen
+Pivi: Haakon Strøm
+Brillebjørn: Thomas Hildebrand
+Manus/regi: Margrethe Røed
+Lyddesign: Lillian Grønning
+Redaktør: Siril Heyerdahl]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/120d098e-dfc0-46e5-b30a-08c7596ff874_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/120d098e-dfc0-46e5-b30a-08c7596ff874_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:32</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
+    <item>
+      <title>Kom´an ketchup, dobørste og Daidalos</title>
+      <description><![CDATA[Hva skjer når to tomater og mange andre prøver å krysse en vei?
+Fantorangen og Pivi lager sine egne vitser og
+ringer inn en vits fra Daidalos.
+
+Fantorangen: Inger Lindheim Gundersen
+Pivi: Haakon Strøm
+Daidalos: håvard Lilleheie
+Manus/regi: Margrethe Røed
+Lyddesign: Lillian Grønning
+Redaktør: siril Heyerdahl]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/29e615c8-23ab-42cf-8aaf-2cff09902172_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/29e615c8-23ab-42cf-8aaf-2cff09902172_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:28</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
+    <item>
+      <title>Første sending fra vitsehytta</title>
+      <description><![CDATA[Le sammen hele familien når Fantorangen og Pivi forteller rare vitser.
+Pivi er lydeffekt-sjef,  men finner ikke alltid riktige lyder.
+
+Fantorangen: Inger Lindheim Gundersen
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Lillian Grønning
+Redaktør: Siril Heyerdahl
+ 
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/c0d132b0-b878-4df8-b30a-b2fcd92f0fe2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/c0d132b0-b878-4df8-b30a-b2fcd92f0fe2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:34</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
     <item>
       <title>Fantorangens vitseshow kommer 16 juni</title>
       <description><![CDATA[Fantorangen og Pivi forteller rare og morsomme vitser hele familien kan le av.
