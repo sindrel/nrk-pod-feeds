@@ -215,7 +215,7 @@ const feeds = [
     "id": "fantorangenfortellinger",
     "title": "De 10 siste fra Fantorangenfortellinger",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "fantorangens_lydmysterier",
