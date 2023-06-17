@@ -235,7 +235,7 @@ const feeds = [
     "id": "feriestemning",
     "title": "De 10 siste fra Feriestemning",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "filmpolitiet",
