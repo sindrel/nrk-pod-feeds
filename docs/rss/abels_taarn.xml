@@ -7,10 +7,26 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 05:26:17 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Jun 2023 07:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Jun 2023 04:28:49 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ.jpg"/>
+    <item>
+      <title>Forskningsfronten - Det første syntetiske menneskeembryoet. Ingen sæd, ingen egg.</title>
+      <description><![CDATA[Forskningsfronten
+
+- Måker i Brighton bruker mennesker som munnskjenk.
+
+- Fra søvnforskningen - hjelper det å sove med sammentapet munn?
+
+- Det første syntetiske embryoet er laget uten sædceller eller egg.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0eb4e3f0-65bb-473b-bab1-9676f8120470_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0eb4e3f0-65bb-473b-bab1-9676f8120470_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:39</itunes:duration>
+      <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BTPZNt7yCSgOoZR7Yqr48QiQ18L_BqNr2QwH_AXNWrUw.jpg"/>
+    </item>
     <item>
       <title>Abels serie: Drømmen om evig liv #1 - Nedfryst til framtida</title>
       <description><![CDATA[Den teknovitenskaplige udødelighetsbevegelsen, kalles den. Summen av alle de som drømmer om å omgå døden på den ene eller den andre måten. I denne miniserien ser vi på noen av metodene man tenker seg. 
@@ -157,40 +173,6 @@ Elektronikk laget av tre
       <itunes:duration>16:40</itunes:duration>
       <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0ed3IwfCxit-FNcQctbOXwj1T2zll7f0Y8N4NZQebSPQ.jpg"/>
-    </item>
-    <item>
-      <title>Abels tema - Navier-Stokes og Abelprisen</title>
-      <description><![CDATA[Visste du at grunnlaget for Norges velstand er en ligning? 
-Mange steder i verden kan man nærmest stikke et rør ned i bakken, og så spruter olja opp, men ute i Nordsjøen hadde vi ikke kommet langt uten Navier- Stokes -ligningen.
-Og nå, som vi skal bygge både havvindmøller og bedre klimamodeller, er det igjen Navier-Stokes vi må lene oss på.
-
-Det er bare et tilsynelatende problem: Vi klarer ikke å løse ligningen. 
-Vi vet ikke en gang om en skikkelig løsning eksisterer.
-
-Abels tårn har møtt alle tre matematikerne som er de i verden som har kommet nærmest å forstå ligningen.
-En av dem var denne uka i Oslo der han blei tildelt Abelprisen av Hans Majestet Kongen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/2e7cde99-e4cb-4521-a7d5-0f38d6e1c6f5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2e7cde99-e4cb-4521-a7d5-0f38d6e1c6f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:24</itunes:duration>
-      <pubDate>Sat, 27 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/05jdGy3tRhUtN8apUCqdRw_Rut17am60nTKFMTGLCb5g.jpg"/>
     </item>
   </channel>
 </rss>

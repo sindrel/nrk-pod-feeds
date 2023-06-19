@@ -1,16 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Ekko – samfunnspodden</title>
+    <title>De 10 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ekko – samfunnspodden. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Jun 2023 04:28:47 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Jun 2023 04:28:55 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Jun 2023 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Mine tre uker i koma (2:2 -Dagboken)</title>
+      <description><![CDATA[Tiden i koma er som visket vekk for Ellen: hun husker ingenting. Men så får hun lese en dagbok som gjør at hun skjønner mer av hva som foregikk i kroppen hennes i ukene hun var borte. 
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/40951e98-2a48-4ed2-b0bc-c447faa2dba7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/40951e98-2a48-4ed2-b0bc-c447faa2dba7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:14</itunes:duration>
+      <pubDate>Mon, 19 Jun 2023 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y7j1VOifAZ8jXdD1u4wvhwnxcet-95gVMNF3n5AR7D8w.jpg"/>
+    </item>
+    <item>
+      <title>Mine tre uker i koma (1:2 -Oppvåkningen)</title>
+      <description><![CDATA[Livet til 43 år gamle Ellen gikk på skinner.  Men så brøt kroppen hennes plutselig sammen, og hun måtte raskt legges i kunstig koma. 
+Her får du høre hvor brutalt det var å våkne. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/667cd9ee-fc51-4978-b08e-2052316fb97c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/667cd9ee-fc51-4978-b08e-2052316fb97c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:08</itunes:duration>
+      <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/er0sv-fdXVkjiOgv5rvaCQAjYrXzHNW16FbjcaZdJGkg.jpg"/>
+    </item>
     <item>
       <title>Spørretime: Skal vi bruke mer genteknologi?</title>
       <description><![CDATA[Hva betyr det for deg om vi myker opp den strenge, 30 år gamle loven om genteknologi? Ekspertene svarer lytterne!]]></description>
@@ -82,25 +104,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dc9d60a3-82db-428e-8909-7cfcbfc7715c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>17:38</itunes:duration>
       <pubDate>Thu, 01 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ.jpg"/>
-    </item>
-    <item>
-      <title>Spørretime: Hvorfor spiser vi mer enn vi trenger?</title>
-      <description><![CDATA["-Jeg orker ikke være sulten!" Fedmeforsker, psykolog og rådgiver i spiseforstyrrelser svarer lyttene om blant annet "emosjonell sult". ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2f802aaf-3756-4208-a373-201b060e67b4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2f802aaf-3756-4208-a373-201b060e67b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:30</itunes:duration>
-      <pubDate>Wed, 31 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ.jpg"/>
-    </item>
-    <item>
-      <title>Brukes satelittdata fra Svalbard i krig?</title>
-      <description><![CDATA[Krigføring er avhengig av satellitter. Norge har den største antenneparken av alle - på Svalbard. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e2d8c583-7047-4048-b5cf-d64e25affe7f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e2d8c583-7047-4048-b5cf-d64e25affe7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:39</itunes:duration>
-      <pubDate>Thu, 25 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xuohPJZ3kqQgxTgleOZSuw4T8h3fKDcw_oGqZ_Vk0VoQ.jpg"/>
     </item>
   </channel>
