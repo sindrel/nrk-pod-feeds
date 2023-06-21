@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 12:46:23 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Jun 2023 13:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Jun 2023 12:45:44 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Jun 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Julie Wilhelmsen</title>
+      <description><![CDATA[Russlandforskeren mener hun har et urolig hjerte, og føler på et ansvar for å fortelle om det hun ser]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/48a1afff-2073-4165-9230-095b64345565_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/48a1afff-2073-4165-9230-095b64345565_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Wed, 21 Jun 2023 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JNz0hIoTnv944olNf-8wjQxGLXn6e-IbQ3bKicxoId8g.jpg"/>
+    </item>
     <item>
       <title>Aslak Maurstad</title>
       <description><![CDATA[Som barn hadde skuespilleren leddgikt, og var ofte forhindret fra å være med på leken. Gaming ble hans store interesse, og møtet på "The Gathering" med andre dataspill-interesserte ble hans til da største opplevelse.
@@ -97,15 +106,6 @@
       <itunes:duration>56:27</itunes:duration>
       <pubDate>Wed, 31 May 2023 14:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Sl4msTtkljEyPRXVr4m6cg4kTU1ej1A3BgFHIY8QHWlA.jpg"/>
-    </item>
-    <item>
-      <title>Franciska Eliassen </title>
-      <description><![CDATA[Filmskaperen anbefaler andre å være alene med seg selv, lenge. Selv bodde hun i et og et halvt år i en selvlaget jordgamme i Lofoten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/eecd5f51-ba35-4f84-a481-2a9d2c9e8c12_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/eecd5f51-ba35-4f84-a481-2a9d2c9e8c12_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:07</itunes:duration>
-      <pubDate>Tue, 30 May 2023 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/s1aICkSOt_T8E1DFxuNj1Amj6_FCSlQy61xAxKgRKYlg.jpg"/>
     </item>
   </channel>
 </rss>
