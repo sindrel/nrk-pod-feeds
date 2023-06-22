@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Gamle greier</title>
+    <title>De 4 siste fra Gamle greier</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Gamle greier. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gamle_greier for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Gamle greier. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gamle_greier for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 04:29:00 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Jun 2023 04:28:02 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>De fatale magiryktene om Marit</title>
+      <description><![CDATA[En kvinnes desperate kamp mot heksebålet i 1600-tallets Finnmark ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/47cfd029-0775-459a-82f9-c9f3d7f901fd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/47cfd029-0775-459a-82f9-c9f3d7f901fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:20</itunes:duration>
+      <pubDate>Thu, 22 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>Den norske slaven i Tunis</title>
       <description><![CDATA[En ung sjømann må spille et taktisk spill for å overleve i 1747 ]]></description>
