@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 21 Jun 2023 12:45:44 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Jun 2023 14:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Jun 2023 12:45:00 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Jun 2023 13:34:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Helene Myhre</title>
+      <description><![CDATA[- Jeg er det stikk motsatte av Lars Monsen, sier tur-influenseren med over 350 000 følgere. Hun tør i hvert fall ikke sove i telt alene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/bf240268-98a6-442a-9aac-1afb1edbc377_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/bf240268-98a6-442a-9aac-1afb1edbc377_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Thu, 22 Jun 2023 13:34:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GcIOPV5SJHRudlHIOuqxBwuPNEKVqBf1mLUoW9noLebg.jpg"/>
+    </item>
     <item>
       <title>Julie Wilhelmsen</title>
       <description><![CDATA[Russlandforskeren mener hun har et urolig hjerte, og føler på et ansvar for å fortelle om det hun ser]]></description>
@@ -97,15 +106,6 @@
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Tue, 06 Jun 2023 13:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nn2LC_1NMtb3M-E7T2ThSA0Efz4Wb2xdyLKXIL0m6UUQ.jpg"/>
-    </item>
-    <item>
-      <title>Ellen Arnstad</title>
-      <description><![CDATA[Den mangeårige medielederen mener sønnens sykdom har gjort henne mer empatisk, og til en mer tålmodig leder.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4767da42-06be-4135-a37d-6a833fb7588a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4767da42-06be-4135-a37d-6a833fb7588a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:27</itunes:duration>
-      <pubDate>Wed, 31 May 2023 14:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Sl4msTtkljEyPRXVr4m6cg4kTU1ej1A3BgFHIY8QHWlA.jpg"/>
     </item>
   </channel>
 </rss>
