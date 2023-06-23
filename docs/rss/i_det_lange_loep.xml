@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 04:28:18 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Jun 2023 04:32:34 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw.jpg"/>
+    <item>
+      <title>Tuv Myhres forvandling</title>
+      <description><![CDATA[Magnus Tuv Myhre var amatør for fire år siden. 
+I dag trener han med Team Ingebrigtsen og han ble en av heltene på Bislett Games.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f93b7689-434a-45a1-a1be-be26856548f9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f93b7689-434a-45a1-a1be-be26856548f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:29:47</itunes:duration>
+      <pubDate>Fri, 23 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KFWBVmVy5VKOmqWAEVLEKQ7kBgUWk8bOWgAb3WPWc2Wg.jpg"/>
+    </item>
     <item>
       <title>Grensesprengeren Bannister</title>
       <description><![CDATA[Idrettshistoriker Thor Gotaas forteller om Roger Bannister som sprengte historisk grense ved å bli første løper under 4 minutter på en engelsk mil.]]></description>
@@ -94,15 +104,6 @@ Kristian og Jann sliter fortsatt med sykdom, men prøver å få opp humøret med
       <itunes:duration>02:15:14</itunes:duration>
       <pubDate>Fri, 21 Apr 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WnxxlrE3Wu2Xu8uxt5Bh6AsBHSrrmSWk2CNv0IZKetRg.jpg"/>
-    </item>
-    <item>
-      <title>Hvor mye betyr det mentale for prestasjonen?</title>
-      <description><![CDATA[Tidligere langrennsløper Øystein Pettersen er en av få som sier at han var bedre fysisk enn det han fikk ut i skiløypa. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/e0779d0b-ba0b-4650-b47e-008dce23aa6d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/e0779d0b-ba0b-4650-b47e-008dce23aa6d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:24:11</itunes:duration>
-      <pubDate>Fri, 14 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8QcVx156WOngtOLUr700rwOS2bwXn1aijSNg5WGtzrPQ.jpg"/>
     </item>
   </channel>
 </rss>
