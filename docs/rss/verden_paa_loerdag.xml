@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 04:32:47 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Jun 2023 11:23:17 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Jun 2023 13:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Wagnersoldater går mot Moskva</title>
+      <description><![CDATA[Leiesoldater gjør opprør mot det russiske militære]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/3b6ffaac-69c9-44e6-ba97-f4f365618138_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/3b6ffaac-69c9-44e6-ba97-f4f365618138_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:39</itunes:duration>
+      <pubDate>Sat, 24 Jun 2023 13:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OIvJCbeBoKZzFTRSAE3RhQH-dlgKmuget_lbAf-g5JHA.jpg"/>
+    </item>
     <item>
       <title>Krigen i Ukraina: Soldaten Paul Smith</title>
       <description><![CDATA[Hvorfor drar ikke amerikaneren Paul Smith hjem etter at han har vært nær ved å dø så mange ganger?]]></description>
@@ -93,16 +102,6 @@ Etter at den internasjonale straffedomstolen utstedte arrestordre på Putin, har
       <itunes:duration>11:43</itunes:duration>
       <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/wapF_nUr2obPP0sH1qaN1gFkuZ5FtqhY3JuncURh0gew.jpg"/>
-    </item>
-    <item>
-      <title>Det farlige flagget</title>
-      <description><![CDATA[Vil nasjonalisme i Europa gi oss krig igjen?
-Er den europeiske nasjonalismen uskyldig veiving med flagg og synging av sanger, eller er det noe farlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/e348f938-ad41-49bc-a03f-d49511308688_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/e348f938-ad41-49bc-a03f-d49511308688_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:12</itunes:duration>
-      <pubDate>Sat, 20 May 2023 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QUftadrkU9-ZlxwlKNKPqwWe8fZYDxrPjiBGLXYmCYAA.jpg"/>
     </item>
   </channel>
 </rss>
