@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 25 Jun 2023 04:31:50 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Jun 2023 04:32:55 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
+    <item>
+      <title>Gisle Agledahl og Galvan Mehidi</title>
+      <description><![CDATA[Den ene brukte humor og selvironi som forsvarsmekanisme, mens den andre senket stemmen og gikk bredere for å passe inn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/feriestemning/81bcd404-55fc-4d4c-8fe2-e6af6483fbe4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/81bcd404-55fc-4d4c-8fe2-e6af6483fbe4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:19:24</itunes:duration>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
+    </item>
     <item>
       <title>Lise Finckenhagen og Ronny Brede Aase</title>
       <description><![CDATA[Det har vært noen tøffe år for Lise, men etter mange kvelder meg ostesmørbrød som trøst, ser det ut til at livet smiler igjen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:18:45</itunes:duration>
       <pubDate>Sat, 17 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
-    </item>
-    <item>
-      <title>Rasmus Wold og Jonis Josef</title>
-      <description><![CDATA[Rasmus sjekket damer på sms, Jonis har aldri fått fisk - eller?  og begge har havnet i bråk i utlandet]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/feriestemning/44750c0c-c595-412a-89a8-2b862d8b3999_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/feriestemning/44750c0c-c595-412a-89a8-2b862d8b3999_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:48:55</itunes:duration>
-      <pubDate>Fri, 12 Aug 2022 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw.jpg"/>
     </item>
   </channel>
 </rss>

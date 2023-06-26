@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 19 Jun 2023 04:29:05 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Jun 2023 04:33:03 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Annika Momrak i fryseren</title>
+      <description><![CDATA[Annika gleder seg til å dø av ren nysgjerrighet, men vurderer å spare til evig liv. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/4b0ef7f1-7366-436a-861d-485286181eee_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4b0ef7f1-7366-436a-861d-485286181eee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:30</itunes:duration>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iIRjSI72Uq12nr_3SuZu6gaUpv5nTz4qQT9xdZ0GWGlw.jpg"/>
+    </item>
     <item>
       <title>Mikkel Niva, don't look him in the eyes</title>
       <description><![CDATA[Mikkel Niva drar på safari i åpen bil uten våpen, men når han kommer hjem blir han dølle "Per".  ]]></description>
@@ -92,15 +101,6 @@ Trenger du noen å snakke med? Mental helses hjelpetelefon: 116 123. RUSinfo: 91
       <itunes:duration>43:04</itunes:duration>
       <pubDate>Mon, 24 Apr 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zC0Q-3w9XZCmFbEGLMVIVQF12_4xc8Dw-d0Z4MYJT-Ag.jpg"/>
-    </item>
-    <item>
-      <title>Bjørn Eidsvågs Hubba Bubba-liv</title>
-      <description><![CDATA[Hvordan blir begravelsen til mannen som har skrevet landets mest populære begravelsessang? (Bortsett fra tung rødvin til alle.)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b4b2d065-881c-491c-8317-b58d10cd3be0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b4b2d065-881c-491c-8317-b58d10cd3be0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:27</itunes:duration>
-      <pubDate>Mon, 17 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uXJXGTIN3Ns-SmJFN-N3eAGG8ecRD1SAs14q3EvEZO6Q.jpg"/>
     </item>
   </channel>
 </rss>
