@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Gamle greier</title>
+    <title>De 5 siste fra Gamle greier</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Gamle greier. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gamle_greier for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Gamle greier. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gamle_greier for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 22 Jun 2023 04:28:02 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Jun 2023 04:32:02 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>Den avrevne hånda</title>
+      <description><![CDATA[En manns desperate kamp mot staten i konflikten som splitter Norge ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/50fb6890-50b0-44ad-a47e-f076b22ce3d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/50fb6890-50b0-44ad-a47e-f076b22ce3d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:42</itunes:duration>
+      <pubDate>Tue, 27 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>De fatale magiryktene om Marit</title>
       <description><![CDATA[En kvinnes desperate kamp mot heksebålet i 1600-tallets Finnmark ]]></description>
