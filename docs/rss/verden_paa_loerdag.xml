@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 11:23:17 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Jun 2023 13:10:00 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Jun 2023 04:31:13 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Krigen i Ukraina: Bondens kamp</title>
+      <description><![CDATA[Alt er blitt dyrere og kornet er vanskelig å få solgt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/61c2b27b-1b1f-462a-92e3-c0778cfcb568_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/61c2b27b-1b1f-462a-92e3-c0778cfcb568_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:27</itunes:duration>
+      <pubDate>Fri, 30 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/999R-RslBLtH2qNvP7NKigJD8y1NnPkM55PWuyG-V4PQ.jpg"/>
+    </item>
     <item>
       <title>Wagnersoldater går mot Moskva</title>
       <description><![CDATA[Leiesoldater gjør opprør mot det russiske militære]]></description>
@@ -93,15 +102,6 @@ Etter at den internasjonale straffedomstolen utstedte arrestordre på Putin, har
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Sat, 27 May 2023 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4o6rf8p6xn65DetYDZS7ZgbkknsQ090IJH7DuxRHS31Q.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina - Å leve i en krig</title>
-      <description><![CDATA[I Kyiv prøver folk å leve som normalt mens bombene smeller.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/5c086630-fe69-4208-8d52-e2dac2f24395_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/5c086630-fe69-4208-8d52-e2dac2f24395_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:43</itunes:duration>
-      <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wapF_nUr2obPP0sH1qaN1gFkuZ5FtqhY3JuncURh0gew.jpg"/>
     </item>
   </channel>
 </rss>
