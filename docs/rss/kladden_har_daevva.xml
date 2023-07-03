@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 26 Jun 2023 04:33:03 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2023 04:31:55 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Cathrine Frost, "litt som å dø" </title>
+      <description><![CDATA[Cathrines fødsel gikk skikkelig til helvete, og man ser litt annerledes på livet etter å ha blitt delt i to. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/81fe9c89-bcb2-41da-9f4c-51eca1ad7fdc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/81fe9c89-bcb2-41da-9f4c-51eca1ad7fdc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:42</itunes:duration>
+      <pubDate>Mon, 03 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2auvDY4wiyQ4EOkGFcT6QAKlES54V389N2Zi5qRaXt3g.jpg"/>
+    </item>
     <item>
       <title>Annika Momrak i fryseren</title>
       <description><![CDATA[Annika gleder seg til å dø av ren nysgjerrighet, men vurderer å spare til evig liv. ]]></description>
@@ -91,16 +101,6 @@
       <itunes:duration>38:05</itunes:duration>
       <pubDate>Mon, 01 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CDmSfARcOS4TOpIbVDM3dwZd5lTgQwGB1byY7ZaYbdkg.jpg"/>
-    </item>
-    <item>
-      <title>Eirik Krokås og hjelpetelefonen</title>
-      <description><![CDATA[Komiker Eirik Krokås var kokain - og spilleavhengig og ville ta sitt eget liv. En telefonsamtale endret alt. 
-Trenger du noen å snakke med? Mental helses hjelpetelefon: 116 123. RUSinfo: 915 08 588. Hjelpelinjen for spilleavhengige: 800 800 40. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/96aec025-7807-43f4-b679-1acc7a7d8d9e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/96aec025-7807-43f4-b679-1acc7a7d8d9e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:04</itunes:duration>
-      <pubDate>Mon, 24 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zC0Q-3w9XZCmFbEGLMVIVQF12_4xc8Dw-d0Z4MYJT-Ag.jpg"/>
     </item>
   </channel>
 </rss>
