@@ -201,7 +201,7 @@ const feeds = [
     "id": "eventyrstund_med_morten_og_saft",
     "title": "De 10 siste fra Eventyrstund med Morten og Saft",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "familiene_paa_orderud",
@@ -854,6 +854,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "radio_moerch",
+    "title": "De 10 siste fra Radio Mørch",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "radiodokumentaren",
