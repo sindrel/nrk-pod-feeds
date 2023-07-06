@@ -1,4 +1,5 @@
 import logging
+import os
 
 from discover_feeds import *
 
@@ -31,19 +32,18 @@ def test_update_podcasts_config():
             "seriesId": "berrum_beyer_snakker_om_greier",
             "title": "De 10 siste fra Foo og Bar",
         },
-        "snoefall" : {
-            "seriesId": "snoefall",
-            "title": "De 10 siste fra snoefall",
-        },
         "dagsnytt_atten" : {
             "seriesId": "dagsnytt_atten",
             "title": "De 10 siste fra dagsnytt_atten",
         }
     }
 
-    updated = update_podcasts_config(configured, discovered)
+    updated, changes = update_podcasts_config(configured, discovered)
     logging.debug(updated)
 
+    os.makedirs("tests/", exist_ok=True)
+    helpers.write_podcasts_changelog("tests/DISCOVERY.md", datetime.now(), changes)
+    
     added = False
     for feed in updated:
         if feed['id'] == "hele_historien":

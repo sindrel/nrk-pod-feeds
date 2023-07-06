@@ -1,6 +1,7 @@
 import os
 import json
 
+from datetime import datetime
 from common.helpers import *
 
 def test_write_feeds_file():
@@ -22,6 +23,44 @@ def test_write_feeds_file():
     saved.close()
 
     assert str
+
+def test_write_podcasts_changelog():
+    file = "tests/DISCOVERY_UNIT.md"
+    os.makedirs("tests/", exist_ok=True)
+
+    today = datetime.now()
+    ch_date = today.date()
+
+    if os.path.exists(file):
+        os.remove(file)
+
+    old_changes = [
+        "Added podcast foo",
+        "Deprecated podcast bar"
+    ]
+
+    new_changes = [
+        "Added podcast foobar",
+        "Deprecated podcast barfoo"
+    ]
+
+    write_podcasts_changelog(file, today, old_changes)
+    write_podcasts_changelog(file, today, new_changes)
+
+    saved = open(file, "r")
+    str = saved.read()
+    saved.close()
+
+    expected = f"""# Podcast Discovery Changelog  
+### {ch_date}  
+- Added podcast foobar  
+- Deprecated podcast barfoo  
+### {ch_date}  
+- Added podcast foo  
+- Deprecated podcast bar  
+"""
+
+    assert str == expected
 
 def test_get_podcasts_config():
     podcasts_cfg_file = "podcasts.json"
