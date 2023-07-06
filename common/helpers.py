@@ -38,6 +38,24 @@ def write_feeds_file(feeds_file, podcasts):
     
     logging.info(f"Podcast feeds written to file: {feeds_file}")
 
+def write_podcasts_changelog(file, date, changes):
+    header = "# Podcast Discovery Changelog  "
+    sub_header = f"### {date.date()}  "
+    existing = ""
+    
+    if os.path.exists(file):
+        fr = open(file, "r")
+        existing_lines = fr.readlines()[1:]
+        existing = "".join(existing_lines)
+        fr.close()
+
+    f = open(file, "w")
+    new = "  \n- ".join(changes)
+    f.write(f"{header}\n{sub_header}\n- {new}  \n{existing}")
+    f.close()
+    
+    logging.info(f"Podcast config changelog written to file: {file}")
+
 def get_version():
     with open("version.txt") as file:
         return file.read()

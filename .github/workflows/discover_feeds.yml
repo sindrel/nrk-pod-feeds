@@ -63,4 +63,4 @@ jobs:
           commit_message: "chore(auto): Update podcast configuration"
           commit_author: nrk-pod-feeds auto-discovery <actions@github.com>
           repository: .
-          file_pattern: 'podcasts.json'
+          file_pattern: 'podcasts.json DISCOVERY.md'

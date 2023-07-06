@@ -8,7 +8,7 @@ def test_update_podcasts_config():
             "id": "abels_taarn",
             "title": "De 10 siste fra Abels Tårn",
             "season": None,
-            "enabled": True,
+            "enabled": False,
         },
         {
             "id": "berrum_beyer_snakker_om_greier",
@@ -41,9 +41,10 @@ def test_update_podcasts_config():
         }
     }
 
-    updated = update_podcasts_config(configured, discovered)
+    updated, changes = update_podcasts_config(configured, discovered)
+    helpers.write_podcasts_changelog("tests/DISCOVERY.md", datetime.now(), changes)
     logging.debug(updated)
-
+    
     added = False
     for feed in updated:
         if feed['id'] == "hele_historien":
