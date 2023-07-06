@@ -39,6 +39,9 @@ def write_feeds_file(feeds_file, podcasts):
     logging.info(f"Podcast feeds written to file: {feeds_file}")
 
 def write_podcasts_changelog(file, date, changes):
+    if len(changes) == 0:
+        return
+    
     header = "# Podcast Discovery Changelog  "
     sub_header = f"### {date.date()}  "
     existing = ""
