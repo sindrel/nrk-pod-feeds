@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2023-07-06  
+-   
+### 2023-07-06  
 - Added podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2023-07-06  
 - Podcast 'Bingen – historier fra bygda' is considered obsolete and will be ignored in the future (`bingen`)  
