@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Jul 2023 04:33:28 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Jul 2023 04:33:12 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Gustav Magnar Witzøe</title>
+      <description><![CDATA[Kofferten var pakket. Leiligheten i Sveits sto klar. Så tenkte laksearvingen seg om en siste gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/de4801fb-af3a-49bf-8efc-831551c4ae43_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/de4801fb-af3a-49bf-8efc-831551c4ae43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:16</itunes:duration>
+      <pubDate>Thu, 06 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/45o7NTfNGtMaFNwpEaeMug9czx8O-qfOsVVKmkZnE28w.jpg"/>
+    </item>
     <item>
       <title>Javad El Bakali</title>
       <description><![CDATA[Som seksåring ble Javad truffet av en bil. Hele barndommen trodde alle at han var hjerneskadet - inkludert han selv.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>37:06</itunes:duration>
       <pubDate>Mon, 26 Jun 2023 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nODXdBejqvZGHReUCPOd5gowgGwbUWbEBK0qeQEhOcqA.jpg"/>
-    </item>
-    <item>
-      <title>Robert Stoltenberg</title>
-      <description><![CDATA[Robert Stoltenberg om setningene som formet livet hans.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/bedda572-139c-49bb-9cce-741cb5363cc6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/bedda572-139c-49bb-9cce-741cb5363cc6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:04</itunes:duration>
-      <pubDate>Mon, 26 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yEmGxLoB2zzv4URmw1l_zQ6sM9HaqnsaX7M4aoBLqgPg.jpg"/>
     </item>
   </channel>
 </rss>
