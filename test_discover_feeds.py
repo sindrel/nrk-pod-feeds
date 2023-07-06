@@ -8,7 +8,7 @@ def test_update_podcasts_config():
             "id": "abels_taarn",
             "title": "De 10 siste fra Abels Tårn",
             "season": None,
-            "enabled": False,
+            "enabled": True,
         },
         {
             "id": "berrum_beyer_snakker_om_greier",
@@ -30,10 +30,6 @@ def test_update_podcasts_config():
         "berrum_beyer_snakker_om_greier" : {
             "seriesId": "berrum_beyer_snakker_om_greier",
             "title": "De 10 siste fra Foo og Bar",
-        },
-        "snoefall" : {
-            "seriesId": "snoefall",
-            "title": "De 10 siste fra snoefall",
         },
         "dagsnytt_atten" : {
             "seriesId": "dagsnytt_atten",
