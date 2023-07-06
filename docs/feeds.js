@@ -69,7 +69,9 @@ const feeds = [
     "id": "bingen",
     "title": "De 10 siste fra Bingen – historier fra bygda",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "bjoernen_lyver",
@@ -733,6 +735,7 @@ const feeds = [
     "title": "De 10 siste fra Nokke for seg sjøl",
     "season": null,
     "enabled": false,
+    "ignore": true,
     "hidden": true
   },
   {
@@ -761,7 +764,9 @@ const feeds = [
     "id": "nyhetsblanding",
     "title": "De 10 siste fra Nyhetsblanding",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "nyhetsmorgen",
@@ -781,7 +786,9 @@ const feeds = [
     "id": "odaspodda",
     "title": "De 10 siste fra Ođaspodda",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "oppdatert",
@@ -1031,7 +1038,9 @@ const feeds = [
     "id": "sos_noedtelefonen",
     "title": "De 10 siste fra SOS Nødtelefonen",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "spraakteigen",
@@ -1277,9 +1286,11 @@ const feeds = [
   },
   {
     "id": "xl_podkasten",
-    "title": "De 10 siste fra XL - podkasten",
+    "title": "De 10 siste fra XL – podkasten",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "yeblikket",
