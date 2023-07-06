@@ -9,7 +9,7 @@ Publishes RSS feeds with the last 10 episodes of every configured podcast, witho
 **Go to [this page](https://sindrel.github.io/nrk-pod-feeds) for a list of available feeds.**
 
 ### Discovery  
-New podcasts are discovered automatically.  
+New podcasts are discovered automatically. Changes are listed [here](DISCOVERY.md).  
 
 ### Archived feeds  
 Some additional feeds include all episodes, such as Radioresepsjonen, Tazte Priv, etc.  
