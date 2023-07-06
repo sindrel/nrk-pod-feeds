@@ -1,4 +1,5 @@
 import logging
+import os
 
 from discover_feeds import *
 
@@ -38,8 +39,10 @@ def test_update_podcasts_config():
     }
 
     updated, changes = update_podcasts_config(configured, discovered)
-    helpers.write_podcasts_changelog("tests/DISCOVERY.md", datetime.now(), changes)
     logging.debug(updated)
+
+    os.makedirs("tests/", exist_ok=True)
+    helpers.write_podcasts_changelog("tests/DISCOVERY.md", datetime.now(), changes)
     
     added = False
     for feed in updated:
