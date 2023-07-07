@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten I det lange løp. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_det_lange_loep for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 30 Jun 2023 04:31:01 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 09:26:31 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw.jpg"/>
+    <item>
+      <title>Varmetrening</title>
+      <description><![CDATA[Professor Bent Rønnestad har forsket på varmetrening og funnet at jevnlig trening i varme over en periode kan ha like god effekt som høydetrening.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/290fdb30-4c45-4fff-949e-e1ce1edb13a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/290fdb30-4c45-4fff-949e-e1ce1edb13a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:53:40</itunes:duration>
+      <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8bPdaSmUmchjnvfWT3ux0wcRmF8RM3d9Rp3aGFIHheDA.jpg"/>
+    </item>
     <item>
       <title>Supertreneren og hans utøvere</title>
       <description><![CDATA[Suksesstreneren Dathan Ritzenhein er sjef i On Athletics Club som er et av verdens mest fremgangsrike og spennende treningsmiljøer akkurat nå.  ]]></description>
@@ -95,15 +104,6 @@ Kristian og Jann sliter fortsatt med sykdom, men prøver å få opp humøret med
       <itunes:duration>02:39:32</itunes:duration>
       <pubDate>Fri, 05 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/O4UmUogTnJQf0ddviZLqHQspV3SK9n0fhekq9jvkU9Yw.jpg"/>
-    </item>
-    <item>
-      <title>Det beste fra Storbritannia</title>
-      <description><![CDATA[Liz McColgan tok VM-medalje i terrengløp kun fire måneder etter fødsel og nå trener hun datteren Eilish som er en av verdens beste løpere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0ab997b9-540b-44ad-9be9-8198e460335e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0ab997b9-540b-44ad-9be9-8198e460335e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:30:41</itunes:duration>
-      <pubDate>Fri, 28 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0r7chGatZJsr59AtI0O8VAOTctprIQpnrjzbc-MpKxNA.jpg"/>
     </item>
   </channel>
 </rss>
