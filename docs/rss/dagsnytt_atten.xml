@@ -6,11 +6,32 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Dagsnytt 18. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/dagsnytt_atten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Jul 2023 18:33:04 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jul 2023 19:30:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 12:49:50 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jul 2023 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Norwegian kjøper Widerøe, vil forby måkemating og Nato-møte med Sverige og Tyrkia</title>
+      <description><![CDATA[En stor dag for forbrukerne og for norsk luftfart, sa Norwegian, som vil kjøpe Widerøe 
+Åpenbart ikke så bra - verken for konkurransen eller prisene, mener NRKs kommentator 
+
+Høyre trikser med budsjettene og kommer lett unna med det, hevder SV 
+Mens Høyre mener SV ikke leser budsjettene deres grundig nok. 
+
+Svenskene håper fortsatt på Nato-medlemskap før sommeren 
+Nå vil et flertall ha forbud mot koranbrenning 
+
+Måker stjeler mat fra småbarn og plager folk på torget i Trøndelag 
+Fylkesordfører vil gi bot til dem som gir måkene mat 
+
+I studio Lilla Sølhusvik]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/88c9fc2e-0fb0-4ee1-9685-71678a662618_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/88c9fc2e-0fb0-4ee1-9685-71678a662618_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 06 Jul 2023 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bw2f4mxB867yNimi4XfsKQEgmQao06O1XqMankuWWipQ.jpg"/>
+    </item>
     <item>
       <title>Nye søknader om koranbrenning i Sverige, publisering av Moxnes- video skaper debatt og vil ikke skrote vennskap med russisk by.</title>
       <description><![CDATA[Høyres valgløfte er å gjøre hva de kan for å holde skatter og avgifter nede.
@@ -166,20 +187,6 @@ som møter rasende stortingsrepresentant i debatt.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 23 Jun 2023 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YAGyrQp0HyQwB8bfqXJ78AzB2OVCBad-Y-q-1pZ-rW9w.jpg"/>
-    </item>
-    <item>
-      <title>Dobbel renteheving og kritikk av LO, tredje juridisk kjønn er utredet, dyrt leiemarked i hovedstaden</title>
-      <description><![CDATA[Renta skal opp, opp, opp, sier Norges Bank. Et ubegripelig og aggressivt rentekappløp, tordner LO om dagens renteheving.
-
-Det blir dyrere for alle med boliglån - men også for dem som må leie bolig. 
-- Situasjonen er helt håpløs og verre skal det bli, sier Norges Eiendomsmeglerforbund.
-
-Utredningen om et tredje juridisk kjønn er klar. Men vi bør ikke innføre den, advarer Krf.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d070bcc9-589d-4a7c-8f91-b6641765cdad_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d070bcc9-589d-4a7c-8f91-b6641765cdad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:08</itunes:duration>
-      <pubDate>Thu, 22 Jun 2023 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JhEQtz5x7h0sxxpnS8cDJwJVJPdcTJF9unjgJS76pgYA.jpg"/>
     </item>
   </channel>
 </rss>
