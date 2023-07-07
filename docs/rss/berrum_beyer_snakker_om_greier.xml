@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Berrum &amp; Beyer snakker om greier. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 04 Jul 2023 04:32:34 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Jul 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 08:31:47 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Summerhauset sombrero vol 2: Viking og lynsjing</title>
+      <description><![CDATA[Ma, Pa og Mabbro har tatt med seg Rossman på hyttetur til Nesodden. Det blir preik om vikingtiden, lynsjekultur og litt ellevilt gitarspill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b8beb501-da93-40d8-8636-5a63193bb181_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b8beb501-da93-40d8-8636-5a63193bb181_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:33</itunes:duration>
+      <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4jp7_-6nh_OrYXXS37NuTAKAy4F5rUJA20fhzWsppprQ.jpg"/>
+    </item>
     <item>
       <title>Loco Pedo, nei takk det holder og dasskø</title>
       <description><![CDATA[Lars har fått råd om hvit singlet. Martin er ferdig med å stå opp tidlig. Sammen diskuterer du fenomenet dass kø. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>55:17</itunes:duration>
       <pubDate>Tue, 06 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
-    </item>
-    <item>
-      <title>Wolfgang Wee: Kostholdsgame og bratwurst</title>
-      <description><![CDATA[Podkaster Wolfgang Wee er dagens gjest. Det blir preik om kjøttspising, kanseleringskultur, festivalen i Cannes og et gammelt samarbeid. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/29fb98d6-6eb4-44ab-bf9f-78fbd0d65ec0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/29fb98d6-6eb4-44ab-bf9f-78fbd0d65ec0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:21</itunes:duration>
-      <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3Ux8VLm8RZZXyr6OPoHh6wTjpsHM3NI73alZijrxgRLw.jpg"/>
     </item>
   </channel>
 </rss>

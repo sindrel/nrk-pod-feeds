@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Sommer i P2. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sommer_i_p2 for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 04:33:12 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jul 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 08:32:16 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Tormod Løkling</title>
+      <description><![CDATA[Fra gutterommet til million-sukess. En av ildsjelene forteller fra innsiden av norsk tegneseriehistorie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/6c53219e-b698-49c2-9103-07763103de53_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/6c53219e-b698-49c2-9103-07763103de53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:09</itunes:duration>
+      <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6ttt16X3Rq4yF3P4xYjpAQDSMjVuMCB4LdhNgh994iBg.jpg"/>
+    </item>
     <item>
       <title>Gustav Magnar Witzøe</title>
       <description><![CDATA[Kofferten var pakket. Leiligheten i Sveits sto klar. Så tenkte laksearvingen seg om en siste gang.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>37:39</itunes:duration>
       <pubDate>Mon, 26 Jun 2023 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VGelqgaDCig0CnxS5MePqQ5CfC65wdTU3-yYXn0x1vXA.jpg"/>
-    </item>
-    <item>
-      <title>Terje Strat</title>
-      <description><![CDATA[Han ble såret i strid, men skadene var ikke av det synlige slaget. Det tok han 13 år på siden av samfunnet før han fant veien tilbake.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/08c77587-4ac7-4f83-8200-cc481b38a1ed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/08c77587-4ac7-4f83-8200-cc481b38a1ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:06</itunes:duration>
-      <pubDate>Mon, 26 Jun 2023 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nODXdBejqvZGHReUCPOd5gowgGwbUWbEBK0qeQEhOcqA.jpg"/>
     </item>
   </channel>
 </rss>

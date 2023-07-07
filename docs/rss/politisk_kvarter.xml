@@ -6,11 +6,22 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Politisk kvarter. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/politisk_kvarter for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 06:34:37 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jul 2023 08:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 08:32:12 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2023 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
+    <item>
+      <title>Sommerkvarteret 2023: Bil mot sykkel</title>
+      <description><![CDATA[I et nabolag i Oslo, på Torshov foregår en innbitt kamp for å beholde parkeringsplasser som byrådet vil fjerne.
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/bb8c2873-f456-44e1-bb77-d4e4bb92d6ae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/bb8c2873-f456-44e1-bb77-d4e4bb92d6ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:19</itunes:duration>
+      <pubDate>Fri, 07 Jul 2023 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XzZUNmcFJ7SVRZxqVLsP8AUnf_wLxqN_E5QCS9GEmPbA.jpg"/>
+    </item>
     <item>
       <title>Sommerkvarteret 2023: Kampen om strandlinja</title>
       <description><![CDATA[Vi dukker ned i millionkonflikter i fjæra i Vestfold og Færder kommune. Kanskje det mest attraktive hytteområde for ferierende Oslo-folk. Kan man skattlegge dem? Kan boplikt være løsningen?]]></description>
@@ -100,15 +111,6 @@ Ifølge programmet vil INP melde Norge ut av EØS og Paris-avtalen. De kaller se
       <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/31e854da-691a-4065-bb00-f92352587f3e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:21</itunes:duration>
       <pubDate>Mon, 26 Jun 2023 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
-    </item>
-    <item>
-      <title>Rentesjokk og dyrtid. Arbeiderpartiet oppsummerer det politiske halvåret</title>
-      <description><![CDATA[Renta når nye høyder og dyrtida fortsetter. Med 80 dager igjen til valget er det fortsatt motbør på målingene. Hvordan skal Arbeiderpartiet snu trenden?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/0ac0e35f-fb9e-4074-9d19-922e62f45b20_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/0ac0e35f-fb9e-4074-9d19-922e62f45b20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:27</itunes:duration>
-      <pubDate>Fri, 23 Jun 2023 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
     </item>
   </channel>

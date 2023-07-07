@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Feriestemning. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/feriestemning for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 04:33:02 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jul 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 08:31:55 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2023 10:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
+    <item>
+      <title>Maria Kjos Fonn og Kari Slaatsveen</title>
+      <description><![CDATA[Antisommerimage med sprekker, feige helter og drama på fest]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/feriestemning/09f4c4b6-9017-431c-9ee4-a4ed7f7ab2a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/09f4c4b6-9017-431c-9ee4-a4ed7f7ab2a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:29</itunes:duration>
+      <pubDate>Fri, 07 Jul 2023 10:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
+    </item>
     <item>
       <title>Thomas Numme og Ronny Brede Aase</title>
       <description><![CDATA[Rosévin saboterte håndballkarrieren, hva du IKKE skal gjøre med barna i sommer og intimkonsert med Coldplay]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/feriestemning/59ca2295-13d2-4e14-b3c0-8b528c7e806c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:12:34</itunes:duration>
       <pubDate>Wed, 28 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
-    </item>
-    <item>
-      <title>Metteson og Mari Garås Monsson</title>
-      <description><![CDATA[Kjærlighet er en livsoppgave. Sverre kom ut av skapet i et telt, nå har han livet første kjæreste. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/feriestemning/8edddab6-c576-48c7-b2c8-7dedcfef6d8a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/feriestemning/8edddab6-c576-48c7-b2c8-7dedcfef6d8a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:28:29</itunes:duration>
-      <pubDate>Tue, 27 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
     </item>
   </channel>

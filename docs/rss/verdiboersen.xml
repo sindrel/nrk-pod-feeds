@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Verdibørsen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/verdiboersen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 30 Jun 2023 04:31:15 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 08:32:29 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Brevet fra en døende far</title>
+      <description><![CDATA[Boka «Gilead» viser deg hvor mirakuløst livet er.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/85da782b-bca3-4716-8cb4-156d53774004_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/85da782b-bca3-4716-8cb4-156d53774004_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:46</itunes:duration>
+      <pubDate>Fri, 07 Jul 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    </item>
     <item>
       <title>En sann historie om viljestyrke</title>
       <description><![CDATA[Boka om Helen Keller forteller oss at det umulige er mulig. ]]></description>
@@ -92,19 +101,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/db0d49d0-f5ea-4a01-950a-ad6f8f2bac94_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>17:03</itunes:duration>
       <pubDate>Sun, 28 May 2023 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
-    </item>
-    <item>
-      <title> Skal Stalins soldater æres?</title>
-      <description><![CDATA[Stalins soldater var en hær av voldtektsmenn, men fikk enorme minnesmerker i Berlin. I dag er disse hyppig brukt av Putins tilhengere. 
-
-
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/17602587-8f4c-47f6-b3d5-e21800a2a3ae_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/17602587-8f4c-47f6-b3d5-e21800a2a3ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:44</itunes:duration>
-      <pubDate>Sat, 27 May 2023 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
     </item>
   </channel>

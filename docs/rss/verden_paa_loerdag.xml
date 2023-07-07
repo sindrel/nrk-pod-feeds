@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Urix. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/verden_paa_loerdag for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 01 Jul 2023 11:22:19 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Jul 2023 12:40:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 08:32:26 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Krigen i Ukraina: Putins dårlige hjelpere</title>
+      <description><![CDATA[Starten på storskalainvasjonen av Ukraina ble en katastrofe for russerne. I forkant av angrepet hadde president Vladimir Putin fått en stor mengde feilinformasjon. Hvorfor skjedde dette, og skjer det fortsatt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/68f8dfc7-779b-4e90-a6e9-9c73c44e1568_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/68f8dfc7-779b-4e90-a6e9-9c73c44e1568_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:23</itunes:duration>
+      <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j9R3dEVl28MlBoc6yMpJZghqh29pGngu7J4BBXzapb7g.jpg"/>
+    </item>
     <item>
       <title>Putin ber russerne om å lage flere barn.</title>
       <description><![CDATA[Russlands folketall går ned. Derfor ber Putin russiske kvinner om å føde flere barn.
@@ -96,15 +105,6 @@ Etter at den internasjonale straffedomstolen utstedte arrestordre på Putin, har
       <itunes:duration>57:09</itunes:duration>
       <pubDate>Sat, 03 Jun 2023 11:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jhgFyJrFvB0vr1Oy7PynUA3eOWttUNDC0ODlyCaxsgpQ.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: Hva nå, Jens?</title>
-      <description><![CDATA[Russlands angrep på Ukraina har ført til at Jens Stoltenberg ennå ikke har fått gå av som NATOs generalsekretær. Men hva har krigen gjort med ham? Og hva skal Jens Stoltenberg gjøre nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/45369120-140d-4ec7-ba55-7cabeba00324_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/45369120-140d-4ec7-ba55-7cabeba00324_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:58</itunes:duration>
-      <pubDate>Thu, 01 Jun 2023 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KGj666AHuzBO60ZaRNLSTA4X1ikqETLT4jJgXuiPsddQ.jpg"/>
     </item>
   </channel>
 </rss>

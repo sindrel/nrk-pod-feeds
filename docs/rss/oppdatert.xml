@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Jul 2023 04:33:25 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jul 2023 05:59:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 08:32:09 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2023 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/q2KQ7Moyue9ANLOwimqC9ADISYTWtS3wsjIruI7GuZzA.jpg"/>
+    <item>
+      <title>Levis: Da Norge skapte motehistorie (REPRISE)</title>
+      <description><![CDATA[Den ikoniske olabuksa Levi's 501 er atter en gang supertrendy. Men få kjenner til historien om hvordan det måtte en norsk trendsetter, et britisk punkrockeband og en hel rekke tilfeldigheter til før buksemodellen slo an i Europa. Musiker Thor Greni forteller hvordan Levis Norge måtte trosse mektige sjefer i London for å få buksene til landet. Reprise fra september 2022. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/056221ae-38c5-40e4-98d9-000bdc0860c7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/056221ae-38c5-40e4-98d9-000bdc0860c7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:46</itunes:duration>
+      <pubDate>Fri, 07 Jul 2023 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DyekVPnZxYkFwV4J43GlqAVbYw-DfrfU47oj1ZjPenwA.jpg"/>
+    </item>
     <item>
       <title>Hollywood-drap: Manson-medlem kan slippe fri</title>
       <description><![CDATA[Etter 54 år i fengsel, kan en av USAs mest kjente kriminelle bli prøveløslatt. Leslie van Houten (73) var et sentralt medlem av Manson-sekten som begikk grusomme drap i Hollywood på slutten av 60-tallet. Den beryktede sekten rystet ikke bare filmbyen, de skrev seg også inn i den amerikanske historiens mørkeste kapitler. Hvem var egentlig denne sekten, og hvordan fikk de da 19 år gamle Leslie Van Houten til å drepe?]]></description>
@@ -91,17 +100,6 @@
       <itunes:duration>15:20</itunes:duration>
       <pubDate>Thu, 22 Jun 2023 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/olVWPoY4hqoYf47M5EQxJQDrj6iiEFSG1xbZjqt9jDZA.jpg"/>
-    </item>
-    <item>
-      <title>Slik vil presidentkandidaten kneble Disney</title>
-      <description><![CDATA[I over ett år har det pågått en helt spesiell krangel i USA - mellom en presidentkandidat og verdens største fornøyelsespark. For Disney World har blitt dratt inn i et politisk maktspill. Hva er det Disney har gjort for å få Ron DeSantis på nakken?
-
-Gjest: Ole Reinert Omvik]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/328c5007-7c93-4f6e-b24c-e2360f9475e2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/328c5007-7c93-4f6e-b24c-e2360f9475e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:58</itunes:duration>
-      <pubDate>Wed, 21 Jun 2023 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/f6ZrbRAquV2xUw3ybkndKQ2ssIXMOExPwM4ZwSdqroDg.jpg"/>
     </item>
   </channel>
 </rss>

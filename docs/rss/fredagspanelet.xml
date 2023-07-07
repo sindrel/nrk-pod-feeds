@@ -6,13 +6,27 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Fredagspanelet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fredagspanelet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 07:26:23 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Jun 2023 09:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 07 Jul 2023 08:31:58 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2023 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     <item>
-      <title>Fredagspanelet 23.06.2023</title>
+      <title>07.07.2023 Fredagspanelet</title>
+      <description><![CDATA[Ukens Fredagspanel består av:
+Produsent i Aftenposten Jonas Brenna
+Mina Adampour, lege, skribent og en av stemmene i podkasten "Ha det bra" 
+Bjørgulv Vinje Borgundvaag, samfunnskontakt i Forleggerforeningen og styreleder i Norsk musikkråd
+
+Aksjonsformer, konsertarenaer og sakte-TV skal opp som tema.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/eb415f0b-338f-4e9c-995e-b88f95c70f4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/eb415f0b-338f-4e9c-995e-b88f95c70f4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:22</itunes:duration>
+      <pubDate>Fri, 07 Jul 2023 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>23.06.2023 Fredagspanelet</title>
       <description><![CDATA[Dagens panel består av Egon Holstad (kommentator i avisa iTromsø), Ida Evita de Leon (samfunnsdebattant) og Ahmed Fawad Ashraf (debattredaktør og kommentator i Avisa Oslo). De diskuterer kostholdsråd, terningkast og mediedekningen av ubåten Titan.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/660dd484-d7e9-4261-b2f6-2191feede119_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/660dd484-d7e9-4261-b2f6-2191feede119_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -158,20 +172,6 @@ Andreas B. Johansen, korist og retoriker
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/7ccc09bf-f18f-4ac6-901d-eed9f070595a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>14:32</itunes:duration>
       <pubDate>Fri, 21 Apr 2023 09:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
-    </item>
-    <item>
-      <title>14.04.2023 Fredagspanelet</title>
-      <description><![CDATA[Bør populære musikaler kun være forbeholdt kommersielle teaterscener? I kategorien for "Årets låt" på Spellemann er det bare menn som er nominert i år. Har ikke likestillingen i bransjen kommet ETT skritt videre de siste årene? Bør alle kjendiser, musikere, skuespillere og influensere her i landet følge Swarzeneggers eksempel og tette ett asfalthull hver?
-
-Dagens panel består av:
-Ingrid Lorentzen, ballettsjef ved Den Norske Opera & Ballett
-Mina Adampour, lege, skribent og en av stemmene i ganske nye podkasten "Ha det bra"
-Audun Molde, førstelektor i musikk ved Høyskolen Kristiania]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/9d789633-1275-4336-aa89-14c16400dc25_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/9d789633-1275-4336-aa89-14c16400dc25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:40</itunes:duration>
-      <pubDate>Fri, 14 Apr 2023 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>
