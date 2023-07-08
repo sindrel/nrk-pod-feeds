@@ -6,11 +6,23 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ukeslutt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ukeslutt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 01 Jul 2023 12:46:58 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Jul 2023 14:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 08 Jul 2023 13:28:49 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Jul 2023 14:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q.jpg"/>
+    <item>
+      <title>08.07.2023 Ukeslutt </title>
+      <description><![CDATA[Orknøyene vil bli en del av norge - men visste du at vi kunne vært en liten del av Italia? På 60-tallet dro fylkestopper fra Finnmark på biltur for å kjøpe feriekoloni til soltørste nordlendinger - I Ukeslutt skal du få høre hvorfor den drømmen brast.
+De siste årene har frivillighetsnorge fått seg en knekk - på grunn av  en viss pandemi. Men - det er lys i enden av tunellen,
+25 år gamle Ingrid ofrer ferie for å være frivillig.
+Europa koker- med nye varmerekorder daglig – og  mange frykter dette kan føre til store og ødeleggende skogbranner. Vi skal møte Synnøve, som har fått en litt annerledes sommerjobb, for som den eneste fra Norge, skal hun være med på å koordinere all brannberedskap i hele Europa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/f1ff77b3-1603-452f-9676-cdb180558197_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/f1ff77b3-1603-452f-9676-cdb180558197_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:07</itunes:duration>
+      <pubDate>Sat, 08 Jul 2023 14:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q.jpg"/>
+    </item>
     <item>
       <title>01.07.2023 Ukeslutt</title>
       <description><![CDATA[Har kampen for å beskytte de minste mot reklame spilt falitt i internettalderen? Youtubestjernene Logan Paul og KSI kom til Norge i privatjet og skapte kaos blant barna da de lanserte sin energidrikk. 
@@ -126,15 +138,6 @@ Ekteskapet. Det er dit sexlivet drar for å dø.  For hvilket håp er det vel fo
       <enclosure url="https://podkast.nrk.no/fil/ukeslutt/056fdd76-59e9-4886-8a16-2d6f135b1139_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>59:21</itunes:duration>
       <pubDate>Sat, 06 May 2023 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q.jpg"/>
-    </item>
-    <item>
-      <title>29.04.2023 Ukeslutt</title>
-      <description><![CDATA[Fremskrittspartiet 50 år, valgkamp i Idrettsforbundet, politivold og Freya tilbake igjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/4462e04f-c511-41da-8278-dfcb0d0989a3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/4462e04f-c511-41da-8278-dfcb0d0989a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:06:25</itunes:duration>
-      <pubDate>Sat, 29 Apr 2023 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q.jpg"/>
     </item>
   </channel>
