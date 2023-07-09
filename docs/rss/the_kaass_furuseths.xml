@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten The Kåss Furuseths. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/the_kaass_furuseths for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 04:30:16 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Jul 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sun, 09 Jul 2023 04:30:56 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Jenny Huse</title>
+      <description><![CDATA[Jenny Huse forteller åpent om mobbing, ambisjoner og om veien mot å bli mangemilliardær når Else besøker henne hjemme hos foreldrene sine.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/cd41973d-442c-4d87-a7c6-769b6edf9ce7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/cd41973d-442c-4d87-a7c6-769b6edf9ce7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:18</itunes:duration>
+      <pubDate>Sun, 09 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jjhxj07Z8-cAqp7sq-YtXg0xoZ2Al67hXzQAbJt6YqmQ.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Rasmus Wold</title>
       <description><![CDATA[Komiker Rasmus Wold har fått seg kjæreste! Bli med inn i den fargerike leiligheten hans og hør hvilken gave han fikk av henne på første date. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>42:40</itunes:duration>
       <pubDate>Wed, 17 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/crsapoftqAwpI9I67n_s_QLBF8l38dHgq5bSo9kqUS6w.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Kjartan Lauritzen</title>
-      <description><![CDATA[Kjartan Lauritzen og hele vennegjengen fra Balestrand møter Else i Oslo. De snakker om alt som kan gå galt på fest, hva som skjer når man leker «hard to get», og om å drive hotell med familien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/8f11bbcb-2f6d-4552-8fec-03419409c151_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/8f11bbcb-2f6d-4552-8fec-03419409c151_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:49</itunes:duration>
-      <pubDate>Sun, 14 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/k2n8jjpngBeKTNmIDMjSzAtirsdvYHHZ4YoyLEr_jHJw.jpg"/>
     </item>
   </channel>
 </rss>

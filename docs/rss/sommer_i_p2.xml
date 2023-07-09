@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 04:31:03 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 09 Jul 2023 04:30:53 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Odd Drevland</title>
+      <description><![CDATA[Kjendisadvokaten forfalsket en god venns underskrift og havnet i fengsel. Hvordan kunne det gå så galt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/fdddb32d-684c-472d-9c4d-4e95ac6907d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/fdddb32d-684c-472d-9c4d-4e95ac6907d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:56</itunes:duration>
+      <pubDate>Sun, 09 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cllkgUM6gZKWcOae2caEGgAwJjJ0zqUoEfLs0suFNxvg.jpg"/>
+    </item>
     <item>
       <title>Nora Savosnick</title>
       <description><![CDATA[Bombene falt over Ukraina. Skulle hun reise dit - kun bevæpnet med et kamera?  ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>34:57</itunes:duration>
       <pubDate>Mon, 26 Jun 2023 06:04:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6VBqwLMjbURwUG5u__f41gC6wCwWwbT3WTbSVkBsRt6A.jpg"/>
-    </item>
-    <item>
-      <title>Tuva Fellman</title>
-      <description><![CDATA[Tuva Fellman åpner opp om det beste og verste i livet: venting.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e4f4a442-721e-4901-b7fb-9f14ab266b22_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e4f4a442-721e-4901-b7fb-9f14ab266b22_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:00</itunes:duration>
-      <pubDate>Mon, 26 Jun 2023 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9f3rrIYarJTVL3dU4PvJTAnbjAslUa9pQOUnApFAcaRw.jpg"/>
     </item>
   </channel>
 </rss>
