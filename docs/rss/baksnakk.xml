@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Baksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baksnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 04 Jul 2023 04:32:32 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Jul 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 11 Jul 2023 04:31:31 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA.jpg"/>
+    <item>
+      <title>«Ville du reddet meg eller Emma Ellingsen?»</title>
+      <description><![CDATA[Zara er i sin identitetskrise-era, og Milie har laget kjendis-gåter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/9761f373-98fd-46a0-85b8-0900348fab28_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/9761f373-98fd-46a0-85b8-0900348fab28_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:49</itunes:duration>
+      <pubDate>Tue, 11 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA.jpg"/>
+    </item>
     <item>
       <title>«Jeg fikk melding av eksen!»</title>
       <description><![CDATA[Hva gjør man når man mistenker at noen er gravid? Kristoffer Torpe er vikar i dagens episode.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/185f7289-ef90-4d61-a92f-0971d0f1b484_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:48</itunes:duration>
       <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA.jpg"/>
-    </item>
-    <item>
-      <title>Zara og William har møtt en ekte Keegasus</title>
-      <description><![CDATA[The man, the myth, the legend - politiet har tvitret om Keegasus selv!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/982a0273-018f-4469-885c-a81eb9371716_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/982a0273-018f-4469-885c-a81eb9371716_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:42</itunes:duration>
-      <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA.jpg"/>
     </item>
   </channel>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 10 Jul 2023 04:32:01 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Jul 2023 06:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Jul 2023 04:31:49 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Tarjei Jensen Bech</title>
+      <description><![CDATA[Han ble skutt på Utøya og overlevde 30 operasjoner. Så kom hatmeldingene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0f4d68a0-3db3-40c7-bfd7-91f222e98053_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0f4d68a0-3db3-40c7-bfd7-91f222e98053_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:43</itunes:duration>
+      <pubDate>Tue, 11 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/S4Oo8ZtkDB5BUW-lR4wT9gEUPZ6vYDyD-RvLeP41xLRw.jpg"/>
+    </item>
     <item>
       <title>Danby Choi </title>
       <description><![CDATA[- Det er uendelig mye diggere å bare være ærlig. Derfor trives redaktøren dårlig med korrekthet og klamme rammer. 
@@ -93,15 +102,6 @@
       <itunes:duration>38:53</itunes:duration>
       <pubDate>Mon, 26 Jun 2023 06:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HSl_HrIZGHAQTNvpCdZhpwj-JF_9IAtbJg7WXLiAWE_Q.jpg"/>
-    </item>
-    <item>
-      <title>Sofie Frøysaa</title>
-      <description><![CDATA[Sofie Frøysaa forteller om oppvekst, homofobi og reisen fra Bibelbeltet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/c805346d-75e0-4bd9-aef9-e27d7c966188_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/c805346d-75e0-4bd9-aef9-e27d7c966188_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:50</itunes:duration>
-      <pubDate>Mon, 26 Jun 2023 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XoB8yW_LqVvERnzF4IKKFw5nn9xCDyLZqZrE9JHN3JGg.jpg"/>
     </item>
   </channel>
 </rss>
