@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Jul 2023 04:31:49 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Jul 2023 04:31:36 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Adam Schjølberg</title>
+      <description><![CDATA[Med en svulst i hodet var det bare ett sted Adam skulle: til New Zealand.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/df730202-fcff-4463-8a58-9bafb95bb4d7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/df730202-fcff-4463-8a58-9bafb95bb4d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:07</itunes:duration>
+      <pubDate>Wed, 12 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1O-DaJnpxDOM0YZEejiTlAdL7TKV8Wehl4atYx9yJ7FQ.jpg"/>
+    </item>
     <item>
       <title>Tarjei Jensen Bech</title>
       <description><![CDATA[Han ble skutt på Utøya og overlevde 30 operasjoner. Så kom hatmeldingene.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>36:02</itunes:duration>
       <pubDate>Mon, 03 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/inAShcjpsKY7gqKX4hsXSQ2oil4Cm2lOGeY1L7tmvkZw.jpg"/>
-    </item>
-    <item>
-      <title>Marianne Bratteli</title>
-      <description><![CDATA[Farens brutale krigshistorie formet henne som kunstner. Tidligere statsminister Trygve Bratteli var fange i natt og tåke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/c4db140b-87dc-4ed4-8ae3-2324bc2c0b79_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/c4db140b-87dc-4ed4-8ae3-2324bc2c0b79_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:53</itunes:duration>
-      <pubDate>Mon, 26 Jun 2023 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HSl_HrIZGHAQTNvpCdZhpwj-JF_9IAtbJg7WXLiAWE_Q.jpg"/>
     </item>
   </channel>
 </rss>
