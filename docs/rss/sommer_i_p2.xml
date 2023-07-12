@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Jul 2023 04:31:36 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Jul 2023 11:23:43 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Jul 2023 12:46:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Kristin Harila</title>
+      <description><![CDATA[Kristin på 1,59 bestiger verdens 14 høyeste fjell på rekordtid. Slik ble hun inspirert til den historiske styrkeprøven.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/1bc4605e-dc93-40a8-8102-4bdeb8b0c75b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/1bc4605e-dc93-40a8-8102-4bdeb8b0c75b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:05</itunes:duration>
+      <pubDate>Wed, 12 Jul 2023 12:46:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NDFrHCpjwnqrkDWN2J9yxwQlCgEjCdVAI0N6rGqfRZOg.jpg"/>
+    </item>
     <item>
       <title>Adam Schjølberg</title>
       <description><![CDATA[Med en svulst i hodet var det bare ett sted Adam skulle: til New Zealand.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>36:37</itunes:duration>
       <pubDate>Tue, 04 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pzwJH7pL6w8jmUbrvPo9FAopywoA0F2NmTieTzQzHF1Q.jpg"/>
-    </item>
-    <item>
-      <title>Asgeir Borgemoen</title>
-      <description><![CDATA[Fra gjøgler i Tsjekkia til premierer i Cannes. Dette er sjefen over alle sjefer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/f31dd816-d047-42fa-b3fe-e39be03e1455_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/f31dd816-d047-42fa-b3fe-e39be03e1455_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:02</itunes:duration>
-      <pubDate>Mon, 03 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/inAShcjpsKY7gqKX4hsXSQ2oil4Cm2lOGeY1L7tmvkZw.jpg"/>
     </item>
   </channel>
 </rss>
