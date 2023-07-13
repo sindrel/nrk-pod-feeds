@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 14:31:37 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jul 2023 16:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Jul 2023 14:29:46 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Jul 2023 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>Ferske sommertips: Sky Showtime</title>
+      <description><![CDATA[Sigurd og Ingvill gir deg deilige serietips til late sommerdager.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/263f62a1-6afc-45f6-8b55-359b31508991_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/263f62a1-6afc-45f6-8b55-359b31508991_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:40</itunes:duration>
+      <pubDate>Thu, 13 Jul 2023 16:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>Ferske sommertips: Viaplay</title>
       <description><![CDATA[Sigurd og Ingvill gir deg deilige serietips til late sommerdager.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/255e3e4f-dd61-4538-bd6a-4b3a8f220494_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:11</itunes:duration>
       <pubDate>Thu, 04 May 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
-    </item>
-    <item>
-      <title>Heia Norge i Hollywood </title>
-      <description><![CDATA[Storserien «Succession» fråtser i norsk luksus. Vi tar på oss lusekoften og hyller - ganske ukritisk - de gangene Hollywood har bydd på et lite stykke Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/95a4eb3a-4e99-4de1-9207-2069e48d235d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/95a4eb3a-4e99-4de1-9207-2069e48d235d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:43</itunes:duration>
-      <pubDate>Thu, 27 Apr 2023 16:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
     </item>
   </channel>
