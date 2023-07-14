@@ -6,11 +6,65 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Eventyrstund med Morten og Saft. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 08:30:24 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Jun 2023 06:06:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 14 Jul 2023 04:31:27 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jul 2023 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
+    <item>
+      <title> Smørbukk</title>
+      <description><![CDATA[Når Smørbukk blir tatt av en trollkjerring,  må han være både smart og lur for å komme seg hjem igjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/18dd1d1d-4b12-420d-85a4-99aa48f45ffe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/18dd1d1d-4b12-420d-85a4-99aa48f45ffe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:27</itunes:duration>
+      <pubDate>Fri, 14 Jul 2023 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
+    </item>
+    <item>
+      <title>Herreper</title>
+      <description><![CDATA[Katten blir til en magisk hjelper i dette eventyret.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/590e52f1-b73e-4e6f-8364-98ab3f845731_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/590e52f1-b73e-4e6f-8364-98ab3f845731_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:16</itunes:duration>
+      <pubDate>Fri, 14 Jul 2023 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
+    </item>
+    <item>
+      <title>Reven og Bjørnen</title>
+      <description><![CDATA[Bjørnen blir nesten alltid lurt av reven. Men av og til byttes rollene om.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/255b2584-1ee4-4962-92b3-8284a7b3099c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/255b2584-1ee4-4962-92b3-8284a7b3099c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:24</itunes:duration>
+      <pubDate>Fri, 14 Jul 2023 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
+    </item>
+    <item>
+      <title>Gudbrand i Lia</title>
+      <description><![CDATA[Kona er alltid fornøyd, hun. Og det lønner seg for både henne og mannen til slutt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/f4859d96-8f4a-4020-8ab6-73adb44c8794_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/f4859d96-8f4a-4020-8ab6-73adb44c8794_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:56</itunes:duration>
+      <pubDate>Fri, 14 Jul 2023 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
+    </item>
+    <item>
+      <title> Kvernen som står og maler på havets bunn</title>
+      <description><![CDATA[Mannen  bytter en skinke mot en magisk kvern.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/a116cf69-892a-445a-a1ac-8cef6072df6d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/a116cf69-892a-445a-a1ac-8cef6072df6d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:49</itunes:duration>
+      <pubDate>Fri, 14 Jul 2023 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
+    </item>
+    <item>
+      <title>Askeladden som kappåt med trollet</title>
+      <description><![CDATA[Trollet blir lurt i spisekonkurranse med Askeladden]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/10345872-dc75-43a6-9d11-6d881b28a727_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/10345872-dc75-43a6-9d11-6d881b28a727_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:41</itunes:duration>
+      <pubDate>Fri, 14 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
+    </item>
     <item>
       <title>Gutten som gjorde seg om til løve, falk og maur</title>
       <description><![CDATA[Ved hjelp av magi gjør vår helt seg om til enten løve, falk eller maur. Og det blir til god hjelp når han redder prinsessa fra trollet.]]></description>
@@ -45,60 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/7254fd03-8afd-40e4-8d35-f5c41ea1a52b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>17:18</itunes:duration>
       <pubDate>Fri, 16 Jun 2023 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
-    </item>
-    <item>
-      <title>Tommeliten</title>
-      <description><![CDATA[Prinsessa er uvøren mens hun spiser. Og det får katastrofale følger for bittelille Tommeliten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/9ca43564-6356-4468-a585-3fbf85643309_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/9ca43564-6356-4468-a585-3fbf85643309_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:07</itunes:duration>
-      <pubDate>Fri, 16 Jun 2023 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
-    </item>
-    <item>
-      <title>Husmusa og fjellmusa</title>
-      <description><![CDATA[Hvem lever egentlig best? Den frie, men fattige fjellmusa? Eller er det bymusa som jo har bedre mat, men som lever i samme hus som en katt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/2a5579c9-cd28-4024-99f1-44587d8d3c57_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/2a5579c9-cd28-4024-99f1-44587d8d3c57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:26</itunes:duration>
-      <pubDate>Fri, 16 Jun 2023 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
-    </item>
-    <item>
-      <title>Herremannsbrura</title>
-      <description><![CDATA[Den overlegne rikingen blir lurt. Bruden han har mast seg til blir nemlig bytta ut med en hest.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/bf0d7119-935f-4a10-b729-251b3ad93caa_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/bf0d7119-935f-4a10-b729-251b3ad93caa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:43</itunes:duration>
-      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
-    </item>
-    <item>
-      <title>Gutten som gikk til nordavinden og krevde igjen melet</title>
-      <description><![CDATA[Nordavinden blåser bort melet. I stedet får gutten fantastiske og magiske gaver.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/ce7b925b-e32c-425f-ac64-6a3aab827ee4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/ce7b925b-e32c-425f-ac64-6a3aab827ee4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:18</itunes:duration>
-      <pubDate>Fri, 31 Mar 2023 06:09:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
-    </item>
-    <item>
-      <title>Ikke naken og ikke kledt</title>
-      <description><![CDATA[Ved hjelp av oppfinnsomhet sørger jenta for at prinsen må gifte seg med henne, selv om han først sa nei.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/1acf02bf-ca7a-4fb5-9556-81696aca7325_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/1acf02bf-ca7a-4fb5-9556-81696aca7325_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:59</itunes:duration>
-      <pubDate>Fri, 31 Mar 2023 06:08:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
-    </item>
-    <item>
-      <title>Manndattera og kjerringdattera</title>
-      <description><![CDATA[Manndattera både lytter til råd og er vennlig mot dem hun møter. Det viser seg å være lønnsomt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/00a3802d-e7f0-4912-bc62-a47c5590a2e3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/00a3802d-e7f0-4912-bc62-a47c5590a2e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:16</itunes:duration>
-      <pubDate>Fri, 31 Mar 2023 06:07:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg.jpg"/>
     </item>
   </channel>

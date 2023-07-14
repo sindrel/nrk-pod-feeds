@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Jul 2023 11:23:43 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Jul 2023 12:46:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Jul 2023 04:31:42 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Inga Strümke</title>
+      <description><![CDATA[Kunstig intelligens er her. Hva skjer når maskinene blir smartere enn oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/4adbe747-309a-47cf-ad8f-2cf974daae56_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/4adbe747-309a-47cf-ad8f-2cf974daae56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:16</itunes:duration>
+      <pubDate>Fri, 14 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/znRztsiS63yLgNoWyVfPPARllh3kbI-iUYRUtzNlH_Lw.jpg"/>
+    </item>
     <item>
       <title>Kristin Harila</title>
       <description><![CDATA[Kristin på 1,59 bestiger verdens 14 høyeste fjell på rekordtid. Slik ble hun inspirert til den historiske styrkeprøven.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>28:48</itunes:duration>
       <pubDate>Wed, 05 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5Y4GW1DP1CgN0kEeJuZoeAASL5y_UhzcMgopIRg7X-UA.jpg"/>
-    </item>
-    <item>
-      <title>Michelle Ullestad</title>
-      <description><![CDATA[Michelle begynte å skrive låter etter å ha vært innlagt på psykiatrisk sykehus.  I musikken følte hun seg fri]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5463fdef-a19d-4d40-b32b-1be09ab270b2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5463fdef-a19d-4d40-b32b-1be09ab270b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:37</itunes:duration>
-      <pubDate>Tue, 04 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pzwJH7pL6w8jmUbrvPo9FAopywoA0F2NmTieTzQzHF1Q.jpg"/>
     </item>
   </channel>
 </rss>
