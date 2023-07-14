@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 06:32:53 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Jul 2023 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Jul 2023 06:33:17 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jul 2023 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
+    <item>
+      <title>Sommerkvarter 2023: De som dropper valget</title>
+      <description><![CDATA[ I noen valgkretser dropper over halvparten å stemme i kommunevalget. Hvem er de? Hva skyldes det? Og hva skal man gjøre med det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/c869cb35-57e6-4441-9f75-68aeab392b82_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/c869cb35-57e6-4441-9f75-68aeab392b82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:24</itunes:duration>
+      <pubDate>Fri, 14 Jul 2023 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
+    </item>
     <item>
       <title>Sommerkvarter 2023: 20 år og ordfører?</title>
       <description><![CDATA[20 år gamle Aklestad forsøker å bli ordfører i Fjord kommune. For ung? For uerfaren?]]></description>
@@ -101,17 +110,6 @@
       <itunes:duration>14:58</itunes:duration>
       <pubDate>Mon, 03 Jul 2023 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
-    </item>
-    <item>
-      <title>Erna Solberg før ferien</title>
-      <description><![CDATA[Mens statsministeren håndterer den ene krisen etter den andre, drar Erna Solberg fra festival til festival i sommer-Norge.
-
-Men før Høyre-lederen (og Politisk kvarter) tar ferie, svarer hun om habilitet og samarbeid, om skolepolitikk og mulige saker hvor de kan være enige med regjeringen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/df054b37-a444-45ae-bf31-eaedce0df66f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/df054b37-a444-45ae-bf31-eaedce0df66f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:16</itunes:duration>
-      <pubDate>Fri, 30 Jun 2023 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RiYPF-PTFz2Kr8FfFk7gSgdUsmIceuJ8StolR4QqhwwQ.jpg"/>
     </item>
   </channel>
 </rss>
