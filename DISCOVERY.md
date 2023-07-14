@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-07-14  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2023-07-08  
 - Updated podcast 'Heia Fotball' (`heia_fotball`)  
 ### 2023-07-06  
