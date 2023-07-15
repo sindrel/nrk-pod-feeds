@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 14 Jul 2023 04:31:42 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 15 Jul 2023 04:31:10 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Jannicke Wiese-Hansen</title>
+      <description><![CDATA[Folk står flere år i kø for å bli tatovert av Jannicke. Den norrøne stilen definerte norsk svartmetall helt fra starten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3024ed9e-93c5-4637-bde2-d17b22efc692_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3024ed9e-93c5-4637-bde2-d17b22efc692_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:20</itunes:duration>
+      <pubDate>Sat, 15 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LNf5VFNPasSlb8IJoHpMqAz6lw3pSFyLoocj2obgbjBQ.jpg"/>
+    </item>
     <item>
       <title>Inga Strümke</title>
       <description><![CDATA[Kunstig intelligens er her. Hva skjer når maskinene blir smartere enn oss?]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>31:16</itunes:duration>
       <pubDate>Thu, 06 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/45o7NTfNGtMaFNwpEaeMug9czx8O-qfOsVVKmkZnE28w.jpg"/>
-    </item>
-    <item>
-      <title>Javad El Bakali</title>
-      <description><![CDATA[Som seksåring ble Javad truffet av en bil. Hele barndommen trodde alle at han var hjerneskadet - inkludert han selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0fcfc32a-f8cd-4ef2-a510-af501bce5b10_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0fcfc32a-f8cd-4ef2-a510-af501bce5b10_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:48</itunes:duration>
-      <pubDate>Wed, 05 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5Y4GW1DP1CgN0kEeJuZoeAASL5y_UhzcMgopIRg7X-UA.jpg"/>
     </item>
   </channel>
 </rss>
