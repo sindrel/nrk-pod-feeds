@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-07-15  
+- Updated podcast 'Etikketaten' (`etikketaten`)  
+- Updated podcast 'Utakt' (`utakt`)  
 ### 2023-07-14  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2023-07-08  
