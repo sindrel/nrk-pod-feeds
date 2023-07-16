@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-07-16  
+- Updated podcast 'Språksnakk' (`spraakteigen`)  
 ### 2023-07-15  
 - Updated podcast 'Etikketaten' (`etikketaten`)  
 - Updated podcast 'Utakt' (`utakt`)  
