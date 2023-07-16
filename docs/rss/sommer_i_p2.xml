@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 15 Jul 2023 04:31:10 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 16 Jul 2023 04:30:39 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Dora Thorhallsdottir</title>
+      <description><![CDATA[Endelig traff hun mannen i sitt liv. Så kom sjokket. Blir det bryllup eller begravelse i sommer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/dff12365-7d38-419f-ac47-dd304abeb61b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/dff12365-7d38-419f-ac47-dd304abeb61b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:02</itunes:duration>
+      <pubDate>Sun, 16 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mt_sZpSUZA9ZQ4M8QDmhnAWdJuVmr3mEzAvU6t-H3Ycg.jpg"/>
+    </item>
     <item>
       <title>Jannicke Wiese-Hansen</title>
       <description><![CDATA[Folk står flere år i kø for å bli tatovert av Jannicke. Den norrøne stilen definerte norsk svartmetall helt fra starten.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>42:09</itunes:duration>
       <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6ttt16X3Rq4yF3P4xYjpAQDSMjVuMCB4LdhNgh994iBg.jpg"/>
-    </item>
-    <item>
-      <title>Gustav Magnar Witzøe</title>
-      <description><![CDATA[Kofferten var pakket. Leiligheten i Sveits sto klar. Så tenkte laksearvingen seg om en siste gang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/de4801fb-af3a-49bf-8efc-831551c4ae43_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/de4801fb-af3a-49bf-8efc-831551c4ae43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:16</itunes:duration>
-      <pubDate>Thu, 06 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/45o7NTfNGtMaFNwpEaeMug9czx8O-qfOsVVKmkZnE28w.jpg"/>
     </item>
   </channel>
 </rss>
