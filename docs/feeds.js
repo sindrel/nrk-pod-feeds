@@ -1046,7 +1046,7 @@ const feeds = [
     "id": "spraakteigen",
     "title": "De 10 siste fra Språksnakk",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "staale_utslagsnes_fra_loensj",
