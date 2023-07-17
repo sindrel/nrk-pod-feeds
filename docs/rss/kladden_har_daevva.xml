@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 10 Jul 2023 04:31:54 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Jul 2023 04:31:52 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Dævva spesial: Markus Neby</title>
+      <description><![CDATA[Hvor mange avlivingssprøyter kan en liten, men litt for stor kropp tåle da? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/e2b0e9a8-3225-4588-be61-6679629848d0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e2b0e9a8-3225-4588-be61-6679629848d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:39</itunes:duration>
+      <pubDate>Mon, 17 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ub5A1vF0AemQBuCvlv9BeQh1TMw_naPNMc-NdoMeQl9A.jpg"/>
+    </item>
     <item>
       <title>Dævva spesial: Henrik Farley</title>
       <description><![CDATA[Hvor lang tid tar det å tilgi familievennen som nesten lot ham drukne? ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>42:21</itunes:duration>
       <pubDate>Mon, 15 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GEE0nnPi7me5OuMEBac6eA6y9fWjcRwsovV7V4PrVWew.jpg"/>
-    </item>
-    <item>
-      <title>Ronny Brede Aase, levegutt og livsrealist</title>
-      <description><![CDATA[Finnes det et mørke selv i en av Norges gladeste menn? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/9a5cb0c0-47c6-434e-a8cf-6d736d694cdb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/9a5cb0c0-47c6-434e-a8cf-6d736d694cdb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:03</itunes:duration>
-      <pubDate>Mon, 08 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aiSJ-WrFpXaroYJ7JDCRRAhrSpyxpWTlwQj21TWK7mOg.jpg"/>
     </item>
   </channel>
 </rss>
