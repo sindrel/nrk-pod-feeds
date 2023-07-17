@@ -231,7 +231,7 @@ const feeds = [
     "id": "fantorangens_vitseshow",
     "title": "De 10 siste fra Fantorangens vitseshow",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "feriestemning",
@@ -742,7 +742,7 @@ const feeds = [
     "id": "norsken_svensken_og_dansken",
     "title": "De 10 siste fra Norsken, svensken og dansken",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "nrkbeta",
