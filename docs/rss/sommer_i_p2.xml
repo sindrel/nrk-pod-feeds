@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 17 Jul 2023 04:32:07 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Jul 2023 04:29:58 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Rigoberto Villarroel</title>
+      <description><![CDATA[Han fikk en pil i ryggen på Kongsberg. Men hvordan lever politimannen med å skulle være en helt?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0ba6af9d-0428-4fe9-bf2a-e986789bd7a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0ba6af9d-0428-4fe9-bf2a-e986789bd7a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:51</itunes:duration>
+      <pubDate>Tue, 18 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZcK8Q6iav9_ZJFhdHG3jtAhmgqLekk32LejNEdATu2AQ.jpg"/>
+    </item>
     <item>
       <title>Else Kåss Furuseth </title>
       <description><![CDATA[Dessverre sier hun ja altfor ofte. Hvordan skal Else lære seg å si nei?]]></description>
@@ -93,15 +103,6 @@
       <itunes:duration>42:56</itunes:duration>
       <pubDate>Sun, 09 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/cllkgUM6gZKWcOae2caEGgAwJjJ0zqUoEfLs0suFNxvg.jpg"/>
-    </item>
-    <item>
-      <title>Nora Savosnick</title>
-      <description><![CDATA[Bombene falt over Ukraina. Skulle hun reise dit - kun bevæpnet med et kamera?  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/47c3d51a-4a19-4754-9692-5faa9f1a3c8d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/47c3d51a-4a19-4754-9692-5faa9f1a3c8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:37</itunes:duration>
-      <pubDate>Sat, 08 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oZCeASBywixSBxmGlOOb9g5L1816TdyDlFq4nYlrMnvg.jpg"/>
     </item>
   </channel>
 </rss>
