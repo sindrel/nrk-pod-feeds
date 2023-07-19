@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 18 Jul 2023 04:29:58 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Jul 2023 04:33:01 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Oline Sæther </title>
+      <description><![CDATA[Utbrente studenter, respektløse forelesere og en uønsket minister. Lederen i Norsk studentorganisasjon har nok utfordringer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/91ebeaff-bd76-4e0d-b54b-aa03aa919d33_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/91ebeaff-bd76-4e0d-b54b-aa03aa919d33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:22</itunes:duration>
+      <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_IP_tjkjgg8J517MaOf3ngLjDASY8gd-4FcImuCI1WuA.jpg"/>
+    </item>
     <item>
       <title>Rigoberto Villarroel</title>
       <description><![CDATA[Han fikk en pil i ryggen på Kongsberg. Men hvordan lever politimannen med å skulle være en helt?
@@ -94,15 +103,6 @@
       <itunes:duration>32:34</itunes:duration>
       <pubDate>Mon, 10 Jul 2023 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Zsm0TWt3Dld0dqfCZpoZkws804flgCLAmgPhkOIdLIIw.jpg"/>
-    </item>
-    <item>
-      <title>Odd Drevland</title>
-      <description><![CDATA[Kjendisadvokaten forfalsket en god venns underskrift og havnet i fengsel. Hvordan kunne det gå så galt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/fdddb32d-684c-472d-9c4d-4e95ac6907d3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/fdddb32d-684c-472d-9c4d-4e95ac6907d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:56</itunes:duration>
-      <pubDate>Sun, 09 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cllkgUM6gZKWcOae2caEGgAwJjJ0zqUoEfLs0suFNxvg.jpg"/>
     </item>
   </channel>
 </rss>
