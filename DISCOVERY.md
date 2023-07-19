@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-07-19  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2023-07-17  
 - Updated podcast 'Fantorangens vitseshow' (`fantorangens_vitseshow`)  
 - Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
