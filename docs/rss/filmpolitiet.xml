@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 14:29:46 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Jul 2023 16:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2023 14:27:40 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jul 2023 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>Ferske sommertips: Disney+ </title>
+      <description><![CDATA[Sigurd og Ingvill gir deg deilige serietips til late sommerdager.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/4fdcac21-741a-4ac4-af4a-80f3fd3c9de1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/4fdcac21-741a-4ac4-af4a-80f3fd3c9de1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:43</itunes:duration>
+      <pubDate>Thu, 20 Jul 2023 16:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>Ferske sommertips: Sky Showtime</title>
       <description><![CDATA[Sigurd og Ingvill gir deg deilige serietips til late sommerdager.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/5fc3fe3f-f0a0-4106-9b91-a63f5ce99f1d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:02:32</itunes:duration>
       <pubDate>Thu, 11 May 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
-    </item>
-    <item>
-      <title>Det beste og verste fra Star Wars</title>
-      <description><![CDATA[May the 4th be with you! Hvor kommer uttrykket fra? Og hvor godt har Birger Vestmo egentlig likt de siste 24 årenes Star Wars-filmer?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/255e3e4f-dd61-4538-bd6a-4b3a8f220494_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/255e3e4f-dd61-4538-bd6a-4b3a8f220494_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:11</itunes:duration>
-      <pubDate>Thu, 04 May 2023 16:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
     </item>
   </channel>
