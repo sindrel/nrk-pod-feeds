@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Jul 2023 04:33:01 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2023 04:28:41 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Berat Jusufi</title>
+      <description><![CDATA[Barne-raneren som ville jobbe på NAV. Berat fra "Krigere" ser sin egen tøffe historie i alle som trenger hjelp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/045a1dc5-fb6e-4d75-a750-8031b0286cf2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/045a1dc5-fb6e-4d75-a750-8031b0286cf2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:13</itunes:duration>
+      <pubDate>Thu, 20 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q-EhTWKHq4xn5jhosKSuaAnx4ciBYMBjaQQ-P6vCGljg.jpg"/>
+    </item>
     <item>
       <title>Oline Sæther </title>
       <description><![CDATA[Utbrente studenter, respektløse forelesere og en uønsket minister. Lederen i Norsk studentorganisasjon har nok utfordringer.]]></description>
@@ -92,17 +101,6 @@
       <itunes:duration>35:43</itunes:duration>
       <pubDate>Tue, 11 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/S4Oo8ZtkDB5BUW-lR4wT9gEUPZ6vYDyD-RvLeP41xLRw.jpg"/>
-    </item>
-    <item>
-      <title>Danby Choi </title>
-      <description><![CDATA[- Det er uendelig mye diggere å bare være ærlig. Derfor trives redaktøren dårlig med korrekthet og klamme rammer. 
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/85e2235c-72ce-44c3-80ff-95b0fd5a86b6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/85e2235c-72ce-44c3-80ff-95b0fd5a86b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:34</itunes:duration>
-      <pubDate>Mon, 10 Jul 2023 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Zsm0TWt3Dld0dqfCZpoZkws804flgCLAmgPhkOIdLIIw.jpg"/>
     </item>
   </channel>
 </rss>

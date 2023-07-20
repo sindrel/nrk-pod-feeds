@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Jul 2023 04:32:40 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2023 04:28:24 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
+    <item>
+      <title>Hanne Ørstavik og Kåre Magnus Bergh </title>
+      <description><![CDATA[Eksistensiell sveis, om å miste noen og den første sommeren uten frykt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/feriestemning/38784579-0e2e-438c-bf45-f85d76a3f3f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/38784579-0e2e-438c-bf45-f85d76a3f3f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:20:11</itunes:duration>
+      <pubDate>Thu, 20 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
+    </item>
     <item>
       <title>Matoma og Ida Nysæter Rasch </title>
       <description><![CDATA[Hakuna Matoma, store følelser og fort moped]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/feriestemning/c7cf052c-b028-4538-92eb-fa539d87ac7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:00:57</itunes:duration>
       <pubDate>Tue, 11 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
-    </item>
-    <item>
-      <title>Vår Staude og Ida Nysæter Rasch</title>
-      <description><![CDATA[Ungdomsopprør på Blitz, 1000 toalettmapper og motbakker]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/feriestemning/0e2c44b9-e488-49a5-8141-b014fdfe52e7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/feriestemning/0e2c44b9-e488-49a5-8141-b014fdfe52e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:26</itunes:duration>
-      <pubDate>Mon, 10 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw.jpg"/>
     </item>
   </channel>
