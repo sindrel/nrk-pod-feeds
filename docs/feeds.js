@@ -341,7 +341,7 @@ const feeds = [
     "id": "haevvi",
     "title": "De 10 siste fra Hævvi",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "heia_fotball",
