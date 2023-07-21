@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 18 Jul 2023 04:29:37 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Jul 2023 04:28:00 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Summerhauset sombrero vol 2: Grilling av Soo</title>
+      <description><![CDATA[Ole Soo er dagens sommergjest på hytta. Da blir det snakk om krigsskip, bæsj i sjøen, Kaptein sabeltann og vi får ny info om Mabbro. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/9d46e0ac-8e0e-463a-8b96-7ff18290918c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/9d46e0ac-8e0e-463a-8b96-7ff18290918c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/of8JfU_AJK_Ephvoc3bJfAUCEWhunGpp9i0BXO16qtzw.jpg"/>
+    </item>
     <item>
       <title>Tårta, lukte glede og vanrett på bøljan blå</title>
       <description><![CDATA[Lars har møtt to sommerlegender. Martin er ferdig med å surfe. Sammen diskuterer de når noen blir mann/kvinne og ikke gutt/jente. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:08:34</itunes:duration>
       <pubDate>Tue, 20 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
-    </item>
-    <item>
-      <title>Marlene Stavrum: Mobbing og solotraveling </title>
-      <description><![CDATA[Komiker Marlene Stavrum er dagens gjest. Det blir preik om solotraveling, vokse opp på lite sted, mobbing ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/821ebb62-94d0-4c43-b50d-1768898eb7b9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/821ebb62-94d0-4c43-b50d-1768898eb7b9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:05</itunes:duration>
-      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/U0ypF4g_PfT_BWqiB8vyTAnYkQAS9S41G_pbL2rUlV-Q.jpg"/>
     </item>
   </channel>
 </rss>

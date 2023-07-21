@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 20 Jul 2023 04:28:41 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Jul 2023 04:28:20 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Åse Wetås</title>
+      <description><![CDATA[Var språket vårt bedre før? Språkdirektøren ser på myter om det norske språket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/449c0079-2a17-4533-b62f-bc8c15994130_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/449c0079-2a17-4533-b62f-bc8c15994130_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:56</itunes:duration>
+      <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/baFrG7rgmEHpmIPZd-JTHQwnKjPwFvqs-4KS1To_e-hg.jpg"/>
+    </item>
     <item>
       <title>Berat Jusufi</title>
       <description><![CDATA[Barne-raneren som ville jobbe på NAV. Berat fra "Krigere" ser sin egen tøffe historie i alle som trenger hjelp.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>36:07</itunes:duration>
       <pubDate>Wed, 12 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1O-DaJnpxDOM0YZEejiTlAdL7TKV8Wehl4atYx9yJ7FQ.jpg"/>
-    </item>
-    <item>
-      <title>Tarjei Jensen Bech</title>
-      <description><![CDATA[Han ble skutt på Utøya og overlevde 30 operasjoner. Så kom hatmeldingene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0f4d68a0-3db3-40c7-bfd7-91f222e98053_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0f4d68a0-3db3-40c7-bfd7-91f222e98053_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:43</itunes:duration>
-      <pubDate>Tue, 11 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/S4Oo8ZtkDB5BUW-lR4wT9gEUPZ6vYDyD-RvLeP41xLRw.jpg"/>
     </item>
   </channel>
 </rss>
