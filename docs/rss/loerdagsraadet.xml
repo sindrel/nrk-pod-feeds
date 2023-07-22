@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Jul 2023 04:32:51 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Jul 2023 07:22:13 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Jul 2023 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Anne Lindmo / Ronny Brede Aase / Jonis Josef</title>
+      <description><![CDATA[Anne Lindmo / Ronny Brede Aase / Jonis Josef - Live fra Sentrum Scene]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/a968e3e6-427f-4570-9082-52e02fc42466_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/a968e3e6-427f-4570-9082-52e02fc42466_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:06</itunes:duration>
+      <pubDate>Sat, 22 Jul 2023 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kRd1OS26tnA92NEzEom3egM852u0Fryf3t4sqZL_gCQw.jpg"/>
+    </item>
     <item>
       <title>Nordnes / Mehidi / Engebø / Mamow / Blomvik / Dr. Jones</title>
       <description><![CDATA[Siste del av tømmer innboksen! Nordnes / Mehidi / Engebø / Mamow / Blomvik / Dr. Jones!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:09:56</itunes:duration>
       <pubDate>Sat, 17 Jun 2023 13:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/T1MwH3WG-SvGAYcs4t8dZwnQjCvCcpJAiQHeKC0WV0fQ.jpg"/>
-    </item>
-    <item>
-      <title>Solveig Kloppen / Niklas Baarli / Martha Leivestad</title>
-      <description><![CDATA[Er eksen til Sofie fortsatt på laget? PROBLEMER: Kaotisk kjærlighet på en ryddig plen / Hjelp, kjæresten min er dramaqueen / Når to i gjengen utestenger resten / Kristenkonservativ på kontoret / Pølsepromp / Av-invitere venn fra ferietur / Uventet vending på backpacking / Drømmer om exen (bokstavelig talt) / Hjelp, jeg har fått valp i gave / Er det nå det skal skje?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/bfb83268-c931-47db-ad8c-608fe1a4f8b7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/bfb83268-c931-47db-ad8c-608fe1a4f8b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:13:02</itunes:duration>
-      <pubDate>Sat, 10 Jun 2023 13:12:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LASg-W3OYTGbSwb4Mkk5Mw5uESW0fgjoU2YSyZk1r3zw.jpg"/>
     </item>
   </channel>
 </rss>
