@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 21 Jul 2023 04:28:20 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Jul 2023 04:27:42 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Oda Okkenhaug</title>
+      <description><![CDATA[13 år gammel leste Oda grusomme vitneavhør i jakten på brorens siste sekunder på Utøya.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/d60e2ba7-1a85-432d-8424-4d3b1419cc83_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/d60e2ba7-1a85-432d-8424-4d3b1419cc83_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:01</itunes:duration>
+      <pubDate>Sat, 22 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iig5xSLwg7rSX0cqVGddJAgOur7pQR9zkcBCOt1bxtiA.jpg"/>
+    </item>
     <item>
       <title>Åse Wetås</title>
       <description><![CDATA[Var språket vårt bedre før? Språkdirektøren ser på myter om det norske språket.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>32:05</itunes:duration>
       <pubDate>Wed, 12 Jul 2023 12:46:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NDFrHCpjwnqrkDWN2J9yxwQlCgEjCdVAI0N6rGqfRZOg.jpg"/>
-    </item>
-    <item>
-      <title>Adam Schjølberg</title>
-      <description><![CDATA[Med en svulst i hodet var det bare ett sted Adam skulle: til New Zealand.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/df730202-fcff-4463-8a58-9bafb95bb4d7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/df730202-fcff-4463-8a58-9bafb95bb4d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:07</itunes:duration>
-      <pubDate>Wed, 12 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1O-DaJnpxDOM0YZEejiTlAdL7TKV8Wehl4atYx9yJ7FQ.jpg"/>
     </item>
   </channel>
 </rss>

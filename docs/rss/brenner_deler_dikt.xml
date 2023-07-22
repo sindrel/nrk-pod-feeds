@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 15 Jul 2023 04:30:49 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Jul 2023 04:27:29 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/r3WrsnfKyOZAfbNtiGT60QVs6Uw0pJMF0JuZunO3N1CA.jpg"/>
+    <item>
+      <title>Sissel Gran: Menneskelivet er så skjørt</title>
+      <description><![CDATA[Finnes det noe bedre enn å sitte på kjøkkentrammen en slørblå sommerkveld? Sissel Gran er lei av klager over hvor fort tiden går og har tatt med et dikt om å være tilstede sammen.
+Ukas dikt er "Junikveld" av Hans Børli
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/45909a7a-434d-48e9-b45b-7a5ac3d6423a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/45909a7a-434d-48e9-b45b-7a5ac3d6423a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:20</itunes:duration>
+      <pubDate>Sat, 22 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZuEY6viWnPHs891mDxQ94QQqOO7j9bIygPuyYqfQzW6w.jpg"/>
+    </item>
     <item>
       <title>Sissel Gran: Elsker sommeren i Oslo</title>
       <description><![CDATA[Når det er sommer vil Sissel Gran bare være hjemme blant epletrær og fuglesang og gå gatelangs i den feriestille byen. 
@@ -110,17 +121,6 @@ Ukas dikt er "Til ungdommen" av Nordahl Grieg ]]></description>
       <itunes:duration>15:39</itunes:duration>
       <pubDate>Sat, 20 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ccnwqjiSRLnNU7Zg2LGCkw0cYAGFZtyJSt5pTSl3Cwyw.jpg"/>
-    </item>
-    <item>
-      <title>Leo Ajkic: De voksnes råskap</title>
-      <description><![CDATA[Vonde barndomsminner dukker opp når programleder og artistmanager Leo Ajkic får høre et klassisk dikt av Jens Bjørneboe, som harselerer over de voksnes klokskap. 
-
-Ukas dikt er "Ungdommens råskap" av Jens Bjørneboe]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/47366292-8302-4395-87ba-cc0bd030b16a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/47366292-8302-4395-87ba-cc0bd030b16a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:41</itunes:duration>
-      <pubDate>Sat, 13 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mbQhQu5hlIgKPxN7byyeuw83ZvYn8zr70iGVLrHaHh_Q.jpg"/>
     </item>
   </channel>
 </rss>
