@@ -816,7 +816,7 @@ const feeds = [
     "id": "p3morgen",
     "title": "De 10 siste fra P3morgen",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "paalogga",
@@ -1090,7 +1090,7 @@ const feeds = [
     "id": "studio_2",
     "title": "De 10 siste fra Studio 2",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "supernytt",
