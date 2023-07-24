@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 23 Jul 2023 04:27:40 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Jul 2023 04:28:48 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Jul 2023 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Kristin Skogen Lund</title>
+      <description><![CDATA[Faren opplevde umenneskelig tortur i nazistenes fangenskap. Stolt forteller Schibsted-direktøren hans utrolige historie.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/c71dabc5-5d2d-4c76-a47e-a66224450e25_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/c71dabc5-5d2d-4c76-a47e-a66224450e25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:51</itunes:duration>
+      <pubDate>Mon, 24 Jul 2023 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CQtY4VivsvUBbM0CoLrB9gAXiIYfd5LPT8-k8aRXRAuQ.jpg"/>
+    </item>
     <item>
       <title>Tarjei Strøm </title>
       <description><![CDATA[Bli med til Terjes barndom og hans utrolige 80-tallsrom.]]></description>
@@ -92,15 +102,6 @@
       <itunes:duration>35:20</itunes:duration>
       <pubDate>Sat, 15 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LNf5VFNPasSlb8IJoHpMqAz6lw3pSFyLoocj2obgbjBQ.jpg"/>
-    </item>
-    <item>
-      <title>Inga Strümke</title>
-      <description><![CDATA[Kunstig intelligens er her. Hva skjer når maskinene blir smartere enn oss?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/4adbe747-309a-47cf-ad8f-2cf974daae56_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/4adbe747-309a-47cf-ad8f-2cf974daae56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:16</itunes:duration>
-      <pubDate>Fri, 14 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/znRztsiS63yLgNoWyVfPPARllh3kbI-iUYRUtzNlH_Lw.jpg"/>
     </item>
   </channel>
 </rss>
