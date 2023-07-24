@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-07-24  
+- Updated podcast 'P3morgen' (`p3morgen`)  
+- Updated podcast 'Studio 2' (`studio_2`)  
 ### 2023-07-23  
 - Updated podcast 'Drivkraft' (`drivkraft`)  
 ### 2023-07-20  
