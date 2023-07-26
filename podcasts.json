@@ -299,7 +299,9 @@
         "id": "god_bedring",
         "title": "De 10 siste fra God bedring",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "god_natt",

@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-07-26  
+- Podcast 'God bedring' is considered obsolete and will be ignored in the future (`god_bedring`)  
 ### 2023-07-24  
 - Updated podcast 'P3morgen' (`p3morgen`)  
 - Updated podcast 'Studio 2' (`studio_2`)  
