@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 26 Jul 2023 04:27:12 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Jul 2023 04:27:44 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Terje Lohndal</title>
+      <description><![CDATA[Norges yngste professor ble latterliggjort fordi han spurte for mye.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e0ec96f8-7486-40fd-a227-f59dd96fc2bf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e0ec96f8-7486-40fd-a227-f59dd96fc2bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:06</itunes:duration>
+      <pubDate>Fri, 28 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cnh5tQQuBbE6Dapqep-gLAghyLumdlCwyI65DOJpyCyw.jpg"/>
+    </item>
     <item>
       <title>Anita Sundby</title>
       <description><![CDATA[Hun fikk sparken, men klarte ikke å innrømme det. I et halvt år lot Anita som om hun gikk på jobb hver morgen.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>35:00</itunes:duration>
       <pubDate>Mon, 17 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uJRf81DW21fqO6yiaOgqGQJR5jSP7iZxJlbbjoKi_hqQ.jpg"/>
-    </item>
-    <item>
-      <title>Dora Thorhallsdottir</title>
-      <description><![CDATA[Endelig traff hun mannen i sitt liv. Så kom sjokket. Blir det bryllup eller begravelse i sommer?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/dff12365-7d38-419f-ac47-dd304abeb61b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/dff12365-7d38-419f-ac47-dd304abeb61b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:02</itunes:duration>
-      <pubDate>Sun, 16 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mt_sZpSUZA9ZQ4M8QDmhnAWdJuVmr3mEzAvU6t-H3Ycg.jpg"/>
     </item>
   </channel>
 </rss>
