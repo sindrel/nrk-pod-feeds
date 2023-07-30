@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 23 Jul 2023 04:27:43 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 30 Jul 2023 04:26:26 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Henrik Farley</title>
+      <description><![CDATA[Else og Henrik diskuterer trening med hjelm, våpen og hvordan man kan holde seriemorder-praten gående på Tinder. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/922b7fc1-ac50-42f2-8c06-a026023c69fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/922b7fc1-ac50-42f2-8c06-a026023c69fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:23</itunes:duration>
+      <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v0IugiqMHvvyBog-H2TCKwkQ4Td_t7YNqP3s7FVC1qoQ.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Live Nelvik </title>
       <description><![CDATA[Live Nelvik snakker om ligging etter trening, en smittsom bøttehatt og de beste trekkopplekene når Else kommer på besøk. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>44:10</itunes:duration>
       <pubDate>Sun, 28 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/L3cKHD3DlqS5c6Rc0OtLpgFrC4fj8PQneN-RB1Lz9Msw.jpg"/>
-    </item>
-    <item>
-      <title>Helsespesial: Spørsmålsrunde</title>
-      <description><![CDATA[Seksjonsoverlegen og ernæringsfysiologen svarer på spørsmål fra publikum om bl.a. slankemedisin, kostholdsråd og trender. Se "Helsekost Furuseth" i NRK TV! ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/e13e3467-9214-42cc-9bb6-a4788d899f4e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e13e3467-9214-42cc-9bb6-a4788d899f4e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:59</itunes:duration>
-      <pubDate>Wed, 24 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9dHOO6jFo_LPCva643eGUwUpK66SIbhyrnJUlkstdRFA.jpg"/>
     </item>
   </channel>
 </rss>

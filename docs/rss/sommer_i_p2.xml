@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 29 Jul 2023 04:26:52 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 30 Jul 2023 04:26:24 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Frank Jørstad</title>
+      <description><![CDATA[- Kvenene var Det usynlige folket. Jeg er stolt, men også trist over vår historie, sier teatersjefen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/9199d7db-6227-4990-a74a-e3eb41008e4b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/9199d7db-6227-4990-a74a-e3eb41008e4b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:54</itunes:duration>
+      <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lim5Ewudsc7Vy9_hOAIQegVrRM8b5l9jo5pqHx_stFOQ.jpg"/>
+    </item>
     <item>
       <title>Bjøro Håland</title>
       <description><![CDATA[Alt startet med drømmen om Amerika. Norges største køntriartist fyller 80.]]></description>
@@ -92,16 +101,6 @@
       <itunes:duration>32:22</itunes:duration>
       <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_IP_tjkjgg8J517MaOf3ngLjDASY8gd-4FcImuCI1WuA.jpg"/>
-    </item>
-    <item>
-      <title>Rigoberto Villarroel</title>
-      <description><![CDATA[Han fikk en pil i ryggen på Kongsberg. Men hvordan lever politimannen med å skulle være en helt?
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0ba6af9d-0428-4fe9-bf2a-e986789bd7a9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0ba6af9d-0428-4fe9-bf2a-e986789bd7a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:51</itunes:duration>
-      <pubDate>Tue, 18 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZcK8Q6iav9_ZJFhdHG3jtAhmgqLekk32LejNEdATu2AQ.jpg"/>
     </item>
   </channel>
 </rss>
