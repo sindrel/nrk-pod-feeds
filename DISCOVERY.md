@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-07-30  
+- Updated podcast 'Kommentert' (`kommentert`)  
 ### 2023-07-29  
 - Updated podcast 'Musikkrommet' (`musikkrommet`)  
 ### 2023-07-26  
