@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 30 Jul 2023 04:26:24 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2023 04:28:09 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Stig-André Berge</title>
+      <description><![CDATA[Nedturene på matta har vært mange. Sorgene i livet store. Bryteren deler om de vanskeligste valgene han har tatt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/4e8db0db-774a-4e0e-bfa4-a03fc9bd2230_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/4e8db0db-774a-4e0e-bfa4-a03fc9bd2230_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:37</itunes:duration>
+      <pubDate>Mon, 31 Jul 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vMO4uSeMV-Htol-dqJWwcwZifEpvoagbTtUhEmseeMEA.jpg"/>
+    </item>
     <item>
       <title>Frank Jørstad</title>
       <description><![CDATA[- Kvenene var Det usynlige folket. Jeg er stolt, men også trist over vår historie, sier teatersjefen. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>34:13</itunes:duration>
       <pubDate>Thu, 20 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/q-EhTWKHq4xn5jhosKSuaAnx4ciBYMBjaQQ-P6vCGljg.jpg"/>
-    </item>
-    <item>
-      <title>Oline Sæther </title>
-      <description><![CDATA[Utbrente studenter, respektløse forelesere og en uønsket minister. Lederen i Norsk studentorganisasjon har nok utfordringer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/91ebeaff-bd76-4e0d-b54b-aa03aa919d33_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/91ebeaff-bd76-4e0d-b54b-aa03aa919d33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:22</itunes:duration>
-      <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_IP_tjkjgg8J517MaOf3ngLjDASY8gd-4FcImuCI1WuA.jpg"/>
     </item>
   </channel>
 </rss>
