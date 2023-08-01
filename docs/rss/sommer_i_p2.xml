@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 31 Jul 2023 04:28:09 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Aug 2023 04:27:53 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Alexander Skadberg</title>
+      <description><![CDATA[Forlatt på et jordgulv som spebarn. Tilbake til Columbia får han sitt livs største gave. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/219ae79e-3ba3-4f1f-bac7-58f28a906c63_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/219ae79e-3ba3-4f1f-bac7-58f28a906c63_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:39</itunes:duration>
+      <pubDate>Tue, 01 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4D6lgw4dbxxAgrkp4YRgTg_y6isVufpfcEuJR5Or6gsg.jpg"/>
+    </item>
     <item>
       <title>Stig-André Berge</title>
       <description><![CDATA[Nedturene på matta har vært mange. Sorgene i livet store. Bryteren deler om de vanskeligste valgene han har tatt]]></description>
@@ -92,15 +102,6 @@
       <itunes:duration>38:56</itunes:duration>
       <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/baFrG7rgmEHpmIPZd-JTHQwnKjPwFvqs-4KS1To_e-hg.jpg"/>
-    </item>
-    <item>
-      <title>Berat Jusufi</title>
-      <description><![CDATA[Barne-raneren som ville jobbe på NAV. Berat fra "Krigere" ser sin egen tøffe historie i alle som trenger hjelp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/045a1dc5-fb6e-4d75-a750-8031b0286cf2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/045a1dc5-fb6e-4d75-a750-8031b0286cf2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:13</itunes:duration>
-      <pubDate>Thu, 20 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/q-EhTWKHq4xn5jhosKSuaAnx4ciBYMBjaQQ-P6vCGljg.jpg"/>
     </item>
   </channel>
 </rss>
