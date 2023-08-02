@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-08-02  
+- Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2023-07-30  
 - Updated podcast 'Kommentert' (`kommentert`)  
 ### 2023-07-29  
