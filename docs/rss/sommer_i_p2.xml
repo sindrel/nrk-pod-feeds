@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 01 Aug 2023 04:27:53 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Aug 2023 04:27:31 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Jenny Ovlien Frisholm</title>
+      <description><![CDATA[Jenny har tre foreldre, men får bare lov til å ha to.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/fe262793-33a7-4aba-844e-92eda41aab48_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/fe262793-33a7-4aba-844e-92eda41aab48_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:48</itunes:duration>
+      <pubDate>Thu, 03 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pqj2uGGVjvc7Dq_jQKw5RQyQxjlBrT9KbXcrTEK-sE_Q.jpg"/>
+    </item>
     <item>
       <title>Alexander Skadberg</title>
       <description><![CDATA[Forlatt på et jordgulv som spebarn. Tilbake til Columbia får han sitt livs største gave. 
@@ -93,15 +102,6 @@
       <itunes:duration>37:01</itunes:duration>
       <pubDate>Sat, 22 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iig5xSLwg7rSX0cqVGddJAgOur7pQR9zkcBCOt1bxtiA.jpg"/>
-    </item>
-    <item>
-      <title>Åse Wetås</title>
-      <description><![CDATA[Var språket vårt bedre før? Språkdirektøren ser på myter om det norske språket.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/449c0079-2a17-4533-b62f-bc8c15994130_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/449c0079-2a17-4533-b62f-bc8c15994130_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:56</itunes:duration>
-      <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/baFrG7rgmEHpmIPZd-JTHQwnKjPwFvqs-4KS1To_e-hg.jpg"/>
     </item>
   </channel>
 </rss>
