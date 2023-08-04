@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 03 Aug 2023 04:27:31 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2023 04:27:02 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Masoomeh Atashfaraz</title>
+      <description><![CDATA[Livet i Iran ble for farlig for Masoomeh. Men hvordan kunne hun leve i et land som hadde 6 måneder dag og 6 måneder natt?    ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/306a330b-9d64-4d0f-a04c-2330b110da3d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/306a330b-9d64-4d0f-a04c-2330b110da3d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:38</itunes:duration>
+      <pubDate>Fri, 04 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8xzPRI5yaqfepwbx6G_eWQC-PGAPMW34OMVmc8UfbFIA.jpg"/>
+    </item>
     <item>
       <title>Jenny Ovlien Frisholm</title>
       <description><![CDATA[Jenny har tre foreldre, men får bare lov til å ha to.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>39:51</itunes:duration>
       <pubDate>Sun, 23 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MWx6I-cq-hDH0LeJZfeV1Aff9sbUVUL7OJRpflZHdFrg.jpg"/>
-    </item>
-    <item>
-      <title>Oda Okkenhaug</title>
-      <description><![CDATA[13 år gammel leste Oda grusomme vitneavhør i jakten på brorens siste sekunder på Utøya.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/d60e2ba7-1a85-432d-8424-4d3b1419cc83_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/d60e2ba7-1a85-432d-8424-4d3b1419cc83_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:01</itunes:duration>
-      <pubDate>Sat, 22 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iig5xSLwg7rSX0cqVGddJAgOur7pQR9zkcBCOt1bxtiA.jpg"/>
     </item>
   </channel>
 </rss>
