@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 04 Aug 2023 08:27:46 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Aug 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 06 Aug 2023 08:25:26 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Aug 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title> Hva betyr "Memento mori"?</title>
+      <description><![CDATA[Vissheten om døden gir tyngde til livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/eaf0c503-e57c-4653-a3b0-cf858c3dddb2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/eaf0c503-e57c-4653-a3b0-cf858c3dddb2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:26</itunes:duration>
+      <pubDate>Sun, 06 Aug 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    </item>
     <item>
       <title> Hva betyr "Helvete er de andre"?</title>
       <description><![CDATA[Helvete er ikke flammer og pine, men andre menneskers blikk.]]></description>
@@ -94,15 +103,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/11698e8d-a8af-4b6d-9a81-b905dcbc4798_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:13</itunes:duration>
       <pubDate>Tue, 13 Jun 2023 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
-    </item>
-    <item>
-      <title> Må livet ha en mening?</title>
-      <description><![CDATA[Vi blir fortalt at vi må oppleve mening for å leve gode liv. Stemmer det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/768120f7-80a6-40ae-851a-42df885bbee5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/768120f7-80a6-40ae-851a-42df885bbee5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:36</itunes:duration>
-      <pubDate>Fri, 09 Jun 2023 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
     </item>
   </channel>
