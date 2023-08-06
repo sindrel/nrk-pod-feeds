@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 30 Jul 2023 04:26:26 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 06 Aug 2023 04:27:05 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Eili Harboe</title>
+      <description><![CDATA[Succession-skuespiller Eili Harboe forteller om tiden på sett, hvordan hun ble lurt i sitt eget utdrikningslag og om en hemmelig fest. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/6126c7c2-e73f-400a-baeb-44d587e9f482_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/6126c7c2-e73f-400a-baeb-44d587e9f482_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:49</itunes:duration>
+      <pubDate>Sun, 06 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uxX-8ZC_Jg_CetRx4o_EKQ_ry90Ej8v1hIkMYGrGWluQ.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Henrik Farley</title>
       <description><![CDATA[Else og Henrik diskuterer trening med hjelm, våpen og hvordan man kan holde seriemorder-praten gående på Tinder. ]]></description>
@@ -92,15 +102,6 @@
       <itunes:duration>42:09</itunes:duration>
       <pubDate>Sun, 04 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aDX9OAiTUBkVCnIBy-VBygbAK-PTl0B5Rq3HLKoYA4qg.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Nora Svenningsen</title>
-      <description><![CDATA[Komiker og tidligere toppidrettsutøver Nora Svenningsen forteller om livet i paraidretten, baris-vors og om hvorfor hun droppet ut av studiet etter fire timer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/d5cf8e82-4f90-4344-94b2-4eac392b5300_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/d5cf8e82-4f90-4344-94b2-4eac392b5300_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:10</itunes:duration>
-      <pubDate>Sun, 28 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L3cKHD3DlqS5c6Rc0OtLpgFrC4fj8PQneN-RB1Lz9Msw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 04 Aug 2023 04:27:02 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 06 Aug 2023 04:27:02 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Hilde Brinchmann</title>
+      <description><![CDATA[Sånn holder du på barnas konsentrasjon! Barneteater-guruen snakker av erfaring.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/ed2f6056-74ff-4354-8294-9cc625d01102_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/ed2f6056-74ff-4354-8294-9cc625d01102_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:07</itunes:duration>
+      <pubDate>Sun, 06 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kin3Bs0jx8q0sVHi3pvk0gxAGgg9bkDHiGA38Zj6F4qg.jpg"/>
+    </item>
     <item>
       <title>Masoomeh Atashfaraz</title>
       <description><![CDATA[Livet i Iran ble for farlig for Masoomeh. Men hvordan kunne hun leve i et land som hadde 6 måneder dag og 6 måneder natt?    ]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>32:51</itunes:duration>
       <pubDate>Mon, 24 Jul 2023 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CQtY4VivsvUBbM0CoLrB9gAXiIYfd5LPT8-k8aRXRAuQ.jpg"/>
-    </item>
-    <item>
-      <title>Tarjei Strøm </title>
-      <description><![CDATA[Bli med til Terjes barndom og hans utrolige 80-tallsrom.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/9873ef9a-114a-48a4-96d4-5a8f59845390_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/9873ef9a-114a-48a4-96d4-5a8f59845390_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:51</itunes:duration>
-      <pubDate>Sun, 23 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MWx6I-cq-hDH0LeJZfeV1Aff9sbUVUL7OJRpflZHdFrg.jpg"/>
     </item>
   </channel>
 </rss>
