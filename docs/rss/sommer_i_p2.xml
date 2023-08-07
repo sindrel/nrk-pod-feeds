@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 04:27:02 +0000</lastBuildDate>
-    <pubDate>Sun, 06 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Aug 2023 04:28:18 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Live Nelvik</title>
+      <description><![CDATA[Hun er ikke skjermkritisk, heller skjermfilosofisk. Tenke mer og scrolle mindre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3294f6ae-09f6-4f95-887d-6c289b3735ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3294f6ae-09f6-4f95-887d-6c289b3735ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:30</itunes:duration>
+      <pubDate>Mon, 07 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/e93hxoEQjM3mWiUZKJG2ZAQon8iiZfxhJyuG_esNRdCQ.jpg"/>
+    </item>
     <item>
       <title>Hilde Brinchmann</title>
       <description><![CDATA[Sånn holder du på barnas konsentrasjon! Barneteater-guruen snakker av erfaring.   ]]></description>
@@ -92,16 +101,6 @@
       <itunes:duration>33:51</itunes:duration>
       <pubDate>Wed, 26 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qrEBosm5JRqvIUBlACbK8gH-KeH4QhQeCFd4hnwde_Bg.jpg"/>
-    </item>
-    <item>
-      <title>Kristin Skogen Lund</title>
-      <description><![CDATA[Faren opplevde umenneskelig tortur i nazistenes fangenskap. Stolt forteller Schibsted-direktøren hans utrolige historie.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/c71dabc5-5d2d-4c76-a47e-a66224450e25_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/c71dabc5-5d2d-4c76-a47e-a66224450e25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:51</itunes:duration>
-      <pubDate>Mon, 24 Jul 2023 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CQtY4VivsvUBbM0CoLrB9gAXiIYfd5LPT8-k8aRXRAuQ.jpg"/>
     </item>
   </channel>
 </rss>

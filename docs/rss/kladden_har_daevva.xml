@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 31 Jul 2023 04:28:02 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Aug 2023 04:28:09 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Dævva spesial: Nora Svenningsen</title>
+      <description><![CDATA[Hvis terroralarmen går på skolen, føles det bedre om man får uønsket særbehandling? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2a3c284b-203a-4be7-a81d-e99f6e8c2f02_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2a3c284b-203a-4be7-a81d-e99f6e8c2f02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:29</itunes:duration>
+      <pubDate>Mon, 07 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uuHF2VtAgI-qROV7HHag2wl7SuJFUHjz1Pzm3uirDvxw.jpg"/>
+    </item>
     <item>
       <title>Dævva spesial: Live Nelvik</title>
       <description><![CDATA[Telles hvithai i VR som en nær døden-opplevelse? Egentlig? ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:42</itunes:duration>
       <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fagCTkX4cNLk6R6WybF71QRgSauR4pUPUyMk5CNz3zEQ.jpg"/>
-    </item>
-    <item>
-      <title>Espen Fadnes i fritt fall</title>
-      <description><![CDATA[Espen lever av å kaste seg ut fra fjellvegger og har så mange nær døden-opplevelser at det er vanskelig å velge. Møt verdens raskeste vingedraktflyger og Martins rake motsetning. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/114ac608-5204-4acb-83c7-01f3022103e0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/114ac608-5204-4acb-83c7-01f3022103e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:17</itunes:duration>
-      <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dAD3VguOZMHcYsCgkRtnGwn_Zq1O2PKsISheLdpi2Qhw.jpg"/>
     </item>
   </channel>
 </rss>
