@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-08-08  
+- Updated podcast 'P3morgen' (`p3morgen`)  
 ### 2023-08-06  
 - Updated podcast 'Statens mal for medarbeidersamtale' (`statens_mal_for_medarbeidersamtale`)  
 ### 2023-08-02  
