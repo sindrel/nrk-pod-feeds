@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Etikketaten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/etikketaten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 04:28:14 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 10 Aug 2023 07:23:10 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    <item>
+      <title>Kva skjer hvis ein slår av mobilen i eit år?</title>
+      <description><![CDATA[Levere tilbake eller behalde ting du finn? Må du tru på Gud for å gifte deg i kyrkja? Kva skjer hvis ein slår av mobilen i eit år? Har ei elskarinne eit moralsk ansvar? I panelet sit forfattar Michael Stilson, filosof Heine Holmen og journalist Tamanna Agnihotri. Programleiar er Madeleine Cederstrøm. Ny episode kvar torsdag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/487b7306-37f5-49ff-b580-e3abd7304510_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/487b7306-37f5-49ff-b580-e3abd7304510_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:31</itunes:duration>
+      <pubDate>Thu, 10 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
     <item>
       <title>Når er det greitt å bryte eit løfte? </title>
       <description><![CDATA[Må ein halde tale i sitt eige bryllaup? 
@@ -109,17 +118,6 @@ I panelet sit filosof Kristina Miklavic, komikar Erlend Osnes og programleiar og
       <itunes:duration>53:18</itunes:duration>
       <pubDate>Thu, 20 Apr 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nqVBxSzNiiqKpbTomlRJjwM-f30hkdg_j-2De1eRSzWw.jpg"/>
-    </item>
-    <item>
-      <title>Er irriterande positive folk eit problem?</title>
-      <description><![CDATA[Er irriterande positive folk eit problem? Vaske hender etter dobesøk? Er skrytebilde på sosiale medier eit problem? Og kvifor er det vanskeleg å snakke om tru? I panelet sit forfattar Anne B Ragde, psykolog Peder Kjøs og P3-programleiar Tamanna Agnihotri. Programleiar er Madeleine Cederstrøm.
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/743514ac-7c0a-490e-9be0-921ecde45a92_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/etikketaten/743514ac-7c0a-490e-9be0-921ecde45a92_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:35</itunes:duration>
-      <pubDate>Thu, 13 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
     </item>
   </channel>
 </rss>

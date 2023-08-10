@@ -189,7 +189,7 @@ const feeds = [
     "id": "etikketaten",
     "title": "De 10 siste fra Etikketaten",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "eventyret_om_vazelina_bilopphoeggers",
