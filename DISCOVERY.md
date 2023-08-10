@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-08-10  
+- Updated podcast 'Etikketaten' (`etikketaten`)  
 ### 2023-08-08  
 - Updated podcast 'P3morgen' (`p3morgen`)  
 ### 2023-08-06  
