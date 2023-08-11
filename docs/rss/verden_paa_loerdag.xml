@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 05 Aug 2023 11:22:08 +0000</lastBuildDate>
-    <pubDate>Sat, 05 Aug 2023 12:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 04:27:16 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Krigen i Ukraina: Må moderne krig ha internett?</title>
+      <description><![CDATA[Hvordan hadde krigen gått for ukrainerne uten Starlink, det mobile bredbåndet fra Elon Musk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/d3076a3d-a3df-47ed-9589-7905ef5b0a8b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/d3076a3d-a3df-47ed-9589-7905ef5b0a8b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:15</itunes:duration>
+      <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JeLDUY5m9G4lSteipJ-zUQR5tq-ECA1pRQnGWZ0PR4Kg.jpg"/>
+    </item>
     <item>
       <title>Moskva under angrep</title>
       <description><![CDATA[Har droneangrepene mot Moskva noen militær verdi og vil de svekke Putin?]]></description>
@@ -95,15 +104,6 @@ Russerne hevder at det er sanksjonene fra Vesten som er årsak til at alt er bli
       <itunes:duration>57:30</itunes:duration>
       <pubDate>Sat, 08 Jul 2023 12:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EYU7XSgaCurgEU2w6DNtfg5ZcvViUDNFkuBOYJ8goU9g.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: Putins dårlige hjelpere</title>
-      <description><![CDATA[Starten på storskalainvasjonen av Ukraina ble en katastrofe for russerne. I forkant av angrepet hadde president Vladimir Putin fått en stor mengde feilinformasjon. Hvorfor skjedde dette, og skjer det fortsatt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/68f8dfc7-779b-4e90-a6e9-9c73c44e1568_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/68f8dfc7-779b-4e90-a6e9-9c73c44e1568_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:23</itunes:duration>
-      <pubDate>Fri, 07 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/j9R3dEVl28MlBoc6yMpJZghqh29pGngu7J4BBXzapb7g.jpg"/>
     </item>
   </channel>
 </rss>

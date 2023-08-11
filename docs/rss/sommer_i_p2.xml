@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 10 Aug 2023 04:28:36 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 04:27:12 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Håkon Erlandsen</title>
+      <description><![CDATA[På vei opp til Mount Everest hadde musikeren med seg noen ekstra kilo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0bdb06b4-198a-4a7a-836a-8a4999ba00cc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0bdb06b4-198a-4a7a-836a-8a4999ba00cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:17</itunes:duration>
+      <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/g4MW-UK2q0Inc_vJ5plKeAfhZnLnNhkuR0CD0fG7bUqA.jpg"/>
+    </item>
     <item>
       <title>Brynjulf Jung Tjønn</title>
       <description><![CDATA[Han likna ikkje på nokon då han vaks opp. Men så blei forfattaren far og ikkje aleine i verda meir. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>33:54</itunes:duration>
       <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lim5Ewudsc7Vy9_hOAIQegVrRM8b5l9jo5pqHx_stFOQ.jpg"/>
-    </item>
-    <item>
-      <title>Bjøro Håland</title>
-      <description><![CDATA[Alt startet med drømmen om Amerika. Norges største køntriartist fyller 80.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/352a836d-8ab6-4114-82bf-1a22ad0acd34_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/352a836d-8ab6-4114-82bf-1a22ad0acd34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:41</itunes:duration>
-      <pubDate>Sat, 29 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EKum8QcHV3ayGfdWjE1fMA5PoDFTMXloH3WgrXSCZpvA.jpg"/>
     </item>
   </channel>
 </rss>

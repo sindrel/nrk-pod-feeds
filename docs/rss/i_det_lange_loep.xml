@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 04 Aug 2023 04:26:57 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 04:27:04 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw.jpg"/>
+    <item>
+      <title>Løpeteknikk</title>
+      <description><![CDATA[OL-vinner Vebjørn Rodal gir tips rundt løpeteknikk. Toppløpere som Henrik og Filip Ingebrigtsen deler sine tanker om viktigheten av god teknikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/56454340-cd73-476b-b38d-7efc521e3c74_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/56454340-cd73-476b-b38d-7efc521e3c74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:35</itunes:duration>
+      <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ennGlYRoJnTze9o_jWrBAQn68x8vJvUfOTLCy7_Atvjg.jpg"/>
+    </item>
     <item>
       <title>Hvordan fikk du 96 i oksygenopptak, Bjørn Dæhlie?</title>
       <description><![CDATA[Med skyhøyt o2-opptak og en eventyrlig evne til å presse seg selv, ble Bjørn Dæhlie en av historiens beste langrennsløpere. Vi har møtt ham for å finne ut av hvordan han egentlig trente. Hvor ofte tok han i alt han hadde? Og brukte han i det hele tatt begrepet terskel? Og hvilke mentale teknikker brukte han for å orke de hardeste øktene? Dæhlie gir oss sine svar.
@@ -103,15 +112,6 @@ I dag trener han med Team Ingebrigtsen og han ble en av heltene på Bislett Game
       <itunes:duration>02:31:30</itunes:duration>
       <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/p76ASJzNk9uhyatWGcv1jwYJb1-z7Lxph1VrXk3eg8lA.jpg"/>
-    </item>
-    <item>
-      <title>Manglende helsesertifikat og snuoperasjonen</title>
-      <description><![CDATA[Norgesmester Mathilde Theisen innfridde ikke kravene til helsesertifikat og fikk startnekt. Det var flaut, men nå vil hun fortelle sin historie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/09aaa025-66b9-481e-a151-8572d61bf18d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/09aaa025-66b9-481e-a151-8572d61bf18d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:15:52</itunes:duration>
-      <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rzgiz8YkLs9v_fKpmPHvWQDCyNz1kTVtYkJzKLGuxc3Q.jpg"/>
     </item>
   </channel>
 </rss>
