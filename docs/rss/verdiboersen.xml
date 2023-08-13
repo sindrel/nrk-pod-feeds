@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 10 Aug 2023 08:29:06 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Aug 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 13 Aug 2023 04:26:08 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title> Hva betyr "Borte bra, men hjemme best"?</title>
+      <description><![CDATA[Vi bærer alltid på et savn etter miljøet vi vokste opp i]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/5d31d60f-5734-41ce-aef2-98b56a364bf0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5d31d60f-5734-41ce-aef2-98b56a364bf0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:16</itunes:duration>
+      <pubDate>Sun, 13 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    </item>
     <item>
       <title> Hva betyr "Kjenn deg selv"?</title>
       <description><![CDATA[Utrykket  har vandret fra gresk filosofi til dagens populærkultur]]></description>
@@ -94,15 +103,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c41edad4-eda6-4345-b745-1c6719c9f0e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:36</itunes:duration>
       <pubDate>Fri, 23 Jun 2023 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
-    </item>
-    <item>
-      <title> Jødisk motstand under Holocaust</title>
-      <description><![CDATA[Den ukjente historien om jødiske kvinner og menns kraftige kamp mot Hitler.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/6929dd40-7315-46ea-bdb3-095640ab2296_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/6929dd40-7315-46ea-bdb3-095640ab2296_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:05</itunes:duration>
-      <pubDate>Fri, 16 Jun 2023 11:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
     </item>
   </channel>
