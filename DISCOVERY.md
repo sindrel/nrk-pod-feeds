@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-08-13  
+- Updated podcast 'Eventyrstund med Morten og Saft' (`eventyrstund_med_morten_og_saft`)  
+- Updated podcast 'Fantorangenfortellinger' (`fantorangenfortellinger`)  
 ### 2023-08-10  
 - Updated podcast 'Etikketaten' (`etikketaten`)  
 ### 2023-08-08  
