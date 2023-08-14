@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 07 Aug 2023 04:28:09 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Aug 2023 04:27:22 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Tore Sagen og meningen med livet </title>
+      <description><![CDATA[En lite livredd Tore og møtet med legen med Hawaiiskjorte. Og en irriterende mening med livet. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/204d8e0e-5ef9-4597-8521-4bd066e529a0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/204d8e0e-5ef9-4597-8521-4bd066e529a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:40</itunes:duration>
+      <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jQ-yTCU2wuxyEBi4AWTOvA6uBOW47TgivUqLwoog0TAA.jpg"/>
+    </item>
     <item>
       <title>Dævva spesial: Nora Svenningsen</title>
       <description><![CDATA[Hvis terroralarmen går på skolen, føles det bedre om man får uønsket særbehandling? ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>46:56</itunes:duration>
       <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/soAGVJWGyIGcxuQJmqUjQwpZAymQ9l_BehkOTP14jeQw.jpg"/>
-    </item>
-    <item>
-      <title>Jonas Bergland, på jobb med døden</title>
-      <description><![CDATA[Hvordan er det best å overbringe et dødsbudskap? Og hvorfor vil Martin plutselig ha dr. Bergland som fastlege? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/caf5fb29-5a86-4350-861a-39aca2cdbc75_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/caf5fb29-5a86-4350-861a-39aca2cdbc75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:42</itunes:duration>
-      <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fagCTkX4cNLk6R6WybF71QRgSauR4pUPUyMk5CNz3zEQ.jpg"/>
     </item>
   </channel>
 </rss>
