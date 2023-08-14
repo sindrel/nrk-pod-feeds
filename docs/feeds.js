@@ -113,7 +113,7 @@ const feeds = [
     "id": "burde_vaert_pensum",
     "title": "De 10 siste fra Burde vært pensum",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "clue",
@@ -355,7 +355,7 @@ const feeds = [
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "historiske_kjendiser",

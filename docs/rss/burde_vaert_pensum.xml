@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Burde vært pensum. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/burde_vaert_pensum for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Feb 2023 05:27:05 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Feb 2023 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 14 Aug 2023 07:22:11 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    <item>
+      <title>Hva er lykke?</title>
+      <description><![CDATA[Vi elsker å være lykkelige, men hva er det? Lege Kaveh Rashidi forklarer lykke og hva som skal til for å bli lykkelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/9cfea767-8932-422a-896a-08768610ffaa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/9cfea767-8932-422a-896a-08768610ffaa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:14</itunes:duration>
+      <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
     <item>
       <title>Er stress egentlig farlig?</title>
       <description><![CDATA[Stress er vår tids største “bad guy” Psykologspesialist Henrik Børsting Jacobsen gir deg tips om hvordan giftig stress kan bli en superkraft. ]]></description>
@@ -18,6 +27,7 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/b15b3606-308d-4220-adfc-66aef3812845_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:42</itunes:duration>
       <pubDate>Mon, 27 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
     <item>
       <title>Hva er en god diskusjon?</title>
@@ -26,6 +36,7 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/12bd704e-f79f-4140-8926-f813e6b249e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:43</itunes:duration>
       <pubDate>Mon, 20 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
     <item>
       <title>Hvordan takler du hersketeknikker?</title>
@@ -34,6 +45,7 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/e15d0004-c981-401d-bfad-4c2508c7f533_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:33</itunes:duration>
       <pubDate>Mon, 13 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
     <item>
       <title>Hva tenker hunden</title>
@@ -42,6 +54,7 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7374732c-72b4-4788-a96f-13519dac2fe7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:40</itunes:duration>
       <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
     <item>
       <title>Hjelp, jeg skal føde!</title>
@@ -50,6 +63,7 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/eaf517da-08fd-4a9c-8094-1485f1f5073c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:49</itunes:duration>
       <pubDate>Mon, 30 Jan 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
     <item>
       <title>Hva gjør en stortingsrepresentant?</title>
@@ -58,6 +72,7 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/108ec696-6cee-4473-a773-29aa096a388e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:02</itunes:duration>
       <pubDate>Mon, 23 Jan 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
     <item>
       <title>Det vidunderlige havet</title>
@@ -66,6 +81,7 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/b2cf7ab8-65af-4c8c-befa-3a0f5a9bfb24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:53</itunes:duration>
       <pubDate>Mon, 16 Jan 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
     <item>
       <title>Antibiotikakrisen</title>
@@ -74,6 +90,7 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7e88fd11-4a7a-4ada-9e29-68c4d9bffa73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:52</itunes:duration>
       <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sth_HzEd1L_Zc-oheoLI1Q6_lnNWjjZ_fnxAbq3EjiBQ.jpg"/>
     </item>
     <item>
       <title>La oss snakke om seksualitet </title>
@@ -84,14 +101,7 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/77d539b4-d585-48de-a135-8e520bbafdb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:21</itunes:duration>
       <pubDate>Mon, 02 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Liket etter døden</title>
-      <description><![CDATA[Patolog Line Aas Sandnes tar deg med på obduksjon for å forklare hva som skjer med kroppen etter at du dør. Medvirkende: Camilla Holten Gidske og Rune Sem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7a32b906-2cb8-4fe5-bc58-b5f0723f24ee_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7a32b906-2cb8-4fe5-bc58-b5f0723f24ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:19</itunes:duration>
-      <pubDate>Mon, 17 Oct 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
   </channel>
 </rss>
