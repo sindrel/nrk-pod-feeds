@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-08-14  
+- Updated podcast 'Burde vært pensum' (`burde_vaert_pensum`)  
+- Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2023-08-13  
 - Updated podcast 'Eventyrstund med Morten og Saft' (`eventyrstund_med_morten_og_saft`)  
 - Updated podcast 'Fantorangenfortellinger' (`fantorangenfortellinger`)  
