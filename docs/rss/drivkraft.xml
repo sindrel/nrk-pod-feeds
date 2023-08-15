@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 15 Aug 2023 07:22:01 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Aug 2023 15:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2023 14:25:37 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Aug 2023 15:55:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Ane Dahl Torp</title>
+      <description><![CDATA[«Det er så mørkt å se ungdom ligge på telefonen i timevis». Skuespiller Ane Dahl Torp har tatt opp kampen om en skjermfri barneverden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b2817c8a-e619-4cff-b10b-db7e4fe8df8d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b2817c8a-e619-4cff-b10b-db7e4fe8df8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:47</itunes:duration>
+      <pubDate>Tue, 15 Aug 2023 15:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SzuvAqeC_NxvCxpDozvfjQj3MRnE35G5gYkLsdBHd5tw.jpg"/>
+    </item>
     <item>
       <title>Lars Nehru Sand</title>
       <description><![CDATA[«Tiåret vi er inni nå er kanskje det viktigste i vår levetid» - forteller Lars Nehru Sand. Den politiske kommentatoren er fortsatt optimist.]]></description>
@@ -97,15 +106,6 @@
       <itunes:duration>57:40</itunes:duration>
       <pubDate>Thu, 08 Jun 2023 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xbz2dfcpQnyA1hJLhbyrOQ-eUeIYleb-NTnn83RVub_Q.jpg"/>
-    </item>
-    <item>
-      <title>Thomas Thiis-Evensen</title>
-      <description><![CDATA[- Jeg tenker arkitektur hele tiden! Møt professoren som i over 50 år har jobbet for å skape mer menneskevennlige byer. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cb8fc163-57e8-428f-aee7-08f377d665c0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cb8fc163-57e8-428f-aee7-08f377d665c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Wed, 07 Jun 2023 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5i3f703JdkrnOeVKowckqwGbKM5ALEHC0eFiRgldU5KA.jpg"/>
     </item>
   </channel>
 </rss>
