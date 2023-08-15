@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-08-15  
+- Updated podcast 'Drivkraft' (`drivkraft`)  
+- Updated podcast 'Studio 2' (`studio_2`)  
 ### 2023-08-14  
 - Updated podcast 'Burde vært pensum' (`burde_vaert_pensum`)  
 - Updated podcast 'Hele historien' (`hele_historien`)  
