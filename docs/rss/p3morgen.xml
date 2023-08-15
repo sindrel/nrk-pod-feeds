@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Aug 2023 13:25:31 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Aug 2023 14:50:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2023 09:22:24 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Aug 2023 11:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Karstens forfengsel</title>
+      <description><![CDATA[Karsten forsvarer at han går i sokkelessen i kantina og får hard kritikk fra Tete. Karsten forteller hva man ikke skal gjøre når man stemmer. Og vi snakker med Jenny Alvestad Aarnes fra SV.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8cfcb6c1-32d3-48e2-a42b-c504a251b8cf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8cfcb6c1-32d3-48e2-a42b-c504a251b8cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:18</itunes:duration>
+      <pubDate>Tue, 15 Aug 2023 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j8utI0v9YbdV78JtDA8DJQ38qlobuWlzy3WC28pxJB7g.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Gutteklubben grei</title>
       <description><![CDATA[Hei! Jeg heter Vaktsjef Sofie og har redigert denne episoden, men jeg aner ikke hva den handler om. For jeg har bare satt inn en jingle på starten og slutten. Men den er sikkert bra! Anna og jeg var nemlig ute og kjørte med Hani, så vi rakk ikke innspillingen. Nei nei, ja ja. 
@@ -96,15 +105,6 @@ Vi får også besøk av Skaar som er klar for å spille på Øya-festivalen ]]><
       <itunes:duration>01:03:51</itunes:duration>
       <pubDate>Tue, 08 Aug 2023 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3TLusWuTp8rJqDu1iTUQpQGIXZ3ldC4dgyQFg0tjp1nQ.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Vi er tilbake!</title>
-      <description><![CDATA[Hei og hå! Vi går gjennom hva sommeren har gitt og tatt. Til stede: Karsten, Tete, Sofie, Anna og Hani. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a9849275-d579-4993-b334-228474cd2c90_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a9849275-d579-4993-b334-228474cd2c90_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:35</itunes:duration>
-      <pubDate>Mon, 07 Aug 2023 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
