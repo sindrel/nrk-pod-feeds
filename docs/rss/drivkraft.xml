@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Drivkraft. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/drivkraft for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 22 Jun 2023 12:45:00 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Jun 2023 13:34:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 15 Aug 2023 07:22:01 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Aug 2023 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Lars Nehru Sand</title>
+      <description><![CDATA[«Tiåret vi er inni nå er kanskje det viktigste i vår levetid» - forteller Lars Nehru Sand. Den politiske kommentatoren er fortsatt optimist.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e787e666-b075-4dc5-908a-98dfb7ca172c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e787e666-b075-4dc5-908a-98dfb7ca172c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Mon, 14 Aug 2023 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ppdHNlkwm5_6cHGMk7Q_pQp4_n0NB5YwcDhY7cH1TVgQ.jpg"/>
+    </item>
     <item>
       <title>Helene Myhre</title>
       <description><![CDATA[- Jeg er det stikk motsatte av Lars Monsen, sier tur-influenseren med over 350 000 følgere. Hun tør i hvert fall ikke sove i telt alene.]]></description>
@@ -97,15 +106,6 @@
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Wed, 07 Jun 2023 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5i3f703JdkrnOeVKowckqwGbKM5ALEHC0eFiRgldU5KA.jpg"/>
-    </item>
-    <item>
-      <title>Jeanette Solstad Remø</title>
-      <description><![CDATA[- Jeg måtte til opptaksprøve som trans. Lenge gjemte den tidligere ubåtkapteinen kvinneklær i safen, sammen med topphemmelige NATO-dokumenter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e9d687c2-27f2-4633-b2e9-289bf09c6ea8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e9d687c2-27f2-4633-b2e9-289bf09c6ea8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:50</itunes:duration>
-      <pubDate>Tue, 06 Jun 2023 13:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nn2LC_1NMtb3M-E7T2ThSA0Efz4Wb2xdyLKXIL0m6UUQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -161,7 +161,7 @@ const feeds = [
     "id": "drivkraft",
     "title": "De 10 siste fra Drivkraft",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "eallima_mohkit",
@@ -1092,7 +1092,7 @@ const feeds = [
     "id": "studio_2",
     "title": "De 10 siste fra Studio 2",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "supernytt",
