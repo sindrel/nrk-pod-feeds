@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 15 Aug 2023 14:25:37 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Aug 2023 15:55:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Aug 2023 15:24:27 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Aug 2023 16:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Julie Valsø</title>
+      <description><![CDATA["Jeg tenkte at jeg var en dårlig mamma", sier mamma influenser Julie Valsø om fødselsdepresjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6bf024ac-0c34-4b19-891c-766e84559013_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6bf024ac-0c34-4b19-891c-766e84559013_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:20</itunes:duration>
+      <pubDate>Wed, 16 Aug 2023 16:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YB9GaBcvKLoge28u2dJ20wEEJKsdDWQlA0O-2qVBN1nQ.jpg"/>
+    </item>
     <item>
       <title>Ane Dahl Torp</title>
       <description><![CDATA[«Det er så mørkt å se ungdom ligge på telefonen i timevis». Skuespiller Ane Dahl Torp har tatt opp kampen om en skjermfri barneverden.]]></description>
@@ -97,15 +106,6 @@
       <itunes:duration>56:19</itunes:duration>
       <pubDate>Mon, 12 Jun 2023 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/93wqIReXj-eHwie8J6-43wscgcvKDIRtVm9w-m6bN7vQ.jpg"/>
-    </item>
-    <item>
-      <title>Emilie Anker Stordalen</title>
-      <description><![CDATA[Hotellarvingen er et konkurransemenneske, i likhet med resten av familien. Og har tre NM-titler i badminton. En sport hun mener hun valgte fordi den er så liten i Norge at det var gode muligheter for å bli best.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3501c3f8-d173-433d-a5d3-8fc70879da51_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3501c3f8-d173-433d-a5d3-8fc70879da51_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:40</itunes:duration>
-      <pubDate>Thu, 08 Jun 2023 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xbz2dfcpQnyA1hJLhbyrOQ-eUeIYleb-NTnn83RVub_Q.jpg"/>
     </item>
   </channel>
 </rss>
