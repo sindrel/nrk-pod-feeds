@@ -279,7 +279,9 @@ const feeds = [
     "id": "gal_og_genial",
     "title": "De 10 siste fra Gal & genial",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "gamle_greier",
@@ -869,6 +871,12 @@ const feeds = [
     "title": "De 10 siste fra Radio Mørch",
     "season": null,
     "enabled": false
+  },
+  {
+    "id": "radio_utslagsnes",
+    "title": "De 10 siste fra Radio Utslagsnes",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "radiodokumentaren",
