@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-08-16  
+- Podcast 'Gal & genial' is considered obsolete and will be ignored in the future (`gal_og_genial`)  
+- Added podcast 'Radio Utslagsnes' (`radio_utslagsnes`)  
 ### 2023-08-15  
 - Updated podcast 'Drivkraft' (`drivkraft`)  
 - Updated podcast 'Studio 2' (`studio_2`)  
