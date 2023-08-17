@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Aug 2023 11:22:11 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Aug 2023 12:35:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Aug 2023 11:22:13 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Aug 2023 13:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Auroras anti-bucketliste</title>
+      <description><![CDATA[Barbeint-debatten fortsetter. Vi får også noen visdomsord fra legenden selv, Aurora Gude. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f22f9b27-d028-418d-a454-8a18c79c3dfc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f22f9b27-d028-418d-a454-8a18c79c3dfc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:10</itunes:duration>
+      <pubDate>Thu, 17 Aug 2023 13:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ASQ-8VaghxtSZuRocNb52Aw3Y9fAmadkEnrFN8xBzP7g.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Vippser for vold</title>
       <description><![CDATA[Noen i studio er kvalmt rike. Vi snakker om barn som banker hverandre, og om vi ville vippset for vold.]]></description>
@@ -96,15 +105,6 @@ Vi får også besøk av Skaar som er klar for å spille på Øya-festivalen ]]><
       <itunes:duration>58:35</itunes:duration>
       <pubDate>Thu, 10 Aug 2023 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ylxYwHvlGjchpRNiJrkUqwZ2oMo8Qo0JKshk9z5pIrzA.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Egil på Farmen</title>
-      <description><![CDATA[Vi diskuterer Barbie-filmen og snakker om at Egil har vært på Farmen! Til stede: Tete, Karsten, Egil og ho Anna.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/39129016-169c-4745-b20a-2ef2eaf21a11_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/39129016-169c-4745-b20a-2ef2eaf21a11_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:00</itunes:duration>
-      <pubDate>Wed, 09 Aug 2023 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
