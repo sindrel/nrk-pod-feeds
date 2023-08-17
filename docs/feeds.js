@@ -351,7 +351,7 @@ const feeds = [
     "id": "heia_fotball",
     "title": "De 10 siste fra Heia Fotball",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hele_historien",
@@ -702,7 +702,7 @@ const feeds = [
     "id": "musikkrommet",
     "title": "De 10 siste fra Musikkrommet",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "mysterier_fra_norge",
@@ -1242,7 +1242,7 @@ const feeds = [
     "id": "utakt",
     "title": "De 10 siste fra Utakt",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "verden_paa_loerdag",
