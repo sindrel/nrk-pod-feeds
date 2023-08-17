@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Aug 2023 15:24:27 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Aug 2023 16:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Aug 2023 13:27:47 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Aug 2023 15:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Darja Barannik</title>
+      <description><![CDATA[Da krigen i Ukraina brøt ut begynte hodet til moteprofilen «å spinne». I dag selger hun luer til inntekt for ukrainske flyktninger.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6d0e4a81-caab-44e1-b2db-555ecd35829e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6d0e4a81-caab-44e1-b2db-555ecd35829e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:33</itunes:duration>
+      <pubDate>Thu, 17 Aug 2023 15:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O2AJ9OBdXpFa7JzSJCfavw4X0VM3HNqUxe-4eFRXb5mw.jpg"/>
+    </item>
     <item>
       <title>Julie Valsø</title>
       <description><![CDATA["Jeg tenkte at jeg var en dårlig mamma", sier mamma influenser Julie Valsø om fødselsdepresjon.]]></description>
@@ -97,15 +107,6 @@
       <itunes:duration>57:22</itunes:duration>
       <pubDate>Tue, 13 Jun 2023 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/375n183O0o0xh40FX6vjWA3kFduk1Z13xjon2VaHkPDg.jpg"/>
-    </item>
-    <item>
-      <title>Arne Duinker </title>
-      <description><![CDATA[Sjømatforskeren elsker tang, tare og strandsnegler. Og mener vi bør spise lenger ned i næringskjeden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/199c0a76-85c5-4342-9f89-f2809c8d00c4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/199c0a76-85c5-4342-9f89-f2809c8d00c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:19</itunes:duration>
-      <pubDate>Mon, 12 Jun 2023 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/93wqIReXj-eHwie8J6-43wscgcvKDIRtVm9w-m6bN7vQ.jpg"/>
     </item>
   </channel>
 </rss>
