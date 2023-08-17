@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2023-08-17  
+- Updated podcast 'Heia Fotball' (`heia_fotball`)  
+- Updated podcast 'Musikkrommet' (`musikkrommet`)  
+- Updated podcast 'Utakt' (`utakt`)  
 ### 2023-08-16  
 - Podcast 'Gal & genial' is considered obsolete and will be ignored in the future (`gal_og_genial`)  
 - Added podcast 'Radio Utslagsnes' (`radio_utslagsnes`)  
