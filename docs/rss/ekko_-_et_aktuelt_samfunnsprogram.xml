@@ -7,12 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Aug 2023 04:27:35 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Aug 2023 04:27:33 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
     <item>
-      <title>SPØRRETIME: Mer ekstremvær - hva gjør vi?</title>
+      <title>Poliobarna på internat</title>
+      <description><![CDATA[Som 3-åring ble Astrid sendt på sykehus og senere internat for å lære å gå pent.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1bc96974-3b0f-490c-b09b-01e28a558e65_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1bc96974-3b0f-490c-b09b-01e28a558e65_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:12</itunes:duration>
+      <pubDate>Thu, 17 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/chhwz4NGzWBoqSxK-GlblQMgEwJszMAKadZZ_hH7dQ2A.jpg"/>
+    </item>
+    <item>
+      <title>Spørretime: Mer ekstremvær - hva gjør vi?</title>
       <description><![CDATA[En klimaforsker, en ekspert på klimapsykologi og sjefen for Direktoratet for samfunnssikkerhet og beredskap svarer på lytternes spørsmål.
 ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/34333a3d-f4a0-4ffe-8f80-839fcf9e438f_0_ID192MP3.mp3</guid>
@@ -100,17 +109,6 @@
       <itunes:duration>21:03</itunes:duration>
       <pubDate>Sun, 23 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZtQsxdQYRw7RZ-ytpGWC5g8UGwk_pH95PiFH66GCLVFQ.jpg"/>
-    </item>
-    <item>
-      <title>Grisen - litt som oss?</title>
-      <description><![CDATA[Hva er likheten mellom gris og menneske? Kristoffer tok seg jobb som grisebonde for å finne det ut. 
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7ba6a15c-ed51-4c7a-9ef5-d50200deaf9e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7ba6a15c-ed51-4c7a-9ef5-d50200deaf9e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:52</itunes:duration>
-      <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/N40dNWWn1vQ9cSnHYwouaQ5KY951StAcs65ndllRf4eQ.jpg"/>
     </item>
   </channel>
 </rss>
