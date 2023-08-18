@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 11 Aug 2023 04:27:04 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2023 04:27:41 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw.jpg"/>
+    <item>
+      <title>VM - Fra Waitz til Ingebrigtsen</title>
+      <description><![CDATA[Et tilbakeblikk på VM-historiens høydepunkter i løpsøvelser, og forventninger til årets VM i friidrett hvor Norge stiller med en sterk tropp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/6fd1add8-7e50-4ef4-a3b0-fdc52630fe0c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/6fd1add8-7e50-4ef4-a3b0-fdc52630fe0c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:45:11</itunes:duration>
+      <pubDate>Fri, 18 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jmOoVYIzxuMK96BuBf9nZAn1UMH1rnsX9NpoNeVt5d2w.jpg"/>
+    </item>
     <item>
       <title>Løpeteknikk</title>
       <description><![CDATA[OL-vinner Vebjørn Rodal gir tips rundt løpeteknikk. Toppløpere som Henrik og Filip Ingebrigtsen deler sine tanker om viktigheten av god teknikk.]]></description>
@@ -103,15 +112,6 @@ I dag trener han med Team Ingebrigtsen og han ble en av heltene på Bislett Game
       <itunes:duration>01:58:09</itunes:duration>
       <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DFWKnV75OrrdDx4wttDYKgPVjcJ3f3mKn4_LuD-YofFQ.jpg"/>
-    </item>
-    <item>
-      <title>Gjennombruddet</title>
-      <description><![CDATA[Kristin Waaktaar Opland er tobarnsmoren på over 40 år som plutselig ble veldig god til å løpe. I år har satt hun norsk rekord for 40-44 år på 5000 meter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/c0079c91-aae5-42ce-a203-7c8f3ca76155_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/c0079c91-aae5-42ce-a203-7c8f3ca76155_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:31:30</itunes:duration>
-      <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/p76ASJzNk9uhyatWGcv1jwYJb1-z7Lxph1VrXk3eg8lA.jpg"/>
     </item>
   </channel>
 </rss>
