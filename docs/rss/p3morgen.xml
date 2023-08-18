@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 17 Aug 2023 12:40:51 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Aug 2023 14:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2023 11:22:02 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Aug 2023 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Kevin Vågenes er 17 karakterer </title>
+      <description><![CDATA[Vi leser opp manuset til "The Last Of Us" sesong 2 ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/119f0080-0f06-456b-95b3-e2153831c8a3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/119f0080-0f06-456b-95b3-e2153831c8a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:47</itunes:duration>
+      <pubDate>Fri, 18 Aug 2023 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ylSi3TIfzerU14RhFtILxwY_XoMgvxDgv-uzt6KQT_mA.jpg"/>
+    </item>
     <item>
       <title>Noe Attåt: Tetes prank og pyroshow</title>
       <description><![CDATA[Tete forteller om nachspiel-prank, og vi fortsetter å planlegge å holde verdens korteste konsert. Tilstede: Tete, Karsten, Sofie, Herman og Johannes]]></description>
@@ -95,16 +104,6 @@ Fantasykode: 1rxeej]]></description>
       <itunes:duration>53:47</itunes:duration>
       <pubDate>Fri, 11 Aug 2023 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DP9UYYyEimViGneUrHn1cQtB2JCSF0oTzEZayB5tv7RQ.jpg"/>
-    </item>
-    <item>
-      <title>Karsten tester Tetes ballomat </title>
-      <description><![CDATA[Det er fredag. Og Karsten skal finne ut av hva hans lag i Premier League er, ved å ta Tetes ballomat. 
-Vi får også besøk av Skaar som er klar for å spille på Øya-festivalen ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4052f211-0b90-453f-9bf3-1b43bba046ed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4052f211-0b90-453f-9bf3-1b43bba046ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:37</itunes:duration>
-      <pubDate>Fri, 11 Aug 2023 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lIB8oi7BdrX4ts9Jj4AvDQyIDn2zMRr2MIlsw0KJk37Q.jpg"/>
     </item>
   </channel>
 </rss>
