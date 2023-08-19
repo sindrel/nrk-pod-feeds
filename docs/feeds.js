@@ -501,7 +501,7 @@ const feeds = [
     "id": "kommentert",
     "title": "De 10 siste fra Kommentert",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kongerekka",
