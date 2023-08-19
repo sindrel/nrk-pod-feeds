@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-08-19  
+- Updated podcast 'Kommentert' (`kommentert`)  
 ### 2023-08-17  
 - Updated podcast 'Heia Fotball' (`heia_fotball`)  
 - Updated podcast 'Musikkrommet' (`musikkrommet`)  
