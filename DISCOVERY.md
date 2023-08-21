@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-08-21  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2023-08-19  
 - Updated podcast 'Kommentert' (`kommentert`)  
 ### 2023-08-17  
