@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Aug 2023 04:27:22 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Aug 2023 04:27:15 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Steinar Klouman Hallert og haiangrepet </title>
+      <description><![CDATA[Går det an å dø av å ikke tørre å si fra? Ja, det viser seg det. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/4bfde7d9-63b8-420b-a84b-a1842994a1c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4bfde7d9-63b8-420b-a84b-a1842994a1c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:05</itunes:duration>
+      <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5zg8ILNZGcfIXu-1CzwehAZrHL2hMMEzhXRck5FHfbLQ.jpg"/>
+    </item>
     <item>
       <title>Tore Sagen og meningen med livet </title>
       <description><![CDATA[En lite livredd Tore og møtet med legen med Hawaiiskjorte. Og en irriterende mening med livet. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:39</itunes:duration>
       <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LSpPiepiEmsO6hGAIPf7Vgj2NKYYNf1SnPWnt3CXmHEg.jpg"/>
-    </item>
-    <item>
-      <title>Jonis Josefs dødsentusiasme</title>
-      <description><![CDATA[Jonis gleder seg mer over døden enn Martin hadde forutsett og det blir total uenighet om drømmen om evig liv. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/5b55afbb-8690-48e6-8f10-9c929c7c892b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5b55afbb-8690-48e6-8f10-9c929c7c892b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:56</itunes:duration>
-      <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/soAGVJWGyIGcxuQJmqUjQwpZAymQ9l_BehkOTP14jeQw.jpg"/>
     </item>
   </channel>
 </rss>

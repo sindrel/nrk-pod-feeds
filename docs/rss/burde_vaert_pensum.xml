@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Aug 2023 07:22:11 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Aug 2023 04:27:05 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    <item>
+      <title>Algoritmer er ingen spøk</title>
+      <description><![CDATA[Vi bruker like mye tid på nettet som vi bruker på å sove. Journalist Lena Lindgren forklarer hva algoritmer er, og hvordan de påvirker deg. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/260ff30d-aa50-4ef2-8ba2-3b5ed7f9d941_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/260ff30d-aa50-4ef2-8ba2-3b5ed7f9d941_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:57</itunes:duration>
+      <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
     <item>
       <title>Hva er lykke?</title>
       <description><![CDATA[Vi elsker å være lykkelige, men hva er det? Lege Kaveh Rashidi forklarer lykke og hva som skal til for å bli lykkelig.]]></description>
@@ -91,17 +100,6 @@
       <itunes:duration>27:52</itunes:duration>
       <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/sth_HzEd1L_Zc-oheoLI1Q6_lnNWjjZ_fnxAbq3EjiBQ.jpg"/>
-    </item>
-    <item>
-      <title>La oss snakke om seksualitet </title>
-      <description><![CDATA[Seksualitet er mer enn sex. Spesialist i sexologisk rådgivning, Nanna Klingenberg, forklarer hvorfor du bør snakke med partneren din om sex. 
-
- ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/77d539b4-d585-48de-a135-8e520bbafdb1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/77d539b4-d585-48de-a135-8e520bbafdb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:21</itunes:duration>
-      <pubDate>Mon, 02 Jan 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
   </channel>
 </rss>
