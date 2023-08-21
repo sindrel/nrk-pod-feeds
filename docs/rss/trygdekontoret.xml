@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Trygdekontoret. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/trygdekontoret for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 19 Jun 2023 04:29:16 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 21 Aug 2023 07:22:01 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>KI 2.0 - Når maskinene tar over</title>
+      <description><![CDATA[Hva skjer når maskinene tar over jobbene våre? Og hvilke jobber ryker først? Hvordan ser KI-verden ut om ti år? Og hvor realistisk er Erlends pessimisme? Med forfatter og Førsteamanuensis ved Institutt for datateknologi og informatikk på NTNU, Inga Strümke. Og Tore Wiig, forfatter, spaltist og professor i statsvitenskap på UiO. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/bbff5157-dea5-4e84-827f-c4621482e8cf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/bbff5157-dea5-4e84-827f-c4621482e8cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:11</itunes:duration>
+      <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0SQ3tEpRJLVoWutfS0YT4weDndahE06I3DeMBwliwkrQ.jpg"/>
+    </item>
     <item>
       <title>Rødt hår med Mikkel Niva</title>
       <description><![CDATA[Siden TV-serien South Park kom med ideen om at rødhårede ikke har sjel, har de med rødt hår blitt kødda mye med. Har "gingers" blitt en glemt minoritet? Vi snakker med en ufrivillig talsperson fra minoritetsgruppen, Mikkel Niva. Sesongavslutning! Nye episoder kommer 21.august. ]]></description>
@@ -95,15 +105,6 @@ Trygdevikar Erlend Mørch får besøk av Unge Venstre-leder Ane Breivik og Rødt
       <itunes:duration>59:25</itunes:duration>
       <pubDate>Mon, 24 Apr 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/J0KujU9Ot99lBWahR4VwVwysDXYvlRl0mu8ZRj7ufyyg.jpg"/>
-    </item>
-    <item>
-      <title>Tim Heidecker, cancel culture og ytringsfrihet </title>
-      <description><![CDATA[Den amerikanske komikeren Tim Heidecker om humorens rolle i samfunnet, cancel culture og ytringsfrihetens rom i et stadig mer polarisert USA. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c2542946-7253-4547-a467-22abd043f4a3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c2542946-7253-4547-a467-22abd043f4a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:36</itunes:duration>
-      <pubDate>Mon, 17 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tkrTpwv0BIvtKGmyLRXI0wK8pNzChKZU8dQOsLLDOXuA.jpg"/>
     </item>
   </channel>
 </rss>
