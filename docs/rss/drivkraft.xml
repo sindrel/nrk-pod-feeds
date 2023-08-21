@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 17 Aug 2023 13:27:47 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Aug 2023 15:15:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Aug 2023 12:41:58 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Aug 2023 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Jonas Kittelsen</title>
+      <description><![CDATA[Miljøaktivisten i Extiniction Rebellion mener sivil ulydighet er nødvendig for å vekke folk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5b389930-d0a8-466f-8cd5-ad0bdad2171a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5b389930-d0a8-466f-8cd5-ad0bdad2171a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Mon, 21 Aug 2023 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sRYdVSw2z2DrGJaaPvkDNwrkkf88EKSAB4kyLC69oZpw.jpg"/>
+    </item>
     <item>
       <title>Darja Barannik</title>
       <description><![CDATA[Da krigen i Ukraina brøt ut begynte hodet til moteprofilen «å spinne». I dag selger hun luer til inntekt for ukrainske flyktninger.
@@ -96,17 +105,6 @@
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Thu, 15 Jun 2023 14:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uvGom241nhbQfykXikEvKA42NnrxOQRMqmp3UGlW9rBA.jpg"/>
-    </item>
-    <item>
-      <title>Thomas Talawa Prestø</title>
-      <description><![CDATA[Koreografen ble utsatt for rasistisk vold som barn, men bestefaren lærte ham å ta kroppen tilbake. Gjennom dans.
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ce07e733-b3e6-4664-8999-16904760ed9e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ce07e733-b3e6-4664-8999-16904760ed9e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:22</itunes:duration>
-      <pubDate>Tue, 13 Jun 2023 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/375n183O0o0xh40FX6vjWA3kFduk1Z13xjon2VaHkPDg.jpg"/>
     </item>
   </channel>
 </rss>
