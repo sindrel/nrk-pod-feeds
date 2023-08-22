@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-08-22  
+- Updated podcast 'Hævvi' (`haevvi`)  
 ### 2023-08-21  
 - Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2023-08-19  
