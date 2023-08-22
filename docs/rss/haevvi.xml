@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hævvi. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/haevvi for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 04:29:05 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 22 Aug 2023 07:21:56 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
+    <item>
+      <title>GIESIESPESIALE  - Markomeannu livepod</title>
+      <description><![CDATA[Hævvien voestes livepod. 
+Markomeannu festivaaleste. Nelly jïh Jonna sotnen giesie-eejehtimmien, saemien gångkafuelhkien bijre soptsestidien jih aaj onne stååkedimmie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/26a8d13f-f8cd-431b-bb54-7368cefa2e4e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/haevvi/26a8d13f-f8cd-431b-bb54-7368cefa2e4e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:21</itunes:duration>
+      <pubDate>Tue, 22 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZNS6cM_lJAnkSlhpOiHgxQKSHQJA00g6aZRDrvJG-L2A.jpg"/>
+    </item>
     <item>
       <title>10. Baahkes nïejte giesie</title>
       <description><![CDATA[Minngemes episodesne dam raajroe nïejth . Gåerede baahkes nïejte giesie Saepmiesne utnedh? Tsahkemelæstoe tjeeli. 
@@ -95,15 +105,6 @@ Goltelæjja onterde jis åadtjoeh jeatjebi beelhtide staeriedidh.]]></descriptio
       <enclosure url="https://podkast.nrk.no/fil/haevvi/9a180ee7-d025-42f8-b157-97b9f2472105_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:15</itunes:duration>
       <pubDate>Tue, 25 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
-    </item>
-    <item>
-      <title>1. Aejnie-vaejnie vuelie</title>
-      <description><![CDATA[Jonna ij leah gåessie gænnah saemieh aarebi dateme, mohte mij lea joehketsem laedtiej jïh saemiej gaskem? Dïhte voestes aejnie-vaejnie vuelie dorjesåvva.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/b68849ec-4c10-4e00-98d4-4606fa5d81d0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/haevvi/b68849ec-4c10-4e00-98d4-4606fa5d81d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:31</itunes:duration>
-      <pubDate>Tue, 18 Apr 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
   </channel>
