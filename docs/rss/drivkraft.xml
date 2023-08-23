@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 22 Aug 2023 13:25:33 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Aug 2023 14:50:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Aug 2023 14:26:34 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Aug 2023 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>David JP Phillips</title>
+      <description><![CDATA["Det har aldri vært vanskeligere for hjernen enn nå" - Kommunikasjonseksperten forteller om hvordan oppmerksomheten vår blir frarøvet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/362fa696-f739-41de-b1ea-bb641d7234a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/362fa696-f739-41de-b1ea-bb641d7234a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:34</itunes:duration>
+      <pubDate>Wed, 23 Aug 2023 16:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zPN9on6R9fNRi0n5cxl07AwsnqFow4XIt5uD-Ds_lX-Q.jpg"/>
+    </item>
     <item>
       <title>Vigdis Garbarek</title>
       <description><![CDATA[Forfatteren og foredragsholderen hadde tung angst i 10 år, men i dag takker hun angsten. Hun sier den fikk henne til å søke i seg selv.]]></description>
@@ -95,16 +104,6 @@
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Tue, 20 Jun 2023 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1TGUWE5MiiIXkZdplOc-gw4LSZg8n7g97ahkPUQbg_CA.jpg"/>
-    </item>
-    <item>
-      <title>Kjerstin Braathen</title>
-      <description><![CDATA[Konsernsjefen i DNB vaks opp i klesbutikk, og betente kundar allereie som 12-åring. I dag leier ho 11000 ansatte.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8e7c02ec-1754-4052-b1df-7dadca7f600b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8e7c02ec-1754-4052-b1df-7dadca7f600b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:41</itunes:duration>
-      <pubDate>Mon, 19 Jun 2023 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1jrZgBzGgIHbdqffCreWdwFph9dSAjfkQQ6MG2T830Bg.jpg"/>
     </item>
   </channel>
 </rss>
