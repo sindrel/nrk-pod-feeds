@@ -1,18 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Radio Utslagsnes</title>
+    <title>De 3 siste fra Radio Utslagsnes</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Radio Utslagsnes. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_utslagsnes for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Radio Utslagsnes. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_utslagsnes for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 23 Aug 2023 04:28:04 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Aug 2023 04:27:16 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
     <item>
-      <title>01 Premiere på Radio Utslagsnes</title>
+      <title>Evaluering: Kan alle lese reklame?</title>
+      <description><![CDATA[Ståle må gjøre endringer på reklamefronten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/6be67a47-008b-4559-9b4e-e0d59a2dcd44_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/6be67a47-008b-4559-9b4e-e0d59a2dcd44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:47</itunes:duration>
+      <pubDate>Thu, 24 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
+    </item>
+    <item>
+      <title>Premiere på Radio Utslagsnes</title>
       <description><![CDATA[Høytidelig åpning og fanfaremaskin fra Murmansk.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/45349707-6f55-4cad-9eb6-e32dda8c6188_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/45349707-6f55-4cad-9eb6-e32dda8c6188_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>

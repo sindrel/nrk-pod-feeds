@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 21 Aug 2023 04:27:09 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Aug 2023 04:26:59 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Hvorfor øker seksualisert vold blant unge?</title>
+      <description><![CDATA[Flere unge oppgir å ha blitt utsatt for grove seksuelle krenkelser. Hvorfor skjer det og hva gjør vi? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/feb530d1-1bb1-4d92-bfc2-4d1260219462_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/feb530d1-1bb1-4d92-bfc2-4d1260219462_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:02</itunes:duration>
+      <pubDate>Thu, 24 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Deb6ZApMGI4waQCC2gJShApf9MbKle9BVEqo5eq5YRGw.jpg"/>
+    </item>
     <item>
       <title>Sliten etter ferie med gamle foreldre?</title>
       <description><![CDATA[Ekspertene gir råd for å lykkes med foreldreomsorg.
@@ -101,15 +110,6 @@
       <itunes:duration>22:10</itunes:duration>
       <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/m_jm5-vE-0RHM286ptRNAg6qPPK3Ts0Gw9vcXl7_zofQ.jpg"/>
-    </item>
-    <item>
-      <title>Øyenstikkeren: 300 millioner år gammel kjempe</title>
-      <description><![CDATA[Den har sett dinosaurer komme og gå. Men hvor fikk den navnet fra? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d522052c-5c75-48fb-8b75-6ae7958df838_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d522052c-5c75-48fb-8b75-6ae7958df838_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:25</itunes:duration>
-      <pubDate>Wed, 26 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SuBPGtwMCYfFuZstXzOFUAKAdNOM2xTg5LH9YOQRC3Cg.jpg"/>
     </item>
   </channel>
 </rss>
