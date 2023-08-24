@@ -882,7 +882,7 @@ const feeds = [
     "id": "radiodokumentaren",
     "title": "De 10 siste fra Historier fra virkeligheten",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "radiolegen",
@@ -1242,6 +1242,12 @@ const feeds = [
     "id": "utakt",
     "title": "De 10 siste fra Utakt",
     "season": null,
+    "enabled": true
+  },
+  {
+    "id": "valg",
+    "title": "De 10 siste fra Valg",
+    "season": "LATEST_SEASON",
     "enabled": true
   },
   {
