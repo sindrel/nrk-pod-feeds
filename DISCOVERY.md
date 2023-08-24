@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-08-24  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
+- Added podcast 'Valg' (`valg`)  
 ### 2023-08-22  
 - Updated podcast 'Hævvi' (`haevvi`)  
 ### 2023-08-21  
