@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 19 Aug 2023 11:22:04 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Aug 2023 12:50:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Aug 2023 04:28:38 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Krigen i Ukraina: De sårede</title>
+      <description><![CDATA[Får de mange sårede ukrainske soldatene hjelpen de trenger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/2632be41-b1d3-42e1-ba0e-965f3b9b352b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/2632be41-b1d3-42e1-ba0e-965f3b9b352b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:00</itunes:duration>
+      <pubDate>Fri, 25 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8J36blBMuqsn3XUfPcEZhQGRj61yyiqHjAxODIHjENGA.jpg"/>
+    </item>
     <item>
       <title>Ukraina brenner</title>
       <description><![CDATA[Men takket være hjelp fra Norge blir liv reddet]]></description>
@@ -93,15 +102,6 @@ Hetebølgene skyller over deler av verden. Vi skal til et av verdens varmeste st
       <itunes:duration>57:41</itunes:duration>
       <pubDate>Sat, 22 Jul 2023 12:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kb-p1ahe2rrY8tVVbmVZCAO4W8fNaGkMKk5VjQwyk84w.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: - Da han døde mistet jeg fremtiden min</title>
-      <description><![CDATA[Enker i Ukraina finner sammen og støtter hverandre i sorgen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/7db3fd40-fa2a-4fd8-973b-6a3ee4a1d418_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/7db3fd40-fa2a-4fd8-973b-6a3ee4a1d418_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:26</itunes:duration>
-      <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LRfhPFzIw_NtxJoeZEXm4wZiosMtDZKgNyBFFBiYfY8A.jpg"/>
     </item>
   </channel>
 </rss>

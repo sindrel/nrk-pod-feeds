@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 18 Aug 2023 04:27:41 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Aug 2023 04:28:26 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw.jpg"/>
+    <item>
+      <title>Nye tanker</title>
+      <description><![CDATA[Vi snakker med professor Bent Rønnestad om å starte intervalldragene hardere enn man avslutter, bolklegging av hardøkter og innlagte spurter på rolige langturer. Forskning og praksis på øverste nivå i sykkel gir positive svar på dette. Er det noe for løpere også?
+Kristian er storfornøyd med hvordan han trener om dagen, mens Jann prøver å holde kroppen i gang i VM-byen Budapest. På løpetur traff han Bernard Lagat og fikk et løpende intervju med legenden som er den eneste som har vunnet 1500m og 5000 m i samme VM.
+Mesterskapets første dager er selvfølgelig oppe til diskusjon sammen med to lytterspørsmål. Og ukas økt ble gjennomført som siste hardøkt av en VM-løper langs Donau.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0eaa7966-2eab-4075-9d74-d7bea608efa0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0eaa7966-2eab-4075-9d74-d7bea608efa0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:55:28</itunes:duration>
+      <pubDate>Fri, 25 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8bPdaSmUmchjnvfWT3ux0wcRmF8RM3d9Rp3aGFIHheDA.jpg"/>
+    </item>
     <item>
       <title>VM - Fra Waitz til Ingebrigtsen</title>
       <description><![CDATA[Et tilbakeblikk på VM-historiens høydepunkter i løpsøvelser, og forventninger til årets VM i friidrett hvor Norge stiller med en sterk tropp.]]></description>
@@ -103,15 +114,6 @@ I dag trener han med Team Ingebrigtsen og han ble en av heltene på Bislett Game
       <itunes:duration>02:29:47</itunes:duration>
       <pubDate>Fri, 23 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/KFWBVmVy5VKOmqWAEVLEKQ7kBgUWk8bOWgAb3WPWc2Wg.jpg"/>
-    </item>
-    <item>
-      <title>Grensesprengeren Bannister</title>
-      <description><![CDATA[Idrettshistoriker Thor Gotaas forteller om Roger Bannister som sprengte historisk grense ved å bli første løper under 4 minutter på en engelsk mil.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/76d51285-a7c3-4cca-ad89-6c97ba726f4f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/76d51285-a7c3-4cca-ad89-6c97ba726f4f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:58:09</itunes:duration>
-      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DFWKnV75OrrdDx4wttDYKgPVjcJ3f3mKn4_LuD-YofFQ.jpg"/>
     </item>
   </channel>
 </rss>
