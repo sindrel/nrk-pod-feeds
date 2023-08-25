@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 24 Aug 2023 10:28:57 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Aug 2023 11:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Aug 2023 10:28:24 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Aug 2023 11:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Vil i Guinness rekordbok</title>
+      <description><![CDATA[Jenny Skavlan og Ingrid Vik Lysne i Fæbrik er innom for å snakke om sin nye festival og Egil Skurdal får deg gjennom fredagen med nye hits. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1cef4203-2a7f-4525-8f2d-2e1676065e57_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1cef4203-2a7f-4525-8f2d-2e1676065e57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:54</itunes:duration>
+      <pubDate>Fri, 25 Aug 2023 11:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JrcUwkyJtFW1X8xrFDALuQJbb8oT6J3OBiS-Ep0-yd1g.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Dagen vi mistet Karsten</title>
       <description><![CDATA[Velkommen til vårt nye medlem! Vi prøver å bli kjent med vår nye gjestebooker, men blir stadig distrahert av nye ting vi lærer om Karsten. Tilstede: Tete, Karsten, Herman, Johannes og Kaja.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>48:15</itunes:duration>
       <pubDate>Fri, 18 Aug 2023 14:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Kevin Vågenes er 17 karakterer </title>
-      <description><![CDATA[Vi leser opp manuset til "The Last Of Us" sesong 2 ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/119f0080-0f06-456b-95b3-e2153831c8a3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/119f0080-0f06-456b-95b3-e2153831c8a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:47</itunes:duration>
-      <pubDate>Fri, 18 Aug 2023 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ylSi3TIfzerU14RhFtILxwY_XoMgvxDgv-uzt6KQT_mA.jpg"/>
     </item>
   </channel>
 </rss>
