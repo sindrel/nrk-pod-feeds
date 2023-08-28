@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 21 Aug 2023 04:27:15 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2023 04:27:45 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Tara Lina uten pappa</title>
+      <description><![CDATA[Taras største frykt var å miste en av foreldrene, og så døde faren. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/e1c51225-3775-41cf-8b6b-64e4f93612d6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e1c51225-3775-41cf-8b6b-64e4f93612d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:31</itunes:duration>
+      <pubDate>Mon, 28 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/M3ryB7Lc-I7Ps-CbULAThg61PbuJ4jwEJ49kfYpI3PbQ.jpg"/>
+    </item>
     <item>
       <title>Steinar Klouman Hallert og haiangrepet </title>
       <description><![CDATA[Går det an å dø av å ikke tørre å si fra? Ja, det viser seg det. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>46:30</itunes:duration>
       <pubDate>Mon, 26 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iIRjSI72Uq12nr_3SuZu6gaUpv5nTz4qQT9xdZ0GWGlw.jpg"/>
-    </item>
-    <item>
-      <title>Mikkel Niva, don't look him in the eyes</title>
-      <description><![CDATA[Mikkel Niva drar på safari i åpen bil uten våpen, men når han kommer hjem blir han dølle "Per".  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2cf16059-fbd2-4ec0-b3fe-97e6ff482271_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2cf16059-fbd2-4ec0-b3fe-97e6ff482271_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:39</itunes:duration>
-      <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LSpPiepiEmsO6hGAIPf7Vgj2NKYYNf1SnPWnt3CXmHEg.jpg"/>
     </item>
   </channel>
 </rss>
