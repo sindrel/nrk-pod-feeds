@@ -7,13 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 24 Aug 2023 13:29:36 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Aug 2023 15:15:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2023 12:43:10 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2023 14:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
     <item>
+      <title>Knut Buen</title>
+      <description><![CDATA[- Det kan gjøre vondt å leve, sier folkemusikeren. - Men det skal være slik.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b49ea306-a63e-4c4f-962e-4a4101558779_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b49ea306-a63e-4c4f-962e-4a4101558779_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:34</itunes:duration>
+      <pubDate>Mon, 28 Aug 2023 14:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O7glP34OQiIPX9XHNKPZnQxuWH8qb_sqARsENwPd_buw.jpg"/>
+    </item>
+    <item>
       <title>Magnus Rønningen</title>
-      <description><![CDATA["Kompis, storebror, og til tider som en far", slik beskriver Vågå-investoren, sitt forholdet til Petter Stordalen.]]></description>
+      <description><![CDATA[Investoren ser på Petter Stordalen som kompis, storebror, og noen ganger far. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4097617a-3f23-4f16-be9f-72cecdfd8996_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/4097617a-3f23-4f16-be9f-72cecdfd8996_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:28</itunes:duration>
@@ -92,15 +101,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Thu, 22 Jun 2023 13:34:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GcIOPV5SJHRudlHIOuqxBwuPNEKVqBf1mLUoW9noLebg.jpg"/>
-    </item>
-    <item>
-      <title>Julie Wilhelmsen</title>
-      <description><![CDATA[Russlandforskeren mener hun har et urolig hjerte, og føler på et ansvar for å fortelle om det hun ser]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/48a1afff-2073-4165-9230-095b64345565_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/48a1afff-2073-4165-9230-095b64345565_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:44</itunes:duration>
-      <pubDate>Wed, 21 Jun 2023 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JNz0hIoTnv944olNf-8wjQxGLXn6e-IbQ3bKicxoId8g.jpg"/>
     </item>
   </channel>
 </rss>
