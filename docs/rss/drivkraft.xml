@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 12:43:10 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Aug 2023 14:20:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Aug 2023 11:22:01 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Aug 2023 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Mayoo Indiran</title>
+      <description><![CDATA[Realityprofilen mener fengsel er nesten som Paradise Hotel
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f294cf6d-53b5-4651-8ff4-5e86b99a365c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f294cf6d-53b5-4651-8ff4-5e86b99a365c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Wed, 30 Aug 2023 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zZJIv0hWqJcsItIcIbUKawn8l5uWdil_S41fD2i4wwSQ.jpg"/>
+    </item>
     <item>
       <title>Knut Buen</title>
       <description><![CDATA[- Det kan gjøre vondt å leve, sier folkemusikeren. - Men det skal være slik.]]></description>
@@ -92,15 +103,6 @@
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Mon, 14 Aug 2023 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ppdHNlkwm5_6cHGMk7Q_pQp4_n0NB5YwcDhY7cH1TVgQ.jpg"/>
-    </item>
-    <item>
-      <title>Helene Myhre</title>
-      <description><![CDATA[- Jeg er det stikk motsatte av Lars Monsen, sier tur-influenseren med over 350 000 følgere. Hun tør i hvert fall ikke sove i telt alene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/bf240268-98a6-442a-9aac-1afb1edbc377_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/bf240268-98a6-442a-9aac-1afb1edbc377_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Thu, 22 Jun 2023 13:34:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GcIOPV5SJHRudlHIOuqxBwuPNEKVqBf1mLUoW9noLebg.jpg"/>
     </item>
   </channel>
 </rss>
