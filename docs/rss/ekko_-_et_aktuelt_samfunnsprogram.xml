@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 04:27:39 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Aug 2023 04:27:55 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Spørretime: Hvordan ser framtidas skog ut?</title>
+      <description><![CDATA[Skogen er til både nytte og glede, men mangfoldet trues.
+Biologen, klimajournalisten og skogeieren svarer på lytternes spørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/27e49bfe-f6e9-4650-840a-7f7ac5137953_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/27e49bfe-f6e9-4650-840a-7f7ac5137953_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:51</itunes:duration>
+      <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pjfahKS2YgYvmqU-IPH-BQzoQf16RX-XB_ANgjqlK-Ng.jpg"/>
+    </item>
     <item>
       <title>Lønner det seg egentlig å reparere?</title>
       <description><![CDATA[Nå kan det faktisk bli billigere, om  det foreslåtte momsfritaket på reparasjon går igjennom. Men kommer vi til å gidde uansett?
@@ -99,16 +109,6 @@
       <itunes:duration>36:28</itunes:duration>
       <pubDate>Wed, 09 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ACgtGGNaE04DgGyAuOPkUQcQ60kzmTsSf_RPF1vSpOQA.jpg"/>
-    </item>
-    <item>
-      <title>Dette kan vi lære av kampen for ozonlaget</title>
-      <description><![CDATA[Slik reddet vi ozonlaget på 80-tallet  –men kan hullet komme tilbake?  
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bd72db6c-aed5-4a59-a28e-ae8a2f74f20c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bd72db6c-aed5-4a59-a28e-ae8a2f74f20c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:56</itunes:duration>
-      <pubDate>Sun, 06 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_Q4noVkwjlfKnKbNklElhQB_h2Qve8lvdBaJcR-8EVVg.jpg"/>
     </item>
   </channel>
 </rss>
