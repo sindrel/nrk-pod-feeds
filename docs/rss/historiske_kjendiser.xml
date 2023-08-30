@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Historiske kjendiser. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/historiske_kjendiser for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Jun 2023 04:28:53 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 30 Aug 2023 07:21:57 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Haakon VII - valgt av folket</title>
+      <description><![CDATA[Folkets konge skulle aldri regjere, men tok sjansen da den bød seg.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:00</itunes:duration>
+      <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RcXhWxufScJfTl9KJWI1TQF2eLkEaUwAnyTVXhVV4z5g.jpg"/>
+    </item>
     <item>
       <title>Rikard Løvehjerte - sagnomsust folkehelt og krigerkonge</title>
       <description><![CDATA[Den myteomspunne kongen er for mange kjent som en tapper engelsk folkehelt. Han gjorde slagmarken til sitt hjem og rettet sverdet mot fiendene sine, men også mot sin egen familie.
@@ -94,15 +104,6 @@
       <itunes:duration>59:26</itunes:duration>
       <pubDate>Wed, 01 Mar 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RscBmB_-KP4skSNNXpA5OQV_auKSZi6Wn5TN2qnJWIBw.jpg"/>
-    </item>
-    <item>
-      <title>Aristoteles viet livet til kunnskapen</title>
-      <description><![CDATA[Dette er historien om grekeren som ble en av filosofiens fedre, og hvis skjebne ble flettet sammen med en verdenshersker. Livet viet han til kunnskapen, og selv i dag er den tydeligere enn vi kanskje forstår.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/311625d8-19b4-4051-b08a-ce62220fc248_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/311625d8-19b4-4051-b08a-ce62220fc248_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:04</itunes:duration>
-      <pubDate>Wed, 22 Feb 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-FBbORetLFuSpKZHpp8WsgOe-mE_OoRKq7HjLJw_L6Ug.jpg"/>
     </item>
   </channel>
 </rss>
