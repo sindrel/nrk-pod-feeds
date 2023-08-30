@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-08-30  
+- Added podcast 'Arena' (`arena`)  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2023-08-24  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 - Added podcast 'Valg' (`valg`)  

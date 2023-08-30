@@ -46,6 +46,12 @@
         "hidden": true
     },
     {
+        "id": "arena",
+        "title": "De 10 siste fra Arena",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "baksnakk",
         "title": "De 10 siste fra Baksnakk",
         "season": null,
@@ -363,7 +369,7 @@
         "id": "historiske_kjendiser",
         "title": "De 10 siste fra Historiske kjendiser",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "hoera",
