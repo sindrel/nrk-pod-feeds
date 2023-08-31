@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-08-31  
+- Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
+- Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2023-08-30  
 - Added podcast 'Arena' (`arena`)  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
