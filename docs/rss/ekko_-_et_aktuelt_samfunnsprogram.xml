@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 30 Aug 2023 04:27:55 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2023 04:27:51 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Hvorfor har vi fadderuke?</title>
+      <description><![CDATA[Den har vært ellevill og omstridt i hundrevis av år, og det var faktisk verre før.  Likevel ingen klart å forby den.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/62c3f0fd-4e09-4721-b8cb-77d133f11d30_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/62c3f0fd-4e09-4721-b8cb-77d133f11d30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:10</itunes:duration>
+      <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rRFbPZ9d0J03d95mZniTWQmYjm4pjFolgnr7PrPdj8fA.jpg"/>
+    </item>
     <item>
       <title>Spørretime: Hvordan ser framtidas skog ut?</title>
       <description><![CDATA[Skogen er til både nytte og glede, men mangfoldet trues.
@@ -99,16 +108,6 @@ Biologen, klimajournalisten og skogeieren svarer på lytternes spørsmål.]]></d
       <itunes:duration>28:40</itunes:duration>
       <pubDate>Sun, 13 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/awWb_BjgZzQetlK5FNYA0QZs4MvV7IJ-Eqls1gDiofVQ.jpg"/>
-    </item>
-    <item>
-      <title>Slik snakker du opp lønna</title>
-      <description><![CDATA[Her får du de beste triksene før lønnsamtalen med sjefen. - Du må kjenne din markedsverdi, sier psykologen. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0e51f8af-54b2-4250-a4dd-799c47026f45_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0e51f8af-54b2-4250-a4dd-799c47026f45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:28</itunes:duration>
-      <pubDate>Wed, 09 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ACgtGGNaE04DgGyAuOPkUQcQ60kzmTsSf_RPF1vSpOQA.jpg"/>
     </item>
   </channel>
 </rss>

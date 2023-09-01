@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 25 Aug 2023 04:28:26 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2023 04:28:01 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw.jpg"/>
+    <item>
+      <title>VM, treningstrender og fremtiden</title>
+      <description><![CDATA[Professor Øyvind Sandbakk har samlet eksperter fra 15 land for å finne hva som har vært og blir trender treningsmessig. VM-snakkisene er også tema.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/0ab0eec8-fbfe-4c21-ac0e-7a0450b6a376_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/0ab0eec8-fbfe-4c21-ac0e-7a0450b6a376_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:42:36</itunes:duration>
+      <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/czlfA1jvVLrNzaKR02r1MA-6UrF2QU5Z9EjpnNxkKQ8w.jpg"/>
+    </item>
     <item>
       <title>Nye tanker</title>
       <description><![CDATA[Vi snakker med professor Bent Rønnestad om å starte intervalldragene hardere enn man avslutter, bolklegging av hardøkter og innlagte spurter på rolige langturer. Forskning og praksis på øverste nivå i sykkel gir positive svar på dette. Er det noe for løpere også?
@@ -104,16 +113,6 @@ Kristian har rømt nordover, mens Jann prøver å stå opp om morgenen i Hellas.
       <itunes:duration>01:48:58</itunes:duration>
       <pubDate>Fri, 30 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CESJ8oyegr7HxZNcTKIuIgSbm3RsA1UHa_BiGF8aBtqw.jpg"/>
-    </item>
-    <item>
-      <title>Tuv Myhres forvandling</title>
-      <description><![CDATA[Magnus Tuv Myhre var amatør for fire år siden. 
-I dag trener han med Team Ingebrigtsen og han ble en av heltene på Bislett Games.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/f93b7689-434a-45a1-a1be-be26856548f9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/f93b7689-434a-45a1-a1be-be26856548f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:29:47</itunes:duration>
-      <pubDate>Fri, 23 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KFWBVmVy5VKOmqWAEVLEKQ7kBgUWk8bOWgAb3WPWc2Wg.jpg"/>
     </item>
   </channel>
 </rss>

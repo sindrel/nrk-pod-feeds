@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 26 Aug 2023 11:22:29 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Aug 2023 13:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2023 04:28:14 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Krigen i Ukraina: Når krigen skiller familien </title>
+      <description><![CDATA[Familien på tre bor trygt i Norge, mens bestemor er igjen i en krigsherjet by.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/02ebf16f-0d90-4152-a9c4-41279ebc735e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/02ebf16f-0d90-4152-a9c4-41279ebc735e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:20</itunes:duration>
+      <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ctv84JiFQWwKyFUmVVClXg9mzmIJjm4Gt6rVx4Raj5Yw.jpg"/>
+    </item>
     <item>
       <title>Et mønster av uoppklarte dødsfall preger Putins Russland. Slik går det med russere som kommer på kant med presidenten.</title>
       <description><![CDATA[Russlandkjennere mener Putin trolig stod bak da Wagner-sjefens fly eksploderte i luften onsdag. Putin er tidligere KGB-agent og KGBs etterfølger FSB er kjent for utspekulerte måter å stilne Putin-kritikere på.
@@ -92,15 +101,6 @@ Nervegift i en tekopp, mistenkelig ‘fall ut av vindu’, ugressmiddel i mat og
       <itunes:duration>57:45</itunes:duration>
       <pubDate>Sat, 29 Jul 2023 12:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QbtbEZG6HnZkcMzgPjauTQZ4YIx-vfGC5VUg0EVO3h3Q.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: Når hjemlandet går til krig</title>
-      <description><![CDATA[Russere i Norge nekter å akseptere Putins krig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/71b481bf-31c6-4f2a-b2dd-6bf5ac4dea0e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/71b481bf-31c6-4f2a-b2dd-6bf5ac4dea0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:51</itunes:duration>
-      <pubDate>Fri, 28 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SAOmexWkeHF2_lPnrZjybwfp1ZKobzV-UYximaEe-RyA.jpg"/>
     </item>
   </channel>
 </rss>
