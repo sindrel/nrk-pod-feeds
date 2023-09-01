@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-09-01  
+- Updated podcast 'Språksnakk' (`spraakteigen`)  
 ### 2023-08-31  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 - Updated podcast 'Radio Mørch' (`radio_moerch`)  
