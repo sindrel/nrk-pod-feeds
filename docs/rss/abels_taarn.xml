@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 01 Sep 2023 16:30:55 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Sep 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 02 Sep 2023 05:24:53 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Sep 2023 07:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ.jpg"/>
+    <item>
+      <title>Abels spesial - Forurensning i hagen din</title>
+      <description><![CDATA[På 50-tallet ble norske hageeiere sterkt oppfordret til å sprøyte epletrærne sine, ikke bare om våren, men sju ganger i løpet av året. Hvordan har all denne sprøytinga påvirket jordsmonn og epletrær i dag?
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/eab410e3-2d43-4683-b206-6ed1116dd53e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/eab410e3-2d43-4683-b206-6ed1116dd53e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:42</itunes:duration>
+      <pubDate>Sat, 02 Sep 2023 07:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ARqDEQ7SsojgjYIwvEmPJgbSFnePeyTbVumODMoa2VQg.jpg"/>
+    </item>
     <item>
       <title>Abels tårn - Hvordan bør oppvaskkosten oppbevares?</title>
       <description><![CDATA[- Er selv brød ultraprosessert, og gjør det noe?
@@ -217,19 +228,6 @@ Erik Joner]]></description>
       <itunes:duration>20:07</itunes:duration>
       <pubDate>Sat, 29 Jul 2023 07:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DETZ0e7SiJMbU6j1ae6rsAR6jIQGNUZs9pcNqEPaJVog.jpg"/>
-    </item>
-    <item>
-      <title>Abels serie - Drømmen om evig liv #4: Evighetsmennesket</title>
-      <description><![CDATA[Anders Sandberg er filosof ved Oxford og har inngått avtale om å fryses ned når han dør. Han tror at mennesket i framtiden vil bli en slags kyborg som glir inn mellom den fysiske verden og cyberspace.
-
-Medvirkende:
-Anders Sandberg
-Annelin Eriksen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a132aa92-31a6-4d8a-b78e-9477bc6c8390_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a132aa92-31a6-4d8a-b78e-9477bc6c8390_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:02</itunes:duration>
-      <pubDate>Fri, 28 Jul 2023 07:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ruh8p4PAdFFDJhe9gc_kkgU4PN_QaYTVZMS5dj8L2gAw.jpg"/>
     </item>
   </channel>
 </rss>
