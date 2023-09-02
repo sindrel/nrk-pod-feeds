@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Norsken, svensken og dansken. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/norsken_svensken_og_dansken for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.2 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 04:28:01 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Jun 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 02 Sep 2023 07:22:08 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    <item>
+      <title>Sommer horribilis </title>
+      <description><![CDATA[Danmark og Sverige vurderer å forby koranbrenning. Lar de religiøse ledere styre politikken? Hvorfor sitter Hassan igjen med en vond følelse i magen etter at Zelenskyj har vært på besøk? Og burde Knausård takke nei til den svenske Lenin-prisen?
+Velkommen tilbake til en ny sesong med ukentlig pan-skandinavisk familieterapi!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/03fc014c-3f49-4ea8-a4ec-3579a566d3e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/03fc014c-3f49-4ea8-a4ec-3579a566d3e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:04</itunes:duration>
+      <pubDate>Sat, 02 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
     <item>
       <title>Afterwashing</title>
       <description><![CDATA[Er det feil å lengte etter gode, gamle Sverige? Hva hjelper det å boikotte sjokolade dersom norske skipsredere selger oljetankskip til å frakte russisk olje? Og visste den store, danske forfatter Tove Ditlevsen om overgrepene mot datteren, som Ditlevsens nye mann begikk? Hør også om Hennes & Mauritz i gjenbrukstrøbbel, og våpensalg til Qatar.]]></description>
@@ -93,18 +103,6 @@ Hør også om nasjonaldagsfeiring på norsk og få boktips fra panelet!]]></desc
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/562ca548-a632-44b0-bc63-9e6fb8f5c263_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Sat, 22 Apr 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
-    </item>
-    <item>
-      <title>Finland spesial</title>
-      <description><![CDATA[Heter det finnen - eller finlenderen? Bare der starter problemet når vi inviterer nyslått NATO-medlem og verdens mest lykkelige folk til panskandinavisk familieterapi i Norsken, svensken, dansken og finnen... eller var det finlenderen?
-Hør om Finland sitt Stockholmsyndrom, det nye Nato-medlemskapet og mye mer du kanskje ikke visste om vårt naboland i øst. Episodens gjest er Johan Strang, Norden-ekspert og professor ved Universitetet i Helsinki.
-
- ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b7b06a69-a2c2-44b7-8a8e-76eeb276a504_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b7b06a69-a2c2-44b7-8a8e-76eeb276a504_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:46</itunes:duration>
-      <pubDate>Sat, 15 Apr 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
     </item>
   </channel>
