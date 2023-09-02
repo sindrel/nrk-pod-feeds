@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-09-02  
+- Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
 ### 2023-09-01  
 - Updated podcast 'Språksnakk' (`spraakteigen`)  
 ### 2023-08-31  
