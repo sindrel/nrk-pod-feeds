@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 01 Sep 2023 04:28:14 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 02 Sep 2023 11:22:17 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Sep 2023 12:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>De som seirer over krisene</title>
+      <description><![CDATA[De gir ikke opp selv om verden er grusom.
+Noen finner igjen sin familie, noen finner igjen sitt land og noen gir ikke opp håpet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/7b8c83fc-2819-4d13-91ce-db67bb243f62_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/7b8c83fc-2819-4d13-91ce-db67bb243f62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Sat, 02 Sep 2023 12:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0JUpV4Pq4KTiDdqfwj9RsQAONqcwbjnPS_TES4HyUwVA.jpg"/>
+    </item>
     <item>
       <title>Krigen i Ukraina: Når krigen skiller familien </title>
       <description><![CDATA[Familien på tre bor trygt i Norge, mens bestemor er igjen i en krigsherjet by.]]></description>
@@ -92,15 +102,6 @@ Nervegift i en tekopp, mistenkelig ‘fall ut av vindu’, ugressmiddel i mat og
       <itunes:duration>12:24</itunes:duration>
       <pubDate>Fri, 04 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BD6b1NmyuwOV0ifoyEbGLAnC4ZD1XLA8ck4XKpLBSFeA.jpg"/>
-    </item>
-    <item>
-      <title>Putins søken etter nye venner</title>
-      <description><![CDATA[Den russiske presidenten med sjarmoffensiv overfor afrikanske ledere.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/0864bfa8-6bdf-4b8a-beb5-399f24f5984a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/0864bfa8-6bdf-4b8a-beb5-399f24f5984a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:45</itunes:duration>
-      <pubDate>Sat, 29 Jul 2023 12:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QbtbEZG6HnZkcMzgPjauTQZ4YIx-vfGC5VUg0EVO3h3Q.jpg"/>
     </item>
   </channel>
 </rss>
