@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 02 Sep 2023 05:24:53 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Sep 2023 07:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2023 05:26:01 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Sep 2023 07:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ.jpg"/>
+    <item>
+      <title>Forskningsfronten - Å snakke ved tankens kraft ... og kunstig intelligens</title>
+      <description><![CDATA[Nyheter fra forksningens verden
+- Ny teknologi gir stemmen tilbake til mennesker som har mistet taleevnen: tankelesning, KI og talesyntese
+- Bør du sove på mage, rygg eller siden?
+- 1000 år etter kompasset har fysikere funnet en ny måte å finne nord på]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/395264c4-df72-44d9-a0ae-38eee607a206_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/395264c4-df72-44d9-a0ae-38eee607a206_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:12</itunes:duration>
+      <pubDate>Mon, 04 Sep 2023 07:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nfr1czIDMwEyAQ3TBlYHtwylmaRBB3m8aveQTAKOy4uA.jpg"/>
+    </item>
     <item>
       <title>Abels spesial - Forurensning i hagen din</title>
       <description><![CDATA[På 50-tallet ble norske hageeiere sterkt oppfordret til å sprøyte epletrærne sine, ikke bare om våren, men sju ganger i løpet av året. Hvordan har all denne sprøytinga påvirket jordsmonn og epletrær i dag?
@@ -214,20 +226,6 @@ Datalog Morten Goodwin
       <itunes:duration>57:09</itunes:duration>
       <pubDate>Fri, 04 Aug 2023 07:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TV7NgjH8O-YBf8m8SQDf6w91gUGIHBIcZH8YGKkZQHHw.jpg"/>
-    </item>
-    <item>
-      <title>Abels tårn - Kreativ taksidermi og kompostering</title>
-      <description><![CDATA[Er det regler for hva taksidermister kan gjøre når de stopper ut dyr? 
-Er magen vår i bunn og grunn en kompostbinge?
-
-Panelet
-Kjetil Lysne Voje
-Erik Joner]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/8fd5cfb1-ba0e-48a0-919b-290d99c5c9bc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8fd5cfb1-ba0e-48a0-919b-290d99c5c9bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:07</itunes:duration>
-      <pubDate>Sat, 29 Jul 2023 07:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DETZ0e7SiJMbU6j1ae6rsAR6jIQGNUZs9pcNqEPaJVog.jpg"/>
     </item>
   </channel>
 </rss>
