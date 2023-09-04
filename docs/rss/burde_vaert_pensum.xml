@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 04:27:37 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2023 04:27:27 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    <item>
+      <title>Hvorfor blir du mobbet?</title>
+      <description><![CDATA[Kjemiker og podkaster Alexander Sandtorv ble mobbet på skolen. Han vet hva mobbing er, og hvordan det er mulig å komme seg videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7874c7e5-4cb5-45e7-bda5-a824e0a6be36_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7874c7e5-4cb5-45e7-bda5-a824e0a6be36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:54</itunes:duration>
+      <pubDate>Mon, 04 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
     <item>
       <title>Få kontroll på pengene!</title>
       <description><![CDATA[Økonom Lene Drange gir deg oppskriften på hvordan du kan få råd til det du har lyst på. ]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/108ec696-6cee-4473-a773-29aa096a388e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:02</itunes:duration>
       <pubDate>Mon, 23 Jan 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
-    </item>
-    <item>
-      <title>Det vidunderlige havet</title>
-      <description><![CDATA[Havet er en skattekiste. Marinbiolog Pia Ve Dahlen tar deg med på en spennende oppdagelsestur under vann. Medvirkende: Susanna Huneide Thorbjørnsen og Elisabeth Tønnessen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/b2cf7ab8-65af-4c8c-befa-3a0f5a9bfb24_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/b2cf7ab8-65af-4c8c-befa-3a0f5a9bfb24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:53</itunes:duration>
-      <pubDate>Mon, 16 Jan 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
   </channel>
