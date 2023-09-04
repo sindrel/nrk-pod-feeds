@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 31 Aug 2023 14:27:31 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Aug 2023 15:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2023 12:43:07 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Sep 2023 14:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Zaineb Al-Samarai</title>
+      <description><![CDATA[Da Idrettspresidentens far havnet i konflikt med Saddam Hussein måtte familien flykte]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/656e7547-ce85-4eff-a269-aaebfa98bdfe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/656e7547-ce85-4eff-a269-aaebfa98bdfe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Mon, 04 Sep 2023 14:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vID0GPMY7bKocqTkVvTykwMW6CvuGnFzNcTIkKyexfwA.jpg"/>
+    </item>
     <item>
       <title>Ragna Marie Fjeld</title>
       <description><![CDATA["Folk blir så høye at de glemmer både mobiler, klokker og gifteringer." forteller generalsekretæren i Oslo Badstuforeningen, om å ta badstu.]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>56:20</itunes:duration>
       <pubDate>Wed, 16 Aug 2023 16:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YB9GaBcvKLoge28u2dJ20wEEJKsdDWQlA0O-2qVBN1nQ.jpg"/>
-    </item>
-    <item>
-      <title>Ane Dahl Torp</title>
-      <description><![CDATA[«Det er så mørkt å se ungdom ligge på telefonen i timevis». Skuespiller Ane Dahl Torp har tatt opp kampen om en skjermfri barneverden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b2817c8a-e619-4cff-b10b-db7e4fe8df8d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b2817c8a-e619-4cff-b10b-db7e4fe8df8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:47</itunes:duration>
-      <pubDate>Tue, 15 Aug 2023 15:55:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SzuvAqeC_NxvCxpDozvfjQj3MRnE35G5gYkLsdBHd5tw.jpg"/>
     </item>
   </channel>
 </rss>
