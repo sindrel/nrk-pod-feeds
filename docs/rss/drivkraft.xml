@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Sep 2023 12:43:07 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Sep 2023 14:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2023 12:42:47 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Sep 2023 14:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Janove Ottesen</title>
+      <description><![CDATA[Frontfiguren i Kaizers Orchestra føler seg som en antenne for ideer fra universet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/020b8259-783f-47ee-8d13-edefd58d54c4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/020b8259-783f-47ee-8d13-edefd58d54c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:37</itunes:duration>
+      <pubDate>Tue, 05 Sep 2023 14:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0RiXv3UFV-eN7ZxWSij5Xwsqldd7iDRc8qiYZ01mT9cQ.jpg"/>
+    </item>
     <item>
       <title>Zaineb Al-Samarai</title>
       <description><![CDATA[Da Idrettspresidentens far havnet i konflikt med Saddam Hussein måtte familien flykte]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>56:33</itunes:duration>
       <pubDate>Thu, 17 Aug 2023 15:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/O2AJ9OBdXpFa7JzSJCfavw4X0VM3HNqUxe-4eFRXb5mw.jpg"/>
-    </item>
-    <item>
-      <title>Julie Valsø</title>
-      <description><![CDATA["Jeg tenkte at jeg var en dårlig mamma", sier mamma influenser Julie Valsø om fødselsdepresjon.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6bf024ac-0c34-4b19-891c-766e84559013_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6bf024ac-0c34-4b19-891c-766e84559013_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:20</itunes:duration>
-      <pubDate>Wed, 16 Aug 2023 16:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YB9GaBcvKLoge28u2dJ20wEEJKsdDWQlA0O-2qVBN1nQ.jpg"/>
     </item>
   </channel>
 </rss>
