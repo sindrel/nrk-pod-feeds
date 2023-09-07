@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Sep 2023 12:43:16 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Sep 2023 13:45:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Sep 2023 12:42:44 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Sep 2023 14:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Viggo Venn</title>
+      <description><![CDATA[Klovner er nederst i hierarkiet av humorister, mener vinneren av Britain's got talent]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5cef3135-88fc-411b-9005-76b8877f9ab6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5cef3135-88fc-411b-9005-76b8877f9ab6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Thu, 07 Sep 2023 14:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AXU0K8gbSsdEmoUbbSpLsgVYrTfF2CcIgopWRZyq4ZvQ.jpg"/>
+    </item>
     <item>
       <title>Kim Wigaard</title>
       <description><![CDATA[Artisten ble tvunget til å leve i øyeblikket da faren fikk alvorlig demens
@@ -94,15 +103,6 @@
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Tue, 22 Aug 2023 14:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hVs0tkCS8MWLsEsjobjLgwHFSTsFD0gRC0MAgsAawj0A.jpg"/>
-    </item>
-    <item>
-      <title>Jonas Kittelsen</title>
-      <description><![CDATA[Miljøaktivisten i Extiniction Rebellion mener sivil ulydighet er nødvendig for å vekke folk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5b389930-d0a8-466f-8cd5-ad0bdad2171a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5b389930-d0a8-466f-8cd5-ad0bdad2171a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Mon, 21 Aug 2023 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sRYdVSw2z2DrGJaaPvkDNwrkkf88EKSAB4kyLC69oZpw.jpg"/>
     </item>
   </channel>
 </rss>

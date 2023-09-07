@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Sep 2023 10:30:04 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Sep 2023 12:06:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Sep 2023 12:42:59 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Sep 2023 13:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: hvordan bæsje på offentlig do</title>
+      <description><![CDATA[Musikal-episode møter bæsjehumor. Til stede: Karsten, Tete, Johannes og Kaja. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f22120d5-7f6c-4697-b9b7-ffa63fca36f4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f22120d5-7f6c-4697-b9b7-ffa63fca36f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:27</itunes:duration>
+      <pubDate>Thu, 07 Sep 2023 13:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Driter seg ut foran Stian Blipp</title>
       <description><![CDATA[Tete og Karsten leverer (ikke) i P3morgens talenter med Stian Blipp og Solveig Kloppen. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>54:43</itunes:duration>
       <pubDate>Thu, 31 Aug 2023 19:09:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Tennis + hasj = ?</title>
-      <description><![CDATA[Karsten og Tete spiller tennis i studio. Christine Dancke er gjest hos oss fordi hun har fått drømmejobben, nemlig dommer i "Stjernekamp". ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ddfc357b-7425-4442-9a1c-22a9d4e023b8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ddfc357b-7425-4442-9a1c-22a9d4e023b8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:04</itunes:duration>
-      <pubDate>Thu, 31 Aug 2023 13:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jiI__yMlqsGE8vsSJbFwjgcI1-QH0L5DwH7qSC_Kgtbw.jpg"/>
     </item>
   </channel>
 </rss>
