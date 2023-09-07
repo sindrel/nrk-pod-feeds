@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 31 Aug 2023 04:27:50 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Sep 2023 04:28:57 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
+    <item>
+      <title>#356 Jon Martin Henriksen</title>
+      <description><![CDATA[Programleder Jon Martin Henriksen forteller om livet uten FOMO og avslører om han ble en bedre versjon av seg selv etter Kompani Lauritzen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/63ee95b2-b909-4362-9a8b-83048ecf8e62_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/63ee95b2-b909-4362-9a8b-83048ecf8e62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:54:28</itunes:duration>
+      <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pzYpPngV4oueW6agOgXJfQzUbk052dxga4gI2PVB_xaw.jpg"/>
+    </item>
     <item>
       <title>#355 - Anders Fægri</title>
       <description><![CDATA[Om starten på den amerikanske fotballsatsningen som har resultert i Messi og MLS, og å spille kamp i Vietnam under Vietnamkrigen.]]></description>
@@ -97,18 +106,6 @@ I panelet: Sven Bisgaard Sundet, Emil Gukild og Tete Lidbom]]></description>
       <itunes:duration>01:46:21</itunes:duration>
       <pubDate>Tue, 23 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Q90pNBXIAvFUlk9WxlYTYg-iFWjTiwOvxsN2m-Zs71iQ.jpg"/>
-    </item>
-    <item>
-      <title>Snakkis: Cupfinale, rasisme og Roger Rass</title>
-      <description><![CDATA[Panelet fortviler over rasistisk La Liga, hyller Ryerson og Rasmussen og forsvarer de som ikke sang nasjonalsangen under cupfinalen.
-
-
-I panelet: Tete Lidbom, Sven Bisgaard Sundet, Ali Soufi-Grimsrud og Patrick Sten Rowlands]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/2e3dff83-39b4-41b8-9387-e2a33489d89d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/2e3dff83-39b4-41b8-9387-e2a33489d89d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:53</itunes:duration>
-      <pubDate>Mon, 22 May 2023 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
     </item>
   </channel>
 </rss>

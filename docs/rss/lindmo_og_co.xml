@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 31 Aug 2023 06:12:27 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Sep 2023 04:29:04 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    <item>
+      <title>Festfanten</title>
+      <description><![CDATA[Rune har vært på eksklusiv hagefest og testet ut en ny frekk selskapslek. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/2ee0ee49-2c77-4b53-95de-590df0953115_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/2ee0ee49-2c77-4b53-95de-590df0953115_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:33</itunes:duration>
+      <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    </item>
     <item>
       <title>Miss Rune</title>
       <description><![CDATA[Rune fikk divanykker på bryllupsreisa.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/2c8bbdb8-5af0-49da-9c45-ada0a3d4283e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:09</itunes:duration>
       <pubDate>Thu, 09 Feb 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
-    </item>
-    <item>
-      <title>Rumpevrikkens hymne</title>
-      <description><![CDATA[Anne, Rune og Halvor diskuterer irriterende uvaner, vedfyring og Billy Ray Cyrus' erotiske selvtillit.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ce2db632-af66-4009-93d1-086c9a71e0db_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ce2db632-af66-4009-93d1-086c9a71e0db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:03</itunes:duration>
-      <pubDate>Thu, 02 Feb 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
     </item>
   </channel>
