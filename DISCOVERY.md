@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-09-08  
+- Added podcast 'Træsh' (`traesh`)  
 ### 2023-09-05  
 - Updated podcast 'Kongerekka' (`kongerekka`)  
 ### 2023-09-02  
