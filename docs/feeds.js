@@ -1187,6 +1187,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "traesh",
+    "title": "De 10 siste fra Træsh",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "treningskompis",
     "title": "De 10 siste fra Treningskompis",
     "season": "LATEST_SEASON",
