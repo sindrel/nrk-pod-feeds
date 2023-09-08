@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 05 Sep 2023 05:26:01 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 08 Sep 2023 04:27:53 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Kim Kolstad: Isbiter og ungdomskilden </title>
+      <description><![CDATA[Skuespiller og gründer, Kim Kolstad, er dagens gjest. Det blir prat om å selge isbiter, gründer-livet og hvordan holde seg ung. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/c0984bb1-5ac1-48f7-8a78-00e2b30cbf0d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/c0984bb1-5ac1-48f7-8a78-00e2b30cbf0d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:18</itunes:duration>
+      <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DgHkWjj2A5qLfyf6dmGZmwQ0xCMI3D47UkGtytjK-ycg.jpg"/>
+    </item>
     <item>
       <title>Hvit saus, flykick og greske fliser</title>
       <description><![CDATA[Lars har introdusert foreldrene til svigers. Martin har sparka ball på barn. Sammen diskuterer de å ha fliser i stua. ]]></description>
@@ -91,17 +100,6 @@
       <itunes:duration>01:09:47</itunes:duration>
       <pubDate>Tue, 08 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
-    </item>
-    <item>
-      <title>Kevin Kildal: Swinging og Mørket fra nord</title>
-      <description><![CDATA[Komiker Kevin Kildal er dagens gjest. Det blir preik om swinging, Garderobemannens dødsbo og selvmordstanker.
-
-Trenger du noen å snakke med? Mental Helses hjelpetelefon: 116 123]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/fbcfa9f7-4ba3-4dfb-b568-8a6dcb21f3b4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/fbcfa9f7-4ba3-4dfb-b568-8a6dcb21f3b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:15:45</itunes:duration>
-      <pubDate>Fri, 04 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7B9pNS0rHRixiszDH3huagA43D2Vm5k-oHCVGHhm3Oxg.jpg"/>
     </item>
   </channel>
 </rss>
