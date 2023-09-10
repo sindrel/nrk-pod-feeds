@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 09 Sep 2023 04:27:02 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 10 Sep 2023 05:24:58 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Sep 2023 07:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ.jpg"/>
+    <item>
+      <title>Abels spesial - Bondens nye hjelper AX-1 roboten</title>
+      <description><![CDATA[AX-1 roboten jakter ugress og dreper det med en liten sprut. 
+Dette er presisjonsluking og kan spare miljøet for mye gift.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/bdbc045d-4f0f-4fb1-b517-5f8149a2aa15_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/bdbc045d-4f0f-4fb1-b517-5f8149a2aa15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:55</itunes:duration>
+      <pubDate>Sun, 10 Sep 2023 07:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pIDW4tBU_8RpBChLYILw-AqbWpFUKLcLHIi9FSDFnfnw.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten </title>
       <description><![CDATA[- Kan fosterceller kurere mors syke hjerte?
@@ -157,28 +167,6 @@ Med Øyvind Grøn og Ole Christian Reistad
       <itunes:duration>57:40</itunes:duration>
       <pubDate>Fri, 18 Aug 2023 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uETWger3cwyCR18EfOJjsQUNV4S8q6Nkx5WRnU1bwIkg.jpg"/>
-    </item>
-    <item>
-      <title>Abels tårn - Er det flest øyner eller føtter i verden?</title>
-      <description><![CDATA[ABELS TÅRN                                                                   
-- Nyser alle dyr?
-- Er det mulig å lage et kunstig kulelyn, styre det - og lage en plasmakanon?
-- Er det flest øyne eller føtter i verden?
-- Kan man grave så dype groper i havet at det ikke stiger?
-- Hvis man skulle sette opp en zipline mellom New Zealand og Australia, hvor høyt tårn må man bygge?
-og, hvor lang tid ville det tatt å skli over?
-- Høna eller egget, hva kom først?
-- Kan blekksprut få feber?
-
-I panelet:
-Paleontolog Lene Liebe Delsett
-Fysiker Vidar Skogvoll
-Marinbiolog Simon Hasselø Kline]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/602a3e52-4658-4227-b78b-ee63d2d6d63a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/602a3e52-4658-4227-b78b-ee63d2d6d63a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:40</itunes:duration>
-      <pubDate>Fri, 18 Aug 2023 09:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/StUL1hzVoiFsDmB3BxCJoQFW41wrYFSiJ0TvFmJ6NvLA.jpg"/>
     </item>
   </channel>
 </rss>
