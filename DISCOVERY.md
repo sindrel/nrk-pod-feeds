@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-09-10  
+- Updated podcast 'Feriestemning' (`feriestemning`)  
+- Updated podcast 'Sommer i P2' (`sommer_i_p2`)  
 ### 2023-09-08  
 - Added podcast 'Træsh' (`traesh`)  
 ### 2023-09-05  
