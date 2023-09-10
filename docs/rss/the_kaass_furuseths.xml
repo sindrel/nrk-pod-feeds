@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 03 Sep 2023 04:27:11 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 10 Sep 2023 04:26:50 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Viggo Venn</title>
+      <description><![CDATA[Klovnen Viggo Venn forteller om klovnekjæresten, den tidligere jobben i Kardemommeby og om hva han skal gjøre når han møter kong Charles. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/e70c2206-7f5b-40a3-b6ce-c13d90665d58_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e70c2206-7f5b-40a3-b6ce-c13d90665d58_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:20</itunes:duration>
+      <pubDate>Sun, 10 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/trAjjkZ2GzZ_DrYVt7aYPAzLjzqy1njt-lz21NuWn9pg.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Tete Lidbom</title>
       <description><![CDATA[Tete forteller hvorfor han har tatovert et selvportrett med bananpenis, hvordan utsette noen for en sakte-prank, og om sin tilfeldige modell-karriere.  ]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>36:18</itunes:duration>
       <pubDate>Sun, 09 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jjhxj07Z8-cAqp7sq-YtXg0xoZ2Al67hXzQAbJt6YqmQ.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Rasmus Wold</title>
-      <description><![CDATA[Komiker Rasmus Wold har fått seg kjæreste! Bli med inn i den fargerike leiligheten hans og hør hvilken gave han fikk av henne på første date. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/80ecebd9-d9e8-4a03-b4de-ad6cc225f7f5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/80ecebd9-d9e8-4a03-b4de-ad6cc225f7f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:41</itunes:duration>
-      <pubDate>Sun, 02 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3g-ePy3nYkp-VxmAZEeGAANkhkWS4jjxdgnwiMm6ferA.jpg"/>
     </item>
   </channel>
 </rss>
