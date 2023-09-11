@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Sep 2023 12:42:44 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Sep 2023 14:15:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2023 12:43:41 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Sep 2023 13:50:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Knut Nærum</title>
+      <description><![CDATA[Humoristen mener originalitet er overvurdert, og planlegger å gjenta seg selv mest mulig.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/38164a2d-3ad3-4232-98bd-7bd5a02a7c73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/38164a2d-3ad3-4232-98bd-7bd5a02a7c73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:52</itunes:duration>
+      <pubDate>Mon, 11 Sep 2023 13:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjCllHAm33p4TfjDRnex-QIYW6Yd60xal9ChcSBQVPbA.jpg"/>
+    </item>
     <item>
       <title>Viggo Venn</title>
       <description><![CDATA[Klovner er nederst i hierarkiet av humorister, mener vinneren av Britain's got talent]]></description>
@@ -94,15 +105,6 @@
       <itunes:duration>56:34</itunes:duration>
       <pubDate>Wed, 23 Aug 2023 16:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zPN9on6R9fNRi0n5cxl07AwsnqFow4XIt5uD-Ds_lX-Q.jpg"/>
-    </item>
-    <item>
-      <title>Vigdis Garbarek</title>
-      <description><![CDATA[Forfatteren og foredragsholderen hadde tung angst i 10 år, men i dag takker hun angsten. Hun sier den fikk henne til å søke i seg selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ab95a161-0a72-4846-ab5f-a6b87df214b9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ab95a161-0a72-4846-ab5f-a6b87df214b9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Tue, 22 Aug 2023 14:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hVs0tkCS8MWLsEsjobjLgwHFSTsFD0gRC0MAgsAawj0A.jpg"/>
     </item>
   </channel>
 </rss>
