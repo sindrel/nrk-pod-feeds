@@ -1,44 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Historier fra virkeligheten</title>
+    <title>De 5 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 24 Aug 2023 05:52:29 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Aug 2023 06:03:00 +0200</pubDate>
+    <lastBuildDate>Tue, 12 Sep 2023 04:27:38 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Sep 2023 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Ranet - Da staten ranet jødene (1:3) </title>
-      <description><![CDATA[Nazi-regimet vil utslette jødene – deres liv, kultur og arv. Som et ledd i dette beslaglegger myndighetene i 1943 alle jødiske verdier. 
- 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/23ec4b0a-e77b-47df-9950-584496916f9c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/23ec4b0a-e77b-47df-9950-584496916f9c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:35</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vzYj-lSiP6MFL0usZumK2AfegtjfPnbqKmaIdCWMSyng.jpg"/>
+      <title>Modern - Skitbyen (1:5)</title>
+      <description><![CDATA[Etter år med håpløse boforhold finner Berit en trygg base for seg og barna. De flytter inn i et hus bygget for Trondheims dotømmere – i Skitbyen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/9062c620-3d75-4038-b7d8-9eba53f6e9be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9062c620-3d75-4038-b7d8-9eba53f6e9be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:10</itunes:duration>
+      <pubDate>Tue, 12 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
     </item>
     <item>
-      <title>På bar bakke - Da staten ranet jødene (2:3)</title>
-      <description><![CDATA[Norske jøder som overlever folkemordet, kommer hjem til ingenting. Når de forsøker å få tilbake det som ble stjålet fra dem, møter de en vegg av motstand. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/660aa600-3744-478a-b646-43fbe588968c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/660aa600-3744-478a-b646-43fbe588968c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:30</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vzYj-lSiP6MFL0usZumK2AfegtjfPnbqKmaIdCWMSyng.jpg"/>
+      <title>Betongblokka til Hans - Skitbyen (2:5)</title>
+      <description><![CDATA[I frykt for å miste huset i Skitbyen, leter Berit etter en alternativ leilighet. Hun finner en – i Trøndelags skumleste kommunale blokk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/97eba54b-5e90-42f0-aa81-0de94493bae1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/97eba54b-5e90-42f0-aa81-0de94493bae1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:18</itunes:duration>
+      <pubDate>Tue, 12 Sep 2023 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
     </item>
     <item>
-      <title>Oppgjøret - Da staten ranet jødene (3:3) </title>
-      <description><![CDATA[50 år etter andre verdenskrig, skaper tyveriet av jødenes eiendom bråk. Staten Norge får en sjanse til å rette opp i gammel urett. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f0ea3ca7-1b61-4300-9c4c-2883cdb413b6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f0ea3ca7-1b61-4300-9c4c-2883cdb413b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:41</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vzYj-lSiP6MFL0usZumK2AfegtjfPnbqKmaIdCWMSyng.jpg"/>
+      <title>Lucky loosers - Skitbyen (3:5)</title>
+      <description><![CDATA[Ikke alle hunder er menneskets beste venn. Bikkja Lucky har ført til knekte ribbein, nesten-dødsulykker og skyhøye tannlegeregninger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/99b7ea5a-2597-4adc-90b0-48acb28c3fea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/99b7ea5a-2597-4adc-90b0-48acb28c3fea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:37</itunes:duration>
+      <pubDate>Tue, 12 Sep 2023 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
+    </item>
+    <item>
+      <title>Skipbruddet - Skitbyen (4:5)</title>
+      <description><![CDATA[Hvordan ender en optimist som Berit opp blant rotter og maur i Skitbyen? Bak det gode humøret har Berit en mørk hemmelighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/ee01c95b-9209-4e8b-ab08-08f7dca85ab7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ee01c95b-9209-4e8b-ab08-08f7dca85ab7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:27</itunes:duration>
+      <pubDate>Tue, 12 Sep 2023 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
+    </item>
+    <item>
+      <title>Med flagget til topps - Skitbyen (5:5)</title>
+      <description><![CDATA[Berits kamp for å bli i Skitbyen går mot slutten. Men hun har sloss og tapt mot systemet før – og har et motto: «Det ordne sæ!».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/ea607ee0-8e81-4d5b-91a2-91b12a80276b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ea607ee0-8e81-4d5b-91a2-91b12a80276b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:09</itunes:duration>
+      <pubDate>Tue, 12 Sep 2023 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
     </item>
   </channel>
 </rss>
