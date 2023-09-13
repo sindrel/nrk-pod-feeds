@@ -145,7 +145,7 @@
         "id": "debatten",
         "title": "De 10 siste fra Debatten",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "delfi_og_dolfy",
@@ -641,6 +641,12 @@
     {
         "id": "med_all_respekt",
         "title": "De 10 siste fra Med All Respekt",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "meininga_med_livet",
+        "title": "De 10 siste fra Meininga med livet",
         "season": null,
         "enabled": true
     },
