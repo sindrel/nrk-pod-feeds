@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Radio Utslagsnes</title>
+    <title>De 8 siste fra Radio Utslagsnes</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Radio Utslagsnes. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_utslagsnes for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Radio Utslagsnes. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_utslagsnes for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Sep 2023 04:29:16 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Sep 2023 04:28:12 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Kaffe eller bare kaffe?</title>
+      <description><![CDATA[Camp-fluensere og ny låt fra Sølvkråkebolle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/8db4a152-e815-4775-8f43-f491dd3ec96c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/8db4a152-e815-4775-8f43-f491dd3ec96c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:13</itunes:duration>
+      <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Nbu3KdYpEobeC6EPEzVEnweUVCw1OdNFSP8PNxCOHc9w.jpg"/>
+    </item>
     <item>
       <title>Evaluering: Hvor mye kan man kjederøyke?</title>
       <description><![CDATA[Diskusjon om grevlinger i studio og Edel i kiosken.]]></description>

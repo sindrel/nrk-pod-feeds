@@ -7,12 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Sep 2023 04:27:37 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Sep 2023 04:27:55 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
     <item>
-      <title>William Shakespeare</title>
+      <title>Eva Perón - kjempet for de fattige, og levde i luksus</title>
+      <description><![CDATA[Gikk fra skuespiller til førstedame, og ble hele Argentinas Evita.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:41</itunes:duration>
+      <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DlVLObXmdAvgDxYxCutJugrJD5H4FXw2gsf0Zjub4rmg.jpg"/>
+    </item>
+    <item>
+      <title>William Shakespeare - verdens største dramatiker</title>
       <description><![CDATA[ Hele verden kjenner historiene hans, men hans egen er et mysterium.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/04e8d973-56fb-46a7-9921-1f89c49865bb_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/04e8d973-56fb-46a7-9921-1f89c49865bb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -95,15 +104,6 @@
       <itunes:duration>57:04</itunes:duration>
       <pubDate>Wed, 15 Mar 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pA81_KUl3ABP9EFZDQSkgQdN6n0-wlXF8JYBUYkBugyw.jpg"/>
-    </item>
-    <item>
-      <title>Christian VII - "Den gale kongen"</title>
-      <description><![CDATA[Regenten av Danmark-Norge satt på tronen i 42 lange år, men ble utnyttet i et intrikat maktspill fullt av royale skandaler. Og i realiteten var det helt andre enn han som styrte landet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d370105b-d9ab-4e4a-98ba-05e83539a79d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d370105b-d9ab-4e4a-98ba-05e83539a79d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:40</itunes:duration>
-      <pubDate>Wed, 08 Mar 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5039gfe4BmxY6fyfo4UQRAy0-T-d2ogpn5AkggktMd_w.jpg"/>
     </item>
   </channel>
 </rss>
