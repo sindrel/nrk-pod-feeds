@@ -7,13 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Sep 2023 12:42:45 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Sep 2023 14:16:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Sep 2023 13:27:02 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Sep 2023 14:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
     <item>
+      <title>Jens Kvernmo</title>
+      <description><![CDATA[ «Planlegging passer meg ikke» sier eventyreren som nylig reiste til Mongolia uten returbillett og med utdatert kart.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/afc94a5a-5295-461f-a1a8-9b446f359ff9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/afc94a5a-5295-461f-a1a8-9b446f359ff9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:30</itunes:duration>
+      <pubDate>Wed, 13 Sep 2023 14:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ejs6_yggBADveyYEdWnrZQU9Cr0frSF_DL21LNru-ASg.jpg"/>
+    </item>
+    <item>
       <title>Long Litt Woon</title>
-      <description><![CDATA[Da soppentusiasten la ut bilder av spissmorkel ringte de fra Maemo.
+      <description><![CDATA[Da soppentusiasten la ut bilder av spissmorkel ringte de fra Maaemo.
 
 ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0f171317-344e-4468-8308-2ae14514bdfe_0_ID192MP3.mp3</guid>
@@ -98,15 +107,6 @@
       <itunes:duration>56:34</itunes:duration>
       <pubDate>Mon, 28 Aug 2023 14:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/O7glP34OQiIPX9XHNKPZnQxuWH8qb_sqARsENwPd_buw.jpg"/>
-    </item>
-    <item>
-      <title>Magnus Rønningen</title>
-      <description><![CDATA[Investoren ser på Petter Stordalen som kompis, storebror, og noen ganger far. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4097617a-3f23-4f16-be9f-72cecdfd8996_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4097617a-3f23-4f16-be9f-72cecdfd8996_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:28</itunes:duration>
-      <pubDate>Thu, 24 Aug 2023 15:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7ANWwEkkMsdIP-sPFzBShAm7MH2qGfXTlkOFJD1bcohw.jpg"/>
     </item>
   </channel>
 </rss>
