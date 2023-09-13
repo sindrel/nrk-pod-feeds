@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Debatten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/debatten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.1 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 22:26:18 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Jun 2023 22:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 13 Sep 2023 06:28:52 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Sep 2023 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    <item>
+      <title>Ap og Sp hardt straffet i valget</title>
+      <description><![CDATA[Hvorfor vil ikke velgerne ha mer av politikken til regjeringspartiene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/f6003726-3d7b-41df-9a25-a18df3b9b386_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/f6003726-3d7b-41df-9a25-a18df3b9b386_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:26</itunes:duration>
+      <pubDate>Tue, 12 Sep 2023 20:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    </item>
     <item>
       <title>Går norsk skole i riktig retning?</title>
       <description><![CDATA[Elever vil ha fleksitid, og droppe fraværsgrense og eksamen. Hvor mye bør de få påvirke egen skolehverdag?]]></description>
@@ -18,6 +27,7 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/d54317ef-4180-43c1-a8f4-27f82b0901a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:03:54</itunes:duration>
       <pubDate>Thu, 01 Jun 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
     <item>
       <title>«USS Gerald R. Ford» skaper jubel og frykt</title>
@@ -26,6 +36,7 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/67191e63-3365-40a8-87d8-d60ff6339902_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:45</itunes:duration>
       <pubDate>Thu, 25 May 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
     <item>
       <title>Gratis buss, båt og tog i Stavanger</title>
@@ -34,6 +45,7 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/6f9e6da1-ef80-4e24-930d-5499b8efdf23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:42</itunes:duration>
       <pubDate>Tue, 23 May 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
     <item>
       <title>Er det lov å pimpe opp bunaden?</title>
@@ -42,6 +54,7 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/149c149e-8e70-4332-b9ea-ef830a20325f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:18</itunes:duration>
       <pubDate>Tue, 16 May 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
     <item>
       <title>Åpen strid om presidentvervet i Idrettsstyret</title>
@@ -50,6 +63,7 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/7a0f5a5a-5060-4566-9ca3-d4e0597084f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:36</itunes:duration>
       <pubDate>Thu, 04 May 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
     <item>
       <title>Personstrid før Aps landsmøte</title>
@@ -58,6 +72,7 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/2eb9b93d-cddd-469c-b11e-3d4cfc1b7a62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:01</itunes:duration>
       <pubDate>Tue, 02 May 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
     <item>
       <title>Forskere: Spis så lite kjøtt som mulig</title>
@@ -66,6 +81,7 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/3ed9f392-0d05-4c2a-af23-10f639b4160f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:19</itunes:duration>
       <pubDate>Thu, 27 Apr 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
     <item>
       <title>Kokainbruk blant unge øker</title>
@@ -74,6 +90,7 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/6bcf4113-2451-4680-b6aa-1ecacf8cc458_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:16</itunes:duration>
       <pubDate>Tue, 25 Apr 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
     <item>
       <title>«Skatteflyktninger» utfordrer regjeringen</title>
@@ -82,14 +99,7 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/a2bc603c-b386-4abd-bb19-4658802fe038_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:59</itunes:duration>
       <pubDate>Thu, 20 Apr 2023 22:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>LO vil streike lenge</title>
-      <description><![CDATA[NHO vil forhandle mer lokalt, men LO protesterer og varsler opptrapping.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/133ba6a9-fe7a-4480-b10e-2a0d18196b1b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/133ba6a9-fe7a-4480-b10e-2a0d18196b1b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:47</itunes:duration>
-      <pubDate>Tue, 18 Apr 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
   </channel>
 </rss>
