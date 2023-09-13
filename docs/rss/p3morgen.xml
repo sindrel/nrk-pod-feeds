@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 13 Sep 2023 08:28:35 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Sep 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Sep 2023 10:29:36 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Sep 2023 12:16:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Billie, Bibelen og bart</title>
+      <description><![CDATA[Hør vår cover av Billie Eilish! Som ikke alle synes var like gøy... Til stede: Karsten, Egil, Johannes, Herman og Kaja. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/62d772e4-3890-47e3-81e0-5155470aa846_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/62d772e4-3890-47e3-81e0-5155470aa846_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:00</itunes:duration>
+      <pubDate>Wed, 13 Sep 2023 12:16:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Kong Haakon og pornobart</title>
       <description><![CDATA[Supervikar Egil har tatt med en motivasjons-quote alle bør få med seg, og Karsten har fått intro til barten sin. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:04:39</itunes:duration>
       <pubDate>Thu, 07 Sep 2023 12:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/290LMN4I4GUxI1icaBkFCQzIb7SXxmWMSKI1PkQnViow.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Rørt over Ramón</title>
-      <description><![CDATA[Herman gleder seg til å få Ramón tilbake, og gjengen er generelt i rart humør. Tilstede: Karsten, Johannes, Egil, Kaja og Herman.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e24503dc-201b-4f47-9ee0-94f8f4e7e052_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e24503dc-201b-4f47-9ee0-94f8f4e7e052_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:52</itunes:duration>
-      <pubDate>Wed, 06 Sep 2023 12:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
