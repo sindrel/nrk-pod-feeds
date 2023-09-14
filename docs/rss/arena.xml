@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Arena</title>
+    <title>De 3 siste fra Arena</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Sep 2023 04:27:25 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Sep 2023 04:27:42 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/uSWumQMVs2kU78epnR5J0g6KckGj5WLn-NB4E7uF80hw.jpg"/>
+    <item>
+      <title>Når går true crime for langt?</title>
+      <description><![CDATA["Avhørt" ble Norges største podkast etter Jonas-drapet, mens i utlandet raser mange pårørende over at de utnyttes i true crime-underholdning. Hvordan lage true crime om ekte menneskers tragedier? Gjester: Stein Morten Lier, Pernille Radeid (fra Truecrimepodden), Torkil Risan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/8d027e90-f5cb-4f37-a343-9a5f764bb63e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/8d027e90-f5cb-4f37-a343-9a5f764bb63e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:46</itunes:duration>
+      <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/butwHwNYZeBk_NkvLU8D5gHmnc9Lneo1BDLLCdQom8PQ.jpg"/>
+    </item>
     <item>
       <title>Vil streiken endre Hollywood for alltid?</title>
       <description><![CDATA[Hollywood lammes av streik. De røde løperne er tomme for stjerner, og filmer som "Dune" er utsatt. Hva skjer i kulissene nå? Gjester: Tommy Wirkola, Rune Temte og Vilde Schanke Sundet.]]></description>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Sep 2023 11:21:59 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Sep 2023 12:45:00 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Sep 2023 04:27:11 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
+    <item>
+      <title>#357 Jørgen Klem</title>
+      <description><![CDATA[Fotballkommentator Jørgen Klem forteller om lidenskapen for innebandy,  hånd-drama på Marienlyst og hvorfor han kalles selfie-kongen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/dd27578a-a3c3-40e1-b173-64f89f8cb952_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/dd27578a-a3c3-40e1-b173-64f89f8cb952_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:58:50</itunes:duration>
+      <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AvbihIX7U3eMSCTZNIjDlQY6JpABy65t1S0yeMc9moDg.jpg"/>
+    </item>
     <item>
       <title>Snakkis: Landskamp, Uno og Camavinga</title>
       <description><![CDATA[Norge møter Georgia på Ullevål på tirsdag og panelet har trua på seier, selv om Sven har traumer etter forrige landskamp han var på.
@@ -99,15 +108,6 @@ I panelet: Sven Bisgaard Sundet, Emil Gukild og Tete Lidbom]]></description>
       <itunes:duration>56:16</itunes:duration>
       <pubDate>Mon, 05 Jun 2023 12:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
-    </item>
-    <item>
-      <title>#351 Lise Klaveness</title>
-      <description><![CDATA[Fotballpresident Lise Klaveness forteller om livet etter FIFA-talen, isfronten med Infantino og hvorfor hun vurderte å si opp før Qatar-VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/f9766e7c-c2b2-4768-9b11-fba559d94fce_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/f9766e7c-c2b2-4768-9b11-fba559d94fce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:27:53</itunes:duration>
-      <pubDate>Wed, 31 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/00lEhmosXMOdMQDcjrSUfANS-d_fhV65uqtYVgnsN5_Q.jpg"/>
     </item>
   </channel>
 </rss>
