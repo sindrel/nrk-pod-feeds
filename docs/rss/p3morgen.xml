@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 10:30:00 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Sep 2023 11:44:00 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Sep 2023 11:22:10 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Sep 2023 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Tete sitt jetset-liv</title>
+      <description><![CDATA[Tete er tilbake! Og gjengen er sjokkert over Karsten sin bæsjehistorie. Til stede: Tete, Karsten, Johannes, Anna og Kaja.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c82f5d59-9331-45d5-a3d4-5eae24343a79_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c82f5d59-9331-45d5-a3d4-5eae24343a79_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:53</itunes:duration>
+      <pubDate>Thu, 14 Sep 2023 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fxriAmHApKvRmVG9e3iSGQn81HGlwkzIewmUeBAWNyeQ.jpg"/>
+    </item>
     <item>
       <title>Karstens skamfulle hemmelighet </title>
       <description><![CDATA[Märtha Louise skal gifte seg med sjamanen, Karsten forteller en skamfull hemmelighet og hvem er egentlig Åge Aleksandersen?
@@ -92,15 +101,6 @@
       <itunes:duration>01:03:19</itunes:duration>
       <pubDate>Fri, 08 Sep 2023 13:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ypcstf1HA0AD5kHC8TpXSwysngN3852wuM5lSHsX7yNA.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: hvordan bæsje på offentlig do</title>
-      <description><![CDATA[Musikal-episode møter bæsjehumor. Til stede: Karsten, Tete, Johannes og Kaja. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f22120d5-7f6c-4697-b9b7-ffa63fca36f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f22120d5-7f6c-4697-b9b7-ffa63fca36f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:27</itunes:duration>
-      <pubDate>Thu, 07 Sep 2023 13:25:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
