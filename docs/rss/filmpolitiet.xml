@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Sep 2023 14:27:03 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Sep 2023 16:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Sep 2023 14:27:48 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Sep 2023 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>Sørkoreanske knallfilmer</title>
+      <description><![CDATA[Vi gir deg et kræsjkurs i film fra Sør-Korea, i tillegg til seks filmfavoritter du kan strømme akkurat nå. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/e66e1529-39b5-4d50-8aa8-aec5861a92d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/e66e1529-39b5-4d50-8aa8-aec5861a92d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:19</itunes:duration>
+      <pubDate>Thu, 14 Sep 2023 16:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>9 filmfavoritter på under 90 minutter</title>
       <description><![CDATA[Lei av lange filmer? Vi har plukket ut 9 godbiter på under 90 minutter som passer utmerket til korte filmkvelder.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/263f62a1-6afc-45f6-8b55-359b31508991_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:40</itunes:duration>
       <pubDate>Thu, 13 Jul 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
-    </item>
-    <item>
-      <title>Ferske sommertips: Viaplay</title>
-      <description><![CDATA[Sigurd og Ingvill gir deg deilige serietips til late sommerdager.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/daca11b3-7764-45cb-8745-c2ae58edff6a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/daca11b3-7764-45cb-8745-c2ae58edff6a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:23</itunes:duration>
-      <pubDate>Thu, 06 Jul 2023 16:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
     </item>
   </channel>
