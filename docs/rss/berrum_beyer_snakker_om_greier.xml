@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Sep 2023 04:27:14 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 15 Sep 2023 04:28:42 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Niklas Baarli: ballong og brukket rygg</title>
+      <description><![CDATA[Programleder Niklas Baarli er dagens gjest. Det blir prat om ballongen han har i magen, roasten i bryllupet hans og da han brakk ryggen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b4bf2b26-4736-417b-b1a1-9278d30f3903_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b4bf2b26-4736-417b-b1a1-9278d30f3903_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:46</itunes:duration>
+      <pubDate>Fri, 15 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l7sZTqTo8Ly3Sd7XS2blwQjsz0XR4Nv5Oy1KIdie8kmw.jpg"/>
+    </item>
     <item>
       <title>Forrædertest, kaffegrut og teambuilding</title>
       <description><![CDATA[Lars kunne ikke vært programleder i forræder. Martin har fått tilbud om kaffegrut på isen. Sammen diskuterer de teambuilding.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:04:00</itunes:duration>
       <pubDate>Tue, 15 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
-    </item>
-    <item>
-      <title>Snorre Monsson: Kløfta, Solstad og humordebatt</title>
-      <description><![CDATA[Komiker Snorre Monsson er dagens gjest. Det blir preik om å vokse opp på Kløfta, ung humor i dag, og Dag Solstad-parodi. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f4bc4b22-0678-45a7-b361-4346ed7c3490_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f4bc4b22-0678-45a7-b361-4346ed7c3490_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:31</itunes:duration>
-      <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_aBm9NG9a32feowIRGdRjQfPCdX2ayoSOo3W-jell6mA.jpg"/>
     </item>
   </channel>
 </rss>
