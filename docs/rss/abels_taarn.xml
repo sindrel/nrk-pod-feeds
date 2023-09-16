@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 15 Sep 2023 15:24:13 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Sep 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 16 Sep 2023 05:24:54 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Sep 2023 07:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ.jpg"/>
+    <item>
+      <title>Abels spesial #3 - Kan vi leve uten plast?</title>
+      <description><![CDATA[Hvorfor er det så vanskelig å resirkulere plast?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3cc71583-fc10-43fd-bbd4-26c708d1762a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3cc71583-fc10-43fd-bbd4-26c708d1762a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:14</itunes:duration>
+      <pubDate>Sat, 16 Sep 2023 07:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b54YBjePJD5ObRD1yJAQCAZ922RdKFuB5ks3bdUF5WAQ.jpg"/>
+    </item>
     <item>
       <title>Abels tårn - Kan aliens leve i det tomme verdensrommet?</title>
       <description><![CDATA[- Flyter alt i kroppen når du ligger og dupper i badekaret?
@@ -148,37 +158,6 @@ Men var nyheten for god til å være sann? Abels tårn tar saken!]]></descriptio
       <itunes:duration>38:02</itunes:duration>
       <pubDate>Sat, 26 Aug 2023 07:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3RXoDoTOcye6VWKnWEe0HAVxuNVETf3LbAeykmjbkiHw.jpg"/>
-    </item>
-    <item>
-      <title>Abels tårn - Hvorfor får ikke elefanter kreft?</title>
-      <description><![CDATA[ABELS TÅRN 
-
-Ekspertpanelet:
-Biolog Katharina Vestre
-Lege Erik Sveberg Dietrichs 
-Marinbiolog Emilie Hernes Vereide
-
-Svarer i dag på disse spørsmålene:
-
-- Er det farlig å spise for mye banan?
-
-- Er det sant at elefanter ikke kan få kreft?
-
-- Hva ville skjedd om menneskene fikk oppgradert sansene sine?
-
-- Dreper sterkt krydder bakterier?
-
-- Kan fingertupper vokse tilbake?
-
-- Er stillehavsøstersen vår venn eller fiende?
-
-- Hvilken sopp er den farligste i miljøet vårt?
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/769173cd-18bc-4504-aafc-7d7e011826a4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/769173cd-18bc-4504-aafc-7d7e011826a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:40</itunes:duration>
-      <pubDate>Fri, 25 Aug 2023 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aLr4-IhPqxwNloX4g6K3wwXJMj68n6ZJzGt19qAqLPkA.jpg"/>
     </item>
   </channel>
 </rss>
