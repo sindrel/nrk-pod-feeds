@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Sep 2023 05:26:12 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Sep 2023 06:30:00 +0200</pubDate>
+    <lastBuildDate>Sun, 17 Sep 2023 04:26:14 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Saabye blir rørt over barna som leser «Beatles»</title>
+      <description><![CDATA[Etter 50 år som forfatter fyller han 70. – Jeg håper jeg ikke har forandret meg så mye, forteller Lars Saabye Christensen i forfatteintervjuet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/2cba129f-3368-41d0-8f86-54eeaa486025_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/2cba129f-3368-41d0-8f86-54eeaa486025_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:49</itunes:duration>
+      <pubDate>Sun, 17 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/36Npdz5F2Wupo5eWugZ1hwWA0IHzW3LKF2ux_DdCMCRQ.jpg"/>
+    </item>
     <item>
       <title>Inn i de små tingene og boken som sitter</title>
       <description><![CDATA[Monika Isakstuen vil inn i de små tingene, hun er på plass i forfatterintervjuet. Kari Spjeldnæs tipser om boken hun aldri blir ferdig med. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>13:02</itunes:duration>
       <pubDate>Wed, 16 Aug 2023 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hmbnc0oVOOlbsUlcWMpxSww7HMMCRyr48GGewRuQK61g.jpg"/>
-    </item>
-    <item>
-      <title>Gjenhør: Intervju med Tore Renberg</title>
-      <description><![CDATA[Tore Renberg i samtale med Cille Biermann om Texas-serien, og romanen  "Assalamu Alaikum". Denne episoden ble først sendt 10. september 2021.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/bb4ae6f5-db84-4148-ab1e-33dff2a0b254_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/bb4ae6f5-db84-4148-ab1e-33dff2a0b254_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:25</itunes:duration>
-      <pubDate>Sun, 13 Aug 2023 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OaFtqf25EtRfKk7UMsk6WwYMPyaT9o2hKGdAMVgWauAw.jpg"/>
     </item>
   </channel>
 </rss>

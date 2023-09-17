@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 10 Sep 2023 04:26:50 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 17 Sep 2023 04:26:42 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Kaizers Orchestra</title>
+      <description><![CDATA[Kaizers Orchestra er samlet i Oslo, og snakker med Else om diva-nykker, en hentesveis og en kjempestor kjæledyrsnegle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/4ba25a57-fa19-4f72-aa87-acff1682058b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/4ba25a57-fa19-4f72-aa87-acff1682058b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:55</itunes:duration>
+      <pubDate>Sun, 17 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-Qq3ft3WuodxBj-KnXlwNQumQEIAat2-BERqwgduC47w.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Viggo Venn</title>
       <description><![CDATA[Klovnen Viggo Venn forteller om klovnekjæresten, den tidligere jobben i Kardemommeby og om hva han skal gjøre når han møter kong Charles. ]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>48:11</itunes:duration>
       <pubDate>Sun, 16 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JpDHwwqJOEQLCRV1_nkBKA0SyYNY-TOVUIifRm56RaAg.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Jenny Huse</title>
-      <description><![CDATA[Jenny Huse forteller åpent om mobbing, ambisjoner og om veien mot å bli mangemilliardær når Else besøker henne hjemme hos foreldrene sine.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/cd41973d-442c-4d87-a7c6-769b6edf9ce7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/cd41973d-442c-4d87-a7c6-769b6edf9ce7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:18</itunes:duration>
-      <pubDate>Sun, 09 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jjhxj07Z8-cAqp7sq-YtXg0xoZ2Al67hXzQAbJt6YqmQ.jpg"/>
     </item>
   </channel>
 </rss>
