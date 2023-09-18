@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Sep 2023 04:28:10 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2023 04:31:14 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Henrik Fladseth og familiehemmeligheten</title>
+      <description><![CDATA[Hvor mye rekker man å organisere før man kveles av en kjøttbit? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/df9047a2-664c-4996-90c8-312756430a99_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/df9047a2-664c-4996-90c8-312756430a99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:20</itunes:duration>
+      <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fV6jfRE4_lYYvVbw_XsmHACb1nuvfm4ZDca76DT-OKjw.jpg"/>
+    </item>
     <item>
       <title>Alex Rosén med pistol mot hodet</title>
       <description><![CDATA[Rekk opp hånda de som har flere nær døden-opplevelser enn Alex! ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>28:39</itunes:duration>
       <pubDate>Mon, 17 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ub5A1vF0AemQBuCvlv9BeQh1TMw_naPNMc-NdoMeQl9A.jpg"/>
-    </item>
-    <item>
-      <title>Dævva spesial: Henrik Farley</title>
-      <description><![CDATA[Hvor lang tid tar det å tilgi familievennen som nesten lot ham drukne? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/c875c6f6-8c15-448a-85bd-14dee4f60bed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/c875c6f6-8c15-448a-85bd-14dee4f60bed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:25</itunes:duration>
-      <pubDate>Mon, 10 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/k-uHraJF4Z7m_t-ANsqJIgKd-EoxuQxTbFDKF3wpTCAw.jpg"/>
     </item>
   </channel>
 </rss>

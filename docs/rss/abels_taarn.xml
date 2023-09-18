@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 16 Sep 2023 05:24:54 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Sep 2023 07:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2023 04:30:48 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TuS6RMh2CSGDeDC4WGPp2Q0u5bmjKEKpYTON7KQObcTQ.jpg"/>
+    <item>
+      <title>Forskningsfronten - om myggens preferanser, sorte stjerner og neshorn</title>
+      <description><![CDATA[Myggens preferanser, sorte stjerner og utsetting av neshorn]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/6c8ef332-8e16-40b0-860d-2879f020223b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c8ef332-8e16-40b0-860d-2879f020223b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:59</itunes:duration>
+      <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Dkh2oNi-VUSgGDD56ThlwwK0lWHQTtYa1jKExL4PhCQ.jpg"/>
+    </item>
     <item>
       <title>Abels spesial #3 - Kan vi leve uten plast?</title>
       <description><![CDATA[Hvorfor er det så vanskelig å resirkulere plast?
@@ -147,17 +156,6 @@ Ole Martin Løvvik - Fysiker
       <itunes:duration>24:36</itunes:duration>
       <pubDate>Mon, 28 Aug 2023 07:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EHr6mmAlXugR27JnNh-2ggoMkfEWmTzHgGX05kg2oW6A.jpg"/>
-    </item>
-    <item>
-      <title>Spesial: LK-99 Superlederen som slo ned som en bombe</title>
-      <description><![CDATA["Dette er århundrets forskningsgjennombrudd", blei det meldt  i nyhetsmedier verden over for noen uker siden. "Det vil snu opp ned på hvordan vi lever våre liv!"
-Forskningsbomben var at koreanske forskere meldte om et nytt materiale som var superledende ved romtemperatur. Det ville i så fall innebære et strømnett helt uten energitap, et farvel til ulike kraftregioner her til lands, superraske svevende tog og datamaskiner tusener ganger kraftigere enn dagens. 
-Men var nyheten for god til å være sann? Abels tårn tar saken!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4448a426-8fb7-4fc1-8e24-3fa9c00c7fd0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4448a426-8fb7-4fc1-8e24-3fa9c00c7fd0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:02</itunes:duration>
-      <pubDate>Sat, 26 Aug 2023 07:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3RXoDoTOcye6VWKnWEe0HAVxuNVETf3LbAeykmjbkiHw.jpg"/>
     </item>
   </channel>
 </rss>
