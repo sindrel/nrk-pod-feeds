@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 16 Sep 2023 10:26:45 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Sep 2023 12:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 20 Sep 2023 19:22:05 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Sep 2023 21:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Krigen i Ukraina: Feilene i den ukrainske offensiven</title>
+      <description><![CDATA[Hva gikk egentlig galt helt i begynnelsen av den ukrainske offensiven?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/2e405143-22fe-4250-96b1-9de9bcb96763_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/2e405143-22fe-4250-96b1-9de9bcb96763_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:19</itunes:duration>
+      <pubDate>Wed, 20 Sep 2023 21:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TDa6_QOaoxPUy-qpSEIauwWJLeZJuaAvyec0bwKPyRbA.jpg"/>
+    </item>
     <item>
       <title>Hva skjedde med opprøret i Iran?</title>
       <description><![CDATA[Da en ung iransk kvinne døde i politiets varetekt begynte et opprør i Iran. Det var kvinnene som ledet an. Nå har det gått et år siden det begynte.]]></description>
@@ -102,15 +111,6 @@ Nervegift i en tekopp, mistenkelig ‘fall ut av vindu’, ugressmiddel i mat og
       <itunes:duration>57:42</itunes:duration>
       <pubDate>Sat, 19 Aug 2023 12:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_Js__mPwSaBVNDC7O5XWhgmc5Ei1tWcLK3fit-L8GaCg.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: Kampmusikken</title>
-      <description><![CDATA[Ukrainske sanger hyller soldatene og spotter russerne. Men hjelper det i den kampen de står i nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/26b0181d-d652-4413-96ec-3b6a9e8cde1c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/26b0181d-d652-4413-96ec-3b6a9e8cde1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:43</itunes:duration>
-      <pubDate>Fri, 18 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dy4tSQSdiBbutRrPRLyWNw6SYo_doiIMZZVR7IH3vmCA.jpg"/>
     </item>
   </channel>
 </rss>
