@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-09-21  
+- Updated podcast 'Hævvi' (`haevvi`)  
+- Updated podcast 'I dødens spor' (`i_doedens_spor`)  
 ### 2023-09-19  
 - Updated podcast 'I dødens spor' (`i_doedens_spor`)  
 ### 2023-09-13  
