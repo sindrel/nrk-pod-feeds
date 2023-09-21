@@ -351,7 +351,7 @@ const feeds = [
     "id": "haevvi",
     "title": "De 10 siste fra Hævvi",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "heia_fotball",
@@ -400,7 +400,7 @@ const feeds = [
   {
     "id": "i_doedens_spor",
     "title": "De 10 siste fra I dødens spor",
-    "season": null,
+    "season": "LATEST_SEASON",
     "enabled": true
   },
   {
