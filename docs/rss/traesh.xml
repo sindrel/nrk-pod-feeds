@@ -1,18 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Træsh</title>
+    <title>De 3 siste fra Træsh</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Træsh. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/traesh for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Træsh. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/traesh for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 04:27:32 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 04:28:26 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gZGZqMFqYK49hfIVXYhzGRQ.jpg"/>
     <item>
-      <title> Er Taylor Swift bifil?</title>
+      <title>Er det træshy å ha kjente foreldre i 2023?</title>
+      <description><![CDATA[Flinke eller talentløse, men fulle av privelegier. Annika Momrak er på plass for å snakke om nepobabies i Hollywood. I tillegg til Russel Brand, Harry Styles og hvor ofte tenker vi på Romerriket? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/f3ae3b1b-2278-4f02-baf3-ffe0539988a2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/f3ae3b1b-2278-4f02-baf3-ffe0539988a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:06</itunes:duration>
+      <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BuBVnBbMT_BPXJ5bJX7EDwCOcbhKch6vGU_JMLNorDVg.jpg"/>
+    </item>
+    <item>
+      <title>Er Taylor Swift bifil?</title>
       <description><![CDATA[Turner vs. Jonas, Danny Masterson, og alt du trenger å vite om «Gaylor». Med Gisle August Gjevestad Agledahl som gjest. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/6e193e65-a0de-49d9-8bf6-c0c7490c9d16_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/traesh/6e193e65-a0de-49d9-8bf6-c0c7490c9d16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>

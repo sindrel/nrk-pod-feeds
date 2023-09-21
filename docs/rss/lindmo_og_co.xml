@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 04:27:17 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 04:28:03 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    <item>
+      <title>Anne har stått</title>
+      <description><![CDATA[Anne har prøvd seg som stand up-komiker i Bergen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/fe875ed6-6093-430c-be89-57b462fff39e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/fe875ed6-6093-430c-be89-57b462fff39e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:18</itunes:duration>
+      <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    </item>
     <item>
       <title>Dagsrot Atten</title>
       <description><![CDATA[Rune, Anne og Halvor forsøker å dekke valget og lander med et mageplask.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/cbe84636-a064-41d1-bae3-8d925b161546_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:25</itunes:duration>
       <pubDate>Thu, 23 Feb 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
-    </item>
-    <item>
-      <title> Dårlige dater</title>
-      <description><![CDATA[Lindmo og co deler datehistorier! Anne skjønte ikke at hun ble sjekka opp, Rune var på tidenes verste stevnemøte, mens Halvor var for konfliktsky til å si nei. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/b9b6e752-3dec-48f7-8061-ef1e3ebb42db_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/b9b6e752-3dec-48f7-8061-ef1e3ebb42db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:35</itunes:duration>
-      <pubDate>Thu, 16 Feb 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
     </item>
   </channel>

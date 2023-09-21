@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Hele historien</title>
+    <title>De 4 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 20 Sep 2023 10:29:46 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Sep 2023 11:32:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 04:27:54 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
@@ -18,6 +18,33 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/9a74024f-ed5a-4e0e-bbab-e0d674ffbb9c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:52</itunes:duration>
       <pubDate>Wed, 20 Sep 2023 11:32:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6nQcZRDqiRzedsMQ0-SHNQKwzW7I2NKjP77MRAhwLDyw.jpg"/>
+    </item>
+    <item>
+      <title>Spriten sprer seg  - Dødelig sprit (1:3)</title>
+      <description><![CDATA[Etter mystiske sykehusinnleggelser og dødsfall jobber politiet desperat med å få oversikt over livsfarlige spritkanner som sprer seg landet over. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/ab2d2c34-11e2-44dc-8daf-ebbca49cd5dc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/ab2d2c34-11e2-44dc-8daf-ebbca49cd5dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:40</itunes:duration>
+      <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6nQcZRDqiRzedsMQ0-SHNQKwzW7I2NKjP77MRAhwLDyw.jpg"/>
+    </item>
+    <item>
+      <title>Smuglernettverkene - Dødelig sprit (2:3)</title>
+      <description><![CDATA[Fengslene fylles av mistenkte, men hva ligger bak forgiftningen av kannene? Grådighet, rivalisering, feilblanding – eller terror?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/c65ca286-6e57-4776-8b34-e88e015a99aa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/c65ca286-6e57-4776-8b34-e88e015a99aa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:55</itunes:duration>
+      <pubDate>Thu, 21 Sep 2023 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6nQcZRDqiRzedsMQ0-SHNQKwzW7I2NKjP77MRAhwLDyw.jpg"/>
+    </item>
+    <item>
+      <title>Spritkongen - Dødelig sprit (3:3)</title>
+      <description><![CDATA[Giftig sprit fortsetter å ta liv. Saken har forgreininger til flere andre land. En selverklært spritkonge samarbeider med politiet, med livet som innsats. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/de13adaf-0046-4998-80a0-18b7b2821611_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/de13adaf-0046-4998-80a0-18b7b2821611_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:57</itunes:duration>
+      <pubDate>Thu, 21 Sep 2023 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6nQcZRDqiRzedsMQ0-SHNQKwzW7I2NKjP77MRAhwLDyw.jpg"/>
     </item>
   </channel>
