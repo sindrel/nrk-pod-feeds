@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 14:27:48 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Sep 2023 16:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 22:26:43 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 16:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>Sex på skjermen</title>
+      <description><![CDATA[I anledning finalesesongen av «Sex Education» på Netflix prater vi om sex i serier og på film. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/5c50f9c5-0232-4af1-b927-86cd8b309783_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/5c50f9c5-0232-4af1-b927-86cd8b309783_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:42</itunes:duration>
+      <pubDate>Thu, 21 Sep 2023 16:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>Sørkoreanske knallfilmer</title>
       <description><![CDATA[Vi gir deg et kræsjkurs i film fra Sør-Korea, i tillegg til seks filmfavoritter du kan strømme akkurat nå. ]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/4fdcac21-741a-4ac4-af4a-80f3fd3c9de1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:43</itunes:duration>
       <pubDate>Thu, 20 Jul 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
-    </item>
-    <item>
-      <title>Ferske sommertips: Sky Showtime</title>
-      <description><![CDATA[Sigurd og Ingvill gir deg deilige serietips til late sommerdager.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/263f62a1-6afc-45f6-8b55-359b31508991_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/263f62a1-6afc-45f6-8b55-359b31508991_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:40</itunes:duration>
-      <pubDate>Thu, 13 Jul 2023 16:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
     </item>
   </channel>
