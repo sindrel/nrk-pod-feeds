@@ -209,7 +209,7 @@ const feeds = [
     "id": "eventyrstund_med_morten_og_saft",
     "title": "De 10 siste fra Eventyrstund med Morten og Saft",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "familiene_paa_orderud",
