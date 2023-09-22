@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-09-22  
+- Updated podcast 'Eventyrstund med Morten og Saft' (`eventyrstund_med_morten_og_saft`)  
 ### 2023-09-21  
 - Updated podcast 'Hævvi' (`haevvi`)  
 - Updated podcast 'I dødens spor' (`i_doedens_spor`)  
