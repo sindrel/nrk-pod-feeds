@@ -1266,7 +1266,7 @@ const feeds = [
     "id": "valg",
     "title": "De 10 siste fra Valg",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "verden_paa_loerdag",
