@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 18 Sep 2023 04:31:14 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2023 04:27:58 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Lisa Tønne, se opp for badekaret! </title>
+      <description><![CDATA[Lisa Tønne har overlevd de rareste ting. Hvor mange liv har hun igjen nå? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/ce43a574-625c-4d1d-9668-079a4f7e1599_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/ce43a574-625c-4d1d-9668-079a4f7e1599_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:18</itunes:duration>
+      <pubDate>Mon, 25 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3qG21KNzUvdBgmsjnZpwBQXxh7N0IWLtm1r-L7aBiURw.jpg"/>
+    </item>
     <item>
       <title>Henrik Fladseth og familiehemmeligheten</title>
       <description><![CDATA[Hvor mye rekker man å organisere før man kveles av en kjøttbit? ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>28:19</itunes:duration>
       <pubDate>Mon, 24 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/N5TfH90JB1GaoxriIfXJ6wQjwiWpnWrHrYZ_LzDBrEZA.jpg"/>
-    </item>
-    <item>
-      <title>Dævva spesial: Markus Neby</title>
-      <description><![CDATA[Hvor mange avlivingssprøyter kan en liten, men litt for stor kropp tåle da? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/e2b0e9a8-3225-4588-be61-6679629848d0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e2b0e9a8-3225-4588-be61-6679629848d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:39</itunes:duration>
-      <pubDate>Mon, 17 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ub5A1vF0AemQBuCvlv9BeQh1TMw_naPNMc-NdoMeQl9A.jpg"/>
     </item>
   </channel>
 </rss>

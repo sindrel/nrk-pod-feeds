@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 18 Sep 2023 04:31:39 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2023 04:28:14 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Kryptovaluta</title>
+      <description><![CDATA[Thomas Seltzer er tilbake! Krypto, NFT og Bitcoins skulle revolusjonere både finanssystemet og verden, men hvordan har det egentlig gått? Med investeringsdirektør i Nordea, Robert Næss og forsker hos forskningsinstituttet Vestlandsforsking, Svein Ølnes. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c6c903e5-f5cf-4a12-8b03-7e3041c3d837_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c6c903e5-f5cf-4a12-8b03-7e3041c3d837_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:37</itunes:duration>
+      <pubDate>Mon, 25 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MvRPxiTOj9QQLYVJJc4qUABuZmjR45tfDx_EW2qaYXQw.jpg"/>
+    </item>
     <item>
       <title>Ytringsfrihetens fremtid</title>
       <description><![CDATA[Hva er egentlig en ytring? Og er det en god idé å forby koranbrenning? Med Anine Kierulf og Vebjørn Selbekk. ]]></description>
@@ -92,17 +101,6 @@
       <itunes:duration>59:43</itunes:duration>
       <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IWvTDi74LBPlNvHPaE_3oQl-KjHO8C7eOOPnbWTSj-BA.jpg"/>
-    </item>
-    <item>
-      <title>Kunstig intelligens</title>
-      <description><![CDATA[Er KI som flere trodde om internett: En døgnflue? Eller er det farlig? Og gjør det egentlig så mye at det er en maskin og ikke et menneske som lager kunst, kjører buss eller jobber på legekontor? Teknologirådgiver Torgeir Waterhouse forklarer hvorfor han er fan – og hva vi bør tenke litt ekstra på.
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/9dd01e2d-69ca-48f0-9036-1de25299ea25_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9dd01e2d-69ca-48f0-9036-1de25299ea25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:19:01</itunes:duration>
-      <pubDate>Mon, 22 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0SQ3tEpRJLVoWutfS0YT4weDndahE06I3DeMBwliwkrQ.jpg"/>
     </item>
   </channel>
 </rss>
