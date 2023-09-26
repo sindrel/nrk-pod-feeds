@@ -1,106 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra I dødens spor</title>
+    <title>De 1 siste fra I dødens spor</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten I dødens spor. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_doedens_spor for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten I dødens spor. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_doedens_spor for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 19 Sep 2023 06:29:21 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Sep 2023 04:27:58 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_IeQsEfbvN-ylI68lf5ONwDEz8RIsjvnNmm4fyMD-cJQ.jpg"/>
     <item>
-      <title>Mordet på fortauet (1:8)</title>
-      <description><![CDATA[En kvinne blir funnet drept utenfor leiligheten sin, og politiet står nesten uten spor. Men de har et vitne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/3e46eae7-87d7-45de-8dff-ec617b868c8a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/3e46eae7-87d7-45de-8dff-ec617b868c8a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:00</itunes:duration>
-      <pubDate>Sun, 25 Sep 2022 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DkJGuYQPltLHUkcs1zt6kwGM_2_54PPsOl0glxnuMIAg.jpg"/>
-    </item>
-    <item>
-      <title>Den brutale morderen (2:8)</title>
-      <description><![CDATA[Gunn Meretes nærmeste aner ikke hvem som kan ha drept henne. Men Kripos sitter på biologiske spor. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/2da0cc9e-c582-4f4a-8f63-2416495e9e37_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/2da0cc9e-c582-4f4a-8f63-2416495e9e37_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:09</itunes:duration>
-      <pubDate>Sun, 25 Sep 2022 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DkJGuYQPltLHUkcs1zt6kwGM_2_54PPsOl0glxnuMIAg.jpg"/>
-    </item>
-    <item>
-      <title>Telefonen fra Danmark (3:8)</title>
-      <description><![CDATA[Gunn Merete Lode-saken nedprioriteres. Tre år senere får politiet en telefon fra Danmark, en telefonsamtale som snur hele saken på hodet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/d56eca3f-ab6c-45f9-a168-0f3d6dd061f3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/d56eca3f-ab6c-45f9-a168-0f3d6dd061f3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:20</itunes:duration>
-      <pubDate>Sun, 02 Oct 2022 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DkJGuYQPltLHUkcs1zt6kwGM_2_54PPsOl0glxnuMIAg.jpg"/>
-    </item>
-    <item>
-      <title>Et planlagt drap (4:8)</title>
-      <description><![CDATA[En 29 år gammel mann blir funnet drept i sitt eget hjem. Politiet har ingen ledetråder om hvem som kan ha gjort det, men drapet virker nøye planlagt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/80aaec54-1227-4c91-ae5b-6354f10687ca_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/80aaec54-1227-4c91-ae5b-6354f10687ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:37</itunes:duration>
-      <pubDate>Sun, 09 Oct 2022 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DkJGuYQPltLHUkcs1zt6kwGM_2_54PPsOl0glxnuMIAg.jpg"/>
-    </item>
-    <item>
-      <title>Informanten (5:8)</title>
-      <description><![CDATA[En politispaner tar kontakt med en av sine informanter i det kriminelle miljøet for å
-finne ut om det går rykter om drapet på Øyvind Bjarte Madsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/7cb8721c-7ae8-4858-8fee-cee7c05eb211_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/7cb8721c-7ae8-4858-8fee-cee7c05eb211_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:33</itunes:duration>
-      <pubDate>Sun, 16 Oct 2022 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DkJGuYQPltLHUkcs1zt6kwGM_2_54PPsOl0glxnuMIAg.jpg"/>
-    </item>
-    <item>
-      <title>– Vitner du, dør du (6:8)</title>
-      <description><![CDATA[Tre menn er tiltalt for å ha drept Øyvind. To av dem skylder på hverandre, og den tredje nekter for å ha noe med saken å gjøre. Og nesten ingen tør å vitne. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/3a0d164c-e5dd-44fc-b494-85f7c9cdab45_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/3a0d164c-e5dd-44fc-b494-85f7c9cdab45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:35</itunes:duration>
-      <pubDate>Sun, 23 Oct 2022 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DkJGuYQPltLHUkcs1zt6kwGM_2_54PPsOl0glxnuMIAg.jpg"/>
-    </item>
-    <item>
-      <title>Øyer-drapet (7:8)</title>
-      <description><![CDATA[Politiet får melding om røykutvikling i Øyer. Når politiet undersøker stedet gjør de et funn som sprer frykt i bygda.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/91b312e6-7046-4d6c-8d4b-02ffe2041530_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/91b312e6-7046-4d6c-8d4b-02ffe2041530_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:50</itunes:duration>
-      <pubDate>Sun, 30 Oct 2022 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DkJGuYQPltLHUkcs1zt6kwGM_2_54PPsOl0glxnuMIAg.jpg"/>
-    </item>
-    <item>
-      <title>Etterlyst (8:8)</title>
-      <description><![CDATA[Politiet har en mistanke om hvem som kan ha drept mannen i 50-årene. Det er bare et problem, ingen vet hvor han har blitt av.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/efc6e963-66ac-48d5-8fc1-5bd253317193_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/efc6e963-66ac-48d5-8fc1-5bd253317193_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:59</itunes:duration>
-      <pubDate>Sun, 06 Nov 2022 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DkJGuYQPltLHUkcs1zt6kwGM_2_54PPsOl0glxnuMIAg.jpg"/>
-    </item>
-    <item>
-      <title>En av gjengen (1:8)</title>
-      <description><![CDATA[En vennegjeng fra Mortensrud tar en matbit på Prinsdal grill. Utenfor står en ung mann fra Holmlia. Han har nettopp ringt noen og bedt om en pistol.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/9b837451-721d-418d-a7c7-1bacf75f254b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/9b837451-721d-418d-a7c7-1bacf75f254b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:09</itunes:duration>
-      <pubDate>Tue, 19 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-LsQFwqYX93MAHtITf61zQ9J89dAhzR14yU508PZtKkg.jpg"/>
-    </item>
-    <item>
-      <title>Kvinner som dreper (2:8)</title>
-      <description><![CDATA[På en restaurant planlegger en kvinne drapet på faren, sammen med en kompis. Hvorfor er det så få drapskvinner, og hva skiller dem fra drapsmenn?  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/e96829eb-5019-4854-9b9a-2071aed30493_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/e96829eb-5019-4854-9b9a-2071aed30493_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:51</itunes:duration>
-      <pubDate>Tue, 19 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/z0FxTSAZtDVKWhi5m-wXTwegayn1etvlC9QMeduJX4Mw.jpg"/>
+      <title>Haterne</title>
+      <description><![CDATA[En ung mann bryter seg inn på en moské i Bærum. Han har på seg en militærhjelm med GoPro. Målet hans er å drepe flest mulig muslimer. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/a3d973df-6d04-4163-abfc-b334ba197fc7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/a3d973df-6d04-4163-abfc-b334ba197fc7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:05</itunes:duration>
+      <pubDate>Tue, 26 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yxNf2ETks3pxl3muO6xwWAQJ5z9gqXoaXD8RqYnGhJtw.jpg"/>
     </item>
   </channel>
 </rss>
