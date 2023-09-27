@@ -1,20 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Meininga med livet</title>
+    <title>De 3 siste fra Meininga med livet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Meininga med livet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/meininga_med_livet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Meininga med livet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/meininga_med_livet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 20 Sep 2023 04:27:54 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Sep 2023 04:27:57 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA.jpg"/>
     <item>
+      <title>Ikkje føl på luseskam!</title>
+      <description><![CDATA[Ronny konkurrerer mot kunstig intelligens i sang, medan Live har slitt med ein heim full av luseegg. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/meininga_med_livet/18aa86a4-94bc-4989-b6e4-e89590c48757_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/18aa86a4-94bc-4989-b6e4-e89590c48757_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:49</itunes:duration>
+      <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA.jpg"/>
+    </item>
+    <item>
       <title>Bunnsolid ekteskap</title>
-      <description><![CDATA[Her må det inn noen anførselstegn og et punktum til slutt:
-Ronny testar ekteskapet til Live i gameshowet «Tillit eller ikkje tillit».
+      <description><![CDATA[Ronny testar ekteskapet til Live i gameshowet «Tillit eller ikkje tillit».
 ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/meininga_med_livet/dc4c8014-97a1-41a6-8229-ec9dfb027156_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/dc4c8014-97a1-41a6-8229-ec9dfb027156_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>

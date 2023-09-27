@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Arena</title>
+    <title>De 5 siste fra Arena</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 20 Sep 2023 04:27:35 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Sep 2023 04:27:32 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/uSWumQMVs2kU78epnR5J0g6KckGj5WLn-NB4E7uF80hw.jpg"/>
+    <item>
+      <title>Elon Musk: Messias eller Mørkets Fyrste?</title>
+      <description><![CDATA[Verdens rikeste mann, Elon Musk, har påvirket Ukraina-krigen og statsledere flokker seg rundt ham. Skal vi være skremt eller fascinert av makten hans? Med: Isabelle Ringnes, Hans-Petter Nygård-Hansen, Selma Moren, Claudia Aanonsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/d50d3d23-dad6-408f-befd-5567d21b7ee9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/d50d3d23-dad6-408f-befd-5567d21b7ee9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:31</itunes:duration>
+      <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i3jbeDZOJgsItIZPjNlqAAIww0APCIZqpDe722nHQtwg.jpg"/>
+    </item>
     <item>
       <title>Er fotballspillere verdens mektigste influensere?</title>
       <description><![CDATA[Instagram, penger og politikk. Er fotballens superstjerner like mye influensere som fotballspillere? Hvilken makt har de? Med: Vilde Kristine Darvik, Andreas Selliaas, Yama Wolasmal og Tobias Becks.]]></description>
