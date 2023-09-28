@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Sep 2023 04:28:08 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2023 04:27:40 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9RC0yu1YgUPSu7PdUdmFRA-mkjHjLiLi2-zNUvYGneLg.jpg"/>
+    <item>
+      <title>SKAAR: Kampen mot galskap og bedragersyndrom</title>
+      <description><![CDATA[Nå er andre og avsluttende del av albumet “Mad Woman” ute, men hva mener egentlig SKAAR med den tittelen? Og hvorfor gjemmer hun seg ofte på do? Dette er bare noe av det vi fikk svar på da vi snakket med henne under årets Øyafestival.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/de91f96a-1a82-4385-92fe-74de5a273d32_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/de91f96a-1a82-4385-92fe-74de5a273d32_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:56</itunes:duration>
+      <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GHS15CIoFbqJKsAfZ_qEYg9V3_r5Vryz4LuL6iNFpEmw.jpg"/>
+    </item>
     <item>
       <title>Kvelertak: Slik ble de Norges største rockeband</title>
       <description><![CDATA[Kvelertak har turnert verden rundt og hengt med de største i rockehistorien. Men da de nylig ga ut sitt femte album begynte fansen å spekulere - betyr tittelen «Endling» at dette er slutten for bandet?]]></description>
@@ -95,15 +104,6 @@ PS: Lørdag 17. juni kan du se blant annet Röyksopp i den nye dokumentarserien 
       <itunes:duration>37:21</itunes:duration>
       <pubDate>Thu, 15 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EQc2q1A1YXPLUMTFcMQrgQ5Bkm_vEOf4j41hT7SM4rQQ.jpg"/>
-    </item>
-    <item>
-      <title>Tina Turner: Dronningen av rock 'n' roll</title>
-      <description><![CDATA[Tina Turner var en foregangskvinne i musikkhistorien og ble en levende legende og et ikon. Anna snakker med Ragna Nordenborg for å finne ut hvordan hun ble det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/fbc47c0e-35de-4830-b76a-63cff102f79a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/fbc47c0e-35de-4830-b76a-63cff102f79a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:27</itunes:duration>
-      <pubDate>Thu, 08 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vv6ObMSM0L-zrXaxkQmo2gwO8_eA1HRjsr3kEsFpq_dw.jpg"/>
     </item>
   </channel>
 </rss>

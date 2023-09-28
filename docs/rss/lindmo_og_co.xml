@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Sep 2023 04:28:03 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2023 04:27:36 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    <item>
+      <title>Memento Loren</title>
+      <description><![CDATA[Anne har øvelseskjørt, Rune har bedrevet festakrobatikk og Sophia Loren har brukket lårhalsen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/e81f93d3-91e3-4983-bd4a-2576869e4b4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/e81f93d3-91e3-4983-bd4a-2576869e4b4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:45</itunes:duration>
+      <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    </item>
     <item>
       <title>Anne har stått</title>
       <description><![CDATA[Anne har prøvd seg som stand up-komiker i Bergen.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/d0a49a89-f07f-40b8-8bc1-e630280d2742_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:25</itunes:duration>
       <pubDate>Thu, 02 Mar 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
-    </item>
-    <item>
-      <title>Kroppsdelere</title>
-      <description><![CDATA[Finnes det et skjønnhetsideal for indre organer? Vi diskuterer stygge blindtarmer, Jørn Hoel og duftsprayens begrensninger. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/cbe84636-a064-41d1-bae3-8d925b161546_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/cbe84636-a064-41d1-bae3-8d925b161546_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:25</itunes:duration>
-      <pubDate>Thu, 23 Feb 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
     </item>
   </channel>
