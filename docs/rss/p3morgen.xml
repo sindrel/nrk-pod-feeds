@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Sep 2023 11:22:19 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Sep 2023 12:35:00 +0200</pubDate>
+    <lastBuildDate>Fri, 29 Sep 2023 10:29:27 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Sep 2023 11:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Stavanger har gått for langt</title>
+      <description><![CDATA[Markus Solbakken har signert og er på banen, dette fører til både skam og stolthet for Karsten. Nina Gjertsen fra Urørt er også på besøk før Urørt finalen i kveld.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c4b40081-6d39-4af5-ad64-22e0f073b52d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c4b40081-6d39-4af5-ad64-22e0f073b52d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:18</itunes:duration>
+      <pubDate>Fri, 29 Sep 2023 11:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PixWLJ4DPY_eqXDKcuml4w52f2KUwmxAcbsicj6HYtZw.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Skammekroken</title>
       <description><![CDATA[Det diskuteres over en lav sko, Johannes må straffes for upassende uttalelse og Kaja blir tvunget til å synge! Til stede: Tete, Karsten, Johannes, Herman og Kaja.]]></description>
@@ -30,7 +39,7 @@
       <itunes:image href="https://gfx.nrk.no/vDRL3-oKr0phmbFE3nfGYg3BxICrAxyRDZq00yv5JFcQ.jpg"/>
     </item>
     <item>
-      <title>Storbyguiden </title>
+      <title>Noe attåt: Storbyguiden </title>
       <description><![CDATA[Den eneste Oslo-guiden du trenger får du her! Og Ringenes Herre-diskusjonen fortsetter. Til stede: Johannes, Tete, Herman, Anna og Kaja. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/91d7a59e-45c8-421a-8d59-a4582617cf32_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/91d7a59e-45c8-421a-8d59-a4582617cf32_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -91,15 +100,6 @@
       <itunes:duration>55:34</itunes:duration>
       <pubDate>Fri, 22 Sep 2023 11:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QYVxCTxkKIB1sNHqr3rubQ08ubsleRy4KMsKN73gYSPQ.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: kaker og vitser</title>
-      <description><![CDATA[Redaksjonen er sulten, så vi diskuterer vår favorittkake. Til stede: Tete, Anna, Kaja og Herman.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/eba5333d-3143-4f09-8ab7-d8cae933e11d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/eba5333d-3143-4f09-8ab7-d8cae933e11d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:37</itunes:duration>
-      <pubDate>Thu, 21 Sep 2023 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r6AoFYzb7K2DIZiXAoRBwwnO7GDDes8flD29aeBzGRig.jpg"/>
     </item>
   </channel>
 </rss>
