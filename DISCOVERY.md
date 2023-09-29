@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-09-29  
+- Added podcast 'Skiklubben' (`skiklubben`)  
 ### 2023-09-23  
 - Updated podcast 'Valg' (`valg`)  
 ### 2023-09-22  
