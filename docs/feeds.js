@@ -293,7 +293,7 @@ const feeds = [
     "id": "gamle_greier",
     "title": "De 10 siste fra Gamle greier",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "gfestallan_lisain",
