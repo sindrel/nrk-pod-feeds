@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Sep 2023 04:27:47 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 30 Sep 2023 04:28:24 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Hvorfor lyser morild nå?</title>
+      <description><![CDATA[Hør marinbiologen forklare det magiske lysfenomenet i sjøen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/932d1656-7e30-4054-b6dd-d0b22768e5e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/932d1656-7e30-4054-b6dd-d0b22768e5e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:43</itunes:duration>
+      <pubDate>Sat, 30 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I4iYnfCsITKoqu1wF1d2XwrH1Gwh-HtUOopK_9IzOXeg.jpg"/>
+    </item>
     <item>
       <title>Sett grenser - føl deg bedre</title>
       <description><![CDATA[Lure grep for å bli psykisk sterkere]]></description>
@@ -96,16 +105,6 @@ Dette er smart å vite!]]></description>
       <itunes:duration>36:19</itunes:duration>
       <pubDate>Thu, 07 Sep 2023 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dfS3_12wyMC0_CBJUaU8FwPaWAG5Bh8XlXClA5WIIWNQ.jpg"/>
-    </item>
-    <item>
-      <title>Hvorfor mister vi stadig mer jord i Norge? </title>
-      <description><![CDATA[Det tar 1000 år for naturen å lage 1centimeter med jord!  Men vi taper mer og mer av den hvert år.  
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f3b88c48-2b1e-40e3-bdd4-e1200797ba46_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f3b88c48-2b1e-40e3-bdd4-e1200797ba46_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:37</itunes:duration>
-      <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uVU_7BjOZaGdl4IdZdUd7gMZ-bOYeAoZk84w75PIHWOg.jpg"/>
     </item>
   </channel>
 </rss>
