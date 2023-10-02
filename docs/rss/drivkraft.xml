@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Sep 2023 14:28:06 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Sep 2023 15:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Oct 2023 12:43:52 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Oct 2023 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Silvana Imam</title>
+      <description><![CDATA[Da rapperen vokste opp følte hun at hun ikke forstod den svenske kulturen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7550ca42-ea5a-4650-9408-154caa3f3e72_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7550ca42-ea5a-4650-9408-154caa3f3e72_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Mon, 02 Oct 2023 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0ijH3U8fCv_ZlxhfqKROoAQgawvn-9kCqJCke1mlIHdw.jpg"/>
+    </item>
     <item>
       <title>Sigvart Dagsland</title>
       <description><![CDATA["Jeg røkte og drakk med begge hendene", sier artisten som en gang ble stemplet som «kristen artist».
@@ -103,17 +112,6 @@
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Tue, 12 Sep 2023 14:16:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Znp0yIC7SA99bm4ekkh-bwwZ8QqzSGIRDQeDT-A6c5NA.jpg"/>
-    </item>
-    <item>
-      <title>Knut Nærum</title>
-      <description><![CDATA[Humoristen mener originalitet er overvurdert, og planlegger å gjenta seg selv mest mulig.
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/38164a2d-3ad3-4232-98bd-7bd5a02a7c73_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/38164a2d-3ad3-4232-98bd-7bd5a02a7c73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:52</itunes:duration>
-      <pubDate>Mon, 11 Sep 2023 13:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EjCllHAm33p4TfjDRnex-QIYW6Yd60xal9ChcSBQVPbA.jpg"/>
     </item>
   </channel>
 </rss>
