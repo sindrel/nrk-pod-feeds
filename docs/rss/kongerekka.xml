@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Sep 2023 04:28:04 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2023 04:28:49 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg.jpg"/>
+    <item>
+      <title>Frederik II og Christian IV - Kongen som var alt for mye (35:42)</title>
+      <description><![CDATA[Fontener med vin, 35 000 vinglass og mynter drysset i gatene: Party like it`s 1596!   
+(År 1559-1648)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/7eb41788-a624-44ac-8b45-a04d83d01f3f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/7eb41788-a624-44ac-8b45-a04d83d01f3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:27</itunes:duration>
+      <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8ldWCrFu2oOwPXoctdHUgAD0Rra86thCtmgA1gRjhfPg.jpg"/>
+    </item>
     <item>
       <title>Christian III - Kongen som brukte Gud til å betale gjeld (34:42)</title>
       <description><![CDATA[Norge når bunnen. Og reformasjonen når Norge.
@@ -101,16 +111,6 @@ Musikk: SyncPoint, Kaare og Partiet, Det Norske Jentekor + KORK + Kajsa Balto]]>
       <itunes:duration>30:38</itunes:duration>
       <pubDate>Mon, 17 Oct 2022 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8RyfykmtGGWv6j_izCkznAwAT6mvjgvvCkgktxRDLI-Q.jpg"/>
-    </item>
-    <item>
-      <title>Magnus Lagabøte - Kongen som avskaffet Hunger Games (26:42)</title>
-      <description><![CDATA[Han kom inn som reserve, men la grunnen for det som er Norges superkraft den dag i dag! 
-(År 1263-1280)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/e58cff01-1b50-4def-9307-24e0aa9fee62_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kongerekka/e58cff01-1b50-4def-9307-24e0aa9fee62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:32</itunes:duration>
-      <pubDate>Mon, 10 Oct 2022 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/c-MeoMZ2LPA6D1FWhTy3wAJuiDjRbzhN0Up1Z76Me8Fg.jpg"/>
     </item>
   </channel>
 </rss>

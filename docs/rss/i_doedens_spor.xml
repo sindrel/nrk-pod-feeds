@@ -1,24 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra I dødens spor</title>
+    <title>De 4 siste fra I dødens spor</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten I dødens spor. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_doedens_spor for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten I dødens spor. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_doedens_spor for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Sep 2023 04:27:58 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2023 04:28:44 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_IeQsEfbvN-ylI68lf5ONwDEz8RIsjvnNmm4fyMD-cJQ.jpg"/>
     <item>
-      <title>Haterne</title>
+      <title>En av gjengen (1:8)</title>
+      <description><![CDATA[En vennegjeng fra Mortensrud tar en matbit på Prinsdal grill. Utenfor står en ung mann fra Holmlia. Han har nettopp ringt noen og bedt om en pistol.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/9b837451-721d-418d-a7c7-1bacf75f254b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/9b837451-721d-418d-a7c7-1bacf75f254b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:09</itunes:duration>
+      <pubDate>Tue, 19 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-LsQFwqYX93MAHtITf61zQ9J89dAhzR14yU508PZtKkg.jpg"/>
+    </item>
+    <item>
+      <title>Kvinner som dreper (2:8)</title>
+      <description><![CDATA[På en restaurant planlegger en kvinne drapet på faren, sammen med en kompis. Hvorfor er det så få drapskvinner, og hva skiller dem fra drapsmenn?  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/e96829eb-5019-4854-9b9a-2071aed30493_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/e96829eb-5019-4854-9b9a-2071aed30493_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:51</itunes:duration>
+      <pubDate>Tue, 19 Sep 2023 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z0FxTSAZtDVKWhi5m-wXTwegayn1etvlC9QMeduJX4Mw.jpg"/>
+    </item>
+    <item>
+      <title>Haterne (3:8)</title>
       <description><![CDATA[En ung mann bryter seg inn på en moské i Bærum. Han har på seg en militærhjelm med GoPro. Målet hans er å drepe flest mulig muslimer. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/a3d973df-6d04-4163-abfc-b334ba197fc7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/a3d973df-6d04-4163-abfc-b334ba197fc7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:05</itunes:duration>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/1989a6d2-5ac2-4e01-971e-828d2866533f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/1989a6d2-5ac2-4e01-971e-828d2866533f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:12</itunes:duration>
       <pubDate>Tue, 26 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yxNf2ETks3pxl3muO6xwWAQJ5z9gqXoaXD8RqYnGhJtw.jpg"/>
+    </item>
+    <item>
+      <title>En ung drapsmann</title>
+      <description><![CDATA[En 14 år gammel gutt sender en tekstmelding til 14 år gamle Alma Gabriela. Han vil møte henne. Det hun ikke vet er at han planlegger å ta livet hennes. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/fa57169b-387d-49d2-a047-3448ec57159d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/fa57169b-387d-49d2-a047-3448ec57159d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:28</itunes:duration>
+      <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pmQtgsI6B2K-H1Jp-d2HZw_Vcx-tjwns0Hn6DaCzwGGg.jpg"/>
     </item>
   </channel>
 </rss>
