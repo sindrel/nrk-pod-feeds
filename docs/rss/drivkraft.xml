@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 02 Oct 2023 12:43:52 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Oct 2023 13:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2023 12:44:30 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2023 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Marcus og Martinus</title>
+      <description><![CDATA["Å være på turne er forferdelig", sier artistbrødrene om turnelivet.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/2b3e9502-3d4f-4198-9926-c61a6963af85_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/2b3e9502-3d4f-4198-9926-c61a6963af85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:38</itunes:duration>
+      <pubDate>Tue, 03 Oct 2023 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6WId5JAqAQNCJZKjjcYj2wPlf23mVA1nxJuQ0Gd9ZN8w.jpg"/>
+    </item>
     <item>
       <title>Silvana Imam</title>
       <description><![CDATA[Da rapperen vokste opp følte hun at hun ikke forstod den svenske kulturen]]></description>
@@ -101,17 +110,6 @@
       <itunes:duration>56:30</itunes:duration>
       <pubDate>Wed, 13 Sep 2023 14:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WjCHoq-IXr9HhZtXNbVrPQRVsbQ4U_xhL9iA7hvqF5IA.jpg"/>
-    </item>
-    <item>
-      <title>Long Litt Woon</title>
-      <description><![CDATA[Da soppentusiasten la ut bilder av spissmorkel ringte de fra Maaemo.
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0f171317-344e-4468-8308-2ae14514bdfe_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0f171317-344e-4468-8308-2ae14514bdfe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Tue, 12 Sep 2023 14:16:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Znp0yIC7SA99bm4ekkh-bwwZ8QqzSGIRDQeDT-A6c5NA.jpg"/>
     </item>
   </channel>
 </rss>
