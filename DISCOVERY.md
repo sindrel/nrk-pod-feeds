@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-10-03  
+- Added podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
+- Updated podcast 'Hævvi' (`haevvi`)  
 ### 2023-09-30  
 - Updated podcast 'Gamle greier' (`gamle_greier`)  
 ### 2023-09-29  
