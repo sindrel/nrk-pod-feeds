@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 02 Oct 2023 14:28:15 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Oct 2023 16:10:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2023 11:22:22 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2023 13:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Kvae sa du?</title>
+      <description><![CDATA[Mads Hansen og Snorre Monsson fra ikke lov å le på hytta er innom oss! Vi får også svar på hvor mange som hogger veden sin selv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b14563fa-6093-46ed-98dd-f4237afa971a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b14563fa-6093-46ed-98dd-f4237afa971a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:28</itunes:duration>
+      <pubDate>Tue, 03 Oct 2023 13:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0h3QNsO-tsioXh2zF62z-AOU1mvxfqr4USbKMCIMRxxw.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Korte sko på skogstur</title>
       <description><![CDATA[Hvordan ville du blitt fridd til? Og hva i alle dager er korte sko? Til stede: Tete, Johannes, Herman, Hani og Kaja]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:05</itunes:duration>
       <pubDate>Tue, 26 Sep 2023 10:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5qlUN-lQifAZGxKDsMzz_Q1CcyBs27qfV4M5Gq6JfVpw.jpg"/>
-    </item>
-    <item>
-      <title>Note attåt: Er Ringenes Herre bra?</title>
-      <description><![CDATA[Hani har sett Ringenes Herre for første gang og det skaper debatt! Til stede: Tete, Karsten, Hani, Johannes og Kaja.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cc8b1ce1-bf40-4e48-a7aa-8dd3fdd2d9a8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cc8b1ce1-bf40-4e48-a7aa-8dd3fdd2d9a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:40</itunes:duration>
-      <pubDate>Mon, 25 Sep 2023 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
