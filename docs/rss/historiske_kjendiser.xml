@@ -7,16 +7,26 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Sep 2023 04:27:46 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 04 Oct 2023 04:28:04 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Gustav Vigeland – monumental skulptør</title>
+      <description><![CDATA[Skulptøren var en sinnatagg, men sto igjen som en kunstnerisk
+monolitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/5cf33a67-68a5-426f-9e89-63e11b27574a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/5cf33a67-68a5-426f-9e89-63e11b27574a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:18</itunes:duration>
+      <pubDate>Wed, 04 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dlTdOvIidoNb_ypElBcOywW9oNSZufSK480r3ODVTuQA.jpg"/>
+    </item>
     <item>
       <title>Ole Høiland - mestertyv og utbryterkonge</title>
       <description><![CDATA[Den sympatiske mestertyven brøt seg ut av fengsel gang etter gang.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/16061955-a552-4eb3-b1fb-27cbdde2aee8_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/16061955-a552-4eb3-b1fb-27cbdde2aee8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:39</itunes:duration>
+      <itunes:duration>55:35</itunes:duration>
       <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/M0e1iSAJ4D8vZHDhRYM5Lg6vSuwv14TljqfsrtUCInog.jpg"/>
     </item>
@@ -94,16 +104,6 @@
       <itunes:duration>54:27</itunes:duration>
       <pubDate>Wed, 24 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FDQp21Db1123Mdr2plQb6AsnvOJMOSYF6ky7zbbociZA.jpg"/>
-    </item>
-    <item>
-      <title>Christian Magnus Falsen - grunnlovens far</title>
-      <description><![CDATA[Kjempet for norsk selvstendighet og Norges grunnlov, men endte som en av landets mest forhatte personer.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/283e8a4e-5478-4bd7-886a-006052daf6d2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/283e8a4e-5478-4bd7-886a-006052daf6d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:42</itunes:duration>
-      <pubDate>Tue, 16 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aQ7uvuO5LgCfZ_owz9PqeQuSzsD87RXZtFph9zSh0Eog.jpg"/>
     </item>
   </channel>
 </rss>
