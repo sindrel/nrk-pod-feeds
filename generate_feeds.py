@@ -5,7 +5,7 @@ from dateutil import parser
 from datetime import timedelta
 
 from common.helpers import init, get_last_feed, get_podcasts_config, write_feeds_file, get_version
-from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast_episodes, get_all_podcast_episodes
+from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast_episodes, get_all_podcast_episodes, get_all_podcast_episodes_all_seasons
 
 podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
 podcasts_cfg_file = "podcasts.json"
@@ -45,7 +45,10 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         season = metadata["_links"]["seasons"][0]["name"]
 
     if ep_count == 0:
-        episodes = get_all_podcast_episodes(podcast_id)
+        if season == "ALL":
+            episodes = get_all_podcast_episodes_all_seasons(podcast_id, metadata)
+        else:
+            episodes = get_all_podcast_episodes(podcast_id, season)
     else:
         episodes = get_podcast_episodes(podcast_id, season)
 

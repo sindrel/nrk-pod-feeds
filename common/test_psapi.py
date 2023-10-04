@@ -40,6 +40,21 @@ def test_get_all_podcast_episodes():
 
     assert len(episodes) > 0
 
+def test_get_all_podcast_episodes_all_seasons():
+    podcast_id = "klassikere_fra_p3-arkivet"
+
+    metadata = psapi.get_podcast_metadata(podcast_id)
+    episodes = psapi.get_all_podcast_episodes_all_seasons(podcast_id, metadata)
+    
+    for episode in episodes:
+        assert "title" in episode['titles']
+        assert "subtitle" in episode['titles']
+        assert "date" in episode
+        assert "episodeId" in episode
+        assert "durationInSeconds" in episode
+
+    assert len(episodes) > 0
+
 def test_get_episode_manifest():
     podcast_id = "kongerekka"
 
