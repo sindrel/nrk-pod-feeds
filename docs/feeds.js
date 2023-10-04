@@ -496,10 +496,10 @@ const feeds = [
   {
     "id": "klassikere_fra_p3-arkivet",
     "title": "De 23 siste fra Klassikere fra P3-arkivet",
-    "season": "ALL",
+    "season": null,
     "enabled": false,
     "ignore": true,
-    "episodes": 0
+    "hidden": false
   },
   {
     "id": "kokosbananas",
