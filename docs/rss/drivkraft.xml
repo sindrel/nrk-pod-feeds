@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 12:44:30 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Oct 2023 14:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 04 Oct 2023 12:45:22 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Oct 2023 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Hans Christian Holte</title>
+      <description><![CDATA["Det er mye vi kan bli bedre på", NAV-direktør Hans Christian Holte ønsker å hjelpe så mange som mulig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/764a8ceb-5456-4e11-bdea-cd322c41ac8f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/764a8ceb-5456-4e11-bdea-cd322c41ac8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:33</itunes:duration>
+      <pubDate>Wed, 04 Oct 2023 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I01AYFflMtUNN-gBcaaONg9yq_fUVcJ3E1GtmKPrpokw.jpg"/>
+    </item>
     <item>
       <title>Marcus og Martinus</title>
       <description><![CDATA["Å være på turne er forferdelig", sier artistbrødrene om turnelivet.  ]]></description>
@@ -101,15 +110,6 @@
       <itunes:duration>57:05</itunes:duration>
       <pubDate>Thu, 14 Sep 2023 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gf5FzfVNH1MNyZRDcwyrUAkUJoWC5mhyDLB4IyxG9OOQ.jpg"/>
-    </item>
-    <item>
-      <title>Jens Kvernmo</title>
-      <description><![CDATA[ «Planlegging passer meg ikke» sier eventyreren som nylig reiste til Mongolia uten returbillett og med utdatert kart.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/afc94a5a-5295-461f-a1a8-9b446f359ff9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/afc94a5a-5295-461f-a1a8-9b446f359ff9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:30</itunes:duration>
-      <pubDate>Wed, 13 Sep 2023 14:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WjCHoq-IXr9HhZtXNbVrPQRVsbQ4U_xhL9iA7hvqF5IA.jpg"/>
     </item>
   </channel>
 </rss>
