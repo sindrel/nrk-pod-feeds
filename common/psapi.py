@@ -8,8 +8,24 @@ headers = {
     "User-Agent": f"nrk-pod-feeder {get_version()}"
 }
 
-def get_all_podcast_episodes(podcast_id):
+def get_all_podcast_episodes_all_seasons(podcast_id, metadata):
+    episodes = []
+
+    for season in metadata["_links"]["seasons"]:
+        name = season["name"]
+        logging.info(f"  Fetching episodes from season {name}")
+
+        season_episodes = get_all_podcast_episodes(podcast_id, name)
+        for episode in season_episodes:
+            episodes.append(episode)
+        
+    return episodes
+
+def get_all_podcast_episodes(podcast_id, season = None):
     url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/episodes?page=1&pageSize=30&sort=asc"
+
+    if season:
+        url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/seasons/{season}?page=1&pageSize=30&sort=asc"
 
     episodes = []
     while True:
@@ -18,8 +34,12 @@ def get_all_podcast_episodes(podcast_id):
             logging.info(f"Unable to fetch podcast episodes ({url} returned {r.status_code})")
             return None
 
-        for episode in r.json()["_embedded"]["episodes"]:
-            episodes.append(episode)
+        if season:
+             for episode in r.json()["_embedded"]["episodes"]["_embedded"]["episodes"]:
+                 episodes.append(episode)
+        else:
+            for episode in r.json()["_embedded"]["episodes"]:
+                episodes.append(episode)
         
         if not "next" in r.json()["_links"]:
             break
