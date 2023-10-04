@@ -1,60 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Sep 2023 04:27:38 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Sep 2023 06:05:00 +0200</pubDate>
+    <lastBuildDate>Wed, 04 Oct 2023 11:22:20 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Oct 2023 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Modern - Skitbyen (1:5)</title>
-      <description><![CDATA[Etter år med håpløse boforhold finner Berit en trygg base for seg og barna. De flytter inn i et hus bygget for Trondheims dotømmere – i Skitbyen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/9062c620-3d75-4038-b7d8-9eba53f6e9be_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9062c620-3d75-4038-b7d8-9eba53f6e9be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:10</itunes:duration>
-      <pubDate>Tue, 12 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
-    </item>
-    <item>
-      <title>Betongblokka til Hans - Skitbyen (2:5)</title>
-      <description><![CDATA[I frykt for å miste huset i Skitbyen, leter Berit etter en alternativ leilighet. Hun finner en – i Trøndelags skumleste kommunale blokk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/97eba54b-5e90-42f0-aa81-0de94493bae1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/97eba54b-5e90-42f0-aa81-0de94493bae1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:18</itunes:duration>
-      <pubDate>Tue, 12 Sep 2023 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
-    </item>
-    <item>
-      <title>Lucky loosers - Skitbyen (3:5)</title>
-      <description><![CDATA[Ikke alle hunder er menneskets beste venn. Bikkja Lucky har ført til knekte ribbein, nesten-dødsulykker og skyhøye tannlegeregninger. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/99b7ea5a-2597-4adc-90b0-48acb28c3fea_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/99b7ea5a-2597-4adc-90b0-48acb28c3fea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:37</itunes:duration>
-      <pubDate>Tue, 12 Sep 2023 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
-    </item>
-    <item>
-      <title>Skipbruddet - Skitbyen (4:5)</title>
-      <description><![CDATA[Hvordan ender en optimist som Berit opp blant rotter og maur i Skitbyen? Bak det gode humøret har Berit en mørk hemmelighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/ee01c95b-9209-4e8b-ab08-08f7dca85ab7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ee01c95b-9209-4e8b-ab08-08f7dca85ab7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:27</itunes:duration>
-      <pubDate>Tue, 12 Sep 2023 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
-    </item>
-    <item>
-      <title>Med flagget til topps - Skitbyen (5:5)</title>
-      <description><![CDATA[Berits kamp for å bli i Skitbyen går mot slutten. Men hun har sloss og tapt mot systemet før – og har et motto: «Det ordne sæ!».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/ea607ee0-8e81-4d5b-91a2-91b12a80276b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ea607ee0-8e81-4d5b-91a2-91b12a80276b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:09</itunes:duration>
-      <pubDate>Tue, 12 Sep 2023 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5J6xRPWnbGnaAn_lqGWkGwQnfmCbd77Sk4Z6OJ5Y8ugg.jpg"/>
+      <title>Kommer i NRK Radio - Hvalkrigen</title>
+      <description><![CDATA[Verden reagerte med sjokk og avsky da Norge gjenopptok hvalfangst på 90-tallet. Hvorfor ble det så viktig for oss å jakte hval, når alle var imot det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/16db2f17-9db7-4564-b371-2f52a3ad0514_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/16db2f17-9db7-4564-b371-2f52a3ad0514_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23</itunes:duration>
+      <pubDate>Wed, 04 Oct 2023 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZiNiWZ24mTiR9UTlLzJr9Au0VfhPnU-mbiPboi45dTXQ.jpg"/>
     </item>
   </channel>
 </rss>
