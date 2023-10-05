@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-10-05  
+- Podcast 'Millionærhjerne' is considered obsolete and will be ignored in the future (`millionaerhjerne`)  
 ### 2023-10-03  
 - Added podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
 - Updated podcast 'Hævvi' (`haevvi`)  
