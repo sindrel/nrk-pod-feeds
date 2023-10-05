@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Filmpolitiets podkast . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/filmpolitiet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Sep 2023 14:27:56 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Sep 2023 16:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 05 Oct 2023 14:28:24 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>Rare «romcoms»</title>
+      <description><![CDATA[Langt unna strykekvartetter og høstidyll i New York City, her får du Filmpolitiets alternative romkomfavoritter. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/abb02bed-af22-4dd7-8774-80142de06143_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/abb02bed-af22-4dd7-8774-80142de06143_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:14</itunes:duration>
+      <pubDate>Thu, 05 Oct 2023 16:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>Topp 10: Disney-klassikere</title>
       <description><![CDATA[Disney fyller 100 år i oktober. I den anledning deler vi våre personlige favoritter blant Disneys helaftens animasjonsfilmer.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/5382c8a6-5ba9-457f-b15a-c355744e8136_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:26</itunes:duration>
       <pubDate>Thu, 03 Aug 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
-    </item>
-    <item>
-      <title>Ferske sommertips: TV 2, NRK og Discovery+</title>
-      <description><![CDATA[Sigurd og Ingvill gir deg deilige serietips til late sommerdager.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/b3843bf2-60af-40db-8122-ec027a208b30_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/b3843bf2-60af-40db-8122-ec027a208b30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:44</itunes:duration>
-      <pubDate>Thu, 27 Jul 2023 16:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
     </item>
   </channel>
