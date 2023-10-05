@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Debatten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/debatten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 21:22:00 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Oct 2023 22:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 05 Oct 2023 21:22:02 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 22:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    <item>
+      <title>Presset mot Erna Solberg øker</title>
+      <description><![CDATA[Nå kommer det også borgerlige stemmer som mener Høyre-lederen må trekke seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/26cfe8ca-b7a5-44de-b4d1-0c4d1c6111e1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/26cfe8ca-b7a5-44de-b4d1-0c4d1c6111e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:24</itunes:duration>
+      <pubDate>Thu, 05 Oct 2023 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    </item>
     <item>
       <title>Rentefest i bankene</title>
       <description><![CDATA[Lånekundene betaler dyrt. Bør bankenes renteinntekter begrenses?]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/67191e63-3365-40a8-87d8-d60ff6339902_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:45</itunes:duration>
       <pubDate>Thu, 25 May 2023 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
-    </item>
-    <item>
-      <title>Gratis buss, båt og tog i Stavanger</title>
-      <description><![CDATA[Kommunen gjør kollektivtransporten kostnadsfri. Men hva annet kunne blitt gratis for 200 millioner kroner?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/6f9e6da1-ef80-4e24-930d-5499b8efdf23_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/6f9e6da1-ef80-4e24-930d-5499b8efdf23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:42</itunes:duration>
-      <pubDate>Tue, 23 May 2023 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
   </channel>
