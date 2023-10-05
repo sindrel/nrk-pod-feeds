@@ -6,11 +6,23 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Oct 2023 04:28:19 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Oct 2023 05:59:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 05 Oct 2023 04:27:58 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/q2KQ7Moyue9ANLOwimqC9ADISYTWtS3wsjIruI7GuZzA.jpg"/>
+    <item>
+      <title>Gjengkrigen i Sverige: Derfor gikk det galt</title>
+      <description><![CDATA[Den siste måneden har brutale og urovekkende drap preget Sverige. Nå har nemlig den kriminelle gjengvolden begynt å gå direkte utover uskyldige ofre. Hva er det som har skjedd? Og hvordan skal svenskene få kontroll på situasjonen? 
+
+Gjest: Norden-korrespondent Joakim Reigstad
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/c6dffc91-b823-495d-9a71-6d62a7af6081_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c6dffc91-b823-495d-9a71-6d62a7af6081_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:47</itunes:duration>
+      <pubDate>Thu, 05 Oct 2023 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/d1-gIGkyu0GLFICZdRQkfwPV7piaRSV5ICoMC-aMi_eQ.jpg"/>
+    </item>
     <item>
       <title>Slik erobret Rupert Murdoch verden (REPRISE)</title>
       <description><![CDATA[I den populære serien «Succession» troner den styrtrike og dysfunksjonelle Roy-familien over et enormt mediedynasti. Men selv om serien er fiksjon, mener mange at den minner om en familie fra virkeligheten. For serien har klare paralleller til Murdoch-familien, som i tiår etter tiår har bygd opp et familieeid imperium som få har sett maken til – med Rupert Murdoch som innflytelsesrikt overhode. Nå har den 92 år gamle mediemogulen bestemt seg for å gå av med pensjon. Vil imperiet bestå? 
@@ -101,18 +113,6 @@ Gjest: Anders Christiansen, VG.]]></description>
       <itunes:duration>13:42</itunes:duration>
       <pubDate>Fri, 22 Sep 2023 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rESod_vLbHy0ooJ4j75nZQpvkIGFjfX_EBbFW-nwT9BQ.jpg"/>
-    </item>
-    <item>
-      <title>Sindres svik: Må Erna gå av som leder?</title>
-      <description><![CDATA[Erna Solberg sa på en pressekonferanse 15. september at mannen hennes ikke har vært ærlig med henne. Nå debatteres det om hun bør gå av som leder, og om hun noen gang kan bli statsminister igjen. For det viser seg at ektemannen Sindre Finnes har løyet om hvor mye aksjer han har kjøpt og solgt mens Erna var statsminister. Hva er det som skal ha skjedd? Og hva vil konsekvensene bli for ham, Erna og demokratiet?
-
-Gjest: Politisk kommentator Tone Sofie Aglen
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1fcd9e62-0ae7-401f-ac43-430c7950337e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1fcd9e62-0ae7-401f-ac43-430c7950337e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:03</itunes:duration>
-      <pubDate>Thu, 21 Sep 2023 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oYNmmCqXddWdoJ8ewxQlPQo57IG1WFhmefCqd0OjOOPg.jpg"/>
     </item>
   </channel>
 </rss>

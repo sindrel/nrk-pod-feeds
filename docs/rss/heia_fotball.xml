@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Heia Fotball. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/heia_fotball for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 02 Oct 2023 12:44:01 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Oct 2023 13:55:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 05 Oct 2023 04:27:44 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
+    <item>
+      <title>#360 Markus Henriksen</title>
+      <description><![CDATA[Rosenborg-kaptein Markus Henriksen forteller om båthavari, fiskelykke og hvorfor han må ha lås på skapet i garderoben. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/79dd94c2-6b21-4b37-9f2c-a87fc74b420e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/79dd94c2-6b21-4b37-9f2c-a87fc74b420e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:20:01</itunes:duration>
+      <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TryySUSqzYFW_3tBeywpdQiaocwCsMFMZRySDDvBI0Vw.jpg"/>
+    </item>
     <item>
       <title>Snakkis: WSL, full fyr og full circle med VAR</title>
       <description><![CDATA[Women's super league spilles for fulle tribuner, VAR-dømming med menneskelig svikt, og Sven har oppdatert seg på fotball gjennom avisa.
@@ -99,17 +108,6 @@ I panelet: Sven Bisgaard Sundet, Kasper Wikestad og Ali Soufi-Grimsrud]]></descr
       <itunes:duration>01:50:39</itunes:duration>
       <pubDate>Thu, 31 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tp6bKdG7jsyYazeMCW774wp-idmORNH1afgmGqix0JeA.jpg"/>
-    </item>
-    <item>
-      <title>Snakkis: Spansk suppe, sønner og løkkedød</title>
-      <description><![CDATA[Spansk fotballpresident nekter å gi seg, fotballbaner forsvinner og panelet diskuterer hvilke far og sønn-favoritter de har i fotballen. 
-
-I panelet: Sven Bisgaard Sundet, Mike Stilson og Marius Skjelbæk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/e9b68170-f230-4df1-aac2-3406ecd45b6b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/e9b68170-f230-4df1-aac2-3406ecd45b6b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:45</itunes:duration>
-      <pubDate>Mon, 28 Aug 2023 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
     </item>
   </channel>
 </rss>

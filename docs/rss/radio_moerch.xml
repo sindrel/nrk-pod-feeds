@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Sep 2023 04:27:47 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 05 Oct 2023 04:28:01 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Magnus Carlsen</title>
+      <description><![CDATA[Verdens beste sjakkspiller er gjest i verdens beste podkast.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/96fce972-9c30-4aef-8412-9cc296bd8d1c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/96fce972-9c30-4aef-8412-9cc296bd8d1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:06:17</itunes:duration>
+      <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GWgCIPAELDjs6dE2VOFUFAT07Bsz20ePgmIVWojdB0yw.jpg"/>
+    </item>
     <item>
       <title>Wolfgang Wee</title>
       <description><![CDATA[Wolfgang Wee om hva han stemmer, Joe Rogan og annet podkast-preik. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:44:27</itunes:duration>
       <pubDate>Mon, 12 Jun 2023 05:00:54 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XTheWyMq1tuO9QDGFS4YwwgcX8Rodn4QEBhl78w4yTUQ.jpg"/>
-    </item>
-    <item>
-      <title>Mímir Kristjánsson er tilbake!</title>
-      <description><![CDATA[Noen gjester blir man aldri lei av. Mímir er tilbake!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/2e792fbb-520c-4850-8c94-328d4348d671_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/2e792fbb-520c-4850-8c94-328d4348d671_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:31:37</itunes:duration>
-      <pubDate>Mon, 05 Jun 2023 10:18:49 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sXBKesV5-6H5SGmnC-qkxg1OQ_lFsTeUqThaGKcTCPmA.jpg"/>
     </item>
   </channel>
 </rss>

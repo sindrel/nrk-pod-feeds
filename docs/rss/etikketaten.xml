@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Etikketaten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/etikketaten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Sep 2023 04:27:24 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 05 Oct 2023 04:27:39 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    <item>
+      <title>Kvele sangdraumen til unge som ikkje kan synge?</title>
+      <description><![CDATA[Er jakt bra for dyra? Bør kvinner få fri under mensen? Må farmor leve sjølv om ho vil døy, og kven har ansvar for å muntre ho opp? I panelet sit filosof Einar Duenger Bøhn, lege og komikar Ida Marie Ringerud og programleiar i NRK Sandeep Singh. Ny episode kjem kvar torsdag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/2527e7c2-a1e1-4593-9f95-6d7a3dc428d2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/2527e7c2-a1e1-4593-9f95-6d7a3dc428d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
     <item>
       <title>Dullar vi for mykje med dei unge?</title>
       <description><![CDATA[Dullar vi for mykje med dei unge? 
@@ -109,20 +118,6 @@ Ny episode kjem kvar torsdag.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/etikketaten/11b50515-715d-4270-91bb-cda2027bfadd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:04</itunes:duration>
       <pubDate>Thu, 15 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
-    </item>
-    <item>
-      <title>Foreldra er polyamorøse. Bør barna vite det?</title>
-      <description><![CDATA[Kven er sjefen heime hos deg? 
-Kjempe i Ukraina eller bli i Noreg? 
-Foreldra er polyamorøse. Bør barna vite det? 
-Er det greit at arbeitsgjevare testar jobbsøkare? 
-I panelet sit foredragshaldar Marco Elsafadi, filosof Heine Holmen og forfattar og foredragshaldar Elin Ørjasæter. Programleiar er Madeleine Cederström. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/1838e615-ee0e-448b-b64b-a320405e9563_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/etikketaten/1838e615-ee0e-448b-b64b-a320405e9563_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Thu, 08 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
     </item>
   </channel>

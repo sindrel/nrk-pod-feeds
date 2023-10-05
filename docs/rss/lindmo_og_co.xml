@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Lindmo og Co. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/lindmo_og_co for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Sep 2023 04:27:36 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 05 Oct 2023 04:27:52 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    <item>
+      <title>Tytefryd</title>
+      <description><![CDATA[Anne har latt sofaen ta balletak, Rune har vært fadder fra helvete og Halvor har kjent på tytefryd. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/bd2e7642-c685-44bb-b82d-e73ea11675f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/bd2e7642-c685-44bb-b82d-e73ea11675f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:57</itunes:duration>
+      <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    </item>
     <item>
       <title>Memento Loren</title>
       <description><![CDATA[Anne har øvelseskjørt, Rune har bedrevet festakrobatikk og Sophia Loren har brukket lårhalsen!]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/b9a1a5bf-e92f-4efa-b5aa-c6fc8cde5b24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:57</itunes:duration>
       <pubDate>Thu, 09 Mar 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
-    </item>
-    <item>
-      <title>Jenka!</title>
-      <description><![CDATA[Anne har noen nye ideer til 8.mars-toget.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/d0a49a89-f07f-40b8-8bc1-e630280d2742_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/d0a49a89-f07f-40b8-8bc1-e630280d2742_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:25</itunes:duration>
-      <pubDate>Thu, 02 Mar 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
     </item>
   </channel>
