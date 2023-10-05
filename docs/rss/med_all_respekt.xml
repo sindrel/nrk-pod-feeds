@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Med All Respekt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/med_all_respekt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Oct 2023 14:27:34 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Oct 2023 16:15:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 05 Oct 2023 12:45:34 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hjiLrx_KEiOHn-F7Wu33tQ2i4a47ka44YPG2ikcE2f1Q.jpg"/>
+    <item>
+      <title> -Lærer gjorde meg mindre piece of shit!</title>
+      <description><![CDATA[Vi pitcher høstens krimbøker! Trassråd om "gjest" i  kollelktivet og kjip sjef. 
+Send oss melding merket "trassåd"  i appen NRK RADIO!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/7185c34c-d123-4833-acb6-c5cfb747a7c8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/7185c34c-d123-4833-acb6-c5cfb747a7c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Thu, 05 Oct 2023 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hjiLrx_KEiOHn-F7Wu33tQ2i4a47ka44YPG2ikcE2f1Q.jpg"/>
+    </item>
     <item>
       <title>Veggdyr på TikTok?</title>
       <description><![CDATA[Abu skal prøve nakenspa, Galvan har prøvd veggdyr og Tara tar et oppgjør med  å være kjip mot andre på TikTok. Og hva med Jungeltelegrafen?]]></description>
@@ -92,15 +102,6 @@ Send oss meldinger i appen NRK RADIO!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/c30c9923-051c-42b7-9f65-1ecb8d4be2f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:35</itunes:duration>
       <pubDate>Wed, 20 Sep 2023 16:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hjiLrx_KEiOHn-F7Wu33tQ2i4a47ka44YPG2ikcE2f1Q.jpg"/>
-    </item>
-    <item>
-      <title>En rev styrer Sverige?</title>
-      <description><![CDATA[Abu skal på en hytte,  nabolandet vårt er fucked og dørselgere prøver ut nye triks!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e9e7379e-77e4-4fc8-851c-6e11483004ed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e9e7379e-77e4-4fc8-851c-6e11483004ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:18</itunes:duration>
-      <pubDate>Tue, 19 Sep 2023 16:28:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hjiLrx_KEiOHn-F7Wu33tQ2i4a47ka44YPG2ikcE2f1Q.jpg"/>
     </item>
   </channel>
