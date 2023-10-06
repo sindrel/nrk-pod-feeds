@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Åpen bok. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bok_i_p2 for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 04:28:34 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 06 Oct 2023 11:21:55 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Hvorfor er Jon Fosse verdens beste forfatter?</title>
+      <description><![CDATA[Jon Fosse ble tildelt Nobelprisen i litteratur 2023. Cille Biermann har gjester som tolker han både med humor og alvor. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/b595f899-70f6-451e-a018-d82611d782e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/b595f899-70f6-451e-a018-d82611d782e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:53</itunes:duration>
+      <pubDate>Fri, 06 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C5rfSCA8iyEf-do_SGxdBA1rTu1ds23dN2MZ4Z08qg8g.jpg"/>
+    </item>
     <item>
       <title>Jervespor, omsorgsslit og knallsterk debut</title>
       <description><![CDATA[Fornuft til fjells, utmattelse av omsorg og årets litterære nykommer er ukas Åpen bok: Kritikerne.]]></description>
@@ -30,15 +39,6 @@
       <itunes:image href="https://gfx.nrk.no/5fxQf1I4NiLKijS1mM-udA_B0LqQRvTk7q8X_xhw-dSg.jpg"/>
     </item>
     <item>
-      <title>Musk, rus og sympati</title>
-      <description><![CDATA[Kontrollfriken og kaospiloten Elon Musk, en sang om sex og rus og en snill og sympatisk ungdomsbok er ukas Åpen bok: Kritikerne. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/da8fb47d-558e-49cd-b775-d7bc1a543e68_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/da8fb47d-558e-49cd-b775-d7bc1a543e68_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Tue, 26 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qTM99gsPnHh-vwyrtZUqxw3MlBJnMVB2RhJPNmvGIHnw.jpg"/>
-    </item>
-    <item>
       <title>Overfølsom eller klartenkt og den voldelige boken</title>
       <description><![CDATA[Hvordan klarer egentlig Brit Bildøen å skrive om det som vil skje? Hun er på plass i Forfatterintervjuet. Spilljournalist Rune Fjeld Olsen lesetipser den mest voldelige, vonde boken han har lest. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/61857082-1d91-4922-af42-4071002b981e_0_ID192MP3.mp3</guid>
@@ -46,6 +46,15 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Tue, 26 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PBeWkLeQJpdkCw9OmyiTMwCFm2akkDJ-gPOW-1ap9B_Q.jpg"/>
+    </item>
+    <item>
+      <title>Musk, rus og sympati</title>
+      <description><![CDATA[Kontrollfriken og kaospiloten Elon Musk, en sang om sex og rus og en snill og sympatisk ungdomsbok er ukas Åpen bok: Kritikerne. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/da8fb47d-558e-49cd-b775-d7bc1a543e68_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/da8fb47d-558e-49cd-b775-d7bc1a543e68_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Tue, 26 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qTM99gsPnHh-vwyrtZUqxw3MlBJnMVB2RhJPNmvGIHnw.jpg"/>
     </item>
     <item>
       <title>«Beatles» - en klassiker</title>
@@ -91,15 +100,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Tue, 05 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YElDn4_AJ5br0NUFaR2FlAfoko6-unyJTvNpldgDVtEA.jpg"/>
-    </item>
-    <item>
-      <title>Gudsfrykt og forvirrelse </title>
-      <description><![CDATA[Brutalt og blodig er to ord som beskriver Tore Renbergs nye bok, og Iben Akerlie lesetipser en forvirrende, men fantastisk bok. Dette er Åpen bok med Cille Biermann. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/a36d91e8-d4c5-47d4-b036-d91bfaa87f43_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/a36d91e8-d4c5-47d4-b036-d91bfaa87f43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Tue, 05 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PBeWkLeQJpdkCw9OmyiTMwCFm2akkDJ-gPOW-1ap9B_Q.jpg"/>
     </item>
   </channel>
 </rss>
