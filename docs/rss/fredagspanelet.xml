@@ -6,11 +6,24 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Fredagspanelet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fredagspanelet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 29 Sep 2023 07:21:58 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Sep 2023 09:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 06 Oct 2023 08:28:28 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Oct 2023 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>06.10.2023 Fredagspanelet</title>
+      <description><![CDATA[Panelet:
+Kommentator i avisa iTromsø, Egon Holstad
+Mina Adampour, lege og samfunnsdebattant
+Mala Wang Naveen, forfatter og kommunikasjonssjef i SINTEF Digital
+Temaene i dag er nobelpris, filmsammendrag på Tiktok og Aftenpostens tull med nordlendinger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/3a1197bc-b3a5-4833-8db6-36f4c3729783_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/3a1197bc-b3a5-4833-8db6-36f4c3729783_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:42</itunes:duration>
+      <pubDate>Fri, 06 Oct 2023 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>29.09.2023 Fredagspanelet</title>
       <description><![CDATA[Panelet: 
@@ -116,17 +129,6 @@ Tema: Har Barbie blitt et godt forbilde?, navneskifte Twitter og arkitekturoppr�
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/496df107-83f3-43b6-aef8-3f6f57fecd3d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>16:02</itunes:duration>
       <pubDate>Fri, 28 Jul 2023 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
-    </item>
-    <item>
-      <title>21.07.23 Fredagspanelet</title>
-      <description><![CDATA[Panelet: Maja Sojtaric - kommentator i avisen Nordlys, Audun Molde - musikkviter ved Høyskolen Kristiania og Mathilde Fasting - siviløkonom og idehistoriker i tankesmien Civita
-
-Tema: Hardrockfans, overvåkning i sosiale medier og konsentrasjon på kino.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/72e601e3-50e0-4c2a-8c80-34eb697e9c39_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/72e601e3-50e0-4c2a-8c80-34eb697e9c39_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:57</itunes:duration>
-      <pubDate>Fri, 21 Jul 2023 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>
