@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 14:29:21 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Oct 2023 15:30:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 06 Oct 2023 04:27:38 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Pesten fra villsvin sprer seg</title>
+      <description><![CDATA[Den afrikanske svinepesten sprer seg i Europa. Nå er den i Sverige. Kan smitten komme hit?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/576ded96-c139-491b-bbf4-4a96dce636be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/576ded96-c139-491b-bbf4-4a96dce636be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:31</itunes:duration>
+      <pubDate>Fri, 06 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Wx0LumTYDwGLCTHo37e3cggP3nHWzL9fdk7ej0Qk0hyg.jpg"/>
+    </item>
     <item>
       <title>Spørretime: gjengkrigen i Sverige</title>
       <description><![CDATA[Hvorfor startet krigen og kan den spre seg til Norge? Et tidligere gjengmedlem, en forsker, en politisjef og vår nordenkorrespondent svarer.]]></description>
@@ -94,16 +103,6 @@ En ungdomskultur hvor overgrep også skjer.
       <itunes:duration>19:23</itunes:duration>
       <pubDate>Mon, 11 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/M-gonq8AbTGS_XtL00FkyQp4iPhtDUmIS-mSuw7gMnRA.jpg"/>
-    </item>
-    <item>
-      <title>Bonden og brannen</title>
-      <description><![CDATA[Livsverket gikk opp i røyk midt på natta. Hør hva Solveig gjorde da hun måtte begynne helt på nytt.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/86bb5217-b417-4213-86f5-df0184be83f2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/86bb5217-b417-4213-86f5-df0184be83f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:48</itunes:duration>
-      <pubDate>Sat, 09 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/y4znot2oiD7y64PQIExmHQhgmFSMOUuJ6JqcdBnqcL7Q.jpg"/>
     </item>
   </channel>
 </rss>
