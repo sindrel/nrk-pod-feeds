@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Norsken, svensken og dansken. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/norsken_svensken_og_dansken for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 30 Sep 2023 04:28:41 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Sep 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 07 Oct 2023 04:27:37 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    <item>
+      <title>Beklager,  Sverige</title>
+      <description><![CDATA[Solgte danskene ytringsfriheten for en pakke smør? Har krimdronning Camilla Läckberg skrevet bøkene sine selv? Og er det tabu å snakke om den nye overklassen i Norge? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/59388cc9-d9de-4bf0-ae33-9e57e7a49a24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/59388cc9-d9de-4bf0-ae33-9e57e7a49a24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 07 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
     <item>
       <title>Synkehull Sverige</title>
       <description><![CDATA[Er hele Sverige blitt et synkehull? Hvorfor jobber svenskene da så mye mer enn dansker og nordmenn? Og er det kommet ukultur inn i den norske politiske klassen, eller er nordmenn bare naive? Hør også om vippseren, svisjeren og mobil payeren.]]></description>
@@ -93,18 +102,6 @@ Velkommen tilbake til en ny sesong med ukentlig pan-skandinavisk familieterapi!]
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/112b81d6-3981-4847-880f-10b2e0109bab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:46</itunes:duration>
       <pubDate>Sat, 27 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
-    </item>
-    <item>
-      <title>Pragmatisk idealisme</title>
-      <description><![CDATA[Er det synd på Sverige som vant Eurovisjon? 
-Hva mener den danske utenriksministeren med uttrykket pragmatisk idealisme?
-Og: Bør man få sykedag når kjæledyret ikke er friskt? 
-Hør også om nasjonaldagsfeiring på norsk og få boktips fra panelet!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9e3e30fe-482e-4c33-850f-867b2e99454e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9e3e30fe-482e-4c33-850f-867b2e99454e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:10</itunes:duration>
-      <pubDate>Sat, 20 May 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
     </item>
   </channel>
