@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Oct 2023 19:22:17 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Oct 2023 21:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 07 Oct 2023 10:27:23 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Oct 2023 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Israel under angrep</title>
+      <description><![CDATA[Hva kan skje etter at Israel har kommet under angrep? Ekspertene mener dette er en meget dramatisk situasjon, og at det kan føre til en større krig. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/899c226d-8deb-48b1-b7bf-90a1253a1e96_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/899c226d-8deb-48b1-b7bf-90a1253a1e96_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Sat, 07 Oct 2023 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Igey82jCe4LMyiu-4fH0iw9usGCxpKGcyEQl-TbcRdTQ.jpg"/>
+    </item>
     <item>
       <title>Krigen i Ukraina: Hva om Trump blir president igjen?</title>
       <description><![CDATA[Kan Donald Trump få slutt på krigen i Ukraina, og kan han stanse støtten til ukrainerne?]]></description>
@@ -95,16 +105,6 @@ Roman samlet inn informasjon om hva russerne drev med i det okkuperte Kherson, t
       <itunes:duration>15:27</itunes:duration>
       <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uuwto3fFjWP1h-YELiwVfANWq6voRY04Ks5WzSMmU1pA.jpg"/>
-    </item>
-    <item>
-      <title>De som seirer over krisene</title>
-      <description><![CDATA[De gir ikke opp selv om verden er grusom.
-Noen finner igjen sin familie, noen finner igjen sitt land og noen gir ikke opp håpet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/7b8c83fc-2819-4d13-91ce-db67bb243f62_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/7b8c83fc-2819-4d13-91ce-db67bb243f62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:01</itunes:duration>
-      <pubDate>Sat, 02 Sep 2023 12:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0JUpV4Pq4KTiDdqfwj9RsQAONqcwbjnPS_TES4HyUwVA.jpg"/>
     </item>
   </channel>
 </rss>
