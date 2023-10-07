@@ -6,11 +6,24 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ukeslutt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ukeslutt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 30 Sep 2023 13:22:55 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Sep 2023 15:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 07 Oct 2023 12:39:22 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Oct 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q.jpg"/>
+    <item>
+      <title>07.10.2023 Ukeslutt</title>
+      <description><![CDATA[Nobelprisvinner Jon Fosse elsker hunder. Favorittmaten hans er raspeballer. Men hva er egentlig tanken bak de rare kommareglene hans? Linda Eide har samlet nyttig og unyttig fakta om sin helt- til dumskaller.  
+
+Regjeringens plan for hvordan den norske pengesekken skal fordeles, fikk vi da statsbudsjettet ble presentert i går. Men hva har folk lyst til å bruke penger på? 
+ 
+Da Stortinget åpnet satt dronning Sonja på en teater-rekvisitt. Den originale kongestolen havnet på mystisk vis på teaterscenen og ble drasset fram og tilbake til beinet brakk. Nå har stolen funnet tilbake. Du skal få høre arkivarens skattejakt. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/af2376e3-4528-44a2-92b6-b0a8be04686f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/af2376e3-4528-44a2-92b6-b0a8be04686f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:47</itunes:duration>
+      <pubDate>Sat, 07 Oct 2023 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q.jpg"/>
+    </item>
     <item>
       <title>30.09.2023 Ukeslutt</title>
       <description><![CDATA[Ein mangeårig strid pågår. Kva skjedde eigentleg i 2014 da eit mystisk brettspel om bybanekonflikten i Bergen dukka opp på rådhuset?  
@@ -129,15 +142,6 @@ Tidlegare president Donald Trump er tiltalt for å spreie falske påstandar, og 
       <enclosure url="https://podkast.nrk.no/fil/ukeslutt/7a6651ac-1415-4dbd-8c4f-9145db23c449_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:06:50</itunes:duration>
       <pubDate>Sat, 05 Aug 2023 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q.jpg"/>
-    </item>
-    <item>
-      <title>Ukeslutt 29.07.2023</title>
-      <description><![CDATA[Denne uka har bilder fra skogbrannene i Europa preget nyhetsbildet, hun som koordinerer slukkearbeidet er fra Norge - og er gjest i Ukeslutt. Og på Voss er det klart for storinnrykk. Folketallet der øker med ca 20.000 - når det er klart for landskytterstevne. Vi skal også nordover, hvor det er meldt om det største utbruddet vi har hatt av fugleinfluensa blant villfugler i Norge, spørsmålet er: Har vi nådd toppen? Dessuten skal vi ut å fly, med en reporter som slett ikke har høydeskrekk. - Men stjele et fly? Nei, det anbefales ikke!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/9a739df0-d5b0-4c7e-976a-1ed50763b569_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/9a739df0-d5b0-4c7e-976a-1ed50763b569_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:36</itunes:duration>
-      <pubDate>Sat, 29 Jul 2023 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sXwikUlbapewyTzsf8a8CQl-L-jJ42Cegh6Tx9NXA4_Q.jpg"/>
     </item>
   </channel>
