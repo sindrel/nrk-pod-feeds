@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten The Kåss Furuseths. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/the_kaass_furuseths for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 01 Oct 2023 04:27:28 +0000</lastBuildDate>
-    <pubDate>Sun, 01 Oct 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sun, 08 Oct 2023 04:27:32 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Chris Holsten</title>
+      <description><![CDATA[Holsten finner frem Lillestrøm-slang, og forteller om da han kjørte bil som 15-åring, og om daten som hevdet hun ikke visste hvem han var.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/f2c3f7ab-9a1f-4da0-8e91-a9eed0c11caf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/f2c3f7ab-9a1f-4da0-8e91-a9eed0c11caf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:37</itunes:duration>
+      <pubDate>Sun, 08 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D1SmyzZJQBKSylf9Z6WsXA2GAAwV_AUoUsIYANNFHCeQ.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Bjarte Tjøstheim</title>
       <description><![CDATA[Bjarte Tjøstheim snakker om å dra på IKEA alene, å be om tilgivelse selv om man ikke har gjort noe galt, og om å klappe skallede menn på hodet.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>42:49</itunes:duration>
       <pubDate>Sun, 06 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uxX-8ZC_Jg_CetRx4o_EKQ_ry90Ej8v1hIkMYGrGWluQ.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Henrik Farley</title>
-      <description><![CDATA[Else og Henrik diskuterer trening med hjelm, våpen og hvordan man kan holde seriemorder-praten gående på Tinder. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/922b7fc1-ac50-42f2-8c06-a026023c69fc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/922b7fc1-ac50-42f2-8c06-a026023c69fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:23</itunes:duration>
-      <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/v0IugiqMHvvyBog-H2TCKwkQ4Td_t7YNqP3s7FVC1qoQ.jpg"/>
     </item>
   </channel>
 </rss>
