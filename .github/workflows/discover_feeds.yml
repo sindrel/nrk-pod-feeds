@@ -60,7 +60,7 @@ jobs:
         run: python generate_feeds.py
 
       - name: Auto-commit changes and push
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(auto): Update podcast configuration"
           commit_author: nrk-pod-feeds auto-discovery <actions@github.com>
