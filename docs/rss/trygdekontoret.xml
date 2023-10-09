@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Trygdekontoret. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/trygdekontoret for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 02 Oct 2023 04:28:38 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Oct 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 09 Oct 2023 04:28:31 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Ambulansearbeider Sander tilbake i Ukraina </title>
+      <description><![CDATA[Sander Sørsveen har vært seks ganger i Ukraina som frivillig, den siste gangen ble han nesten drept i et Russisk angrep. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/30c6842e-68d4-49c5-980a-146cef690a20_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/30c6842e-68d4-49c5-980a-146cef690a20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:49</itunes:duration>
+      <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_X8cYWuJdusu_Z2IdAWG1ggPN5ofCiiT7gBLbGKIPocA.jpg"/>
+    </item>
     <item>
       <title>Paradokset USA </title>
       <description><![CDATA[USAs mange problemer skyldes noe vi er glad i Norge: nemlig kompromisser. Med Hilde Restad, forfatter og førsteamanuensis ved Institutt for statsvitenskap og internasjonale relasjoner ved Oslo Nye Høyskole. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>47:50</itunes:duration>
       <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PsCM7IpxgwoPJDv5LQGQfg9CjKnwJa-rqO_vKx5WaFOw.jpg"/>
-    </item>
-    <item>
-      <title>Herrelandslagets fall</title>
-      <description><![CDATA[Det var en gang et herrelandslag som blomstret på fotballbanen. Hva har skylda for at Norge gang på gang ikke leverer lenger? Kunstgress? Dårlig talentspeiding? Vi får svar fra Frode Lia, fotballekspert og tidligere redaktør i Josimar. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c5534a95-4535-4b6d-a26f-10076958d5ef_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c5534a95-4535-4b6d-a26f-10076958d5ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:08:47</itunes:duration>
-      <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0uXeyyCWBVIqKXS5naXqrQfqxbFhRhumGVw4wmdHkRUw.jpg"/>
     </item>
   </channel>
 </rss>

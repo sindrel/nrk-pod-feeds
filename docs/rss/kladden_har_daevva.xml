@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kladden har dævva. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kladden_har_daevva for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 02 Oct 2023 04:28:22 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Oct 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 09 Oct 2023 04:28:09 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Nils Bech og helsebevisstheten </title>
+      <description><![CDATA[Nils er ikke hypokonder, bare nesten. Men sykebilen ringte han ikke da han trengte den. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/148c4e63-d6fd-4bb1-93b6-a0eb3688d28e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/148c4e63-d6fd-4bb1-93b6-a0eb3688d28e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:14</itunes:duration>
+      <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vm35FkWZFd_q4Z-3_ccNGQN22t8vzY3s5zWbYVZ5Yc0A.jpg"/>
+    </item>
     <item>
       <title>Emma Steinbakkens hverdagsfest</title>
       <description><![CDATA[Emma vil helst ikke leve til hun blir hundre, bare til hun er mett. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>24:29</itunes:duration>
       <pubDate>Mon, 07 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uuHF2VtAgI-qROV7HHag2wl7SuJFUHjz1Pzm3uirDvxw.jpg"/>
-    </item>
-    <item>
-      <title>Dævva spesial: Live Nelvik</title>
-      <description><![CDATA[Telles hvithai i VR som en nær døden-opplevelse? Egentlig? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/787e4de4-9bbc-46af-ae3b-d76999b9f168_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/787e4de4-9bbc-46af-ae3b-d76999b9f168_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:37</itunes:duration>
-      <pubDate>Mon, 31 Jul 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yVjKv15u-iWuXIEOvKZ7ow6iByQbmKwC9sUEPoXjKEpg.jpg"/>
     </item>
   </channel>
 </rss>

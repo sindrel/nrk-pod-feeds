@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 04:27:38 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 09 Oct 2023 04:27:57 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Kan man drikke for mye vann?</title>
+      <description><![CDATA[Vannflasker som oppfordrer deg til å drikke så og så mye vann i løpet av  døgnet er blitt superpopulære. Hvor mye vann trenger du egentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b947f7e7-bed6-49bb-aa3f-38c0af25899b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b947f7e7-bed6-49bb-aa3f-38c0af25899b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:15</itunes:duration>
+      <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZcEwBT-lfp0tgmMAirSNSA-5VTHlWgTfRDggdc44rOKw.jpg"/>
+    </item>
     <item>
       <title>Pesten fra villsvin sprer seg</title>
       <description><![CDATA[Den afrikanske svinepesten sprer seg i Europa. Nå er den i Sverige. Kan smitten komme hit?]]></description>
@@ -94,15 +103,6 @@ En ungdomskultur hvor overgrep også skjer.
       <itunes:duration>56:32</itunes:duration>
       <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-TNQGvkiFRWbuMKplV0HtAjT49WulNoi2GyfSpwPBT1g.jpg"/>
-    </item>
-    <item>
-      <title>Klimasøksmålene som faktisk vinner frem</title>
-      <description><![CDATA[Unge i Montana vant et klimasøksmål mot delstaten. Mange flere søksmål er på gang i verden. Kan vi redde klima med rettssaker?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0f77d327-ce17-436e-a2a3-75cd616b4d45_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0f77d327-ce17-436e-a2a3-75cd616b4d45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:23</itunes:duration>
-      <pubDate>Mon, 11 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/M-gonq8AbTGS_XtL00FkyQp4iPhtDUmIS-mSuw7gMnRA.jpg"/>
     </item>
   </channel>
 </rss>

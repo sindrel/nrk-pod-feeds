@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Både Erlend og Steinar </title>
+    <title>De 2 siste fra Både Erlend og Steinar </title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Både Erlend og Steinar . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baade_erlend_og_steinar_ for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Både Erlend og Steinar . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baade_erlend_og_steinar_ for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 06:29:21 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Oct 2023 17:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Mon, 09 Oct 2023 04:27:45 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Dødsing og l'appel du vide</title>
+      <description><![CDATA[Kan dødsing reflektere noe dypere ved mennesket enn vi tror? Steinar tror ikke på Erlends sauehistorie, og søker svar hos Erlends far.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/6ffa6cd6-35a6-4ff6-a492-142decccfd1c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/6ffa6cd6-35a6-4ff6-a492-142decccfd1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:54</itunes:duration>
+      <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>Både Erlend og Steinar - kommer 9. oktober</title>
       <description><![CDATA[Erlend Mørch og Steinar Klouman Hallert skal bli enda bedre kjent med hverandre gjennom rare tankeeksperimenter og problemstillinger.]]></description>
