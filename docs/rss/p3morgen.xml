@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 08:28:46 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Oct 2023 10:25:00 +0200</pubDate>
+    <lastBuildDate>Mon, 09 Oct 2023 12:47:07 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Oct 2023 14:43:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Steinars rumpehull og Erlend</title>
+      <description><![CDATA[Vi har besøk av Erlend Mørch og litt Steinar Hallert som ikke har fått med seg en viktig beskjed. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/abdd3a13-2eb8-43ba-843a-a5813df61221_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/abdd3a13-2eb8-43ba-843a-a5813df61221_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:09</itunes:duration>
+      <pubDate>Mon, 09 Oct 2023 14:43:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YtEo25OE0NZ51WnB0WmSzwVDwLs99z4NRCvO2V083_lw.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Avvist på Circle K</title>
       <description><![CDATA[Kaja åpner opp om fylleangst og å bli avvist på Circle K. Tilstede: Karsten, Anna, Kaja, Herman, og Heidi]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>49:12</itunes:duration>
       <pubDate>Mon, 02 Oct 2023 16:10:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>P3 30 år!</title>
-      <description><![CDATA[Vi feirer at P3 har blitt 30 år. Vegard Harm og Tinashe Williamson er på besøk og snakker om programmet  «Jaget».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/38b66bef-f116-49fa-96f5-856436eb20ca_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/38b66bef-f116-49fa-96f5-856436eb20ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:48</itunes:duration>
-      <pubDate>Mon, 02 Oct 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RlSGlwHrlIfWZgpJDYnO3A0nnM59zfpuaHIJKodXPNww.jpg"/>
     </item>
   </channel>
 </rss>
