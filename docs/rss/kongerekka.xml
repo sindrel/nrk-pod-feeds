@@ -6,11 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kongerekka. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kongerekka for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 04:28:49 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 10 Oct 2023 04:28:09 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg.jpg"/>
+    <item>
+      <title>Frederik III, Christian V og Frederik IV - Kongene som ikke fikk opplæring (36:42)</title>
+      <description><![CDATA[Pudder, parykk og krone var visst det som krevdes for å være eneveldig konge. 
+(År 1648-1730)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/3464873f-bca2-403b-8d40-fea41c03685a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/3464873f-bca2-403b-8d40-fea41c03685a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:11</itunes:duration>
+      <pubDate>Tue, 10 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/748VtILkjF8TNRCnII0d7QS5k409EQW1nMxgYzMMqF5Q.jpg"/>
+    </item>
     <item>
       <title>Frederik II og Christian IV - Kongen som var alt for mye (35:42)</title>
       <description><![CDATA[Fontener med vin, 35 000 vinglass og mynter drysset i gatene: Party like it`s 1596!   
@@ -101,16 +111,6 @@ Musikk: SyncPoint, Kaare og Partiet, Det Norske Jentekor + KORK + Kajsa Balto]]>
       <itunes:duration>31:40</itunes:duration>
       <pubDate>Mon, 24 Oct 2022 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VUYylygbItDKc_v6iBc9pQX4vQR7DiiCVpAnPzB4J4DQ.jpg"/>
-    </item>
-    <item>
-      <title>Eirik Magnusson - Kongen som ikke skjønte noen ting (27:42)</title>
-      <description><![CDATA[De kalte han Eirik Prestehater. Hestehater hadde vært mer riktig, stakkars. 
-(År 1280-1299)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/fc44b379-82c7-4785-9424-1f4ca148e1b2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kongerekka/fc44b379-82c7-4785-9424-1f4ca148e1b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:38</itunes:duration>
-      <pubDate>Mon, 17 Oct 2022 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8RyfykmtGGWv6j_izCkznAwAT6mvjgvvCkgktxRDLI-Q.jpg"/>
     </item>
   </channel>
 </rss>

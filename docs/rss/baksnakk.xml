@@ -6,11 +6,22 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Baksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baksnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 04:28:27 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 10 Oct 2023 04:27:48 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FkjR_LdfvGNo4NVFLPchtgVqr3T9pGEpTGPJTeVyGx3g.jpg"/>
+    <item>
+      <title>Kansellering, dating og drikkeleker</title>
+      <description><![CDATA[Zara lurer på hva som skal til for å bli kansellert, og Milie hater drikkeleker.
+
+Send oss spørsmål på unormal@nrk.no eller på instagram @nrkunormal :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/b45373ce-451e-4cdc-8f5b-70792c0644b4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/b45373ce-451e-4cdc-8f5b-70792c0644b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:47</itunes:duration>
+      <pubDate>Tue, 10 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FkjR_LdfvGNo4NVFLPchtgVqr3T9pGEpTGPJTeVyGx3g.jpg"/>
+    </item>
     <item>
       <title>Milies audition og TikTok-kjærlighet</title>
       <description><![CDATA[Milie prøver å bli popstjerne, og Zara har sett verdens kleineste video på TikTok.
@@ -107,15 +118,6 @@ Send oss spørsmål på unormal@nrk.no!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/5fbf395a-d230-4d2a-abd6-012394076ecb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:14</itunes:duration>
       <pubDate>Tue, 08 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA.jpg"/>
-    </item>
-    <item>
-      <title>Spesial: Baksnakk POWER</title>
-      <description><![CDATA[Zara og Lydia har hatt sending på P3.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/fe331957-d14d-4e5c-a146-7688a5642463_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/fe331957-d14d-4e5c-a146-7688a5642463_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:55:40</itunes:duration>
-      <pubDate>Tue, 01 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/viuiSOqosUk5HxaRzhCDPAn-XA0LSljiNbIpeplYl0bA.jpg"/>
     </item>
   </channel>

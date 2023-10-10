@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra I dødens spor</title>
+    <title>De 5 siste fra I dødens spor</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten I dødens spor. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_doedens_spor for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten I dødens spor. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/i_doedens_spor for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 04:28:44 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 10 Oct 2023 04:28:05 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_IeQsEfbvN-ylI68lf5ONwDEz8RIsjvnNmm4fyMD-cJQ.jpg"/>
     <item>
@@ -39,13 +39,22 @@
       <itunes:image href="https://gfx.nrk.no/yxNf2ETks3pxl3muO6xwWAQJ5z9gqXoaXD8RqYnGhJtw.jpg"/>
     </item>
     <item>
-      <title>En ung drapsmann</title>
+      <title>En ung drapsmann (4:8)</title>
       <description><![CDATA[En 14 år gammel gutt sender en tekstmelding til 14 år gamle Alma Gabriela. Han vil møte henne. Det hun ikke vet er at han planlegger å ta livet hennes. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/fa57169b-387d-49d2-a047-3448ec57159d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/fa57169b-387d-49d2-a047-3448ec57159d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:28</itunes:duration>
       <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pmQtgsI6B2K-H1Jp-d2HZw_Vcx-tjwns0Hn6DaCzwGGg.jpg"/>
+    </item>
+    <item>
+      <title>Psykotisk (5:8)</title>
+      <description><![CDATA[En mann skriver seg selv ut fra psykiatrisk behandling. Legene mener han en fare for andre og vil holde han der, men får ikke lov. Seks måneder senere blir han siktet for drap.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_doedens_spor/26917dfc-ba25-459f-9a95-e36f370dd378_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_doedens_spor/26917dfc-ba25-459f-9a95-e36f370dd378_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:47</itunes:duration>
+      <pubDate>Tue, 10 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yzq8Ps4B6RQaU-Ld8WIcsQg8kY4EydSLAQh4BBJ_qRVg.jpg"/>
     </item>
   </channel>
 </rss>
