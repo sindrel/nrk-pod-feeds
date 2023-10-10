@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 09 Oct 2023 13:29:14 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Oct 2023 15:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2023 10:30:15 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 12:07:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Ikke lyv om bilen din </title>
+      <description><![CDATA[Svenske Otto Fahlgren er hos oss fordi "Sulis 1907" er ute! Karsten og Tete snakker også om den nye serien til David Beckhams familie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2e889942-890f-4103-8002-58ade33f1c20_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2e889942-890f-4103-8002-58ade33f1c20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:22</itunes:duration>
+      <pubDate>Tue, 10 Oct 2023 12:07:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Pidw6pCnlQsnFcuPKrGfMwzW-KNSiVTTunMyqTB7l4Pw.jpg"/>
+    </item>
     <item>
       <title>Noe Attåt: Kebab nå!</title>
       <description><![CDATA[Det er reisefeber i noe attåt! Vietnam og Tallinn står oppført i kalenderen. Til stede: Tete, Johannes, Hani, Herman og Kaja]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>36:06</itunes:duration>
       <pubDate>Tue, 03 Oct 2023 13:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Kvae sa du?</title>
-      <description><![CDATA[Mads Hansen og Snorre Monsson fra ikke lov å le på hytta er innom oss! Vi får også svar på hvor mange som hogger veden sin selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b14563fa-6093-46ed-98dd-f4237afa971a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b14563fa-6093-46ed-98dd-f4237afa971a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:28</itunes:duration>
-      <pubDate>Tue, 03 Oct 2023 13:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0h3QNsO-tsioXh2zF62z-AOU1mvxfqr4USbKMCIMRxxw.jpg"/>
     </item>
   </channel>
 </rss>
