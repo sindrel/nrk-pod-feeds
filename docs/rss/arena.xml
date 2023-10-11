@@ -1,16 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Arena</title>
+    <title>De 7 siste fra Arena</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Oct 2023 04:27:50 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Oct 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Wed, 11 Oct 2023 04:27:28 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/uSWumQMVs2kU78epnR5J0g6KckGj5WLn-NB4E7uF80hw.jpg"/>
+    <item>
+      <title>Rappens rolle i svensk gjengvold</title>
+      <description><![CDATA[Voldsbølgen i Sverige tar mange unge liv. Mange peker på en kobling mellom gangsterrappen, som troner på topplistene, og gjengene. 
+Med: Emil Arvidson, Isak Brodahl, Mikael Samuelsen, Leo Ajkic.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/3c945396-9365-47f8-bdf2-49218f09e0c4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/3c945396-9365-47f8-bdf2-49218f09e0c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:54</itunes:duration>
+      <pubDate>Wed, 11 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzO3j3wTGcRZEx-_crreswRoDJ7FcPIXK9DeisuGwaNA.jpg"/>
+    </item>
     <item>
       <title>Hvorfor ses fantasy på som lavkultur?</title>
       <description><![CDATA[Fantasy er megapopulært på skjerm og i bøker. Men mange har fordommer - hvorfor det? Og er ikke fantasy bra nok for nobelprisen? Med: Siri Pettersen, Rikke Neverdal, Siss Vik, Bernhard Ellefsen, Marte Hedenstad.]]></description>
