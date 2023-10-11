@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 10 Oct 2023 11:22:01 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Oct 2023 12:45:00 +0200</pubDate>
+    <lastBuildDate>Wed, 11 Oct 2023 10:30:36 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Oct 2023 11:38:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Hunder er miljøverstinger</title>
+      <description><![CDATA[Vi har besøk av selveste Birk Ruud som har skrevet bok! Karsten kommer også med triste nyheter om hunder. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a5a699f1-2a8b-4fc6-994e-6ae4e718e0b4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a5a699f1-2a8b-4fc6-994e-6ae4e718e0b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:51</itunes:duration>
+      <pubDate>Wed, 11 Oct 2023 11:38:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SCPezPbyQu_p2qj2-xKKjgdk5b_iDMuD8aj3PiGh6ifw.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: I det kulinariske hjørnet</title>
       <description><![CDATA[Hvem har best sitater av Mayoo og DJ Khalid? Og hva er greia meg «girl dinner»? Til stede: Tete, Johannes, Anna og Kaja.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>39:09</itunes:duration>
       <pubDate>Wed, 04 Oct 2023 14:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Den store kork-debatten</title>
-      <description><![CDATA[Skifolkene Silje Nordnes og Emil Gukild kommer for å spre skiglede. Og er folket for eller mot festede bruskorker? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/0eda1dc5-252e-47e5-9383-06f55e63c394_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/0eda1dc5-252e-47e5-9383-06f55e63c394_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:00</itunes:duration>
-      <pubDate>Wed, 04 Oct 2023 14:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1h4uOoPfgbn9aD6UYiI8QQdn1XlFl2T9eQLQuRMHgi5w.jpg"/>
     </item>
   </channel>
 </rss>
