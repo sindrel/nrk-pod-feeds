@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Træsh</title>
+    <title>De 6 siste fra Træsh</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Træsh. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/traesh for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Træsh. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/traesh for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 05 Oct 2023 04:28:11 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2023 04:28:27 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gZGZqMFqYK49hfIVXYhzGRQ.jpg"/>
+    <item>
+      <title>Posh + Becks: Verdens største superpar er tilbake. </title>
+      <description><![CDATA[Har vi alle blitt lurt til å se på en fotballdokumentar den siste uken? Og er vi ikke enige om at vi elsker det? I tillegg er det shady ting som skjer i kulissene på Love is Blind og kjendiser plumper uti uheldige instagraminnlegg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/8b9d740e-c68d-414d-a01c-93e4084ad58a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/8b9d740e-c68d-414d-a01c-93e4084ad58a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:09</itunes:duration>
+      <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXpLt4ugaC2RRoeIJbjhkgBn_b9quMJ7HWVGUjXNG-_w.jpg"/>
+    </item>
     <item>
       <title>Hvorfor er det så digg å hate watche?</title>
       <description><![CDATA[Hvorfor elsker vi å se på ting vi hater? Galvan er på besøk for å synse litt om dette. I tillegg til Britney Spears' knivdans, Anna Wintours kalde skulder og selvfølgelig oppdatering på Taylor Swifts kjærlighetsliv, igjen. ]]></description>
@@ -18,7 +27,7 @@
       <enclosure url="https://podkast.nrk.no/fil/traesh/763e7b29-8b64-4da6-9216-b96a969c86d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:03</itunes:duration>
       <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RdVRDVnFwX_ap6oKyTEaZgXSC8zqzLzVCpy4D3sKHwKw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/RdVRDVnFwX_ap6oKyTEaZgcXDp76Hr7hE3u8gVi322rQ.jpg"/>
     </item>
     <item>
       <title>Har vi sett starten på slutten for Kardashians?</title>

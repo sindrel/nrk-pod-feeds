@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 09 Oct 2023 11:22:04 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Oct 2023 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2023 04:28:01 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
+    <item>
+      <title>#361 Christoffer Schjelderup</title>
+      <description><![CDATA[Komiker Christoffer Schjelderup forteller om oppveksten i Brann-garderoben, bodshow og hvorfor han hater trommer på tribunen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/d56a5ec7-7dc8-4bd0-aa30-4facba0fdb4a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d56a5ec7-7dc8-4bd0-aa30-4facba0fdb4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:23:27</itunes:duration>
+      <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KSS5i9PamazTMlGWscUQ9AHDohiBRNW7TboZgivZW0jQ.jpg"/>
+    </item>
     <item>
       <title>Snakkis: Giroud, landslagsuke og null VAR</title>
       <description><![CDATA[Hyllest av Olivier Giroud, Ali er supergira på landslagskamper mot Kroatia og Spania, og vi snakker (nesten) ikke om VAR.
@@ -101,15 +110,6 @@ I panelet: Sven Bisgaard Sundet, Kasper Wikestad og Ali Soufi-Grimsrud]]></descr
       <itunes:duration>52:03</itunes:duration>
       <pubDate>Mon, 11 Sep 2023 12:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
-    </item>
-    <item>
-      <title>#356 Jon Martin Henriksen</title>
-      <description><![CDATA[Programleder Jon Martin Henriksen forteller om livet uten FOMO og avslører om han ble en bedre versjon av seg selv etter Kompani Lauritzen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/63ee95b2-b909-4362-9a8b-83048ecf8e62_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/63ee95b2-b909-4362-9a8b-83048ecf8e62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:54:28</itunes:duration>
-      <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pzYpPngV4oueW6agOgXJfQzUbk052dxga4gI2PVB_xaw.jpg"/>
     </item>
   </channel>
 </rss>

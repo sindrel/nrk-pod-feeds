@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Oct 2023 04:28:08 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2023 04:28:23 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Evaluering: Sundquist er en vanlig mann</title>
+      <description><![CDATA[Ståle har dramatiske nyheter. Er det kroken på døra?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/0c521760-b19a-4440-a1e5-a93840a6f89b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/0c521760-b19a-4440-a1e5-a93840a6f89b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:21</itunes:duration>
+      <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
+    </item>
     <item>
       <title>Nesten en rein kopi av Se &amp; Hør</title>
       <description><![CDATA[Generalprøve på Fættvikaspelet og test av kopimaskin.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>24:13</itunes:duration>
       <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Nbu3KdYpEobeC6EPEzVEnweUVCw1OdNFSP8PNxCOHc9w.jpg"/>
-    </item>
-    <item>
-      <title>Evaluering: Hvor mye kan man kjederøyke?</title>
-      <description><![CDATA[Diskusjon om grevlinger i studio og Edel i kiosken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/bfdfaeee-2abb-42e0-a607-6cc8e0b2a0ff_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/bfdfaeee-2abb-42e0-a607-6cc8e0b2a0ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:34</itunes:duration>
-      <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
     </item>
   </channel>
 </rss>
