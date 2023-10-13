@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Skiklubben</title>
+    <title>De 3 siste fra Skiklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Skiklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/skiklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Skiklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/skiklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 04:27:57 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 04:28:44 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
+    <item>
+      <title>Intervall</title>
+      <description><![CDATA[Rulleski i London, forsøk på voldsom gå-utfordring - og alt du trenger å vite om intervall-trening. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/8f44d2a8-1fd4-482c-90c7-5a151319b5de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/8f44d2a8-1fd4-482c-90c7-5a151319b5de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:37</itunes:duration>
+      <pubDate>Fri, 13 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
+    </item>
     <item>
       <title>Puls</title>
       <description><![CDATA[Makspuls, hvilepuls og snakketempo - hvordan bruker man puls best i trening?]]></description>
