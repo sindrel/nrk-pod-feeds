@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 07 Oct 2023 10:27:23 +0000</lastBuildDate>
-    <pubDate>Sat, 07 Oct 2023 12:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 12:44:26 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Krigen i Ukraina : Hvilken påvirkning har den nye krigen?</title>
+      <description><![CDATA[Vil verden nå glemme Ukraina fordi det har kommet en ny krig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/2dd77168-1011-4840-9e62-f71215da35b0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/2dd77168-1011-4840-9e62-f71215da35b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:53</itunes:duration>
+      <pubDate>Fri, 13 Oct 2023 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v8ueHPly47rIQydXVTqnrgNHlDNkCr8GSxU-AbqicETw.jpg"/>
+    </item>
     <item>
       <title>Israel under angrep</title>
       <description><![CDATA[Hva kan skje etter at Israel har kommet under angrep? Ekspertene mener dette er en meget dramatisk situasjon, og at det kan føre til en større krig. 
@@ -96,15 +105,6 @@ Roman samlet inn informasjon om hva russerne drev med i det okkuperte Kherson, t
       <itunes:duration>56:42</itunes:duration>
       <pubDate>Sat, 09 Sep 2023 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JPpMRQtIFoIpFuN2bQmRKwTx4Av0iZmXyvNcLrCXPwHQ.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: På kino med Putin</title>
-      <description><![CDATA[Putin satser på propagandafilm for å påvirke synet på Ukrainakrigen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/3a9c073d-60f4-4bfc-91ef-a8ee128c9a1b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/3a9c073d-60f4-4bfc-91ef-a8ee128c9a1b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:27</itunes:duration>
-      <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uuwto3fFjWP1h-YELiwVfANWq6voRY04Ks5WzSMmU1pA.jpg"/>
     </item>
   </channel>
 </rss>
