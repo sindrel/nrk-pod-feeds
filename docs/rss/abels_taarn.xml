@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 15:24:59 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Oct 2023 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 14 Oct 2023 05:25:12 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Oct 2023 07:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Abels spesial - Homo naledi</title>
+      <description><![CDATA[Innerst inne i en grotte i Sør-Afrika har grotteutforskere tatt seg inn i et kammer hvor trolig ingen har vært på tusener av år, kanskje hundretusener. Det de fant der kan endre historien om mennesket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/34cd0342-4251-4970-9f70-9e82c460c71b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/34cd0342-4251-4970-9f70-9e82c460c71b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:15</itunes:duration>
+      <pubDate>Sat, 14 Oct 2023 07:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DVeflBxZBBGTCWqsvMg-Wg-nSpvxFk2EO2SOqDro4Lsw.jpg"/>
+    </item>
     <item>
       <title>Abels tårn - En sjuk episode</title>
       <description><![CDATA[- Er vi spesielt utsatt for pollenallergi her i Norge?
@@ -172,16 +181,6 @@ Anja Røyne
       <itunes:duration>27:59</itunes:duration>
       <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4Dkh2oNi-VUSgGDD56ThlwwK0lWHQTtYa1jKExL4PhCQ.jpg"/>
-    </item>
-    <item>
-      <title>Abels spesial #3 - Kan vi leve uten plast?</title>
-      <description><![CDATA[Hvorfor er det så vanskelig å resirkulere plast?
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3cc71583-fc10-43fd-bbd4-26c708d1762a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3cc71583-fc10-43fd-bbd4-26c708d1762a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:14</itunes:duration>
-      <pubDate>Sat, 16 Sep 2023 07:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/b54YBjePJD5ObRD1yJAQCAZ922RdKFuB5ks3bdUF5WAQ.jpg"/>
     </item>
   </channel>
 </rss>
