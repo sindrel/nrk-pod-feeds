@@ -868,7 +868,9 @@ const feeds = [
     "id": "popkorn_og_politikk",
     "title": "De 10 siste fra Popkorn og politikk",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "psykologen",
