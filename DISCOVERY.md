@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-10-15  
+- Podcast 'Popkorn og politikk' is considered obsolete and will be ignored in the future (`popkorn_og_politikk`)  
 ### 2023-10-05  
 - Podcast 'Millionærhjerne' is considered obsolete and will be ignored in the future (`millionaerhjerne`)  
 ### 2023-10-03  
