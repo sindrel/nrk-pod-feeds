@@ -1,42 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 05 Oct 2023 04:28:06 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Oct 2023 06:02:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Oct 2023 15:24:18 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Oct 2023 17:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Kommer i NRK Radio - Hvalkrigen</title>
-      <description><![CDATA[Verden reagerte med sjokk og avsky da Norge gjenopptok hvalfangst på 90-tallet. Hvorfor ble det så viktig for oss å jakte hval, når alle var imot det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/16db2f17-9db7-4564-b371-2f52a3ad0514_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/16db2f17-9db7-4564-b371-2f52a3ad0514_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:23</itunes:duration>
-      <pubDate>Wed, 04 Oct 2023 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZiNiWZ24mTiR9UTlLzJr9Au0VfhPnU-mbiPboi45dTXQ.jpg"/>
-    </item>
-    <item>
-      <title>Norge mot verden - Hvalkrigen (1:2)</title>
-      <description><![CDATA[De fleste hvalbestander er utrydningstruede, men Norge vil fortsette å skyte hval. Hvorfor?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/ca3cecff-bf89-42c6-9ab8-f8a00680f34a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ca3cecff-bf89-42c6-9ab8-f8a00680f34a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:38</itunes:duration>
-      <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZiNiWZ24mTiR9UTlLzJr9Au0VfhPnU-mbiPboi45dTXQ.jpg"/>
-    </item>
-    <item>
-      <title>Klar til å skyte - Hvalkrigen (2:2)</title>
-      <description><![CDATA[Drama, sabotasje og kollisjoner langs kysten – kampen om hvalen blir farligere. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/1c27613d-9a7b-4f3b-83f8-4c0eb0c138e0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/1c27613d-9a7b-4f3b-83f8-4c0eb0c138e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:50</itunes:duration>
-      <pubDate>Thu, 05 Oct 2023 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZiNiWZ24mTiR9UTlLzJr9Au0VfhPnU-mbiPboi45dTXQ.jpg"/>
+      <title>Kommer i NRK Radio: Apetor</title>
+      <description><![CDATA[Norske Apetor er sett over 400 millioner ganger på Youtube. To år etter hans død forteller vi historien fansen aldri har fått høre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/29f629c1-52cd-4e60-964d-3c311e3d840a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/29f629c1-52cd-4e60-964d-3c311e3d840a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:45</itunes:duration>
+      <pubDate>Mon, 16 Oct 2023 17:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BZ5r4HhtND16_6iD6_XeDgrca9Vyz_f_NurrnyRAcKzA.jpg"/>
     </item>
   </channel>
 </rss>
