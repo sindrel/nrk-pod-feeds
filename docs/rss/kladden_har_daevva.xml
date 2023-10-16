@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 09 Oct 2023 04:28:09 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Oct 2023 04:28:49 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Hilde Skaar og hamsterløgnen</title>
+      <description><![CDATA[Hilde Skaar er redd for at familien skal dø før henne – men har en plan for å komme dem i forkjøpet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/bcaeb96e-1b3f-4367-bb09-abff2b06e6f4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/bcaeb96e-1b3f-4367-bb09-abff2b06e6f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:52</itunes:duration>
+      <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/arAvkds-nW4q0S_8-YpHPQrMIUT2DgfAsoqYY0L_s9OA.jpg"/>
+    </item>
     <item>
       <title>Nils Bech og helsebevisstheten </title>
       <description><![CDATA[Nils er ikke hypokonder, bare nesten. Men sykebilen ringte han ikke da han trengte den. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:40</itunes:duration>
       <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jQ-yTCU2wuxyEBi4AWTOvA6uBOW47TgivUqLwoog0TAA.jpg"/>
-    </item>
-    <item>
-      <title>Dævva spesial: Nora Svenningsen</title>
-      <description><![CDATA[Hvis terroralarmen går på skolen, føles det bedre om man får uønsket særbehandling? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2a3c284b-203a-4be7-a81d-e99f6e8c2f02_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2a3c284b-203a-4be7-a81d-e99f6e8c2f02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:29</itunes:duration>
-      <pubDate>Mon, 07 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uuHF2VtAgI-qROV7HHag2wl7SuJFUHjz1Pzm3uirDvxw.jpg"/>
     </item>
   </channel>
 </rss>

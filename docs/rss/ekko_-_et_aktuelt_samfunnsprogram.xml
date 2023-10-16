@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 Oct 2023 11:21:55 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Oct 2023 12:35:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Oct 2023 04:28:33 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Rotfylle eller trekkje?</title>
+      <description><![CDATA[Kan ein likegodt trekke ei tann som å rotfylle den? Høyr kor lenge det eigentleg er meininga at tennene våre skal vare! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e3eff6e6-9167-405f-baa4-4e44a6ec38ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e3eff6e6-9167-405f-baa4-4e44a6ec38ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:36</itunes:duration>
+      <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2ppLYX2e2pECJ3RGZrB0OAD42dk1Fo45hMYpid_rXQ7w.jpg"/>
+    </item>
     <item>
       <title>Spørretime om krigen i Israel og Palestina</title>
       <description><![CDATA[- Hvordan kan vi vite sannheten når alle kilder er partiske?  Forsvarsanalytiker,  fredsforsker og historiker svarer lytterne.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>23:08</itunes:duration>
       <pubDate>Mon, 25 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mHhMwuP6kpARAHqcz2Yp3gZk0d_xOzPeeCQsnqrYb5_Q.jpg"/>
-    </item>
-    <item>
-      <title>Historien bak podkast-snakkisen "Skitbyen"</title>
-      <description><![CDATA[Hva får en sønn til å lage feelgood-podkast om sin egen familie - en familie som balanserer på fattigdomsgrensa i søkkrike Norge?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e26c16a4-b345-4ed4-9b25-7d7833d4f010_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e26c16a4-b345-4ed4-9b25-7d7833d4f010_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:13</itunes:duration>
-      <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ixnb1gcXM9WV9jIP_eszQQ-QsyiSNDzLQzJa-MH36FOQ.jpg"/>
     </item>
   </channel>
 </rss>

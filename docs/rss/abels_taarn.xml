@@ -7,10 +7,26 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 14 Oct 2023 05:25:12 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Oct 2023 07:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Oct 2023 04:28:15 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Bananfluas følelsesliv</title>
+      <description><![CDATA[Forum for finurlige funderinger fra forskningsfronten:
+
+- En ny studie tyder på at bananfluer har et forhold til døden. De blir i hvert fall stressa av den.
+- Narges Mohammadi er den tredje fysikeren som får Nobels fredspris - vi diskuterer Nobelprisenes politiske rolle
+- Nytt lasergyroskop kan måle mikroskopiske endringer i jordas rotasjon
+- Vil kvinner på p-piller ha det bedre om de kutter ut menstruasjonen helt? For det kan de?
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/ba0aaf4d-f07c-49bf-a2c1-4e19101da9ce_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ba0aaf4d-f07c-49bf-a2c1-4e19101da9ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:27</itunes:duration>
+      <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jWEZRWm-pm9kQb9AhPfFnwpC69YOvRJWWqVxCZ2r9XUw.jpg"/>
+    </item>
     <item>
       <title>Abels spesial - Homo naledi</title>
       <description><![CDATA[Innerst inne i en grotte i Sør-Afrika har grotteutforskere tatt seg inn i et kammer hvor trolig ingen har vært på tusener av år, kanskje hundretusener. Det de fant der kan endre historien om mennesket.]]></description>
@@ -172,15 +188,6 @@ Anja Røyne
       <itunes:duration>57:41</itunes:duration>
       <pubDate>Fri, 22 Sep 2023 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/J4Hybm_Nn0WKJ4G6BKjjQAzvX3IIWl7d2wPbT-jF7OYg.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - om myggens preferanser, sorte stjerner og neshorn</title>
-      <description><![CDATA[Myggens preferanser, sorte stjerner og utsetting av neshorn]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/6c8ef332-8e16-40b0-860d-2879f020223b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c8ef332-8e16-40b0-860d-2879f020223b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:59</itunes:duration>
-      <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4Dkh2oNi-VUSgGDD56ThlwwK0lWHQTtYa1jKExL4PhCQ.jpg"/>
     </item>
   </channel>
 </rss>
