@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 Oct 2023 04:28:23 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Oct 2023 04:28:37 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Ni fingre, ei øks</title>
+      <description><![CDATA[Fangst fra Barleggquist og tragisk historie fra Bollan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/10ee27a6-eb3e-4819-806c-42c93cf94330_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/10ee27a6-eb3e-4819-806c-42c93cf94330_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:01</itunes:duration>
+      <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Rhu6IL_PZLl0317pIeVtqwQ9kl-dOHjigOp1AeU1Z9Lw.jpg"/>
+    </item>
     <item>
       <title>Evaluering: Sundquist er en vanlig mann</title>
       <description><![CDATA[Ståle har dramatiske nyheter. Er det kroken på døra?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>07:08</itunes:duration>
       <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
-    </item>
-    <item>
-      <title>Kaffe eller bare kaffe?</title>
-      <description><![CDATA[Camp-fluensere og ny låt fra Sølvkråkebolle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/8db4a152-e815-4775-8f43-f491dd3ec96c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/8db4a152-e815-4775-8f43-f491dd3ec96c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:13</itunes:duration>
-      <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Nbu3KdYpEobeC6EPEzVEnweUVCw1OdNFSP8PNxCOHc9w.jpg"/>
     </item>
   </channel>
 </rss>

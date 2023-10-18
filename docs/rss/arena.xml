@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Arena</title>
+    <title>De 8 siste fra Arena</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Oct 2023 04:27:28 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Oct 2023 04:28:00 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/uSWumQMVs2kU78epnR5J0g6KckGj5WLn-NB4E7uF80hw.jpg"/>
+    <item>
+      <title>Eksplosjon av fake news om krigen</title>
+      <description><![CDATA[Sosiale medier elsker innhold fra krig. Nå ser vi en flom av falsk info om krigen mellom Israel og Hamas. Hvilke konsekvenser har det? Med: Eirin Larsen, Hanne Christiansen, Olav Østrem, Eskil Sivertsen, Maria Abrahamsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/2707c72c-cba2-42f2-912a-bd22fe36c0d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/2707c72c-cba2-42f2-912a-bd22fe36c0d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:59</itunes:duration>
+      <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zxIO6I2UxrEK6tchWb72uQq7V7uZ91iOKYjtfZuJF1iA.jpg"/>
+    </item>
     <item>
       <title>Rappens rolle i svensk gjengvold</title>
       <description><![CDATA[Voldsbølgen i Sverige tar mange unge liv. Mange peker på en kobling mellom gangsterrappen, som troner på topplistene, og gjengene. 
