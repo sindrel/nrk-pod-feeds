@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 16 Oct 2023 10:30:41 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Oct 2023 12:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 19 Oct 2023 04:28:14 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
+    <item>
+      <title>#362 Marius Helgå</title>
+      <description><![CDATA[Banehopper Marius Helgå har besøkt mer enn 600 norske fotballbaner og forteller hvorfor du må dra til Jurij Gagarin stadion på Svalbard!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/4765f41a-c0f0-47b2-9e78-b49dec9ffbd1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/4765f41a-c0f0-47b2-9e78-b49dec9ffbd1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:16:29</itunes:duration>
+      <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yowo-NpVB-AQp5oCRlsioQrKFf8VLzKQaJizUMaCtRgg.jpg"/>
+    </item>
     <item>
       <title>Snakkis: Terapitime, Iskremjenta og elsk/hat</title>
       <description><![CDATA[Vi hyller og etterlyser Iskremjenta, Gunnhild tømmer landslagshjertet sitt og vi elsker og hater Norge.
@@ -101,15 +110,6 @@ I panelet: Tete Lidbom, Sven Bisgaard Sundet og Mike Stilson]]></description>
       <itunes:duration>46:23</itunes:duration>
       <pubDate>Mon, 18 Sep 2023 12:33:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
-    </item>
-    <item>
-      <title>#357 Jørgen Klem</title>
-      <description><![CDATA[Fotballkommentator Jørgen Klem forteller om lidenskapen for innebandy,  hånd-drama på Marienlyst og hvorfor han kalles selfie-kongen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/dd27578a-a3c3-40e1-b173-64f89f8cb952_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/dd27578a-a3c3-40e1-b173-64f89f8cb952_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:58:50</itunes:duration>
-      <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AvbihIX7U3eMSCTZNIjDlQY6JpABy65t1S0yeMc9moDg.jpg"/>
     </item>
   </channel>
 </rss>

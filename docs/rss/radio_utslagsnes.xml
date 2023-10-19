@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 18 Oct 2023 04:28:37 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 19 Oct 2023 04:28:38 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Evaluering: Rødvin og lotterioppsyn</title>
+      <description><![CDATA[Billige Bodil, rødvin og konfekt gir bingotillatelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/d135fb1a-e955-4952-8cc3-ef7f464e2b7d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/d135fb1a-e955-4952-8cc3-ef7f464e2b7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:15</itunes:duration>
+      <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
+    </item>
     <item>
       <title>Ni fingre, ei øks</title>
       <description><![CDATA[Fangst fra Barleggquist og tragisk historie fra Bollan.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>24:15</itunes:duration>
       <pubDate>Wed, 20 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MFwauOBtnNg7xHU2W3QmaAtnoyq97MI-CNp5rT7ixG3w.jpg"/>
-    </item>
-    <item>
-      <title>Evaluering: I en båt av trolldeig</title>
-      <description><![CDATA[Hva er greia mellom Ståle og Dagny B. Singsaas?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/083f3bf5-3d26-49af-88e8-72cf2c10ad2d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/083f3bf5-3d26-49af-88e8-72cf2c10ad2d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:08</itunes:duration>
-      <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
     </item>
   </channel>
 </rss>

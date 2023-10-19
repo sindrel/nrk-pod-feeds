@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 Oct 2023 04:28:10 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 19 Oct 2023 04:28:22 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    <item>
+      <title>Overraskelsesgjest!</title>
+      <description><![CDATA[Rune har meldt avbud, så Halvor overrasker Anne med en eksklusiv gjest i studio.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/34e90561-923c-4736-9154-323a101b27c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/34e90561-923c-4736-9154-323a101b27c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:46</itunes:duration>
+      <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    </item>
     <item>
       <title>Big Lyng</title>
       <description><![CDATA[Anne tar et oppgjør med bordpynt.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ba196587-f1ed-468e-a36d-3910d521d273_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:21</itunes:duration>
       <pubDate>Thu, 23 Mar 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
-    </item>
-    <item>
-      <title>Sossens pessar</title>
-      <description><![CDATA[Anne har funnet opp en ny selskapslek: historisk tombola.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/41154807-8f6b-4b22-ace1-f36165cde586_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/41154807-8f6b-4b22-ace1-f36165cde586_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:02</itunes:duration>
-      <pubDate>Thu, 16 Mar 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
     </item>
   </channel>
