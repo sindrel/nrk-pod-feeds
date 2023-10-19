@@ -170,6 +170,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "dlla_ja_dalloj",
+    "title": "De 10 siste fra Dálla ja dalloj",
+    "season": null,
+    "enabled": false
+  },
+  {
     "id": "drivkraft",
     "title": "De 10 siste fra Drivkraft",
     "season": null,
