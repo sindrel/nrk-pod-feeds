@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 1 siste fra Dálla ja dalloj</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Dálla ja dalloj. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/dlla_ja_dalloj for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 20 Oct 2023 06:30:02 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Oct 2023 11:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/R9v-zpiM4CbusgxB8A23gwmzgu5J429R5oit4kpu-g5A.jpg"/>
+    <item>
+      <title>Dálla ja dalloj boahtá gålgådismáno 25. b.</title>
+      <description><![CDATA[Naima káfastallá guládalátjit vuorrasappojs girjak subttsasijda viessomájgijstisá. Majt máhttep boarrásijs oahppat?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dlla_ja_dalloj/ca922bef-4560-4f65-8efb-4753a8f85568_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/ca922bef-4560-4f65-8efb-4753a8f85568_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:15</itunes:duration>
+      <pubDate>Thu, 19 Oct 2023 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R9v-zpiM4CbusgxB8A23gwmzgu5J429R5oit4kpu-g5A.jpg"/>
+    </item>
+  </channel>
+</rss>
