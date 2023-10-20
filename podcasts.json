@@ -173,7 +173,7 @@
         "id": "dlla_ja_dalloj",
         "title": "De 10 siste fra Dálla ja dalloj",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "drivkraft",
@@ -648,6 +648,7 @@
         "title": "De 10 siste fra Maskorama-podkasten",
         "season": null,
         "enabled": false,
+        "ignore": true,
         "hidden": true
     },
     {

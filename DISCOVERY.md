@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-10-20  
+- Updated podcast 'Dálla ja dalloj' (`dlla_ja_dalloj`)  
+- Podcast 'Maskorama-podkasten' is considered obsolete and will be ignored in the future (`maskoramapodkasten`)  
 ### 2023-10-19  
 - Added podcast 'Dálla ja dalloj' (`dlla_ja_dalloj`)  
 ### 2023-10-15  
