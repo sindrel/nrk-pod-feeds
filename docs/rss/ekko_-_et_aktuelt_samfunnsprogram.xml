@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 18 Oct 2023 04:28:10 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Oct 2023 04:27:30 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Mastersjuka</title>
+      <description><![CDATA[Det verkar som om ein ikkje får jobb i dag utan ein eller fleire masterar i sekken. Men har det gått inflasjon i kravet til mastergrader? 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8a9b85ac-b0b1-4192-9ceb-bc5dba46061f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8a9b85ac-b0b1-4192-9ceb-bc5dba46061f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:06</itunes:duration>
+      <pubDate>Sat, 21 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3QGfU81L9ePVTO4Yw9KMQwpyTNfEE6rvJcLGHYGMIvNw.jpg"/>
+    </item>
     <item>
       <title>Spørretime om hund</title>
       <description><![CDATA[Slik lever du best med hunden din- og naboens! Ekspertene svarer på dine spørsmål om adferd, avl, oppdragelse og helse. ]]></description>
@@ -91,15 +101,6 @@
       <itunes:duration>57:19</itunes:duration>
       <pubDate>Tue, 03 Oct 2023 15:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gkZa5H7f3i7gUw8bQbCD_gtm6TucdtPpkkuOkUhW0irw.jpg"/>
-    </item>
-    <item>
-      <title>Derfor er jod så viktig for oss!</title>
-      <description><![CDATA[For mye og for lite kan være farlig for helsa. Så hva er nok?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/70330e41-89f1-4f46-80f2-e78fe84c3ec9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/70330e41-89f1-4f46-80f2-e78fe84c3ec9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:47</itunes:duration>
-      <pubDate>Mon, 02 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/d31AlZy84CuHTWkqutWALg8-KrlLhCKQw95SYgG6-GFw.jpg"/>
     </item>
   </channel>
 </rss>
