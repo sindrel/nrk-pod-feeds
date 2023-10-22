@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-10-22  
+- Updated podcast 'Eventyrstund med Morten og Saft' (`eventyrstund_med_morten_og_saft`)  
 ### 2023-10-20  
 - Updated podcast 'Dálla ja dalloj' (`dlla_ja_dalloj`)  
 - Podcast 'Maskorama-podkasten' is considered obsolete and will be ignored in the future (`maskoramapodkasten`)  
