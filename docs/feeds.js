@@ -1269,7 +1269,9 @@ const feeds = [
     "id": "ukjent",
     "title": "De 10 siste fra Ukjent: Er det noen der ute?",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "ulrikkes_univers",
