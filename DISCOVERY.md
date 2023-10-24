@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-10-24  
+- Podcast 'Ukjent: Er det noen der ute?' is considered obsolete and will be ignored in the future (`ukjent`)  
 ### 2023-10-22  
 - Updated podcast 'Eventyrstund med Morten og Saft' (`eventyrstund_med_morten_og_saft`)  
 ### 2023-10-20  
