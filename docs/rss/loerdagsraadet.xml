@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 21 Oct 2023 04:27:48 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2023 12:43:02 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2023 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Timothy er fri ferdig</title>
+      <description><![CDATA[Vi hører fra Timothy og det blir kronologisk fyllmail]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/0101a216-25b8-4be0-b4c1-2fddce872eb0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/0101a216-25b8-4be0-b4c1-2fddce872eb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:18</itunes:duration>
+      <pubDate>Wed, 25 Oct 2023 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra 2023 - nr. 5</title>
       <description><![CDATA[Jonis Josef / Marte Bratberg / Thomas Fingern Gullestad / Cengiz Al / Tuva Fellman / Hasse Hope]]></description>
@@ -22,7 +31,7 @@
     </item>
     <item>
       <title>Ekstra: Aktiviteter i julen</title>
-      <description><![CDATA[Silje, Jonis, og Fredrik bryner seg på et bonusproblem. Også fyllemail og annet gøy]]></description>
+      <description><![CDATA[Silje, Jonis, og Christian bryner seg på et bonusproblem. + fyllemail og annet gøy!]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/693879bc-67f3-47e5-b600-4a1d94778b87_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/693879bc-67f3-47e5-b600-4a1d94778b87_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:07</itunes:duration>
@@ -93,15 +102,6 @@
       <itunes:duration>02:06:35</itunes:duration>
       <pubDate>Sat, 23 Sep 2023 13:31:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YGuZp54EBamE-pIFP81s5QrxYqzOlZ9IZuKI7nBOvBPQ.jpg"/>
-    </item>
-    <item>
-      <title>Olli Wermskog / Janne Rønningen / Johannes Fürst</title>
-      <description><![CDATA[Er Jonathan på festival alene? PROBLEMER: Han blir en annen når vi krangler / Hvor mye koster en Halloweenfest? / Hytta med et hjem i mitt hjerte / Samboer, eller ikke samboer? / Pakkedeal - og Ødipus er med / Mobbing i småskolen og møte med rektor / Bro-code, eller? / Livsfarlig Moped i Roma ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/c1df8acc-2a21-4247-9c3b-cd8c140b749c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c1df8acc-2a21-4247-9c3b-cd8c140b749c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:16:03</itunes:duration>
-      <pubDate>Sat, 16 Sep 2023 13:22:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WIyZYZteCAJA_4b-XcI7lAQ6tmgDD2AP01a9Qljjppew.jpg"/>
     </item>
   </channel>
 </rss>
