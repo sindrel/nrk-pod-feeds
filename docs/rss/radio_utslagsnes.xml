@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 19 Oct 2023 04:28:38 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2023 04:29:01 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>BINGO!</title>
+      <description><![CDATA[Hører du? Bingo! Tre rekker i samme rubrikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/9340c658-9191-47dd-a5b6-730f131a9027_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/9340c658-9191-47dd-a5b6-730f131a9027_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:32</itunes:duration>
+      <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TR0I0zVAy2oIQgCNbSHLMQ0CXSRJRv4aLDdNJB6N_gzw.jpg"/>
+    </item>
     <item>
       <title>Evaluering: Rødvin og lotterioppsyn</title>
       <description><![CDATA[Billige Bodil, rødvin og konfekt gir bingotillatelse.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>07:15</itunes:duration>
       <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
-    </item>
-    <item>
-      <title>Vær nøktern med refleksbruken</title>
-      <description><![CDATA[Ståle blir tobakk-saksøkt og “Vattenmelonsukker høgt” spilles live.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/7f3d1757-08e0-43ad-bbd9-09c607aa0a20_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/7f3d1757-08e0-43ad-bbd9-09c607aa0a20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:15</itunes:duration>
-      <pubDate>Wed, 20 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MFwauOBtnNg7xHU2W3QmaAtnoyq97MI-CNp5rT7ixG3w.jpg"/>
     </item>
   </channel>
 </rss>

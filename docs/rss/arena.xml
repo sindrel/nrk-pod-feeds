@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Arena</title>
+    <title>De 9 siste fra Arena</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Arena. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/arena for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 18 Oct 2023 04:28:00 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2023 04:28:14 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/uSWumQMVs2kU78epnR5J0g6KckGj5WLn-NB4E7uF80hw.jpg"/>
+    <item>
+      <title>Kan Taylor Swift avgjøre presidentvalget i USA?</title>
+      <description><![CDATA["Taylor Swift: The Eras Tour" er på kinotoppen, låtene slår rekorder og forholdet til Travis Kelce selger billetter til NFL. Hvorfor sies det at popdronninga er den eneste som kan slå Trump i 2024? Med: Pia Skevik, Sofie Høgestøl, Daniel Nordgård.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/1849b0b4-c685-4417-8070-e7cfc9688cbe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/1849b0b4-c685-4417-8070-e7cfc9688cbe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:54</itunes:duration>
+      <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mQg-Veb3SDgmEpqM07TnRwtkAGkvbZIw8D2TNywz7rtg.jpg"/>
+    </item>
     <item>
       <title>Eksplosjon av fake news om krigen</title>
       <description><![CDATA[Sosiale medier elsker innhold fra krig. Nå ser vi en flom av falsk info om krigen mellom Israel og Hamas. Hvilke konsekvenser har det? Med: Eirin Larsen, Hanne Christiansen, Olav Østrem, Eskil Sivertsen, Maria Abrahamsen.]]></description>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 23 Oct 2023 04:28:16 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2023 04:28:24 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Spørretime: Hvordan bruke hele dyret?</title>
+      <description><![CDATA[Mør biff er dyrt. Hvordan lage skikkelig gode, sunne og billigere retter av resten av oksen, reinsdyret, sauen og grisen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c3a76bfa-965f-4d22-921c-4b37e8132f81_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c3a76bfa-965f-4d22-921c-4b37e8132f81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:44</itunes:duration>
+      <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/okrAVFb6gK7E-2WOj-7o0AWeF_xuajpbsMb_lRTHHRoQ.jpg"/>
+    </item>
     <item>
       <title>Hvordan snakke om rasisme?</title>
       <description><![CDATA[Sannsynligvis har du også sagt noe rasistisk uten at du helt vet det selv. Hvordan kan vi snakke om det ubehagelige på en bedre måte? 
@@ -93,15 +102,6 @@
       <itunes:duration>16:15</itunes:duration>
       <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZcEwBT-lfp0tgmMAirSNSA-5VTHlWgTfRDggdc44rOKw.jpg"/>
-    </item>
-    <item>
-      <title>Pesten fra villsvin sprer seg</title>
-      <description><![CDATA[Den afrikanske svinepesten sprer seg i Europa. Nå er den i Sverige. Kan smitten komme hit?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/576ded96-c139-491b-bbf4-4a96dce636be_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/576ded96-c139-491b-bbf4-4a96dce636be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:31</itunes:duration>
-      <pubDate>Fri, 06 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Wx0LumTYDwGLCTHo37e3cggP3nHWzL9fdk7ej0Qk0hyg.jpg"/>
     </item>
   </channel>
 </rss>
