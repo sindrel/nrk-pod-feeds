@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 24 Oct 2023 12:43:04 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Oct 2023 14:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2023 11:22:08 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2023 13:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Wenche Myhre</title>
+      <description><![CDATA[- Folk tror jeg er gal, sier den folkekjære artisten, som er opptatt av å beholde barnet i seg]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/36023613-0897-4454-af1e-b844250b7b42_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/36023613-0897-4454-af1e-b844250b7b42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:48</itunes:duration>
+      <pubDate>Wed, 25 Oct 2023 13:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_CVMCqETtMwas6w0GfRQ5wBlzBs0yrdUHKDCuOoGNXCw.jpg"/>
+    </item>
     <item>
       <title>Vibeke Gwendoline Fængsrud</title>
       <description><![CDATA[At alle trodde hun skulle dø før hun ble 12 år, har gjort mattegründeren uredd.]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>56:44</itunes:duration>
       <pubDate>Mon, 02 Oct 2023 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0ijH3U8fCv_ZlxhfqKROoAQgawvn-9kCqJCke1mlIHdw.jpg"/>
-    </item>
-    <item>
-      <title>Sigvart Dagsland</title>
-      <description><![CDATA["Jeg røkte og drakk med begge hendene", sier artisten som en gang ble stemplet som «kristen artist».
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/84f7dcde-dbca-4a22-8b57-3589e40d6de2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/84f7dcde-dbca-4a22-8b57-3589e40d6de2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:09</itunes:duration>
-      <pubDate>Wed, 27 Sep 2023 15:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fDhK6fpE7kzKU_hajgWjqgQvhwlTTRoBDiQvVYJTBwXg.jpg"/>
     </item>
   </channel>
 </rss>
