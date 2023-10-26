@@ -667,7 +667,9 @@ const feeds = [
     "id": "mellom_oss",
     "title": "De 10 siste fra Mellom oss",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "mesterdetektiven_mali",
