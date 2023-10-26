@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 18 Oct 2023 15:25:29 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Oct 2023 17:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2023 14:27:24 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Oct 2023 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>Skjulte skrekkskatter</title>
+      <description><![CDATA[Vi deler ni skrekkfavoritter som enten er skjulte perler eller grøssere som har fått for lite oppmerksomhet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/705b85d3-a297-4421-9f34-d59d77fe9254_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/705b85d3-a297-4421-9f34-d59d77fe9254_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:39</itunes:duration>
+      <pubDate>Thu, 26 Oct 2023 16:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>Når storfilmen innfrir</title>
       <description><![CDATA[Martin Scorseses «Killers of the Flower Moon» får terningkast 6, og vi hyller flere storfilmer som har gitt oss fantastiske kinoopplevelser.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/0e7b63ed-49da-4fcd-b2fe-735073473488_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:06</itunes:duration>
       <pubDate>Thu, 24 Aug 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
-    </item>
-    <item>
-      <title>Ferske sommertips: Apple TV+ </title>
-      <description><![CDATA[Sigurd og Ingvill gir deg deilige serietips til late sommerdager.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/0c881315-a084-4180-bdb5-c5efcf5c2f75_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/0c881315-a084-4180-bdb5-c5efcf5c2f75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:53</itunes:duration>
-      <pubDate>Thu, 17 Aug 2023 16:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
     </item>
   </channel>
