@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 04:29:01 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2023 04:28:19 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Evaluering: Dett var dett</title>
+      <description><![CDATA[Ståle tar Runes dårlige nyheter med fatning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/6713916e-f9e0-43dd-a30f-b2a790227e7a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/6713916e-f9e0-43dd-a30f-b2a790227e7a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:47</itunes:duration>
+      <pubDate>Thu, 26 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
+    </item>
     <item>
       <title>BINGO!</title>
       <description><![CDATA[Hører du? Bingo! Tre rekker i samme rubrikk.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>20:06</itunes:duration>
       <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WOT9-PFmSMktCUybcr8V4QwZkb15RfZIEJAo8wi1yx-w.jpg"/>
-    </item>
-    <item>
-      <title>Evaluering: Du ser ikke med din egen hånd</title>
-      <description><![CDATA[Oppheta diskusjon om refleksbruk og maktfordelingsprinsippet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/2bd087ea-7dab-4a99-96ec-0365180d59a2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/2bd087ea-7dab-4a99-96ec-0365180d59a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:15</itunes:duration>
-      <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
     </item>
   </channel>
 </rss>

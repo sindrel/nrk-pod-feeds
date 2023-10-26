@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 19 Oct 2023 04:28:34 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2023 04:28:14 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Ove Vanebo</title>
+      <description><![CDATA[Svenske tilstander, skandaler og vindkraft med tidligere FrP-politiker Ove Vanebo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/2277bbfc-d224-4811-83f1-65551faabcec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/2277bbfc-d224-4811-83f1-65551faabcec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:30:20</itunes:duration>
+      <pubDate>Thu, 26 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WMH0PX4IbSPFFkPn6KTl_gayO3T9dd2bq8pf_JFWyrSw.jpg"/>
+    </item>
     <item>
       <title>Thorleif</title>
       <description><![CDATA[Nok kjendiser! Min venn Thorleif er på besøk.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:17:15</itunes:duration>
       <pubDate>Mon, 03 Jul 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bCbUlCBVoOEndoMZIfYzTAaSh-ow-qjnrH0kNBNc_jOA.jpg"/>
-    </item>
-    <item>
-      <title>Berrum, Stuve, Lia, Mamma&amp;Pappa, Joachim Førsund</title>
-      <description><![CDATA[Berrum, Stuve, Lia, mamma og pappa, Joachim Førsund. Jeg knoter det til og bruker telefonen min til å lage kul nødløsning!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/ae0ceebf-991d-4858-bb02-62b392f04ac2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ae0ceebf-991d-4858-bb02-62b392f04ac2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:26</itunes:duration>
-      <pubDate>Mon, 26 Jun 2023 06:00:10 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YEfI1IPnJbzHSXYXRcLi2AJ81Xmh5iyvyQxzCenKqMvA.jpg"/>
     </item>
   </channel>
 </rss>

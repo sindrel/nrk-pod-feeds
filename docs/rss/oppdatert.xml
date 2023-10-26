@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 04:28:51 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Oct 2023 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2023 04:28:06 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Oct 2023 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/q2KQ7Moyue9ANLOwimqC9ADISYTWtS3wsjIruI7GuZzA.jpg"/>
+    <item>
+      <title>Disney 100 år: Mikke, motgang og makt</title>
+      <description><![CDATA[Walt Disney var ein mann med mange ansikt. Han blei hylla som eit geni, men mange meinte også at han kunne oppførte seg som ein tyrann. 
+Gjest: Anders Giæver.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1aab844c-1cfb-4cdd-96ed-50d6b4e5d1e3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1aab844c-1cfb-4cdd-96ed-50d6b4e5d1e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:20</itunes:duration>
+      <pubDate>Thu, 26 Oct 2023 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2aMfuGO5IjmPfzK3uv0fMQknISaLbxT2p2MyIsIBKyDg.jpg"/>
+    </item>
     <item>
       <title>Drapet på Jonas: Dette er de nye opplysningene</title>
       <description><![CDATA[For to måneder siden ble Jonas Henriksen skutt og drept. Nå er fem menn siktet, og én av dem er en mulig hovedmann. 
@@ -95,16 +105,6 @@ Gjest: Kristin Solberg]]></description>
       <itunes:duration>25:16</itunes:duration>
       <pubDate>Fri, 13 Oct 2023 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GIt_wKotQARJxbR4ZdpHpgW3Mu_VSiHtA1rl3pyTqcvA.jpg"/>
-    </item>
-    <item>
-      <title>Nagorno-Karabakh: Derfor flyktar tusenvis</title>
-      <description><![CDATA[Tusenvis har lagt på flukt frå Nagorno-Karabakh på grunn av ein årelang konflikt mellom nabolanda Aserbajdsjan og Armenia. Kan dette føre til nok ein krig?
-Gjest: Aida Khorami. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8fec78c4-a074-4b0f-b1de-3a02cc497f62_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8fec78c4-a074-4b0f-b1de-3a02cc497f62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:57</itunes:duration>
-      <pubDate>Thu, 12 Oct 2023 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X5f7e-tBKqj4BiINgigDwQGRh4lgLnufMHKASF7KxJUg.jpg"/>
     </item>
   </channel>
 </rss>
