@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 20 Oct 2023 04:28:27 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 27 Oct 2023 04:28:05 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Oct 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Norge har aldri tatt i mot så mange flyktninger</title>
+      <description><![CDATA[Det kommer 1000 ukrainske flyktninger i uka. Er vi egentlig rigga for å ta i mot dem?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1f7f7c27-814a-4f60-8c67-713982dee31a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/1f7f7c27-814a-4f60-8c67-713982dee31a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:33</itunes:duration>
+      <pubDate>Fri, 27 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gg8xrHUAsDqLV4Jw84U-EAeip6OguMAmqkUS-1oQPX9Q.jpg"/>
+    </item>
     <item>
       <title>Er det for lett å være sykemeldt?</title>
       <description><![CDATA[Hvordan sikrer vi at folk som kan jobbe, har en jobb å gå til? Og statsminister Støre bytter ut en haug med statsråder.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>27:30</itunes:duration>
       <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZCopo10q4E-_aav3f75drAJjxUE6CMjhqXZWxHwyz-BQ.jpg"/>
-    </item>
-    <item>
-      <title>Er Greta Thunberg-generasjonen død?</title>
-      <description><![CDATA[Skolevalg-spesial: Unge Høyre med ellevill seier, og et klart blått flertall viser en overraskende retning.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fb73832f-733a-40ef-8a29-1b26e77dacc2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/fb73832f-733a-40ef-8a29-1b26e77dacc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:35</itunes:duration>
-      <pubDate>Wed, 06 Sep 2023 16:57:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FC5Ry-yMURhpEuHo3He9ZAC-1zIKAhhS-UvfgeOuXMUA.jpg"/>
     </item>
   </channel>
 </rss>
