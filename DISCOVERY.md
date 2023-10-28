@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-10-28  
+- Updated podcast 'Musikkrommet' (`musikkrommet`)  
 ### 2023-10-26  
 - Podcast 'Mellom oss' is considered obsolete and will be ignored in the future (`mellom_oss`)  
 ### 2023-10-24  
