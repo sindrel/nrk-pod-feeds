@@ -407,7 +407,7 @@ const feeds = [
     "id": "i_det_lange_loep",
     "title": "De 10 siste fra I det lange løp",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "i_doedens_spor",
