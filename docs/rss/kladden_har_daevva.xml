@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 23 Oct 2023 04:28:25 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2023 05:27:30 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Hopp, Olli Wermskog! Hopp! </title>
+      <description><![CDATA[Hyperallergisk, engstelig og uredd. Sammensatt type, Olli. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/1a4cd18c-64f1-47da-b1f9-8772c2fb7f8b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/1a4cd18c-64f1-47da-b1f9-8772c2fb7f8b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:50</itunes:duration>
+      <pubDate>Mon, 30 Oct 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K9sZZdfZUfCWRTcCGYZ3Dwbh9qUaNylWmnMtHj6Ok1dQ.jpg"/>
+    </item>
     <item>
       <title>Mads Hansen: Starstruck av døden</title>
       <description><![CDATA[Mads Hansen har ærefrykt for døden, men er samtidig nysgjerrig på hvordan det er å dø.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>54:31</itunes:duration>
       <pubDate>Mon, 28 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/M3ryB7Lc-I7Ps-CbULAThg61PbuJ4jwEJ49kfYpI3PbQ.jpg"/>
-    </item>
-    <item>
-      <title>Steinar Klouman Hallert og haiangrepet </title>
-      <description><![CDATA[Går det an å dø av å ikke tørre å si fra? Ja, det viser seg det. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/4bfde7d9-63b8-420b-a84b-a1842994a1c0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4bfde7d9-63b8-420b-a84b-a1842994a1c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:04:05</itunes:duration>
-      <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5zg8ILNZGcfIXu-1CzwehAZrHL2hMMEzhXRck5FHfbLQ.jpg"/>
     </item>
   </channel>
 </rss>
