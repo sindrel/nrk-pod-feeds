@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 26 Oct 2023 12:42:29 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Oct 2023 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2023 14:28:02 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2023 14:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Ole Martin Alfsen</title>
+      <description><![CDATA[Tv-kokken om 40-årskrisa, gryteretter, barnemat og hvorfor han var en "kuk" som kjøkkensjef
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a8485387-2599-43fc-9a54-c62fb6900ef0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a8485387-2599-43fc-9a54-c62fb6900ef0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Mon, 30 Oct 2023 14:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JNkW0B4f77qJ26qdw-bZrwyOT6w6Bo5_JMCHZyf0gSPQ.jpg"/>
+    </item>
     <item>
       <title>Nikolai Schirmer</title>
       <description><![CDATA[- Vi var idioter på fjellet. Det er et under at det gikk bra de første årene, sier frikjøreren og skifilmregissøren. I dag er han blant våre største stjerner innen Big Mountain Skiing.]]></description>
@@ -91,15 +101,6 @@
       <itunes:duration>56:33</itunes:duration>
       <pubDate>Wed, 04 Oct 2023 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/I01AYFflMtUNN-gBcaaONg9yq_fUVcJ3E1GtmKPrpokw.jpg"/>
-    </item>
-    <item>
-      <title>Marcus og Martinus</title>
-      <description><![CDATA[Artistbrødrene drives av konkurranseinstinkt: "Vi vil alltid være best i det vi gjør." ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/2b3e9502-3d4f-4198-9926-c61a6963af85_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/2b3e9502-3d4f-4198-9926-c61a6963af85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:38</itunes:duration>
-      <pubDate>Tue, 03 Oct 2023 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6WId5JAqAQNCJZKjjcYj2wPlf23mVA1nxJuQ0Gd9ZN8w.jpg"/>
     </item>
   </channel>
 </rss>
