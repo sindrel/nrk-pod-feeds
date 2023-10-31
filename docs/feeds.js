@@ -1003,8 +1003,8 @@ const feeds = [
   },
   {
     "id": "seriesnakk",
-    "title": "De 10 siste fra Seriesnakk: Jenta som forsvant",
-    "season": null,
+    "title": "De 10 siste fra Seriesnakk",
+    "season": "LATEST_SEASON",
     "enabled": true
   },
   {
