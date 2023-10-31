@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-10-31  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2023-10-29  
 - Updated podcast 'I det lange løp' (`i_det_lange_loep`)  
 ### 2023-10-28  
