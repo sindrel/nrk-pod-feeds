@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 06:29:53 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Oct 2023 11:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2023 10:29:37 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Nov 2023 10:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Vi blir høyere</title>
+      <description><![CDATA[Supervikarene Markus Vangen og Dr. Jones får besøk av Jakob Schøyen som er aktuell med den nye serien "Dummedag" i NRK!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/68947e8f-f9a6-477a-9423-ec9948cb2995_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/68947e8f-f9a6-477a-9423-ec9948cb2995_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:02</itunes:duration>
+      <pubDate>Wed, 01 Nov 2023 10:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_rjIL_d6_ZqA-250eglFpAwMqEnXeTz4E4WdwvP9Jz4w.jpg"/>
+    </item>
     <item>
       <title>Noe Attåt: Hvem tok Tete jobben fra?</title>
       <description><![CDATA[Hvordan fikk vi jobb i P3? Vi hører også om Mokkamann-hendelsen kan være en skrekkfilm. Tilstede: Tete, Hani, Herman og Johannes]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>43:58</itunes:duration>
       <pubDate>Wed, 25 Oct 2023 13:24:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rJxN72uzMFZGhP26lk_Knw55ufSOxsbzr8erILdWmZjw.jpg"/>
-    </item>
-    <item>
-      <title>Hjemmelaga pepperkake suger</title>
-      <description><![CDATA[Kompanirekrutt Rimmereid er på besøk og forteller om tida i "Tropp 2", og Karsten og Tete begynner å glede seg til julegodteri. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7b1f97b5-bbef-47ed-9a11-c0d224338f97_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7b1f97b5-bbef-47ed-9a11-c0d224338f97_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:24</itunes:duration>
-      <pubDate>Tue, 24 Oct 2023 10:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bGpN0WQ0Dru_2C9yOHPEsg7Y3W2Ex7t9DwumB-nneByA.jpg"/>
     </item>
   </channel>
 </rss>
