@@ -1,42 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 Oct 2023 04:28:03 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Oct 2023 06:02:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2023 12:43:06 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Nov 2023 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer i NRK Radio: Alene i Atlanteren</title>
-      <description><![CDATA[Atlanterhavet, 1973. Under en rasende orkan forsvinner to store og moderne norske lasteskip. På en redningsflåte kjemper Stein Gabrielsen for livet i 3 døgn. I NRK Radio fra 12.10.23.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/16525acf-7791-400b-93b7-6011bc7fead8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/16525acf-7791-400b-93b7-6011bc7fead8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <title>Kommer i NRK Radio: Drapsmann på døra</title>
+      <description><![CDATA[En psykotisk mann seg inn i en tilfeldig leilighet i Oslo og dreper en 24 år gammel mann. Det blir starten på en politijakt gjennom Europa. Kommer 2.11.23 i NRK Radio. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/fe0a3e06-0c34-4aa9-bb25-6b7c776a8084_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/fe0a3e06-0c34-4aa9-bb25-6b7c776a8084_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:45</itunes:duration>
-      <pubDate>Wed, 11 Oct 2023 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ARjF7djyMCpJGt_TDp-8OgYLjlledUc3gSuAA4nNx_GA.jpg"/>
-    </item>
-    <item>
-      <title>Nødmelding - Alene i Atlanteren (1:2) </title>
-      <description><![CDATA[Lasteskipet MS Norse Variant forliser i et forferdelig uvær. I tre døgn kjemper Stein for livet på en redningsflåte – helt alene. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/d67ff11d-c133-4b04-ae8d-e792c253b3f9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/d67ff11d-c133-4b04-ae8d-e792c253b3f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:28</itunes:duration>
-      <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ARjF7djyMCpJGt_TDp-8OgYLjlledUc3gSuAA4nNx_GA.jpg"/>
-    </item>
-    <item>
-      <title>MS Anitas skjebne - Alene i Atlanteren (2:2)</title>
-      <description><![CDATA[Enda et lasteskip forsvinner i stormen, men mystiske radiosignaler gir håp til alle som venter hjemme i Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/edf01627-d038-41e4-9652-f99efec4bdbf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/edf01627-d038-41e4-9652-f99efec4bdbf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:51</itunes:duration>
-      <pubDate>Thu, 12 Oct 2023 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ARjF7djyMCpJGt_TDp-8OgYLjlledUc3gSuAA4nNx_GA.jpg"/>
+      <pubDate>Wed, 01 Nov 2023 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zF8gT1yFsCZVguOuLMQ8eQ9MfaaORX97C6uZLFM0yCNw.jpg"/>
     </item>
   </channel>
 </rss>
