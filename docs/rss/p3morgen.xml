@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 31 Oct 2023 09:24:02 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Oct 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2023 06:29:53 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Oct 2023 11:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe Attåt: Hvem tok Tete jobben fra?</title>
+      <description><![CDATA[Hvordan fikk vi jobb i P3? Vi hører også om Mokkamann-hendelsen kan være en skrekkfilm. Tilstede: Tete, Hani, Herman og Johannes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/10f86d13-c60e-4419-b0d9-1fe1c5b0a072_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/10f86d13-c60e-4419-b0d9-1fe1c5b0a072_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:35</itunes:duration>
+      <pubDate>Tue, 31 Oct 2023 11:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Det er halloween!</title>
       <description><![CDATA[Velkommen inn i P3morgens skumle halloween-sending! Karsten og Tete har kledd seg ut, Morten Ramm begraver sertifikatet sitt og reporter Hani vil flytte denne dagen. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>40:24</itunes:duration>
       <pubDate>Tue, 24 Oct 2023 10:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bGpN0WQ0Dru_2C9yOHPEsg7Y3W2Ex7t9DwumB-nneByA.jpg"/>
-    </item>
-    <item>
-      <title>Tetes mathjørne </title>
-      <description><![CDATA[Tetemorgen holder det gående og utforsker folkets matkombinasjoner! Christopher Robin Omdahl har skrevet bok og kommer innom<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cbd18793-6717-46ea-82bc-cc83f8ede55e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cbd18793-6717-46ea-82bc-cc83f8ede55e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:50</itunes:duration>
-      <pubDate>Mon, 23 Oct 2023 11:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
