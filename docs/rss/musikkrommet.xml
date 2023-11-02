@@ -6,11 +6,20 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Musikkrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/musikkrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Sep 2023 04:27:40 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 02 Nov 2023 07:22:39 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9RC0yu1YgUPSu7PdUdmFRA-mkjHjLiLi2-zNUvYGneLg.jpg"/>
+    <item>
+      <title>Hillari: Klar for verden</title>
+      <description><![CDATA[Hillari vant Urørtfinalen tidligere i høst og den 18 år gamle artistens musikk er allerede blitt lagt merke til langt utenfor Norges grenser. Og ikke av hvem som helst,  en av de aller største i hiphop og RnB er blitt fan. Anna prater med Urørtsjef Nina Gjertsen om Hillaris gjennombrudd og veien videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/a66248d4-dafa-4d58-b2cf-f31a4ef5a13e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/a66248d4-dafa-4d58-b2cf-f31a4ef5a13e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:26</itunes:duration>
+      <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/goo1AnFBzci61oPyjyyQ_QXlOZiTJlKpUuRQLVuRGd2A.jpg"/>
+    </item>
     <item>
       <title>SKAAR: Kampen mot galskap og bedragersyndrom</title>
       <description><![CDATA[Nå er andre og avsluttende del av albumet “Mad Woman” ute, men hva mener egentlig SKAAR med den tittelen? Og hvorfor gjemmer hun seg ofte på do? Dette er bare noe av det vi fikk svar på da vi snakket med henne under årets Øyafestival.]]></description>
@@ -91,19 +100,6 @@
       <itunes:duration>35:53</itunes:duration>
       <pubDate>Thu, 22 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/b2f_BHHo8pVXfdXnrkOiHwIOQTMx82upe8zRS2eNUKDw.jpg"/>
-    </item>
-    <item>
-      <title>Röyksopp: Menneskene bak maskinen</title>
-      <description><![CDATA[Röyksopp har fra de møttes som kids i 1988 nerdet på synthene, og med det blitt noen av våre største verdensstjerner. I fjor ga de ut sin første utgivelse på åtte år - et ambisiøst trippelalbum. Men mystikken er tykkere rundt hitmaskinen enn noen gang.
-
-PS: Lørdag 17. juni kan du se blant annet Röyksopp i den nye dokumentarserien "Ekstase - historien om nordisk elektronika" i NRK TV.
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/b021c559-249b-4be3-912e-fe7f387122d5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/b021c559-249b-4be3-912e-fe7f387122d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:21</itunes:duration>
-      <pubDate>Thu, 15 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EQc2q1A1YXPLUMTFcMQrgQ5Bkm_vEOf4j41hT7SM4rQQ.jpg"/>
     </item>
   </channel>
 </rss>
