@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 31 Oct 2023 22:26:57 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Oct 2023 22:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 22:26:04 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 22:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    <item>
+      <title>Er ultraprosessert mat farlig?</title>
+      <description><![CDATA[Fagfolk er uenige om hvor mye bearbeiding har å si for hvor sunn maten er.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/c71dbc06-51d6-407d-a082-69418d387223_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/c71dbc06-51d6-407d-a082-69418d387223_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:40</itunes:duration>
+      <pubDate>Thu, 02 Nov 2023 22:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    </item>
     <item>
       <title>Polititopp: Folk ville blitt skremt om de visste</title>
       <description><![CDATA[Justisministeren får kritikk for manglende politiressurser i kampen mot ungdomskriminaliteten.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/0770b068-481b-450a-8c75-c23495418084_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:30</itunes:duration>
       <pubDate>Tue, 03 Oct 2023 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
-    </item>
-    <item>
-      <title>På helsa løs, mener leger</title>
-      <description><![CDATA[Leger frykter de skal bli alvorlig syke av lav bemanning og høyt arbeidspress.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/644772af-c76c-46c7-b06f-b52d63147965_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/644772af-c76c-46c7-b06f-b52d63147965_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:55</itunes:duration>
-      <pubDate>Thu, 28 Sep 2023 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
   </channel>
