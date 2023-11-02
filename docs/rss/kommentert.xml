@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 27 Oct 2023 04:28:05 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 19:22:28 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 19:50:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Er vi på vei mot en boligkrise?</title>
+      <description><![CDATA[Er vi midt i en boligkrise vi ikke er klar over? Vi svarer også på lytterspørsmål og snakker om TV-serien «Makta».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/af09816a-040d-4992-89d4-d962cbcd5d25_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/af09816a-040d-4992-89d4-d962cbcd5d25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:04</itunes:duration>
+      <pubDate>Thu, 02 Nov 2023 19:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k1T75x3SiTaCrQcps8FWSw-gprV8B6FUrSK297tF7XtQ.jpg"/>
+    </item>
     <item>
       <title>Norge har aldri tatt i mot så mange flyktninger</title>
       <description><![CDATA[Det kommer 1000 ukrainske flyktninger i uka. Er vi egentlig rigga for å ta i mot dem?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>20:31</itunes:duration>
       <pubDate>Tue, 12 Sep 2023 03:23:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/f69jT1iICVQYIDLFYEzH8wx5lfXYPl-5LnAVyRI_xzqw.jpg"/>
-    </item>
-    <item>
-      <title>Hvem vinner valget på mandag? </title>
-      <description><![CDATA[Hva slags valg er årets valg? Hvem vinner storbyene? Og hva slags Norge våkner vi opp til dagen etter årets valg?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/e844e19d-dc30-4dec-bd14-04292ec3084a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/e844e19d-dc30-4dec-bd14-04292ec3084a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:30</itunes:duration>
-      <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZCopo10q4E-_aav3f75drAJjxUE6CMjhqXZWxHwyz-BQ.jpg"/>
     </item>
   </channel>
 </rss>
