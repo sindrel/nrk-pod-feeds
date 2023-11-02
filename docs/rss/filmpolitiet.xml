@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 26 Oct 2023 14:27:24 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Oct 2023 16:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 15:24:05 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 16:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>Comeback: Topper og flopper</title>
+      <description><![CDATA[ «Top Gun» klarte det, «How I Met Your Father» gikk på trynet. Vi gjør både stas og skam på gamle favoritter som gjør comeback.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/25e03082-3894-4496-a06f-e73445313104_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/25e03082-3894-4496-a06f-e73445313104_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:20</itunes:duration>
+      <pubDate>Thu, 02 Nov 2023 16:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>Skjulte skrekkskatter</title>
       <description><![CDATA[Vi deler ni skrekkfavoritter som enten er skjulte perler eller grøssere som har fått for lite oppmerksomhet.]]></description>
@@ -91,15 +101,6 @@
       <itunes:duration>36:22</itunes:duration>
       <pubDate>Thu, 31 Aug 2023 16:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7zeDV-sMUG7_TcpAFWizgwl94p6Q4Ui2haHkJGYtaYBA.jpg"/>
-    </item>
-    <item>
-      <title>Ferske sommertips: Strømmefilmer </title>
-      <description><![CDATA[Sigurd og Ingvill gir deg deilige serietips til late sommerdager.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/0e7b63ed-49da-4fcd-b2fe-735073473488_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/0e7b63ed-49da-4fcd-b2fe-735073473488_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:06</itunes:duration>
-      <pubDate>Thu, 24 Aug 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
     </item>
   </channel>
 </rss>
