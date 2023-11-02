@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-11-02  
+- Updated podcast 'Musikkrommet' (`musikkrommet`)  
 ### 2023-10-31  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2023-10-29  
