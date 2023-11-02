@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 30 Oct 2023 12:43:20 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Oct 2023 13:10:00 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 05:27:05 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
+    <item>
+      <title>#364 Lars Nehru Sand</title>
+      <description><![CDATA[Lars Nehru Sand hyller rivaliseringen i norsk fotball og forteller om sitt kjære Start, hamsterdød og årsaken til sin karakteristiske stemme]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/d87ae3f1-514f-42ea-8e9d-4a8f55f3f6a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d87ae3f1-514f-42ea-8e9d-4a8f55f3f6a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:43:05</itunes:duration>
+      <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GDlsHQiIH60IwMhgsweD1w91LgsSCSGW9VZe9X-VbkqA.jpg"/>
+    </item>
     <item>
       <title>Snakkis: Skechers, Gullballen og reflekskasting!</title>
       <description><![CDATA[Panelet snakker om Harry Kane sine Skechers, hvem som vinner Gullballen og reflekskasting på Intility Arena.
@@ -101,15 +110,6 @@ I panelet: Tete Lidbom, Sven Bisgaard Sundet og Hani Hussein]]></description>
       <itunes:duration>47:20</itunes:duration>
       <pubDate>Mon, 02 Oct 2023 13:55:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
-    </item>
-    <item>
-      <title>#359 Petter Nyquist</title>
-      <description><![CDATA[Petter "Uteligger" Nyquist forteller om å sigge med Prins Harry i Antarktis, bo på gata og padle over Mjøsa i et badekar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/6ea6afd5-3bac-41f2-9a6f-9b71a455a3f0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/6ea6afd5-3bac-41f2-9a6f-9b71a455a3f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:56:35</itunes:duration>
-      <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KgkIaEkVv5-4E30wHHMfjQhkK4Q1H2WjB0Uk3ShXcbVA.jpg"/>
     </item>
   </channel>
 </rss>

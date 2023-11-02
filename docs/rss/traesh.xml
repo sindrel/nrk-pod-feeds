@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Træsh</title>
+    <title>De 9 siste fra Træsh</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Træsh. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/traesh for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Træsh. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/traesh for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 26 Oct 2023 04:28:26 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 05:27:35 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gZGZqMFqYK49hfIVXYhzGRQ.jpg"/>
+    <item>
+      <title>Tar den mørke baksiden vekk moroa med Real Housewives? </title>
+      <description><![CDATA[RHOBH er tilbake i all sin prakt, men det ligger ting å vaker i kulissene som vi må snakke om. I tillegg har Hollywood feiret Halloween og Sophie Turner har fått en ny flamme!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/f2690626-a174-4e65-89ef-e9d5c98b4151_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/f2690626-a174-4e65-89ef-e9d5c98b4151_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:20</itunes:duration>
+      <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/V299dmx6eNN941G3TAwDugMQKSzfaMMQO6o-S_lP4rXg.jpg"/>
+    </item>
     <item>
       <title>Fotballfruebråket: WAGatha Christie</title>
       <description><![CDATA[Fotballverden ble rystet i 2019 da en fotballfrue anklaget en annen for å lekke private instagram stories til den tabloide pressen. ]]></description>
