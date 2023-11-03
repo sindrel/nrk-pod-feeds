@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Nov 2023 11:22:33 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Nov 2023 12:18:00 +0100</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 11:22:34 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 11:50:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Pasta kan være dødelig </title>
+      <description><![CDATA[Selma har sett stumfilm, og Markus har hatt en kulinarisk katastrofe. Mathilde Ullum er også gjest og forteller om podkasten hennes 730.no<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/aa428195-c9ef-4681-aeb4-47de049779a2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/aa428195-c9ef-4681-aeb4-47de049779a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:33</itunes:duration>
+      <pubDate>Fri, 03 Nov 2023 11:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A117wBig_N_PE9J33cZrnQzHPucBvfG5p1a-Fqp-v1Bg.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Vi har fått kritikk</title>
       <description><![CDATA[Vi legger oss flate etter en mail med tydelig tilbakemelding. Det kan du også gi - p3morgen@nrk.no er adressen! Tilstede: Johannes, Anna og Herman.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>49:06</itunes:duration>
       <pubDate>Thu, 26 Oct 2023 13:13:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Lær å si nei</title>
-      <description><![CDATA[Else Kåss er på besøk hos oss for å fortelle om hennes nye bok "Burde sagt nei". Der har vi kanskje noe å lære?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1c448c07-cac1-4e0c-92ca-3dd1231e0ae5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1c448c07-cac1-4e0c-92ca-3dd1231e0ae5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:33</itunes:duration>
-      <pubDate>Thu, 26 Oct 2023 11:51:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hnp_MjYT_-S_96RdiOngagGqgn2Isc5w93ihJBznSiyw.jpg"/>
     </item>
   </channel>
 </rss>
