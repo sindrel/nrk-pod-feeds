@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 31 Oct 2023 05:26:31 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Oct 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 05:26:40 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Morten Ramm: Skalla uvitenhet og kødd til 50</title>
+      <description><![CDATA[Komiker Morten Ramm er på besøk. Det blir preik om investeringer, hjelp av humorspirer og å være skalla. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b248fcf3-481e-41a7-ae3e-f27fed72db00_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b248fcf3-481e-41a7-ae3e-f27fed72db00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:20</itunes:duration>
+      <pubDate>Fri, 03 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p9-slbiC2RcHpI_T0ci-Zw-i0AjUmy2vooPmn7qMPWRQ.jpg"/>
+    </item>
     <item>
       <title>Hummer limo, biltelling og colaskyll </title>
       <description><![CDATA[Lars har kjørt limo igjennom en politisk demonstrasjon. Martin har telt biler etter 3 årsdag. Sammen diskuterer de å skylle tenna med brus.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:03:07</itunes:duration>
       <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
-    </item>
-    <item>
-      <title>Sissel Gran: Knullekonge og KI-romanser </title>
-      <description><![CDATA[Psykolog Sissel Gran er dagens gjest. Det blir preik om Solberg-saken, romanser med Ki og utroskap. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/1ee5dfe6-ec4e-458e-af2c-7e1c35492de8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/1ee5dfe6-ec4e-458e-af2c-7e1c35492de8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:24</itunes:duration>
-      <pubDate>Fri, 29 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6sfdDSx-Ehv2BQbP39k98gmOk0UThrzniY9Uw2cjI6IQ.jpg"/>
     </item>
   </channel>
 </rss>

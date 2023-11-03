@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 28 Oct 2023 11:22:17 +0000</lastBuildDate>
-    <pubDate>Sat, 28 Oct 2023 12:40:00 +0200</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 05:27:10 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Krigen i Ukraina: En seier i Svartehavet</title>
+      <description><![CDATA[Til tross for russiske trusler har trafikken til og fra havnene i Ukraina begynt igjen. Det er viktig for matvaresikkerheten i verden og for den ukrainske økonomien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/7472dd64-19a8-4b96-a0f3-ae22edfe551c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/7472dd64-19a8-4b96-a0f3-ae22edfe551c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:22</itunes:duration>
+      <pubDate>Fri, 03 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fkQbsj8g25HPqVCLBZbt7w3QJfk7u-EXm-dLc6ieb96g.jpg"/>
+    </item>
     <item>
       <title>Israels statsminister sier at bakkeinvasjonen på Gaza vil skje snart. Amerikanske medier hevder at Israel har utsatt invasjonen etter press fra USA.</title>
       <description><![CDATA[Israels statsminister sier at alt er klappet og klart for en fullskala bakkeinvasjon på Gazastripen. Flere amerikanske medier hevder at Israel har gått med på å utsette invasjonen etter press fra USA.
@@ -97,16 +106,6 @@ Men jentene protesterer, for det er ikke alltid klart hva en abaya egentlig er.]
       <itunes:duration>57:41</itunes:duration>
       <pubDate>Sat, 30 Sep 2023 13:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sd08S3TSYn36tvWGjqM2fA2FECeaE8VOs2NwRUZyPNBQ.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: Roman var partisan i Kherson</title>
-      <description><![CDATA[
-Roman samlet inn informasjon om hva russerne drev med i det okkuperte Kherson, til det ble for farlig]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/0be5d8ae-c447-4dc1-a80d-5ca6bcebbd1b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/0be5d8ae-c447-4dc1-a80d-5ca6bcebbd1b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:18</itunes:duration>
-      <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YIhkUpSSMZmLOiDkXAQFjQOBKX29XR45mibkswVHDWyA.jpg"/>
     </item>
   </channel>
 </rss>
