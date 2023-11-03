@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Nov 2023 07:22:44 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Nov 2023 08:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 09:24:05 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 09:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
+    <item>
+      <title>Økokrim og Høgreleiaren</title>
+      <description><![CDATA[Er det Økokrim som avgjer Erna Solbergs framtid?
+I dag kjem avgjerda om politiet skal etterforske Sindre Finnes sine aksjehandlar i Erna Solbergs regjeringstid.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/0734bb82-7986-4e53-addb-2eb3182ef85d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/0734bb82-7986-4e53-addb-2eb3182ef85d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:00</itunes:duration>
+      <pubDate>Fri, 03 Nov 2023 09:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b6aV8tfcylINg3ed-9q23AalGLQI_3VFzrVr-AR9eiuw.jpg"/>
+    </item>
     <item>
       <title> Kan KrF samarbeide med Ap i 2025?</title>
       <description><![CDATA[For fem år siden valgte KrF Erna Solberg.
@@ -108,18 +119,6 @@ Hva betyr det for oss egentlig? Og hva betyr det for valgtaperne?  ]]></descript
       <itunes:duration>15:01</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5Bk4IWQVfNZTVR17iLNoPgQ6DNWEL_MiLb8yfHpm9Gjg.jpg"/>
-    </item>
-    <item>
-      <title>To statar?</title>
-      <description><![CDATA[«Tostatsløysinga» er namnet på målet om at det skal bli to likeverdige statar ved sida av kvarandre; Israel og Palestina.
-Det har vore håpet i fleire tiår. Er det vits å styre etter det målet no?
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/40234008-98c2-4b30-af84-bbc89680d1c9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/40234008-98c2-4b30-af84-bbc89680d1c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:15</itunes:duration>
-      <pubDate>Fri, 20 Oct 2023 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-CFM2QjerZ-OH0txaO1cAmKtn7tEDCt48ULT9SCZ9jQ.jpg"/>
     </item>
   </channel>
 </rss>
