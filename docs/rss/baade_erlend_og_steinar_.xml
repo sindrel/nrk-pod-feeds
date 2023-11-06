@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Både Erlend og Steinar </title>
+    <title>De 6 siste fra Både Erlend og Steinar </title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Både Erlend og Steinar . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baade_erlend_og_steinar_ for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Både Erlend og Steinar . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baade_erlend_og_steinar_ for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 30 Oct 2023 05:27:10 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Oct 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Nov 2023 05:27:29 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Beste episoden til nå</title>
+      <description><![CDATA[Hvorfor ble Steinar så sint på Erlend denne uka? Det grubles over om blinde må plukke opp etter hunden sin pluss mye mer. Advarer mot sterke scener. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/3f3c011b-e25c-483e-a1f8-74956103fa92_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/3f3c011b-e25c-483e-a1f8-74956103fa92_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:56</itunes:duration>
+      <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>Vi kurerer paranoia</title>
       <description><![CDATA[Hjelper det paranoide å bekrefte vrangforestillingene deres? Erlend har flere samlivstips og Steinar tenker ikke lenger ved innsoving. ]]></description>
