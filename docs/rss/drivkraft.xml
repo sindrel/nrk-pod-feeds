@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 30 Oct 2023 14:28:02 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Oct 2023 14:15:00 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Nov 2023 12:44:57 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Nov 2023 13:20:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Dennis Vareide</title>
+      <description><![CDATA[Youtube-stjernen vil begrense datterens skjermbruk: - Bør lyse en varsellampe når jeg som lever av skjerm advarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/bc8970fb-cb2c-4b4d-b699-3fadd7f61e26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/bc8970fb-cb2c-4b4d-b699-3fadd7f61e26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:54</itunes:duration>
+      <pubDate>Mon, 06 Nov 2023 13:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_0Lw44TnCRj8ZlGA-oUsTwibCaYxODVrXKsK8diitnMw.jpg"/>
+    </item>
     <item>
       <title>Ole Martin Alfsen</title>
       <description><![CDATA[Tv-kokken om 40-årskrisa, gryteretter, barnemat og hvorfor han var en "kuk" som kjøkkensjef
@@ -92,15 +101,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Mon, 09 Oct 2023 15:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/KjzQ_JFeT6RYXmeKjq0EjAYEoZFsT0H21keNoKT4Itiw.jpg"/>
-    </item>
-    <item>
-      <title>Hans Christian Holte</title>
-      <description><![CDATA["Det er mye vi kan bli bedre på", NAV-direktør Hans Christian Holte ønsker å hjelpe så mange som mulig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/764a8ceb-5456-4e11-bdea-cd322c41ac8f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/764a8ceb-5456-4e11-bdea-cd322c41ac8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:33</itunes:duration>
-      <pubDate>Wed, 04 Oct 2023 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/I01AYFflMtUNN-gBcaaONg9yq_fUVcJ3E1GtmKPrpokw.jpg"/>
     </item>
   </channel>
 </rss>
