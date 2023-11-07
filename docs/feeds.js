@@ -584,6 +584,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "kveldstanker",
+    "title": "De 10 siste fra Kveldstanker",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "labyrinthemmeligheter",
     "title": "De 10 siste fra Labyrinthemmeligheter",
     "season": null,
