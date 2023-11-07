@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-11-07  
+- Added podcast 'Kveldstanker' (`kveldstanker`)  
 ### 2023-11-03  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2023-11-02  
