@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 31 Oct 2023 05:26:52 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Oct 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Nov 2023 05:27:11 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg.jpg"/>
+    <item>
+      <title>Carl II og Karl Johan - Soldaten som ble konge (40:42)</title>
+      <description><![CDATA[Hvordan en fransk 17. mai-hater ble midtpunktet for 17.mai-feiringa. Og fremdeles er det. 
+(År 1814-1844)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/ad49b6b0-da83-4e0c-b43e-2c9a7fbafc04_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/ad49b6b0-da83-4e0c-b43e-2c9a7fbafc04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:27</itunes:duration>
+      <pubDate>Tue, 07 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FjfEOmePH2Dh7avt8KVOsQbz_0CMZvfEaqVvFVj5NPDg.jpg"/>
+    </item>
     <item>
       <title>Christian Frederik - Kongen som tenkte på folkets beste (39:42)</title>
       <description><![CDATA[Sommerjobben hans endra Norge for alltid!
@@ -100,17 +110,6 @@
       <itunes:duration>33:15</itunes:duration>
       <pubDate>Tue, 05 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8XwzF9-RyNo_MnXbkbpksA_XkqO5r3lIt5qplx4yJTcA.jpg"/>
-    </item>
-    <item>
-      <title>17.mai-spesial: Hvem er hvem i Ja, vi elsker?</title>
-      <description><![CDATA[Hvilke konger er nevnt i nasjonalsangen vår? Det vet du når du har hørt denne festen av en episode!   
-         
-Musikk: SyncPoint, Kaare og Partiet, Det Norske Jentekor + KORK + Kajsa Balto]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kongerekka/c2cba974-6f09-4b8e-8757-c4ea364e9453_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kongerekka/c2cba974-6f09-4b8e-8757-c4ea364e9453_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:05</itunes:duration>
-      <pubDate>Fri, 12 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/f6cEp-YKjjfiEBHpBslWsAy3kcSH0MHuuEV_ZIGb-5Ew.jpg"/>
     </item>
   </channel>
 </rss>
