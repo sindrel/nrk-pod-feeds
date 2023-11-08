@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 06 Nov 2023 12:44:57 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Nov 2023 13:20:00 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Nov 2023 14:27:44 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Nov 2023 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Åsa Linderborg</title>
+      <description><![CDATA[Den svenske kulturskribenten føler en trang til å forsvare menn]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4d477d1c-4bcc-4e4a-833d-c6a27d27508d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4d477d1c-4bcc-4e4a-833d-c6a27d27508d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:46</itunes:duration>
+      <pubDate>Wed, 08 Nov 2023 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s6fDFzCUM7qnu10fT4gufwrynocgCrUjs9esAQRwqheA.jpg"/>
+    </item>
     <item>
       <title>Dennis Vareide</title>
       <description><![CDATA[Youtube-stjernen vil begrense datterens skjermbruk: - Bør lyse en varsellampe når jeg som lever av skjerm advarer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:59</itunes:duration>
       <pubDate>Tue, 10 Oct 2023 16:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gq-th6uWLc9lrdhIx9-MUAoDy-NeUcBwPAqacBhyqBvQ.jpg"/>
-    </item>
-    <item>
-      <title>Erik Thorstvedt</title>
-      <description><![CDATA["Jeg ofret vennskap og sosiallivet for å spille fotball, da visste jeg at fotballen var alt." sier den tidligere landslagskeeperen.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/9cbb509c-eacd-4e92-b7a2-2933adc9fb7f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/9cbb509c-eacd-4e92-b7a2-2933adc9fb7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:01</itunes:duration>
-      <pubDate>Mon, 09 Oct 2023 15:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KjzQ_JFeT6RYXmeKjq0EjAYEoZFsT0H21keNoKT4Itiw.jpg"/>
     </item>
   </channel>
 </rss>
