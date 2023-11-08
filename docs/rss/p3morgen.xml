@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 08 Nov 2023 10:29:49 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Nov 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Nov 2023 12:43:04 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Nov 2023 12:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Plukk opp etter deg</title>
+      <description><![CDATA[Supervikarene Markus og Dr. Jones får besøk av Henriette Steenstrup, reporter Egil Skurdal er på plass og vi ranter om hundebæsj. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/73c335d6-4af8-4353-a215-499d37395236_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/73c335d6-4af8-4353-a215-499d37395236_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:47</itunes:duration>
+      <pubDate>Wed, 08 Nov 2023 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gpA3hFBNeHSaMs-WN8Mpmw53QPEA2rjJ9hwQ8LI98G-A.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Egils tilbakekomst</title>
       <description><![CDATA[Egil er på plass i Attåt-studioet igjen. Vi snakker om gamel ting og Sofie har vært på premierefest. Tilstede: Sofie, Anna, Herman og Egil]]></description>
@@ -108,15 +117,6 @@ Serveres med ris og naanbrød gjerne hjemmebakt]]></description>
       <itunes:duration>52:02</itunes:duration>
       <pubDate>Wed, 01 Nov 2023 10:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_rjIL_d6_ZqA-250eglFpAwMqEnXeTz4E4WdwvP9Jz4w.jpg"/>
-    </item>
-    <item>
-      <title>Noe Attåt: Hvem tok Tete jobben fra?</title>
-      <description><![CDATA[Hvordan fikk vi jobb i P3? Vi hører også om Mokkamann-hendelsen kan være en skrekkfilm. Tilstede: Tete, Hani, Herman og Johannes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/10f86d13-c60e-4419-b0d9-1fe1c5b0a072_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/10f86d13-c60e-4419-b0d9-1fe1c5b0a072_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:35</itunes:duration>
-      <pubDate>Tue, 31 Oct 2023 11:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
