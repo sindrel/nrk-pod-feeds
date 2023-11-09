@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 08 Nov 2023 05:26:50 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Nov 2023 05:26:42 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Krig og sosiale medier</title>
+      <description><![CDATA[Krigen i Midtøsten berører og engasjerer mange, men er vi nødt til å fortelle hva vi mener i sosiale medier?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d103a28b-5a5c-48f0-a08d-eb87774393eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d103a28b-5a5c-48f0-a08d-eb87774393eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:23</itunes:duration>
+      <pubDate>Thu, 09 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/V1r7YWERIXX-5KDtbKgYBQbPIWrH5p6Jh9ewVcA9Phbg.jpg"/>
+    </item>
     <item>
       <title>Spørretime om mobbing</title>
       <description><![CDATA[Rekordmange barn og unge sier de blir mobbet. Hva kan vi gjøre? Panelet svarer lytterne.]]></description>
@@ -92,16 +101,6 @@ Media må bli bedre på å speile mangfoldet i samfunnet.]]></description>
       <itunes:duration>57:44</itunes:duration>
       <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/okrAVFb6gK7E-2WOj-7o0AWeF_xuajpbsMb_lRTHHRoQ.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan snakke om rasisme?</title>
-      <description><![CDATA[Sannsynligvis har du også sagt noe rasistisk uten at du helt vet det selv. Hvordan kan vi snakke om det ubehagelige på en bedre måte? 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1dd81515-29c7-4fc2-9335-b541a293def1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1dd81515-29c7-4fc2-9335-b541a293def1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:41</itunes:duration>
-      <pubDate>Mon, 23 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FSPwLBYEJ7hsPs3RuobkDAnITvpodp3J2WDDmFHRucPg.jpg"/>
     </item>
   </channel>
 </rss>
