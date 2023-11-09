@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 08 Nov 2023 14:27:44 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Nov 2023 14:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Nov 2023 15:25:03 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Nov 2023 16:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Jan Arild Snoen</title>
+      <description><![CDATA[Samfunnsdebattanten er optimist: - Jeg kommer til å vinne, men ikke før jeg er død.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/048c00a6-0960-415c-b7e2-2e283da05f25_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/048c00a6-0960-415c-b7e2-2e283da05f25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Thu, 09 Nov 2023 16:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/P0ruWbl1f8waocCQgzNt0Q7P13w9dwNoWb0TXSBBAhdg.jpg"/>
+    </item>
     <item>
       <title>Åsa Linderborg</title>
       <description><![CDATA[Den svenske kulturskribenten føler en trang til å forsvare menn]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:44</itunes:duration>
       <pubDate>Wed, 11 Oct 2023 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EllpzgD3Ar6ISVknG4w-BQaz7umkGiOmHZwbSX4r6PgA.jpg"/>
-    </item>
-    <item>
-      <title>Benjamin Fabio Matthiesen</title>
-      <description><![CDATA[Grunderen bak e-sportklubben 777 mener oppveksten i pinsebevegelsen lærte ham å gjøre idé til virkelighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6d4367bf-a394-402b-b951-47ef4397cf80_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6d4367bf-a394-402b-b951-47ef4397cf80_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Tue, 10 Oct 2023 16:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gq-th6uWLc9lrdhIx9-MUAoDy-NeUcBwPAqacBhyqBvQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Nov 2023 15:24:05 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Nov 2023 16:15:00 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Nov 2023 15:25:07 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Nov 2023 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>Velkledd virkelighetsflukt</title>
+      <description><![CDATA[Kostymedramaene skinner både på kino og skjerm i høst! Vi anmelder de tre ferskeste sjangertilskuddene og byr på tre historiske favoritter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/7e7c8186-1ad3-41f8-8dda-d3a38f6c4bd5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/7e7c8186-1ad3-41f8-8dda-d3a38f6c4bd5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:55</itunes:duration>
+      <pubDate>Thu, 09 Nov 2023 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>Comeback: Topper og flopper</title>
       <description><![CDATA[ «Top Gun» klarte det, «How I Met Your Father» gikk på trynet. Vi gjør både stas og skam på gamle favoritter som gjør comeback.
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a62728c2-df0c-4ea4-871f-e26b7a7982eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>37:50</itunes:duration>
       <pubDate>Thu, 07 Sep 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7zeDV-sMUG7_TcpAFWizgwl94p6Q4Ui2haHkJGYtaYBA.jpg"/>
-    </item>
-    <item>
-      <title>Seriene vi gleder oss til i høst</title>
-      <description><![CDATA[Streiken i Hollywood har skapt noen utsettelser, men seriehøsten ser lovende ut! Vi gir deg oversikten over seriene vi gleder oss aller mest til i høst. Både norske og internasjonale.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/7747d5e3-2626-4e67-906a-154dd6d5e677_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/7747d5e3-2626-4e67-906a-154dd6d5e677_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:22</itunes:duration>
-      <pubDate>Thu, 31 Aug 2023 16:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7zeDV-sMUG7_TcpAFWizgwl94p6Q4Ui2haHkJGYtaYBA.jpg"/>
     </item>
   </channel>
