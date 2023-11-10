@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 08 Nov 2023 05:26:59 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Nov 2023 05:26:55 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Ville du spist syk laks? </title>
+      <description><![CDATA[Kan vi stole på at laksen i butikken har vært frisk? Og hvem sliter egentlig mest etter kontrollkomiteens høringer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/6ff4e789-3ff2-417e-90f9-5650dc8e6081_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/6ff4e789-3ff2-417e-90f9-5650dc8e6081_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:55</itunes:duration>
+      <pubDate>Fri, 10 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Or1E6yzUwW96W6UmOG-E6AfqEkgo6s9KWKuHpDeKGT-A.jpg"/>
+    </item>
     <item>
       <title>Hvor stopper renta og når blir den lavere?</title>
       <description><![CDATA[Sentralbanksjef-spesial: Ida Wolden Bache er gjest. Vi spør om alt vi lurer på om styringsrente og fremtiden.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>36:32</itunes:duration>
       <pubDate>Thu, 28 Sep 2023 12:51:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VvvDb7Q-h0xO6QiRIrxL0QbQG7d0Q2hM0kPjpF_HP87w.jpg"/>
-    </item>
-    <item>
-      <title>Hva kommer til å skje med Erna Solberg nå?</title>
-      <description><![CDATA[Kan hun bli statsminister på ny etter dette her?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c0056fd5-669c-4415-abd9-51afcb970d9a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/c0056fd5-669c-4415-abd9-51afcb970d9a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:18</itunes:duration>
-      <pubDate>Wed, 20 Sep 2023 19:54:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/j7poSlbvV6sauKtHbbgSLQPoYGHiA513VmxghKlmdgJw.jpg"/>
     </item>
   </channel>
 </rss>
