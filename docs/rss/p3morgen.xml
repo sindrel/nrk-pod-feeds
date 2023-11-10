@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 12:43:00 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Nov 2023 13:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Nov 2023 09:23:28 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Nov 2023 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Hvem har runket på dassen?</title>
+      <description><![CDATA[Detektivene fra «Maskorama» er her, og reporter Henning gjør et godt stykke håndarbeid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f1dccc6d-ae92-4560-b0ef-28e1150c9c78_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f1dccc6d-ae92-4560-b0ef-28e1150c9c78_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:54</itunes:duration>
+      <pubDate>Fri, 10 Nov 2023 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gz2sEMfDYDaIkwxtMLqwFAI8XReNlVbkDQ9SfpfFPYxw.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Adelina er tilbake!</title>
       <description><![CDATA[I dag er endelig Adelina tilbake i Attåt! Snart er hele gjengen samlet. På bildet ser du Annas lille genser <3 ]]></description>
@@ -108,15 +117,6 @@ Serveres med ris og naanbrød gjerne hjemmebakt]]></description>
       <itunes:duration>47:33</itunes:duration>
       <pubDate>Fri, 03 Nov 2023 11:50:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/A117wBig_N_PE9J33cZrnQzHPucBvfG5p1a-Fqp-v1Bg.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Vi har fått kritikk</title>
-      <description><![CDATA[Vi legger oss flate etter en mail med tydelig tilbakemelding. Det kan du også gi - p3morgen@nrk.no er adressen! Tilstede: Johannes, Anna og Herman.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/50baac71-9744-4db4-93d3-d5f0642d1fde_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/50baac71-9744-4db4-93d3-d5f0642d1fde_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:22</itunes:duration>
-      <pubDate>Thu, 02 Nov 2023 12:18:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eqKfWgCJT6n2wfz69c16xQy1kJqU39UyMK037UM1vf3A.jpg"/>
     </item>
   </channel>
 </rss>
