@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 10 Nov 2023 17:26:28 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Nov 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 11 Nov 2023 08:26:22 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Nov 2023 09:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Slørsoppmiddagen</title>
+      <description><![CDATA[Hanne Aass drar på en middag der soppeksperter serverer slørsopp, en slekt som sopplukkere har blitt bedt om å styre langt unna. Noen av slørsoppene er nemlig blant våre dødeligste giftsopper. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c6a1cbd0-3c18-439a-a590-dde9881b6aee_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c6a1cbd0-3c18-439a-a590-dde9881b6aee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:54</itunes:duration>
+      <pubDate>Sat, 11 Nov 2023 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/d90ZvJ-GFTVJQzvrAYh_AQoH45feiLykCUrj1gPRLwpw.jpg"/>
+    </item>
     <item>
       <title>Abels tårn - Hvordan vet speilet om eplet?</title>
       <description><![CDATA[TikTok er full av videor av sjokkerte folk som ikke fatter hvordan speilet kan vite hva som skjuler seg på baksiden av et ark som ligger mellom. Det er i det hele tatt mye sjokk, vantro og funfacts i dagens episode!
@@ -181,22 +190,6 @@ Atle Johnson Gyllensten]]></description>
       <itunes:duration>57:06</itunes:duration>
       <pubDate>Fri, 20 Oct 2023 07:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FC_wlm6QrxcBeh9rbSu-gw6lXWtI2erHA45sLvGL4poA.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - Bananfluas følelsesliv</title>
-      <description><![CDATA[Forum for finurlige funderinger fra forskningsfronten:
-
-- En ny studie tyder på at bananfluer har et forhold til døden. De blir i hvert fall stressa av den.
-- Narges Mohammadi er den tredje fysikeren som får Nobels fredspris - vi diskuterer Nobelprisenes politiske rolle
-- Nytt lasergyroskop kan måle mikroskopiske endringer i jordas rotasjon
-- Vil kvinner på p-piller ha det bedre om de kutter ut menstruasjonen helt? For det kan de?
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/ba0aaf4d-f07c-49bf-a2c1-4e19101da9ce_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ba0aaf4d-f07c-49bf-a2c1-4e19101da9ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:27</itunes:duration>
-      <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jWEZRWm-pm9kQb9AhPfFnwpC69YOvRJWWqVxCZ2r9XUw.jpg"/>
     </item>
   </channel>
 </rss>
