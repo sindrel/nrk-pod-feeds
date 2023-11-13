@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Kveldstanker</title>
+    <title>De 6 siste fra Kveldstanker</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Kveldstanker. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kveldstanker for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Kveldstanker. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kveldstanker for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 05:26:53 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2023 05:27:43 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Du ser ut som en banditt! - med Sumeet Singh</title>
+      <description><![CDATA[Han startet Turbandagen og er inkluderingssjef i Schibsted. Men Sumeet Singh torde ikke å gå med turban før én dag i militæret endret alt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/70b34432-f34d-4491-8e3e-a1a3b278f7a5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/70b34432-f34d-4491-8e3e-a1a3b278f7a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:10</itunes:duration>
+      <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/efJ5ArBl4tbka2V14clhcwEZYHYlEuLqeyXpBXJ03u5A.jpg"/>
+    </item>
     <item>
       <title>Firkløver - med Ragnhild Lund Ansnes</title>
       <description><![CDATA[Ett menneske skulle snu opp-ned på livet hennes. Alt på grunn av en firkløver. Ragnhild Lund Ansnes er journalist, forfatter og hotelleier.]]></description>
@@ -18,7 +27,7 @@
       <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0777d7c7-1228-4e87-abd2-6d5a17a0d3d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:22</itunes:duration>
       <pubDate>Thu, 09 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OYCOYpEFVqltLESKcqOodQcGxXJ9-rqUOan2m8SR-wJw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/OYCOYpEFVqltLESKcqOodQheMFwj1cvgFR3lXu4yX_FQ.jpg"/>
     </item>
     <item>
       <title>Venninnebruddet - med Hanan Abdelrahman</title>
@@ -27,7 +36,7 @@
       <enclosure url="https://podkast.nrk.no/fil/kveldstanker/edaf3fbd-2bda-42cb-9fe2-c86b9757c561_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:19</itunes:duration>
       <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/t_-Ul8NUWGDpf6_vvil8BQaZ6xn869dPWz2_5Zx1hSnQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/t_-Ul8NUWGDpf6_vvil8BQLz1XwasLjoHYt_477AQlsQ.jpg"/>
     </item>
     <item>
       <title>Begravelsessangeren - med Trygve Skaug </title>
@@ -36,7 +45,7 @@
       <enclosure url="https://podkast.nrk.no/fil/kveldstanker/edecc40d-6c9d-4be7-b462-b770da48a231_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:29</itunes:duration>
       <pubDate>Tue, 07 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/M1XgDjniI45hY3XVrVx04Ajmp1cyErTNZ6kaajYQviuw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/M1XgDjniI45hY3XVrVx04AnjpSGgFd6FSbKQtj4Ttp5A.jpg"/>
     </item>
     <item>
       <title>Går det bra? - med Sofie Frøysaa</title>
