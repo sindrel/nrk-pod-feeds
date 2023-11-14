@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 15:25:03 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Nov 2023 16:10:00 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Nov 2023 13:27:17 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Nov 2023 14:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Benedicte Bjørnland</title>
+      <description><![CDATA[Politidirektøren om ungdomskriminalitet, trusselvurderinger og hvorfor hun har svart belte i karate.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/526e9955-32ca-41a8-8a33-73e248d5ce85_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/526e9955-32ca-41a8-8a33-73e248d5ce85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:52</itunes:duration>
+      <pubDate>Tue, 14 Nov 2023 14:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ziJ3Tjvntl-vlSshNkX_FAwegRarrbgqpZkqv8h9_pSg.jpg"/>
+    </item>
     <item>
       <title>Jan Arild Snoen</title>
       <description><![CDATA[Samfunnsdebattanten er optimist: - Jeg kommer til å vinne, men ikke før jeg er død.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Thu, 12 Oct 2023 14:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Cv8DmifZNUyAtEz43AMeUAJa2qXOTbO_iNktsa1lVJMg.jpg"/>
-    </item>
-    <item>
-      <title>Lars Mytting</title>
-      <description><![CDATA["Hvis jeg ikke gjør dette, blir jeg ulykkelig" - Lars Mytting forteller om hvordan han hoppet ut i det ukjente da han ble forfatter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/31fb7358-23e7-4552-9a2c-178218188f1e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/31fb7358-23e7-4552-9a2c-178218188f1e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:44</itunes:duration>
-      <pubDate>Wed, 11 Oct 2023 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EllpzgD3Ar6ISVknG4w-BQaz7umkGiOmHZwbSX4r6PgA.jpg"/>
     </item>
   </channel>
 </rss>
