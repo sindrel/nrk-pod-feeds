@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Nov 2023 18:28:59 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Nov 2023 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Nov 2023 19:21:58 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Nov 2023 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Palestina-støtte, Ukraina og fotball-VM</title>
+      <description><![CDATA[Palestina-avstemning utsettes
+Venstre kritiserer Ukraina-støtte
+Saudi-Arabia eneste kandidat til fotball-VM i 2034
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6c277e35-112b-4568-b437-4b826ec40122_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6c277e35-112b-4568-b437-4b826ec40122_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 14 Nov 2023 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh_ax3sjp13kmS6oQMJrPgR4cUb4rPeJLDH_E43R8f8w.jpg"/>
+    </item>
     <item>
       <title>Erna Solberg, krav om lærerutdanning og dyrere mat</title>
       <description><![CDATA[Erna Solberg blir sittende.
@@ -125,17 +137,6 @@ Men det vil ikke Tromsø-ordføreren høre på.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 01 Nov 2023 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MmTPsCGAMhwMt1KH2rAOjQHRfuHJZU7g4gLzj8Sz5dnQ.jpg"/>
-    </item>
-    <item>
-      <title>ACER-dommen, Halloween-debatt og kriminelle nettverk.</title>
-      <description><![CDATA[Nei til EU tapte ACER-saken i Høyesterett.
-Ikke alle gleder seg til Halloween.
-Kvinner reagerer på at de er for gamle for mammografi.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bf27bf6a-28e9-4e0b-a26e-76e478255406_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bf27bf6a-28e9-4e0b-a26e-76e478255406_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Tue, 31 Oct 2023 19:55:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8RAz1wSm_5dEysboAcBvtgjyChAm7aZpfyWrkxMSmmRA.jpg"/>
     </item>
   </channel>
 </rss>
