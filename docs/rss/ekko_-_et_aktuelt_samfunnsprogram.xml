@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 05:27:16 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Nov 2023 05:27:23 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Spørretime: Hva skjer med verden?</title>
+      <description><![CDATA[Er verden i ferd med å forandre seg for alltid? Krig, klimakrise og konflikter, hva er det egentlig som skjer? Ekspertene gir deg svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6c180a4b-632f-4dea-a6db-6ae2a76c566f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6c180a4b-632f-4dea-a6db-6ae2a76c566f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:29</itunes:duration>
+      <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/t_aoXfrh4u3uc6UQQHmaPQWqBBY1AZIMnWEHlsIxYM9g.jpg"/>
+    </item>
     <item>
       <title>På innsiden av psykiatrien</title>
       <description><![CDATA[Hvordan er det å være psykiatrisk pasient? Marie Næss (28) forteller om sine ti år med selvskading og tvang, men også om verdighet og håp.]]></description>
@@ -92,15 +101,6 @@ Media må bli bedre på å speile mangfoldet i samfunnet.]]></description>
       <itunes:duration>18:35</itunes:duration>
       <pubDate>Mon, 30 Oct 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7Jsd_VMi44BtugRRB0W6Eg2pn36_I8MOCF0FNH5iQ_9g.jpg"/>
-    </item>
-    <item>
-      <title>Kjærsti ble til med stjålet sæd</title>
-      <description><![CDATA[På 70-tallet ble det stjålet sæd fra soldater i Sverige. Hvordan kunne dette skje, og hvor mange norske barn er unnfanget på denne måten? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f2af944c-33b8-48c7-a2d2-723e819c923d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f2af944c-33b8-48c7-a2d2-723e819c923d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:39</itunes:duration>
-      <pubDate>Wed, 25 Oct 2023 16:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xNFyLxGGoMUCCzFi0jZOggeqJs2562VoFkp2aDER7dNw.jpg"/>
     </item>
   </channel>
 </rss>
