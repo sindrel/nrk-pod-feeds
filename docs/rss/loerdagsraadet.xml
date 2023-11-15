@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 11 Nov 2023 13:23:52 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Nov 2023 13:46:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Nov 2023 15:26:53 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Nov 2023 15:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Ubablete fra Bableren</title>
+      <description><![CDATA[Vi har vært på teater, og Jonas har en julegave idé]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/4bb19b9e-56c4-4f50-ab56-a359711baebc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/4bb19b9e-56c4-4f50-ab56-a359711baebc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:15</itunes:duration>
+      <pubDate>Wed, 15 Nov 2023 15:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
     <item>
       <title>Einar Tørnquist / Solveig Kloppen / Nils Bech</title>
       <description><![CDATA[Har Ingvild og Roger fortsatt verdens stilleste sex? PROBLEMER: Mistet jeg bestefar med bestemor? / Kunst i brudd-etikette / Alenetur til København 11.11 / Glimt i øyet er der hele tiden / Kanskje mammas siste jul / Skinkekone / To YOLO or not to YOLO? / Verdens verste menneske? / Masse sosialt ansvar, men er ensom]]></description>
@@ -91,17 +100,6 @@
       <itunes:duration>02:19:08</itunes:duration>
       <pubDate>Sat, 14 Oct 2023 13:55:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Kl8QpWGi0SM1KGnKya2u-QtATeD_1SNWt5UZFcMLI2XA.jpg"/>
-    </item>
-    <item>
-      <title>Høsttakkefest! + Fem tilbakemeldinger!</title>
-      <description><![CDATA[Høstferie og høsttakkefest, og hele fem tilbakemeldinger! Bare å njuta
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/1411cf02-3322-4a5a-b3b7-d36e89a2d369_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1411cf02-3322-4a5a-b3b7-d36e89a2d369_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:47</itunes:duration>
-      <pubDate>Fri, 13 Oct 2023 12:46:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>
