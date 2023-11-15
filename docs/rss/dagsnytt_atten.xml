@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 19:21:58 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Nov 2023 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Nov 2023 19:22:02 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Nov 2023 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Helse Nord, strømopprør og Gaza</title>
+      <description><![CDATA[Debatt om helsetilbudet i Nord-Norge.
+Strømopprør på Sørvestlandet.
+Norske borgere har kommet ut av Gaza.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/946fa56a-49f3-4eb8-88ba-6b669d5cceb0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/946fa56a-49f3-4eb8-88ba-6b669d5cceb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 15 Nov 2023 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OfMcK8g5HD-8kfZ72Z0RbATer9iAin0CdbaVXsF2bHZQ.jpg"/>
+    </item>
     <item>
       <title>Palestina-støtte, Ukraina og fotball-VM</title>
       <description><![CDATA[Palestina-avstemning utsettes
@@ -123,20 +135,6 @@ Dramaserien "Makta" tar seg friheter på ekte menneskers bekostning, hevder forf
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 02 Nov 2023 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HyZNTU0AV3xtWLWf1vIS1gPsfWESgN4JZMa6gONaiYMA.jpg"/>
-    </item>
-    <item>
-      <title>Dialogmøte med palestinere og israelere</title>
-      <description><![CDATA[PST hever ikke trusselnivået etter Gaza-krigen startet, men sier trusselen mot jødiske mål i Norge er skjerpet, ser økt polarisering.
-
-Norske småbedrifter skeptiske til småbedriftspartiet Venstre som vil lovfeste ansattes rett til å slippe å høre fra sjefen på fritiden.
-
-Glem Nord-Norgebanen, sats på sjøveien i stedet, krever fem havnedirektører.
-Men det vil ikke Tromsø-ordføreren høre på.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a4cdb685-18e0-4876-9ae1-675bc1145736_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a4cdb685-18e0-4876-9ae1-675bc1145736_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 01 Nov 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MmTPsCGAMhwMt1KH2rAOjQHRfuHJZU7g4gLzj8Sz5dnQ.jpg"/>
     </item>
   </channel>
 </rss>
