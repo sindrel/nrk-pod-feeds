@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 13:27:17 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Nov 2023 14:05:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Nov 2023 14:28:32 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Nov 2023 15:20:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Myra</title>
+      <description><![CDATA[Artisten forteller om utenforskap, suksess og å smugtitte etter engler.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1b279d7d-52ec-432f-9801-57b89d8c6284_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1b279d7d-52ec-432f-9801-57b89d8c6284_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Wed, 15 Nov 2023 15:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SEqDb07Bv6ccMIR_3dZfHwQGz8-lB10fHH1ijcETd_2w.jpg"/>
+    </item>
     <item>
       <title>Benedicte Bjørnland</title>
       <description><![CDATA[Politidirektøren om ungdomskriminalitet, trusselvurderinger og hvorfor hun har svart belte i karate.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:59</itunes:duration>
       <pubDate>Fri, 13 Oct 2023 13:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/y78UxHFtuA-WgjzUFsLg9womPn89ii7bEbuiF_3-mlIA.jpg"/>
-    </item>
-    <item>
-      <title>Yngvild Sve Flikke</title>
-      <description><![CDATA[Regissøren har laget politisk satire om Gro Harlem Brundtlands vei til makten, men prøver å ikke tenke på at karakterene i serien er virkelige personer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/eb3035bd-2c23-4632-be02-9fd740baedd2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/eb3035bd-2c23-4632-be02-9fd740baedd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Thu, 12 Oct 2023 14:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Cv8DmifZNUyAtEz43AMeUAJa2qXOTbO_iNktsa1lVJMg.jpg"/>
     </item>
   </channel>
 </rss>
