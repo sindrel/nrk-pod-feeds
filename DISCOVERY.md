@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-11-15  
+- Updated podcast 'Burde vært pensum' (`burde_vaert_pensum`)  
 ### 2023-11-07  
 - Added podcast 'Kveldstanker' (`kveldstanker`)  
 ### 2023-11-03  
