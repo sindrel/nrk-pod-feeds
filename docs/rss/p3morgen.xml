@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 13:27:31 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Nov 2023 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Nov 2023 12:44:40 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Nov 2023 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Et oppgjør med Tete og Herman</title>
+      <description><![CDATA[Endelig blir Tete konfrontert med mailen Synnøve sendte en tid tilbake, Herman får en gave fra Tete og vi har vært på raclette-kveld. Tilstede: Adelina, Tete, Anna, Johannes og Herman.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8d049674-ce77-430c-94fb-4fbbe9a9c6f9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8d049674-ce77-430c-94fb-4fbbe9a9c6f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:40</itunes:duration>
+      <pubDate>Wed, 15 Nov 2023 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m3grNdJ1rIXwN1Whh7OZEQqnseLsJ45D-fxC6QVpDASA.jpg"/>
+    </item>
     <item>
       <title>Hekta på "Makta"</title>
       <description><![CDATA[Vi har besøk av selveste Kathrine Thorborg Johansen og Jan Gunnar Røise som er aktuell med "Makta", en serie vi i P3morgen elsker<3]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>58:47</itunes:duration>
       <pubDate>Wed, 08 Nov 2023 12:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/gpA3hFBNeHSaMs-WN8Mpmw53QPEA2rjJ9hwQ8LI98G-A.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Egils tilbakekomst</title>
-      <description><![CDATA[Egil er på plass i Attåt-studioet igjen. Vi snakker om gamel ting og Sofie har vært på premierefest. Tilstede: Sofie, Anna, Herman og Egil]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/681babbf-94be-48f6-bcb2-d856008eb0f5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/681babbf-94be-48f6-bcb2-d856008eb0f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:20</itunes:duration>
-      <pubDate>Wed, 08 Nov 2023 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
