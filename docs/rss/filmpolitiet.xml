@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 15:25:07 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Nov 2023 16:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2023 15:26:09 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Nov 2023 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>Godzilla vs. The Hunger Games</title>
+      <description><![CDATA[To av 2010-tallets store actionunivers utvides denne uken. Vi dykker ned i «The Hunger Games»-universet og Godzillas «Monsterverse».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/e3717604-86d0-4aef-a8ef-03b75509c37d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/e3717604-86d0-4aef-a8ef-03b75509c37d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:32</itunes:duration>
+      <pubDate>Thu, 16 Nov 2023 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>Velkledd virkelighetsflukt</title>
       <description><![CDATA[Kostymedramaene skinner både på kino og skjerm i høst! Vi anmelder de tre ferskeste sjangertilskuddene og byr på tre historiske favoritter.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>33:19</itunes:duration>
       <pubDate>Thu, 14 Sep 2023 16:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
-    </item>
-    <item>
-      <title>9 filmfavoritter på under 90 minutter</title>
-      <description><![CDATA[Lei av lange filmer? Vi har plukket ut 9 godbiter på under 90 minutter som passer utmerket til korte filmkvelder.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a62728c2-df0c-4ea4-871f-e26b7a7982eb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a62728c2-df0c-4ea4-871f-e26b7a7982eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:50</itunes:duration>
-      <pubDate>Thu, 07 Sep 2023 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7zeDV-sMUG7_TcpAFWizgwl94p6Q4Ui2haHkJGYtaYBA.jpg"/>
     </item>
   </channel>
 </rss>
