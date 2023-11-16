@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 14:28:32 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Nov 2023 15:20:00 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2023 14:28:39 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Nov 2023 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Lisa Tønne</title>
+      <description><![CDATA[Komikeren ble nesten drept av et badekar, og av hesteinfluensa: - Jeg er glad jeg har så mye rart i livet
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/31ad5086-318d-44e9-91cd-f1b2e6aceed2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/31ad5086-318d-44e9-91cd-f1b2e6aceed2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Thu, 16 Nov 2023 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4RyKvT9IOD2jCldoABfKowDHjXbG876SkI-U3Betvuxg.jpg"/>
+    </item>
     <item>
       <title>Myra</title>
       <description><![CDATA[Artisten forteller om utenforskap, suksess og å smugtitte etter engler.  ]]></description>
@@ -92,15 +102,6 @@
       <itunes:duration>57:06</itunes:duration>
       <pubDate>Tue, 24 Oct 2023 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hG7Xbz_QCZo1aivlN6lGYgiBdU3wUO6gHt4IWyd_WPWg.jpg"/>
-    </item>
-    <item>
-      <title>Knut Erik Jensen</title>
-      <description><![CDATA[Den nygifte filmskaperen mener menn er hjelpeløse uten kvinner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3ad39d6c-77a8-49d7-92af-a484586faae5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3ad39d6c-77a8-49d7-92af-a484586faae5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Fri, 13 Oct 2023 13:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/y78UxHFtuA-WgjzUFsLg9womPn89ii7bEbuiF_3-mlIA.jpg"/>
     </item>
   </channel>
 </rss>
