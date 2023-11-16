@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Nov 2023 12:43:58 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Nov 2023 13:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2023 05:27:48 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
+    <item>
+      <title>#366 Jo Inge Berget</title>
+      <description><![CDATA[Jo Inge Berget forteller om ekstrem ryddighet, syke barnehagepriser i USA og da han delte to flasker champis med Aune Sand på Manhattan.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/3e7c6c8a-bc08-4674-81c7-e632091aaba7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/3e7c6c8a-bc08-4674-81c7-e632091aaba7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:09:05</itunes:duration>
+      <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z2gn9QUuJT-OX3KuRIHmXgEa5viC2uo_cZncEIvkhNGQ.jpg"/>
+    </item>
     <item>
       <title>Snakkis: Dommerstreik, gullfeiring og landslag</title>
       <description><![CDATA[Ukas store snakkiser, og et forslag: Skal vi bare gi opp å ha landslag? Og selvfølgelig er vi innom ballescoring!
@@ -101,15 +111,6 @@ I panelet: Sven Bisgaard Sundet, Tete Lidbom og Gunnhild Toldnes]]></description
       <itunes:duration>44:32</itunes:duration>
       <pubDate>Mon, 16 Oct 2023 12:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
-    </item>
-    <item>
-      <title>#361 Christoffer Schjelderup</title>
-      <description><![CDATA[Komiker Christoffer Schjelderup forteller om oppveksten i Brann-garderoben, bodshow og hvorfor han hater trommer på tribunen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/d56a5ec7-7dc8-4bd0-aa30-4facba0fdb4a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d56a5ec7-7dc8-4bd0-aa30-4facba0fdb4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:23:27</itunes:duration>
-      <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KSS5i9PamazTMlGWscUQ9AHDohiBRNW7TboZgivZW0jQ.jpg"/>
     </item>
   </channel>
 </rss>

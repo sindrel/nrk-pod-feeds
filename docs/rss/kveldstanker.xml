@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Kveldstanker</title>
+    <title>De 9 siste fra Kveldstanker</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Kveldstanker. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kveldstanker for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Kveldstanker. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kveldstanker for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 05:27:33 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2023 05:27:52 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Den ukjente guden - med Trygve Skaug</title>
+      <description><![CDATA[På ferie i Aten står musiker Trygve Skaug i mylderet av romerske soldater med toga og plasthjelmer. Men Trygve leter etter spor fra fortida.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/c82c229b-9846-41af-9a72-9d568fc0ae82_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/c82c229b-9846-41af-9a72-9d568fc0ae82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:24</itunes:duration>
+      <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/M1XgDjniI45hY3XVrVx04AlMkPAOQE6dHDUwFPmjdrWw.jpg"/>
+    </item>
     <item>
       <title>Livet i Hundremeterskogen - med Helga Samset</title>
       <description><![CDATA[Hver gang hun føler seg dum, prøver hun å dekke over. Forteller Helga Samset finner trøst i Ole Brumm - en bjørn med bare middels forstand. ]]></description>
