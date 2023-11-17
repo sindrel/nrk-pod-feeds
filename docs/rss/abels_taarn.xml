@@ -7,10 +7,24 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Nov 2023 06:29:25 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Nov 2023 07:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 17 Nov 2023 15:25:50 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Nov 2023 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Abels tårn - Menneske uten menneskeceller, hva er igjen?</title>
+      <description><![CDATA[Hvor mye er det igjen av deg, hvis du fjerner alle menneskecellene? Overraskende mye.
+
+Panelet
+Jessica Lönn-Stensrud - Mikrobiolog
+Olav Lysne - Informatiker
+Ole Swang - Kjemiker]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/6c1b9ea1-12a3-4449-b830-a1be4ba4c449_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c1b9ea1-12a3-4449-b830-a1be4ba4c449_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:07</itunes:duration>
+      <pubDate>Fri, 17 Nov 2023 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fZdzjXpIRkma7WBD0_K-TQAJonSREpTJwCUOgVeQOx4g.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten - Hestehodetåken, stereolukt og xenotransplantasjon</title>
       <description><![CDATA[Abels tårns hjørne for lemfeldig blafring i forskningsmagasinene]]></description>
@@ -36,7 +50,7 @@
 Ukas panel:
 Ida Torkjellsdatter Storehaug - Fysiker
 Petter Bøckman - Zoolog 
-Andrea Nakkerud - Matematiker
+Andreas Nakkerud - Matematiker
 ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c724e586-79e8-4bc4-a01f-4c95da5aa674_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c724e586-79e8-4bc4-a01f-4c95da5aa674_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -165,18 +179,6 @@ Første panel i dag skal svare på disse spørsmålene:
       <itunes:duration>27:11</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 07:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bOycfeipRXkrvFxMpJs4VQqU84Tl1ogmT2Dpxi49CBtw.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - Psykedelika som medisin, røverplaneter og pene bankdirektører</title>
-      <description><![CDATA[Abels tårn bringer deg nyheter fra forskningens verden: 
-- Bruk av psykedeliske stoffer i behandlingen av noen psykiske tilstander.
-- Røverplaneter
-- Forstemmende forskning viser: Pene mennesker tjener mer. MYE mer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4518e168-6a1f-445e-8c7f-e959aea59548_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4518e168-6a1f-445e-8c7f-e959aea59548_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:29</itunes:duration>
-      <pubDate>Mon, 23 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Rsbdr2dnxmTnAgDgwrF0JwvRN_z3_nvlMongbzPg9Lvw.jpg"/>
     </item>
   </channel>
 </rss>
