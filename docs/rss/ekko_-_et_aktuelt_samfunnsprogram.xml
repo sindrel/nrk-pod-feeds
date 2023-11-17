@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 05:27:43 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 17 Nov 2023 05:27:56 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Når nasking blir psykisk sykdom</title>
+      <description><![CDATA[Hva skjer når ressurssterke personer begynner å stjele? En spesialist hjelper oss å forstå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8eaa0814-53df-4d7f-b4d4-a94cdaa382d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8eaa0814-53df-4d7f-b4d4-a94cdaa382d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/62zbnUMAGhptLd7oWXYAXgEn9kK5HaYKcc3oVhOYrTgw.jpg"/>
+    </item>
     <item>
       <title>Idrettshelter i endring</title>
       <description><![CDATA[Hvorfor trekker idrettsheltene våre seg fra landslaget, og går solo?]]></description>
@@ -92,15 +101,6 @@ Media må bli bedre på å speile mangfoldet i samfunnet.]]></description>
       <itunes:duration>31:52</itunes:duration>
       <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QbDE_B0oOLF-_lYLnw07nwn-tPnQAqlAanMfqsdwvHSQ.jpg"/>
-    </item>
-    <item>
-      <title>Kva er folkeretten?</title>
-      <description><![CDATA[ Kva er reglane for krig? Blir dei fulgte på Gaza no og kva gjer ein når dei ikkje blir fulgte?  Ekspertane svarar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/07b6d04b-60c1-4c8a-9406-1f0ba1cb5ac2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/07b6d04b-60c1-4c8a-9406-1f0ba1cb5ac2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:24</itunes:duration>
-      <pubDate>Tue, 31 Oct 2023 13:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7T17gpCFTiRQja3lQX2-hAhDY1R0hg9BS700rLd57pjA.jpg"/>
     </item>
   </channel>
 </rss>
