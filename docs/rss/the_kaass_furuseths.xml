@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 12 Nov 2023 05:26:36 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 19 Nov 2023 05:26:59 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Kurt Nilsen</title>
+      <description><![CDATA[Kurt Nilsen viser frem hjemmestudio, gitarene, pick-up-trucken og huset i Lier når Else kommer på søndagsbesøk. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a6965734-2660-40ff-a64c-97bb2d2a993f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a6965734-2660-40ff-a64c-97bb2d2a993f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:08</itunes:duration>
+      <pubDate>Sun, 19 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jn44v987Lqp6WksIN8ZvbwfFwYRjoxKqnqeQcRHV3nRA.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Johannes Roaldsen Fürst</title>
       <description><![CDATA[Skuespiller Johannes lager pannekaker til Else, og forteller om Gullruten-tabbe, hypokonder-tendenser og livet som "nepo-baby".]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>42:55</itunes:duration>
       <pubDate>Sun, 17 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-Qq3ft3WuodxBj-KnXlwNQumQEIAat2-BERqwgduC47w.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Viggo Venn</title>
-      <description><![CDATA[Klovnen Viggo Venn forteller om klovnekjæresten, den tidligere jobben i Kardemommeby og om hva han skal gjøre når han møter kong Charles. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/e70c2206-7f5b-40a3-b6ce-c13d90665d58_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e70c2206-7f5b-40a3-b6ce-c13d90665d58_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:20</itunes:duration>
-      <pubDate>Sun, 10 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/trAjjkZ2GzZ_DrYVt7aYPAzLjzqy1njt-lz21NuWn9pg.jpg"/>
     </item>
   </channel>
 </rss>

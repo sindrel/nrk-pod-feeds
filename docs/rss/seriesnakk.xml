@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Seriesnakk</title>
+    <title>De 4 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 12 Nov 2023 05:26:32 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 19 Nov 2023 05:26:54 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aP5YrPy3ULG8bhqM3UzHUwhNgJ3hN8iCyN-CiuOuzHPg.jpg"/>
+    <item>
+      <title>- Jeg holdt på å kjøre av veien</title>
+      <description><![CDATA[Journalist Viggo Johansen om møtet med Arvid Engen. Regissør Yngvild Sve Flikke om å forme uttrykket i «Makta».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/372854fa-295a-43b7-89fa-886f6f344fff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/372854fa-295a-43b7-89fa-886f6f344fff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:54</itunes:duration>
+      <pubDate>Sun, 19 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-t-azCpXU8HS16TvVv2cgw00gp2qnqXiEk2gQGElnp8Q.jpg"/>
+    </item>
     <item>
       <title>- Kan ikke gjøre det for mye, jeg er ingen sirkushest</title>
       <description><![CDATA[Kathrine Thorborg Johansen forteller om den omfattende researchen som ble lagt ned for å tolke Gro.]]></description>
