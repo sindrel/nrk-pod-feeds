@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Nov 2023 05:28:03 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2023 05:28:14 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Trond Giske</title>
+      <description><![CDATA[Står det egentlig så dårlig til med Arbeiderpartiet? Og har Trond Giske endret syn på noe etter at han forlot rikspolitikken? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/3070be9c-9d17-4969-9868-a8047de9e277_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/3070be9c-9d17-4969-9868-a8047de9e277_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:30</itunes:duration>
+      <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7Pcd2WUMBo36JH1T7lpAWwW8K7-AngOTLM38oOzy58cg.jpg"/>
+    </item>
     <item>
       <title>Benny Bankboks</title>
       <description><![CDATA[Jan Petter Askevold stod bak et av de mest spektakulære bankranene i moderne norsk historie. Og han slapp unna med det. En stund. Hør om det mildt sagt innholdsrike livet til Benny Bankboks! ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:37</itunes:duration>
       <pubDate>Mon, 25 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MvRPxiTOj9QQLYVJJc4qUABuZmjR45tfDx_EW2qaYXQw.jpg"/>
-    </item>
-    <item>
-      <title>Ytringsfrihetens fremtid</title>
-      <description><![CDATA[Hva er egentlig en ytring? Og er det en god idé å forby koranbrenning? Med Anine Kierulf og Vebjørn Selbekk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/6f799853-2d59-40fb-9eb5-462680332a07_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/6f799853-2d59-40fb-9eb5-462680332a07_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:16:31</itunes:duration>
-      <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HeOzGcHQ_SePp0gDEP0nBAzwgZ6nU7-Ih9v07qS_aYVg.jpg"/>
     </item>
   </channel>
 </rss>

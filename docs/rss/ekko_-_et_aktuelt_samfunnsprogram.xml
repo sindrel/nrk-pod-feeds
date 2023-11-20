@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 17 Nov 2023 05:27:56 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2023 05:27:51 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Mr. Beast, en moderne Jesus? </title>
+      <description><![CDATA[Verdens største YouTuber deler ut penger til fattige og kurerer blinde i Afrika. Hvor bra er det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7b3d31a2-371b-425c-95c7-bffc1e1e6058_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7b3d31a2-371b-425c-95c7-bffc1e1e6058_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:17</itunes:duration>
+      <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WkNYmDIGKRGQCiQfoFlMcgk_JamFWHuVcNoa_YDffdNQ.jpg"/>
+    </item>
     <item>
       <title>Når nasking blir psykisk sykdom</title>
       <description><![CDATA[Hva skjer når ressurssterke personer begynner å stjele? En spesialist hjelper oss å forstå.]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>14:03</itunes:duration>
       <pubDate>Fri, 03 Nov 2023 13:40:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mcAkHZM_mx0U8rWeqfy5ugqSNQUz89Ir1wtmm592YVbA.jpg"/>
-    </item>
-    <item>
-      <title>Alle stemmer må bli hørt</title>
-      <description><![CDATA[-Snakk med folk og ikke om. 
-Media må bli bedre på å speile mangfoldet i samfunnet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3bbbd7c5-69f8-4b90-a899-17cc51bef33f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3bbbd7c5-69f8-4b90-a899-17cc51bef33f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:52</itunes:duration>
-      <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QbDE_B0oOLF-_lYLnw07nwn-tPnQAqlAanMfqsdwvHSQ.jpg"/>
     </item>
   </channel>
 </rss>
