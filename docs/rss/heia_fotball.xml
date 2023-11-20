@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 05:27:48 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2023 12:45:09 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Nov 2023 13:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
+    <item>
+      <title>Snakkis: Cupfinale-spesial!</title>
+      <description><![CDATA[Det er cupfinale-feber i Snakkis denne uka og Sven og Tete har med seg Anna Jøsendal fra RBK og Olaug Tvedten fra Vålerenga i panelet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/10ca1ba3-89f3-4e4a-9b75-15345a98660d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/10ca1ba3-89f3-4e4a-9b75-15345a98660d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:00</itunes:duration>
+      <pubDate>Mon, 20 Nov 2023 13:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5LJiw_wurH8udpLzXZaCUwiEB1bNnDgA77b9kUinyclA.jpg"/>
+    </item>
     <item>
       <title>#366 Jo Inge Berget</title>
       <description><![CDATA[Jo Inge Berget forteller om ekstrem ryddighet, syke barnehagepriser i USA og da han delte to flasker champis med Aune Sand på Manhattan.
@@ -100,17 +109,6 @@ I panelet: Sven Bisgaard Sundet, Tete Lidbom og Aleksander Schau]]></description
       <itunes:duration>02:16:29</itunes:duration>
       <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Yowo-NpVB-AQp5oCRlsioQrKFf8VLzKQaJizUMaCtRgg.jpg"/>
-    </item>
-    <item>
-      <title>Snakkis: Terapitime, Iskremjenta og elsk/hat</title>
-      <description><![CDATA[Vi hyller og etterlyser Iskremjenta, Gunnhild tømmer landslagshjertet sitt og vi elsker og hater Norge.
-
-I panelet: Sven Bisgaard Sundet, Tete Lidbom og Gunnhild Toldnes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/f5c052a0-a102-46a2-963f-f320577479ce_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/f5c052a0-a102-46a2-963f-f320577479ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:32</itunes:duration>
-      <pubDate>Mon, 16 Oct 2023 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
     </item>
   </channel>
 </rss>
