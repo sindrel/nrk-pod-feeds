@@ -1,51 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 23 Oct 2023 04:28:37 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Oct 2023 06:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Nov 2023 13:28:46 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Nov 2023 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>I NRK Radio: Apetor</title>
-      <description><![CDATA[Norske Apetor er sett over 400 millioner ganger på Youtube. To år etter hans død forteller vi historien fansen aldri har fått høre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/29f629c1-52cd-4e60-964d-3c311e3d840a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/29f629c1-52cd-4e60-964d-3c311e3d840a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:45</itunes:duration>
-      <pubDate>Mon, 16 Oct 2023 17:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BZ5r4HhtND16_6iD6_XeDgrca9Vyz_f_NurrnyRAcKzA.jpg"/>
-    </item>
-    <item>
-      <title>Klatreren (1:3)</title>
-      <description><![CDATA[Det går rykter i Bergen om en fyr som klatrer på bygninger. Hvem er denne gærningen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/1a400330-f12a-49ef-8487-aacec7311853_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/1a400330-f12a-49ef-8487-aacec7311853_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:23</itunes:duration>
-      <pubDate>Mon, 23 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BZ5r4HhtND16_6iD6_XeDgrca9Vyz_f_NurrnyRAcKzA.jpg"/>
-    </item>
-    <item>
-      <title>Disiplene (2:3)</title>
-      <description><![CDATA[Fans over hele verden elsker filmene til Apetor, men er ikke det han gjør farlig? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/8be6ac78-7e38-4ef1-a92b-811dcdd08ecd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/8be6ac78-7e38-4ef1-a92b-811dcdd08ecd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:48</itunes:duration>
-      <pubDate>Mon, 23 Oct 2023 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BZ5r4HhtND16_6iD6_XeDgrca9Vyz_f_NurrnyRAcKzA.jpg"/>
-    </item>
-    <item>
-      <title>Apetors siste film (3:3)</title>
-      <description><![CDATA[En diagnose kaster en skygge over Tor Eckhoffs liv.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/7a3b54b2-6be1-4dba-b18a-927829fef512_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/7a3b54b2-6be1-4dba-b18a-927829fef512_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:44</itunes:duration>
-      <pubDate>Mon, 23 Oct 2023 06:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BZ5r4HhtND16_6iD6_XeDgrca9Vyz_f_NurrnyRAcKzA.jpg"/>
+      <title>Kommer i NRK Radio: Taliban 2.0 </title>
+      <description><![CDATA[I ett år følger journalist Anders Hammer det nye Taliban-regimet i Afghanistan. Han blir arrestert, banket og truet med henrettelse. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a4bd1c59-661f-44f7-add7-1dbabf4c6147_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a4bd1c59-661f-44f7-add7-1dbabf4c6147_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:41</itunes:duration>
+      <pubDate>Tue, 21 Nov 2023 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NybySzklJjGK56fN-6wY4g0cjfvgazEXwvP_01O6DsYQ.jpg"/>
     </item>
   </channel>
 </rss>
