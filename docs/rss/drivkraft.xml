@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 14:28:39 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Nov 2023 15:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Nov 2023 14:29:47 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Nov 2023 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Morten Hegseth</title>
+      <description><![CDATA[TV-profilen føler han aldri har klart å falle på plass i voksenlivet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f57afd00-1d10-4462-8d37-2d46758e8442_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f57afd00-1d10-4462-8d37-2d46758e8442_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Tue, 21 Nov 2023 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VbuLW0aPEJwIHwm271kgOwbHQriUMytw-wtcMn8KUoLQ.jpg"/>
+    </item>
     <item>
       <title>Lisa Tønne</title>
       <description><![CDATA[Komikeren ble nesten drept av et badekar, og av hesteinfluensa: - Jeg er glad jeg har så mye rart i livet
@@ -93,15 +102,6 @@
       <itunes:duration>56:48</itunes:duration>
       <pubDate>Wed, 25 Oct 2023 13:10:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_CVMCqETtMwas6w0GfRQ5wBlzBs0yrdUHKDCuOoGNXCw.jpg"/>
-    </item>
-    <item>
-      <title>Vibeke Gwendoline Fængsrud</title>
-      <description><![CDATA[At alle trodde hun skulle dø før hun ble 12 år, har gjort mattegründeren uredd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/53202ba6-04b9-4ba7-87e8-cd1cbf1b1d13_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/53202ba6-04b9-4ba7-87e8-cd1cbf1b1d13_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:06</itunes:duration>
-      <pubDate>Tue, 24 Oct 2023 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hG7Xbz_QCZo1aivlN6lGYgiBdU3wUO6gHt4IWyd_WPWg.jpg"/>
     </item>
   </channel>
 </rss>
