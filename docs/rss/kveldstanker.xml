@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Nov 2023 05:28:00 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Nov 2023 05:28:37 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Mørkredd på rektors kontor - Are Sende Osen</title>
+      <description><![CDATA[Programleder og forfatter Are Sende Osen skal overnatte på en gammel skole. Helt alene. Dessverre er ateisten skrekkelig mørkredd. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/498d0741-d4f0-4cd6-8540-09ab9ce1ac69_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/498d0741-d4f0-4cd6-8540-09ab9ce1ac69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:39</itunes:duration>
+      <pubDate>Tue, 21 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fX6vA-pkIBPmx3a68_YyZwOt0lsNxjt7l7u7zpqDixfg.jpg"/>
+    </item>
     <item>
       <title>Alle Veras farger - med Hilde Østby</title>
       <description><![CDATA[Vennskapet med Vera Micaelsen var en fest som sluttet altfor tidlig. Forfatter Hilde Østby forteller om Den siste dansen - og kjærligheten. ]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>03:46</itunes:duration>
       <pubDate>Mon, 06 Nov 2023 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FrA7gCe_TaRYcKzQvovRhQmrdEQa8LMo7m0I9I_MzVfA.jpg"/>
-    </item>
-    <item>
-      <title>Dette er Kveldstanker</title>
-      <description><![CDATA[Kveldstanker er programmet der kjente stemmer deler korte historier med deg. Personlige historier om noe som har hatt betydning for livet. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/66db729f-2070-4dd6-8186-b11396cf8c58_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/66db729f-2070-4dd6-8186-b11396cf8c58_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:52</itunes:duration>
-      <pubDate>Mon, 06 Nov 2023 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
     </item>
   </channel>
 </rss>
