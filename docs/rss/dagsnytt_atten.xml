@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 19:22:09 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Nov 2023 19:35:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2023 19:21:52 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Nov 2023 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>NRK trekker Bamsegutt-serien. </title>
+      <description><![CDATA[Kringkastingssjefen beklager at serien har blitt en påkjenning for familien, og gir en unnskyldning til familien og de fornærmede i saken fra 1991.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/08bab9fd-43d0-4719-8401-771077c698cf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/08bab9fd-43d0-4719-8401-771077c698cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:57</itunes:duration>
+      <pubDate>Wed, 22 Nov 2023 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NabO-17q13H4VeGUpRMW8gXQO6qpOBw1gzRf1w8eYyIQ.jpg"/>
+    </item>
     <item>
       <title>Våpen-deler produsert av norskeide-firmaer havner på Gaza.</title>
       <description><![CDATA[Våpen-deler produsert av norskeide-firmaer havner på Gaza.
@@ -112,17 +121,6 @@ Norsk skipsfart er verdensledende i det grønne skiftet, men det går akterover,
       <itunes:duration>58:48</itunes:duration>
       <pubDate>Thu, 09 Nov 2023 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WWKv1BrfF3C4M-vyGjLvfQWmv-bUBT052lxUWnaPdSFA.jpg"/>
-    </item>
-    <item>
-      <title>Klimamål, mobilforbud i skolen og Kristiansand kan bli splittet opp.</title>
-      <description><![CDATA[2023 kan bli det varmeste året noensinne.
-Norges bank bekymret for husholdningene.
-Regjeringen får flertall for å endre loven som kan føre til kommunesplittelse i Kristiansand.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/810ca80d-565e-42a0-833a-836d837929dd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/810ca80d-565e-42a0-833a-836d837929dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 08 Nov 2023 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MUFZSTfa-jQBzXWjNq_fhAaU4Et8p40556cICqPifHow.jpg"/>
     </item>
   </channel>
 </rss>
