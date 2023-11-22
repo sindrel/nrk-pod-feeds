@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 05:28:21 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2023 05:28:23 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Spørretime om personvern</title>
+      <description><![CDATA[Hva er det verste som kan skje når vi legger igjen spor på internett?  Ekspertene svarer om personvern og gir smarte nettråd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e3900598-3fbd-4563-8c1b-693bc7dae0cd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e3900598-3fbd-4563-8c1b-693bc7dae0cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:25</itunes:duration>
+      <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hs9yQoVcTW8fZdX8v7cx0wES7hyZC0pK6VTXidaT9u9g.jpg"/>
+    </item>
     <item>
       <title>Plastoptimisten</title>
       <description><![CDATA[Våre fjorder og strender er fulle av plastavfall. Ildsjelen Kenneth Bruvik  mobiliserer ungdom til å rydde og det nytter, viser forskning
@@ -94,15 +103,6 @@
       <itunes:duration>21:19</itunes:duration>
       <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/LPVN1uGhv9xogJiN6_WZ3gCGjonmPBnbaOf1VIxbqb0w.jpg"/>
-    </item>
-    <item>
-      <title>Unge menn får den ikke opp</title>
-      <description><![CDATA[Flere unge menn stresser med sex. Hvorfor det? Sexologen svarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/aee35e73-e57e-4d50-a62e-49007488e2a8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/aee35e73-e57e-4d50-a62e-49007488e2a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:53</itunes:duration>
-      <pubDate>Sat, 04 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Muw658aNkHcS8UUueCziCAGikimN9uCZU0YwanlVRW9A.jpg"/>
     </item>
   </channel>
 </rss>

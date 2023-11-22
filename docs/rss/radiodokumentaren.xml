@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Historier fra virkeligheten</title>
+    <title>De 4 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 13:28:46 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Nov 2023 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2023 05:28:59 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Nov 2023 06:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
@@ -18,6 +18,33 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a4bd1c59-661f-44f7-add7-1dbabf4c6147_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:41</itunes:duration>
       <pubDate>Tue, 21 Nov 2023 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NybySzklJjGK56fN-6wY4g0cjfvgazEXwvP_01O6DsYQ.jpg"/>
+    </item>
+    <item>
+      <title>Seierherrene - Taliban 2.0 (1:3)</title>
+      <description><![CDATA[Anders Hammer går i fotsporene til norske soldater i Nord-Afghanistan, og blir truet med henrettelse på veien til Kabul.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/54e8468a-01e5-44b0-8b79-ce64eba820bb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/54e8468a-01e5-44b0-8b79-ce64eba820bb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:14</itunes:duration>
+      <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NybySzklJjGK56fN-6wY4g0cjfvgazEXwvP_01O6DsYQ.jpg"/>
+    </item>
+    <item>
+      <title>Kvinner risikerer alt - Taliban 2.0 (2:3)</title>
+      <description><![CDATA[Kvinner som nekter å innordne seg Talibans nye regler, blir banket og arrestert. Det blir også Anders Hammer. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/74e4a9c5-7f90-48b4-9d15-6b91467901a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/74e4a9c5-7f90-48b4-9d15-6b91467901a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:28</itunes:duration>
+      <pubDate>Wed, 22 Nov 2023 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NybySzklJjGK56fN-6wY4g0cjfvgazEXwvP_01O6DsYQ.jpg"/>
+    </item>
+    <item>
+      <title>Fundamentalist på første klasse - Taliban 2.0 (3:3)</title>
+      <description><![CDATA[Taliban-toppene hentes til Norge i privatfly, og nekter for bruk av vold og trusler. Men fra Afghanistan kommer andre historier. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/d829ae14-29f9-4901-8b43-85b9d17dcdc3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d829ae14-29f9-4901-8b43-85b9d17dcdc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:06</itunes:duration>
+      <pubDate>Wed, 22 Nov 2023 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NybySzklJjGK56fN-6wY4g0cjfvgazEXwvP_01O6DsYQ.jpg"/>
     </item>
   </channel>

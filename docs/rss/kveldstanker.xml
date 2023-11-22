@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 05:28:37 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2023 05:28:41 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Ole Gunnar Solskjær - med Anja Cecilie Solvik</title>
+      <description><![CDATA[Hun startet Bunadsgeriljaen for å redde sykehuset i Kristiansund. Uten at han visste det, var Ole Gunnar Solskjær grunnen til at hun torde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/f76e1580-fee5-43d5-9b91-1c414ba233e7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/f76e1580-fee5-43d5-9b91-1c414ba233e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:42</itunes:duration>
+      <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f3puQlccuduLTAYfUkjuUgBF4UpQWPqDGbzpXkHWyTtg.jpg"/>
+    </item>
     <item>
       <title>Mørkredd på rektors kontor - Are Sende Osen</title>
       <description><![CDATA[Programleder og forfatter Are Sende Osen skal overnatte på en gammel skole. Helt alene. Dessverre er ateisten skrekkelig mørkredd. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:29</itunes:duration>
       <pubDate>Tue, 07 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/M1XgDjniI45hY3XVrVx04AnjpSGgFd6FSbKQtj4Ttp5A.jpg"/>
-    </item>
-    <item>
-      <title>Går det bra? - med Sofie Frøysaa</title>
-      <description><![CDATA[Hun har mistet utallige busser fordi hun bare måtte vaske badet på nytt. Komiker og aktivist Sofie Frøysaa trengte hjelp mot bakteriefobien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/be2db45f-20e8-4d27-a2d2-06450372a29e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/be2db45f-20e8-4d27-a2d2-06450372a29e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:46</itunes:duration>
-      <pubDate>Mon, 06 Nov 2023 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FrA7gCe_TaRYcKzQvovRhQmrdEQa8LMo7m0I9I_MzVfA.jpg"/>
     </item>
   </channel>
 </rss>
