@@ -7,13 +7,24 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Nov 2023 12:45:09 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Nov 2023 13:35:00 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Nov 2023 05:27:44 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
     <item>
+      <title>#367 Bob Bradley</title>
+      <description><![CDATA[Stabæk-trener Bob Bradley forteller om tida i Egypt under den arabiske våren, Bruce Springsteen og hvorfor han trives så godt i Norge!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/0c2c6bb3-30cc-438d-89c8-59d1fa8bea56_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/0c2c6bb3-30cc-438d-89c8-59d1fa8bea56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:16:28</itunes:duration>
+      <pubDate>Thu, 23 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-1MaXeBcLb4N-r-jt6F64wiDkn-Hn0QSvplOXdDwMV6g.jpg"/>
+    </item>
+    <item>
       <title>Snakkis: Cupfinale-spesial!</title>
-      <description><![CDATA[Det er cupfinale-feber i Snakkis denne uka og Sven og Tete har med seg Anna Jøsendal fra RBK og Olaug Tvedten fra Vålerenga i panelet!]]></description>
+      <description><![CDATA[Panelet snakker om signaturretter, samboerskap, stikket fra Olaug Tvedten til RBK etter seriegullet og hvem som vinner cupfinalen!
+
+I panelet: Sven Bisgaard Sundet, Tete Lidbom, Olaug Tvedten og Anna Jøsendal]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/10ca1ba3-89f3-4e4a-9b75-15345a98660d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/heia_fotball/10ca1ba3-89f3-4e4a-9b75-15345a98660d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:00</itunes:duration>
@@ -100,15 +111,6 @@ I panelet: Sven Bisgaard Sundet, Tete Lidbom og Aleksander Schau]]></description
       <itunes:duration>50:14</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
-    </item>
-    <item>
-      <title>#362 Marius Helgå</title>
-      <description><![CDATA[Banehopper Marius Helgå har besøkt mer enn 600 norske fotballbaner og forteller hvorfor du må dra til Jurij Gagarin stadion på Svalbard!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/4765f41a-c0f0-47b2-9e78-b49dec9ffbd1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/4765f41a-c0f0-47b2-9e78-b49dec9ffbd1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:16:29</itunes:duration>
-      <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Yowo-NpVB-AQp5oCRlsioQrKFf8VLzKQaJizUMaCtRgg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 22 Nov 2023 05:28:41 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Nov 2023 05:27:49 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Thanksgiving på trøndersk - Kristin N. Mork</title>
+      <description><![CDATA[Hvert år samles storfamilien for å takke og spise kalkun. Hvis kalkunen blir ferdig. Kristin Nordvoll Mork er podkastprodusent og komiker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d148254c-75b4-48bc-aebf-a5b80078fbd4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d148254c-75b4-48bc-aebf-a5b80078fbd4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:39</itunes:duration>
+      <pubDate>Thu, 23 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YHOQbH3LpG5zI_mVkDS5pQyHNOm6rj1p31KjUtMvKbCQ.jpg"/>
+    </item>
     <item>
       <title>Ole Gunnar Solskjær - med Anja Cecilie Solvik</title>
       <description><![CDATA[Hun startet Bunadsgeriljaen for å redde sykehuset i Kristiansund. Uten at han visste det, var Ole Gunnar Solskjær grunnen til at hun torde.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:19</itunes:duration>
       <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/t_-Ul8NUWGDpf6_vvil8BQLz1XwasLjoHYt_477AQlsQ.jpg"/>
-    </item>
-    <item>
-      <title>Begravelsessangeren - med Trygve Skaug </title>
-      <description><![CDATA[Han spiller for både levende og døde. Når musiker og poet Trygve Skaug spiller i begravelser, er det musikken han kan trøste med.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/edecc40d-6c9d-4be7-b462-b770da48a231_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/edecc40d-6c9d-4be7-b462-b770da48a231_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:29</itunes:duration>
-      <pubDate>Tue, 07 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/M1XgDjniI45hY3XVrVx04AnjpSGgFd6FSbKQtj4Ttp5A.jpg"/>
     </item>
   </channel>
 </rss>
