@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 22 Nov 2023 05:28:23 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 24 Nov 2023 05:27:32 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Dramaet bak Oslo-avtalen</title>
+      <description><![CDATA[Norge overrumplet en hel verden. Mona Juul fikk israelerne og palestinerne til å se hverandre som mennesker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/24e1688b-c6d3-46f8-82b4-c29ce8f24a00_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/24e1688b-c6d3-46f8-82b4-c29ce8f24a00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:22</itunes:duration>
+      <pubDate>Fri, 24 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yXPleesRpwiYIOoMTVbtewCZ-EVPamGZ8CfzstkEpi-g.jpg"/>
+    </item>
     <item>
       <title>Spørretime om personvern</title>
       <description><![CDATA[Hva er det verste som kan skje når vi legger igjen spor på internett?  Ekspertene svarer om personvern og gir smarte nettråd.]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/IAHm25P5tOYo86RGznkgLgnWGE7cizUtIyHnwLR6spkw.jpg"/>
-    </item>
-    <item>
-      <title>KI-influensere: Ekte venner? </title>
-      <description><![CDATA[De har fjes og stemme til kjente personer, men er laget av kunstig intelligens. Forstår vi hva som er ekte? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a913f803-5703-4fcc-a62a-f0837ef1c983_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a913f803-5703-4fcc-a62a-f0837ef1c983_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:19</itunes:duration>
-      <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LPVN1uGhv9xogJiN6_WZ3gCGjonmPBnbaOf1VIxbqb0w.jpg"/>
     </item>
   </channel>
 </rss>
