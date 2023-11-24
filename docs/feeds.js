@@ -500,6 +500,12 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "klassequizen",
+    "title": "De 10 siste fra Klassequizen",
+    "season": "LATEST_SEASON",
+    "enabled": true
+  },
+  {
     "id": "klassikere_fra_p3-arkivet",
     "title": "De 23 siste fra Klassikere fra P3-arkivet",
     "season": null,
