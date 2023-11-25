@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-11-25  
+- Updated podcast 'Radio Utslagsnes' (`radio_utslagsnes`)  
 ### 2023-11-24  
 - Added podcast 'Klassequizen' (`klassequizen`)  
 ### 2023-11-15  
