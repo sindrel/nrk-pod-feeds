@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 19 Nov 2023 05:26:59 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 26 Nov 2023 05:26:42 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Steinar Klouman Hallert</title>
+      <description><![CDATA[Steinar har tatt på seg brennmanet-kostyme og forteller om fiskesamlingen sin, "street-magic", og en geit i bånd, når Else kommer på besøk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/7feb1694-9632-4fee-98c0-00d7b46f4808_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/7feb1694-9632-4fee-98c0-00d7b46f4808_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:02</itunes:duration>
+      <pubDate>Sun, 26 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dpWwMMC75QqAldqKgqi4XwePfnZ2JMhj7ODsfXLI4v0w.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Kurt Nilsen</title>
       <description><![CDATA[Kurt Nilsen viser frem hjemmestudio, gitarene, pick-up-trucken og huset i Lier når Else kommer på søndagsbesøk. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>46:59</itunes:duration>
       <pubDate>Sun, 24 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NIPLXdafLy3AFPU2m-VSqwnuzIjauN1mIoBklRUbERbg.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Kaizers Orchestra</title>
-      <description><![CDATA[Kaizers Orchestra er samlet i Oslo, og snakker med Else om diva-nykker, en hentesveis og en kjempestor kjæledyrsnegle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/4ba25a57-fa19-4f72-aa87-acff1682058b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/4ba25a57-fa19-4f72-aa87-acff1682058b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:55</itunes:duration>
-      <pubDate>Sun, 17 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-Qq3ft3WuodxBj-KnXlwNQumQEIAat2-BERqwgduC47w.jpg"/>
     </item>
   </channel>
 </rss>
