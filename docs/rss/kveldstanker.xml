@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Nov 2023 05:27:49 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2023 05:28:02 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Punker med bolleklipp - med Jonas Skybakmoen</title>
+      <description><![CDATA[På gutterommet venta han på at livet skulle begynne. Så en dag, kom punken til Fossegrenda. Jonas Skybakmoen er journalist og musiker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9a79d49a-5bad-44d0-848b-47dfd338bac9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9a79d49a-5bad-44d0-848b-47dfd338bac9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:38</itunes:duration>
+      <pubDate>Mon, 27 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fk8D6xIf4tvkYc6wKBGW4AB_q9NRG-P3fzvlqEORIIIg.jpg"/>
+    </item>
     <item>
       <title>Thanksgiving på trøndersk - Kristin N. Mork</title>
       <description><![CDATA[Hvert år samles storfamilien for å takke og spise kalkun. Hvis kalkunen blir ferdig. Kristin Nordvoll Mork er podkastprodusent og komiker.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:22</itunes:duration>
       <pubDate>Thu, 09 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OYCOYpEFVqltLESKcqOodQheMFwj1cvgFR3lXu4yX_FQ.jpg"/>
-    </item>
-    <item>
-      <title>Venninnebruddet - med Hanan Abdelrahman</title>
-      <description><![CDATA[Hun fikk en venninne hun delte alt med, i hundrevis av meldinger. Så ble hun ghostet. Hanan Abdelrahman er mattelærer og samfunnsdebattant.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/edaf3fbd-2bda-42cb-9fe2-c86b9757c561_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/edaf3fbd-2bda-42cb-9fe2-c86b9757c561_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:19</itunes:duration>
-      <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/t_-Ul8NUWGDpf6_vvil8BQLz1XwasLjoHYt_477AQlsQ.jpg"/>
     </item>
   </channel>
 </rss>
