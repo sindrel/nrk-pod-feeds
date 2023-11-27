@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 24 Nov 2023 19:22:32 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Nov 2023 19:40:00 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2023 19:22:03 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Nov 2023 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Ungdomskriminalitet</title>
+      <description><![CDATA[Ap-topp mener Høyres satsing mot ungdomskriminalitet er en valgkampbløff. Hadia Tadjik møter Oslos nye byrådsleder til debatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c0cab457-2fdc-48a4-b422-05cc8a06d873_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c0cab457-2fdc-48a4-b422-05cc8a06d873_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 27 Nov 2023 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ptxjSt3eql-hnSutlzHWLQaFi7f_95c1Y-s7fupF7W3w.jpg"/>
+    </item>
     <item>
       <title>Foreslår å forby russegensere.</title>
       <description><![CDATA[Diskusjon om tiltak for å hindre utenforskap og ekskludering i russetiden.]]></description>
@@ -101,20 +110,6 @@ Saudi-Arabia eneste kandidat til fotball-VM i 2034
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 14 Nov 2023 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xh_ax3sjp13kmS6oQMJrPgR4cUb4rPeJLDH_E43R8f8w.jpg"/>
-    </item>
-    <item>
-      <title>Erna Solberg, krav om lærerutdanning og dyrere mat</title>
-      <description><![CDATA[Erna Solberg blir sittende.
-
-Utvalg vil avvikle eksamen i 10. klasse.
-
-Småbrukarlaget mener maten vår bør bli dyrere.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c74657d9-aca8-4ca5-915b-b33cdd62d271_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c74657d9-aca8-4ca5-915b-b33cdd62d271_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 13 Nov 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HlZuLEO_ook1TrS98HbCaAx0Oc9AZqMesbmFGIux6AgA.jpg"/>
     </item>
   </channel>
 </rss>
