@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 26 Nov 2023 05:26:23 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2023 05:27:42 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Edvard Hoem og Brageprisvinnerne</title>
+      <description><![CDATA[Sakprosa for barn, en båttur til døden og siste (?) bok i Hoems familie-krønike er ukas Åpen bok: Kritikerne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/68492d7e-9630-4306-8f90-bd996ef80c21_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/68492d7e-9630-4306-8f90-bd996ef80c21_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:36</itunes:duration>
+      <pubDate>Tue, 28 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2cNkFG2u6vjQ5Zt5UZJ4fwqPMBpaFXqjDZIbxSa5UoVw.jpg"/>
+    </item>
     <item>
       <title> Geir Gulliksen ville ikke være mann</title>
       <description><![CDATA[– Når jeg skjønte hvordan menn gjennom historien har vært, ville jeg heller være kvinne, forteller Gulliksen i Forfatterintervjuet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Tue, 17 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WQCJI-8rIsthH5B5cskf_QW3bG6ReWrxD283vQStEx1g.jpg"/>
-    </item>
-    <item>
-      <title>Bli med inn i Jon Fosses lysende mørke</title>
-      <description><![CDATA[Jon Fosse vant Nobelprisen i litteratur 2023. Kritikerne tar for seg fire verk, og forteller historien om Fosse. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/ac2f7f7b-7233-4df1-8543-ff73164fd6ed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/ac2f7f7b-7233-4df1-8543-ff73164fd6ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Fri, 06 Oct 2023 07:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5Hbrjt2n3El8L-byseOWBwhMhwV9BN9kUWSDHnhMoiZg.jpg"/>
     </item>
   </channel>
 </rss>
