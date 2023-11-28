@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Nov 2023 19:22:03 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Nov 2023 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2023 19:22:03 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Nov 2023 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Toppmøte i Nato</title>
+      <description><![CDATA[Nato-landene er enige om å anskaffe seks nye fly for å erstatte eldre overvåkingsfly.
+USAs utenriksminister Antony Blinken og hans norske kollega Espen Barth Eide hadde samtaler under Natos toppmøte i Brussel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ff040300-4cb5-47d6-807a-b0bd8ae0a4d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ff040300-4cb5-47d6-807a-b0bd8ae0a4d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 28 Nov 2023 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E-L2GjKfRmDIDpiYXGkjaA8tTu6ZgrSyfYIKo1qKDuxA.jpg"/>
+    </item>
     <item>
       <title>Ungdomskriminalitet</title>
       <description><![CDATA[Ap-topp mener Høyres satsing mot ungdomskriminalitet er en valgkampbløff. Hadia Tadjik møter Oslos nye byrådsleder til debatt.]]></description>
@@ -98,18 +108,6 @@ Norske borgere har kommet ut av Gaza.
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 15 Nov 2023 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OfMcK8g5HD-8kfZ72Z0RbATer9iAin0CdbaVXsF2bHZQ.jpg"/>
-    </item>
-    <item>
-      <title>Palestina-støtte, Ukraina og fotball-VM</title>
-      <description><![CDATA[Palestina-avstemning utsettes
-Venstre kritiserer Ukraina-støtte
-Saudi-Arabia eneste kandidat til fotball-VM i 2034
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6c277e35-112b-4568-b437-4b826ec40122_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6c277e35-112b-4568-b437-4b826ec40122_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 14 Nov 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xh_ax3sjp13kmS6oQMJrPgR4cUb4rPeJLDH_E43R8f8w.jpg"/>
     </item>
   </channel>
 </rss>
