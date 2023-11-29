@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Nov 2023 05:27:51 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2023 05:27:47 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Spørretime om pensjon</title>
+      <description><![CDATA[Hvor tidlig bør jeg egentlig begynne å spare til pensjon? Ekspertene svarer lytterne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/31563f85-82d0-4c98-b016-74e93b158e8e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/31563f85-82d0-4c98-b016-74e93b158e8e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:31</itunes:duration>
+      <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/72dA-YBl6gxoJAx8qoXeoAB8jXvdTQHoqzPwbR7X4adA.jpg"/>
+    </item>
     <item>
       <title>Hva er greia med Helseplattformen?</title>
       <description><![CDATA[Leger og sykepleiere går i fakkeltog for å skrote den, og Helsetilsynet mener den truer sikkerheten. Hva er egentlig Helseplattformen? ]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>17:08</itunes:duration>
       <pubDate>Tue, 14 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/89yZ8QXoXjaQ4m4PC_71Aw3tIlKnjCzkbZuNJ26Yr3lA.jpg"/>
-    </item>
-    <item>
-      <title>Krig og sosiale medier</title>
-      <description><![CDATA[Krigen i Midtøsten berører og engasjerer mange, men er vi nødt til å fortelle hva vi mener i sosiale medier?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d103a28b-5a5c-48f0-a08d-eb87774393eb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d103a28b-5a5c-48f0-a08d-eb87774393eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:23</itunes:duration>
-      <pubDate>Thu, 09 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/V1r7YWERIXX-5KDtbKgYBQbPIWrH5p6Jh9ewVcA9Phbg.jpg"/>
     </item>
   </channel>
 </rss>

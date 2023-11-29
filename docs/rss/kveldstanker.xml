@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 Nov 2023 05:27:55 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2023 05:28:01 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Outsider - med Milie Engueleguele Birkelund</title>
+      <description><![CDATA[Hun hadde ingen venner, hun var outsideren som gjemte seg. Helt til Mats kom. Milie Engueleguele Birkelund er programleder i Unormal på NRK.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3bffa142-e0b0-4dd8-94e2-0cd776c84679_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3bffa142-e0b0-4dd8-94e2-0cd776c84679_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:03</itunes:duration>
+      <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IKU060wJeWsuWDTajHJHBAYGfFLyjwWhmRHZR34GpFsA.jpg"/>
+    </item>
     <item>
       <title>Å sove ute på Aker Brygge - med Sofie Frøysaa</title>
       <description><![CDATA[Hun mister siste båt hjem, sovner ute i vinterkulda - og blir tatt for å være hjemløs. Sofie Frøysaa er komiker og forfatter.  ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:46</itunes:duration>
       <pubDate>Tue, 14 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iKvY9RxSHE4mYwEMQcyv_wAn_s0ze3IQPpxfikTD9aLA.jpg"/>
-    </item>
-    <item>
-      <title>Du ser ut som en banditt! - med Sumeet Singh</title>
-      <description><![CDATA[Han startet Turbandagen og er inkluderingssjef i Schibsted. Men Sumeet Singh torde ikke å gå med turban før én dag i militæret endret alt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/70b34432-f34d-4491-8e3e-a1a3b278f7a5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/70b34432-f34d-4491-8e3e-a1a3b278f7a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:10</itunes:duration>
-      <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/efJ5ArBl4tbka2V14clhcwkLu-RQF3qmKyXpBXJ03u5A.jpg"/>
     </item>
   </channel>
 </rss>
