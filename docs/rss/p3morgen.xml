@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 Nov 2023 12:44:19 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Nov 2023 13:13:00 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2023 11:22:11 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Nov 2023 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Diaré på teppet </title>
+      <description><![CDATA[Jon Martin Henriksen vant "Forræder" og skal nå bli villmarkens sønn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7df625d9-49e8-4a5b-aca7-ce6acdaacc45_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7df625d9-49e8-4a5b-aca7-ce6acdaacc45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:15</itunes:duration>
+      <pubDate>Wed, 29 Nov 2023 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h3bmCxbV5Rqo-5hamOWJagPTpP1dn0ojwDCD7SNG-WAA.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Sofie har med overraskelse </title>
       <description><![CDATA[Vaktsjef Sofie er tilbake etter både tur og sykdom, og hun har selvsagt med snacks<3 Til stede: Tete, Adelina, Karsten, Sofie og Anna]]></description>
@@ -109,15 +118,6 @@ Glasur og pynt:
       <itunes:duration>33:23</itunes:duration>
       <pubDate>Wed, 22 Nov 2023 13:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/uKRQjnMMoDxqENzT3PZwCA_MfkphenzMIzv9JWwveE4Q.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan smaker svamp?</title>
-      <description><![CDATA[Besøk av Erik Follestad og Tete tvinger Adelina til å kjenne på svamp med tungen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/20b61ed8-9932-4328-9bf1-ee2e96fb3e57_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/20b61ed8-9932-4328-9bf1-ee2e96fb3e57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:14</itunes:duration>
-      <pubDate>Wed, 22 Nov 2023 13:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Tk-A74IMZMz6-an-8iyB7QVRu8mQRcKcNv-pjc_4xFdg.jpg"/>
     </item>
   </channel>
 </rss>
