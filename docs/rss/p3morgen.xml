@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Nov 2023 12:44:14 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Nov 2023 13:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 12:44:00 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 13:40:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Adelina fikk overraskelse </title>
+      <description><![CDATA[Snøfall 2 har premiere! Og Margit den uskikkelige hunden har gitt mamma en gave på teppet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f51c5b68-3ee2-478e-9bc9-468c4044cf96_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f51c5b68-3ee2-478e-9bc9-468c4044cf96_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:40</itunes:duration>
+      <pubDate>Thu, 30 Nov 2023 13:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v143twrpD7nQae1Wsclx-AjknZdKQZKoIYSWiEuwzJ8w.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Gjengen har vært på Pincho</title>
       <description><![CDATA[Vi tar en fot i bakken etter gårsdagens besøk på Hermans favorittrestaurant Pincho Nation. Pluss vi spoiler masse filmer (sorry). Tilstede: Adelina, Tete, Karsten, Herman, Egil og til slutt litt Johannes.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>44:29</itunes:duration>
       <pubDate>Thu, 23 Nov 2023 13:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Martin Lepperød skaper kaos</title>
-      <description><![CDATA[Martin Lepperød kommer innom for å snakke om "Førstemann", men det blir et evig surr. Vi tar også en tur innom fenomenet "sirkler av jul" med Markus Vangen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8d0675b9-7db1-4dc7-9fbc-4fd6095d4bde_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8d0675b9-7db1-4dc7-9fbc-4fd6095d4bde_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:22</itunes:duration>
-      <pubDate>Thu, 23 Nov 2023 13:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OkS3yrBddzVi0JGlK_mc2g7QgTQxxR3kouEa8oTtjmXQ.jpg"/>
     </item>
   </channel>
 </rss>
