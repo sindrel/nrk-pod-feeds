@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 12:44:00 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Nov 2023 13:40:00 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 13:31:11 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 13:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe Attåt: Promper i mikrofonen</title>
+      <description><![CDATA[Ja, du leste tittelen riktig. Men klarer du å gjette hvem det var? Tilstede: Adelina, Tete, Herman, Johannes og Anna.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1794e607-5f70-4d78-b27f-ffbe38359d12_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1794e607-5f70-4d78-b27f-ffbe38359d12_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:49</itunes:duration>
+      <pubDate>Thu, 30 Nov 2023 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EQ9jJSdH8TF-nQ4vWWViEQQvZzMTrtpArt9DHW0kCwGQ.jpg"/>
+    </item>
     <item>
       <title>Adelina fikk overraskelse </title>
       <description><![CDATA[Snøfall 2 har premiere! Og Margit den uskikkelige hunden har gitt mamma en gave på teppet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>55:17</itunes:duration>
       <pubDate>Fri, 24 Nov 2023 11:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/r0vch0-Dr4B9c3y1CDtjHwZ7K3rg6AK79WZuzm2Ib8cg.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Med Lepperød og Vangen</title>
-      <description><![CDATA[Adelina er alene og har invitert Martin Lepperød og Markus Vangen (produsenten i Dynga/Berrum og Beyer). Det blir strupesang, og en har et behov for å bli kansellert. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2efb8d0a-7366-4de1-9dab-8b2b6c744d40_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2efb8d0a-7366-4de1-9dab-8b2b6c744d40_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:29</itunes:duration>
-      <pubDate>Thu, 23 Nov 2023 13:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
