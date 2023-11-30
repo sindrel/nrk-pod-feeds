@@ -413,7 +413,7 @@ const feeds = [
     "id": "i_doedens_spor",
     "title": "De 10 siste fra I dødens spor",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "i_elsa_laulas_fotspor",
@@ -971,7 +971,9 @@ const feeds = [
     "id": "radioteatrets_paaskekrim",
     "title": "De 10 siste fra Mørke fortellinger",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "revolusjonen",
