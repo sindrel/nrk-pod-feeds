@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 05:27:54 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 05:27:48 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    <item>
+      <title>Rugelje</title>
+      <description><![CDATA[Anne har mer Skillebekk-nytt, Rune har blitt rørt på jobb og Halvor har utvidet vokabularet for håndtering av tørrvarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/c4f5d732-6782-4314-ac5c-25ca66695cea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/c4f5d732-6782-4314-ac5c-25ca66695cea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:02</itunes:duration>
+      <pubDate>Thu, 30 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
+    </item>
     <item>
       <title>Britt og Anita</title>
       <description><![CDATA[Anne presenterer sine alter egos. ]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/fe875ed6-6093-430c-be89-57b462fff39e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:18</itunes:duration>
       <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
-    </item>
-    <item>
-      <title>Dagsrot Atten</title>
-      <description><![CDATA[Rune, Anne og Halvor forsøker å dekke valget og lander med et mageplask.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ad26abea-4dc1-4f04-b46c-ed34dc6205cb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ad26abea-4dc1-4f04-b46c-ed34dc6205cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:14</itunes:duration>
-      <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dy7WmWLlHDk8xx2v5hcbyAwZRQig02ShIZ4OVRuEy6wQ.jpg"/>
     </item>
   </channel>

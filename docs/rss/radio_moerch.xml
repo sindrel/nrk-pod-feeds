@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Nov 2023 05:27:59 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 05:27:59 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Magnus Devold</title>
+      <description><![CDATA[Magnus Devold og jeg snakker om gamle Twitter-helter, humor og store karriereøyeblikk. Jeg svarer også på noen spørsmål fra dere. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/64415842-0c08-4df4-b05e-b621be2e6e20_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/64415842-0c08-4df4-b05e-b621be2e6e20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:13:19</itunes:duration>
+      <pubDate>Thu, 30 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/12T3AWVTi8EBY95xaD7X4A2X545cs2eRKWHv_ORlPSYQ.jpg"/>
+    </item>
     <item>
       <title>Nikolai Torgersen</title>
       <description><![CDATA[Nikolai Torgersen var hjemløs alkoholiker. I dag selger han kunst for titalls millioner.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:55:17</itunes:duration>
       <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EE0KguPUw12l5ijJpr6iwQTCbkPY2vavdhes0wd99TMw.jpg"/>
-    </item>
-    <item>
-      <title>Maria Stavang</title>
-      <description><![CDATA[Maria Stavang snakker om det perfekte liv og sexy DMs, og vi får en oppklaring i Bar Boca-hendelsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/b3d56d8b-64f1-4f53-8a2b-e725c113c58d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/b3d56d8b-64f1-4f53-8a2b-e725c113c58d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:10:18</itunes:duration>
-      <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AtPeFygCaBHLV7v0mnYW7grLW7qa9ITQCMbPGIDdAD9A.jpg"/>
     </item>
   </channel>
 </rss>
