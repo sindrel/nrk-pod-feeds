@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-11-30  
+- Updated podcast 'I dødens spor' (`i_doedens_spor`)  
+- Podcast 'Mørke fortellinger' is considered obsolete and will be ignored in the future (`radioteatrets_paaskekrim`)  
 ### 2023-11-25  
 - Updated podcast 'Radio Utslagsnes' (`radio_utslagsnes`)  
 ### 2023-11-24  
