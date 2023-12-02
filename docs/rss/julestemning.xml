@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 01 Dec 2023 12:09:46 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 02 Dec 2023 05:26:25 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Høyt hår og eggnogg</title>
+      <description><![CDATA[Live og Ronny inviterer til amerikansk juleselskap! Live har fått høyt hår, hun skiftet navn til Betty og det lages eggnog.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/577b49c3-eb7c-4eef-83ac-daffbc45aa62_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/577b49c3-eb7c-4eef-83ac-daffbc45aa62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:04</itunes:duration>
+      <pubDate>Sat, 02 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0MCzeRW4G0Dm-lf4W3z87wsEgO-6wOemKWg2o5cLx_Jg.jpg"/>
+    </item>
     <item>
       <title>En ekte juletradisjon</title>
       <description><![CDATA[Velkommen tilbake i julekottet, kjære lytter! For tredje år på rad. Nå er det en tradisjon! 
@@ -98,15 +107,6 @@ Podkasten er laget av Fenomen for NRK. ]]></description>
       <itunes:duration>41:57</itunes:duration>
       <pubDate>Sun, 18 Dec 2022 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2NYf9jW_z9gXKl-_SbieAgE8T-nlD5gGdAFn1M7PtBOA.jpg"/>
-    </item>
-    <item>
-      <title>Smør i hele kottet</title>
-      <description><![CDATA[Velkommen til Live og Ronnys julefrokost! Bordet i kottet er dekket, Ronny har bakt horn etter morens oppskrift, og Live skal lage eggerøre med en hemmelig ingrediens. Å piske smør viste seg å ikke være så lett, men stemningen er heldigvis på topp for det! Ronny har lyst til å dele ut en gift basket, blir du med på quiz?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/d3b6ca7f-495b-4b93-80d8-fc97d46e0907_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/d3b6ca7f-495b-4b93-80d8-fc97d46e0907_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:32</itunes:duration>
-      <pubDate>Sat, 17 Dec 2022 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9S7z7BKpBZ768Ze1lSC0-gVhJojqrcwwxpB1uQTmEpgg.jpg"/>
     </item>
   </channel>
 </rss>
