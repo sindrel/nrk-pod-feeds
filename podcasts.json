@@ -375,7 +375,7 @@
         "id": "hele_historien",
         "title": "De 10 siste fra Hele historien",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "historiske_kjendiser",
@@ -741,7 +741,7 @@
         "id": "musikkrommet",
         "title": "De 10 siste fra Musikkrommet",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "mysterier_fra_norge",

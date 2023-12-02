@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-12-02  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+- Updated podcast 'Musikkrommet' (`musikkrommet`)  
 ### 2023-11-30  
 - Updated podcast 'I dødens spor' (`i_doedens_spor`)  
 - Podcast 'Mørke fortellinger' is considered obsolete and will be ignored in the future (`radioteatrets_paaskekrim`)  
