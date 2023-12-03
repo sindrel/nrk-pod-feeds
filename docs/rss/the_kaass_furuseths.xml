@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 26 Nov 2023 05:26:42 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 03 Dec 2023 05:26:46 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Nicolay Ramm</title>
+      <description><![CDATA[Nicolay Ramm forteller om tiden som barnestjerne, hva kona blir irritert over, og om den gangen han tekstet henne fra en sykebil i Dubai. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/90386e87-a730-487a-bd1d-8189604fcd85_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/90386e87-a730-487a-bd1d-8189604fcd85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:29</itunes:duration>
+      <pubDate>Sun, 03 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/suB-Wb_Xk89VKE0aTGqkeAfRnMR2IiO-RYYnrTLeq2Fw.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Steinar Klouman Hallert</title>
       <description><![CDATA[Steinar har tatt på seg brennmanet-kostyme og forteller om fiskesamlingen sin, "street-magic", og en geit i bånd, når Else kommer på besøk.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>37:54</itunes:duration>
       <pubDate>Sun, 01 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/z_icWjpENXMH0lE5KaxFEw2vmG5wL2iqDMapFzuOngyA.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Aurora Gude </title>
-      <description><![CDATA[Aurora bor med to hunder, men har lovet seg selv å aldri eie ei ku. Hun finner frem tarot-kortene og anti-bucket-lista når Else besøker. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/18195fbf-1dd2-41db-a52b-9ae8919a61dc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/18195fbf-1dd2-41db-a52b-9ae8919a61dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:59</itunes:duration>
-      <pubDate>Sun, 24 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NIPLXdafLy3AFPU2m-VSqwnuzIjauN1mIoBklRUbERbg.jpg"/>
     </item>
   </channel>
 </rss>
