@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 01 Dec 2023 14:28:08 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Dec 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2023 12:43:44 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Dec 2023 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Da neandertalerne kom</title>
+      <description><![CDATA[Neandertalerne - Europas opprinnelig urbefolkning, døde ut for 30.000 år siden, men hvem var de og hvor kom de fra?
+Vi har pratet med forfatterne av boka ««Neandertal – folket som forsvant»
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4f594b33-366a-4895-a753-efd4f1cffc48_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4f594b33-366a-4895-a753-efd4f1cffc48_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:07</itunes:duration>
+      <pubDate>Sat, 02 Dec 2023 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/72W_TchgMyt4radKrTQmMAVWk8o5nvDMv-oS5XiRCacQ.jpg"/>
+    </item>
     <item>
       <title>Abels tårn - live fra Oslo Katedralskole</title>
       <description><![CDATA[- Hva er hensikten med de hormonfrie pillene på p-pillebrettet?
@@ -134,18 +145,6 @@ Og, vi tok pulsen på konflikten som ligger og vaker både under og over havflat
       <itunes:duration>28:56</itunes:duration>
       <pubDate>Sat, 04 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YY3Gl41HAy0KL3-7xvDeFgys8-ERtvD5mh9SGnzPBtoQ.jpg"/>
-    </item>
-    <item>
-      <title>Abels tårn - Kan neandertaler-gener vekkes til live?</title>
-      <description><![CDATA[Dette ekspertpanelet  svarer på spørsmål fra lytterne
-Evolusjonsbiolog Glenn-Peter Sætre
-Jordmikrobiolog Erik Joner
-Kvantefysiker Marianne Etzelmüller Bathen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/6a7e30c4-15f8-4ef1-b3f6-fb97e674b675_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6a7e30c4-15f8-4ef1-b3f6-fb97e674b675_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:46</itunes:duration>
-      <pubDate>Fri, 03 Nov 2023 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/72W_TchgMyt4radKrTQmMAVWk8o5nvDMv-oS5XiRCacQ.jpg"/>
     </item>
   </channel>
 </rss>
