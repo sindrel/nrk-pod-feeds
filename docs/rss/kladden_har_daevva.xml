@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Nov 2023 05:27:58 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2023 05:28:05 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Gucci-Gaute, "Hjelp" og fatterns nyre i boks</title>
+      <description><![CDATA[Gucci-Gaute hosta blod og mista synet, men han vil helst ikke være til bry.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/af3a9ffd-b8f0-4adc-b083-9e6a4a383644_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/af3a9ffd-b8f0-4adc-b083-9e6a4a383644_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:51</itunes:duration>
+      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HQWd8GghCBCJ6ftBU4X6fg-YBNhqz5QFeMdLMwDZ4nrA.jpg"/>
+    </item>
     <item>
       <title>Maria Stavangs dødsangstrekord</title>
       <description><![CDATA[Hvis dødsangst var en konkurranse hadde Maria vunnet. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:10:14</itunes:duration>
       <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/vm35FkWZFd_q4Z-3_ccNGQN22t8vzY3s5zWbYVZ5Yc0A.jpg"/>
-    </item>
-    <item>
-      <title>Emma Steinbakkens hverdagsfest</title>
-      <description><![CDATA[Emma vil helst ikke leve til hun blir hundre, bare til hun er mett. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/8a23d1cd-f015-4639-94d5-78e8e7859606_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/8a23d1cd-f015-4639-94d5-78e8e7859606_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:40</itunes:duration>
-      <pubDate>Mon, 02 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rxn4kZ3hI0QCkioW3No85AMKSBHAv60x0msSjo2WcuPA.jpg"/>
     </item>
   </channel>
 </rss>

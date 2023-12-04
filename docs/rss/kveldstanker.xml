@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 05:27:46 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2023 05:28:09 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Søstre - med Ragnhild Lund Andsnes</title>
+      <description><![CDATA[En medsøster kan dukke opp når du minst venter det. Hør journalist og forfatter Ragnhild Lund Ansnes om reisen som satte spor for livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/54f7fd52-bc8a-414f-864d-a477b75966f0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/54f7fd52-bc8a-414f-864d-a477b75966f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:27</itunes:duration>
+      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kUApGVyibugwfDYvJn3icwK6rJH6t9mjWAYUaCYa90fw.jpg"/>
+    </item>
     <item>
       <title>En smak av Hollywood - med Pål Plassen</title>
       <description><![CDATA[Han satt i billettluka på NSB da drømmedama dukket opp. Pen, rik og fra Hollywood. Hva betyr vel alder da? Journalist Pål Plassen forteller.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:24</itunes:duration>
       <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZLX07if5gkXR72ZJH2ZePAwlZQHGoNpafr5V45JBlGkw.jpg"/>
-    </item>
-    <item>
-      <title>Livet i Hundremeterskogen - med Helga Samset</title>
-      <description><![CDATA[Hver gang hun føler seg dum, prøver hun å dekke over. Forteller Helga Samset finner trøst i Ole Brumm - en bjørn med bare middels forstand. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/60a35cb5-59cc-4818-8e0e-621ab548e237_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/60a35cb5-59cc-4818-8e0e-621ab548e237_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:44</itunes:duration>
-      <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vmX5T-MwCvIp5WVoE3GJqwBq84ecoDG1mBT7SIk4vvfg.jpg"/>
     </item>
   </channel>
 </rss>

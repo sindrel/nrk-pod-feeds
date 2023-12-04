@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 03 Dec 2023 05:26:30 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2023 05:28:03 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Gjett grøten</title>
+      <description><![CDATA[Live har puttet noe i julegrøten som Ronny skal gjette hva er, og de avgjør om det er lov å gi pysj i gave til voksne mennesker. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/fc50a47b-1325-4eeb-aa9a-c9a7f5d276fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/fc50a47b-1325-4eeb-aa9a-c9a7f5d276fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:06</itunes:duration>
+      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wvHfOsLw1dsxjkiK0_UoAAzkLrEtQuiC6rSb_mgg5fig.jpg"/>
+    </item>
     <item>
       <title>Adventskonsert med No. 4</title>
       <description><![CDATA[Live og Ronny får ordentlig julestemning når det blir mini-julekonsert med bandet No. 4 i det lille kottet]]></description>
@@ -96,15 +105,6 @@ Podkasten er laget av Fenomen for NRK. ]]></description>
       <itunes:duration>34:55</itunes:duration>
       <pubDate>Tue, 20 Dec 2022 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GgMqoKX38wccaLx1v2yq1AynjMTfUj6ykNtxUmzR17aQ.jpg"/>
-    </item>
-    <item>
-      <title>Blinkende julelys</title>
-      <description><![CDATA[Live og Ronny er klare for å omfavne den siste uken i julekottet, og lurer på hva som er best – hvitt eller farget julelys? Ronny har merket seg at jul kan feires på de rareste steder, julemirakler blir delt i post i pipa, og det er Live sin tur til å ta hasselnøtt eller julesannhet på Ronny. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/42e26da8-704e-4006-af92-5173095d2db4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/42e26da8-704e-4006-af92-5173095d2db4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:56</itunes:duration>
-      <pubDate>Mon, 19 Dec 2022 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZZxq1QkPGVa81xWL4HxgfA4V4SFtYqT1Vdq3LZSYSr5w.jpg"/>
     </item>
   </channel>
 </rss>

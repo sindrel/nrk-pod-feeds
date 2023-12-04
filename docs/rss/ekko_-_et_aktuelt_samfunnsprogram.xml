@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Nov 2023 05:27:47 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2023 05:27:58 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Selvdiagnostiserer du deg?</title>
+      <description><![CDATA[Selvtester for psykiske lidelser har tatt helt av på sosiale medier. Kan vi stole på dem?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/270ca3ba-2c71-450d-abff-a7ff5ede08bc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/270ca3ba-2c71-450d-abff-a7ff5ede08bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:08</itunes:duration>
+      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_Wl8ESFtvg5ytqSsE6wGlAAbLNC3mfHt9Ebn5kwp3jjA.jpg"/>
+    </item>
     <item>
       <title>Spørretime om pensjon</title>
       <description><![CDATA[Hvor tidlig bør jeg egentlig begynne å spare til pensjon? Ekspertene svarer lytterne.]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>57:29</itunes:duration>
       <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/t_aoXfrh4u3uc6UQQHmaPQWqBBY1AZIMnWEHlsIxYM9g.jpg"/>
-    </item>
-    <item>
-      <title>På innsiden av psykiatrien</title>
-      <description><![CDATA[Hvordan er det å være psykiatrisk pasient? Marie Næss (28) forteller om sine ti år med selvskading og tvang, men også om verdighet og håp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c1d0298e-c172-4f22-8704-82d0d26f9058_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c1d0298e-c172-4f22-8704-82d0d26f9058_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:08</itunes:duration>
-      <pubDate>Tue, 14 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/89yZ8QXoXjaQ4m4PC_71Aw3tIlKnjCzkbZuNJ26Yr3lA.jpg"/>
     </item>
   </channel>
 </rss>
