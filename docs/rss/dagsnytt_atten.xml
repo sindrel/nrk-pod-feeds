@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 18:29:40 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Dec 2023 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 05 Dec 2023 19:22:13 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Dec 2023 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Frifinnelse i Tengs-saken</title>
+      <description><![CDATA[Påtalemyndigheten får kraftig kritikk etter at Johny Vassbakk ble frifunnet for Birgitte Tengs-drapet. Retten mener de har gått i bekreftelsesfella.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c186f45b-8100-4145-bd53-7042399b3c7b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c186f45b-8100-4145-bd53-7042399b3c7b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 05 Dec 2023 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Er00rq9yv-bNWBGOW84tDQjyQRpTf6K4UhLk1U1ZvmPQ.jpg"/>
+    </item>
     <item>
       <title>NHO misfonøyd med statsbudsjett</title>
       <description><![CDATA[NHO reagerer på at regjeringen ikke gjør mer med arbeidsgiveravgiften]]></description>
@@ -94,17 +103,6 @@ USAs utenriksminister Antony Blinken og hans norske kollega Espen Barth Eide had
       <itunes:duration>58:57</itunes:duration>
       <pubDate>Wed, 22 Nov 2023 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NabO-17q13H4VeGUpRMW8gXQO6qpOBw1gzRf1w8eYyIQ.jpg"/>
-    </item>
-    <item>
-      <title>Våpen-deler produsert av norskeide-firmaer havner på Gaza.</title>
-      <description><![CDATA[Våpen-deler produsert av norskeide-firmaer havner på Gaza.
-Hvordan skal KI brukes i skolen?
-Og påstand om at Oslo er Vestlandets viktigste by.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b5165f48-217f-469d-870d-a74c6222b97a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b5165f48-217f-469d-870d-a74c6222b97a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:54</itunes:duration>
-      <pubDate>Tue, 21 Nov 2023 19:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/V5QnOMA3ulDMdFpIbRw3PwWbwtL8kWDiAyISCB0KepRA.jpg"/>
     </item>
   </channel>
 </rss>
