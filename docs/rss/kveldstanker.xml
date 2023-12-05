@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 05:28:09 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 05 Dec 2023 05:28:38 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Uforglemmelig Twist - med Helga Samset</title>
+      <description><![CDATA[Hva er en god gjerning? Knut Arild ga Ragnhild en Twist-pose på 90-tallet, og hun snakker fremdeles om den. Her er forteller Helga Samset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/6a25f1ae-bb36-45dd-8693-fd48ccd5fd5c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/6a25f1ae-bb36-45dd-8693-fd48ccd5fd5c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:46</itunes:duration>
+      <pubDate>Tue, 05 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OjrDCuQJ6MZqSiZig3FpUggO_CiXiCnd83QvPrhcZ3ZA.jpg"/>
+    </item>
     <item>
       <title>Søstre - med Ragnhild Lund Andsnes</title>
       <description><![CDATA[En medsøster kan dukke opp når du minst venter det. Hør journalist og forfatter Ragnhild Lund Ansnes om reisen som satte spor for livet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:37</itunes:duration>
       <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y-IphvmIwnVgOa9lyIqqDgFmTXBRq8F4xzCumUx5nfpw.jpg"/>
-    </item>
-    <item>
-      <title>Den ukjente guden - med Trygve Skaug</title>
-      <description><![CDATA[På ferie i Aten står musiker Trygve Skaug i mylderet av romerske soldater med toga og plasthjelmer. Men Trygve leter etter spor fra fortida.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/c82c229b-9846-41af-9a72-9d568fc0ae82_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/c82c229b-9846-41af-9a72-9d568fc0ae82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:24</itunes:duration>
-      <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZLX07if5gkXR72ZJH2ZePAwlZQHGoNpafr5V45JBlGkw.jpg"/>
     </item>
   </channel>
 </rss>
