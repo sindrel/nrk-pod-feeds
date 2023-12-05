@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 05 Dec 2023 11:22:10 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Dec 2023 11:44:00 +0100</pubDate>
+    <lastBuildDate>Tue, 05 Dec 2023 12:44:13 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Dec 2023 13:20:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Drøye rampenissestreker</title>
+      <description><![CDATA[Vi ringer Martin for å høre høydepunkter fra fjorårets rampenisse. Anna er trøtt, Adelina har rullet inn teppe, Johannes er nervøs og Karsten spiser god mat. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/662ac0e8-5879-4c33-9a50-d29703c8cf8d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/662ac0e8-5879-4c33-9a50-d29703c8cf8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:33</itunes:duration>
+      <pubDate>Tue, 05 Dec 2023 13:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Christian Strands rørende adopsjonshistorie</title>
       <description><![CDATA[Karsten øver på Ultramaraton, og vi får besøk av vår kollega i NRK Christian Strand som har laget serien "Gitt bort".]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:00:15</itunes:duration>
       <pubDate>Wed, 29 Nov 2023 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/h3bmCxbV5Rqo-5hamOWJagPTpP1dn0ojwDCD7SNG-WAA.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Sofie har med overraskelse </title>
-      <description><![CDATA[Vaktsjef Sofie er tilbake etter både tur og sykdom, og hun har selvsagt med snacks<3 Til stede: Tete, Adelina, Karsten, Sofie og Anna]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8771c35c-ec08-4af8-b619-2d2c6543b00f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8771c35c-ec08-4af8-b619-2d2c6543b00f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:39</itunes:duration>
-      <pubDate>Tue, 28 Nov 2023 13:13:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
