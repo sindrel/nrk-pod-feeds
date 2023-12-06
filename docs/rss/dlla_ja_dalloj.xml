@@ -1,19 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Dálla ja dalloj</title>
+    <title>De 8 siste fra Dálla ja dalloj</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Dálla ja dalloj. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/dlla_ja_dalloj for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Dálla ja dalloj. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/dlla_ja_dalloj for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Nov 2023 05:27:44 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Dec 2023 05:28:10 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/R9v-zpiM4CbusgxB8A23gwmzgu5J429R5oit4kpu-g5A.jpg"/>
     <item>
+      <title>Dåssju birek gå áhttjes jámij</title>
+      <description><![CDATA[Áhttjes hæhkkat jámij gå Sigmund lij gietja jagák. Uddni sån dan birra rabás mielajn giehttu.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dlla_ja_dalloj/5af9d132-4a55-4efa-8800-e47aef6208da_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/5af9d132-4a55-4efa-8800-e47aef6208da_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:42</itunes:duration>
+      <pubDate>Wed, 06 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Lmy8qIPodrcPce3RWlnsnQaJjDaId1TMgDxr6SNeE2Iw.jpg"/>
+    </item>
+    <item>
       <title>Dålusj láddim ja hæsstafámo</title>
-      <description><![CDATA[Mareno dal diehtá láddimájggge la barggoájgge, avta giese láddijin 900kg ja hæssta lij tjabu viehkken.]]></description>
+      <description><![CDATA[Mareno dal diehtá láddimájgge la barggoájgge, avta giese láddijin 900 kg ja hæssta lij tjabu viehkken.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/dlla_ja_dalloj/db811105-f08a-42fa-8140-d0c91185e9a6_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/db811105-f08a-42fa-8140-d0c91185e9a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:07</itunes:duration>
