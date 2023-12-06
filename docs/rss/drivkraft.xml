@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 05 Dec 2023 13:28:03 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Dec 2023 14:10:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Dec 2023 14:28:31 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Dec 2023 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Inga Bejer Engh</title>
+      <description><![CDATA[Barneombudet om ungdomskriminalitet, barnevernet og 6-åringen hun aldri glemmer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b1718dca-60ea-4787-a770-bf5c1a5b1481_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b1718dca-60ea-4787-a770-bf5c1a5b1481_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Wed, 06 Dec 2023 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Eew_OKEW0eQyh6fLPBSq3gSL4j3dpkWkfp4PandQZrUA.jpg"/>
+    </item>
     <item>
       <title>John Hammersmark</title>
       <description><![CDATA[Kapteinen i Kompani Lauritzen mener flere burde utsette seg selv for frykt]]></description>
@@ -95,15 +104,6 @@
       <itunes:duration>56:52</itunes:duration>
       <pubDate>Tue, 14 Nov 2023 14:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ziJ3Tjvntl-vlSshNkX_FAwegRarrbgqpZkqv8h9_pSg.jpg"/>
-    </item>
-    <item>
-      <title>Jan Arild Snoen</title>
-      <description><![CDATA[Samfunnsdebattanten er optimist: - Jeg kommer til å vinne, men ikke før jeg er død.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/048c00a6-0960-415c-b7e2-2e283da05f25_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/048c00a6-0960-415c-b7e2-2e283da05f25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Thu, 09 Nov 2023 16:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/P0ruWbl1f8waocCQgzNt0Q7P13w9dwNoWb0TXSBBAhdg.jpg"/>
     </item>
   </channel>
 </rss>
