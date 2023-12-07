@@ -1,34 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Hele historien</title>
+    <title>De 4 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Nov 2023 05:27:06 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Dec 2023 07:22:36 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Dec 2023 06:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer i NRK Radio: Drapsmann på døra</title>
-      <description><![CDATA[En psykotisk mann tar seg inn i en tilfeldig leilighet i Oslo og dreper en 24 år gammel mann. Det blir starten på en politijakt gjennom Europa. Kommer 2.11.23 i NRK Radio. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/fe0a3e06-0c34-4aa9-bb25-6b7c776a8084_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/fe0a3e06-0c34-4aa9-bb25-6b7c776a8084_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:45</itunes:duration>
-      <pubDate>Wed, 01 Nov 2023 13:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zF8gT1yFsCZVguOuLMQ8eQ9MfaaORX97C6uZLFM0yCNw.jpg"/>
+      <title>Kommer i NRK Radio: Begravd i snøen</title>
+      <description><![CDATA[Vinteren 2015 knuser et enormt snøskred 11 bolighus midt i Longyearbyen. Nå starter en desperat kamp for å redde dem som ligger begravd i snøen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/7bd6cb06-504e-4281-a9cf-a3f4350a5329_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/7bd6cb06-504e-4281-a9cf-a3f4350a5329_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07</itunes:duration>
+      <pubDate>Wed, 06 Dec 2023 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TogLFC0ViDg0DPhME11FjgAZkTF1Zjlmh4arswJ1muXg.jpg"/>
     </item>
     <item>
-      <title>Drapsmann på døra</title>
-      <description><![CDATA[En vanlig formiddag dukker en ukjent mann opp på døra til Heikki Paltto. Han har kniv og er desperat. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/8da93fec-db16-4705-af2d-2066cb23dbe5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/8da93fec-db16-4705-af2d-2066cb23dbe5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:22</itunes:duration>
-      <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zF8gT1yFsCZVguOuLMQ8eQ9MfaaORX97C6uZLFM0yCNw.jpg"/>
+      <title>Skredet -  Begravd i snøen (1:3)</title>
+      <description><![CDATA[Rett før jul raser 5000 tonn snø inn i et boligområde i Longyearbyen. Noen våkner uten klær, andre finner ikke barna sine.  
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/4fc2b081-c1e7-4799-af22-28ff3745bfe6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/4fc2b081-c1e7-4799-af22-28ff3745bfe6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:41</itunes:duration>
+      <pubDate>Thu, 07 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TogLFC0ViDg0DPhME11FjgAZkTF1Zjlmh4arswJ1muXg.jpg"/>
+    </item>
+    <item>
+      <title> Leteaksjonen - Begravd i snøen (2:3)</title>
+      <description><![CDATA[To små barn er blant de savnede i skredet. Over hundre frivillige leter desperat for å finne alle som ligger begravd i snømassene
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/5725f6f4-3cae-4da0-bb87-c74111fc2d0d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/5725f6f4-3cae-4da0-bb87-c74111fc2d0d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:53</itunes:duration>
+      <pubDate>Thu, 07 Dec 2023 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TogLFC0ViDg0DPhME11FjgAZkTF1Zjlmh4arswJ1muXg.jpg"/>
+    </item>
+    <item>
+      <title>Oppgjøret -  Begravd i snøen (3:3)</title>
+      <description><![CDATA[De som er savnet i skredet er funnet, men ikke alle overlever. Etterpå kommer kritikken: Hvorfor bor det folk i et skredfarlig område?  
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/7da20fd5-709e-474d-8519-024ca386b9b0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/7da20fd5-709e-474d-8519-024ca386b9b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:58</itunes:duration>
+      <pubDate>Thu, 07 Dec 2023 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TogLFC0ViDg0DPhME11FjgAZkTF1Zjlmh4arswJ1muXg.jpg"/>
     </item>
   </channel>
 </rss>
