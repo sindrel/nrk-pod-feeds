@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Dec 2023 14:28:31 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Dec 2023 14:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Dec 2023 13:31:37 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Dec 2023 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Terje Ommundsen </title>
+      <description><![CDATA[Kokken måtte pantsette bilen da restauranten slet - Jeg gir aldri opp, sier han.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b4470cf0-058a-47a1-b8dd-6fd140b5ff69_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b4470cf0-058a-47a1-b8dd-6fd140b5ff69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Thu, 07 Dec 2023 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6WI3AlIfuOl6eeXkonT-6QFaHpIEjZs3CrruZSuzGXIA.jpg"/>
+    </item>
     <item>
       <title>Inga Bejer Engh</title>
       <description><![CDATA[Barneombudet om ungdomskriminalitet, barnevernet og 6-åringen hun aldri glemmer]]></description>
@@ -95,15 +104,6 @@
       <itunes:duration>57:15</itunes:duration>
       <pubDate>Wed, 15 Nov 2023 15:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/SEqDb07Bv6ccMIR_3dZfHwQGz8-lB10fHH1ijcETd_2w.jpg"/>
-    </item>
-    <item>
-      <title>Benedicte Bjørnland</title>
-      <description><![CDATA[Politidirektøren om ungdomskriminalitet, trusselvurderinger og hvorfor hun har svart belte i karate.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/526e9955-32ca-41a8-8a33-73e248d5ce85_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/526e9955-32ca-41a8-8a33-73e248d5ce85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:52</itunes:duration>
-      <pubDate>Tue, 14 Nov 2023 14:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ziJ3Tjvntl-vlSshNkX_FAwegRarrbgqpZkqv8h9_pSg.jpg"/>
     </item>
   </channel>
 </rss>
