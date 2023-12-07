@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-12-07  
+- Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2023-12-02  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 - Updated podcast 'Musikkrommet' (`musikkrommet`)  
