@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 05:27:59 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Nov 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Dec 2023 05:28:21 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Sidsel Wold</title>
+      <description><![CDATA[En samtale om Israel og Palestina, med journalist Sidsel Wold. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/9e05b7ec-9097-4c4f-9408-2c3b5bb9d9b0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/9e05b7ec-9097-4c4f-9408-2c3b5bb9d9b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:27:14</itunes:duration>
+      <pubDate>Thu, 07 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xLgu4vcBG6UR1e0BFmDodQ3aOhXWh3g1TLQwr7A00OxA.jpg"/>
+    </item>
     <item>
       <title>Magnus Devold</title>
       <description><![CDATA[Magnus Devold og jeg snakker om gamle Twitter-helter, humor og store karriereøyeblikk. Jeg svarer også på noen spørsmål fra dere. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:06:17</itunes:duration>
       <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GWgCIPAELDjs6dE2VOFUFAT07Bsz20ePgmIVWojdB0yw.jpg"/>
-    </item>
-    <item>
-      <title>Wolfgang Wee</title>
-      <description><![CDATA[Wolfgang Wee om hva han stemmer, Joe Rogan og annet podkast-preik. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/7f6b6226-5472-4662-951d-25442804e42d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/7f6b6226-5472-4662-951d-25442804e42d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:55:17</itunes:duration>
-      <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EE0KguPUw12l5ijJpr6iwQTCbkPY2vavdhes0wd99TMw.jpg"/>
     </item>
   </channel>
 </rss>
