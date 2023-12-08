@@ -594,6 +594,12 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "labyrint_om_natten",
+    "title": "De 10 siste fra Labyrint om natten",
+    "season": null,
+    "enabled": false
+  },
+  {
     "id": "labyrinthemmeligheter",
     "title": "De 10 siste fra Labyrinthemmeligheter",
     "season": null,
