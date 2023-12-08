@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-12-08  
+- Added podcast 'Labyrint om natten' (`labyrint_om_natten`)  
 ### 2023-12-07  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2023-12-02  
