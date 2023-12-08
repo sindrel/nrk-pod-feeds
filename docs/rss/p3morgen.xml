@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 08 Dec 2023 11:22:00 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Dec 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2023 12:43:05 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2023 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Jentestemning</title>
+      <description><![CDATA[Jentene er samlet. Tilstede: Anna, Adelina, Ingrid, Heidi og Sofie]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2fa6dd7d-4bcf-4209-abfa-e78e3c712161_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2fa6dd7d-4bcf-4209-abfa-e78e3c712161_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:50</itunes:duration>
+      <pubDate>Fri, 08 Dec 2023 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Solveig Kloppen blir rettet på </title>
       <description><![CDATA[Solveig Kloppen er gjest, men gir oss usannheter om familielivet. Og så er Ingrid Moholt Waaler fra Træsh supervikar!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:02:37</itunes:duration>
       <pubDate>Mon, 04 Dec 2023 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OCzQ6V4Of8pMQD82jIfmtwMnOS8RAJuf_Ill5ms1kj7w.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Vi sier hadet til Herman &lt;/3</title>
-      <description><![CDATA[Herman har sin siste dag i P3morgen og Noe attåt. Tilstede: Tete, Sofie, Anna, Herman og Johannes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ddbcd629-043e-4f93-8427-558586f84ea6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ddbcd629-043e-4f93-8427-558586f84ea6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:56</itunes:duration>
-      <pubDate>Fri, 01 Dec 2023 10:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/u9mIPt-4bNSrKFY-u5utCANsU2wWTgCYeDmDnjsM0gpw.jpg"/>
     </item>
   </channel>
 </rss>
