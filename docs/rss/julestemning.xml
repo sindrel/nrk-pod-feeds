@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Dec 2023 05:28:06 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2023 05:28:05 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Skoltelag</title>
+      <description><![CDATA[Ronny har vært på julemarked og møtt på en skuffelse, mens Live tester Ronnys juletradisjon: sauehode.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/f5f274fc-e6cd-4ce1-b8b8-ff4eeef2dc53_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/f5f274fc-e6cd-4ce1-b8b8-ff4eeef2dc53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:51</itunes:duration>
+      <pubDate>Fri, 08 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ObtJy-Qgmo6A9NtcSvaJJwBGIp46NJZqtWWBY0xMSbXw.jpg"/>
+    </item>
     <item>
       <title>Et kunstig julebrev</title>
       <description><![CDATA[Live får KI til å skrive årets julebrev fra familien, og Ronny forklarer hvorfor 7.desember er adventstidens rareste dag. ]]></description>
@@ -93,16 +102,6 @@ Podkasten er laget av Fenomen for NRK. ]]></description>
       <itunes:duration>34:17</itunes:duration>
       <pubDate>Sat, 24 Dec 2022 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7_ASVVE6f15mOjrAu0Uy8wSXVBmyDfT14pmnXv-r0TxA.jpg"/>
-    </item>
-    <item>
-      <title>Vesle julafta </title>
-      <description><![CDATA[Dagen før dagen i kottet! Lives vaskebøtte har fått nytt liv, og Ronny serverer risengrynsgrøt mens han reflekterer over alle julens forventninger. Det skal straffe seg at det har vært unnasluntring med Chili Klaus-kalenderen – det er duket for duell! Vi leser post om en søppelbil, et perfekt offer er valgt ut til julebukk-telefon, og husker du Twas the night before christmas?
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/a288767c-4fe1-4260-ac51-5df11bf72ec5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/a288767c-4fe1-4260-ac51-5df11bf72ec5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:46</itunes:duration>
-      <pubDate>Fri, 23 Dec 2022 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OuF56kk5BHSZq2Vm8A4rfw3Pt3w_Vrz14yHEzns5iAiw.jpg"/>
     </item>
   </channel>
 </rss>
