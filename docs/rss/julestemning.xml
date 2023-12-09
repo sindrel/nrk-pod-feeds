@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 08 Dec 2023 05:28:05 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 09 Dec 2023 05:26:52 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Min søsters episke karameller</title>
+      <description><![CDATA[Det er juleverksted i julekottet og Ronny og Live prøver å lage den perfekte gave, men kokken er veldig redd for knekk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/685df93d-be10-4a2c-a3a9-89b0cb1ed4fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/685df93d-be10-4a2c-a3a9-89b0cb1ed4fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:44</itunes:duration>
+      <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0bTVRhspyrKcUe8Yf9_otQ8lBM8vc76dFz04E0ZP8mhg.jpg"/>
+    </item>
     <item>
       <title>Skoltelag</title>
       <description><![CDATA[Ronny har vært på julemarked og møtt på en skuffelse, mens Live tester Ronnys juletradisjon: sauehode.]]></description>
@@ -93,15 +102,6 @@ Podkasten er laget av Fenomen for NRK. ]]></description>
       <itunes:duration>00:52</itunes:duration>
       <pubDate>Mon, 27 Nov 2023 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
-    </item>
-    <item>
-      <title>Sjølvaste julafta</title>
-      <description><![CDATA[Det melder seg noen tårer når Live og Ronny er sammen i kottet for siste gang i år. Ronny har skrevet brev til julenissen, og Live prøver seg en siste gang på Otamatone. Det er Ronnys tur til å ta hasselnøtt eller julesannhet på Live, vi leser post i pipa, og Live har med diktet "Kjære Nisse" av Ane Daae Stormo . Riktig god jul og takk for følget <3 ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/f310c86f-4323-4bd1-a794-b0a93b946724_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/f310c86f-4323-4bd1-a794-b0a93b946724_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:17</itunes:duration>
-      <pubDate>Sat, 24 Dec 2022 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7_ASVVE6f15mOjrAu0Uy8wSXVBmyDfT14pmnXv-r0TxA.jpg"/>
     </item>
   </channel>
 </rss>

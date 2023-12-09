@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 08 Dec 2023 18:29:10 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Dec 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 09 Dec 2023 05:26:40 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Neandertalerne, folket som plutselig forsvant (2:2)</title>
+      <description><![CDATA[Da Homo sapiens kom til Europa, forsvant på mystisk vis neandertalerne ... eller gjorde de det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/7a0cc359-ad78-4bc6-b943-20fc1bf96fae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7a0cc359-ad78-4bc6-b943-20fc1bf96fae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:56</itunes:duration>
+      <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PjBiDIwd9rug3im5DcoZwAaXPmt0y1i4s6pdqX3kYY7A.jpg"/>
+    </item>
     <item>
       <title>Abels tårn - Påvirker sovestilling hjernen utvikling?</title>
       <description><![CDATA[I panelet:
@@ -139,21 +148,6 @@ Ole Swang - Kjemiker]]></description>
       <itunes:duration>24:54</itunes:duration>
       <pubDate>Sat, 11 Nov 2023 09:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/d90ZvJ-GFTVJQzvrAYh_AQoH45feiLykCUrj1gPRLwpw.jpg"/>
-    </item>
-    <item>
-      <title>Abels tårn - Hvordan vet speilet om eplet?</title>
-      <description><![CDATA[TikTok er full av videor av sjokkerte folk som ikke fatter hvordan speilet kan vite hva som skjuler seg på baksiden av et ark som ligger mellom. Det er i det hele tatt mye sjokk, vantro og funfacts i dagens episode!
-
-Ukas panel:
-Ida Torkjellsdatter Storehaug - Fysiker
-Petter Bøckman - Zoolog 
-Andreas Nakkerud - Matematiker
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c724e586-79e8-4bc4-a01f-4c95da5aa674_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c724e586-79e8-4bc4-a01f-4c95da5aa674_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:31</itunes:duration>
-      <pubDate>Fri, 10 Nov 2023 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VYeE3q9PZjxtvqVB3mRysQ5EhToBMNMZfmBUKQifxdcQ.jpg"/>
     </item>
   </channel>
 </rss>
