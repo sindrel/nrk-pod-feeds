@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 03 Dec 2023 05:26:46 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Dec 2023 05:27:07 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Solveig Kloppen </title>
+      <description><![CDATA[Solveig Kloppen har morens gamle proteser, en statue av en ørret, og Grandiosa-bestikk på roterommet når Else kommer på besøk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/ea2971d1-40d9-4693-9839-5dc5c375cafa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/ea2971d1-40d9-4693-9839-5dc5c375cafa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:34</itunes:duration>
+      <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_WWRHrHRpTjqNa-PbsMfCgQKcAkcW46XNhMiBGedMsNw.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Nicolay Ramm</title>
       <description><![CDATA[Nicolay Ramm forteller om tiden som barnestjerne, hva kona blir irritert over, og om den gangen han tekstet henne fra en sykebil i Dubai. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>45:37</itunes:duration>
       <pubDate>Sun, 08 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/D1SmyzZJQBKSylf9Z6WsXA2GAAwV_AUoUsIYANNFHCeQ.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Bjarte Tjøstheim</title>
-      <description><![CDATA[Bjarte Tjøstheim snakker om å dra på IKEA alene, å be om tilgivelse selv om man ikke har gjort noe galt, og om å klappe skallede menn på hodet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a29b2ed3-beb0-4a70-9e5e-8f0000fc7d90_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a29b2ed3-beb0-4a70-9e5e-8f0000fc7d90_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:54</itunes:duration>
-      <pubDate>Sun, 01 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/z_icWjpENXMH0lE5KaxFEw2vmG5wL2iqDMapFzuOngyA.jpg"/>
     </item>
   </channel>
 </rss>

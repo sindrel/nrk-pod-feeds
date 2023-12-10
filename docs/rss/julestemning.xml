@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 09 Dec 2023 05:26:52 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Dec 2023 05:26:53 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Bursdagshøydepunkt</title>
+      <description><![CDATA[Live har bursdag og forklarer hvorfor hun er glad hun har trang seng. Og så deles det tidligere høydepunkt fra kottet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/661199c9-99b3-4057-9e27-faedfd1f95f4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/661199c9-99b3-4057-9e27-faedfd1f95f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:46</itunes:duration>
+      <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bjkTUxMelL45H9Dt3GimlwIqubZD5j1ldncZd7Ydfr6A.jpg"/>
+    </item>
     <item>
       <title>Min søsters episke karameller</title>
       <description><![CDATA[Det er juleverksted i julekottet og Ronny og Live prøver å lage den perfekte gave, men kokken er veldig redd for knekk.]]></description>
@@ -93,15 +102,6 @@ Podkasten er laget av Fenomen for NRK. ]]></description>
       <itunes:duration>39:33</itunes:duration>
       <pubDate>Fri, 01 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3s-fBw6GNxw2eDmvR1XfQA2rMmp17LREMDDR441JeJSw.jpg"/>
-    </item>
-    <item>
-      <title>Hallo, er det noen der?</title>
-      <description><![CDATA[Jula nærmer seg, og Ronny og Live har en beskjed fra sitt lille julekott. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/89f43477-1447-47ad-be74-f9aca59f5d8e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/89f43477-1447-47ad-be74-f9aca59f5d8e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:52</itunes:duration>
-      <pubDate>Mon, 27 Nov 2023 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
     </item>
   </channel>
 </rss>
