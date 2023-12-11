@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 10 Dec 2023 05:26:53 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2023 05:28:03 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Nasjonalskatt i kottet</title>
+      <description><![CDATA[SKAAR framfører tre julelåter og blir spurt om hvorfor hun prater om avføring på konsert.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/4e1cee9e-7907-4b3d-96d5-deabcfc74bcc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/4e1cee9e-7907-4b3d-96d5-deabcfc74bcc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:52</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fWmS9_P93sOSwSh05u7CsgsyvzcA9o3LHsFh7cZaX0dw.jpg"/>
+    </item>
     <item>
       <title>Bursdagshøydepunkt</title>
       <description><![CDATA[Live har bursdag og forklarer hvorfor hun er glad hun har trang seng. Og så deles det tidligere høydepunkt fra kottet.]]></description>
@@ -91,17 +100,6 @@
       <itunes:duration>32:04</itunes:duration>
       <pubDate>Sat, 02 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0MCzeRW4G0Dm-lf4W3z87wsEgO-6wOemKWg2o5cLx_Jg.jpg"/>
-    </item>
-    <item>
-      <title>En ekte juletradisjon</title>
-      <description><![CDATA[Velkommen tilbake i julekottet, kjære lytter! For tredje år på rad. Nå er det en tradisjon! 
-
-Podkasten er laget av Fenomen for NRK. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/ff163170-06b6-4a29-b6ed-e14504e939d8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/ff163170-06b6-4a29-b6ed-e14504e939d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:33</itunes:duration>
-      <pubDate>Fri, 01 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3s-fBw6GNxw2eDmvR1XfQA2rMmp17LREMDDR441JeJSw.jpg"/>
     </item>
   </channel>
 </rss>

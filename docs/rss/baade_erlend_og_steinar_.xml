@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 05:27:52 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2023 05:27:51 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>En selvkritisk episode</title>
+      <description><![CDATA[Steinar har jobba for et krevende publikum og Erlend straffer seg selv. Lytter trenger hjelp med en rasistisk venn. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/7dc0990c-8721-459d-9376-a4d7b8f210c8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/7dc0990c-8721-459d-9376-a4d7b8f210c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:07</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>Vi gjør så godt vi kan</title>
       <description><![CDATA[Kan Erlend godta at Steinar har fått nye venner? Erlend fikk besøk av ubuden gjest og tenketanken har fått plass på universitetet. ]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/6ffa6cd6-35a6-4ff6-a492-142decccfd1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:54</itunes:duration>
       <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Både Erlend og Steinar - kommer 9. oktober</title>
-      <description><![CDATA[Erlend Mørch og Steinar Klouman Hallert skal bli enda bedre kjent med hverandre gjennom rare tankeeksperimenter og problemstillinger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c873c045-15da-4f7d-b0d3-cae6f40d10cb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c873c045-15da-4f7d-b0d3-cae6f40d10cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:49</itunes:duration>
-      <pubDate>Mon, 02 Oct 2023 17:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>

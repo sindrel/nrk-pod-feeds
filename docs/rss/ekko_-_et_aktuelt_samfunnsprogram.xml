@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 09 Dec 2023 05:26:47 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2023 05:27:57 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Hvordan få mest ut av pengene? </title>
+      <description><![CDATA[Smart pengebruk i trange tider? Ekspertene svarer på lytternes spørsmål]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/da1ad1dd-f71e-40a8-b210-dd523a7434be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/da1ad1dd-f71e-40a8-b210-dd523a7434be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:16</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/g0OJV57yXlWhCQiVUHqPkQzkkL-YHemwvmuT-8TU877A.jpg"/>
+    </item>
     <item>
       <title>Miss Universe ergret på seg presidenten! </title>
       <description><![CDATA[Hvordan kan missekonkurranser påvirke det politiske maktspillet i et land?  ]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>17:17</itunes:duration>
       <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WkNYmDIGKRGQCiQfoFlMcgk_JamFWHuVcNoa_YDffdNQ.jpg"/>
-    </item>
-    <item>
-      <title>Når nasking blir psykisk sykdom</title>
-      <description><![CDATA[Hva skjer når ressurssterke personer begynner å stjele? En spesialist hjelper oss å forstå.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8eaa0814-53df-4d7f-b4d4-a94cdaa382d3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8eaa0814-53df-4d7f-b4d4-a94cdaa382d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:11</itunes:duration>
-      <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/62zbnUMAGhptLd7oWXYAXgEn9kK5HaYKcc3oVhOYrTgw.jpg"/>
     </item>
   </channel>
 </rss>
