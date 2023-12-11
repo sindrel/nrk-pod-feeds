@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Dec 2023 13:31:37 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Dec 2023 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2023 14:29:53 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2023 14:46:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Ida Gran-Jansen</title>
+      <description><![CDATA[Matinfluenseren og kokebokforfatteren mener hjemmelaget barnemat ikke er vanskelig: - Jeg er ikke redd for fett, fløte, smør og salt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/74c80342-f5f7-41c9-9315-ffd22c0991f0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/74c80342-f5f7-41c9-9315-ffd22c0991f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 14:46:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NfK8oLpDyVqVR7rn1l8d4gSq4cL8siQ1ExjmnhghOipw.jpg"/>
+    </item>
     <item>
       <title>Terje Ommundsen </title>
       <description><![CDATA[Kokken måtte pantsette bilen da restauranten slet - Jeg gir aldri opp, sier han.]]></description>
@@ -95,15 +104,6 @@
       <itunes:duration>57:08</itunes:duration>
       <pubDate>Thu, 16 Nov 2023 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/4RyKvT9IOD2jCldoABfKowDHjXbG876SkI-U3Betvuxg.jpg"/>
-    </item>
-    <item>
-      <title>Myra</title>
-      <description><![CDATA[Artisten forteller om utenforskap, suksess og å smugtitte etter engler.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1b279d7d-52ec-432f-9801-57b89d8c6284_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1b279d7d-52ec-432f-9801-57b89d8c6284_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Wed, 15 Nov 2023 15:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SEqDb07Bv6ccMIR_3dZfHwQGz8-lB10fHH1ijcETd_2w.jpg"/>
     </item>
   </channel>
 </rss>
