@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 09 Dec 2023 05:26:40 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2023 11:22:59 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten  - Pingviner som sover i max 4 sekunder</title>
+      <description><![CDATA[Om enorme isfjell, sovende pingviner og veldig gammelt lys]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c39e6c13-f80d-4eda-91c2-1d418601aebd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c39e6c13-f80d-4eda-91c2-1d418601aebd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:47</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KmoiN5eepswHm9HHbX5qnABcUn7Nk6aCeh2eiqtr_AZA.jpg"/>
+    </item>
     <item>
       <title>Neandertalerne, folket som plutselig forsvant (2:2)</title>
       <description><![CDATA[Da Homo sapiens kom til Europa, forsvant på mystisk vis neandertalerne ... eller gjorde de det?]]></description>
@@ -21,7 +30,7 @@
       <itunes:image href="https://gfx.nrk.no/PjBiDIwd9rug3im5DcoZwAaXPmt0y1i4s6pdqX3kYY7A.jpg"/>
     </item>
     <item>
-      <title>Abels tårn - Påvirker sovestilling hjernen utvikling?</title>
+      <title>Abels tårn - Påvirker sovestilling hjernens utvikling?</title>
       <description><![CDATA[I panelet:
 Hjerneforsker Marte Julie Sætra
 Geolog Reidar Müller
@@ -139,15 +148,6 @@ Ole Swang - Kjemiker]]></description>
       <itunes:duration>39:11</itunes:duration>
       <pubDate>Mon, 13 Nov 2023 07:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GTYFECLGZKOHEL2dI7MooA1SP7Xy8dHaeDPq970egjuQ.jpg"/>
-    </item>
-    <item>
-      <title>Slørsoppmiddagen</title>
-      <description><![CDATA[Hanne Aass drar på en middag der soppeksperter serverer slørsopp, en slekt som sopplukkere har blitt bedt om å styre langt unna. Noen av slørsoppene er nemlig blant våre dødeligste giftsopper. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c6a1cbd0-3c18-439a-a590-dde9881b6aee_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c6a1cbd0-3c18-439a-a590-dde9881b6aee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:54</itunes:duration>
-      <pubDate>Sat, 11 Nov 2023 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/d90ZvJ-GFTVJQzvrAYh_AQoH45feiLykCUrj1gPRLwpw.jpg"/>
     </item>
   </channel>
 </rss>
