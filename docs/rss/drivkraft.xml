@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 14:29:53 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Dec 2023 14:46:00 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 13:27:21 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Erik Hillestad</title>
+      <description><![CDATA[Plateprodusenten bak Kirkelig Kulturverksted har følt på et kall, men mener tro ikke kan eksistere uten tvil]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1c903b9d-d4ec-4fe1-bcf9-3698163c5704_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1c903b9d-d4ec-4fe1-bcf9-3698163c5704_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Tue, 12 Dec 2023 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2zQTWrixl6pEgu6stnHJ3QoridkReVVz1PHmVxn5j7hw.jpg"/>
+    </item>
     <item>
       <title>Ida Gran-Jansen</title>
       <description><![CDATA[Matinfluenseren og kokebokforfatteren mener hjemmelaget barnemat ikke er vanskelig: - Jeg er ikke redd for fett, fløte, smør og salt.]]></description>
@@ -94,16 +103,6 @@
       <itunes:duration>57:04</itunes:duration>
       <pubDate>Tue, 21 Nov 2023 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/VbuLW0aPEJwIHwm271kgOwbHQriUMytw-wtcMn8KUoLQ.jpg"/>
-    </item>
-    <item>
-      <title>Lisa Tønne</title>
-      <description><![CDATA[Komikeren ble nesten drept av et badekar, og av hesteinfluensa: - Jeg er glad jeg har så mye rart i livet
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/31ad5086-318d-44e9-91cd-f1b2e6aceed2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/31ad5086-318d-44e9-91cd-f1b2e6aceed2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:08</itunes:duration>
-      <pubDate>Thu, 16 Nov 2023 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4RyKvT9IOD2jCldoABfKowDHjXbG876SkI-U3Betvuxg.jpg"/>
     </item>
   </channel>
 </rss>
