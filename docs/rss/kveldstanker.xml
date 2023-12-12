@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 05:28:11 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 05:28:05 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Verdens verste nyttårsaften - Janne Rønningen</title>
+      <description><![CDATA[Vil du feire nyttårsaften alene, eller invitere til en fæl fest? Komiker Janne Rønningen trøster deg som har angst for årets siste kveld. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/18fc5c4a-fc69-4b86-919e-811348a0b2a4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/18fc5c4a-fc69-4b86-919e-811348a0b2a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:33</itunes:duration>
+      <pubDate>Tue, 12 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BDA5TijEN1zHd0KaRx-gMQLsixygxvb_8RWg5bhDGWdg.jpg"/>
+    </item>
     <item>
       <title>Plan B - med Gunnhild Sundli</title>
       <description><![CDATA[Da pandemien slo ned, mistet hun levebrødet. Men snart gikk rockestjerna opp trappa til NAV. Som nyutdannet veileder. Møt Gunnhild Sundli.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:38</itunes:duration>
       <pubDate>Mon, 27 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tT1aZtJRXY_U7bAUcYuJvgfiowheuaRFVc_N4woZczbw.jpg"/>
-    </item>
-    <item>
-      <title>Thanksgiving på trøndersk - Kristin N. Mork</title>
-      <description><![CDATA[Hvert år samles storfamilien for å takke og spise kalkun. Hvis kalkunen blir ferdig. Kristin Nordvoll Mork er podkastprodusent og komiker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d148254c-75b4-48bc-aebf-a5b80078fbd4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d148254c-75b4-48bc-aebf-a5b80078fbd4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:39</itunes:duration>
-      <pubDate>Thu, 23 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/m9yXhKRHejOfvgi7pgti8AP-whl2lai_Bn4SD-KWiIcg.jpg"/>
     </item>
   </channel>
 </rss>

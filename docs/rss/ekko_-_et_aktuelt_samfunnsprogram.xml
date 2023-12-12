@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 05:27:57 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 05:27:51 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Kan Golfstrømmen kollapse?</title>
+      <description><![CDATA[Isen smelter fordi varmen stiger på kloden. Hør hvordan smeltevannet påvirker havet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dfc933da-cdf0-4592-be38-b3a630472ea3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/dfc933da-cdf0-4592-be38-b3a630472ea3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:38</itunes:duration>
+      <pubDate>Tue, 12 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/B8JVtGwYpLIpjJw1Nu5Hjg1mz8x-dxOuViVpL7GLU3qA.jpg"/>
+    </item>
     <item>
       <title>Hvordan få mest ut av pengene? </title>
       <description><![CDATA[Smart pengebruk i trange tider? Ekspertene svarer på lytternes spørsmål]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>17:02</itunes:duration>
       <pubDate>Tue, 21 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WnVDKwtQGhylzNkd0S-0YgEgIF0XX5nGbcyhVcsiS-nA.jpg"/>
-    </item>
-    <item>
-      <title>Mr. Beast, en moderne Jesus? </title>
-      <description><![CDATA[Verdens største YouTuber deler ut penger til fattige og kurerer blinde i Afrika. Hvor bra er det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7b3d31a2-371b-425c-95c7-bffc1e1e6058_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7b3d31a2-371b-425c-95c7-bffc1e1e6058_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:17</itunes:duration>
-      <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WkNYmDIGKRGQCiQfoFlMcgk_JamFWHuVcNoa_YDffdNQ.jpg"/>
     </item>
   </channel>
 </rss>
