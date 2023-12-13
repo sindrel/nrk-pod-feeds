@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 19:21:59 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Dec 2023 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 19:22:03 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Zelenskyj i Norge</title>
+      <description><![CDATA[Den ukrainske presidenten kom i dag på historisk besøk til Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/61535897-c214-4aa6-9a5d-826675634c4a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/61535897-c214-4aa6-9a5d-826675634c4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 13 Dec 2023 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GwviKJDZQz90x-SrAKM9OAmBbcbR1UtRSE92N6FHMqJA.jpg"/>
+    </item>
     <item>
       <title>Regjeringen kutter i støtten til Tines konkurrenter</title>
       <description><![CDATA[Q-meieriene advarer om dårligere utvalg og dyrere produkter, når regjeringen kutter i støtten fra og med juli.]]></description>
@@ -18,7 +27,7 @@
       <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/76f16129-dc4e-4960-9ce4-44730fb93144_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 12 Dec 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/47CJG-1j2_CMcUEqpeuSLww7trpPcqZzN_qxFlgqqhkA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/47CJG-1j2_CMcUEqpeuSLw7WYGN10frRITfe4wAN4m9A.jpg"/>
     </item>
     <item>
       <title>Mer inngripende tiltak ved neste pandemi ?</title>
@@ -95,15 +104,6 @@ Kristne skoler er skeptiske til kurs om skeive elever.]]></description>
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Thu, 30 Nov 2023 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Zp2CMThHj5XCda7XCEJR5QErrq--r3UTPrF8Yi7ITDVg.jpg"/>
-    </item>
-    <item>
-      <title>Strid om heising av palestinsk flagg</title>
-      <description><![CDATA[Flere kommuner heiser ikke det palestinske flagget i dag. Oslo, derimot, valgte å markere FNs dag for solidaritet med det palestinske folk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/12219d6e-9218-4b2f-bc33-c3b88455b894_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/12219d6e-9218-4b2f-bc33-c3b88455b894_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 29 Nov 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1EA4EVlHe7ZDeX_cQPURDw6vowy50lLXDE0U8-1TTNZg.jpg"/>
     </item>
   </channel>
 </rss>
