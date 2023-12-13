@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 12:44:34 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Dec 2023 12:45:00 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 12:44:11 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 12:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Lussekattjakten</title>
+      <description><![CDATA[Det er P3morgens store julegenserdag! Vi sender også Karsten ut på jakt etter lussekatter. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/44520f8b-1889-463f-923a-c329467a0491_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/44520f8b-1889-463f-923a-c329467a0491_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:39</itunes:duration>
+      <pubDate>Wed, 13 Dec 2023 12:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Thailand calling og Tetes juleribbe</title>
       <description><![CDATA[I denne episoden får du oppskriften på Tetes juleribbe, vi ringer Herman fra Thailand og sender gode ønsker til butikkmedarbeidere i julestria<3 Til stede: Adelina, tete og ho Anna. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:53</itunes:duration>
       <pubDate>Wed, 06 Dec 2023 12:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Hs7ui9RB_94Gkjdu0igvYAf9hJXuU8lvwmkkkczWl2xg.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Hva er den verste smerten du har opplevd? </title>
-      <description><![CDATA[Det blit vondt i dagens attåt. Og kaos. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ef5bb7df-7036-4ed8-b994-c28ef916356a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ef5bb7df-7036-4ed8-b994-c28ef916356a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:10</itunes:duration>
-      <pubDate>Wed, 06 Dec 2023 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6cDjGT34rDKK6DE2sPDJ5Qgogr-mzazP5EeIP2QkRFag.jpg"/>
     </item>
   </channel>
 </rss>
