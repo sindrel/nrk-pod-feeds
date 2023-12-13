@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 13:27:21 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Dec 2023 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 14:28:55 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 15:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Hallgeir Kvadsheim</title>
+      <description><![CDATA[Økonomieksperten er nøysom med egne penger, men han skeier ut med el-sparkesykkel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/31f9d7ee-ca67-444a-af1c-4c398627ef29_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/31f9d7ee-ca67-444a-af1c-4c398627ef29_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Wed, 13 Dec 2023 15:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8sZ9UasSt_0KEmh2d05UcwtcsjITze--i6P9cIDEJCTA.jpg"/>
+    </item>
     <item>
       <title>Erik Hillestad</title>
       <description><![CDATA[Plateprodusenten bak Kirkelig Kulturverksted har følt på et kall, men mener tro ikke kan eksistere uten tvil]]></description>
@@ -94,15 +103,6 @@
       <itunes:duration>57:14</itunes:duration>
       <pubDate>Mon, 27 Nov 2023 12:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/44kcKnL95C07EinnDgClRQGN0oWQf1HOz148xZ7fBC-Q.jpg"/>
-    </item>
-    <item>
-      <title>Morten Hegseth</title>
-      <description><![CDATA[TV-profilen føler han aldri har klart å falle på plass i voksenlivet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f57afd00-1d10-4462-8d37-2d46758e8442_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f57afd00-1d10-4462-8d37-2d46758e8442_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:04</itunes:duration>
-      <pubDate>Tue, 21 Nov 2023 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VbuLW0aPEJwIHwm271kgOwbHQriUMytw-wtcMn8KUoLQ.jpg"/>
     </item>
   </channel>
 </rss>
