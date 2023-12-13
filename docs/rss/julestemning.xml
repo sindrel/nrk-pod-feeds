@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 05:28:00 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 05:27:48 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Lysets sankt</title>
+      <description><![CDATA[Ronny skammer seg etter eksamen, Live arrangerer alkoholfri juleøltest, og de avslører hvilke julefilmer det kan stemmes mellom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/c7e54fa5-7ac0-4abe-9fa2-38f71d2dbfa4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/c7e54fa5-7ac0-4abe-9fa2-38f71d2dbfa4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:44</itunes:duration>
+      <pubDate>Wed, 13 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JT7PH6xK9QaIhXGQqIntYw80omjdb77RN8MSQir0I9QA.jpg"/>
+    </item>
     <item>
       <title>Juleskinken Helmer</title>
       <description><![CDATA[Det er Ronnys tur å trekke muntlig eksamen, Lives pentøy blir gnagd på av en minigris, og det blir en ny runde gjett grøten.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:06</itunes:duration>
       <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wvHfOsLw1dsxjkiK0_UoAAzkLrEtQuiC6rSb_mgg5fig.jpg"/>
-    </item>
-    <item>
-      <title>Adventskonsert med No. 4</title>
-      <description><![CDATA[Live og Ronny får ordentlig julestemning når det blir mini-julekonsert med bandet No. 4 i det lille kottet]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/2e4fc0f4-e341-4cbb-b3f9-ef94b74dfbcd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/2e4fc0f4-e341-4cbb-b3f9-ef94b74dfbcd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:11</itunes:duration>
-      <pubDate>Sun, 03 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1qMxCGVPLCRQajAwrICaKg9cQqfFiX0cLQT3WD8xWPQQ.jpg"/>
     </item>
   </channel>
 </rss>

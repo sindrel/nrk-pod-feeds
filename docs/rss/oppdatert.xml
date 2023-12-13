@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 05:28:11 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Dec 2023 05:59:00 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 05:28:00 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/q2KQ7Moyue9ANLOwimqC9ADISYTWtS3wsjIruI7GuZzA.jpg"/>
+    <item>
+      <title>Maria (19) skutt på øvelse: Hva skjer i Forsvaret?</title>
+      <description><![CDATA[Til tross for flere advarsler, har soldater i Forsvaret blitt skadet igjen og igjen. Hvorfor rydder ingen opp?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b0747b69-c591-461a-b4ec-8045e3af3e91_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b0747b69-c591-461a-b4ec-8045e3af3e91_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:01</itunes:duration>
+      <pubDate>Wed, 13 Dec 2023 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i5-FSZLFx0BoowA9ihsfJA0W3S_ndqUwLAc5U6xMa2Xw.jpg"/>
+    </item>
     <item>
       <title>Realitystjerner i opprør: Slutten for TV-imperium?</title>
       <description><![CDATA[Serien «The Real Housewives» har vært en seermagnet siden 2006 – men denne høsten har det kommet dystre anklager om hva som egentlig skjer bak kamera.]]></description>
@@ -21,7 +30,7 @@
       <itunes:image href="https://gfx.nrk.no/U7HV6H5w3KtXJtrE0LYItQXnBQ7fvthX6qNcxlOiaxQg.jpg"/>
     </item>
     <item>
-      <title>Fengsla i Iran: Fredsprisvinnaren  sin kamp</title>
+      <title>Fengsla i Iran: Fredsprisvinnaren sin kamp</title>
       <description><![CDATA[Ho kjempar for likestilling i Iran og sit fengsla i ei celle som er så liten at ho ikkje kan strekke ut armane. No har Narges Mohammadi fått Nobels fredspris.
 Gjest:  Rima Iraki.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/34e512d4-f82e-4409-810e-a370dcd90186_0_ID192MP3.mp3</guid>
@@ -95,17 +104,6 @@ Gjest Gry Blekastad Almås
       <itunes:duration>21:04</itunes:duration>
       <pubDate>Thu, 30 Nov 2023 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Mpx6Z42CxjO-t2iUiU4dQQGdIg6v6Vg07EVNfMfWfROw.jpg"/>
-    </item>
-    <item>
-      <title>Derfor stormer det rundt ChatGPT-sjefen</title>
-      <description><![CDATA[Det har utspilt seg et drama i selskapet bak ChatGPT. Flere mener det ikke bare handler om en maktkamp - men om fremtiden til kunstig intelligens. 
-Gjest: Teknologijournalist Ine Schwebs
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/fce696de-8bcb-40ce-a35e-2622f823acc3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fce696de-8bcb-40ce-a35e-2622f823acc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:36</itunes:duration>
-      <pubDate>Wed, 29 Nov 2023 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/macQhHo9a0bKnHudKSmqrA2-MJqBkM-YkQYWtrjLRa3w.jpg"/>
     </item>
   </channel>
 </rss>

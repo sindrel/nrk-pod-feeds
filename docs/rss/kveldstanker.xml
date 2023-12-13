@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 05:28:05 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 05:27:55 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Den ekle klemmen - med Ingeborg Senneset</title>
+      <description><![CDATA[Hun er kjent for å si hva hun mener. Men å nekte en kjendis med makt en klem er vanskelig. Ingeborg Senneset er journalist og forfatter. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/81ad2ffc-e65a-4ff4-9bdf-517086e1ae69_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/81ad2ffc-e65a-4ff4-9bdf-517086e1ae69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:18</itunes:duration>
+      <pubDate>Wed, 13 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VKp78w15vWhFZ47pJ7x2UQY3C0-HFuIBVHftlNcWf4iw.jpg"/>
+    </item>
     <item>
       <title>Verdens verste nyttårsaften - Janne Rønningen</title>
       <description><![CDATA[Vil du feire nyttårsaften alene, eller invitere til en fæl fest? Komiker Janne Rønningen trøster deg som har angst for årets siste kveld. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:18</itunes:duration>
       <pubDate>Tue, 28 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FrA7gCe_TaRYcKzQvovRhQtAnwVyml0T4o2_96xhB7Qw.jpg"/>
-    </item>
-    <item>
-      <title>Punker med bolleklipp - med Jonas Skybakmoen</title>
-      <description><![CDATA[På gutterommet venta han på at livet skulle begynne. Så en dag, kom punken til Fossegrenda. Jonas Skybakmoen er journalist og musiker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9a79d49a-5bad-44d0-848b-47dfd338bac9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9a79d49a-5bad-44d0-848b-47dfd338bac9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:38</itunes:duration>
-      <pubDate>Mon, 27 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tT1aZtJRXY_U7bAUcYuJvgfiowheuaRFVc_N4woZczbw.jpg"/>
     </item>
   </channel>
 </rss>
