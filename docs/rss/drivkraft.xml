@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 14:28:55 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Dec 2023 15:10:00 +0100</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2023 14:28:50 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Dec 2023 14:40:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Lise Fjeldstad </title>
+      <description><![CDATA[- Man blir skjørere i følelseslivet, sier skuespilleren om å bli gammel. Men å slåss er hun fortsatt like god til.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/432cae5b-f933-4931-826c-8221a0ba633d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/432cae5b-f933-4931-826c-8221a0ba633d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Thu, 14 Dec 2023 14:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gCoWxHULlU8qOWMttPFO9Ad3G-2s4TLHbIg08p9nQaCA.jpg"/>
+    </item>
     <item>
       <title>Hallgeir Kvadsheim</title>
       <description><![CDATA[Økonomieksperten er nøysom med egne penger, men han skeier ut med el-sparkesykkel.]]></description>
@@ -94,15 +105,6 @@
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Tue, 28 Nov 2023 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DYRffZbRJM_CmG4s_JHt4Q8227uzX_ZfQEPBbJYw75oA.jpg"/>
-    </item>
-    <item>
-      <title>Silje Landevåg</title>
-      <description><![CDATA[Som 24-åring startet gründeren nettbutikken «Get Inspired», i dag er det en av landets mest vellykkede steder for netthandel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0e19f24f-cdb5-413a-a00d-fbdc78555bc9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0e19f24f-cdb5-413a-a00d-fbdc78555bc9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:14</itunes:duration>
-      <pubDate>Mon, 27 Nov 2023 12:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/44kcKnL95C07EinnDgClRQGN0oWQf1HOz148xZ7fBC-Q.jpg"/>
     </item>
   </channel>
 </rss>
