@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 19:22:03 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Dec 2023 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2023 19:22:00 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Dec 2023 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Ny renteoppgang fra Norges Bank</title>
+      <description><![CDATA[Norges Bank overrasker markedet, og setter opp styringsrenta til 4,5 prosent.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ed262113-795b-476a-82ad-e6ad6cd5f0e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ed262113-795b-476a-82ad-e6ad6cd5f0e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 14 Dec 2023 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uAOEXMeLjN8lTJdQCtvjOAEYPonlr_BGAVHX3mr6chCA.jpg"/>
+    </item>
     <item>
       <title>Zelenskyj i Norge</title>
       <description><![CDATA[Den ukrainske presidenten kom i dag på historisk besøk til Norge.]]></description>
@@ -94,16 +103,6 @@ Nasjonalforeningen for folkehelsen vil ha forbud mot reklame for usann mat.]]></
       <itunes:duration>58:01</itunes:duration>
       <pubDate>Fri, 01 Dec 2023 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PvACSDpNckKd-597v4G3xgejw43jzrxRlzXYEfjdQqwg.jpg"/>
-    </item>
-    <item>
-      <title>Klimatoppmøte i Dubai</title>
-      <description><![CDATA[Covid-forsker mener koronaviruset fortsatt er en alvorlig helsetrussel.
-Kristne skoler er skeptiske til kurs om skeive elever.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9d75da78-87ee-4afe-a4cc-25e6cba66ebe_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9d75da78-87ee-4afe-a4cc-25e6cba66ebe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Thu, 30 Nov 2023 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Zp2CMThHj5XCda7XCEJR5QErrq--r3UTPrF8Yi7ITDVg.jpg"/>
     </item>
   </channel>
 </rss>
