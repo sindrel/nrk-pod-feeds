@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 09 Dec 2023 12:40:37 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Dec 2023 12:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 05:28:35 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Boka og filmen ytterste høyre elsker </title>
+      <description><![CDATA[Har Italia fått en hobbit som statsminister? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/e2f10275-98ed-4d49-b74e-99de843031ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/e2f10275-98ed-4d49-b74e-99de843031ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:08</itunes:duration>
+      <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RPKIZMVxpx_SSB1Px0J0sgdx2DCxLm1NPmW3bsNeVMFw.jpg"/>
+    </item>
     <item>
       <title>Kommer det en ny krig?</title>
       <description><![CDATA[Lederen i Venezuela vil ha det meste av nabolandet Guyana. Det er krise i Sør-Amerika.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:24</itunes:duration>
       <pubDate>Sat, 11 Nov 2023 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oIYyxwx8lwDt64qwqp0tVAbuxQoYIW9piURpGbHOn7Yg.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: Disse tar over etter Wagner-soldatene</title>
-      <description><![CDATA[Russland setter fanger i front for å vinne krigen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/0bee4fd5-0bd6-4658-9c9b-4e22a01b6548_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/0bee4fd5-0bd6-4658-9c9b-4e22a01b6548_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:00</itunes:duration>
-      <pubDate>Fri, 10 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EIqixLVpyyvkJXF6zf7qcggejQyDkubMWZ3QYdm2cMPg.jpg"/>
     </item>
   </channel>
 </rss>

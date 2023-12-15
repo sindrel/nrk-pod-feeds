@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 14 Dec 2023 05:27:55 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 05:28:08 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Tre nøtter til Bruce Willis</title>
+      <description><![CDATA[Resultatet av julefilmavstemningen er klar, men hvordan hadde Tre nøtter til Askepott og Die Hard hørtes ut om det var samme film?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/d8bfb11c-7fe3-4e98-9173-1d55679d4053_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/d8bfb11c-7fe3-4e98-9173-1d55679d4053_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:28</itunes:duration>
+      <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pJxRbUEmyxBU29Vd2L9YYQ9cHDwzx7DoCc-mZ-yUg5jQ.jpg"/>
+    </item>
     <item>
       <title>Rettferdighet for kålrabien</title>
       <description><![CDATA[Live leser ode til kottet med «gammel dame»-stemme, mens Ronny søker hjelp hos Hellstrøm for en tradisjon han frykter skal dø.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:06</itunes:duration>
       <pubDate>Wed, 06 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7n8fnQxPbwMyKztp0ay6NAFhGQH79Q76XymcLrzo14MQ.jpg"/>
-    </item>
-    <item>
-      <title>Trompet i pipa</title>
-      <description><![CDATA[Det er på tide å finne ut hvilket dyr som gir mest julestemning! Og Live prøver seg på en grov vits under muntlig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/20964a67-17de-4046-a5ca-3a416746f630_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/20964a67-17de-4046-a5ca-3a416746f630_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:09</itunes:duration>
-      <pubDate>Tue, 05 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0fjmSIn5GsQ7drrcREqdSQqZlZOKOJutMmgnHyUgPLRg.jpg"/>
     </item>
   </channel>
 </rss>
