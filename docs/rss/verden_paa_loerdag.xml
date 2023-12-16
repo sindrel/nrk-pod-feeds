@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 05:28:35 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 11:22:12 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Putin: En selvsikker mann</title>
+      <description><![CDATA[Mye går Putins vei nå. Det er splittelse i Vesten og i Ukraina rykker russerne framover.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/4f336fce-a4cc-4ea6-8dde-6c8664429fde_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/4f336fce-a4cc-4ea6-8dde-6c8664429fde_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 16 Dec 2023 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2M1XKGApvZI2jm1m6xMMNgExIX4q29moo4P2kts2V89A.jpg"/>
+    </item>
     <item>
       <title>Boka og filmen ytterste høyre elsker </title>
       <description><![CDATA[Har Italia fått en hobbit som statsminister? ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>10:33</itunes:duration>
       <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aCWhP-nwZ6HEt5RjxpU7jgAeCRxhkUiNDshKk7f9SOUg.jpg"/>
-    </item>
-    <item>
-      <title>Slik slåss Europa om krigen</title>
-      <description><![CDATA[Palestinere i Paris og London blir nektet å tale og nektet å marsjere for fred. Jøder blir trakassert og truet på livet. Hva gjør krigen mellom Israel og Hamas med det politiske klimaet i Europa?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/4eea8b7c-4b93-45ae-8b64-e8f8118f61c6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/4eea8b7c-4b93-45ae-8b64-e8f8118f61c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:24</itunes:duration>
-      <pubDate>Sat, 11 Nov 2023 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oIYyxwx8lwDt64qwqp0tVAbuxQoYIW9piURpGbHOn7Yg.jpg"/>
     </item>
   </channel>
 </rss>
