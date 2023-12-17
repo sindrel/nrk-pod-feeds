@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 16 Dec 2023 05:27:00 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 17 Dec 2023 05:27:19 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Ønskedikt og flammer</title>
+      <description><![CDATA[Live og Ronny leker med adventsflammer, og gir deg ønskereprise av Lives diktopplesning og andre tidligere høydepunkt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/55baa937-7b3e-4b6b-bfc9-c08eaab39d24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/55baa937-7b3e-4b6b-bfc9-c08eaab39d24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:24</itunes:duration>
+      <pubDate>Sun, 17 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n3QkxAMnQRnMQbLoJSketg6NC1XEIqpCHr3DJpfzdXRg.jpg"/>
+    </item>
     <item>
       <title>Sjelen i et badekar</title>
       <description><![CDATA[Det blir julestemning rett i øret med ny minikonsert fra kottet. Darling West er på besøk, og Ronny er ekte superfan.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>35:51</itunes:duration>
       <pubDate>Fri, 08 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ObtJy-Qgmo6A9NtcSvaJJwBGIp46NJZqtWWBY0xMSbXw.jpg"/>
-    </item>
-    <item>
-      <title>Et kunstig julebrev</title>
-      <description><![CDATA[Live får KI til å skrive årets julebrev fra familien, og Ronny forklarer hvorfor 7.desember er adventstidens rareste dag. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/4ddc66b4-f4f1-4583-840f-28cf705a2a35_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/4ddc66b4-f4f1-4583-840f-28cf705a2a35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:24</itunes:duration>
-      <pubDate>Thu, 07 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sQpCoav-0bHKCEYAs5kXowZVSe5-Yhn2mNp8f63kWqbA.jpg"/>
     </item>
   </channel>
 </rss>
