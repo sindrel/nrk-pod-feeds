@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 05:27:51 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 05:28:17 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Generelt den beste episoden</title>
+      <description><![CDATA[Hvem er best som menneske av Erlend og Steinar? Velkommen til episoden har bedre kvalitet enn både Lost og Prison Break. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/da445773-48ea-444f-84fd-d2b1dc1cdce9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/da445773-48ea-444f-84fd-d2b1dc1cdce9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:24</itunes:duration>
+      <pubDate>Mon, 18 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>En selvkritisk episode</title>
       <description><![CDATA[Steinar har jobba for et krevende publikum og Erlend straffer seg selv. Lytter trenger hjelp med en rasistisk venn. ]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/fe9e488c-974f-4aab-98d8-23b124d8a084_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:33</itunes:duration>
       <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Dødsing og l'appel du vide</title>
-      <description><![CDATA[Kan dødsing reflektere noe dypere ved mennesket enn vi tror? Steinar tror ikke på Erlends sauehistorie, og søker svar hos Erlends far.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/6ffa6cd6-35a6-4ff6-a492-142decccfd1c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/6ffa6cd6-35a6-4ff6-a492-142decccfd1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:54</itunes:duration>
-      <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>

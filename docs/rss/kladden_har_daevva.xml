@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 05:28:07 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 05:28:32 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Sandeep Singhs livsfarlige tivoli</title>
+      <description><![CDATA[Sandeep kunne ha dødd i en karusell i India, men han klamret seg fast. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7c45c661-52d6-45f7-99c1-225e090ff1d8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7c45c661-52d6-45f7-99c1-225e090ff1d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:51</itunes:duration>
+      <pubDate>Mon, 18 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/B5Cp0JVeCtrDsU7CZ1t60AyYQVh6UjaIGWG2tYjgnemA.jpg"/>
+    </item>
     <item>
       <title>Til bunns med Isalill Kolpus</title>
       <description><![CDATA[Hvem kan lære Isalill å svømme? ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:06:01</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iO_d_OY0rycUsJYfsLdwtwyKpIhXOd-2tRUD7sH_6hHg.jpg"/>
-    </item>
-    <item>
-      <title>Hilde Skaar og hamsterløgnen</title>
-      <description><![CDATA[Hilde Skaar er redd for at familien skal dø før henne – men har en plan for å komme dem i forkjøpet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/bcaeb96e-1b3f-4367-bb09-abff2b06e6f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/bcaeb96e-1b3f-4367-bb09-abff2b06e6f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:52</itunes:duration>
-      <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/arAvkds-nW4q0S_8-YpHPQrMIUT2DgfAsoqYY0L_s9OA.jpg"/>
     </item>
   </channel>
 </rss>
