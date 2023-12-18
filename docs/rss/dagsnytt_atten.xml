@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 19:21:59 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Dec 2023 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 19:22:04 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Norskeid skip angrepet i Rødehavet.</title>
+      <description><![CDATA[Flere rederier omdirigerer sine skip i Rødehavet etter en rekke angrep fra Houthi-militsen i Jemen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7df41733-ec77-40d1-80b5-880f6cd16c15_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7df41733-ec77-40d1-80b5-880f6cd16c15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Mon, 18 Dec 2023 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CgjeSfkm9gQGL7oAo1KVBgiuAQG5RnYMYL_q2UP3_9rg.jpg"/>
+    </item>
     <item>
       <title>Utenriksministermøte i Oslo om Midtøsten</title>
       <description><![CDATA[Norge er vertskap for flere arabiske lands utenriksministre for å drøfte krigen mellom Israel og Hamas.]]></description>
@@ -93,15 +102,6 @@ Svært alvorlig sier justisminister Emilie Enger Mehl.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 05 Dec 2023 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Er00rq9yv-bNWBGOW84tDQjyQRpTf6K4UhLk1U1ZvmPQ.jpg"/>
-    </item>
-    <item>
-      <title>NHO misfonøyd med statsbudsjett</title>
-      <description><![CDATA[NHO reagerer på at regjeringen ikke gjør mer med arbeidsgiveravgiften]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/28edd8b0-acd8-4598-8fa1-eb77c2ba1579_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/28edd8b0-acd8-4598-8fa1-eb77c2ba1579_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Mon, 04 Dec 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IGDWRB9bARX-bz4zBJ0qNw98xP-B_DFf7v2gTfmFDJvA.jpg"/>
     </item>
   </channel>
 </rss>
