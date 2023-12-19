@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 18 Dec 2023 13:28:36 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Dec 2023 14:10:00 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 14:26:45 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Per G Braathen</title>
+      <description><![CDATA[Milliardæren mener han ville vært mye rikere hvis han ikke drev et flyselskap
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/484d23be-dd68-4fa8-97e8-5a8ed96427d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/484d23be-dd68-4fa8-97e8-5a8ed96427d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zoRJm5dS2Et9w_z11KM4Kwu9qAC6ALxzXLsEuATc4OVA.jpg"/>
+    </item>
     <item>
       <title>Janne Rønningen</title>
       <description><![CDATA[— ADHD er en forbannelse, sier komikeren. — Hva skal jeg med masse gode ideer, når alle kommer samtidig?]]></description>
@@ -93,18 +103,6 @@
       <itunes:duration>57:09</itunes:duration>
       <pubDate>Mon, 04 Dec 2023 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vvX6VOcVq8SNzjL9LiBoVgdZbMOdAEM7V5Ce-cYu6TaQ.jpg"/>
-    </item>
-    <item>
-      <title>Markus Neby</title>
-      <description><![CDATA[Programlederen deler en godt bevart hemmelighet: - Ungdomsopprøret var å bli pinsevenn.
-
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7f093d8d-18b4-48c7-b051-f8818a64d978_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7f093d8d-18b4-48c7-b051-f8818a64d978_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:05</itunes:duration>
-      <pubDate>Wed, 29 Nov 2023 15:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YNT8vHs8TngTjnEbaUxKVANf3_c-1FV60DKv84ufEEpw.jpg"/>
     </item>
   </channel>
 </rss>
