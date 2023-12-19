@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 18 Dec 2023 05:28:29 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 05:27:52 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Tørrfisk og ribbechips</title>
+      <description><![CDATA[Ronny har nesten blitt påkjørt av kona, det er kjærlighetssorg i innboksen og en forferdelig overraskelse i julegrøten. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/9d313a31-eea6-45c2-b616-b0c41c715fdf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/9d313a31-eea6-45c2-b616-b0c41c715fdf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:46</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qILafsbfroD1jbOFP5AAWA_XwHJgxUpQX-3KgDq_5LWA.jpg"/>
+    </item>
     <item>
       <title>Et ekte julemysterium</title>
       <description><![CDATA[Julemusa Valentin er på besøk, det ligger et julemysterium i pipa og Live begynner å gråte av Ronnys tekstanalyse.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>29:46</itunes:duration>
       <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/bjkTUxMelL45H9Dt3GimlwIqubZD5j1ldncZd7Ydfr6A.jpg"/>
-    </item>
-    <item>
-      <title>Min søsters episke karameller</title>
-      <description><![CDATA[Det er juleverksted i julekottet og Ronny og Live prøver å lage den perfekte gave, men kokken er veldig redd for knekk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/685df93d-be10-4a2c-a3a9-89b0cb1ed4fe_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/685df93d-be10-4a2c-a3a9-89b0cb1ed4fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:44</itunes:duration>
-      <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0bTVRhspyrKcUe8Yf9_otQ8lBM8vc76dFz04E0ZP8mhg.jpg"/>
     </item>
   </channel>
 </rss>
