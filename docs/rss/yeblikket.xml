@@ -1,71 +1,105 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Øyeblikket</title>
+    <title>De 10 siste fra Øyeblikket</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Øyeblikket. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/yeblikket for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Øyeblikket. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/yeblikket for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.2.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 18:31:28 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Jan 2023 06:00:00 +0100</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 19 Dec 2023 07:23:02 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 06:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/Vb5GFDyk3aPEKtSWBNE8mA6lb1n9F-50XGZpHHCNxRTg"/>
+    <itunes:image href="https://gfx.nrk.no/ZiJkm2KZXIoQ_38nNF_V0wGUrkx7Ku5Xo7vi2hfLT5bg.jpg"/>
     <item>
-      <title>På kanten av stupet</title>
-      <description><![CDATA[14 år gamle Pia gikk til barnevernet og ba om nye foreldre. Da havnet hun i en ond spiral som hun fortsatt kjemper for å komme seg ut av.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/b28e84de-78e6-4333-94cb-26180f78d304_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/yeblikket/b28e84de-78e6-4333-94cb-26180f78d304_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:36</itunes:duration>
-      <pubDate>Tue, 31 Jan 2023 06:00:00 +0100</pubDate>
+      <title>Pistolmannen</title>
+      <description><![CDATA[Han var telekortsvindler og GHB-produsent. Da han leverte våpen i Orderud-saken, gjekk alt skeis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/2bc29981-2741-44a0-a956-5dcff1df15fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/2bc29981-2741-44a0-a956-5dcff1df15fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:26</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R21bYvpFE7BhtFWHf9F1iQGlOPUWWR1hNjn9kj2jIyDQ.jpg"/>
     </item>
     <item>
-      <title>Det tøffe valget</title>
-      <description><![CDATA[Helge Sandvik levde ut guttedrømmen som fotballkeeper i FK Haugesund. Men da familien på to skulle bli tre, ble hele livet snudd på hodet.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/c8fbd65f-1736-436e-9f86-c815c211a16f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/yeblikket/c8fbd65f-1736-436e-9f86-c815c211a16f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:57</itunes:duration>
-      <pubDate>Tue, 24 Jan 2023 06:00:00 +0100</pubDate>
+      <title>Da fire ble to</title>
+      <description><![CDATA[Det er sommer og ferietid når den lille familien på biltur i Danmark kolliderer med et tog. Det aller verste har skjedd – hva nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/8cfdf942-f988-456c-848b-ba2506c9537e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/8cfdf942-f988-456c-848b-ba2506c9537e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:45</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n5Bvja8EfwjHQYWE1f8bYg1QmOluKShUNJlWgmyb7cIg.jpg"/>
     </item>
     <item>
-      <title>Gummimannens sirkusliv</title>
-      <description><![CDATA[Frode Sandven var gateartist i København, da et tilfeldig møte på Strøget endret livet. I dag opptrer han over hele verden – som gummimann. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/cba26dce-7383-4378-a8d2-1e4c3694c3f8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/yeblikket/cba26dce-7383-4378-a8d2-1e4c3694c3f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:21</itunes:duration>
-      <pubDate>Tue, 17 Jan 2023 06:00:00 +0100</pubDate>
+      <title>Stoltheit og forfall</title>
+      <description><![CDATA[Sanninga set deg fri, seiast det. Det fekk Karsten erfare då hans mørkaste hemmelegheit blei avslørt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/f7dade48-bf76-48c0-805a-94aace74eb35_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/f7dade48-bf76-48c0-805a-94aace74eb35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:09</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-pD_m7BTZYLzuJshlXdH5gtrLXSIupW0t5gZjHpyK1ng.jpg"/>
     </item>
     <item>
-      <title>Mot toppen av verden</title>
-      <description><![CDATA[Moa Hundseid følger alltid drømmene sine. Bli med når hun prøver å bestige Mount Everest som den yngste norske kvinnen noensinne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/f1cbf994-a044-43fb-8b1d-314382992a47_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/yeblikket/f1cbf994-a044-43fb-8b1d-314382992a47_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:16</itunes:duration>
-      <pubDate>Tue, 10 Jan 2023 06:00:00 +0100</pubDate>
+      <title>Angitt</title>
+      <description><![CDATA[Når moren forelsker seg i en tysk soldat, angir hun 10 år gamle Maria og søsknene. 80 år senere er det fortsatt ubegripelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/ac87a2ac-8349-47a2-8f42-c4d89ebd3b6e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/ac87a2ac-8349-47a2-8f42-c4d89ebd3b6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:37</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D9PDLfXnlKlJebojy6UpkgclvFBkBjyI37x0T0IHvgoQ.jpg"/>
     </item>
     <item>
-      <title>#metoo-varsleren</title>
-      <description><![CDATA[Line Steine Oma overlevde terroren 22. juli 2011, og ga #metoo-oppgjøret i Arbeiderpartiet et ansikt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/cea8de26-6e3c-44f1-a519-f6701a54a9c9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/yeblikket/cea8de26-6e3c-44f1-a519-f6701a54a9c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:56</itunes:duration>
-      <pubDate>Tue, 03 Jan 2023 06:01:00 +0100</pubDate>
+      <title>Melankomikeren</title>
+      <description><![CDATA[Kjæresten er den som ler høyest når André setter opp humorshow. Samme dag dør hun i en ulykke. André tror han aldri kan le igjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/5c0b9b84-f518-440b-a6e1-1142c9cfc7de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/5c0b9b84-f518-440b-a6e1-1142c9cfc7de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:02</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E_057zcFwY0ABdUbZT5_kwwp7CBQ0zUWN-5O22yZXkuw.jpg"/>
     </item>
     <item>
-      <title>Fredsprisens bakside</title>
-      <description><![CDATA[I 30 år plaget krigsminnene fra Libanon Ole Vikre så sterkt at han ikke ville leve. Til slutt måtte han saksøke Norge for å bli trodd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/2df77c53-1cb1-4390-bb7d-33906059c252_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/yeblikket/2df77c53-1cb1-4390-bb7d-33906059c252_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:15</itunes:duration>
-      <pubDate>Tue, 03 Jan 2023 06:00:00 +0100</pubDate>
+      <title>Leikestativet</title>
+      <description><![CDATA[Då dottera døyr i ei ulykke, går Lisbeth nesten i stykker. Ho vel å møte sorga – ikkje berre si eiga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/415fe7bc-0180-4b75-aa64-aa169b965cc7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/415fe7bc-0180-4b75-aa64-aa169b965cc7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:58</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mK6J_RBhJ-wgs7LDuRlmdwC3YMvKryjV-QhtZfKP0Cow.jpg"/>
     </item>
     <item>
-      <title>Kommer 3. januar: Øyeblikket</title>
-      <description><![CDATA[Noen valg får konsekvenser for resten av livet. Valg tatt i løpet av et øyeblikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/c1b40e1d-49a4-4a6f-a228-ef1fb398b833_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/yeblikket/c1b40e1d-49a4-4a6f-a228-ef1fb398b833_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:25</itunes:duration>
-      <pubDate>Fri, 23 Dec 2022 10:00:00 +0100</pubDate>
+      <title>Kirkebrenneren</title>
+      <description><![CDATA[Joakim er 17 år og dritings når et idiotisk innfall skal forandre livet hans for alltid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/a5c5c7d9-80f3-43f9-90ab-2edf3a7938ad_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/a5c5c7d9-80f3-43f9-90ab-2edf3a7938ad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:08</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XARWt0BpNmDt99aQkm8VkwRn0Qww71pYoKNKmDJxADqQ.jpg"/>
+    </item>
+    <item>
+      <title>Byturen</title>
+      <description><![CDATA[Vennegjengen har en super kveld på byen når Anna snubler i en trapp ved doen. Det skal endre livet hennes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/8ae294f8-4d80-4efc-b154-ed9b25a0a5c9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/8ae294f8-4d80-4efc-b154-ed9b25a0a5c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:00</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C2ERyJkiTnv6EphwrvhFJwon-dtwyaDJSOIgW92tH7BQ.jpg"/>
+    </item>
+    <item>
+      <title>Syk, jeg?</title>
+      <description><![CDATA[Helge elsker jobben sin, men når han blir syk mister livet mening. Han kjenner ikke seg selv igjen. Hvem er Helge uten jobben?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/5b147ae9-90fb-4011-ac23-e0256278d360_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/5b147ae9-90fb-4011-ac23-e0256278d360_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:50</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sED5Rc_E6WKZqRkVZakhyActkSvLrYvbZf3pjlVg7elw.jpg"/>
+    </item>
+    <item>
+      <title>Én ski fra døden</title>
+      <description><![CDATA[Truls og kompisen suser nedover breen på ski. Men før han vet ordet av det, henger Truls opp ned etter én fot i en dyp bresprekk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/yeblikket/73c5654b-0290-45e3-956f-5306978d8157_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/73c5654b-0290-45e3-956f-5306978d8157_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:01</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5oty8NUDx4TNvl-pOFso9AeIOEfcdaYCpe35BVuRbYhA.jpg"/>
     </item>
   </channel>
 </rss>

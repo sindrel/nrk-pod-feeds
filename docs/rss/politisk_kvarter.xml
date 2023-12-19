@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 18 Dec 2023 07:23:35 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Dec 2023 08:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 07:22:52 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/HQOdXZJnFNWwrd9x8VTcIQ_p5LYdB-xxVAqwj4qrBaGg.jpg"/>
+    <item>
+      <title>Statsministeren oppsummerer</title>
+      <description><![CDATA[Jonas Gahr Støre har hatt eit år fullt av utfordringar. I Politisk kvarter snakkar han om den krevjande dyrtida og tilliten til hans regjering og norske politikarar.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/0155e567-d623-437a-90fc-482fe3d69afb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/0155e567-d623-437a-90fc-482fe3d69afb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Tue, 19 Dec 2023 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HQOdXZJnFNWwrd9x8VTcIQ_p5LYdB-xxVAqwj4qrBaGg.jpg"/>
+    </item>
     <item>
       <title>Omkamp om arveskatt</title>
       <description><![CDATA[Hvis regjeringspartiene vil gjøre noe med ulikheten må de snu i synet på arveskatt, mener SV. De håper nye tall vil påvirke arbeidet med partiprogrammene. Det finnes bedre måter å bekjempe ulikhet enn skatt på arv, svarer Arbeiderpartiet.]]></description>
@@ -103,18 +113,6 @@ Mimir Kristjansson i Rødt mener Brenna tøffer seg på de fattiges bekostning. 
       <itunes:duration>15:18</itunes:duration>
       <pubDate>Wed, 06 Dec 2023 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7cnXzNSSPFcArLx63yUZQw16D_AAunh-XooLD_6w2WYg.jpg"/>
-    </item>
-    <item>
-      <title>Ingen elsker budsjettkamel</title>
-      <description><![CDATA[SV har makt. Men det kommer med en pris.
-Budsjettavtalen gir dem politiske seiere. Men SV må også svelge kameler.
-De har valgt feil strategi, sier MDG.
-De driver med en absurd ansvarsfraskrivelse, mener KrF.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/7d47e8e2-4bd9-42c0-8c77-9878f9811aca_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/7d47e8e2-4bd9-42c0-8c77-9878f9811aca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:09</itunes:duration>
-      <pubDate>Tue, 05 Dec 2023 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/my9IKTvH8DAjFuhtic3ONw5D2Ro_mzwTyC2yhJTS5shg.jpg"/>
     </item>
   </channel>
 </rss>
