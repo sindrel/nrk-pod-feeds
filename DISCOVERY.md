@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-12-19  
+- Updated podcast 'Øyeblikket' (`yeblikket`)  
 ### 2023-12-18  
 - Podcast 'Statens mal for medarbeidersamtale' is considered obsolete and will be ignored in the future (`statens_mal_for_medarbeidersamtale`)  
 ### 2023-12-09  
