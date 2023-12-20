@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-12-20  
+- Podcast 'God natt' is considered obsolete and will be ignored in the future (`god_natt`)  
 ### 2023-12-19  
 - Updated podcast 'Øyeblikket' (`yeblikket`)  
 ### 2023-12-18  
