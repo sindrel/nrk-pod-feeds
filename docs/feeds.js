@@ -327,7 +327,9 @@ const feeds = [
     "id": "god_natt",
     "title": "De 10 siste fra God natt",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "googla_med_synnoeve_svaboe",
