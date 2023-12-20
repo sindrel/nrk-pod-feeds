@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 19 Dec 2023 05:27:52 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 05:23:17 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Marsipangris i tretoppen</title>
+      <description><![CDATA[Juleretten avgir dom om juleservise, Ronny får en idé til pynt på juletreet, og Live og Ronny gjør julas mest kjente duett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/16544147-6985-45a9-a2cd-53a6ff6b88d8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/16544147-6985-45a9-a2cd-53a6ff6b88d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:51</itunes:duration>
+      <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fckjhGyLuuJsrLEp6xC3uAJilPl2Burohdw2eo9tVmcQ.jpg"/>
+    </item>
     <item>
       <title>Tørrfisk og ribbechips</title>
       <description><![CDATA[Ronny har nesten blitt påkjørt av kona, det er kjærlighetssorg i innboksen og en forferdelig overraskelse i julegrøten. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>30:51</itunes:duration>
       <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fWmS9_P93sOSwSh05u7CsgsyvzcA9o3LHsFh7cZaX0dw.jpg"/>
-    </item>
-    <item>
-      <title>Bursdagshøydepunkt</title>
-      <description><![CDATA[Live har bursdag og forklarer hvorfor hun er glad hun har trang seng. Og så deles det tidligere høydepunkt fra kottet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/661199c9-99b3-4057-9e27-faedfd1f95f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/661199c9-99b3-4057-9e27-faedfd1f95f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:46</itunes:duration>
-      <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bjkTUxMelL45H9Dt3GimlwIqubZD5j1ldncZd7Ydfr6A.jpg"/>
     </item>
   </channel>
 </rss>

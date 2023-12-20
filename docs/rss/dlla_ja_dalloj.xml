@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Dálla ja dalloj</title>
+    <title>De 10 siste fra Dálla ja dalloj</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Dálla ja dalloj. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/dlla_ja_dalloj for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Dálla ja dalloj. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/dlla_ja_dalloj for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 05:27:41 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 05:23:06 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/R9v-zpiM4CbusgxB8A23gwmzgu5J429R5oit4kpu-g5A.jpg"/>
+    <item>
+      <title>Manen mij válljip gåktu válljip?</title>
+      <description><![CDATA[Dat mij ij la luondulasj dunji ij la nav álkke dahkat.  Ja Harrieth la guoradallam dajt. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dlla_ja_dalloj/0dbff085-3cb1-4759-974b-5a18d92708df_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/0dbff085-3cb1-4759-974b-5a18d92708df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:57</itunes:duration>
+      <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dzHfA736JFA5J-67PytEzwRN9kfqwqGCUrmj_rG2ZoEQ.jpg"/>
+    </item>
     <item>
       <title>Tjáppa nuorra næjtso li gáhtum</title>
       <description><![CDATA[Maktas lidjin sámij valástallamgilposa åvddål? Mij dáhpáduvaj gå Per Anders iejvvij áhkátjisáv? Máhttá ælov jåhtet duolmunijn?  ]]></description>

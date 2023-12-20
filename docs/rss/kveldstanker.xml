@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 19 Dec 2023 05:27:57 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 05:23:26 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Trøst sjuåringen! - Tale Maria Krohn Engvik</title>
+      <description><![CDATA[Helsesista hører alle slags historier fra jenter og gutter som trenger å snakke. Men selv bærer hun på en vond episode hun aldri har delt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/57c4b352-1191-462e-bad1-cb48429a09fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/57c4b352-1191-462e-bad1-cb48429a09fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:01</itunes:duration>
+      <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GRb3AbwvlD59z3fc7fbRPQ7q_DM3kPernQjfkTBitRGQ.jpg"/>
+    </item>
     <item>
       <title>Livet på Bygda - med Jonas Skybakmoen</title>
       <description><![CDATA[Han er kjent som vokalist i punkbandet Johndoe. Han er journalist og skribent, og elsker kaféer. Så hva skal han med et småbruk på landet?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:46</itunes:duration>
       <pubDate>Tue, 05 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vmX5T-MwCvIp5WVoE3GJqwmmcvaTNjj4CBT7SIk4vvfg.jpg"/>
-    </item>
-    <item>
-      <title>Søstre - med Ragnhild Lund Andsnes</title>
-      <description><![CDATA[En medsøster kan dukke opp når du minst venter det. Hør journalist og forfatter Ragnhild Lund Ansnes om reisen som satte spor for livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/54f7fd52-bc8a-414f-864d-a477b75966f0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/54f7fd52-bc8a-414f-864d-a477b75966f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:27</itunes:duration>
-      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MvfJMsfKI550TsXnqH_YqQUGIoPP69V8wIxcKXHd0J0w.jpg"/>
     </item>
   </channel>
 </rss>
