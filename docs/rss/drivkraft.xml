@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 19 Dec 2023 14:26:45 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Dec 2023 14:30:00 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 14:23:25 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Bodil Nordjore</title>
+      <description><![CDATA[Øl og småkaker til jul - det er noe av det mest tradisjonelle vi har, sier statsbudeie og kokebokforfatteren fra Telemark]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5279bcba-6c43-4200-939e-dc411f70937e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5279bcba-6c43-4200-939e-dc411f70937e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Wed, 20 Dec 2023 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FhCmPSHf8A3jPV2l7GBSuAQf1Exi_61VdZyV2py2YiWA.jpg"/>
+    </item>
     <item>
       <title>Per G Braathen</title>
       <description><![CDATA[Milliardæren mener han ville vært mye rikere hvis han ikke drev et flyselskap
@@ -94,15 +103,6 @@
       <itunes:duration>57:53</itunes:duration>
       <pubDate>Tue, 05 Dec 2023 14:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/SxlsPhxC5tcjtT6YY0vQBgNkOLaWwKUUoQrCV5SvQGYw.jpg"/>
-    </item>
-    <item>
-      <title>Vetle Lid Larssen</title>
-      <description><![CDATA[Forfatteren mener å skrive er noe av det vanskeligste som finnes: - Hvis du synes det er gøy å skrive, da er du en dårlig forfatter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4ce0ac97-4aab-4533-bb98-da22e4462e20_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4ce0ac97-4aab-4533-bb98-da22e4462e20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:09</itunes:duration>
-      <pubDate>Mon, 04 Dec 2023 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vvX6VOcVq8SNzjL9LiBoVgdZbMOdAEM7V5Ce-cYu6TaQ.jpg"/>
     </item>
   </channel>
 </rss>
