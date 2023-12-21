@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 14 Dec 2023 05:28:07 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2023 05:28:00 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Høydepunkter fra 2023</title>
+      <description><![CDATA[Jeg har plukka ut noen øyeblikk jeg likte fra året som har gått. Takk til alle som har hørt på. Høres igjen 4. januar!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/26961ca7-da37-4b2a-a7a3-4b6a4ae7f09c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/26961ca7-da37-4b2a-a7a3-4b6a4ae7f09c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:38:27</itunes:duration>
+      <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    </item>
     <item>
       <title>Steinar Klouman Hallert igjen!</title>
       <description><![CDATA[Jeg svarer på spørsmål fra lyttere og Steinar hjelper til. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:21:23</itunes:duration>
       <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nHMvB7992e-l2gMCtpuiZQVcdNKE7QROjxfB3Mj0y6Fg.jpg"/>
-    </item>
-    <item>
-      <title>Dag Sørås</title>
-      <description><![CDATA[Stand up-komiker Dag Sørås er på besøk, og det snakkes om Israel, vaksiner, nervøsitet og mye mer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/12b1aca4-2c79-4372-808a-ba937a322115_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/12b1aca4-2c79-4372-808a-ba937a322115_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:35:04</itunes:duration>
-      <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AizWcS6fHkPhOQ5N3m0q9gAbxs3Oa4o7wYArmtrHT5zQ.jpg"/>
     </item>
   </channel>
 </rss>
