@@ -531,7 +531,7 @@ const feeds = [
     "id": "kongerekka",
     "title": "De 10 siste fra Kongerekka",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "koselig",
@@ -749,7 +749,7 @@ const feeds = [
     "id": "musikkrommet",
     "title": "De 10 siste fra Musikkrommet",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "mysterier_fra_norge",
