@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 12:44:26 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Dec 2023 12:33:00 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2023 14:27:36 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2023 14:55:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Et politisk skandaleår</title>
+      <description><![CDATA[Det har vært et politisk skandaleår, vi har fått dårligere råd og Norge har blitt blåere enn du tror. Vi oppsummerer 2023. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/3fb83293-cd7d-449d-abbe-817cfad844cf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/3fb83293-cd7d-449d-abbe-817cfad844cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:29</itunes:duration>
+      <pubDate>Thu, 21 Dec 2023 14:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lLTIJAWpf9FerlT9ql34pA9F4fIAWhzWqiNEKQvTVdlQ.jpg"/>
+    </item>
     <item>
       <title>EKSTRAEPISODE: Hva skjer med Emile Enger Mehl?</title>
       <description><![CDATA[Leder for hemmelige tjenester måtte gå på dagen, men hva skjer egentlig med Emilie Enger Mehl?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:04</itunes:duration>
       <pubDate>Thu, 02 Nov 2023 19:50:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/k1T75x3SiTaCrQcps8FWSw-gprV8B6FUrSK297tF7XtQ.jpg"/>
-    </item>
-    <item>
-      <title>Norge har aldri tatt i mot så mange flyktninger</title>
-      <description><![CDATA[Det kommer 1000 ukrainske flyktninger i uka. Er vi egentlig rigga for å ta i mot dem?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1f7f7c27-814a-4f60-8c67-713982dee31a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/1f7f7c27-814a-4f60-8c67-713982dee31a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:33</itunes:duration>
-      <pubDate>Fri, 27 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gg8xrHUAsDqLV4Jw84U-EAeip6OguMAmqkUS-1oQPX9Q.jpg"/>
     </item>
   </channel>
 </rss>

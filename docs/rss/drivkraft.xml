@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 20 Dec 2023 14:23:25 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Dec 2023 15:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2023 14:27:29 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2023 14:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Alexandra Joner</title>
+      <description><![CDATA[Artisten sier hun har masse energi og er "gæren" i hodet. Nå har hun laget podkast om egen kjærlighetssorg.
+
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6bebe8cd-d3a2-474d-94b8-52b843fb2e56_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6bebe8cd-d3a2-474d-94b8-52b843fb2e56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Thu, 21 Dec 2023 14:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eGILFL5dxtKnGoxujaEmVg3Zhos1N8PX9GNgGdpE9KYg.jpg"/>
+    </item>
     <item>
       <title>Bodil Nordjore</title>
       <description><![CDATA[Øl og småkaker til jul - det er noe av det mest tradisjonelle vi har, sier statsbudeie og kokebokforfatteren fra Telemark]]></description>
@@ -94,15 +106,6 @@
       <itunes:duration>57:11</itunes:duration>
       <pubDate>Wed, 06 Dec 2023 14:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Eew_OKEW0eQyh6fLPBSq3gSL4j3dpkWkfp4PandQZrUA.jpg"/>
-    </item>
-    <item>
-      <title>John Hammersmark</title>
-      <description><![CDATA[Kapteinen i Kompani Lauritzen mener flere burde utsette seg selv for frykt]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3fd8bd6a-66ce-438a-bec8-bc666fbaf2ab_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3fd8bd6a-66ce-438a-bec8-bc666fbaf2ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:53</itunes:duration>
-      <pubDate>Tue, 05 Dec 2023 14:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SxlsPhxC5tcjtT6YY0vQBgNkOLaWwKUUoQrCV5SvQGYw.jpg"/>
     </item>
   </channel>
 </rss>
