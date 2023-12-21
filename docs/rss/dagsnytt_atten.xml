@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 20 Dec 2023 19:22:02 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Dec 2023 19:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2023 19:21:59 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2023 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Strammer inn reglene for russetida</title>
+      <description><![CDATA[Regjeringa mener russetida bør flyttes til etter eksamen og at russeklær bør forbys på skolen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eef6c878-6975-4ee0-a63d-00530edd1e85_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eef6c878-6975-4ee0-a63d-00530edd1e85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 21 Dec 2023 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MFV0lsgFPPAvNROnWXoFhwyW2Y9CHWq7_4XSnYpegG5w.jpg"/>
+    </item>
     <item>
       <title>Ofre rovdyr for kraftutbygging?</title>
       <description><![CDATA[Regjeringen foreslår å redusere antallet jerv og gauper for å dempe konflikten mellom reindrift og kraftutbygging.]]></description>
@@ -93,15 +102,6 @@ Svært alvorlig sier justisminister Emilie Enger Mehl.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 08 Dec 2023 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/cbnb5RxNgwmqBz1XqvPawwatE5SM2UsTvarTSrabNabw.jpg"/>
-    </item>
-    <item>
-      <title>Riksrevisjonen kritiserer regjeringen for drift av kampfly</title>
-      <description><![CDATA[Riksrevisjonen med kritikk av Forsvarsdepartementet. Har satt av for lite penger til drift av F-35-flyene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/34907ecd-6134-49bd-a966-218d3a689858_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/34907ecd-6134-49bd-a966-218d3a689858_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Thu, 07 Dec 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ECCPDYxO8oRWsOUQu-HuzAJ3CuChCg8fd6SdZn-1ueJw.jpg"/>
     </item>
   </channel>
 </rss>
