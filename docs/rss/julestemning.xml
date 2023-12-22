@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 05:27:44 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 22 Dec 2023 05:28:12 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>Musikk på hjemreisen</title>
+      <description><![CDATA[Tradisjonen tro spiller Live og Ronny et knippe julefavoritter for de som er på vei hjem til jul. Og alle andre. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/b386434e-2355-454a-a8c8-15b5e3c0b69d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/b386434e-2355-454a-a8c8-15b5e3c0b69d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:13</itunes:duration>
+      <pubDate>Fri, 22 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mG1NVzVmTApwT6_nMPlSZwyitVxqEFkHwUXPEGAbsxyA.jpg"/>
+    </item>
     <item>
       <title>Det beste juledyret</title>
       <description><![CDATA[En lytter blir konfrontert med fjorårets nyttårsforsett, og julehunden Otto slipper en liten bombe i kottet.  ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>34:44</itunes:duration>
       <pubDate>Wed, 13 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JT7PH6xK9QaIhXGQqIntYw80omjdb77RN8MSQir0I9QA.jpg"/>
-    </item>
-    <item>
-      <title>Juleskinken Helmer</title>
-      <description><![CDATA[Det er Ronnys tur å trekke muntlig eksamen, Lives pentøy blir gnagd på av en minigris, og det blir en ny runde gjett grøten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/ae1d14cb-2e73-4683-b885-2027bd432186_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/ae1d14cb-2e73-4683-b885-2027bd432186_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:24</itunes:duration>
-      <pubDate>Tue, 12 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Rgx7Lvf1y9tUm6gUhh8aQAaMPZoR6niaeRzfnyMQtwDg.jpg"/>
     </item>
   </channel>
 </rss>
