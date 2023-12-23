@@ -7,10 +7,23 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 15:24:28 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Dec 2023 10:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2023 07:21:55 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2023 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Hjerneceller koblet til datachip lærer stemmegjenkjenning</title>
+      <description><![CDATA[Menneskelige hjerneceller, dyrket i en petriskål, har blitt koblet til en datachip og trent med kunstig intelligens-algoritmer. Cellene kan nå gjøre enkel stemmegjenkjenning. 
+
+Med
+Marianne Fyhn
+Anders Malthe-Sørenssen ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9958031f-e54f-48d5-a166-92b948fc53e7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9958031f-e54f-48d5-a166-92b948fc53e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:14</itunes:duration>
+      <pubDate>Sat, 23 Dec 2023 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xMjLmtE_3XUSlI0i49GaYw41TMjVVWZPPCtDB94HpHbw.jpg"/>
+    </item>
     <item>
       <title>Abels tårn - Julenissens superkrefter og cyanid i kirsebærlikøren</title>
       <description><![CDATA[I panelet :
@@ -159,22 +172,6 @@ Fysiker Andres Kvellestad
       <itunes:duration>24:07</itunes:duration>
       <pubDate>Sat, 02 Dec 2023 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/72W_TchgMyt4radKrTQmMAVWk8o5nvDMv-oS5XiRCacQ.jpg"/>
-    </item>
-    <item>
-      <title>Abels tårn - live fra Oslo Katedralskole</title>
-      <description><![CDATA[- Hva er hensikten med de hormonfrie pillene på p-pillebrettet?
-- Vil genmodifiserte mennesker en dag kunne fly og puste under vann?
-- Fryser varmt vann raskere enn kaldt?
-- Har skjedekransen, eller jomfruhinna, en funksjon?
-- Ville din kloning få din personlighet?
-- Hvor fort dør man i et sort hull?
-- Hvilke fordeler og ulemper har mannlig omskjæring?
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/757cc0a1-2fe8-4009-92aa-ca8756d61853_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/757cc0a1-2fe8-4009-92aa-ca8756d61853_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:43</itunes:duration>
-      <pubDate>Fri, 01 Dec 2023 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
     </item>
   </channel>
 </rss>
