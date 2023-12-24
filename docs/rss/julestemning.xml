@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 23 Dec 2023 05:26:25 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 24 Dec 2023 05:27:11 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iyue8KBu2St15Rpf3yJo9QNzDgyrgDwgrVZ8zEk4zD3Q.jpg"/>
+    <item>
+      <title>God og gledelig jul</title>
+      <description><![CDATA[Ronny finner sin indre nisse, Live gir bort kalender med hunder som bæsjer og de titter i pipa for siste gang i år. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/eb192941-7cf9-4b8b-808d-d000024247cc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/eb192941-7cf9-4b8b-808d-d000024247cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:36</itunes:duration>
+      <pubDate>Sun, 24 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0LV5Ke66F2rzoaicF1mSXgnp5l-IM5nZOVgGDVeo74fw.jpg"/>
+    </item>
     <item>
       <title>Svartjoleftan</title>
       <description><![CDATA[På dagen før dagen er det grøten før grøten, og storfint besøk i kottet fra noen av landets kjæreste musikere: Odd og Ingebjørg.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>32:28</itunes:duration>
       <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pJxRbUEmyxBU29Vd2L9YYQ9cHDwzx7DoCc-mZ-yUg5jQ.jpg"/>
-    </item>
-    <item>
-      <title>Rettferdighet for kålrabien</title>
-      <description><![CDATA[Live leser ode til kottet med «gammel dame»-stemme, mens Ronny søker hjelp hos Hellstrøm for en tradisjon han frykter skal dø.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/6e7452ce-37c9-4566-a250-4c2a4b99aa03_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/6e7452ce-37c9-4566-a250-4c2a4b99aa03_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:42</itunes:duration>
-      <pubDate>Thu, 14 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2idFnuj_VCbVyP5RegQsPg_xpxKoW9lnuVDmCgo5RINw.jpg"/>
     </item>
   </channel>
 </rss>
