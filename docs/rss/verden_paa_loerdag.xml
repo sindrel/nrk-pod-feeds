@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 23 Dec 2023 12:39:10 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Dec 2023 12:55:00 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Dec 2023 05:27:43 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Slik husker vi 2023</title>
+      <description><![CDATA[Det blir mye krig og bare litt fred når Urix oppsummerer året som har gått. Men det finnes fortsatt håp og varme i verden!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/c8739ad7-1120-4584-9062-c16212ef5e10_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/c8739ad7-1120-4584-9062-c16212ef5e10_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Wed, 27 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aD4ImlX2GKUJp_lcNHpqbAk0s_YreAvEcEeZ9k6lQ2Rg.jpg"/>
+    </item>
     <item>
       <title>Urix ringer julen inn</title>
       <description><![CDATA[Bli med til Betlehem der julefeiringen er avlyst, til Beirut der alle lys er tent og til Kyiv der julen er flyttet.
@@ -20,7 +29,7 @@
       <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/6372da7e-21bb-4644-a85d-7558ceef24b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:35</itunes:duration>
       <pubDate>Sat, 23 Dec 2023 12:55:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aD4ImlX2GKUJp_lcNHpqbAPfpcXFj87IN7upvK4Ytf8A.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/jKKeeLgQr2V3EyceRdGAZA1Dl6MUemMzpQoUefvjNlsg.jpg"/>
     </item>
     <item>
       <title>Krigen i Ukraina: Krigen som flyttet jula</title>
@@ -93,15 +102,6 @@
       <itunes:duration>53:20</itunes:duration>
       <pubDate>Sat, 25 Nov 2023 12:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2ERInw1bEQB_I3kXdJdO1gp5lNwHpDdf8XPOmnDW43JQ.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Ukraina: Kan fotball gi håp om seier?</title>
-      <description><![CDATA[Hva gjør du hvis hjemmebanen din er okkupert av russiske soldater? Fotballaget Sjakhtar Donetsk spiller alle kampene sine på bortebane, og gjør ukrainere stolte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/fcc7179b-2f15-4b59-bb9b-bddc7d11559f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/fcc7179b-2f15-4b59-bb9b-bddc7d11559f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:20</itunes:duration>
-      <pubDate>Thu, 23 Nov 2023 16:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hkWa7SzcLNwMOrpEvl-mhwNxL9iYZODbcp8ApEw_8YLw.jpg"/>
     </item>
   </channel>
 </rss>

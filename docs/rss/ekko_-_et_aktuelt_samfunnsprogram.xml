@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 23 Dec 2023 05:26:19 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Dec 2023 05:27:18 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Festrøyking - kult eller kleint?  </title>
+      <description><![CDATA[Stadig flere unge røyker av og til. Hvorfor røyker folk når de ikke "må", og er det farlig? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fa6a6bd1-e87b-4374-8721-46a936cae126_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fa6a6bd1-e87b-4374-8721-46a936cae126_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:03</itunes:duration>
+      <pubDate>Wed, 27 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PQbv0HdgBGOCEaMsdLnlgw6dWx7zJYhD7EL6cSEBHvCQ.jpg"/>
+    </item>
     <item>
       <title>Er det lov å eksperimentere med julemat?</title>
       <description><![CDATA[Pinnekjøtt i vaffel med barbeque-saus, klementin og salat..
@@ -96,15 +105,6 @@ Ekko sitt panel svarar lyttarane. ]]></description>
       <itunes:duration>36:07</itunes:duration>
       <pubDate>Fri, 08 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/svloPndRyPtPsXuk2Q8dcQluI3Spd4vupgSSPPTGSsGg.jpg"/>
-    </item>
-    <item>
-      <title>Stiller du dine egne diagnoser? </title>
-      <description><![CDATA[Selvtester for psykiske lidelser har tatt helt av på sosiale medier. Kan vi stole på dem?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/270ca3ba-2c71-450d-abff-a7ff5ede08bc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/270ca3ba-2c71-450d-abff-a7ff5ede08bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:08</itunes:duration>
-      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_Wl8ESFtvg5ytqSsE6wGlAAbLNC3mfHt9Ebn5kwp3jjA.jpg"/>
     </item>
   </channel>
 </rss>
