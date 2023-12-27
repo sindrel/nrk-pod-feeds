@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2023-12-27  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2023-12-22  
 - Updated podcast 'Sommer i P2' (`sommer_i_p2`)  
 ### 2023-12-21  
