@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2023-12-29  
+- Updated podcast 'Meininga med livet' (`meininga_med_livet`)  
+- Podcast 'Sophie og Fetisha' is considered obsolete and will be ignored in the future (`sophie_og_fetisha`)  
 ### 2023-12-27  
 - Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2023-12-22  
