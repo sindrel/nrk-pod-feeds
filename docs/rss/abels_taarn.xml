@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Dec 2023 06:29:51 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Dec 2023 07:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 29 Dec 2023 10:29:53 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Dec 2023 11:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Abels tårn - Årskavalkade 2023</title>
+      <description><![CDATA[Abels-redaksjonen byr, tradisjonen tro, på et raust tilbakeblikk på årets sendinger.
+Vi sender strøm gjennom publikum, og spør om baksten blir bedre når månen er ny?
+Vi spiser giftsopper, regenererer kroppsdeler og benytter karaoke som medisin.
+Vi gir grunnstoffene en poetisk overhaling og ønsker alle våre lyttere et riktig godt nytt år!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/299c6f79-7e50-4ba3-9dbc-576c36bcfae4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/299c6f79-7e50-4ba3-9dbc-576c36bcfae4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:20</itunes:duration>
+      <pubDate>Fri, 29 Dec 2023 11:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten - alkohol og hjernebark, funn av stormunn hai,  atomklokke</title>
       <description><![CDATA[Nyheter fra vitenskapens verden:                      
@@ -162,18 +174,6 @@ Fysiker Andres Kvellestad
       <itunes:duration>57:11</itunes:duration>
       <pubDate>Fri, 08 Dec 2023 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WWuyf0foplFZKPOYiJZ3VQX_v1LTAckNp-9wlM6TMuvQ.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten</title>
-      <description><![CDATA[-	OMG-partikkelen - Den nest mest kraftigste kosmiske strålen kommer fra… Ingen vet, men hun har fått navn etter den japanske solgudinnen
--	Droner og kunstig intelligens blir et nytt tilleggsverktøy for å finne landminer
--	Ultralyd kan legge hamstre i dvale.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9bf772ba-97ed-44c0-bfd5-b6f63dd26ea4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9bf772ba-97ed-44c0-bfd5-b6f63dd26ea4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:33</itunes:duration>
-      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
     </item>
   </channel>
 </rss>
