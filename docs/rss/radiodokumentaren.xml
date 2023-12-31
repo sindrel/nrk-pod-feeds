@@ -1,51 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 19:37:45 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Dec 2023 06:03:00 +0100</pubDate>
+    <lastBuildDate>Sun, 31 Dec 2023 04:28:39 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Dec 2023 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>En annens drøm (1:4)</title>
-      <description><![CDATA[Det musikalske vidunderbarnet Maria Kannegaard tror at hun ikke fins i virkeligheten, men at hun lever i en annens drøm.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/faf72f15-c61d-4927-a613-f8ef236a1cc7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/faf72f15-c61d-4927-a613-f8ef236a1cc7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:23</itunes:duration>
-      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/u8ka873XBgInexRCahXHUATgoAUgssjPFmD3YHNRiYsQ.jpg"/>
-    </item>
-    <item>
-      <title>Delt i to (2:4)</title>
-      <description><![CDATA[Maria får diagnosen schizofreni og blir innlagt på psykiatrisk sykehus. Men så våkner musikken i henne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/c0f73dd3-7e45-4609-9e3d-4579d2e23f51_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/c0f73dd3-7e45-4609-9e3d-4579d2e23f51_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:16</itunes:duration>
-      <pubDate>Mon, 11 Dec 2023 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/u8ka873XBgInexRCahXHUATgoAUgssjPFmD3YHNRiYsQ.jpg"/>
-    </item>
-    <item>
-      <title>Nidelven stille (3:4)</title>
-      <description><![CDATA[Maria får en ny diagnose og slutter å ta antipsykotiske medisiner, og nå går hun inn i en farlig, alternativ virkelighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4fc222f6-daab-483a-b19d-1930ca93a914_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4fc222f6-daab-483a-b19d-1930ca93a914_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:39</itunes:duration>
-      <pubDate>Mon, 11 Dec 2023 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/u8ka873XBgInexRCahXHUATgoAUgssjPFmD3YHNRiYsQ.jpg"/>
-    </item>
-    <item>
-      <title>Valkyrien (4:4)</title>
-      <description><![CDATA[På Valkyrien Restaurant i Oslo står et gammelt, ustemt piano. Det redder Maria Kannegaards karriere. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/460ecb18-a783-44df-9dac-faf325645147_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/460ecb18-a783-44df-9dac-faf325645147_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:59</itunes:duration>
-      <pubDate>Mon, 11 Dec 2023 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/u8ka873XBgInexRCahXHUATgoAUgssjPFmD3YHNRiYsQ.jpg"/>
+      <title>Kommer i NRK Radio</title>
+      <description><![CDATA[13 år gamle Adam fremstår som et vidunderbarn. Ingen vet at den skalla, underlige gutten skjuler en grotesk hemmelighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/3fbd1ca0-c6b4-489b-800b-30b051bf7852_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/3fbd1ca0-c6b4-489b-800b-30b051bf7852_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:26</itunes:duration>
+      <pubDate>Sun, 31 Dec 2023 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
     </item>
   </channel>
 </rss>
