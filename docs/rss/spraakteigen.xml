@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 24 Dec 2023 05:27:25 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 31 Dec 2023 05:27:17 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Dec 2023 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ.jpg"/>
+    <item>
+      <title>Språksnakk nyttårsspesial Podcast</title>
+      <description><![CDATA[Her serveres et knippe av det beste fra Språksnakk i året som har gått, i nyttårsinnpakning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/8410606c-d55b-4444-bcf1-0e5285b91066_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/8410606c-d55b-4444-bcf1-0e5285b91066_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:24</itunes:duration>
+      <pubDate>Sun, 31 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ.jpg"/>
+    </item>
     <item>
       <title>Språksnakk Julespesial</title>
       <description><![CDATA[Vi har samlet et knippe spørsmål fra Språksnakk-året, og gir lytterne god språkunderholdning  i juleinnpakning.]]></description>
@@ -93,17 +102,6 @@ I dag - etymologi spesial! I panelet: Ragnhild Holmås og Toril Opsahl
       <enclosure url="https://podkast.nrk.no/fil/spraakteigen/7582c199-a701-4390-8e91-3f3d48150c31_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:46</itunes:duration>
       <pubDate>Fri, 27 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ.jpg"/>
-    </item>
-    <item>
-      <title>Ørdobbel, Noreg og "miste det"</title>
-      <description><![CDATA[Hvis noen forteller at de "mistet det helt" - hva mistet de?
-
-I panelet: Anne Dahl, Stian Hårstad og Øystein Vangsnes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/2671ba6a-3382-4be2-a02c-b9bacd30feeb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/2671ba6a-3382-4be2-a02c-b9bacd30feeb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:23</itunes:duration>
-      <pubDate>Fri, 20 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CL25r8aK4JqzmNEr3AJDbg7Riey0B-Fs2dPfVZ8pL4ZQ.jpg"/>
     </item>
   </channel>
