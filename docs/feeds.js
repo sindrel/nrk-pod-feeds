@@ -151,7 +151,7 @@ const feeds = [
     "id": "debatten",
     "title": "De 10 siste fra Debatten",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "delfi_og_dolfy",
