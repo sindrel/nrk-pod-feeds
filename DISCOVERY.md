@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-01-01  
+- Updated podcast 'Burde vært pensum' (`burde_vaert_pensum`)  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2023-12-31  
 - Updated podcast 'Debatten' (`debatten`)  
 ### 2023-12-29  
