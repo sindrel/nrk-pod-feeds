@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 05:27:50 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 05:28:37 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Bare gråt! - med Sofie Frøysaa</title>
+      <description><![CDATA[Hun er et sippetryne, og glad for det. Komiker og forfatter Sofie Frøysaa forteller deg om gråtens fortreffelige kvaliteter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/b955eb33-ed9d-425f-83d2-ebefc957adec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/b955eb33-ed9d-425f-83d2-ebefc957adec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:21</itunes:duration>
+      <pubDate>Mon, 01 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FrA7gCe_TaRYcKzQvovRhQpZBkSYUo4prX6ti9vsV9xQ.jpg"/>
+    </item>
     <item>
       <title>Når du satser alt - med Ragnhild Lund Andsnes</title>
       <description><![CDATA[Familien forlot alt for å starte hotell i Liverpool. Etter mye motgang, har journalist og forfatter Ragnhild Lund Ansnes noe å dele med deg.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:08</itunes:duration>
       <pubDate>Thu, 07 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZLX07if5gkXR72ZJH2ZePAmWiyev_kCi7u-v01DqK_AA.jpg"/>
-    </item>
-    <item>
-      <title>Mora mi var ei kjeftesmelle - med Anja Solvik</title>
-      <description><![CDATA[Hun kunne kjefte for alle slags ting. Men mamma var også hennes beste forsvarer. Anja Cecilie Solvik er billedkunstner og gallerieier.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d8bf91ed-e904-42e4-8e12-befbad2c434a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d8bf91ed-e904-42e4-8e12-befbad2c434a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:54</itunes:duration>
-      <pubDate>Wed, 06 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0fgAdBTb88JJRIw_tib2igCdRVJPMY70N-AUChe7YCXw.jpg"/>
     </item>
   </channel>
 </rss>
