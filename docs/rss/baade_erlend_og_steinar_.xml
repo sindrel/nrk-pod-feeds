@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Dec 2023 05:27:51 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 09:24:35 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Ugler og usannheter</title>
+      <description><![CDATA[Er Steinars historie om grisene fantasi? Erlend får masse støt og lurer på hvor mange ugler som er rart å se. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2d01da91-a36f-4918-89e7-2961e9e69a13_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2d01da91-a36f-4918-89e7-2961e9e69a13_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:04</itunes:duration>
+      <pubDate>Mon, 01 Jan 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>Amfibier</title>
       <description><![CDATA[Steinar innrømmer et og annet om sitt forhold til amfibier. Og kan man være for tiltrekkende? ]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/7b23c84c-8835-46ab-a235-36839b4f90f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:45</itunes:duration>
       <pubDate>Mon, 30 Oct 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Mann mot bjørn</title>
-      <description><![CDATA[Kan man øve på å gripe inn i vonde situasjoner? Steinar har levert på forrige ukes utfordring og Erlends far byr på kjærkommen kunnskap, igjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/6dc08c55-cd9f-48e2-9ae1-0153d2e0b7f2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/6dc08c55-cd9f-48e2-9ae1-0153d2e0b7f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:50</itunes:duration>
-      <pubDate>Mon, 23 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>
