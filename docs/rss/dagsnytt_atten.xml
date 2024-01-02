@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 29 Dec 2023 18:28:04 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Dec 2023 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Jan 2024 19:22:01 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jan 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Nye angrep på Ukrainas hovedstad Kyiv</title>
+      <description><![CDATA[Palle Ydstebø ved Krigsskolen mener Putins mål er at den ukrainske befolkningen skal gi opp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6322ed4c-edc6-4c9b-bf51-dfb4f7d78490_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6322ed4c-edc6-4c9b-bf51-dfb4f7d78490_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 02 Jan 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jr56t7fyURhyYYj9xzkrfQgHV65I1QozCnmIsqqOZgTg.jpg"/>
+    </item>
     <item>
       <title>Dagsnytt 18 oppsummerer året</title>
       <description><![CDATA[Årets aller siste sending der programlederne ser tilbake på noen av debattene som preget året, eller som for lengst er glemt. Og så kommer årets oftest møtende gjest på nok et besøk.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 13 Dec 2023 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GwviKJDZQz90x-SrAKM9OAmBbcbR1UtRSE92N6FHMqJA.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen kutter i støtten til Tines konkurrenter</title>
-      <description><![CDATA[Q-meieriene advarer om dårligere utvalg og dyrere produkter, når regjeringen kutter i støtten fra og med juli.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/76f16129-dc4e-4960-9ce4-44730fb93144_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/76f16129-dc4e-4960-9ce4-44730fb93144_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 12 Dec 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/47CJG-1j2_CMcUEqpeuSLw7WYGN10frRITfe4wAN4m9A.jpg"/>
     </item>
   </channel>
 </rss>
