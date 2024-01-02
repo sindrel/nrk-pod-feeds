@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 26 Oct 2023 04:28:19 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Oct 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jan 2024 07:22:33 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Klar for nye radioeventyr</title>
+      <description><![CDATA[Det er forskjell på å bli beskyldt, eller bare mistenkt for svindel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/4f200b8e-88e9-480b-80c4-7c629c3d3d3f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/4f200b8e-88e9-480b-80c4-7c629c3d3d3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:39</itunes:duration>
+      <pubDate>Tue, 02 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
+    </item>
     <item>
       <title>Evaluering: Dett var dett</title>
       <description><![CDATA[Ståle tar Runes dårlige nyheter med fatning.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>06:08</itunes:duration>
       <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
-    </item>
-    <item>
-      <title>Fotball med kniv eller kjepp?</title>
-      <description><![CDATA[Lokaloppgjør, musikalske patroner og ny låt fra Sølvkråkebolle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/a7108c77-2a98-445f-97bb-621d75ff8b77_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/a7108c77-2a98-445f-97bb-621d75ff8b77_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:06</itunes:duration>
-      <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WOT9-PFmSMktCUybcr8V4QwZkb15RfZIEJAo8wi1yx-w.jpg"/>
     </item>
   </channel>
 </rss>
