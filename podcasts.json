@@ -925,7 +925,7 @@
         "id": "radio_utslagsnes",
         "title": "De 10 siste fra Radio Utslagsnes",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "radiodokumentaren",
@@ -1025,7 +1025,7 @@
         "id": "seriesnakk",
         "title": "De 10 siste fra Seriesnakk",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "sex_over_60",
