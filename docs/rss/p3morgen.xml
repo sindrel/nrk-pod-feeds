@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 12:42:30 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jan 2024 12:30:00 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2024 12:42:51 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jan 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Ler av Dagsrevyen-tabbe</title>
+      <description><![CDATA[Anders Aukland fra "Mesternes Mester" er på besøk, Egil Skurdal lager låter om deg og hvorfor ta dyrt maleri når du kan ta en morgenkåpe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5822246e-21ba-4ccd-9110-c2808a50625d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5822246e-21ba-4ccd-9110-c2808a50625d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:29</itunes:duration>
+      <pubDate>Wed, 03 Jan 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7vLnxppOLv3wBjpNuvt_zAG_nFijKOpQ-HztUmCAYJmQ.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Vi er tilbake!</title>
       <description><![CDATA[Godt nytt år kjøre noe attåt-lytter<3 Vi debriefer jula. Til stede: Adelina, Tete, Johannes, Daniel og ho Anna. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>48:37</itunes:duration>
       <pubDate>Fri, 15 Dec 2023 11:11:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jbs_r9X1hnNrhsToXx4VfQVEJoQU6dLJ97QQj_l81BgA.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Snacks på kino</title>
-      <description><![CDATA[Vi snakker om det beste vi har sett på i år! Til stede: Tete, Adelina, Johannes og Anna. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b70eadff-7c29-44cf-9009-25b7d69416f2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b70eadff-7c29-44cf-9009-25b7d69416f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:14</itunes:duration>
-      <pubDate>Thu, 14 Dec 2023 14:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
