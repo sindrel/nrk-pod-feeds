@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 03 Jan 2024 05:28:28 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 05:28:11 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Evaluering: Du er den fjerde statsmakt</title>
+      <description><![CDATA[Vi diskuterer trenden med vassing og smaker på tørr-maneter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/75d02817-5e31-41e8-ab16-da4a06ffd90a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/75d02817-5e31-41e8-ab16-da4a06ffd90a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:57</itunes:duration>
+      <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
+    </item>
     <item>
       <title>Olsenvirus og turistattraksjoner</title>
       <description><![CDATA[Johnnyjohnny er tilbake, og lensmannen har tvilsomme formaninger.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>06:24</itunes:duration>
       <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
-    </item>
-    <item>
-      <title>Uten billett kommer du faen ikke inn</title>
-      <description><![CDATA[Sending fra Feskslodagan og konsert med Bollan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/88acd311-23aa-403c-ba5c-31b3a42745ea_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/88acd311-23aa-403c-ba5c-31b3a42745ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:29</itunes:duration>
-      <pubDate>Wed, 04 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x4zERf6uGfat0lh-1H5v1AaG-nA97Lsovvp6eTdSD-UQ.jpg"/>
     </item>
   </channel>
 </rss>

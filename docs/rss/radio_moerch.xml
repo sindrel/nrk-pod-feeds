@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 05:28:00 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 05:28:08 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Amalie Stuve er tilbake igjen!</title>
+      <description><![CDATA[Amalie Stuve er første gjest ut i 2024. Vi snakker om nyttårsforsetter, revyer, løping og barndom. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/e0688ca9-a899-4154-8faf-b83a7338021a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/e0688ca9-a899-4154-8faf-b83a7338021a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:15:14</itunes:duration>
+      <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ISm2w1T3bDkhWC8K9om6iQVXykW_2yxORKbk-u1_AvGA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra 2023</title>
       <description><![CDATA[Jeg har plukka ut noen øyeblikk jeg likte fra året som har gått. Takk til alle som har hørt på. Høres igjen 4. januar!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:30:20</itunes:duration>
       <pubDate>Thu, 26 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WMH0PX4IbSPFFkPn6KTl_gayO3T9dd2bq8pf_JFWyrSw.jpg"/>
-    </item>
-    <item>
-      <title>Thorleif</title>
-      <description><![CDATA[Nok kjendiser! Min venn Thorleif er på besøk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/cb01a39a-e4c2-4ec5-9f5f-bbf1f2586197_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/cb01a39a-e4c2-4ec5-9f5f-bbf1f2586197_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:21:23</itunes:duration>
-      <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nHMvB7992e-l2gMCtpuiZQVcdNKE7QROjxfB3Mj0y6Fg.jpg"/>
     </item>
   </channel>
 </rss>
