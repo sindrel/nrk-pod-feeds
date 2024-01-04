@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 28 Dec 2023 07:22:06 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Dec 2023 08:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 15:27:53 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 15:40:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    <item>
+      <title>2024: Seriene vi gleder oss til</title>
+      <description><![CDATA[Sigurd og Marte kårer de 10 seriene de gleder seg aller mest til i år!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/c18da88d-0aa1-4a76-9e5f-0bae98f9fad5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/c18da88d-0aa1-4a76-9e5f-0bae98f9fad5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:57</itunes:duration>
+      <pubDate>Thu, 04 Jan 2024 15:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
+    </item>
     <item>
       <title>2023: Årets beste filmer</title>
       <description><![CDATA[Filmpolitiet kårer de beste filmene fra året som har gått. ]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/25e03082-3894-4496-a06f-e73445313104_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:20</itunes:duration>
       <pubDate>Thu, 02 Nov 2023 16:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
-    </item>
-    <item>
-      <title>Skjulte skrekkskatter</title>
-      <description><![CDATA[Vi deler ni skrekkfavoritter som enten er skjulte perler eller grøssere som har fått for lite oppmerksomhet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/705b85d3-a297-4421-9f34-d59d77fe9254_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/705b85d3-a297-4421-9f34-d59d77fe9254_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:39</itunes:duration>
-      <pubDate>Thu, 26 Oct 2023 16:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
     </item>
   </channel>
