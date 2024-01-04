@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 14:27:29 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Dec 2023 14:45:00 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 14:27:45 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Jenny Skavlan</title>
+      <description><![CDATA[-Jeg føler meg mettet på oppmerksomhet, sier klesgründeren og programlederen. Men hun er åpen for at hun muligens er avhengig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/208dcc55-bd99-4898-94b9-c71f8ac8ff01_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/208dcc55-bd99-4898-94b9-c71f8ac8ff01_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:12</itunes:duration>
+      <pubDate>Thu, 04 Jan 2024 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KmVhaOoavBEEwlt6uF3ebgSlmwAzUebbamyBDmBWWegg.jpg"/>
+    </item>
     <item>
       <title>Alexandra Joner</title>
       <description><![CDATA[Artisten sier hun har masse energi og er "gæren" i hodet. Nå har hun laget podkast om egen kjærlighetssorg.
@@ -97,15 +106,6 @@
       <itunes:duration>57:34</itunes:duration>
       <pubDate>Thu, 07 Dec 2023 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6WI3AlIfuOl6eeXkonT-6QFaHpIEjZs3CrruZSuzGXIA.jpg"/>
-    </item>
-    <item>
-      <title>Inga Bejer Engh</title>
-      <description><![CDATA[Barneombudet om ungdomskriminalitet, barnevernet og 6-åringen hun aldri glemmer]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b1718dca-60ea-4787-a770-bf5c1a5b1481_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b1718dca-60ea-4787-a770-bf5c1a5b1481_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:11</itunes:duration>
-      <pubDate>Wed, 06 Dec 2023 14:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Eew_OKEW0eQyh6fLPBSq3gSL4j3dpkWkfp4PandQZrUA.jpg"/>
     </item>
   </channel>
 </rss>
