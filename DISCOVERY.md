@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-04  
+- Updated podcast 'Meininga med livet' (`meininga_med_livet`)  
 ### 2024-01-02  
 - Updated podcast 'Radio Utslagsnes' (`radio_utslagsnes`)  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
