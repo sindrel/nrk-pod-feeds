@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-05  
+- Updated podcast 'Debatten' (`debatten`)  
 ### 2024-01-04  
 - Updated podcast 'Meininga med livet' (`meininga_med_livet`)  
 ### 2024-01-02  
