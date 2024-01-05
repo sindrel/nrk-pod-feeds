@@ -7,10 +7,24 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 29 Dec 2023 10:29:53 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Dec 2023 11:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2024 13:26:27 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jan 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Vi kårer de største forskningsgjennombruddene i 2023</title>
+      <description><![CDATA[Fire eksperter oppsummerer forskningsåret som kom og gikk.
+I Panelet:
+Fysiker- og KI forsker Inga Strümke
+Klimaforsker Bjørn Samset
+Molekylærbiolog Sigrid Bratlie
+Romforsker Pål Brekke ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/2c66d71d-24d4-4a05-a7ab-b361838eb8d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2c66d71d-24d4-4a05-a7ab-b361838eb8d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:38</itunes:duration>
+      <pubDate>Fri, 05 Jan 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m7yrMQaPy2kNd4kpwM7amwYKswlE4KUU7p_P-LQk7oew.jpg"/>
+    </item>
     <item>
       <title>Abels tårn - Årskavalkade 2023</title>
       <description><![CDATA[Abels-redaksjonen byr, tradisjonen tro, på et raust tilbakeblikk på årets sendinger.
@@ -146,34 +160,6 @@ KI-superstjerne Inga Strümke er en av dem som mener simuleringshypotesen er pla
       <itunes:duration>25:56</itunes:duration>
       <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PjBiDIwd9rug3im5DcoZwAaXPmt0y1i4s6pdqX3kYY7A.jpg"/>
-    </item>
-    <item>
-      <title>Abels tårn - Påvirker sovestilling hjernens utvikling?</title>
-      <description><![CDATA[I panelet:
-Hjerneforsker Marte Julie Sætra
-Geolog Reidar Müller
-Fysiker Andres Kvellestad
-
-- Hva er sannsynligheten for at en ape kan skrive Shakespeare? 
-
-- Påvirker sovestilling hjernens utvikling?
-
-- Hvor kommer saltet i havet fra?
-
-- Hva er sannsynligheten for å bli født?
-
-- Hva viser Santiago Cajals forskning egentlig?	
-
-- Hvordan stiger Norge frem?	
-
-- Vil fotonblanding lage uskarpe bilder?
-
-- Hvordan er det plass til alt lyset i verdensrommet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/28d87fb8-f5d2-44a1-8abf-672fd304fb10_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28d87fb8-f5d2-44a1-8abf-672fd304fb10_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:11</itunes:duration>
-      <pubDate>Fri, 08 Dec 2023 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WWuyf0foplFZKPOYiJZ3VQX_v1LTAckNp-9wlM6TMuvQ.jpg"/>
     </item>
   </channel>
 </rss>
