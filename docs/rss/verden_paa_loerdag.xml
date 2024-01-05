@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Dec 2023 05:27:43 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2024 05:28:24 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Hvor korrupt er Ukraina?</title>
+      <description><![CDATA[Milliarder blir gitt til Ukraina, men havner pengene der de skal? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/c555ad77-0ff4-44ee-a6b4-d37b935c5352_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/c555ad77-0ff4-44ee-a6b4-d37b935c5352_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:33</itunes:duration>
+      <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9HVUfMx0vWepOJCvDPPz1gKwBQBiO-VIr9pd6gKL5K4A.jpg"/>
+    </item>
     <item>
       <title>Slik husker vi 2023</title>
       <description><![CDATA[Det blir mye krig og bare litt fred når Urix oppsummerer året som har gått. Men det finnes fortsatt håp og varme i verden!]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>12:25</itunes:duration>
       <pubDate>Fri, 01 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7mJrlaPsxHV4VMAQ5M3qFQhhgOcGZKWhiZMKq6AyCSAQ.jpg"/>
-    </item>
-    <item>
-      <title>Israel splitter Bidens parti</title>
-      <description><![CDATA[Splittelse om Israel-politikken i eget parti kan gi Biden trøbbel, og bane veien for Trump.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/889f12f0-3f8d-4e9f-8b1a-8bbc59a92c0e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/889f12f0-3f8d-4e9f-8b1a-8bbc59a92c0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:20</itunes:duration>
-      <pubDate>Sat, 25 Nov 2023 12:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2ERInw1bEQB_I3kXdJdO1gp5lNwHpDdf8XPOmnDW43JQ.jpg"/>
     </item>
   </channel>
 </rss>
