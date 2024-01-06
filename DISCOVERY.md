@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-01-06  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+- Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 ### 2024-01-05  
 - Updated podcast 'Debatten' (`debatten`)  
 ### 2024-01-04  
