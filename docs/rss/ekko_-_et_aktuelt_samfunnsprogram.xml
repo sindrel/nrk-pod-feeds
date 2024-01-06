@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 05 Jan 2024 05:27:55 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 06 Jan 2024 05:26:55 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Singeløkonomi</title>
+      <description><![CDATA[Er det egentlig dyrere å være singel i Norge? Økonom Silje Sandmæl gir sine beste tips for å møte dyrtiden med en aleneøkonomi. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/923ca2c6-95ec-441b-9b31-484cf76bd9d6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/923ca2c6-95ec-441b-9b31-484cf76bd9d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:10</itunes:duration>
+      <pubDate>Sat, 06 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cJYlOK2ap4cYz-PcQZjoBwMmOGjxMrGwH0-XqHw1ZV-Q.jpg"/>
+    </item>
     <item>
       <title>Antibiotikaresistens kan bli den nye pandemien</title>
       <description><![CDATA[Hvis vi ikke gjør noe drastisk, blir koronapandemien rene barnematen i forhold til resistente bakterier.
@@ -97,15 +106,6 @@ Men kan sykehuset klandres?
       <itunes:duration>57:25</itunes:duration>
       <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tUw_8qabINb2o42Am9brzAOPwuKrT-StDw7JSDSjhp9g.jpg"/>
-    </item>
-    <item>
-      <title>Hvem forteller sannheten om Gaza?</title>
-      <description><![CDATA[Mange unge får sine nyheter om Gazakrigen fra sosiale medier. Kan den nye generasjonens blikk faktisk påvirke konflikten? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/899074a1-967a-4a3b-8269-e1f5c5ed0d0e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/899074a1-967a-4a3b-8269-e1f5c5ed0d0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:25</itunes:duration>
-      <pubDate>Thu, 14 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/G5KGPirGMrx8xjykvx2Wawd0rgt9_1rBWpueyCjMpVlA.jpg"/>
     </item>
   </channel>
 </rss>
