@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-07  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2024-01-06  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
