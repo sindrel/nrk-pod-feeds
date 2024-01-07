@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Seriesnakk</title>
+    <title>De 7 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 03 Dec 2023 05:26:38 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Jan 2024 07:22:17 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aP5YrPy3ULG8bhqM3UzHUwhNgJ3hN8iCyN-CiuOuzHPg.jpg"/>
+    <item>
+      <title>- Nu ska æ føkke opp det her</title>
+      <description><![CDATA[Elle Márjá Eira om å tilnærme seg "Makta" og regissere episode 7. Marius Lien om å være nytt fjes i serien, i rollen som Wiktor Martinsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/510dd7ce-97d0-4a7b-9966-23f11fa09e5b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/510dd7ce-97d0-4a7b-9966-23f11fa09e5b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:32</itunes:duration>
+      <pubDate>Sun, 07 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u3wxt55e5GW1viNJtgLM1gkfJAF0sv__ESzZi5Qk7Zow.jpg"/>
+    </item>
     <item>
       <title>- Min teori er at han er en dramaqueengründer</title>
       <description><![CDATA[Få svar på alt du lurer på om «Makta» av manusforfatter og serieskaper Johan Fasting.]]></description>

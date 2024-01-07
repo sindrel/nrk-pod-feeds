@@ -1025,7 +1025,7 @@ const feeds = [
     "id": "seriesnakk",
     "title": "De 10 siste fra Seriesnakk",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "sex_over_60",
