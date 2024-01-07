@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 31 Dec 2023 05:27:20 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Jan 2024 05:28:03 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Beathoven</title>
+      <description><![CDATA[Else får på seg maske og blir med til musikkgruppa Beathoven sitt studio for en prat om suksessen, identitet og drømmen om Spektrum. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/2e0f8d9c-604f-4152-8334-57b59bf26ac3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/2e0f8d9c-604f-4152-8334-57b59bf26ac3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:50</itunes:duration>
+      <pubDate>Sun, 07 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ADT4i0Gg0Ll3HlFhEPwEFAUy9tvDN8O51pyWDJGLTwEA.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Kevin Lauren</title>
       <description><![CDATA[Kevin Lauren ønsker deg et godt nyttår og kommer med livsvisdom fra det gamle, når Else kommer på nyttårsbesøk.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:38</itunes:duration>
       <pubDate>Sun, 05 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/8G1BD7rfMDH_bpHnLbXcOQdEhYRMtcEc8iHs5OyqHQEA.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Gucci Gaute</title>
-      <description><![CDATA[Komiker Gaute Berg Næss forteller om brann i leiligheten, ny nyre og tvilsom kamerateknikk når Else kommer på besøk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/45d7fa5d-88b2-4084-976d-9e1273698952_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/45d7fa5d-88b2-4084-976d-9e1273698952_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:43</itunes:duration>
-      <pubDate>Sun, 29 Oct 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y1aR3qS7QY8AetZwelQK-AFUu4NLYiraxMLxfZ90eq-Q.jpg"/>
     </item>
   </channel>
 </rss>
