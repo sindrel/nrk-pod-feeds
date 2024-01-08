@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Jan 2024 13:27:44 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jan 2024 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Jan 2024 15:25:56 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jan 2024 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Nye programledere</title>
+      <description><![CDATA[Snorre og Gaute får prøve seg som programledere i P3morgen, og Adelina får huket av et punkt på sin bucket list: å sleike på en iskald stolpe. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a81bd62f-df0d-4cc8-ad69-6208028dbca0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a81bd62f-df0d-4cc8-ad69-6208028dbca0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:05</itunes:duration>
+      <pubDate>Mon, 08 Jan 2024 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ySQr5DTR_gefkfa0ZEWwqgSRcVo2-tDiyCgCiO_tVMYQ.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Maaemo og skrekk</title>
       <description><![CDATA[Karsten lander på hva han skal drikke på Maaemo,  Sofie har sett skrekkfilm og er traumatisert, Anna har fått fryste rør. Tilstede: Adelina, Tete, Karsten, Anna og Sofie ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:01:35</itunes:duration>
       <pubDate>Tue, 02 Jan 2024 12:29:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eGMAhENKAJbhd_hEd5gfowgEs_gEKK6nWzjZiv-i8I6A.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: God jul fra Dos Habaneros </title>
-      <description><![CDATA[Dr Jones og Vangen tar deg med inn i jula. Det blir prat om jul, vi leser mailer og kjører hotsteat. Gooooood juuuuuuuuul.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d9ba1069-2120-48f7-95c3-3c1862f4d1ff_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d9ba1069-2120-48f7-95c3-3c1862f4d1ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:57</itunes:duration>
-      <pubDate>Fri, 22 Dec 2023 10:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/94xoQiHv1bRv9yc47IriqANYX545EAltaw44XMqQxpog.jpg"/>
     </item>
   </channel>
 </rss>
