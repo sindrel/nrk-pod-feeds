@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 01 Jan 2024 05:28:34 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Jan 2024 05:28:28 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Trond Viggos mørke fantasier</title>
+      <description><![CDATA[Trond Viggo har et kreativt mørke i seg, men han ville aldri gjort det. Ikke på ordentlig. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/8889a8cf-3317-4a55-9d93-04bf9a71545d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/8889a8cf-3317-4a55-9d93-04bf9a71545d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:59</itunes:duration>
+      <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CfFWU7KW0905_CjuwloNFQyuY68D9I5kOALcO1PkysIg.jpg"/>
+    </item>
     <item>
       <title>Espen Abrahamsens strippeklubbkveld</title>
       <description><![CDATA[Premiere på nær strippeklubbdød! ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>54:17</itunes:duration>
       <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/KxTkrhdn2u0NkXnT5ciM3wosSqF1scT5MY5jutGPY4uw.jpg"/>
-    </item>
-    <item>
-      <title>Hopp, Olli Wermskog! Hopp! </title>
-      <description><![CDATA[Hyperallergisk, engstelig og uredd. Sammensatt type, Olli. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/1a4cd18c-64f1-47da-b1f9-8772c2fb7f8b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/1a4cd18c-64f1-47da-b1f9-8772c2fb7f8b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:50</itunes:duration>
-      <pubDate>Mon, 30 Oct 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/K9sZZdfZUfCWRTcCGYZ3Dwbh9qUaNylWmnMtHj6Ok1dQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 05:27:58 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Jan 2024 05:28:32 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Andefjeset - med Ingeborg Senneset</title>
+      <description><![CDATA[Hun hadde tenkt hun skulle se bedre ut, men resultatet ble snarere det stikk motsatte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/b3e6a7e5-308e-4270-bfc6-16b2ccc3a701_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/b3e6a7e5-308e-4270-bfc6-16b2ccc3a701_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:23</itunes:duration>
+      <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MxHK47VC4FNfH4DOXUT9qw8WVZLrrZFdCxmFBgUW-Y-g.jpg"/>
+    </item>
     <item>
       <title>Jeg er Mamma - med Monica Johansen</title>
       <description><![CDATA[Etter at hun hadde ventet i fem år, ble artist Monica Johansen endelig gravid. Men babylykken ble slett ikke som hun hadde drømt om.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>04:33</itunes:duration>
       <pubDate>Tue, 12 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BDA5TijEN1zHd0KaRx-gMQLsixygxvb_8RWg5bhDGWdg.jpg"/>
-    </item>
-    <item>
-      <title>Plan B - med Gunnhild Sundli</title>
-      <description><![CDATA[Da pandemien slo ned, mistet hun levebrødet. Men snart gikk rockestjerna opp trappa til NAV. Som nyutdannet veileder. Møt Gunnhild Sundli.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/ced6388c-5feb-449d-88fe-e4cb8c8e137e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ced6388c-5feb-449d-88fe-e4cb8c8e137e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:14</itunes:duration>
-      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sOUwVVFxieZMgJLWOHgbaQPyqObH6vV8w8vCCLtwCKiA.jpg"/>
     </item>
   </channel>
 </rss>
