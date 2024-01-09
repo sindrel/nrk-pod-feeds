@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 04 Jan 2024 14:27:45 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jan 2024 15:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2024 14:28:55 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2024 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Sylo Taraku </title>
+      <description><![CDATA[- Innvandrere har et eget driv, sier statsviteren og forfatteren. Han flyktet fra krigen i Kosovo til Norge som 18-åring.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4a7b0205-613a-4906-aa4d-e6684e87b240_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4a7b0205-613a-4906-aa4d-e6684e87b240_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Tue, 09 Jan 2024 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dOWJ0jfWx2y71GV_AREsuAQsS8PSzmhB4Iid1sEVrptg.jpg"/>
+    </item>
     <item>
       <title>Jenny Skavlan</title>
       <description><![CDATA[-Jeg føler meg mettet på oppmerksomhet, sier klesgründeren og programlederen. Men hun er åpen for at hun muligens er avhengig.]]></description>
@@ -97,15 +106,6 @@
       <itunes:duration>57:14</itunes:duration>
       <pubDate>Mon, 11 Dec 2023 14:46:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NfK8oLpDyVqVR7rn1l8d4gSq4cL8siQ1ExjmnhghOipw.jpg"/>
-    </item>
-    <item>
-      <title>Terje Ommundsen </title>
-      <description><![CDATA[Kokken måtte pantsette bilen da restauranten slet - Jeg gir aldri opp, sier han.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b4470cf0-058a-47a1-b8dd-6fd140b5ff69_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b4470cf0-058a-47a1-b8dd-6fd140b5ff69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:34</itunes:duration>
-      <pubDate>Thu, 07 Dec 2023 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6WI3AlIfuOl6eeXkonT-6QFaHpIEjZs3CrruZSuzGXIA.jpg"/>
     </item>
   </channel>
 </rss>
