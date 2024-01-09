@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Jan 2024 18:29:50 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jan 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2024 19:21:53 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Helse Nord trekker sykehusplan</title>
+      <description><![CDATA[Helse Nord trakk i dag forslaget om ny sykehusstruktur i Nord-Norge etter splittelse i styret.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6cf01c25-7ac9-46ed-9b8e-4c31d3ca0ed4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6cf01c25-7ac9-46ed-9b8e-4c31d3ca0ed4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 09 Jan 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rsPytHAoTZgYDxcSj0WNzQZnVwNKCrotI9pKRHJr0obw.jpg"/>
+    </item>
     <item>
       <title>Den norske naturen forsvinner bit for bit</title>
       <description><![CDATA[- Er det kommunale selvstyret en trussel mot naturen? Spørsmålet reises etter at NRK har kartlagt hvordan naturen forsvinner bit for bit i Norge. 44.000 inngrep i norsk natur de siste fem årene tilsvarer en fotballbane med natur som forsvinner i timen]]></description>
@@ -92,15 +101,6 @@ Kvinnen fikk ikke innvilget voldsalarm eller omvendt voldsalarm.  Både politike
       <itunes:duration>58:56</itunes:duration>
       <pubDate>Wed, 20 Dec 2023 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xJh3tw8YlvMKeu8xp_IJHQjmyED10Fo3nu8NmPRXJueQ.jpg"/>
-    </item>
-    <item>
-      <title>Bedre råd til neste år</title>
-      <description><![CDATA[Folk skal få bedre råd, det sier statsminister Jonas Gahr Støre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9ef01a8a-7456-4a4d-b132-268152fbc3d8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9ef01a8a-7456-4a4d-b132-268152fbc3d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 19 Dec 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nvBwIU6WIC8F5xuEnmwhbwdAZAGZQzlJRRNd6LDzzRkg.jpg"/>
     </item>
   </channel>
 </rss>
