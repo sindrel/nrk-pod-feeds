@@ -1,25 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Historier fra virkeligheten</title>
+    <title>De 6 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 03 Jan 2024 04:29:01 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jan 2024 05:10:00 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Jan 2024 04:30:24 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jan 2024 05:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
-    <item>
-      <title>Kommer i NRK Radio</title>
-      <description><![CDATA[13 år gamle Adam fremstår som et vidunderbarn. Ingen vet at den skalla, underlige gutten skjuler en grotesk hemmelighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/3fbd1ca0-c6b4-489b-800b-30b051bf7852_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/3fbd1ca0-c6b4-489b-800b-30b051bf7852_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:26</itunes:duration>
-      <pubDate>Sun, 31 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
-    </item>
     <item>
       <title>En ny gutt i klassen (1:8)</title>
       <description><![CDATA[Lærerne stusser over at Adam går med plastposer som sokker, spiser mistenkelige piller og tegner grusomme tegninger.]]></description>
@@ -45,6 +36,33 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5d1ee874-96e7-40a3-a3ef-29a5f79b7391_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:31</itunes:duration>
       <pubDate>Wed, 03 Jan 2024 05:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
+    </item>
+    <item>
+      <title>Barnet i kottet (4:8)</title>
+      <description><![CDATA[«Adam» viser seg å være innblandet i Tsjekkias største kriminalsak. Alt startet i et rekkehus i utkanten av en søvnig småby.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/9d4c112f-053a-4ba4-9c8b-c80ad93f8654_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9d4c112f-053a-4ba4-9c8b-c80ad93f8654_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:25</itunes:duration>
+      <pubDate>Wed, 10 Jan 2024 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
+    </item>
+    <item>
+      <title>Møtet med Barbora (5:8)</title>
+      <description><![CDATA[På et hotell i København åpner plutselig hovedpersonen sjøl munnen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/74d84506-e818-4e4a-9131-b002363612fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/74d84506-e818-4e4a-9131-b002363612fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:43</itunes:duration>
+      <pubDate>Wed, 10 Jan 2024 05:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
+    </item>
+    <item>
+      <title>Sekten (6:8)</title>
+      <description><![CDATA[Hvordan ble Barbora til barnekvinnen? Og hvordan klarte hun å bli adoptert inn i en intetanende familie? (Hør slutten på serien 17. januar.)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/5b0b3c17-77fd-48d5-b7f9-23cc30f06d90_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5b0b3c17-77fd-48d5-b7f9-23cc30f06d90_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:32</itunes:duration>
+      <pubDate>Wed, 10 Jan 2024 05:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
     </item>
   </channel>
