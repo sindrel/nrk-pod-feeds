@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Dec 2023 05:27:15 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Jan 2024 05:28:01 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/R9v-zpiM4CbusgxB8A23gwmzgu5J429R5oit4kpu-g5A.jpg"/>
+    <item>
+      <title>Ij galga iját barggat</title>
+      <description><![CDATA[Juojddá la balldám Katarinav ijájt bargatjis, uddni gulá majt. Guosse: Katarina Spik Skum.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dlla_ja_dalloj/b9a0d9f1-f0b5-4c6a-bf81-eeac133042a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/b9a0d9f1-f0b5-4c6a-bf81-eeac133042a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:25</itunes:duration>
+      <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iHkFSFnnOvRfV75V22b0Qws5UcA7czP_n7CZe1Bu3R8w.jpg"/>
+    </item>
     <item>
       <title>Rádjalåvsså ja vierrevuohta</title>
       <description><![CDATA[Ingara láhka fuolkke lij rádjálåvsså ja vierttij Vuonas bahtarit. Sån feraj madin ulmutja tjajmmin. Guosse: Ingar Nikolaisen Kuoljok. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>18:32</itunes:duration>
       <pubDate>Wed, 01 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/c3ErSGEntyiPgVr4MFPVvwLGaPsNOS-IpHliXkTw257Q.jpg"/>
-    </item>
-    <item>
-      <title>Sámij James Bonda</title>
-      <description><![CDATA[Suv árggabiejve li muhttijn degu James Bond filma. Akti sån muohtavuojájnis givnnjahin helikoptera vuolen. Guosse: Per Anders Vannar. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dlla_ja_dalloj/35eefd5c-c242-43fb-858c-ee0084b25c41_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/35eefd5c-c242-43fb-858c-ee0084b25c41_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:33</itunes:duration>
-      <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GJXUfU8vtP6bcMCpVr-zMQ2KzXBlxzk1UiuFiVZw5Z8Q.jpg"/>
     </item>
   </channel>
 </rss>
