@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 10 Jan 2024 09:25:17 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jan 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Jan 2024 13:27:37 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jan 2024 12:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Farmen-Egil forteller om oppholdet</title>
+      <description><![CDATA[Egil forteller om Farmen kjendis, og Anna er oransj. Til stede: Adelina, Tete, Egil, Johannes og ho Anna. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/dbabf7a7-da0d-4974-9be3-de43f16eaf50_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/dbabf7a7-da0d-4974-9be3-de43f16eaf50_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:30</itunes:duration>
+      <pubDate>Wed, 10 Jan 2024 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ylpOrcLNQp2FLB9smc2jPwp9hOH5YajzHAWO4ojOEj7A.jpg"/>
+    </item>
     <item>
       <title>Superkjendis i Japan</title>
       <description><![CDATA[Vi har besøk av superkjendis i Japan, Mr Yabatan! Farmen Egil er på plass for å gi deg ukens onsdagshit! ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:03:03</itunes:duration>
       <pubDate>Thu, 04 Jan 2024 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/VivnPoSTJIOF4pKCyu9n3go0gs_Pu_bnxB-Va3XDNsRw.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Solarium VS. Spraytan</title>
-      <description><![CDATA[Velkommen til en slags "Burde vært pensum" episode. Håper du lærer noe! Til stede: Adelina, Tete, Anna og Egil. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1cf76219-060e-4014-882d-ef6ca89381d3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1cf76219-060e-4014-882d-ef6ca89381d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:41</itunes:duration>
-      <pubDate>Wed, 03 Jan 2024 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
