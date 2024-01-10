@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 09 Jan 2024 19:21:53 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Jan 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Jan 2024 19:21:51 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jan 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Dom i striden om sjødeponiet i Førdefjorden</title>
+      <description><![CDATA[En av Norges mest langvarige miljøstrider har nå fått en avgjørelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d835dc23-ee5e-42d6-bb83-9aafd0218b6b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d835dc23-ee5e-42d6-bb83-9aafd0218b6b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 10 Jan 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6_zW9nSouyG9ENIYTW5acg21aqB9IsOtLRS85U9VHpOg.jpg"/>
+    </item>
     <item>
       <title>Helse Nord trekker sykehusplan</title>
       <description><![CDATA[Helse Nord trakk i dag forslaget om ny sykehusstruktur i Nord-Norge etter splittelse i styret.]]></description>
@@ -92,15 +101,6 @@ Kvinnen fikk ikke innvilget voldsalarm eller omvendt voldsalarm.  Både politike
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 21 Dec 2023 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MFV0lsgFPPAvNROnWXoFhwyW2Y9CHWq7_4XSnYpegG5w.jpg"/>
-    </item>
-    <item>
-      <title>Ofre rovdyr for kraftutbygging?</title>
-      <description><![CDATA[Regjeringen foreslår å redusere antallet jerv og gauper for å dempe konflikten mellom reindrift og kraftutbygging.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/29baec7f-0db8-4172-967c-edc9db16e6a0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/29baec7f-0db8-4172-967c-edc9db16e6a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:56</itunes:duration>
-      <pubDate>Wed, 20 Dec 2023 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xJh3tw8YlvMKeu8xp_IJHQjmyED10Fo3nu8NmPRXJueQ.jpg"/>
     </item>
   </channel>
 </rss>
