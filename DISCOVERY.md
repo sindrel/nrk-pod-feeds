@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-10  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2024-01-07  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2024-01-06  
