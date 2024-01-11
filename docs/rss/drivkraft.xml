@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 09 Jan 2024 14:28:55 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Jan 2024 14:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 11 Jan 2024 14:28:52 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jan 2024 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Lars Lenth</title>
+      <description><![CDATA[-Fisking har elementer av flukt, mener TV-profilen fra "Jakten på monsterkveita".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/aadff7a3-627c-4e67-89d7-fb56002130bc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/aadff7a3-627c-4e67-89d7-fb56002130bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Thu, 11 Jan 2024 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/07dDuI4kpExpzgBTLXSw1wwZ4O6U828afBBOQgchKeow.jpg"/>
+    </item>
     <item>
       <title>Sylo Taraku </title>
       <description><![CDATA[- Innvandrere har et eget driv, sier statsviteren og forfatteren. Han flyktet fra krigen i Kosovo til Norge som 18-åring.]]></description>
@@ -97,15 +106,6 @@
       <itunes:duration>57:34</itunes:duration>
       <pubDate>Tue, 12 Dec 2023 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2zQTWrixl6pEgu6stnHJ3QoridkReVVz1PHmVxn5j7hw.jpg"/>
-    </item>
-    <item>
-      <title>Ida Gran-Jansen</title>
-      <description><![CDATA[Matinfluenseren og kokebokforfatteren mener hjemmelaget barnemat ikke er vanskelig: - Jeg er ikke redd for fett, fløte, smør og salt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/74c80342-f5f7-41c9-9315-ffd22c0991f0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/74c80342-f5f7-41c9-9315-ffd22c0991f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:14</itunes:duration>
-      <pubDate>Mon, 11 Dec 2023 14:46:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NfK8oLpDyVqVR7rn1l8d4gSq4cL8siQ1ExjmnhghOipw.jpg"/>
     </item>
   </channel>
 </rss>
