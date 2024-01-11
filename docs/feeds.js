@@ -377,7 +377,7 @@ const feeds = [
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "historiske_kjendiser",
@@ -613,7 +613,7 @@ const feeds = [
     "id": "lindmo_og_co",
     "title": "De 10 siste fra Lindmo og Co",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "loensj_med_rune_nilson",
