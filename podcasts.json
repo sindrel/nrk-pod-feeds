@@ -162,6 +162,12 @@
         "hidden": true
     },
     {
+        "id": "desken_brenner",
+        "title": "De 10 siste fra Desken brenner",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "dilemmaklemma",
         "title": "De 10 siste fra Dilemmaklemma",
         "season": null,
@@ -371,7 +377,7 @@
         "id": "heia_fotball",
         "title": "De 10 siste fra Heia Fotball",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "hele_historien",

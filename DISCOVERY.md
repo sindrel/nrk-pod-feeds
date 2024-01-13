@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-01-13  
+- Added podcast 'Desken brenner' (`desken_brenner`)  
+- Updated podcast 'Heia Fotball' (`heia_fotball`)  
 ### 2024-01-11  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
