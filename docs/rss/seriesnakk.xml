@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Seriesnakk</title>
+    <title>De 8 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 07 Jan 2024 07:22:17 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 14 Jan 2024 05:27:47 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aP5YrPy3ULG8bhqM3UzHUwhNgJ3hN8iCyN-CiuOuzHPg.jpg"/>
+    <item>
+      <title>- Køllegrøtsullik</title>
+      <description><![CDATA[AP-veteran Bjørn Tore Godal var på landsmøtet i -81 og andre nøkkelscener i Makta. Serieskaper Silje Storstein om hvorfor Godal ikke er med i serien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/e3591b86-db72-4779-860e-4c2dd39b60fd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/e3591b86-db72-4779-860e-4c2dd39b60fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:37</itunes:duration>
+      <pubDate>Sun, 14 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jOVnbaiH8HdVt-Ujn02veAPfKGiwUWvSWZLOJaOKGmZA.jpg"/>
+    </item>
     <item>
       <title>- Nu ska æ føkke opp det her</title>
       <description><![CDATA[Elle Márjá Eira om å tilnærme seg "Makta" og regissere episode 7. Marius Lien om å være nytt fjes i serien, i rollen som Wiktor Martinsen.]]></description>
