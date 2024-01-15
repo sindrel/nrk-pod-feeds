@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 14:28:52 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jan 2024 14:30:00 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2024 13:27:58 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jan 2024 14:08:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Amanda Delara</title>
+      <description><![CDATA[Popartisten synes det er sårt at hun ikke kan reise til foreldrenes hjemland, Iran, på grunn av sterkt politisk engasjement.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7b1c87fc-a6b9-4bea-8e1b-da372978b8a2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7b1c87fc-a6b9-4bea-8e1b-da372978b8a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:42</itunes:duration>
+      <pubDate>Mon, 15 Jan 2024 14:08:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4g1ouIGNiSCxHLr7sdN7VgQMXoP8nilDdqyLHMPkoLSA.jpg"/>
+    </item>
     <item>
       <title>Lars Lenth</title>
       <description><![CDATA[-Fisking har elementer av flukt, mener TV-profilen fra "Jakten på monsterkveita".]]></description>
@@ -97,15 +106,6 @@
       <itunes:duration>57:08</itunes:duration>
       <pubDate>Wed, 13 Dec 2023 15:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/8sZ9UasSt_0KEmh2d05UcwtcsjITze--i6P9cIDEJCTA.jpg"/>
-    </item>
-    <item>
-      <title>Erik Hillestad</title>
-      <description><![CDATA[Plateprodusenten bak Kirkelig Kulturverksted har følt på et kall, men mener tro ikke kan eksistere uten tvil]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1c903b9d-d4ec-4fe1-bcf9-3698163c5704_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1c903b9d-d4ec-4fe1-bcf9-3698163c5704_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:34</itunes:duration>
-      <pubDate>Tue, 12 Dec 2023 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2zQTWrixl6pEgu6stnHJ3QoridkReVVz1PHmVxn5j7hw.jpg"/>
     </item>
   </channel>
 </rss>
