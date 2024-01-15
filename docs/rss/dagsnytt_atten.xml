@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 12 Jan 2024 18:29:27 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jan 2024 19:20:00 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2024 18:29:09 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jan 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Donald Trump er storfavoritt som presidentkandidat </title>
+      <description><![CDATA[I dag ser verden til Iowa, hvor nominasjonsmøtene i kveld utgjør det første steget i presidentvalget 2024. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/058ddd7d-a414-4ba7-bb60-7a46e416561c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/058ddd7d-a414-4ba7-bb60-7a46e416561c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:54</itunes:duration>
+      <pubDate>Mon, 15 Jan 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rUI61YjqG8pCJ4K3Qx0wuA1O06ILJr8DqUe8pm5llSGA.jpg"/>
+    </item>
     <item>
       <title>Regjeringen legger frem ny kvotemelding for fiskenæringen</title>
       <description><![CDATA[Foreslår å prioritere små fiskebåter, over store.]]></description>
@@ -93,15 +102,6 @@ Kvinnen fikk ikke innvilget voldsalarm eller omvendt voldsalarm.  Både politike
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 02 Jan 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jr56t7fyURhyYYj9xzkrfQgHV65I1QozCnmIsqqOZgTg.jpg"/>
-    </item>
-    <item>
-      <title>Dagsnytt 18 oppsummerer året</title>
-      <description><![CDATA[Årets aller siste sending der programlederne ser tilbake på noen av debattene som preget året, eller som for lengst er glemt. Og så kommer årets oftest møtende gjest på nok et besøk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/33bd3e31-1c81-4bca-8556-507c288900cd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/33bd3e31-1c81-4bca-8556-507c288900cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Fri, 29 Dec 2023 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wDrfpWKDDaYZ6ksrOnlRGAUwcSW7tr6SQyEDK61Ee3Fw.jpg"/>
     </item>
   </channel>
 </rss>
