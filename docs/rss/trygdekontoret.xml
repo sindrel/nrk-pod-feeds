@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Jan 2024 05:28:48 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2024 05:29:23 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Hvalfangst </title>
+      <description><![CDATA[Vi utryddet nesten de store hvalene i det første Norske oljeeventyret, en del av historien vår vi kanskje helst vil glemme. 
+Med Espen Ytreberg, forfatter og professor i medievitenskap ved UiO.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/9fcec416-8f4a-43fc-b214-634a5f0086ca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9fcec416-8f4a-43fc-b214-634a5f0086ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:05</itunes:duration>
+      <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Acmsex_jJ06qYCFrABM03QjAqkRqCc0U_T_JbTHgwYvA.jpg"/>
+    </item>
     <item>
       <title>Israels fremtid</title>
       <description><![CDATA[Hvor er Israel på vei? Og hva er planen i Gaza? Med journalist Nikolai Kleivan og historiker og forfatter Asgeir Ueland, på linje fra Israel. ]]></description>
@@ -91,15 +102,6 @@
       <itunes:duration>54:58</itunes:duration>
       <pubDate>Mon, 16 Oct 2023 15:31:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/vFb6s4KFOVr6Uwg1rl2qmAOhUtwcOg8lSOoxCSR1gNmw.jpg"/>
-    </item>
-    <item>
-      <title>Israel</title>
-      <description><![CDATA[En stat omgitt av fiender må vel ha rett til å forsvare seg? Del 1 i miniserien om Midtøstens bråkebelte. Med Marte Heian-Engdal, Midtøsten-ekspert og underdirektør ved NOREF og redaktør i avisa Dagen, Vebjørn Selbekk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/1bf5270c-6fbf-435a-86ed-18415009a6bd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/1bf5270c-6fbf-435a-86ed-18415009a6bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:11:18</itunes:duration>
-      <pubDate>Mon, 16 Oct 2023 15:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vvyy0mU_UJn4ieh6eOnkLgkyuliuDVJ5ivhr4Q6ci1gw.jpg"/>
     </item>
   </channel>
 </rss>

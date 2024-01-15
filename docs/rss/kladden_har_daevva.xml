@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Jan 2024 05:28:28 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2024 05:29:04 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Det viktigste er at Siri Kristiansen overlever</title>
+      <description><![CDATA[Er ikke så redd for å dø, men litt redd for å tøffe seg for mye. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/f58f61b0-52d1-4e8a-abb2-8571901c74c6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f58f61b0-52d1-4e8a-abb2-8571901c74c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:10</itunes:duration>
+      <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QGqietmxsyW4T6eHl_aMkwNvfblRlDYDCYPGEB9ORp5A.jpg"/>
+    </item>
     <item>
       <title>Trond Viggos mørke fantasier</title>
       <description><![CDATA[Trond Viggo har et kreativt mørke i seg, men han ville aldri gjort det. Ikke på ordentlig. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:54</itunes:duration>
       <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iyaTxL0tR8E3XBS1dkGmMAWVlZGTKU7gfZ3PvoE9Pypg.jpg"/>
-    </item>
-    <item>
-      <title>Mari Garås Monsson og Marit</title>
-      <description><![CDATA[Mari mistet bestevennen brått i en ulykke og livet ble snudd på hodet. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/bce82abb-4cd1-46e0-b130-e0a30b936f30_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/bce82abb-4cd1-46e0-b130-e0a30b936f30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:17</itunes:duration>
-      <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KxTkrhdn2u0NkXnT5ciM3wosSqF1scT5MY5jutGPY4uw.jpg"/>
     </item>
   </channel>
 </rss>
