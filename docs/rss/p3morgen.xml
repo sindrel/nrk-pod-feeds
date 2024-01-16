@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 16 Jan 2024 13:27:48 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jan 2024 14:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2024 14:28:49 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jan 2024 15:11:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Ponni på rømmen</title>
+      <description><![CDATA[Noman Mubashir er på besøk og har laget en dokumentar! Vi får også rystende nyheter fra P3nyheter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a0a4e736-e72e-4bc0-b42a-bd8b4943d258_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a0a4e736-e72e-4bc0-b42a-bd8b4943d258_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:08</itunes:duration>
+      <pubDate>Tue, 16 Jan 2024 15:11:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9pPha9oBLDdq0DnpRzZyEAB3bakKRC1KgDhDHpgEDhAA.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Begynne med mafia-mote?</title>
       <description><![CDATA[Adelina tar opp den nye motetrenden med resten av gjengen. Karsten tar tilbake traume med snowboardet sitt.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:00:28</itunes:duration>
       <pubDate>Wed, 10 Jan 2024 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nV4J65lMntSjPBjTFyclCA3L9Zl4hs7GPKTtscNfJs1A.jpg"/>
-    </item>
-    <item>
-      <title>Det rakner for Adelina og Karsten</title>
-      <description><![CDATA[Det blir latterkrampe, ake-taxi og Farmen besøk i dagens P3morgen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/867bcaf8-cbd7-4bf3-a1b1-00b0e716470f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/867bcaf8-cbd7-4bf3-a1b1-00b0e716470f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:06</itunes:duration>
-      <pubDate>Tue, 09 Jan 2024 13:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VC_RkijN0XdTbMha4X-pagZiO931p3U3m06wKzgBXwKA.jpg"/>
     </item>
   </channel>
 </rss>
