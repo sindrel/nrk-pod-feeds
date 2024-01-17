@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 05:28:37 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 17 Jan 2024 05:28:43 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Catch and release av elg</title>
+      <description><![CDATA[Artistintervju fra USA og åpning av pallemuseet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/7fc8e7cc-2273-4296-aa1e-2dc11a436846_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/7fc8e7cc-2273-4296-aa1e-2dc11a436846_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:20</itunes:duration>
+      <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xEgjQYwwpxVWJg2Vvs76iQoZpDtWQHMz1aeUAroumpFg.jpg"/>
+    </item>
     <item>
       <title>Evaluering: Hva er en dronedass?</title>
       <description><![CDATA[Det er forskjell på innovasjon og invasjon.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>30:01</itunes:duration>
       <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Rhu6IL_PZLl0317pIeVtqwQ9kl-dOHjigOp1AeU1Z9Lw.jpg"/>
-    </item>
-    <item>
-      <title>Evaluering: Sundquist er en vanlig mann</title>
-      <description><![CDATA[Ståle har dramatiske nyheter. Er det kroken på døra?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/0c521760-b19a-4440-a1e5-a93840a6f89b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/0c521760-b19a-4440-a1e5-a93840a6f89b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:21</itunes:duration>
-      <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug.jpg"/>
     </item>
   </channel>
 </rss>
