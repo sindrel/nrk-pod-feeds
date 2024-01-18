@@ -1,87 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Historier fra virkeligheten</title>
+    <title>De 5 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 04:30:17 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jan 2024 05:05:00 +0100</pubDate>
+    <lastBuildDate>Thu, 18 Jan 2024 05:28:31 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>En ny gutt i klassen (1:8)</title>
-      <description><![CDATA[Lærerne stusser over at Adam går med plastposer som sokker, spiser mistenkelige piller og tegner grusomme tegninger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/d56040d9-e858-4f52-8e36-388b35ad22ba_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d56040d9-e858-4f52-8e36-388b35ad22ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:37</itunes:duration>
-      <pubDate>Wed, 03 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
+      <title>En annens drøm (1:4)</title>
+      <description><![CDATA[Det musikalske vidunderbarnet Maria Kannegaard tror at hun ikke fins i virkeligheten, men at hun lever i en annens drøm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/faf72f15-c61d-4927-a613-f8ef236a1cc7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/faf72f15-c61d-4927-a613-f8ef236a1cc7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:23</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u8ka873XBgInexRCahXHUATgoAUgssjPFmD3YHNRiYsQ.jpg"/>
     </item>
     <item>
-      <title>Skuespilleren (2:8)</title>
-      <description><![CDATA[Adams familie bor ikke der de sier, og snart skal det vise seg at dette ikke er det eneste de juger om.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/1a8195e4-164f-4492-9801-135f3b96fda2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/1a8195e4-164f-4492-9801-135f3b96fda2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:07</itunes:duration>
-      <pubDate>Wed, 03 Jan 2024 05:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
+      <title>Delt i to (2:4)</title>
+      <description><![CDATA[Maria får diagnosen schizofreni og blir innlagt på psykiatrisk sykehus. Men så våkner musikken i henne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/c0f73dd3-7e45-4609-9e3d-4579d2e23f51_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/c0f73dd3-7e45-4609-9e3d-4579d2e23f51_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:16</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u8ka873XBgInexRCahXHUATgoAUgssjPFmD3YHNRiYsQ.jpg"/>
     </item>
     <item>
-      <title>Jakten (3:8)</title>
-      <description><![CDATA[Etter en intens biljakt gjennom hele Norge blir Adams hemmelighet avslørt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/5d1ee874-96e7-40a3-a3ef-29a5f79b7391_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5d1ee874-96e7-40a3-a3ef-29a5f79b7391_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:26</itunes:duration>
-      <pubDate>Wed, 03 Jan 2024 05:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
+      <title>Nidelven stille (3:4)</title>
+      <description><![CDATA[Maria får en ny diagnose og slutter å ta antipsykotiske medisiner, og nå går hun inn i en farlig, alternativ virkelighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4fc222f6-daab-483a-b19d-1930ca93a914_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4fc222f6-daab-483a-b19d-1930ca93a914_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:39</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u8ka873XBgInexRCahXHUATgoAUgssjPFmD3YHNRiYsQ.jpg"/>
     </item>
     <item>
-      <title>Barnet i kottet (4:8)</title>
-      <description><![CDATA[Advarsel: Sterke scener. «Adam» viser seg å være innblandet i Tsjekkias største kriminalsak. Alt startet i et rekkehus i en søvnig småby.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/9d4c112f-053a-4ba4-9c8b-c80ad93f8654_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9d4c112f-053a-4ba4-9c8b-c80ad93f8654_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:25</itunes:duration>
-      <pubDate>Wed, 10 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
+      <title>Valkyrien (4:4)</title>
+      <description><![CDATA[På Valkyrien Restaurant i Oslo står et gammelt, ustemt piano. Det redder Maria Kannegaards karriere. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/460ecb18-a783-44df-9dac-faf325645147_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/460ecb18-a783-44df-9dac-faf325645147_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:59</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u8ka873XBgInexRCahXHUATgoAUgssjPFmD3YHNRiYsQ.jpg"/>
     </item>
     <item>
-      <title>Møtet med Barbora (5:8)</title>
-      <description><![CDATA[På et hotell i København åpner plutselig hovedpersonen sjøl munnen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/74d84506-e818-4e4a-9131-b002363612fc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/74d84506-e818-4e4a-9131-b002363612fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:40</itunes:duration>
-      <pubDate>Wed, 10 Jan 2024 05:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
-    </item>
-    <item>
-      <title>Sekten (6:8)</title>
-      <description><![CDATA[Advarsel: Sterke scener. Hvordan ble Barbora til barnekvinnen? Og hvordan klarte hun å bli adoptert inn i en intetanende familie? Slutten på serien kommer 17. januar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/5b0b3c17-77fd-48d5-b7f9-23cc30f06d90_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5b0b3c17-77fd-48d5-b7f9-23cc30f06d90_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:30</itunes:duration>
-      <pubDate>Wed, 10 Jan 2024 05:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
-    </item>
-    <item>
-      <title>Monsteret (7:8)</title>
-      <description><![CDATA[Er dama en skurk eller et offer? Dommerne har bestemt seg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/91b1d40c-3514-4803-ba20-70a055802672_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/91b1d40c-3514-4803-ba20-70a055802672_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:16</itunes:duration>
-      <pubDate>Wed, 17 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
-    </item>
-    <item>
-      <title>Djevelens advokat (8:8)</title>
-      <description><![CDATA[Er barnekvinnen utsatt for et justismord? Barboras venner kjemper for å redde henne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a522b35d-8c18-44ba-a0c4-fa7ea5fcb0b5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a522b35d-8c18-44ba-a0c4-fa7ea5fcb0b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:31</itunes:duration>
-      <pubDate>Wed, 17 Jan 2024 05:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GpqKmckHNah8InUU95k7kQYT273dbewDg4drdIUIm-SA.jpg"/>
+      <title>Bonus: Konserten</title>
+      <description><![CDATA[Endelig er det tid for den - for mange - etterlengtede konserten på Victoria Nasjonal Jazzscene i Oslo. Bli med inn!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/c57233a1-731f-4051-873b-1826ac0d772e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/c57233a1-731f-4051-873b-1826ac0d772e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:21:53</itunes:duration>
+      <pubDate>Thu, 18 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VGH944xxVAJqAfTtanFefwmUrpdn4maIsN556ScJMB3A.jpg"/>
     </item>
   </channel>
 </rss>
