@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-18  
+- Updated podcast 'Øyeblikket' (`yeblikket`)  
 ### 2024-01-16  
 - Updated podcast 'Heia Fotball' (`heia_fotball`)  
 ### 2024-01-14  
