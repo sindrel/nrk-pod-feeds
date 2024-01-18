@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 19:22:05 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jan 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 18 Jan 2024 19:22:09 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jan 2024 19:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Klimaorganisasjonene vinner i retten</title>
+      <description><![CDATA[Klimaorganisasjoner saksøkte staten for ulovlige tillatelser til oljeprosjekter. Oslo tingrett gir dem rett på alle punkter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/382d1d65-262c-4817-bb76-79f4fcffcdc9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/382d1d65-262c-4817-bb76-79f4fcffcdc9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Thu, 18 Jan 2024 19:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fNZ3diNMGLXX09RR5_8W2gt3WN9S2U2gug55datitVxg.jpg"/>
+    </item>
     <item>
       <title>Snøkaos på Østlandet</title>
       <description><![CDATA[Store snømengder skaper kaos igjen i sør. Er vi godt nok forberedt på vinterværet? Samferdselsministeren svarer forsker.]]></description>
@@ -93,15 +102,6 @@ Kvinnen fikk ikke innvilget voldsalarm eller omvendt voldsalarm.  Både politike
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 05 Jan 2024 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/k0B6nQYrpw4KREF6CkubIAhcsAo5uhmCdH5-13K_0WBw.jpg"/>
-    </item>
-    <item>
-      <title>Erna Solberg ut mot Venstre</title>
-      <description><![CDATA[Advarer mot konspirasjonsteorier i smitteverndebatten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/836ce259-19cf-4944-8724-4f98853c675a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/836ce259-19cf-4944-8724-4f98853c675a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Thu, 04 Jan 2024 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CO435pGbTmqBMKXMzSwnnQDoFhEVJxBXK_W9ZTMrOkpg.jpg"/>
     </item>
   </channel>
 </rss>
