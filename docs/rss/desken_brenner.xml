@@ -1,16 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Desken brenner</title>
+    <title>De 2 siste fra Desken brenner</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Desken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/desken_brenner for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Desken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/desken_brenner for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 13 Jan 2024 07:22:41 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jan 2024 13:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 19 Jan 2024 05:28:21 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yq2PWHACxEjZMXQSG9NiIgGtGSCzUUG-sEsih4fMP-1Q.jpg"/>
+    <item>
+      <title>Mysteriet Besseberg og Breiviks undulat</title>
+      <description><![CDATA[Premiere! Marcus og Martinus er overhodet IKKE involvert i skandaler, Anne-Kat. Hærland har forlatt Farmen Kjendis, og svenske tilstander har ankommet Irak.
+ 
+Odd-Magnus, Amalie, Marius og Tara tar deg gjennom ukas nyheter og snakkiser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/0995e545-7ded-408d-b350-d6d49f593a67_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/0995e545-7ded-408d-b350-d6d49f593a67_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:04</itunes:duration>
+      <pubDate>Fri, 19 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yq2PWHACxEjZMXQSG9NiIgGtGSCzUUG-sEsih4fMP-1Q.jpg"/>
+    </item>
     <item>
       <title>Ny podkast 19.01.24: Hør Desken brenner i NRK Radio</title>
       <description><![CDATA[NRKs nye podkast kommer snart.]]></description>
