@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-19  
+- Updated podcast 'Dynga' (`karakter`)  
 ### 2024-01-18  
 - Updated podcast 'Øyeblikket' (`yeblikket`)  
 ### 2024-01-16  
