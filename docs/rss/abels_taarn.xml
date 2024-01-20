@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 14:28:26 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jan 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2024 05:27:24 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Sophus Lie - Norges viktigste matematiker?</title>
+      <description><![CDATA[Sophus Lie skapte matematikken som var avgjørende for den moderne fysikken. Nå får han et eget senter i Tromsø. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/61415227-9318-46b5-add1-ae5161aa2ca3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/61415227-9318-46b5-add1-ae5161aa2ca3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:22</itunes:duration>
+      <pubDate>Sat, 20 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eN86_jJrupymxF8ZwO9NWgeZuBVJ7GoheBta15qkbCWw.jpg"/>
+    </item>
     <item>
       <title>Abels tårn - Avfallshåndtering med lava</title>
       <description><![CDATA[Kan man kvitte seg med farlig spesialavfall ved å slippe det ned i en vulkan, feks på Island?
@@ -136,19 +145,6 @@ Vi gir grunnstoffene en poetisk overhaling og ønsker alle våre lyttere et rikt
       <itunes:duration>27:16</itunes:duration>
       <pubDate>Mon, 25 Dec 2023 07:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/REvqCJCiB4H3ocGmprBsYw_ioyp-0w3mWF3Xz_IRyQfg.jpg"/>
-    </item>
-    <item>
-      <title>Hjerneceller koblet til datachip lærer stemmegjenkjenning</title>
-      <description><![CDATA[Menneskelige hjerneceller, dyrket i en petriskål, har blitt koblet til en datachip og trent med kunstig intelligens-algoritmer. Cellene kan nå gjøre enkel stemmegjenkjenning. 
-
-Med
-Marianne Fyhn
-Anders Malthe-Sørenssen ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9958031f-e54f-48d5-a166-92b948fc53e7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9958031f-e54f-48d5-a166-92b948fc53e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:14</itunes:duration>
-      <pubDate>Sat, 23 Dec 2023 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xMjLmtE_3XUSlI0i49GaYw41TMjVVWZPPCtDB94HpHbw.jpg"/>
     </item>
   </channel>
 </rss>
