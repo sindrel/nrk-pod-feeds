@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Seriesnakk</title>
+    <title>De 9 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 14 Jan 2024 05:27:47 +0000</lastBuildDate>
-    <pubDate>Sun, 14 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2024 06:30:02 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aP5YrPy3ULG8bhqM3UzHUwhNgJ3hN8iCyN-CiuOuzHPg.jpg"/>
+    <item>
+      <title>- Utøya fortjener å være på TV</title>
+      <description><![CDATA[Arbeids- og inkluderingsminister Tonje Brenna har et nært forhold til Utøya. Harald Mæle jr. har vært episodeforfatter på episode 9. Jan Gunnar Røises reise som Reiulf Steen går mot slutten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/81129371-9e6e-4328-ace9-5c748553b8d8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/81129371-9e6e-4328-ace9-5c748553b8d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:19:17</itunes:duration>
+      <pubDate>Sun, 21 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xpp8Eh0c_1uglpdtpgbF9Qkt263iecFoYhTDJREHJu7g.jpg"/>
+    </item>
     <item>
       <title>- Køllegrøtsullik</title>
       <description><![CDATA[AP-veteran Bjørn Tore Godal var på landsmøtet i -81 og andre nøkkelscener i Makta. Serieskaper Silje Storstein om hvorfor Godal ikke er med i serien.]]></description>
