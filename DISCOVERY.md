@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-21  
+- Updated podcast 'Vinter i P2' (`sommer_i_p2`)  
 ### 2024-01-19  
 - Updated podcast 'Dynga' (`karakter`)  
 ### 2024-01-18  
