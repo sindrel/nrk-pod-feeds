@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 20 Jan 2024 05:27:24 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2024 05:29:01 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Einstein-flisen funnet, vulkaner, og kvantedatemaskiner...</title>
+      <description><![CDATA[- Einstein-flisen endelig funnet
+- Vulkaner på Island
+- Kinesiske tek-selskaper trekker seg ut av kvantedatamaskin satsing]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/5ac6736e-02eb-45ed-bccf-ae4a23e9d9fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/5ac6736e-02eb-45ed-bccf-ae4a23e9d9fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:59</itunes:duration>
+      <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i-6FZVZdDOA-2Q3HkqwE8AOuFB40Ntlff_r7viLIQ8oQ.jpg"/>
+    </item>
     <item>
       <title>Sophus Lie - Norges viktigste matematiker?</title>
       <description><![CDATA[Sophus Lie skapte matematikken som var avgjørende for den moderne fysikken. Nå får han et eget senter i Tromsø. ]]></description>
@@ -133,18 +144,6 @@ Vi gir grunnstoffene en poetisk overhaling og ønsker alle våre lyttere et rikt
       <itunes:duration>57:20</itunes:duration>
       <pubDate>Fri, 29 Dec 2023 11:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - alkohol og hjernebark, funn av stormunn hai,  atomklokke</title>
-      <description><![CDATA[Nyheter fra vitenskapens verden:                      
- - Alkoholikeres hjernebark er reparerbar
-- Sjeldent funn av en drektig Megamouth-hai
-- Julens ultimate atomklokkegavetips ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/08d6911e-dc23-40bb-810f-d9f32e81408c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/08d6911e-dc23-40bb-810f-d9f32e81408c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:16</itunes:duration>
-      <pubDate>Mon, 25 Dec 2023 07:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/REvqCJCiB4H3ocGmprBsYw_ioyp-0w3mWF3Xz_IRyQfg.jpg"/>
     </item>
   </channel>
 </rss>

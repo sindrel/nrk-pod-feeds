@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Jan 2024 05:29:04 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2024 05:29:24 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Bård Ylvisåker, guffent med maskingevær</title>
+      <description><![CDATA[Kan prat om døden være starten på et nytt vennskap? En av to i studio er skeptiske. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/def1c996-8f2e-4f39-a54a-e907b682cf11_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/def1c996-8f2e-4f39-a54a-e907b682cf11_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:26</itunes:duration>
+      <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LJzMTzeT8KAbbuIUHmWJ4g0tc3Kj13GGYdjwQ_-J-hlQ.jpg"/>
+    </item>
     <item>
       <title>Det viktigste er at Siri Kristiansen overlever</title>
       <description><![CDATA[Er ikke så redd for å dø, men litt redd for å tøffe seg for mye. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>55:48</itunes:duration>
       <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/rpyGg-fiyQ6FQqmBadgO7wBs40KIq9O2ebmbcvxgUUHg.jpg"/>
-    </item>
-    <item>
-      <title>Jørgen EP og stubben</title>
-      <description><![CDATA[40 centimeter unna å dø i en busk på jobb. Litt flaks skal man ha. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7e04d45c-7148-4ae7-a418-143bb946809f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7e04d45c-7148-4ae7-a418-143bb946809f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:54</itunes:duration>
-      <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iyaTxL0tR8E3XBS1dkGmMAWVlZGTKU7gfZ3PvoE9Pypg.jpg"/>
     </item>
   </channel>
 </rss>

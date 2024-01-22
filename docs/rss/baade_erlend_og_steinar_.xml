@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Jan 2024 05:28:49 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2024 05:29:05 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>En mytisk episode</title>
+      <description><![CDATA[Åndenes makt endret barndommen til Erlend og Steinar er i ferd med å bli voksen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2d215ea1-b294-4528-906d-1d05d77dac1a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2d215ea1-b294-4528-906d-1d05d77dac1a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:29</itunes:duration>
+      <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>Ja til mer sorg</title>
       <description><![CDATA[Steinar ønsker å føle på mer sorg, mens Erlend kommer på hvorfor han er glad. ]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/45712417-fc3f-450e-a9b5-d020405e33bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:24</itunes:duration>
       <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Vann-episoden</title>
-      <description><![CDATA[Hvorfor bader menn som de gjør? Steinar har overgått niesen sin og Erlend hjelper person med arr. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/8af1f9a7-ec6d-4c9f-96ca-dfec5da6fd42_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/8af1f9a7-ec6d-4c9f-96ca-dfec5da6fd42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:30</itunes:duration>
-      <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>
