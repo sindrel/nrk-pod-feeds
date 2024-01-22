@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Jan 2024 05:29:23 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2024 06:32:02 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Norge og korrupsjon</title>
+      <description><![CDATA[Er vi naive når vi tror Norge er nesten fritt for korrupsjon?  Bør tillit erstattes med mer mistenksomhet?
+Med Eva Joly og Nina Witoszek  som sammen har skrevet boka "Det blåøyde riket".
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/8f4995aa-61ac-4517-b0be-487e699930bc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/8f4995aa-61ac-4517-b0be-487e699930bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:23</itunes:duration>
+      <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MvRPxiTOj9QQLYVJJc4qUABuZmjR45tfDx_EW2qaYXQw.jpg"/>
+    </item>
     <item>
       <title>Hvalfangst </title>
       <description><![CDATA[Vi utryddet nesten de store hvalene i det første Norske oljeeventyret, en del av historien vår vi kanskje helst vil glemme. 
@@ -93,15 +104,6 @@ Med Espen Ytreberg, forfatter og professor i medievitenskap ved UiO.
       <itunes:duration>01:09:12</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tPLuTEq4VekqcY8GKWJ5DA5EXO8n5RxeWRoO2Z0ZOalg.jpg"/>
-    </item>
-    <item>
-      <title>Palestina </title>
-      <description><![CDATA[Har verden sviktet Palestina? Del 2 i miniserien om Midtøstens bråkebelte. Med Odd Karsten Tveit, forfatter og tidligere utenrikskorrespondent i NRK. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/e640fe9b-0d40-4ef9-98ce-20d248a19def_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/e640fe9b-0d40-4ef9-98ce-20d248a19def_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:58</itunes:duration>
-      <pubDate>Mon, 16 Oct 2023 15:31:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vFb6s4KFOVr6Uwg1rl2qmAOhUtwcOg8lSOoxCSR1gNmw.jpg"/>
     </item>
   </channel>
 </rss>
