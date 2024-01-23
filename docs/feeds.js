@@ -459,7 +459,7 @@ const feeds = [
     "id": "julestemning",
     "title": "De 10 siste fra Julestemning med Live og Ronny",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "juntafil",
