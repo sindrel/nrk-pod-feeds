@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 05:28:39 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Jan 2024 05:28:58 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>En haiketur på Cuba - med David William Øynes</title>
+      <description><![CDATA[Man møtes kanskje tilfeldig, en eneste gang. Men møtet kan bli et minne for livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e373a687-bcfb-4622-9207-6573cf0cb75f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e373a687-bcfb-4622-9207-6573cf0cb75f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:02</itunes:duration>
+      <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xJdqAt7ukqHVBTxl08tEsgp9OkhP2_kdcDAYBlQNSHxg.jpg"/>
+    </item>
     <item>
       <title>Møtet med NAV - med Ingeborg Senneset</title>
       <description><![CDATA[Saksbehandleren trøstet henne med at hun snart kunne slappe av som ufør. Men journalist Ingeborg ville jo bare jobbe som alle andre!  ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:23</itunes:duration>
       <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MxHK47VC4FNfH4DOXUT9qw8WVZLrrZFdCxmFBgUW-Y-g.jpg"/>
-    </item>
-    <item>
-      <title>Jeg er Mamma - med Monica Johansen</title>
-      <description><![CDATA[Etter at hun hadde ventet i fem år, ble artist Monica Johansen endelig gravid. Men babylykken ble slett ikke som hun hadde drømt om.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/60dcde4f-5b3f-4814-8893-8b7e52ca117b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/60dcde4f-5b3f-4814-8893-8b7e52ca117b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:39</itunes:duration>
-      <pubDate>Tue, 02 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/b97WqOzIpA9qzijt4_-5KAaKFlSiC-ijJViaYngevIXw.jpg"/>
     </item>
   </channel>
 </rss>
