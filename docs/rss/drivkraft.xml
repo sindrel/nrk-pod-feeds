@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 18 Jan 2024 13:27:47 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jan 2024 14:15:00 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Jan 2024 13:27:48 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jan 2024 14:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Kjersti Løken Stavrum</title>
+      <description><![CDATA[Om omtalen som Norges mektigste medieperson:
+--Med makt, kommer stor fallhøyde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3c393051-e9f7-45a2-ba0a-735c5a643d38_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3c393051-e9f7-45a2-ba0a-735c5a643d38_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:34</itunes:duration>
+      <pubDate>Wed, 24 Jan 2024 14:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXeuCdUbWicdAVDhSR3yqwccR6qTdOmqEwc5NSH49-KQ.jpg"/>
+    </item>
     <item>
       <title>Kaveh Rashidi</title>
       <description><![CDATA[-Jeg skjønner ikke helt hva vi skal med all helsa vi bygger opp, sier fastlegen.]]></description>
@@ -95,17 +105,6 @@
       <itunes:duration>57:07</itunes:duration>
       <pubDate>Mon, 18 Dec 2023 14:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fSXU3Zomwo_N7GTfB08XyAMrBNalANHwmh0fhJ7sYx2w.jpg"/>
-    </item>
-    <item>
-      <title>Lise Fjeldstad </title>
-      <description><![CDATA[- Man blir skjørere i følelseslivet, sier skuespilleren om å bli gammel. Men å slåss er hun fortsatt like god til.
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/432cae5b-f933-4931-826c-8221a0ba633d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/432cae5b-f933-4931-826c-8221a0ba633d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Thu, 14 Dec 2023 14:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gCoWxHULlU8qOWMttPFO9Ad3G-2s4TLHbIg08p9nQaCA.jpg"/>
     </item>
   </channel>
 </rss>
