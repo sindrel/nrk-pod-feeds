@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Med All Respekt</title>
+    <title>De 10 siste fra Med all respekt</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Med All Respekt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/med_all_respekt for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Med all respekt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/med_all_respekt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 14:29:19 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jan 2024 15:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Jan 2024 14:29:55 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jan 2024 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/hjiLrx_KEiOHn-F7Wu33tQ2i4a47ka44YPG2ikcE2f1Q.jpg"/>
+    <item>
+      <title>- Hvem får snorte nazi-coke?</title>
+      <description><![CDATA[Svindel, smugling, dop og vikingvektere i fellesdusjen! Priser skal deles ut og festivaler skal fylles. Sandeep, Abu og Galvan starter friskt i studio - hvem står igjen til slutt? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/9e00c916-fd71-4e44-8be4-0d16aa9e8686_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/9e00c916-fd71-4e44-8be4-0d16aa9e8686_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:31</itunes:duration>
+      <pubDate>Wed, 24 Jan 2024 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hjiLrx_KEiOHn-F7Wu33tQ2i4a47ka44YPG2ikcE2f1Q.jpg"/>
+    </item>
     <item>
       <title>- Har du blitt fingra i navlen?</title>
       <description><![CDATA[Selv om hver 10de fotballspiller ikke gjør en dritt, byr Abu, Galvan Tara og Sandeep på suveren livsstilsradio! 
@@ -97,15 +106,6 @@ Med Abu som flyvertinne, Sandeeps gurdwara-mækkern, Galvans lappkollaps og nøy
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/149ec7da-6928-47dc-9ed5-8c96e7a7b5e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:06:38</itunes:duration>
       <pubDate>Tue, 09 Jan 2024 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hjiLrx_KEiOHn-F7Wu33tQ2i4a47ka44YPG2ikcE2f1Q.jpg"/>
-    </item>
-    <item>
-      <title>Visst kan man drite i turnringer!</title>
-      <description><![CDATA[Hvem vil sykle enhjuling i snøen? Hvem vil stå på Jeffrey Epsteins liste? Hvem vil være med på Paradise? Og hvem kan drite mens hen henger i turnringer?! MAR gir svar på alt og enda mer!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/45a5c01b-8dac-46ce-be5e-49135ff717cd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/45a5c01b-8dac-46ce-be5e-49135ff717cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:33</itunes:duration>
-      <pubDate>Mon, 08 Jan 2024 16:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hjiLrx_KEiOHn-F7Wu33tQ2i4a47ka44YPG2ikcE2f1Q.jpg"/>
     </item>
   </channel>
