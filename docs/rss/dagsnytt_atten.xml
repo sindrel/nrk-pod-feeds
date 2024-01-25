@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 18:28:42 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jan 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2024 19:22:21 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2024 19:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Økonomer uenige om renten</title>
+      <description><![CDATA[Sjeføkonomer er uenige om hvordan renten bør utvikle seg etter at rentemøtet i Norges Bank holdt renten uendret i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ba19fa24-e33c-4283-9ec7-2482533f130b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ba19fa24-e33c-4283-9ec7-2482533f130b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 25 Jan 2024 19:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uAOEXMeLjN8lTJdQCtvjOAiL_6Lc_auWidu2yRrvdyJg.jpg"/>
+    </item>
     <item>
       <title>Viktor Orbán positiv til Sveriges Nato-medlemskap</title>
       <description><![CDATA[Ungarns statsminister oppfordret i dag landets parlament å godkjenne søknaden.]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Fri, 12 Jan 2024 19:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jWIYA9r7_59bdfg1mUs3rAhr-NXXfmNtqGrl30UHh71g.jpg"/>
-    </item>
-    <item>
-      <title>Israel anklages for folkemord i Gaza</title>
-      <description><![CDATA[I dag startet FN-domstolen i Haag behandlingen av anklagen fra Sør-Afrika om at Israel begår folkemord i Gaza.
-Israels ambassadør til Norge svarer på kritikken mot Israels krigføring i Gaza.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d92e4b72-1871-4d28-9861-d7a564832091_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d92e4b72-1871-4d28-9861-d7a564832091_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:53</itunes:duration>
-      <pubDate>Thu, 11 Jan 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/B8SbpzNpyNtp0sZUAZKsdQxkwFbCqiFMSfXjou0Wh7Ig.jpg"/>
     </item>
   </channel>
 </rss>
