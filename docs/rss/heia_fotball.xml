@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 22 Jan 2024 12:45:30 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jan 2024 12:45:00 +0100</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2024 05:28:36 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    <item>
+      <title>#370 Rune Jarstein</title>
+      <description><![CDATA[Rune Almenning Jarstein forteller om bruddet med Hertha BSC, og om da han trodde han hadde en bombe på hotellrommet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/e8f3ea1b-d2a0-4f99-8bfa-a191f04c5505_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/e8f3ea1b-d2a0-4f99-8bfa-a191f04c5505_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:56:01</itunes:duration>
+      <pubDate>Thu, 25 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kk2nL5aOFFyevQBvH8FTkgZDkqgpiMRzXfsKUvSxCmnQ.jpg"/>
+    </item>
     <item>
       <title>Snakkis: Prislei, AFCON/Akon og man bun</title>
       <description><![CDATA[Panelet diskuterer de store spørsmålene: Trenger vi flere fotballpriser? Bør AFCON hete Akon, og er det innafor med man bun i toppfotball?
@@ -106,16 +115,6 @@ I panelet: Sven Bisgaard Sundet, Tete Lidbom, Olaug Tvedten og Anna Jøsendal]]>
       <itunes:duration>50:00</itunes:duration>
       <pubDate>Mon, 20 Nov 2023 13:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5LJiw_wurH8udpLzXZaCUwiEB1bNnDgA77b9kUinyclA.jpg"/>
-    </item>
-    <item>
-      <title>#366 Jo Inge Berget</title>
-      <description><![CDATA[Jo Inge Berget forteller om ekstrem ryddighet, syke barnehagepriser i USA og da han delte to flasker champis med Aune Sand på Manhattan.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/3e7c6c8a-bc08-4674-81c7-e632091aaba7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/3e7c6c8a-bc08-4674-81c7-e632091aaba7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:09:05</itunes:duration>
-      <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/z2gn9QUuJT-OX3KuRIHmXgEa5viC2uo_cZncEIvkhNGQ.jpg"/>
     </item>
   </channel>
 </rss>

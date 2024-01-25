@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 18 Jan 2024 05:28:28 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2024 05:28:57 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Simen Velle</title>
+      <description><![CDATA[Kokain, politiker-intelligens og privat helseomsorg. En dypt engasjerende samtale med FpU-leder Simen Velle. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/1cfdad79-d5ef-41b8-a2c2-1a4fdbfb045d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/1cfdad79-d5ef-41b8-a2c2-1a4fdbfb045d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:26:53</itunes:duration>
+      <pubDate>Thu, 25 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R9zFhVP0W_BEFUOAYGx_MA8yjAs97vqdNT67J1L97ojA.jpg"/>
+    </item>
     <item>
       <title>Lars Berrum 2.0</title>
       <description><![CDATA[Simulering, religion, usynlige sykdommer og aktivisme er bare noe av det det går i når Lars Berrum er gjest. Igjen!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:18:25</itunes:duration>
       <pubDate>Thu, 16 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jIaVRKtl8kICG6rubf8kag2ohMnHKBm_QINtP2hyq8TQ.jpg"/>
-    </item>
-    <item>
-      <title>Mímir Kristjánsson igjen!</title>
-      <description><![CDATA[Erlend og Mímir snakker om krigen i Midtøsten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/18b22462-555d-4c70-aa3b-d6ce1603622a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/18b22462-555d-4c70-aa3b-d6ce1603622a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:32:11</itunes:duration>
-      <pubDate>Thu, 09 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
     </item>
   </channel>
 </rss>
