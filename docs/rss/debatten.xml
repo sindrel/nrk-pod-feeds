@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 22:29:26 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jan 2024 22:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2024 22:26:44 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2024 22:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    <item>
+      <title>Opprør i kommunene</title>
+      <description><![CDATA[Skolebygg forfaller, og sykehjem legges ned. Hundre kommuner vil ha mer penger fra de rikeste kommunene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/c4b384a0-f031-406a-b198-5f5f05e7cf8d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/c4b384a0-f031-406a-b198-5f5f05e7cf8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:12</itunes:duration>
+      <pubDate>Thu, 25 Jan 2024 22:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    </item>
     <item>
       <title>Må Kjerkol gå av?</title>
       <description><![CDATA[Eksperter påpeker at flere avsnitt i helseministerens masteroppgave inneholder avsnitt identiske med tekst fra andre studenter.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/81b59f72-5865-4011-bd5d-5c8376cf7890_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:12</itunes:duration>
       <pubDate>Thu, 23 Nov 2023 22:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
-    </item>
-    <item>
-      <title>Uklart når «Bamsegutt» republiseres</title>
-      <description><![CDATA[NRK unnlot å nevne en overgrepsdom i serien om «Bamsegutt», og nå hagler kritikken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/2013ba7f-ee97-4abb-bce1-555ac8745bdc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/2013ba7f-ee97-4abb-bce1-555ac8745bdc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:20</itunes:duration>
-      <pubDate>Tue, 21 Nov 2023 22:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
   </channel>
