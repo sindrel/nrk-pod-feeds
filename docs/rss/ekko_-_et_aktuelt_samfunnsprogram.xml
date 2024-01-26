@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 05:28:49 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2024 05:26:35 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Det sjokkerende jobbyttet</title>
+      <description><![CDATA[Fotballtreneren ble kalt sviker da han gikk fra Tromsø IL til Bodø/Glimt. Hvorfor kan ikke en trener gå til et rivaliserende lag?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/05ff8628-d0d4-42c2-b91d-808040b721a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/05ff8628-d0d4-42c2-b91d-808040b721a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:56</itunes:duration>
+      <pubDate>Fri, 26 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_T_3VqeaD78QywFfcIKUCQw5iIVSPjxyB1Z3npzM1fXQ.jpg"/>
+    </item>
     <item>
       <title>Spørretime: Anders Behring Breivik- saken </title>
       <description><![CDATA[- Slipper han noen gang ut? Jussprofessoren, nyhetsredaktøren, PST og støttegruppen for 22. juli svarer på lytternes spørsmål. 
@@ -96,17 +105,6 @@
       <itunes:duration>19:10</itunes:duration>
       <pubDate>Sat, 06 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/cJYlOK2ap4cYz-PcQZjoBwMmOGjxMrGwH0-XqHw1ZV-Q.jpg"/>
-    </item>
-    <item>
-      <title>Antibiotikaresistens kan bli den nye pandemien</title>
-      <description><![CDATA[Hvis vi ikke gjør noe drastisk, blir koronapandemien rene barnematen i forhold til resistente bakterier.
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0968a17a-2a3f-4035-81bb-a00382d31dc5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0968a17a-2a3f-4035-81bb-a00382d31dc5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:50</itunes:duration>
-      <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9Ly3zwg9swZQ0PbBei11JgNdmtmw6kQXmY26R5Dtyguw.jpg"/>
     </item>
   </channel>
 </rss>
