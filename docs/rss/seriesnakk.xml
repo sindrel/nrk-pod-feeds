@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Seriesnakk</title>
+    <title>De 10 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 21 Jan 2024 06:30:02 +0000</lastBuildDate>
-    <pubDate>Sun, 21 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2024 05:26:27 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aP5YrPy3ULG8bhqM3UzHUwhNgJ3hN8iCyN-CiuOuzHPg.jpg"/>
+    <item>
+      <title>- Skuffende at løveungen har smittet inn i min Kåre Willoch-rolle</title>
+      <description><![CDATA[Thorbjørn Harr om forberedelsene da han gikk inn i rollen som Kåre Willoch. Kåre Christoffer Vestrheim om å komponere Makta-musikken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/09515448-acf9-4bea-9360-20b3c2a4f130_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/09515448-acf9-4bea-9360-20b3c2a4f130_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:18</itunes:duration>
+      <pubDate>Sun, 28 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vQR7PmjxKiRgv5mdwKs6iAruiGXQo0FEaCqoNHelMxRQ.jpg"/>
+    </item>
     <item>
       <title>- Utøya fortjener å være på TV</title>
       <description><![CDATA[Arbeids- og inkluderingsminister Tonje Brenna har et nært forhold til Utøya. Harald Mæle jr. har vært episodeforfatter på episode 9. Jan Gunnar Røises reise som Reiulf Steen går mot slutten.]]></description>
@@ -91,7 +100,7 @@ Popkorn: Topp 5 tygg i Makta: http://nrk.no/popkorn]]></description>
       <itunes:image href="https://gfx.nrk.no/M3OOFMVQSN9gAqYouJ_B9A0DkADQd4Lt_KEg3cXrnUqw.jpg"/>
     </item>
     <item>
-      <title>– Vi er ikke idioter og tror at det var el-sparkesykler i 1975</title>
+      <title>– Vi er ikke idioter og tror at det var elsparkesykler i 1975</title>
       <description><![CDATA[Serieskaper Kristin Grue om hvordan idéen til NRK-serien «Makta» kom. Biograf Hans Olav Lahlum og skuespiller Jan Gunnar Røise om Reiulf Steen. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/99993352-0961-4a3a-80e0-6c1fb70de312_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/seriesnakk/99993352-0961-4a3a-80e0-6c1fb70de312_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
