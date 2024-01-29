@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 22 Jan 2024 05:29:24 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2024 05:27:11 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Erlend Loe på ett hjul</title>
+      <description><![CDATA[Bruk hjelm og se opp for bjørn! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7f9daba0-1ab6-434f-93d7-07ec8b3da1ac_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7f9daba0-1ab6-434f-93d7-07ec8b3da1ac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:32</itunes:duration>
+      <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GjdbcMVhcupKR0-5Snh_FQme65C-97iYLa2XiLFFz5qg.jpg"/>
+    </item>
     <item>
       <title>Bård Ylvisåker, guffent med maskingevær</title>
       <description><![CDATA[Kan prat om døden være starten på et nytt vennskap? En av to i studio er skeptiske. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>53:15</itunes:duration>
       <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EPQr_NFM3yVtDgZe9PzEHwVkyO17Y-WWtEAH3-bNpIOA.jpg"/>
-    </item>
-    <item>
-      <title>Kriminaltekniker Eva B. Ragde </title>
-      <description><![CDATA[Eva har sett det verste vi mennesker er i stand til å gjøre. Og det preger både synet på døden og livet. Og klarer hun "Gjem liket"?? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/25f768de-8d69-4e4a-84cd-9dc1ab703ff3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/25f768de-8d69-4e4a-84cd-9dc1ab703ff3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:48</itunes:duration>
-      <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rpyGg-fiyQ6FQqmBadgO7wBs40KIq9O2ebmbcvxgUUHg.jpg"/>
     </item>
   </channel>
 </rss>
