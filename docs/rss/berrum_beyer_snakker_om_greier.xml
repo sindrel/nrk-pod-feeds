@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 26 Jan 2024 05:26:29 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 30 Jan 2024 05:26:31 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Jeg er søt, best med utbrudd og hører på alt</title>
+      <description><![CDATA[Lars har snakket gebrokkent på kafe! Martin lurer på om han bør ha et utbrudd. Sammen diskuterer de folk som hører på alt. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/0ef56689-91b4-4401-8b83-eacd8ee9b143_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/0ef56689-91b4-4401-8b83-eacd8ee9b143_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:34</itunes:duration>
+      <pubDate>Tue, 30 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
     <item>
       <title>Mia Hundvin: Skeptisk og østlandsunger </title>
       <description><![CDATA[Programleder Mia Hundvin er dagens gjest. Det blir prat om lagidrett, Mias skepsis til komplimenter og Bergenslivet. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>51:44</itunes:duration>
       <pubDate>Fri, 29 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_M2OW7R0JvxVDMiWMK5LOAYp48s7rDdP1L2M2WWj_ZNA.jpg"/>
-    </item>
-    <item>
-      <title>Fitta blir grøt, brev til Raja og den finske sulten</title>
-      <description><![CDATA[Lars har lest teksten fra en russelåt. Martin vil stille et åpent spørsmål til Abid Raja. Sammen diskuterer de kulturell appropriasjon med Beltedyret. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5b83f94c-1a8c-42a6-908c-69f58e4e16a7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5b83f94c-1a8c-42a6-908c-69f58e4e16a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:04:50</itunes:duration>
-      <pubDate>Tue, 26 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
     </item>
   </channel>
 </rss>
