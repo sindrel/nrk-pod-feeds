@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 29 Jan 2024 13:25:23 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jan 2024 13:40:00 +0100</pubDate>
+    <lastBuildDate>Tue, 30 Jan 2024 13:24:17 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jan 2024 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Mimmi Tamba</title>
+      <description><![CDATA[Skuespilleren og artisten om karrieren:
+-Jeg har alltid følt meg som en outsider.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7549e713-fc1a-46eb-917b-56d4860ff193_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7549e713-fc1a-46eb-917b-56d4860ff193_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Tue, 30 Jan 2024 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHq9qvUPbQYi5EiS5KYC6wz5zIrLL4KwCrVggPcOgTIQ.jpg"/>
+    </item>
     <item>
       <title>Terje Tvedt</title>
       <description><![CDATA[- Vi lever i vann-usikkerhetens tidsalder, sier historikeren, som har brukt nesten hele livet på å forske på vannets betydning.]]></description>
@@ -95,15 +105,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Thu, 21 Dec 2023 14:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eGILFL5dxtKnGoxujaEmVg3Zhos1N8PX9GNgGdpE9KYg.jpg"/>
-    </item>
-    <item>
-      <title>Bodil Nordjore</title>
-      <description><![CDATA[Øl og småkaker til jul - det er noe av det mest tradisjonelle vi har, sier statsbudeie og kokebokforfatteren fra Telemark]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5279bcba-6c43-4200-939e-dc411f70937e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5279bcba-6c43-4200-939e-dc411f70937e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:19</itunes:duration>
-      <pubDate>Wed, 20 Dec 2023 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FhCmPSHf8A3jPV2l7GBSuAQf1Exi_61VdZyV2py2YiWA.jpg"/>
     </item>
   </channel>
 </rss>
