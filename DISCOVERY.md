@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-31  
+- Podcast 'Historier fra virkeligheten' is considered obsolete and will be ignored in the future (`radiodokumentaren`)  
 ### 2024-01-23  
 - Updated podcast 'Julestemning med Live og Ronny' (`julestemning`)  
 ### 2024-01-21  
