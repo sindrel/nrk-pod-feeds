@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 Jan 2024 19:22:04 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jan 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 31 Jan 2024 19:22:00 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Jan 2024 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Økt ungdomskriminalitet</title>
+      <description><![CDATA[Voldsbruk blant unge økte betraktelig i 2023, ifølge nye tall fra Politidirektoratet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/257a7b0a-7947-405c-b223-8b9b7bd1daad_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/257a7b0a-7947-405c-b223-8b9b7bd1daad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 31 Jan 2024 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WDnrqR7NjQ2CU2oe6ES8OATgxUd4QvcEEua7nNBv0OeA.jpg"/>
+    </item>
     <item>
       <title>EOS-utvalget: – Ikke grunnlag for å kritisere E-tjenesten</title>
       <description><![CDATA[Etterretningstjenesten fremprovoserte ikke terrorangrepet i Oslo natt til 25. juni 2022. Det er konklusjonen til Stortingets kontrollorgan som har undersøkt den hemmelige tjenesten.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Thu, 18 Jan 2024 19:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fNZ3diNMGLXX09RR5_8W2gt3WN9S2U2gug55datitVxg.jpg"/>
-    </item>
-    <item>
-      <title>Snøkaos på Østlandet</title>
-      <description><![CDATA[Store snømengder skaper kaos igjen i sør. Er vi godt nok forberedt på vinterværet? Samferdselsministeren svarer forsker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4060d459-a8da-4090-9af6-d48ea1da04a9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4060d459-a8da-4090-9af6-d48ea1da04a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 17 Jan 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cD_eOFAcdes5rNZRwgWqQQHbNO7Z-GqWoUTDWTnsCydQ.jpg"/>
     </item>
   </channel>
 </rss>
