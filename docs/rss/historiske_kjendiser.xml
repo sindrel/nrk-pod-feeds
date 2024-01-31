@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 05:28:54 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 31 Jan 2024 05:26:36 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Galileo Galilei - rebelsk vitenskapsmann</title>
+      <description><![CDATA[Han var en av fedrene til den moderne vitenskapen, men ble forsøkt
+kneblet av den katolske kirken.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/7d2e22a6-f363-40cd-9521-efa0d743a5cc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/7d2e22a6-f363-40cd-9521-efa0d743a5cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sYZW34R1LHzbks7OQclyGQGvNUO_kTXRvXQM9IAzgX2g.jpg"/>
+    </item>
     <item>
       <title>Katarina den store - tsar og kuppmaker</title>
       <description><![CDATA[Den russiske keiserinnen kuppet makten fra ektemannen sin.]]></description>
@@ -93,16 +104,6 @@ monolitt.]]></description>
       <itunes:duration>58:00</itunes:duration>
       <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RcXhWxufScJfTl9KJWI1TQF2eLkEaUwAnyTVXhVV4z5g.jpg"/>
-    </item>
-    <item>
-      <title>Rikard Løvehjerte - sagnomsust folkehelt og krigerkonge</title>
-      <description><![CDATA[Den myteomspunne kongen er for mange kjent som en tapper engelsk folkehelt. Han gjorde slagmarken til sitt hjem og rettet sverdet mot fiendene sine, men også mot sin egen familie.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/55659d82-5727-428e-829f-0693b052c4c5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/55659d82-5727-428e-829f-0693b052c4c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:34</itunes:duration>
-      <pubDate>Wed, 14 Jun 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r3GiRb3IqsPZ7_xdHGmRPQGHagEv5vIAHi2X1ILXgBWg.jpg"/>
     </item>
   </channel>
 </rss>
