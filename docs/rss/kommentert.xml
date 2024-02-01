@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 25 Jan 2024 15:27:02 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jan 2024 15:32:00 +0100</pubDate>
+    <lastBuildDate>Thu, 01 Feb 2024 15:24:46 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Feb 2024 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Rentefest for DNB, sekstimersdag og Gaza-bistand</title>
+      <description><![CDATA[DNB tjener mer enn aldri før på grunn av rentehoppene, nytt liv i sekstimersdag-debatten og Norge fortsetter omstridt Gaza-bistand.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d3df1934-708e-45be-90e3-ff91f732eadd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d3df1934-708e-45be-90e3-ff91f732eadd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:26</itunes:duration>
+      <pubDate>Thu, 01 Feb 2024 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tArJXQ8oq8Ylv8bKtWofSQI-OxgPS_XErreFe87QCklQ.jpg"/>
+    </item>
     <item>
       <title>Helseminister-trøbbel og er rentetoppen nådd?</title>
       <description><![CDATA[Helseminister Ingvild Kjerkol blir beskyldt for juks og kopiering i masteroppgaven sin, og viser siste rentemøte nå at toppen er nådd?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>49:43</itunes:duration>
       <pubDate>Thu, 30 Nov 2023 14:52:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mBlwo3oaHY1xhpfREGeDKQyZZfnXPpC8SLVlbrXb4INA.jpg"/>
-    </item>
-    <item>
-      <title>–Et kjøpehelvete vi ikke trenger</title>
-      <description><![CDATA[Burde vi ha dårlig samvittighet for å handle på Black Friday?  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/64aa132b-c76e-4254-b880-ab217dcd4aec_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/64aa132b-c76e-4254-b880-ab217dcd4aec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:26</itunes:duration>
-      <pubDate>Thu, 23 Nov 2023 17:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LQe3GOcRkkqRzpfePSSYGgcWKGoHT7rAVgP8cmFcBAtQ.jpg"/>
     </item>
   </channel>
 </rss>
