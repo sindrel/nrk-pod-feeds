@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 31 Jan 2024 13:23:56 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Jan 2024 14:20:00 +0100</pubDate>
+    <lastBuildDate>Thu, 01 Feb 2024 14:26:55 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Feb 2024 14:25:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Palle Ydstebø</title>
+      <description><![CDATA[-Vi må forberede oss på krig hvis vi skal beholde friheten. 
+Det sier oberstløytnanten som de siste to årene er blitt et kjent fjes som kommentator av krigen i Ukraina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c113c5e0-bc79-4f87-abda-df88eec3f901_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c113c5e0-bc79-4f87-abda-df88eec3f901_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:22</itunes:duration>
+      <pubDate>Thu, 01 Feb 2024 14:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CzJRnHNKDVaeG6gyGF4-tA3kI4YX1yEBgW3Hbq5u5SEA.jpg"/>
+    </item>
     <item>
       <title>Jånni Kristiansen</title>
       <description><![CDATA[Han var snekker med masse på hjertet og ingen struktur. I dag regnes han som norsk stand-ups gudfar.]]></description>
@@ -93,15 +103,6 @@
       <itunes:duration>56:44</itunes:duration>
       <pubDate>Tue, 09 Jan 2024 14:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dOWJ0jfWx2y71GV_AREsuAQsS8PSzmhB4Iid1sEVrptg.jpg"/>
-    </item>
-    <item>
-      <title>Jenny Skavlan</title>
-      <description><![CDATA[-Jeg føler meg mettet på oppmerksomhet, sier klesgründeren og programlederen. Men hun er åpen for at hun muligens er avhengig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/208dcc55-bd99-4898-94b9-c71f8ac8ff01_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/208dcc55-bd99-4898-94b9-c71f8ac8ff01_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:12</itunes:duration>
-      <pubDate>Thu, 04 Jan 2024 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KmVhaOoavBEEwlt6uF3ebgSlmwAzUebbamyBDmBWWegg.jpg"/>
     </item>
   </channel>
 </rss>
