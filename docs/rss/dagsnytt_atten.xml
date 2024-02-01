@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 31 Jan 2024 19:22:00 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Jan 2024 20:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 01 Feb 2024 19:22:02 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Feb 2024 19:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ubikGDWzMrGIWK9ZweTgIg_HB0qggKiTsk9v5SfROGsg.jpg"/>
+    <item>
+      <title>Uværet "Ingunn" har truffet Harstad</title>
+      <description><![CDATA[Langt verre skader enn vi hadde sett for oss, forteller kommunedirektør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b376923-e906-49ee-8139-2a65bbc5afe2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b376923-e906-49ee-8139-2a65bbc5afe2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:53</itunes:duration>
+      <pubDate>Thu, 01 Feb 2024 19:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SvD-m-arYEFOnhKJkLYo0AjuHD-nvKw5EdyEJTE27ubA.jpg"/>
+    </item>
     <item>
       <title>Økt ungdomskriminalitet</title>
       <description><![CDATA[Voldsbruk blant unge økte betraktelig i 2023, ifølge nye tall fra Politidirektoratet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 19 Jan 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ijz2r4gJYSiXT-SR78k8TQVHqUX8sZhANcdC7Zn-U6DA.jpg"/>
-    </item>
-    <item>
-      <title>Klimaorganisasjonene vinner i retten</title>
-      <description><![CDATA[Klimaorganisasjoner saksøkte staten for ulovlige tillatelser til oljeprosjekter. Oslo tingrett gir dem rett på alle punkter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/382d1d65-262c-4817-bb76-79f4fcffcdc9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/382d1d65-262c-4817-bb76-79f4fcffcdc9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Thu, 18 Jan 2024 19:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fNZ3diNMGLXX09RR5_8W2gt3WN9S2U2gug55datitVxg.jpg"/>
     </item>
   </channel>
 </rss>
