@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 14:26:55 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Feb 2024 14:25:00 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2024 13:23:54 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Feb 2024 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Arild Hermstad</title>
+      <description><![CDATA[MDG-lederen planla å jobbe med penger, men et spanskkurs i Guatemala ga livet en ny mening.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7f291a19-6321-4867-ab70-e804df0bd7fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7f291a19-6321-4867-ab70-e804df0bd7fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:27</itunes:duration>
+      <pubDate>Mon, 05 Feb 2024 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Emhn-oCGEFdahOgzXMFISQszUCt7ntf88Nk3Q7lVjwIw.jpg"/>
+    </item>
     <item>
       <title>Palle Ydstebø</title>
       <description><![CDATA[-Vi må forberede oss på krig hvis vi skal beholde friheten. 
@@ -94,15 +103,6 @@ Det sier oberstløytnanten som de siste to årene er blitt et kjent fjes som kom
       <itunes:duration>57:08</itunes:duration>
       <pubDate>Thu, 11 Jan 2024 14:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/07dDuI4kpExpzgBTLXSw1wwZ4O6U828afBBOQgchKeow.jpg"/>
-    </item>
-    <item>
-      <title>Sylo Taraku </title>
-      <description><![CDATA[- Innvandrere har et eget driv, sier statsviteren og forfatteren. Han flyktet fra krigen i Kosovo til Norge som 18-åring.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4a7b0205-613a-4906-aa4d-e6684e87b240_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4a7b0205-613a-4906-aa4d-e6684e87b240_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:44</itunes:duration>
-      <pubDate>Tue, 09 Jan 2024 14:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dOWJ0jfWx2y71GV_AREsuAQsS8PSzmhB4Iid1sEVrptg.jpg"/>
     </item>
   </channel>
 </rss>
