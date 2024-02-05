@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 29 Jan 2024 05:27:11 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2024 05:27:35 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Renate Reinsve og dødsspådommen</title>
+      <description><![CDATA[Ikke hør på ALT legen din sier. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/f869525b-b213-44e8-a3a8-fcc6e18d6531_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f869525b-b213-44e8-a3a8-fcc6e18d6531_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:46</itunes:duration>
+      <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H6JI4X_pjOVbfttUBiy_gQJdDyLZ0vaQJGzrjXeg__jg.jpg"/>
+    </item>
     <item>
       <title>Erlend Loe på ett hjul</title>
       <description><![CDATA[Bruk hjelm og se opp for bjørn! ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>52:06</itunes:duration>
       <pubDate>Mon, 27 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eXx5B6ezi9BmTaRXwfyNNw5lw5fFNgCZZV2lmQwJAeRQ.jpg"/>
-    </item>
-    <item>
-      <title>Niklas Baarli og kunsten å leve knallhardt</title>
-      <description><![CDATA[Niklas opplevde mye død i ung alder og kunne ikke hatt mindre dødsangst. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/288cf80b-6bfa-45cc-9e2b-0b548ab34040_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/288cf80b-6bfa-45cc-9e2b-0b548ab34040_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:15</itunes:duration>
-      <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EPQr_NFM3yVtDgZe9PzEHwVkyO17Y-WWtEAH3-bNpIOA.jpg"/>
     </item>
   </channel>
 </rss>
