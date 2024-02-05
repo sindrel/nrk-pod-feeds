@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 05:28:12 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2024 12:40:21 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Feb 2024 12:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    <item>
+      <title>Snakkis: Fotballfilm, danseband og Palestina</title>
+      <description><![CDATA[Sven hyller Ødegaards kamerafeiring, Tete har forslag til danseband-vokalister, og Sigurd anmelder fotballkamp som om det var film.
+
+I panelet: Sven Bisgaard Sundet, Tete Lidbom og Sigurd Vik.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/7c389ecc-f1d1-47a2-9ee3-6d3138cea8e1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/7c389ecc-f1d1-47a2-9ee3-6d3138cea8e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:37</itunes:duration>
+      <pubDate>Mon, 05 Feb 2024 12:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
     <item>
       <title>#371 Birger Meling</title>
       <description><![CDATA[Birger Meling forteller om veien til toppfotballen, stavangernostalgi og om å bli kalt en "jævla dverg".]]></description>
@@ -102,17 +113,6 @@ I panelet: Tete Lidbom, Sven Bisgaard Sundet, Åge Hareide, Emil Gukild og Erlen
       <itunes:duration>02:24:09</itunes:duration>
       <pubDate>Thu, 30 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PCX33aN6VJ88gekKaeDAYQRTYpreoD4_N3s8vtRchUbA.jpg"/>
-    </item>
-    <item>
-      <title>Snakkis: Gullrus, brassespark og julekalender</title>
-      <description><![CDATA[Panelet snakker om brassespark, julekalender og Emilie Nautnes sitt følelsesladde intervju etter cupgullet var i boks!
-
-I panelet: Sven Bisgaard Sundet, Tete Lidbom og Markus Neby]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/f167305c-2793-4cce-9726-04a486e80c38_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/f167305c-2793-4cce-9726-04a486e80c38_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:11</itunes:duration>
-      <pubDate>Mon, 27 Nov 2023 12:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UIUhJtbiJhjJxVXVw4J6ZAKtZMVow4H90EG7455k0NLg.jpg"/>
     </item>
   </channel>
 </rss>

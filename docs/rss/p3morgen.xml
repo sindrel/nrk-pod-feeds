@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 10:28:36 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Feb 2024 10:35:00 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2024 12:40:29 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Feb 2024 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Hvem er mora til Karsten?</title>
+      <description><![CDATA[Selveste Ronny Brede Aase er på besøk hos oss fordi han har nytt program!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b0f6793c-20c9-433d-9b7e-c91c8fc9f0fb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b0f6793c-20c9-433d-9b7e-c91c8fc9f0fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:07</itunes:duration>
+      <pubDate>Mon, 05 Feb 2024 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Z_XteiOx0DjWfBwMN1dPxQKNrVP-mwVfsA1h2XbCMdLQ.jpg"/>
+    </item>
     <item>
       <title>Dos habaneros: En mengde spicy mails</title>
       <description><![CDATA[Det ruller og går videre i "Noe Attåt" med Dr.Jones og Markus Vangen!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>26:46</itunes:duration>
       <pubDate>Mon, 29 Jan 2024 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Kan man trekke grillpølser?</title>
-      <description><![CDATA[Store spørsmål blir stilt i dagens P3morgen! Vi får også besøk av legenden Mona Berntsen som jobber med MGP<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/aeaa6f87-edb7-4a2d-a09a-64d5c3e46b8d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/aeaa6f87-edb7-4a2d-a09a-64d5c3e46b8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:12</itunes:duration>
-      <pubDate>Mon, 29 Jan 2024 13:50:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/n6rMir7pq33XgjqpnCTS5glcmZYR9msmoZSM5QYgLBwg.jpg"/>
     </item>
   </channel>
 </rss>
