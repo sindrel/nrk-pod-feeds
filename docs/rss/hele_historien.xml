@@ -1,51 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 07:22:50 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jan 2024 06:02:00 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 13:23:32 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer i NRK Radio: Munchtyveriene</title>
-      <description><![CDATA[Gjennom dristige kunstkupp har tyver flere ganger klart å stikke av med Norges mest dyrebare kunstskatter – malerier av Edvard Munch. Kommer 11.01.24. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/2f061ed7-cee9-4323-8746-dd7ab2e5aa4d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/2f061ed7-cee9-4323-8746-dd7ab2e5aa4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:44</itunes:duration>
-      <pubDate>Wed, 10 Jan 2024 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfN1SHBFxuND2-9RAAfwBQh_IWrqSLTeDK3eY8q1vuHQ.jpg"/>
-    </item>
-    <item>
-      <title>"Skrik" ut av vinduet – Munchtyveriene (1:3)</title>
-      <description><![CDATA[Mens alle er opptatt av Lillehammer-OL, stikker ukjente tyver av med «Skrik». Bare en stige står igjen utenfor Nasjonalgalleriet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/e6f5d505-1281-41e1-871d-ab3c34a16a53_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/e6f5d505-1281-41e1-871d-ab3c34a16a53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:58</itunes:duration>
-      <pubDate>Thu, 11 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfN1SHBFxuND2-9RAAfwBQh_IWrqSLTeDK3eY8q1vuHQ.jpg"/>
-    </item>
-    <item>
-      <title>"Madonna" i bagasjerommet – Munchtyveriene (2:3)</title>
-      <description><![CDATA[Midt på lyse dagen løper maskerte ranere inn på Munchmuseet og røsker med seg to malerier. Verdi: 750 millioner kroner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/43bde480-c6c3-48c2-8c56-7a3122654017_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/43bde480-c6c3-48c2-8c56-7a3122654017_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:50</itunes:duration>
-      <pubDate>Thu, 11 Jan 2024 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfN1SHBFxuND2-9RAAfwBQh_IWrqSLTeDK3eY8q1vuHQ.jpg"/>
-    </item>
-    <item>
-      <title>En Munch på pissoaret – Munchtyveriene (3:3)</title>
-      <description><![CDATA[Munch-kunst for millioner henger usikret på hybler og toaletter, og ved muséet stjeler en betrodd ansatt verdifulle verk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/5c7d34ab-4740-441c-9e3d-2c1365821ce0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/5c7d34ab-4740-441c-9e3d-2c1365821ce0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:38</itunes:duration>
-      <pubDate>Thu, 11 Jan 2024 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfN1SHBFxuND2-9RAAfwBQh_IWrqSLTeDK3eY8q1vuHQ.jpg"/>
+      <title>I NRK Radio – Skuddene på Serena </title>
+      <description><![CDATA[Januar 2008: Utenriksministeren og flere norske journalister er i Kabul når Taliban går til angrep. Flere blir drept eller livstruende skadet. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/318ff358-a495-470f-8cfa-378063017738_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/318ff358-a495-470f-8cfa-378063017738_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:56</itunes:duration>
+      <pubDate>Wed, 07 Feb 2024 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3ELVFjy3cA44M43R3jXseAeZMoC03v-pEJ2wlkEwLTvw.jpg"/>
     </item>
   </channel>
 </rss>

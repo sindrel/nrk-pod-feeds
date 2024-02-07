@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 06 Feb 2024 13:25:26 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Feb 2024 14:20:00 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 13:23:28 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 14:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Olaug Bollestad</title>
+      <description><![CDATA[Partilederens egen livsfilosofi:
+-Vi må ikke være så opptatt av å framstå så forbaska vellykka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cb55f8b5-9092-488d-a087-3adecc2e947e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cb55f8b5-9092-488d-a087-3adecc2e947e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Wed, 07 Feb 2024 14:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/B1eB_RrIZ8EYnV9oaxGSSgUnldGNuBY7eFHJ_aII0X7w.jpg"/>
+    </item>
     <item>
       <title>Marie Sneve Martinussen</title>
       <description><![CDATA[Partilederen i Rødt mener hun framstår som tøffere enn hun egentlig er]]></description>
@@ -94,15 +104,6 @@ Det sier oberstløytnanten som de siste to årene er blitt et kjent fjes som kom
       <itunes:duration>56:27</itunes:duration>
       <pubDate>Thu, 18 Jan 2024 14:15:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/cIwHGesfV_HQF-fGokuClQlh5n1lwMqDh4t1l2ILb8Wg.jpg"/>
-    </item>
-    <item>
-      <title>Amanda Delara</title>
-      <description><![CDATA[Popartisten synes det er sårt at hun ikke kan reise til foreldrenes hjemland, Iran, på grunn av sterkt politisk engasjement.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7b1c87fc-a6b9-4bea-8e1b-da372978b8a2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7b1c87fc-a6b9-4bea-8e1b-da372978b8a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:42</itunes:duration>
-      <pubDate>Mon, 15 Jan 2024 14:08:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4g1ouIGNiSCxHLr7sdN7VgQMXoP8nilDdqyLHMPkoLSA.jpg"/>
     </item>
   </channel>
 </rss>
