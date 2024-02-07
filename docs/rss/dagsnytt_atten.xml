@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 06 Feb 2024 19:21:55 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Feb 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 18:27:21 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Regjeringen anbefaler mobilfri skole</title>
+      <description><![CDATA[Anbefalinger er ikke nok, sier Krf, som ønsker forbud. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9ac8c69d-b7b5-4372-82e7-473a56cd8eda_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9ac8c69d-b7b5-4372-82e7-473a56cd8eda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Wed, 07 Feb 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/488GHXqb1imNSdLNGyw0wgazHiELYnnomiWubf3GTj9w.jpg"/>
+    </item>
     <item>
       <title> Utvalg kritiserer regjeringen og vil kutte skatter </title>
       <description><![CDATA[Regjeringens skattepolitikkpolitikk får hard kritikk fra lederen av Finanspolitikkutvalget. Utvalget advarer mot det de kaller skadelige skatter. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 25 Jan 2024 19:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/uAOEXMeLjN8lTJdQCtvjOAiL_6Lc_auWidu2yRrvdyJg.jpg"/>
-    </item>
-    <item>
-      <title>Viktor Orbán positiv til Sveriges Nato-medlemskap</title>
-      <description><![CDATA[Ungarns statsminister oppfordret i dag landets parlament å godkjenne søknaden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/71aa3bc0-83ad-47e0-a400-a400c8726131_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/71aa3bc0-83ad-47e0-a400-a400c8726131_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 24 Jan 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VnfVjEthgXPQcZRw7WFc4A7lWG2Xd1slzJD2eOziZxBw.jpg"/>
     </item>
   </channel>
 </rss>
