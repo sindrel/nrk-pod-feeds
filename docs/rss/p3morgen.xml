@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 07 Feb 2024 10:28:51 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Feb 2024 10:52:00 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 14:26:15 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 15:09:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: En hendelse fra Horefjell</title>
+      <description><![CDATA[Adelina har vært på hyttetur, Anna har mye energi, Johannes har ikke ullplagg og Karsten har spist digg mat. Send oss mail da! P3morgen@nrk.no. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b1cd8a41-75b3-46ca-acbf-13ed9f18361c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b1cd8a41-75b3-46ca-acbf-13ed9f18361c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:01</itunes:duration>
+      <pubDate>Wed, 07 Feb 2024 15:09:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Tete saboterer et hellig øyeblikk</title>
       <description><![CDATA[Magnus Devold er på besøk for å prate om ferie i Mexico og fotballpodkast. Tete tok også et valg som skuffet resten av gjengen!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>53:19</itunes:duration>
       <pubDate>Thu, 01 Feb 2024 10:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/94xoQiHv1bRv9yc47IriqANYX545EAltaw44XMqQxpog.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Oppdatering fra badstue-livet</title>
-      <description><![CDATA[Karsten og Johannes har trent og tatt badstue, hvordan det gikk får du høre her<3 ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/032fafa8-b03c-4a94-9a7e-1a5ed469ff8d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/032fafa8-b03c-4a94-9a7e-1a5ed469ff8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:43</itunes:duration>
-      <pubDate>Wed, 31 Jan 2024 11:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
