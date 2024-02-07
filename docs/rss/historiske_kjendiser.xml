@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 31 Jan 2024 05:26:36 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 05:26:47 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Al Capone – gangsternes konge</title>
+      <description><![CDATA[Gangsterkongen Scarface gjorde Chicago til USAs farligste by]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/a13b1422-b8e1-46e8-aaa3-bb69faf8e39d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/a13b1422-b8e1-46e8-aaa3-bb69faf8e39d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:36</itunes:duration>
+      <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VXrDWu_73yrYMHpLz7BkQf3N9vHS2fW5Tiz-GFKVkKQ.jpg"/>
+    </item>
     <item>
       <title>Galileo Galilei - rebelsk vitenskapsmann</title>
       <description><![CDATA[Han var en av fedrene til den moderne vitenskapen, men ble forsøkt
@@ -94,16 +103,6 @@ monolitt.]]></description>
       <itunes:duration>57:30</itunes:duration>
       <pubDate>Wed, 06 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/D_Km6wvF5wfuTCel-3nykQYszI8TPU0vUU_ijh9oA_fg.jpg"/>
-    </item>
-    <item>
-      <title>Haakon VII - valgt av folket</title>
-      <description><![CDATA[Folkets konge skulle aldri regjere, men tok sjansen da den bød seg.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:00</itunes:duration>
-      <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RcXhWxufScJfTl9KJWI1TQF2eLkEaUwAnyTVXhVV4z5g.jpg"/>
     </item>
   </channel>
 </rss>

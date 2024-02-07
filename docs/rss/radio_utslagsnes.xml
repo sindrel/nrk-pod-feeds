@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 05:28:36 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 05:27:03 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Makrellen spiser lik</title>
+      <description><![CDATA[Lansering av dronedassen og idrettsrevy med boccia-avsløringer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/ffbf5c34-0d96-4d63-99f1-f7f0e3f3b461_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/ffbf5c34-0d96-4d63-99f1-f7f0e3f3b461_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:22</itunes:duration>
+      <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mZ8bghoRaqUBU274msj0hweNP4qoOPBua0FyulVt6qnA.jpg"/>
+    </item>
     <item>
       <title>Evaluering: Mange har ikke etternavn</title>
       <description><![CDATA[Og hvor nær slekt er det egentlig lov å ha med på radio?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>10:57</itunes:duration>
       <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
-    </item>
-    <item>
-      <title>Olsenvirus og turistattraksjoner</title>
-      <description><![CDATA[Johnnyjohnny er tilbake, og lensmannen har tvilsomme formaninger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/4dc261c0-4c7f-4b78-983b-d2b3e8789b97_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/4dc261c0-4c7f-4b78-983b-d2b3e8789b97_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:42</itunes:duration>
-      <pubDate>Wed, 03 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-IumlsOSD2Emms5Sgbq5cAkhSss6C-b-Wb2ArcfszfTg.jpg"/>
     </item>
   </channel>
 </rss>
