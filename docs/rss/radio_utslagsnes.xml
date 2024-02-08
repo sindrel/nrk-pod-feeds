@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 07 Feb 2024 05:27:03 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 05:27:44 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Evaluering: Dagkirurgi i butikk</title>
+      <description><![CDATA[Ekstremværet Lars Torvald Johannesen var ingen fønvind fra svenskegrensa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/a74fb78d-1991-4161-b782-5374f8474184_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/a74fb78d-1991-4161-b782-5374f8474184_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:35</itunes:duration>
+      <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
+    </item>
     <item>
       <title>Makrellen spiser lik</title>
       <description><![CDATA[Lansering av dronedassen og idrettsrevy med boccia-avsløringer.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>34:22</itunes:duration>
       <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kcQJw73PZRM78_Wpm0xrkg1ZNWE4g1fOhqdrGxer8f2A.jpg"/>
-    </item>
-    <item>
-      <title>Evaluering: Du er den fjerde statsmakt</title>
-      <description><![CDATA[Vi diskuterer trenden med vassing og smaker på tørr-maneter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/75d02817-5e31-41e8-ab16-da4a06ffd90a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/75d02817-5e31-41e8-ab16-da4a06ffd90a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:57</itunes:duration>
-      <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
     </item>
   </channel>
 </rss>
