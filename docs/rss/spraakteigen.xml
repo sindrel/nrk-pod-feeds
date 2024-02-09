@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 05:27:58 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 09 Feb 2024 12:38:27 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Feb 2024 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    <item>
+      <title>Delsom, opphjelp, fant og fanteri</title>
+      <description><![CDATA[Vi byr på nye ord, ord som er på tur ut av vanlig bruk, eldre språkhistorie, og vi spør også om intetkjønnet er på vikende front.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/56976a1d-01c3-46ba-bdad-2361a8f2b02a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/56976a1d-01c3-46ba-bdad-2361a8f2b02a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:43</itunes:duration>
+      <pubDate>Fri, 09 Feb 2024 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    </item>
     <item>
       <title>Roadkill og kos med kasus </title>
       <description><![CDATA[Hva avgjør om et navn er jente- eller guttenavn? Vi sier hogst og bakst, hvorfor ikke måkst? Og har begrepet "per nå" blitt mote?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:09</itunes:duration>
       <pubDate>Fri, 01 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/h_gJJBhrogDcQPK_b8GbSQA68sdIKfqyNUvV8kHYUsyg.jpg"/>
-    </item>
-    <item>
-      <title>Sulamitten, kostebinderiet og dånedippen</title>
-      <description><![CDATA[Kontradiksjoner og tautologier. Lett å forstå når du har hørt Språksnakk. Men hva betyr hullsalig og hurven? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/e42484a3-9f78-4a8c-aa50-668416b2e34c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/e42484a3-9f78-4a8c-aa50-668416b2e34c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:41</itunes:duration>
-      <pubDate>Fri, 24 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3VSAiSd_kBgltanfLATa-gHRTHHd1wI3rA8YPKpEC5Mg.jpg"/>
     </item>
   </channel>
 </rss>
