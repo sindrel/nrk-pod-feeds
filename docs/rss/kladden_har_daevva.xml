@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 05 Feb 2024 05:27:35 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Feb 2024 05:26:58 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Leo Ajkic må bare én ting</title>
+      <description><![CDATA[Redd for både døden og rasfare. Men tar det ellers med ro. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b228a159-a220-41b9-bee8-9c9ecab8b4b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b228a159-a220-41b9-bee8-9c9ecab8b4b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:48</itunes:duration>
+      <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DSls5Feq-n6lcL_EGE18dQs2Nr0_tZvO0zovbdqzYQDA.jpg"/>
+    </item>
     <item>
       <title>Renate Reinsve og dødsspådommen</title>
       <description><![CDATA[Ikke hør på ALT legen din sier. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>54:51</itunes:duration>
       <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HQWd8GghCBCJ6ftBU4X6fg-YBNhqz5QFeMdLMwDZ4nrA.jpg"/>
-    </item>
-    <item>
-      <title>Maria Stavangs dødsangstrekord</title>
-      <description><![CDATA[Hvis dødsangst var en konkurranse hadde Maria vunnet. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2d0bc5b9-bb3a-47a0-944f-7d241d1fb822_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2d0bc5b9-bb3a-47a0-944f-7d241d1fb822_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:06</itunes:duration>
-      <pubDate>Mon, 27 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eXx5B6ezi9BmTaRXwfyNNw5lw5fFNgCZZV2lmQwJAeRQ.jpg"/>
     </item>
   </channel>
 </rss>
