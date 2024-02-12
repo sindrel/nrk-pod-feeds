@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Feb 2024 19:22:08 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Feb 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Feb 2024 18:27:08 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Feb 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Sikkerhetstjenestene advarer</title>
+      <description><![CDATA[Norge må være forberedt på trusler fra Russland og Kina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5ec9571a-dbd7-4138-aada-5ffd7520b297_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5ec9571a-dbd7-4138-aada-5ffd7520b297_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 12 Feb 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Lya8YR6CScawZBV8h2WtzglndSr06Fs6BxV6vmMxqC2g.jpg"/>
+    </item>
     <item>
       <title>Norsk Industri i søkelyset</title>
       <description><![CDATA[Avsløringer om Norsk Industris bruk av millionbeløp på jaktterreng, hytte og sjøfly.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Tue, 30 Jan 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oOKol1gi-VBwksm8cgRiaQZmvq5c63HdUHwCoHTcHegQ.jpg"/>
-    </item>
-    <item>
-      <title>Uvær i Nord-Norge </title>
-      <description><![CDATA[Flere biler og tak er tatt av vinden i Troms og Nordland. Folk blir bedt om å holde seg inne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ede03d8d-52e7-412c-a13e-6725570d5f41_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ede03d8d-52e7-412c-a13e-6725570d5f41_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:48</itunes:duration>
-      <pubDate>Mon, 29 Jan 2024 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jB4SJxIiStpXjZriZdXFRwVHVkqDA6R8Wz_XjzeFpq4w.jpg"/>
     </item>
   </channel>
 </rss>
