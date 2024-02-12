@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Feb 2024 07:22:05 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Feb 2024 08:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Feb 2024 07:22:08 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Feb 2024 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/HQOdXZJnFNWwrd9x8VTcIQ_p5LYdB-xxVAqwj4qrBaGg.jpg"/>
+    <item>
+      <title>Kva vil du, Giske?</title>
+      <description><![CDATA[Årsmøtet i Trondheim Ap vart skildra som eit «shitshow» der partifolk riv kvarandre i fillebitar. 
+Kva vil Trond Giske?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/5538b093-dece-40d2-a585-4d48fb9feef8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5538b093-dece-40d2-a585-4d48fb9feef8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:59</itunes:duration>
+      <pubDate>Mon, 12 Feb 2024 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l5JghUD7kJezVQBiZlQJIQsc-qtizbAWRaLWdI2Eb4nA.jpg"/>
+    </item>
     <item>
       <title>Hvor stor er faren for krig?</title>
       <description><![CDATA[Det er all grunn til å frykte en storkrig, sier Sylvi Listhaug.
@@ -101,16 +111,6 @@ Men ser han noen fellestrekk med ukulturen han var en del av og alle skandalene 
       <itunes:duration>15:09</itunes:duration>
       <pubDate>Tue, 30 Jan 2024 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2i1OhacxGZV3sXnkQy7V1g05H-NqkARz5pnk_7ZOz8bQ.jpg"/>
-    </item>
-    <item>
-      <title>Åpner for å skrote Venstre i regjering</title>
-      <description><![CDATA[-KrF må slutte å gjøre seg avhengige av Venstre, sier KrFU-leder Hadle Rasmus Bjuland.
-Han mener KrF like gjerne kan sitte i regjering med FrP som med Venstre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4ec9aea1-eccd-4a8e-8876-6edeba7d1b98_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4ec9aea1-eccd-4a8e-8876-6edeba7d1b98_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:51</itunes:duration>
-      <pubDate>Mon, 29 Jan 2024 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dGvdAjDdjhZcOFQ28NB9VQ-A4i7xoWOw1rHNyy9uMuMg.jpg"/>
     </item>
   </channel>
 </rss>
