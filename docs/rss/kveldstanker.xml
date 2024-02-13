@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 12 Feb 2024 05:27:07 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 05:27:30 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Hva trener du på? - med Kristin Nordvoll Mork</title>
+      <description><![CDATA[Endelig mestrer hun den kalde, mørke vinteren. Fordi hun lagde et helt nytt nyttårsforsett. Kristin Nordvoll Mork er skribent og komiker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/bd316670-b257-449f-ac62-78be78dfb841_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bd316670-b257-449f-ac62-78be78dfb841_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:27</itunes:duration>
+      <pubDate>Tue, 13 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m9yXhKRHejOfvgi7pgti8ALZPqJAepCXlN05MWIVAtBw.jpg"/>
+    </item>
     <item>
       <title>Håpet i en ballong - med Lindis Hurum</title>
       <description><![CDATA[Hun kjempet maktesløs mot ebola-viruset. Men midt i krisen, kom det uventet trøst. Lindis Hurum er generalsekretær i Leger Uten Grenser.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:58</itunes:duration>
       <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nd94cqPSoecArmK6alphyw4mkHSfkkrw24lOY_iLShNg.jpg"/>
-    </item>
-    <item>
-      <title>En haiketur på Cuba - med David William Øynes</title>
-      <description><![CDATA[Man møtes kanskje tilfeldig, en eneste gang. Men møtet kan bli et minne for livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e373a687-bcfb-4622-9207-6573cf0cb75f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e373a687-bcfb-4622-9207-6573cf0cb75f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:02</itunes:duration>
-      <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bKmqJBH-CZu_WJhUvVJZAgt6P_ItPFZHyEhx1JF-R8oQ.jpg"/>
     </item>
   </channel>
 </rss>
