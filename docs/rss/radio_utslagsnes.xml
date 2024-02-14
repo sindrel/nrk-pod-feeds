@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Feb 2024 05:27:44 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2024 05:27:28 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Pesskveld spesial</title>
+      <description><![CDATA[Steve styrer sendinga mens Ståle roper "sprit eller pess".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/d80c8208-00a5-4ec3-a413-6b47d034040c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/d80c8208-00a5-4ec3-a413-6b47d034040c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:10</itunes:duration>
+      <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sjn-ZoTe99P7FWyVLIlb6AhMSA4j9Uws71NkflcXb3ig.jpg"/>
+    </item>
     <item>
       <title>Evaluering: Dagkirurgi i butikk</title>
       <description><![CDATA[Ekstremværet Lars Torvald Johannesen var ingen fønvind fra svenskegrensa.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>08:49</itunes:duration>
       <pubDate>Thu, 11 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
-    </item>
-    <item>
-      <title>Ørnen lander</title>
-      <description><![CDATA[Mystisk ornitolog ankommer Utslagsnes, det blir performancekunst med ku og ny låt fra Sølvkråkebolle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/9cb6e4ed-05b9-4abe-828a-99fb64c089f7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/9cb6e4ed-05b9-4abe-828a-99fb64c089f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:22</itunes:duration>
-      <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kcQJw73PZRM78_Wpm0xrkg1ZNWE4g1fOhqdrGxer8f2A.jpg"/>
     </item>
   </channel>
 </rss>
