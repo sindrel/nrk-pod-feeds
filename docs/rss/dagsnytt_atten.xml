@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 19:22:00 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Feb 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2024 18:28:45 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Feb 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Varsler lovlighetskontroll av Drammen kommune</title>
+      <description><![CDATA[Statsforvalteren varsler lovlighetskontroll etter vedtak om ukrainske flyktninger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d8f23769-1fe4-44d8-a896-069f85fe4fbe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d8f23769-1fe4-44d8-a896-069f85fe4fbe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 14 Feb 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/V99E-wwpZbv_EX5j6JXB7A3ZJgniLKeMvSSeFg3LpjMw.jpg"/>
+    </item>
     <item>
       <title>Strid om Nato-bidrag</title>
       <description><![CDATA[Faren for krig øker, og forsker mener Norge og andre land må bidra med 3 prosent av BNP.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:53</itunes:duration>
       <pubDate>Thu, 01 Feb 2024 19:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/SvD-m-arYEFOnhKJkLYo0AjuHD-nvKw5EdyEJTE27ubA.jpg"/>
-    </item>
-    <item>
-      <title>Økt ungdomskriminalitet</title>
-      <description><![CDATA[Voldsbruk blant unge økte betraktelig i 2023, ifølge nye tall fra Politidirektoratet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/257a7b0a-7947-405c-b223-8b9b7bd1daad_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/257a7b0a-7947-405c-b223-8b9b7bd1daad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 31 Jan 2024 20:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WDnrqR7NjQ2CU2oe6ES8OATgxUd4QvcEEua7nNBv0OeA.jpg"/>
     </item>
   </channel>
 </rss>
