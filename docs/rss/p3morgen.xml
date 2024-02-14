@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 10:28:52 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Feb 2024 11:10:00 +0100</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2024 11:22:44 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Feb 2024 11:55:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Anna elsker David</title>
+      <description><![CDATA[David Eriksen er på besøk og får møte sin aller største fan! <3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e79f4bef-77c0-41f4-9470-96c8647686ed_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e79f4bef-77c0-41f4-9470-96c8647686ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:22</itunes:duration>
+      <pubDate>Wed, 14 Feb 2024 11:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dtiRv6XTB5USH_Qt0lnmowMujSHhc6-k5XPLK_OkA-sw.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Usynlige sokker - ja eller nei?</title>
       <description><![CDATA[Vi tar den store sokkedebatten, og hjelper Camelia med bursdagsplaner. Tilstede: Adelina, Tete, Johannes, Anna og litt Daniel. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>43:01</itunes:duration>
       <pubDate>Wed, 07 Feb 2024 15:09:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Tete saboterer et hellig øyeblikk</title>
-      <description><![CDATA[Magnus Devold er på besøk for å prate om ferie i Mexico og fotballpodkast. Tete tok også et valg som skuffet resten av gjengen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f4897b5a-66ce-41fd-bba8-5e199f287b57_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f4897b5a-66ce-41fd-bba8-5e199f287b57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:48</itunes:duration>
-      <pubDate>Wed, 07 Feb 2024 10:52:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Zb036796FAiDAQy2O90VAgw3twFBm9Q7lKpCOYgGS8CA.jpg"/>
     </item>
   </channel>
 </rss>
