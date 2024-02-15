@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 12 Feb 2024 13:25:45 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Feb 2024 13:55:00 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 15:24:13 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Kan det bli krig i Norge?</title>
+      <description><![CDATA[Trusselvurdering, kjøpe seg inn i oljefondet, jakthytte og sjøfly-bonanza.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/79b355c9-3010-41af-b98f-01d49edbc625_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/79b355c9-3010-41af-b98f-01d49edbc625_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:18</itunes:duration>
+      <pubDate>Thu, 15 Feb 2024 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MgwO74_3jXDueqTldYTOAwDKm2E0ptkLgaRzL0fG-A9w.jpg"/>
+    </item>
     <item>
       <title>EKSTRAEPISODE: Hvorfor mer bråk om Trond Giske nå?</title>
       <description><![CDATA[Trond Giske er valgt til ny nestleder for Trondheim Arbeiderparti, men ikke uten bråk. Hva er det han egentlig vil? ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:29</itunes:duration>
       <pubDate>Thu, 21 Dec 2023 14:55:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/lLTIJAWpf9FerlT9ql34pA9F4fIAWhzWqiNEKQvTVdlQ.jpg"/>
-    </item>
-    <item>
-      <title>EKSTRAEPISODE: Hva skjer med Emile Enger Mehl?</title>
-      <description><![CDATA[Leder for hemmelige tjenester måtte gå på dagen, men hva skjer egentlig med Emilie Enger Mehl?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b0046519-bb65-4b29-8e36-f167e674f3df_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/b0046519-bb65-4b29-8e36-f167e674f3df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:51</itunes:duration>
-      <pubDate>Tue, 12 Dec 2023 12:33:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VRPif4S5ZqiDw3GTAzB3igNcD8PWPz0hHOvdHdIbFWdw.jpg"/>
     </item>
   </channel>
 </rss>
