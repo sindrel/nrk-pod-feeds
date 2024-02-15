@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Feb 2024 05:27:42 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 05:27:25 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Magnus Marsdal</title>
+      <description><![CDATA[Kvinner og menn stemmer stadig mer ulikt. Flere kvinner til venstre, flere menn til høyre. Sosiolog Magnus Marsdal og jeg utforsker hvorfor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/c65dc3c4-7f9a-44a0-af5b-ad2ad4f7a3c4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/c65dc3c4-7f9a-44a0-af5b-ad2ad4f7a3c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:38:41</itunes:duration>
+      <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HcrExoq_visKlz_uiK2M6AhYIdSE7ro8jwZZwIlGpYbQ.jpg"/>
+    </item>
     <item>
       <title>Anne-Kat. Hærland</title>
       <description><![CDATA[Hun har nettopp hoppet av Farmen, men jeg ville heller prate om kunstig intelligens. Dét kan Anne-Katrine nemlig veldig mye om!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:27:14</itunes:duration>
       <pubDate>Thu, 07 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xLgu4vcBG6UR1e0BFmDodQ3aOhXWh3g1TLQwr7A00OxA.jpg"/>
-    </item>
-    <item>
-      <title>Magnus Devold</title>
-      <description><![CDATA[Magnus Devold og jeg snakker om gamle Twitter-helter, humor og store karriereøyeblikk. Jeg svarer også på noen spørsmål fra dere. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/64415842-0c08-4df4-b05e-b621be2e6e20_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/64415842-0c08-4df4-b05e-b621be2e6e20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:13:19</itunes:duration>
-      <pubDate>Thu, 30 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/12T3AWVTi8EBY95xaD7X4A2X545cs2eRKWHv_ORlPSYQ.jpg"/>
     </item>
   </channel>
 </rss>

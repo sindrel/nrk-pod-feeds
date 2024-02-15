@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Feb 2024 05:27:28 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 05:27:28 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Evaluering: Rotblaute på radio</title>
+      <description><![CDATA[Pesskveld er tradisjon, det er ikke noe mer å snakke om!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/c0cc8494-de4d-43a1-a378-1a6351f77960_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/c0cc8494-de4d-43a1-a378-1a6351f77960_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:23</itunes:duration>
+      <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
+    </item>
     <item>
       <title>Pesskveld spesial</title>
       <description><![CDATA[Steve styrer sendinga mens Ståle roper "sprit eller pess".]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>35:20</itunes:duration>
       <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xEgjQYwwpxVWJg2Vvs76iQoZpDtWQHMz1aeUAroumpFg.jpg"/>
-    </item>
-    <item>
-      <title>Evaluering: Hva er en dronedass?</title>
-      <description><![CDATA[Det er forskjell på innovasjon og invasjon.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/36183f1d-202a-4609-86d8-0a425fc1c424_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/36183f1d-202a-4609-86d8-0a425fc1c424_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:49</itunes:duration>
-      <pubDate>Thu, 11 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
     </item>
   </channel>
 </rss>
