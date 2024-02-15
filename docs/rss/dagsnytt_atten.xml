@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Feb 2024 18:28:45 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Feb 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:28:16 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Sentralbanksjefens årstale</title>
+      <description><![CDATA[Hvordan blir norsk økonomi det neste året? Sentralbanksjef Ida Wolden Bache holder sin årstale i kveld.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cbaa8c05-4eb6-4f1b-9474-0340263dacee_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cbaa8c05-4eb6-4f1b-9474-0340263dacee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Thu, 15 Feb 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k7qwSMg3g5rzEGN_CGshVQPzBCaiNoAzvg_kOSqptjbA.jpg"/>
+    </item>
     <item>
       <title>Varsler lovlighetskontroll av Drammen kommune</title>
       <description><![CDATA[Statsforvalteren varsler lovlighetskontroll etter vedtak om ukrainske flyktninger.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 02 Feb 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RwgkHh3il5_qxE8DnHjsfQK_ojfNVQrLvzMmrUpXhkwA.jpg"/>
-    </item>
-    <item>
-      <title>Uværet "Ingunn" har truffet Harstad</title>
-      <description><![CDATA[Langt verre skader enn vi hadde sett for oss, forteller kommunedirektør.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b376923-e906-49ee-8139-2a65bbc5afe2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b376923-e906-49ee-8139-2a65bbc5afe2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:53</itunes:duration>
-      <pubDate>Thu, 01 Feb 2024 19:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SvD-m-arYEFOnhKJkLYo0AjuHD-nvKw5EdyEJTE27ubA.jpg"/>
     </item>
   </channel>
 </rss>
