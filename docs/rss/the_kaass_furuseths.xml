@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 11 Feb 2024 05:25:47 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 18 Feb 2024 05:25:52 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Fay Wildhagen</title>
+      <description><![CDATA[Artist Fay Wildhagen forteller om albumet hun har brukt syv år på å lage, Tinder-eventyr og hyllesten til sin gode venninne Anne Grete Preus.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/f1b3d0fe-a3c8-405b-a6b9-d7e6210e0970_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/f1b3d0fe-a3c8-405b-a6b9-d7e6210e0970_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:57</itunes:duration>
+      <pubDate>Sun, 18 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YWBHZssiiNRMhlhrWa9Y0wiWv8xWhtoFin8rz8Ht9Rzw.jpg"/>
+    </item>
     <item>
       <title>Else besøker: John Brungot</title>
       <description><![CDATA[Skuespiller og komiker John inviterer oss inn i flyttekaoset sitt, viser hvordan han lekeslåss med kona og gjør sine beste parodier.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>41:13</itunes:duration>
       <pubDate>Sun, 17 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6Pb-SmnOhma-ZmPtRt0N0QlsE3X_qtE9DJktdI4f-VEg.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Solveig Kloppen </title>
-      <description><![CDATA[Solveig Kloppen har morens gamle proteser, en statue av en ørret, og Grandiosa-bestikk på roterommet når Else kommer på besøk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/ea2971d1-40d9-4693-9839-5dc5c375cafa_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/ea2971d1-40d9-4693-9839-5dc5c375cafa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:34</itunes:duration>
-      <pubDate>Sun, 10 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_WWRHrHRpTjqNa-PbsMfCgQKcAkcW46XNhMiBGedMsNw.jpg"/>
     </item>
   </channel>
 </rss>
