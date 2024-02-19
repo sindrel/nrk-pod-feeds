@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 15 Feb 2024 05:27:12 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 19 Feb 2024 05:27:13 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Håpet i lomma - med Lindis Hurum</title>
+      <description><![CDATA[Unggutten har kommet seg til Europa. Og alt han eier, ligger i den minste bukselomma. Lindis Hurum er generalsekretær i Leger uten grenser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/2d199d29-dd3a-427f-949a-1dfcdbd7c011_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/2d199d29-dd3a-427f-949a-1dfcdbd7c011_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:41</itunes:duration>
+      <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yLGK1E51qefkaNyhzptGrA0vxQGtbKFqcFI77ig7udvg.jpg"/>
+    </item>
     <item>
       <title>Amerikaner på dypt vann - Mímir Kristjánsson</title>
       <description><![CDATA[På vei til Vestmannaeyar er den amerikanske turisten naiv optimist i stormen. Med politiker, journalist og forfatter Mímir Kristjánsson.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:23</itunes:duration>
       <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zk2pwUusgh0-j9Cstnyn5ACdpLuXAYA6jTLJHVFBmPnw.jpg"/>
-    </item>
-    <item>
-      <title>Rocky i Indonesia - med Ragnhild Lund Ansnes</title>
-      <description><![CDATA[Hun gjorde klassevenninnen en tjeneste - og fikk et eventyr for livet tilbake. Journalist og forfatter Ragnhild Lund Ansnes forteller.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/899f9a64-b847-44f5-a1c6-25548ab73dbb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/899f9a64-b847-44f5-a1c6-25548ab73dbb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:57</itunes:duration>
-      <pubDate>Tue, 30 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kUApGVyibugwfDYvJn3icw2OHlJW4o0BGAYUaCYa90fw.jpg"/>
     </item>
   </channel>
 </rss>

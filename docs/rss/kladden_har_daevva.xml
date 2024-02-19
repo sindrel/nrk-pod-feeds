@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 12 Feb 2024 05:26:58 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 19 Feb 2024 05:27:10 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Tete Lidbom og sommerfugleffekten</title>
+      <description><![CDATA[Tete døde en gang. På ordentlig. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/da8ceef4-1a21-47d2-a046-91e133812160_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/da8ceef4-1a21-47d2-a046-91e133812160_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:44</itunes:duration>
+      <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xcS-A1ztU2qSgvNHkdCLJwDPxYYi48ZG9hTxrVRh-rqg.jpg"/>
+    </item>
     <item>
       <title>Leo Ajkic må bare én ting</title>
       <description><![CDATA[Redd for både døden og rasfare. Men tar det ellers med ro. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>55:11</itunes:duration>
       <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/H1HTn-ly-_OoOAn1V8DJMQvWRgf1-rAABcQPXqFOp9oA.jpg"/>
-    </item>
-    <item>
-      <title>Gucci-Gaute, "Hjelp" og fatterns nyre i boks</title>
-      <description><![CDATA[Gucci-Gaute hosta blod og mista synet, men han vil helst ikke være til bry.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/af3a9ffd-b8f0-4adc-b083-9e6a4a383644_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/af3a9ffd-b8f0-4adc-b083-9e6a4a383644_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:51</itunes:duration>
-      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HQWd8GghCBCJ6ftBU4X6fg-YBNhqz5QFeMdLMwDZ4nrA.jpg"/>
     </item>
   </channel>
 </rss>
