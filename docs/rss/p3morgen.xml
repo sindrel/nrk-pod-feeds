@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 19 Feb 2024 14:27:22 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Feb 2024 15:20:00 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Feb 2024 10:28:32 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Feb 2024 11:20:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Vann er den nye røyken</title>
+      <description><![CDATA[Vi leser sjokkerende nyheter om dagens ungdom, får en ny P3morgen-låt og selveste Kim Wigaard fra "Demenskoret" er hos oss<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/564ea5ac-899f-45c0-93a1-0b6942297b1d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/564ea5ac-899f-45c0-93a1-0b6942297b1d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:27</itunes:duration>
+      <pubDate>Tue, 20 Feb 2024 11:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/brlzHl7cE4CoY0NXSc3MVA6UgnSy2JOcbloz7ogKyzFQ.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: en spennende helg</title>
       <description><![CDATA[Vi oppsummerer helga som har inneholdt litt av hvert SI! Til stede: Adelina, Anna, Jenny, Daniel og Johannes. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>48:11</itunes:duration>
       <pubDate>Tue, 13 Feb 2024 10:40:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/SVwGnh9gY5yBqHhzW2-AyAkpFJeagk7Gwpe27CMEveCg.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Susser bamsene god natt</title>
-      <description><![CDATA[Vi snakker om helga, Karsten vil spise boller og Anna deler (litt for mye) av privatlivet. Til stede: Karsten, Johannes, Daniel og Anna]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3107b77f-da2c-4336-9a70-8f3237f97ad4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3107b77f-da2c-4336-9a70-8f3237f97ad4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:04</itunes:duration>
-      <pubDate>Mon, 12 Feb 2024 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
