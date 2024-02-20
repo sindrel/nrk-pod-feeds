@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 19 Feb 2024 18:28:02 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Feb 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Feb 2024 19:22:12 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Feb 2024 19:40:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Assange kan bli utlevert</title>
+      <description><![CDATA[Julian Assange kjemper mot å utleveres til USA, hvor han risikerer 175 års fengselsstraff for spionasje.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eb0c74fd-9f1d-4988-a96e-b3f48f543aaf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eb0c74fd-9f1d-4988-a96e-b3f48f543aaf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 20 Feb 2024 19:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6NAQBS1EI0XBzKaraXa0Bw9tF6Q5Tg8CnLMBnyxCqE2g.jpg"/>
+    </item>
     <item>
       <title> Fredspris til Aleksej Navalnyj, foreslår Venstres Ola Elvestuen</title>
       <description><![CDATA[Stortingsrepresentanten etterlyser et unntak i reglene om at vinneren må være i live for å få Nobels fredspris. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Wed, 07 Feb 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/488GHXqb1imNSdLNGyw0wgazHiELYnnomiWubf3GTj9w.jpg"/>
-    </item>
-    <item>
-      <title> Utvalg kritiserer regjeringen og vil kutte skatter </title>
-      <description><![CDATA[Regjeringens skattepolitikkpolitikk får hard kritikk fra lederen av Finanspolitikkutvalget. Utvalget advarer mot det de kaller skadelige skatter. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4c6e821d-7237-42fb-a0c9-4351b6d64c93_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4c6e821d-7237-42fb-a0c9-4351b6d64c93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Tue, 06 Feb 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv2FnXob16Pz3C-xdzZd5gfqfcuZeOVmT66xrhh2EmZQ.jpg"/>
     </item>
   </channel>
 </rss>
