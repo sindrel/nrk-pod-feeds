@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 20 Feb 2024 19:22:12 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Feb 2024 19:40:00 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2024 19:22:01 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Fikk ikke forsvarlig helsehjelp</title>
+      <description><![CDATA[Statsforvalteren fremla rapport om Spydeberg-tvillingene i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e8f292d5-bc34-4319-ad20-d3de7a8e0310_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e8f292d5-bc34-4319-ad20-d3de7a8e0310_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Wed, 21 Feb 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RiNTry7t7k_aK3s6s6iE9gYWAe1ArXh2wwBIfkHL8zHQ.jpg"/>
+    </item>
     <item>
       <title>Assange kan bli utlevert</title>
       <description><![CDATA[Julian Assange kjemper mot å utleveres til USA, hvor han risikerer 175 års fengselsstraff for spionasje.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 08 Feb 2024 20:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/C4xSWnF7_ObFda7M8CKiiwDZsNueVWbnKdFX9xVBwB0g.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen anbefaler mobilfri skole</title>
-      <description><![CDATA[Anbefalinger er ikke nok, sier Krf, som ønsker forbud. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9ac8c69d-b7b5-4372-82e7-473a56cd8eda_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9ac8c69d-b7b5-4372-82e7-473a56cd8eda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Wed, 07 Feb 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/488GHXqb1imNSdLNGyw0wgazHiELYnnomiWubf3GTj9w.jpg"/>
     </item>
   </channel>
 </rss>
