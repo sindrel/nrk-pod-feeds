@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-02-21  
+- Updated podcast 'Studio 2' (`studio_2`)  
 ### 2024-02-14  
 - Updated podcast 'Hvordan møttes dere? ' (`hvordan_moettes_dere_`)  
 ### 2024-02-11  
