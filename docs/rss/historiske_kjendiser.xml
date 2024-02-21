@@ -7,13 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Feb 2024 05:27:06 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2024 05:27:39 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
     <item>
+      <title>Karl Johan - kongelig kometkarriere</title>
+      <description><![CDATA[Franske Jean-Baptiste Bernadotte ble konge over Sverige og Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/5048cff0-03fc-4789-9544-bec0738f62b7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/5048cff0-03fc-4789-9544-bec0738f62b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:51</itunes:duration>
+      <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1KLrgKnMzGpwvkXh3dHp1AFmLpo-3aSQsFWa5ylHvmIg.jpg"/>
+    </item>
+    <item>
       <title> Gunvor Hofmo – lengselens lyriker</title>
-      <description><![CDATA[ Den modernistiske dikteren satte ord på smerten etter 2. verdenskrig.]]></description>
+      <description><![CDATA[Den modernistiske dikteren satte ord på smerten etter 2. verdenskrig.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e957e17b-b377-469a-ad9a-c3d350bc1019_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e957e17b-b377-469a-ad9a-c3d350bc1019_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:11</itunes:duration>
@@ -94,15 +103,6 @@ monolitt.]]></description>
       <itunes:duration>56:37</itunes:duration>
       <pubDate>Wed, 20 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/P7pLR0sE2Wyi3fg2tOLBlQBDTEb-QUyyHo5MlUfsfMsA.jpg"/>
-    </item>
-    <item>
-      <title>Eva Perón - kjempet for de fattige, og levde i luksus</title>
-      <description><![CDATA[Gikk fra skuespiller til førstedame, og ble hele Argentinas Evita.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:41</itunes:duration>
-      <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DlVLObXmdAvgDxYxCutJugrJD5H4FXw2gsf0Zjub4rmg.jpg"/>
     </item>
   </channel>
 </rss>

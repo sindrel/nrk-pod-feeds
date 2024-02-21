@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Feb 2024 05:27:16 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2024 05:27:50 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA.jpg"/>
+    <item>
+      <title>Vi legg podkasten i kunstig koma</title>
+      <description><![CDATA[Live og Ronny gir deg meininga med livet for siste gong. For no. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/meininga_med_livet/1c192995-706f-4865-a93b-2f2276a71038_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/1c192995-706f-4865-a93b-2f2276a71038_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:49</itunes:duration>
+      <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA.jpg"/>
+    </item>
     <item>
       <title>Levd liv Nelvik</title>
       <description><![CDATA[Ronny har snike i ølkø og trur ryktet hans er øydelagd, og Live spør seg om verda rundt ho har blitt surare.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/6a2d7b94-c574-4408-9cf3-3b1a3b870df7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:45</itunes:duration>
       <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA.jpg"/>
-    </item>
-    <item>
-      <title>Har aldri stole kondom</title>
-      <description><![CDATA[Ein kjend person har blitt teken for steling att, og Ronny og Live røper om dei nokon gong har stole noko]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/meininga_med_livet/5c144d0a-42a6-41c8-a4c7-e59200fc26f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/5c144d0a-42a6-41c8-a4c7-e59200fc26f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:17</itunes:duration>
-      <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA.jpg"/>
     </item>
   </channel>

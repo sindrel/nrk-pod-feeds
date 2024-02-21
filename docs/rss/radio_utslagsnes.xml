@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 15 Feb 2024 05:27:28 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2024 05:27:56 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Det smeller alltid noen apparater på åpen dag</title>
+      <description><![CDATA["Ornotilogen" er tilbake og Vigdis er i kjempeform.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/aabfadf9-50ac-46e8-8b34-c9d302095488_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/aabfadf9-50ac-46e8-8b34-c9d302095488_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:30</itunes:duration>
+      <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bFXF4hT96AkU7mlAP53LNAtG33l5kXQeZGgaX7sxeUwQ.jpg"/>
+    </item>
     <item>
       <title>Evaluering: Rotblaute på radio</title>
       <description><![CDATA[Pesskveld er tradisjon, det er ikke noe mer å snakke om!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>09:02</itunes:duration>
       <pubDate>Thu, 18 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
-    </item>
-    <item>
-      <title>Catch and release av elg</title>
-      <description><![CDATA[Artistintervju fra USA og åpning av pallemuseet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/7fc8e7cc-2273-4296-aa1e-2dc11a436846_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/7fc8e7cc-2273-4296-aa1e-2dc11a436846_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:20</itunes:duration>
-      <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xEgjQYwwpxVWJg2Vvs76iQoZpDtWQHMz1aeUAroumpFg.jpg"/>
     </item>
   </channel>
 </rss>
