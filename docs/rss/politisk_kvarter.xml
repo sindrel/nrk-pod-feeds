@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 21 Feb 2024 07:22:19 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Feb 2024 08:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 22 Feb 2024 07:22:17 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Feb 2024 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/HQOdXZJnFNWwrd9x8VTcIQ_p5LYdB-xxVAqwj4qrBaGg.jpg"/>
+    <item>
+      <title>Folk i husan</title>
+      <description><![CDATA[Flyktningar bergar folketalsutviklinga i Nord-Noreg. 
+Men Høgre meiner vi bør sjå til Sverige for å lære kva som skaper vekst.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/7886110c-41e7-4159-9e86-fd252336e41f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/7886110c-41e7-4159-9e86-fd252336e41f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Thu, 22 Feb 2024 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nEFcN-SDF8cugUnmMm8WaAmbEkekkmk1DAWs0ZgQbPmg.jpg"/>
+    </item>
     <item>
       <title>Fredsprisen til Elon Musk?</title>
       <description><![CDATA[Fremskrittspartiets Marius Arion Nilsen har nominert Elon Musk til fredprisen, for hans innsats for ytringsfriheten.
@@ -100,15 +110,6 @@ Dette er en uansvarlig måte å snakke på, mener Jonas Gahr Støre.]]></descrip
       <itunes:duration>15:04</itunes:duration>
       <pubDate>Fri, 09 Feb 2024 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FYsGMGzYBlcCSWaS0KE0_w5v1us1Xbx_QDQDcqgs-gCA.jpg"/>
-    </item>
-    <item>
-      <title>Meiner Frp snakkar usant om Ukraina-flyktningar</title>
-      <description><![CDATA[Inkluderingsminister Tonje Brenna (Ap) meiner Frp ikkje snakkar sant om kor mykje ukrainske flyktningar får i støtte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/351e122a-dde9-4778-9018-526be4826a66_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/351e122a-dde9-4778-9018-526be4826a66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:14</itunes:duration>
-      <pubDate>Thu, 08 Feb 2024 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C747f4RJqUKkkmYKWsWXJwJ_EA8_UeR66m7Q4bZ6gang.jpg"/>
     </item>
   </channel>
 </rss>
