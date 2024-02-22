@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 21 Feb 2024 19:22:01 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Feb 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 22 Feb 2024 19:22:14 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Feb 2024 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Norge transittland for narkotikasmugling</title>
+      <description><![CDATA[Norge er fullt integrert i global, organisert kriminalitet. Det avslører politiet i ny rapport.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/540e693f-c666-41c3-9878-939d5b82c0f5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/540e693f-c666-41c3-9878-939d5b82c0f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 22 Feb 2024 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LLOySAJx-z6naWABg2G1sgJEQrLquHCCpINhTH6kU96Q.jpg"/>
+    </item>
     <item>
       <title>Fikk ikke forsvarlig helsehjelp</title>
       <description><![CDATA[Statsforvalteren fremla rapport om Spydeberg-tvillingene i dag.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 09 Feb 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/J-MGOMNVdoV6V9a-GGcgAAtoxBXM4-dlkxhjjGGqqDyA.jpg"/>
-    </item>
-    <item>
-      <title>Google etablerer anlegg i Skien</title>
-      <description><![CDATA[Google søker om å bruke kraft tilsvarende 5% av alt kraftforbruket i Norge på et år. Ikke verdt innsatsen, mener Rødt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/70f6276c-e0af-4f2f-8339-8ea0aa163550_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/70f6276c-e0af-4f2f-8339-8ea0aa163550_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 08 Feb 2024 20:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C4xSWnF7_ObFda7M8CKiiwDZsNueVWbnKdFX9xVBwB0g.jpg"/>
     </item>
   </channel>
 </rss>
