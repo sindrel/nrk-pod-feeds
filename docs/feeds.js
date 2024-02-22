@@ -495,9 +495,7 @@ const feeds = [
     "id": "kjente_boeker_paa_4_minutter",
     "title": "De 10 siste fra Kjente bøker på 4 minutter",
     "season": null,
-    "enabled": false,
-    "ignore": true,
-    "hidden": true
+    "enabled": true
   },
   {
     "id": "kladden_har_daevva",
