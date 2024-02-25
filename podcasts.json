@@ -1067,7 +1067,9 @@
         "id": "skitprat",
         "title": "De 10 siste fra Skitprat med Jens og Isak",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "smartere_paa_10_minutter",
