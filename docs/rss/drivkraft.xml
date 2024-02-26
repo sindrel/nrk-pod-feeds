@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 22 Feb 2024 12:39:26 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Feb 2024 13:10:00 +0100</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2024 13:23:55 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Feb 2024 14:20:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Jørn Hoel</title>
+      <description><![CDATA[Da artisten ble kåret til Norges mest sexy mann ble han såret: – Det ødela noe av drivkraften min.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/fd39af08-c4eb-470b-b644-ac349bffc0ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/fd39af08-c4eb-470b-b644-ac349bffc0ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:13</itunes:duration>
+      <pubDate>Mon, 26 Feb 2024 14:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FJcjfNOhVALjyS0-T4HDAgxhf3zJY-R_AmUpH-qF7YAA.jpg"/>
+    </item>
     <item>
       <title>Håkon Wium Lie</title>
       <description><![CDATA[Nettpioneren driver eplegård og orgelfabrikk - og sverger til kontanter. Han frykter internettet kan kollapse.
@@ -97,16 +106,6 @@
       <itunes:duration>57:27</itunes:duration>
       <pubDate>Mon, 05 Feb 2024 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Emhn-oCGEFdahOgzXMFISQszUCt7ntf88Nk3Q7lVjwIw.jpg"/>
-    </item>
-    <item>
-      <title>Palle Ydstebø</title>
-      <description><![CDATA[-Vi må forberede oss på krig hvis vi skal beholde friheten. 
-Det sier oberstløytnanten som de siste to årene er blitt et kjent fjes som kommentator av krigen i Ukraina.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c113c5e0-bc79-4f87-abda-df88eec3f901_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c113c5e0-bc79-4f87-abda-df88eec3f901_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:22</itunes:duration>
-      <pubDate>Thu, 01 Feb 2024 14:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GSq3vZzFe14hriF9JKACwwjZ0PX03d-mGoSPhaOYDwEw.jpg"/>
     </item>
   </channel>
 </rss>
