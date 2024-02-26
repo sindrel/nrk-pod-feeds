@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 19 Feb 2024 05:27:10 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2024 05:27:12 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Det er ingen lik på do, Silje Nordnes </title>
+      <description><![CDATA[Silje har nok katastrofetanker, men døden er hun ikke redd for. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/1a91c61e-5a2c-4ac3-9fc0-2a521584431b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/1a91c61e-5a2c-4ac3-9fc0-2a521584431b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:29</itunes:duration>
+      <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5smMXtSEJjHxIeU9pXF72AAinrIqBpbKpBt893FGK1qQ.jpg"/>
+    </item>
     <item>
       <title>Tete Lidbom og sommerfugleffekten</title>
       <description><![CDATA[Tete døde en gang. På ordentlig. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:06:51</itunes:duration>
       <pubDate>Mon, 18 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/B5Cp0JVeCtrDsU7CZ1t60AyYQVh6UjaIGWG2tYjgnemA.jpg"/>
-    </item>
-    <item>
-      <title>Til bunns med Isalill Kolpus</title>
-      <description><![CDATA[Hvem kan lære Isalill å svømme? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b31a977e-ee14-4f30-9df2-490f83a1da73_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b31a977e-ee14-4f30-9df2-490f83a1da73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:11</itunes:duration>
-      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/H1HTn-ly-_OoOAn1V8DJMQvWRgf1-rAABcQPXqFOp9oA.jpg"/>
     </item>
   </channel>
 </rss>
