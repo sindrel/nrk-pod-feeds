@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 26 Feb 2024 19:22:09 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Feb 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Feb 2024 18:26:10 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Feb 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Krever tiltak mot mobbing</title>
+      <description><![CDATA[De økte mobbetallene fra Elevundersøkelsen tidligere i år bekymrer Barneombudet. Nå krever de handling.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9bc901a5-fa85-4fbb-a0d0-4aaf616a2649_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9bc901a5-fa85-4fbb-a0d0-4aaf616a2649_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 27 Feb 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X8jqKpLIxG6gj4U4o5-bGAaWWm7nmAzgFeS5odLUFw9g.jpg"/>
+    </item>
     <item>
       <title>Palestinsk regjering går av</title>
       <description><![CDATA[Hele den palestinske regjeringen leverte i dag oppsigelse. De går av i protest mot krigen i Gaza og Vestbredden.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 14 Feb 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/V99E-wwpZbv_EX5j6JXB7A3ZJgniLKeMvSSeFg3LpjMw.jpg"/>
-    </item>
-    <item>
-      <title>Strid om Nato-bidrag</title>
-      <description><![CDATA[Faren for krig øker, og forsker mener Norge og andre land må bidra med 3 prosent av BNP.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3e207ca4-fb3d-4c3c-9008-546beac956b5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3e207ca4-fb3d-4c3c-9008-546beac956b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 13 Feb 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ME6ZwPgp-WB44TuKFC_RvwiVoMDWI-XF-5B7EX59zRQQ.jpg"/>
     </item>
   </channel>
 </rss>
