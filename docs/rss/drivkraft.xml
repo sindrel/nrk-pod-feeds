@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 27 Feb 2024 13:23:35 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Feb 2024 13:45:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Feb 2024 14:26:55 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Feb 2024 14:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Aurora Aksnes</title>
+      <description><![CDATA[Lærerne mente artisten ikke klarte å skille mellom fantasi og virkelighet: - Foreldrene mine lot meg være den jeg er.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/65cb1ff6-f6d9-452f-b13a-96aa00de1571_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/65cb1ff6-f6d9-452f-b13a-96aa00de1571_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:40</itunes:duration>
+      <pubDate>Wed, 28 Feb 2024 14:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JfnkEdg-32MN0wHj1u725gGCatiy7K3fi8g4nCfgGOmg.jpg"/>
+    </item>
     <item>
       <title>Grace Bullen</title>
       <description><![CDATA[-Målet er å bli det forbildet jeg selv manglet, sier den OL-klare bryteren fra Fredrikstad.]]></description>
@@ -97,15 +106,6 @@
       <itunes:duration>57:08</itunes:duration>
       <pubDate>Wed, 07 Feb 2024 14:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/B1eB_RrIZ8EYnV9oaxGSSgUnldGNuBY7eFHJ_aII0X7w.jpg"/>
-    </item>
-    <item>
-      <title>Marie Sneve Martinussen</title>
-      <description><![CDATA[Partilederen i Rødt mener hun framstår som tøffere enn hun egentlig er]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/621fd2fa-cb64-4744-8534-fa93587b01c2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/621fd2fa-cb64-4744-8534-fa93587b01c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:48</itunes:duration>
-      <pubDate>Tue, 06 Feb 2024 14:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KpjTn2dsbjfan6nC7OLbLg7Bpzr2qqR0gQnh68xAsSJg.jpg"/>
     </item>
   </channel>
 </rss>
