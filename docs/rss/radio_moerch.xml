@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 22 Feb 2024 05:27:58 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Feb 2024 05:28:09 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Sigrid Bratlie</title>
+      <description><![CDATA[Det bor to små genredigerte barn i Kina. Jeg snakker med molekylærbiologen om hva CRISPR kan gjøre: designbabyer, bio-våpen og kentaurer.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/f6ce297e-d13c-4fa9-8b07-e8e8519c1ea7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/f6ce297e-d13c-4fa9-8b07-e8e8519c1ea7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:16</itunes:duration>
+      <pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jKorGQVAbxY9zWJhhytUpQNowWafrKcqrw8JdZaxxQsA.jpg"/>
+    </item>
     <item>
       <title>Espen Barth Eide </title>
       <description><![CDATA[– Ville du backa meg, utenriksminister? Espen må svare på mye forskjellig, også om han ville utlevert MEG om jeg gjorde det Assange gjorde. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:38:27</itunes:duration>
       <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
-    </item>
-    <item>
-      <title>Steinar Klouman Hallert igjen!</title>
-      <description><![CDATA[Jeg svarer på spørsmål fra lyttere og Steinar hjelper til. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/ad5f5295-eecc-4cc0-833a-f55e5aefe27c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ad5f5295-eecc-4cc0-833a-f55e5aefe27c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:09:10</itunes:duration>
-      <pubDate>Thu, 14 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2-EdVzIjMMkY6hqQkniFIQ1E1FiKMLngnalC7C5qDUfg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Feb 2024 05:27:36 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Feb 2024 05:28:02 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9RC0yu1YgUPSu7PdUdmFRA-mkjHjLiLi2-zNUvYGneLg.jpg"/>
+    <item>
+      <title>Fay Wildhagen: Den store selvransakelsen</title>
+      <description><![CDATA[Artisten og ikke minst gitaristen Fay Wildhagen mistet den store lidenskapen i livet da hun var i starten av tjueåra. For å klare å lage sitt tredje album måtte hun anerkjenne at hun har hatt det dårlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/b9a2fe5b-dac7-4342-8ef2-8c23f2032ad2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/b9a2fe5b-dac7-4342-8ef2-8c23f2032ad2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:45</itunes:duration>
+      <pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j0ka2YqYTZheQReM2_IGXQIsNF5Q-gl7mF28MxbIruFA.jpg"/>
+    </item>
     <item>
       <title>Ole Paus: Derfor ble han sensurert av NRK</title>
       <description><![CDATA[Da Ole Paus gikk ut av tiden før jul i fjor mistet hele Norge en av de største låtskrivere vi har hatt. Men hvorfor ble mannen som var kjent for både alvor og humor i sangtekstene sine sensurert av NRK?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>26:37</itunes:duration>
       <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/AK-RUkJvQDPlzGSLKK5BeQVvSRQhNVMTKWBPc-hMiojA.jpg"/>
-    </item>
-    <item>
-      <title>Jonas Benyoub: Endelig stolt</title>
-      <description><![CDATA[Det var først da Jonas Benyoub våget å dele sin egen usikkerhet at karrieren tok fart. Nå er han en av Norges mest ettertrakta artister, og han som gjorde Karpe enda kulere. Vi møtte rapperen på Øyafestivalen for å høre hvordan hans musikalske reise har vært til nå, og hva som skjer videre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/6649b633-43d7-46f4-8209-09d34600d626_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/6649b633-43d7-46f4-8209-09d34600d626_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:09</itunes:duration>
-      <pubDate>Thu, 31 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lwaEGL5ZfA3oWR9Zt5BmAAsC7zKZ8GxM0KlOt-dQQd8A.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 28 Feb 2024 05:28:02 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Feb 2024 05:28:11 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Evaluering: Steve har et transportoppdrag</title>
+      <description><![CDATA[Og selvsagt fortjener vann- og avløpsetaten i Fættvika en innsamlingsaksjon!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/3f3f6283-433f-401c-acee-dde270eaa2f2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/3f3f6283-433f-401c-acee-dde270eaa2f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:36</itunes:duration>
+      <pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
+    </item>
     <item>
       <title>Radiomerking av trøndere</title>
       <description><![CDATA[Bjørnar Barleggquist vil finne ut hvor trøndere trekker om vinteren. Jan Olsen og Dagny B. Singsås debatterer om snusbeger av trolldeig.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>25:39</itunes:duration>
       <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OwlzThiuKJnGgP08Tw0aoQTypLBSPUPVlHkVbnfH09Vg.jpg"/>
-    </item>
-    <item>
-      <title>Evaluering: Alkoreklame er fortsatt ulovlig</title>
-      <description><![CDATA[Men det er ingen som helst problemer med dronedassene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/268e01e4-8c1a-4979-8421-6b8a65066d5f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/268e01e4-8c1a-4979-8421-6b8a65066d5f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:43</itunes:duration>
-      <pubDate>Thu, 25 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
     </item>
   </channel>
 </rss>
