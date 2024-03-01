@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Hør'a!</title>
+    <title>De 10 siste fra Hør'a</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hør'a!. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hoera for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hør'a. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hoera for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 23 Feb 2024 05:27:11 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Mar 2024 05:26:59 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    <item>
+      <title>Odel, hvor er det?</title>
+      <description><![CDATA[Arin har driti seg ut, Seppi har skammet seg på ferie, Ily har ny bod, og vi lurer alle på hva som skjedde på Omah Lay-konserten i London. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/893d355b-9b30-475f-84e6-66f8e231a872_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/893d355b-9b30-475f-84e6-66f8e231a872_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:33</itunes:duration>
+      <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
     <item>
       <title>Busemøte og mangobeef</title>
       <description><![CDATA[Ilys beef med Teams har blitt personlig, Arin er investert i en surdeig, og vi røper våre lowkey kjendisforelskelser.]]></description>
@@ -93,15 +102,6 @@ Utlending matte.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/hoera/653a9443-b775-42c2-8b5a-c79a404878f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:33</itunes:duration>
       <pubDate>Fri, 12 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
-    </item>
-    <item>
-      <title>Parfymetraumer og pilegrimsreise</title>
-      <description><![CDATA[Nyttårsaftens eskapader, brudd i januar og parfymetraumer fra One Million og Ralph Lauren. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/0dc305c9-a250-4016-984d-30e529f97d70_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hoera/0dc305c9-a250-4016-984d-30e529f97d70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:10</itunes:duration>
-      <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
     </item>
   </channel>

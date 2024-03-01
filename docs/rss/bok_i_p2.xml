@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 23 Feb 2024 11:21:48 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Feb 2024 12:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Mar 2024 05:26:50 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title> Lytternes romanpris: – Er det mulig, har jeg vunnet?</title>
+      <description><![CDATA[1600-tallet, drugdealers og trollsk gårdsbruk – hvem vinner Lytternes romanpris 2023?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/2faa32aa-ddfb-47f3-9307-7d02ba907526_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/2faa32aa-ddfb-47f3-9307-7d02ba907526_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DyVgQFDL1vOBXFijDinFQAcCtAWMe5uolV7S1XdttdGA.jpg"/>
+    </item>
     <item>
       <title>Erotikk, psyke og selvbiografi</title>
       <description><![CDATA[En forløper til «Sagaen om Isfolket»-bøkene, et dypdykk i menneskets indre, og en imponerende debut fra en ikke-binær forfatter.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>15:35</itunes:duration>
       <pubDate>Sun, 07 Jan 2024 06:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BXozBGUgIWvs2gHsoBdBugQjBgkjmAgmeDbE_jMVYgXw.jpg"/>
-    </item>
-    <item>
-      <title>Skjærsilden, Polen og kjærlighet</title>
-      <description><![CDATA[Enkelte klassikere bør leses av alle. Kritikerne tar fatt i tre av disse, i årets første uke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/cca6da4f-04dc-48a5-9755-35388e1a1df1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/cca6da4f-04dc-48a5-9755-35388e1a1df1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:04</itunes:duration>
-      <pubDate>Sun, 07 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/g05FGV7AE5h3FWN5hp41awZxfKGt0HLqMkLMTFuB-k1g.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 23 Feb 2024 05:27:24 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Mar 2024 05:27:10 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
+    <item>
+      <title>Vasaloppet</title>
+      <description><![CDATA[Hvordan ble et av verdens mest tradisjonsrike renn til? Og hva skal til for å vinne det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/328542af-79e8-4938-a598-59b73b86e4de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/328542af-79e8-4938-a598-59b73b86e4de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:13</itunes:duration>
+      <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
+    </item>
     <item>
       <title>Syklus</title>
       <description><![CDATA[Hvordan påvirkes trening av menstruasjonssyklus? Hva slags grep kan man ta? Og har menn syklus?]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/acbcd8fb-debd-47fb-85d6-ae9c6e01cb89_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:38</itunes:duration>
       <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
-    </item>
-    <item>
-      <title>Smøring</title>
-      <description><![CDATA[Gli fra konkurrentene dine! Få de beste smøretipsene fra smøresjef på skiskytterlandslaget, Tobias Dahl Fenre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/5141ce81-33e5-47a5-b26c-afcd9ae2cf50_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skiklubben/5141ce81-33e5-47a5-b26c-afcd9ae2cf50_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:43:04</itunes:duration>
-      <pubDate>Fri, 29 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
     </item>
   </channel>
