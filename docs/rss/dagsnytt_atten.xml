@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 05 Mar 2024 19:22:01 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Mar 2024 19:25:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:27:47 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title> Enighet i Fosen-saken</title>
+      <description><![CDATA[Det er enighet i Fosen-saken og med det er menneskerettighetsbruddet over, det mener sametingspresidenten og menneskerettighetsekspert.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ca286df8-14bb-4b6f-84fd-68b486bd598a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ca286df8-14bb-4b6f-84fd-68b486bd598a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Wed, 06 Mar 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ndlhzIdfTdz55oSZEYn1OAfnpo1JBfwjA78kbp6s92uQ.jpg"/>
+    </item>
     <item>
       <title>Solberg og Brenna får kritikk</title>
       <description><![CDATA[Tidligere statsminister Erna Solberg (H) får i dag hardest mulig kritikk for habilitetssakene i Stortinget. Statsråd Tonje Brenna (Ap) unngår mistillit i denne omgang.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 22 Feb 2024 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/LLOySAJx-z6naWABg2G1sgJEQrLquHCCpINhTH6kU96Q.jpg"/>
-    </item>
-    <item>
-      <title>Fikk ikke forsvarlig helsehjelp</title>
-      <description><![CDATA[Statsforvalteren fremla rapport om Spydeberg-tvillingene i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e8f292d5-bc34-4319-ad20-d3de7a8e0310_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e8f292d5-bc34-4319-ad20-d3de7a8e0310_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:55</itunes:duration>
-      <pubDate>Wed, 21 Feb 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RiNTry7t7k_aK3s6s6iE9gYWAe1ArXh2wwBIfkHL8zHQ.jpg"/>
     </item>
   </channel>
 </rss>
