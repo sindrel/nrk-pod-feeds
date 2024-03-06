@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Mar 2024 11:22:19 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Mar 2024 11:40:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 16:30:29 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Ekkelt å tisse på natta?</title>
+      <description><![CDATA[Gjengen er splitta, er du team resten eller team Anna? Til stede: Karsten, Johannes, Jenny og Anna. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1cf1df50-a391-4efb-aedd-e66984f6a7b9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1cf1df50-a391-4efb-aedd-e66984f6a7b9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:50</itunes:duration>
+      <pubDate>Wed, 06 Mar 2024 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Verdens beste radioinnslag</title>
       <description><![CDATA[Karsten og Tete leverer det beste du noensinne kommer til å høre. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>10:47</itunes:duration>
       <pubDate>Wed, 28 Feb 2024 13:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Uh7yPeuOyCLpTPRR2IQ24wPu3mMZb--0O2PnCKJourgw.jpg"/>
-    </item>
-    <item>
-      <title>Beatboxing er tilbake!</title>
-      <description><![CDATA[Store ting har skjedd i Adelina sitt liv, og Karsten vil ha tilbake en ting fra fortiden. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/74433b0e-29ff-4d03-a5c9-c3a00963cdb3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/74433b0e-29ff-4d03-a5c9-c3a00963cdb3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:01</itunes:duration>
-      <pubDate>Wed, 28 Feb 2024 13:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yQCY3DOPEQhjQ2uwSYFAdQ5k9Mf3V1CQf-hgGHqQ_Apg.jpg"/>
     </item>
   </channel>
 </rss>
