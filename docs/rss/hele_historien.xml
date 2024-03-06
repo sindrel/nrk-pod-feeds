@@ -1,42 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Feb 2024 05:27:23 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Feb 2024 06:02:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 13:24:07 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>I NRK Radio – Skuddene på Serena </title>
-      <description><![CDATA[Januar 2008: Utenriksministeren og flere norske journalister er i Kabul når Taliban går til angrep. Flere blir drept eller livstruende skadet. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/318ff358-a495-470f-8cfa-378063017738_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/318ff358-a495-470f-8cfa-378063017738_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:56</itunes:duration>
-      <pubDate>Wed, 07 Feb 2024 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3ELVFjy3cA44M43R3jXseAeZMoC03v-pEJ2wlkEwLTvw.jpg"/>
-    </item>
-    <item>
-      <title>Det tryggeste hotellet – Skuddene på Serena (1:2)  </title>
-      <description><![CDATA[En norsk journalist er skutt og hardt skadet. Hvert sekund teller når kollegene prøver å holde ham i live, og nå er det kritisk. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/1779e83f-3345-4d26-9fc3-20e33596421d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/1779e83f-3345-4d26-9fc3-20e33596421d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:43</itunes:duration>
-      <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3ELVFjy3cA44M43R3jXseAeZMoC03v-pEJ2wlkEwLTvw.jpg"/>
-    </item>
-    <item>
-      <title>Venter på pappa – Skuddene på Serena (2:2)</title>
-      <description><![CDATA[Utenriksminister Støre søker dekning i kjelleren, og to småbarnsfedre fra Norge har alvorlige skader. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/55fe7b63-9fa8-42a7-8e3e-6912f8bc3475_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/55fe7b63-9fa8-42a7-8e3e-6912f8bc3475_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:04</itunes:duration>
-      <pubDate>Thu, 08 Feb 2024 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3ELVFjy3cA44M43R3jXseAeZMoC03v-pEJ2wlkEwLTvw.jpg"/>
+      <title>Kommer: Terrorangrepet på pride</title>
+      <description><![CDATA[Mens folk er ute på byen i Oslo og feirer kjærligheten, reiser en mann inn til sentrum bevæpnet med automatvåpen og hat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/1fa40fdc-f28a-4fa7-914b-ca957606a64e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/1fa40fdc-f28a-4fa7-914b-ca957606a64e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:57</itunes:duration>
+      <pubDate>Wed, 06 Mar 2024 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ONgH7zWLW0fneUHi0pf84wmuW83RKhjjudDKaxgKTeOA.jpg"/>
     </item>
   </channel>
 </rss>
