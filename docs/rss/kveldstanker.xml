@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 05 Mar 2024 05:26:37 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 05:27:28 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Pass på liten Åpåstor - med Kari Anne Bye</title>
+      <description><![CDATA[Kva er ein Åpåstor, og korleis kan ein passe seg for han? Kari Anne Bye er forfattar, og har vakse opp med mor, far og mykje fantasi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0f6b06bc-8ef4-4bf8-b96a-2b1899b4ff0a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0f6b06bc-8ef4-4bf8-b96a-2b1899b4ff0a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:14</itunes:duration>
+      <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A-lkjMKI5FCJQLMATkzTFg-xkAAb_uWnkQghTBmBFkrQ.jpg"/>
+    </item>
     <item>
       <title>Si det med rødbetesalat - Mina Finstad Berg</title>
       <description><![CDATA[Hun synes store ord blir kleine, og mener kjærlighet uttrykkes best med fine handlinger. Mina Finstad Berg er sportskommentator i TV2.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:48</itunes:duration>
       <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zWFyujJ77wjww8xAHQ3CuA0kughtNw_9gl3R6fTi_ANA.jpg"/>
-    </item>
-    <item>
-      <title>Hva trener du på? - med Kristin Nordvoll Mork</title>
-      <description><![CDATA[Endelig mestrer hun den kalde, mørke vinteren. Fordi hun lagde et helt nytt nyttårsforsett. Kristin Nordvoll Mork er skribent og komiker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/bd316670-b257-449f-ac62-78be78dfb841_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bd316670-b257-449f-ac62-78be78dfb841_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:27</itunes:duration>
-      <pubDate>Tue, 13 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/m9yXhKRHejOfvgi7pgti8ALZPqJAepCXlN05MWIVAtBw.jpg"/>
     </item>
   </channel>
 </rss>
