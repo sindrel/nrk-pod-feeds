@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-03-07  
+- Added podcast 'Pønsj' (`poensj`)  
 ### 2024-02-25  
 - Podcast 'Skitprat med Jens og Isak' is considered obsolete and will be ignored in the future (`skitprat`)  
 ### 2024-02-21  
