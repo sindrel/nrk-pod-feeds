@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 29 Feb 2024 05:28:02 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Mar 2024 05:26:31 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9RC0yu1YgUPSu7PdUdmFRA-mkjHjLiLi2-zNUvYGneLg.jpg"/>
+    <item>
+      <title>Ora the Molecule: Den nye discodronninga</title>
+      <description><![CDATA[Bak artistnavnet Ora the Molecule skjuler det seg en norsk-guatemalsk kvinne ved navn Nora Schjelderup som har vært på en reise verden rundt siden hun var barn. Hvordan endte hun opp med å lage discoen sin alene i en hytte i skogen ved Tyrifjorden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/bd242a37-c94d-44ee-ab99-422a24d864dc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/bd242a37-c94d-44ee-ab99-422a24d864dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:03</itunes:duration>
+      <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5aSFdcYkZ3opEvnMuqdiAAIm9n5_iJ74DWZC3F0p1wyQ.jpg"/>
+    </item>
     <item>
       <title>Fay Wildhagen: Den store selvransakelsen</title>
       <description><![CDATA[Artisten og ikke minst gitaristen Fay Wildhagen mistet den store lidenskapen i livet da hun var i starten av tjueåra. For å klare å lage sitt tredje album måtte hun anerkjenne at hun har hatt det dårlig.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>24:05</itunes:duration>
       <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HGStwMP88wlmr3iX9UnPcwo6NPmNCXXCh0YY1rgblhtQ.jpg"/>
-    </item>
-    <item>
-      <title>Kjartan Lauritzen: Til topps med Badebussen</title>
-      <description><![CDATA[I snart 10 år har Kjartan Lauritzen underholdt oss med feststemt og køddete rap på Balestrand-dialekt. Men det var først i sommer han endelig klarte å klatre helt til topps på hitlistene, og det med en barnelåt! Hvordan klarte han det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/dd1b9378-0206-4271-a162-f6147eb445d2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/dd1b9378-0206-4271-a162-f6147eb445d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:37</itunes:duration>
-      <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AK-RUkJvQDPlzGSLKK5BeQVvSRQhNVMTKWBPc-hMiojA.jpg"/>
     </item>
   </channel>
 </rss>

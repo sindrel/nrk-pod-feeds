@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Mar 2024 05:27:40 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Mar 2024 05:26:46 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg.jpg"/>
+    <item>
+      <title>Evaluering: Alt kommer for en dag</title>
+      <description><![CDATA[Etter hvert, hvis Steve kommer ut av sitt katatoniske sjokk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/9d2a78bd-ca85-497c-9f8f-df0769bcaa66_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/9d2a78bd-ca85-497c-9f8f-df0769bcaa66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:13</itunes:duration>
+      <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
+    </item>
     <item>
       <title>Til og med brennevin er laget av vann</title>
       <description><![CDATA[Radio Utslagsnes synger og samler inn penger til vann- og avløpsetaten.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:22</itunes:duration>
       <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mZ8bghoRaqUBU274msj0hweNP4qoOPBua0FyulVt6qnA.jpg"/>
-    </item>
-    <item>
-      <title>Evaluering: Mange har ikke etternavn</title>
-      <description><![CDATA[Og hvor nær slekt er det egentlig lov å ha med på radio?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_utslagsnes/4f11c3f8-78ff-497a-9ecc-0e36a63ed957_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/4f11c3f8-78ff-497a-9ecc-0e36a63ed957_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:30</itunes:duration>
-      <pubDate>Thu, 01 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Mar 2024 05:27:28 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Mar 2024 05:26:18 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Dagboka te Fattern - med Sola Johnsen</title>
+      <description><![CDATA[Faren til musiker Sola Johnsen drømte seg bort i fine solnedganger og drakk for mye. Men pappa var pappa uansett – og savnet er stort. 
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1148ff4b-d034-4201-8404-813122313561_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1148ff4b-d034-4201-8404-813122313561_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:06</itunes:duration>
+      <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8iQ0Kg6igXc9yKNGehcr9woelAdPy7mhHL8IT4hquQVA.jpg"/>
+    </item>
     <item>
       <title>Pass på liten Åpåstor - med Kari Anne Bye</title>
       <description><![CDATA[Kva er ein Åpåstor, og korleis kan ein passe seg for han? Kari Anne Bye er forfattar, og har vakse opp med mor, far og mykje fantasi.]]></description>
@@ -91,15 +102,6 @@
       <itunes:duration>03:41</itunes:duration>
       <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yLGK1E51qefkaNyhzptGrA0vxQGtbKFqcFI77ig7udvg.jpg"/>
-    </item>
-    <item>
-      <title>Amerikaner på dypt vann - Mímir Kristjánsson</title>
-      <description><![CDATA[På vei til Vestmannaeyar er den amerikanske turisten naiv optimist i stormen. Med politiker, journalist og forfatter Mímir Kristjánsson.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/bcd22e90-b007-4fe0-9c5f-662fcd484f9b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bcd22e90-b007-4fe0-9c5f-662fcd484f9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:48</itunes:duration>
-      <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zWFyujJ77wjww8xAHQ3CuA0kughtNw_9gl3R6fTi_ANA.jpg"/>
     </item>
   </channel>
 </rss>

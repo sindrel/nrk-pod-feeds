@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Mar 2024 12:43:31 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Mar 2024 13:15:00 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Mar 2024 05:26:08 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    <item>
+      <title>#375 Emil Berntsen</title>
+      <description><![CDATA[Komiker Emil Berntsen forteller om internettfenomenet Læffy, sitt ene mål i tredjedivisjon og parodierer usjarmerende supportere!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/37514c01-944c-433b-b2c4-b630dbc07220_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/37514c01-944c-433b-b2c4-b630dbc07220_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:59:18</itunes:duration>
+      <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tQOWqAyBXf3M7QKowrocTwOYeITAP8bBy-_YZB2IfNjQ.jpg"/>
+    </item>
     <item>
       <title>Snakkis: UEFA-mafia, sixpence og MGPjr</title>
       <description><![CDATA[Panelet snakker om Brann-boten, Jakobs oldboys-karriere med Markus og Martinus og Tete provoseres av uttrykket "right on the sixpence".
@@ -104,15 +113,6 @@ I panelet: Sven Bisgaard Sundet, Tete Lidbom og Sigurd Vik.]]></description>
       <itunes:duration>39:37</itunes:duration>
       <pubDate>Mon, 05 Feb 2024 12:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
-    </item>
-    <item>
-      <title>#371 Birger Meling</title>
-      <description><![CDATA[Birger Meling forteller om veien til toppfotballen, stavangernostalgi og om å bli kalt en "jævla dverg".]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/1fca5905-984c-4861-a3f0-8714edd81c7d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/1fca5905-984c-4861-a3f0-8714edd81c7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:11:36</itunes:duration>
-      <pubDate>Thu, 01 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PEw3XYfxVrRqSZTEvVXEpwt9uFeHoTdYHDLJ0cToaHKQ.jpg"/>
     </item>
   </channel>
 </rss>
