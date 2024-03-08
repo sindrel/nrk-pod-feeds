@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Mar 2024 19:21:53 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Mar 2024 19:20:00 +0100</pubDate>
+    <lastBuildDate>Fri, 08 Mar 2024 18:28:18 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Mar 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Økning i antallet voldtekter</title>
+      <description><![CDATA[1 av 5 kvinner har blitt voldtatt i løpet av livet, viser ny rapport. Myndighetene får sterk kritikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b0df588-6650-49f9-aab7-09df787596eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b0df588-6650-49f9-aab7-09df787596eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Fri, 08 Mar 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7LcxZIeiUHZZBAHBsQ5PIwp0cHa6-EbYp2WZdArGt0vg.jpg"/>
+    </item>
     <item>
       <title>Regjeringen fraråder norske selskaper å handle med israelske bosetninger</title>
       <description><![CDATA[Burde kommet et forbud, kritiserer SV.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 26 Feb 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/VeJt6Qr9z-e0erCwuDud0w9uc6kh0i_vr_qX3WEZcl_w.jpg"/>
-    </item>
-    <item>
-      <title>To år siden krigen i Ukraina startet</title>
-      <description><![CDATA[130 000 ukrainere har blitt drept.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/568d3518-c078-4e07-986c-4e691ea37fd9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/568d3518-c078-4e07-986c-4e691ea37fd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:54</itunes:duration>
-      <pubDate>Fri, 23 Feb 2024 19:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8npU48yocVU0vUtcr0o_lQdUipr4QfEi081ACbOkfDnw.jpg"/>
     </item>
   </channel>
 </rss>
