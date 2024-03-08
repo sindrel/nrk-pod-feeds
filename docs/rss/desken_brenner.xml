@@ -1,22 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Desken brenner</title>
+    <title>De 8 siste fra Desken brenner</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Desken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/desken_brenner for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Desken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/desken_brenner for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 01 Mar 2024 05:26:53 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 08 Mar 2024 05:29:06 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Positiv dominans og incel-kommunen</title>
+      <description><![CDATA[Tara tvinger de andre til å parodiere Kong Harald, gravejournalister har forsøkt å infiltrere Google i Danmark, og bør russefeiringen egentlig flyttes?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/49717f3a-ab7e-4635-8a34-f611cb585a50_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/49717f3a-ab7e-4635-8a34-f611cb585a50_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:10</itunes:duration>
+      <pubDate>Fri, 08 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Velle fåkke pult</title>
       <description><![CDATA[Hvem har ansvaret for at unge gutter ikke får sex? Hvorfor kan ikke fotballspillere satse i land uten menneskerettigheter når Ikea gjør det? Og hvor mange har lagt seg flat i måneden som har gått?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/be56b605-c512-41dd-9042-bcfdd44316ff_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/be56b605-c512-41dd-9042-bcfdd44316ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:49</itunes:duration>
+      <itunes:duration>44:51</itunes:duration>
       <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
