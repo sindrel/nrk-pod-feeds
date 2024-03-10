@@ -1,60 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 Jan 2024 14:27:08 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jan 2024 00:13:00 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2024 10:27:09 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Mar 2024 11:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Den sinte svensken – Boksringenes herre (1:5)</title>
-      <description><![CDATA[En illsint svenske er sur på alle som mener det er teit å samle inn boksringer, og gir Grete en voksenopplæring i idealisme.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/radiodokumentaren_2019-04-23_2203_530.MP3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/radiodokumentaren_2019-04-23_2203_530.MP3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:02</itunes:duration>
-      <pubDate>Wed, 24 Apr 2019 00:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kDP2cJ3dWMe7DUdYjqTuhQCMdlhIwPUFbs6epUF2ptdg.jpg"/>
-    </item>
-    <item>
-      <title>Ringreven – Boksringenes herre (2:5)</title>
-      <description><![CDATA[Carl Johan fra Fredrikstad har til sammen kjørt elleve tonn ringer til Danmark. Grete følger sporet av boksringene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/radiodokumentaren_2019-04-23_2206_54.MP3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/radiodokumentaren_2019-04-23_2206_54.MP3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:36</itunes:duration>
-      <pubDate>Wed, 24 Apr 2019 00:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kDP2cJ3dWMe7DUdYjqTuhQCMdlhIwPUFbs6epUF2ptdg.jpg"/>
-    </item>
-    <item>
-      <title>Ildsjelene – Boksringenes herre (3:5)</title>
-      <description><![CDATA[Det kommer ringer fra alle kanter til hovedkvartet i en dansk småby. Grete graver videre, og finner ut at sekkene kjøres videre til Tyskland. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/radiodokumentaren_2019-04-23_2209_1465.MP3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/radiodokumentaren_2019-04-23_2209_1465.MP3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:00</itunes:duration>
-      <pubDate>Wed, 24 Apr 2019 00:09:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kDP2cJ3dWMe7DUdYjqTuhQCMdlhIwPUFbs6epUF2ptdg.jpg"/>
-    </item>
-    <item>
-      <title>Den ordknappe ortopeden – Boksringenes herre (4:5)</title>
-      <description><![CDATA[Noen påstår at ringer har blitt sendt helt til Thailand. Grete reiser til klinikken. Der venter en overlege som sier minst mulig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/radiodokumentaren_2019-04-23_2212_1906.MP3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/radiodokumentaren_2019-04-23_2212_1906.MP3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:34</itunes:duration>
-      <pubDate>Wed, 24 Apr 2019 00:12:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kDP2cJ3dWMe7DUdYjqTuhQCMdlhIwPUFbs6epUF2ptdg.jpg"/>
-    </item>
-    <item>
-      <title>Gandalv i jungelen – Boksringenes herre (5:5) </title>
-      <description><![CDATA[I Nord-Thailand sporer Grete opp den opprinnelige mesteren bak innsamlingen av boksringer. Hun finner bevisene hun trenger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4ad6c97c-03a1-4b8c-abaa-f970206acb29_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4ad6c97c-03a1-4b8c-abaa-f970206acb29_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:34</itunes:duration>
-      <pubDate>Tue, 23 Jan 2024 00:13:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kDP2cJ3dWMe7DUdYjqTuhQCMdlhIwPUFbs6epUF2ptdg.jpg"/>
+      <title>Kommer i NRK Radio: Verdens styggeste kvinne</title>
+      <description><![CDATA[Ved en søppelfylling i Oslo ble det funnet en hårete, utstoppet kvinnekropp. Hvor kom hun fra? Og hvem var hun? Serien kommer 13. mars. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/704dd93e-adfb-42e9-b849-578138d53f6f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/704dd93e-adfb-42e9-b849-578138d53f6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:36</itunes:duration>
+      <pubDate>Sun, 10 Mar 2024 11:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-cFH4Fbs6Co5KAkAq-9CTQvISp6Ucqp1YI88jRsaM8EA.jpg"/>
     </item>
   </channel>
 </rss>
