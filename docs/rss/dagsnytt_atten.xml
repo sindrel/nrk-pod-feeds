@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 08 Mar 2024 18:28:18 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Mar 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Mar 2024 19:22:06 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Mar 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Lover bedre økonomiske tider</title>
+      <description><![CDATA[Regjeringen forventer at norsk økonomi vil vokse i år. Folk skal få bedre råd, sier statsminister Jonas Gahr Støre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dfe2334d-0b3f-4f97-b849-6078c2ac0fd2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dfe2334d-0b3f-4f97-b849-6078c2ac0fd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 11 Mar 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OVJ_ISuictJ1XiNsmVq3cA-q3HL4NuuKbxd3dJRsireQ.jpg"/>
+    </item>
     <item>
       <title>Økning i antallet voldtekter</title>
       <description><![CDATA[1 av 5 kvinner har blitt voldtatt i løpet av livet, viser ny rapport. Myndighetene får sterk kritikk.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 27 Feb 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/X8jqKpLIxG6gj4U4o5-bGAaWWm7nmAzgFeS5odLUFw9g.jpg"/>
-    </item>
-    <item>
-      <title>Palestinsk regjering går av</title>
-      <description><![CDATA[Hele den palestinske regjeringen leverte i dag oppsigelse. De går av i protest mot krigen i Gaza og Vestbredden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/30165128-f41d-461a-91a9-193093944d2d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/30165128-f41d-461a-91a9-193093944d2d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 26 Feb 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VeJt6Qr9z-e0erCwuDud0w9uc6kh0i_vr_qX3WEZcl_w.jpg"/>
     </item>
   </channel>
 </rss>
