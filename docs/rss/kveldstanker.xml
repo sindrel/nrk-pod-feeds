@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Mar 2024 05:28:15 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Mar 2024 05:27:39 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Straffespark - med Arild Stavrum</title>
+      <description><![CDATA[Med 30000 skrikende fans på tribunen, klare med glassflasker og stein, kan han ikke bomme. Arild Stavrum er forfatter og straffeskytter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/54998698-7596-48f1-9229-0f5139c6a7ff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/54998698-7596-48f1-9229-0f5139c6a7ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:51</itunes:duration>
+      <pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x5L7zEZk1fjpbsQ0fgSloQWjxiSTmiCtU1sjM21OTl1A.jpg"/>
+    </item>
     <item>
       <title>Naboer - med Herborg Kråkevik</title>
       <description><![CDATA[Naboskap kan bli til varmt vennskap. Og det begynte med det lykketreffet, at Herborg er mørkredd. Herborg Kråkevik er sanger og skuespiller.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>03:31</itunes:duration>
       <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/A-lkjMKI5FCJQLMATkzTFg-xkAAb_uWnkQghTBmBFkrQ.jpg"/>
-    </item>
-    <item>
-      <title>Bedre enn unnskyld - med Sofie Frøysaa</title>
-      <description><![CDATA[Mobbingen begynte i 7. klasse. Ti år etter, treffer hun igjen en av de verste gutta på trening.  Med komiker og forfatter Sofie Frøysaa.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/198a3fd7-83f9-4d16-a31d-7d4039791843_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/198a3fd7-83f9-4d16-a31d-7d4039791843_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:57</itunes:duration>
-      <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FrA7gCe_TaRYcKzQvovRhQJ5nkCd3-ipFB7WgU_YYWqA.jpg"/>
     </item>
   </channel>
 </rss>

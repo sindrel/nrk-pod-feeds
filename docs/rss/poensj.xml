@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Pønsj</title>
+    <title>De 4 siste fra Pønsj</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Pønsj. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/poensj for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Pønsj. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/poensj for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Mar 2024 07:22:13 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Mar 2024 05:27:47 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    <item>
+      <title>– Vi har ikke lyst til at det skal være krig</title>
+      <description><![CDATA[Leve på kun vann i syv dager? Klinisk ernæringsfysiolog Inge Lindseth snakker om fasting. Og så spiller vi «Fylla eller facerape».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/c9d490a8-2241-48b6-9d59-6214dc81f04f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/c9d490a8-2241-48b6-9d59-6214dc81f04f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:27</itunes:duration>
+      <pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
     <item>
       <title>Vi tar opp kampen mot Økokrim</title>
       <description><![CDATA[Forskere fant mikroplast i alle morkaker som ble testet. Krise? Og foreningen for folk med ekstremt lav intelligens søker nye medlemmer.]]></description>
