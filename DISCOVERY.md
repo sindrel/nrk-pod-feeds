@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-03-12  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2024-03-07  
 - Added podcast 'Pønsj' (`poensj`)  
 ### 2024-02-25  
