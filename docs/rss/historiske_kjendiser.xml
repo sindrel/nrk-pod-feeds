@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 06 Mar 2024 05:27:21 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Mar 2024 05:28:42 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Henrik Wergeland – patriotisk poet</title>
+      <description><![CDATA[ Den utsvevende forfatteren var en politisk storhet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/fa59e0f3-4964-41e1-af4a-757cda59c589_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/fa59e0f3-4964-41e1-af4a-757cda59c589_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:26</itunes:duration>
+      <pubDate>Wed, 13 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A6jdLg6shZ2O1pCELduFugKF8tdsXQi_L3-NiTN2dWiQ.jpg"/>
+    </item>
     <item>
       <title>Aleksander den store – verdens erobrer</title>
       <description><![CDATA[Den makedonske kongen erobret seg til verdensherredømme.]]></description>
@@ -93,16 +102,6 @@ kneblet av den katolske kirken.
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/H4IJ3oJU5UkFhRP_oBcWxAw0z2XopXBEGhiv40MyAnRw.jpg"/>
-    </item>
-    <item>
-      <title>Gustav Vigeland – monumental skulptør</title>
-      <description><![CDATA[Skulptøren var en sinnatagg, men sto igjen som en kunstnerisk
-monolitt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/5cf33a67-68a5-426f-9e89-63e11b27574a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/5cf33a67-68a5-426f-9e89-63e11b27574a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:18</itunes:duration>
-      <pubDate>Wed, 04 Oct 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dlTdOvIidoNb_ypElBcOywW9oNSZufSK480r3ODVTuQA.jpg"/>
     </item>
   </channel>
 </rss>
