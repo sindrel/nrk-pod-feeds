@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Mar 2024 05:26:42 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 14 Mar 2024 05:27:00 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Anders Danielsen Lie</title>
+      <description><![CDATA[–Jeg høres helt stoner ut! Lege, skuespiller og smarting Anders Danielsen Lie og jeg snakker om hva bevissthet egentlig ER. Pluss en del annet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/13ca4f9d-0bdb-4022-ab80-1d9336f8d0da_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/13ca4f9d-0bdb-4022-ab80-1d9336f8d0da_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:01:08</itunes:duration>
+      <pubDate>Thu, 14 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LFHbO__fPnIgMtnxlYpagw2a0hdDUEMuzSIx6la9fLOg.jpg"/>
+    </item>
     <item>
       <title>Birger Emanuelsen</title>
       <description><![CDATA[– Hva vil det si i praksis, dét å la barna lide litt? Forfatter Birger Emanuelsen har skrevet bok om oppvekst og foreldreskap. 
@@ -92,15 +101,6 @@
       <itunes:duration>01:36:18</itunes:duration>
       <pubDate>Thu, 11 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OXNi8uCH_4GOlkI-wuT-Vw0wI4tiohY-kyG4QcJtfgtA.jpg"/>
-    </item>
-    <item>
-      <title>Amalie Stuve er tilbake igjen!</title>
-      <description><![CDATA[Amalie Stuve er første gjest ut i 2024. Vi snakker om nyttårsforsetter, revyer, løping og barndom. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/e0688ca9-a899-4154-8faf-b83a7338021a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/e0688ca9-a899-4154-8faf-b83a7338021a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:15:14</itunes:duration>
-      <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ISm2w1T3bDkhWC8K9om6iQVXykW_2yxORKbk-u1_AvGA.jpg"/>
     </item>
   </channel>
 </rss>
