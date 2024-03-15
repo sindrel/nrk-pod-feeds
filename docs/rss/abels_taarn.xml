@@ -7,12 +7,26 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Mar 2024 19:21:59 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Mar 2024 20:15:00 +0100</pubDate>
+    <lastBuildDate>Fri, 15 Mar 2024 15:23:29 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Mar 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
     <item>
-      <title>Den store serien om KI (2:10) - Krig. Turing.</title>
+      <title>Hva er verdens mest klissete substans?</title>
+      <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
+
+Dagens eksperter:
+Musikkforsker Alexander Refsum Jensenius
+Fysiker Anders Kvellestad
+Geolog Ingrid Anell]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/60988f91-6ae5-45ae-927d-5be4f4bf3801_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/60988f91-6ae5-45ae-927d-5be4f4bf3801_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:46</itunes:duration>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Lk2XBeEiOWOoqVhwMybpFgi-lSK2giMKyA_VmqBfWcPg.jpg"/>
+    </item>
+    <item>
+      <title>Den store serien om KI (2:10) - KI i krig</title>
       <description><![CDATA[Har drapsdroner blitt tatt i bruk i Ukraina? Maskiner som selv velger sine mål - og skyter. 
 Vi spør hvordan KI vil endre framtidens kriger, detekter skudd i Oslo, og så spiller vi Alan Turings Imitation Game. 
 Dessuten kårer vi verdens første moderne datamaskin.]]></description>
@@ -62,7 +76,7 @@ I denne første episoden møter vi verdens første koder som drømte om KI aller
       <itunes:image href="https://gfx.nrk.no/uImxeLvUXXha2p-Q4sf8lwtUG3khmLosKLo7UdTnzNRA.jpg"/>
     </item>
     <item>
-      <title>Kan KI brukes til å forstå dyrespråk?</title>
+      <title>Kan maskiner forstå dyrespråk?</title>
       <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
 
 Hvordan fungerer luktesansen under vann?
@@ -169,17 +183,6 @@ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK Radio-appen
       <itunes:duration>57:40</itunes:duration>
       <pubDate>Fri, 16 Feb 2024 11:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZFlKRfbLCbCC93lekFOArQJSU8GyoowhreWiG-epRuCw.jpg"/>
-    </item>
-    <item>
-      <title>Oppenheimer: Nå har jeg blitt døden</title>
-      <description><![CDATA[(Reprise) Oscarutdelinga nærmer seg og filmen Oppenheimer har gode sjanser. Vi tar derfor et gjenhør med episoden vår om atombombens far.
-
-Torkild Jemterud gjør et dypdykk i temaet. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/1512b127-9c15-4a34-8e71-cedae4865b1f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1512b127-9c15-4a34-8e71-cedae4865b1f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:40</itunes:duration>
-      <pubDate>Fri, 16 Feb 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Q0eTKDg2XArTCx1PYonh1w6IlGeR_leXgv8Yk9jV-PIw.jpg"/>
     </item>
   </channel>
 </rss>
