@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 14 Mar 2024 18:27:53 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Mar 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 15 Mar 2024 18:28:13 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Mar 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Regjeringen med ny boligpolitikk</title>
+      <description><![CDATA[Vil at flere skal eie sin egen bolig, og gjøre det lettere å bygge flere boliger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5a157777-758a-4e36-ba25-73a4d4a74b73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5a157777-758a-4e36-ba25-73a4d4a74b73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 15 Mar 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dclUkM16nl2rHTtufXQwEAMEamChCUIMvnJzEhd6rsdQ.jpg"/>
+    </item>
     <item>
       <title>Norge skal nå NATO-mål</title>
       <description><![CDATA[Norge oppfyller NATO-målet om å bruke 2 prosent av BNP på Forsvaret i år.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 04 Mar 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/uATNc0xtYSSmFEjwer3TqQ2db2JLgRu7exb3fW99k2vg.jpg"/>
-    </item>
-    <item>
-      <title>Tilrår ekstern gjennomgang av NSM</title>
-      <description><![CDATA[Utvalg fremmer skarp kritikk mot Emilie Enger Mehl og Justisdepartementet for deres styring av NSM i forkant av økonomisk skandale.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d2829643-277e-4aab-bbdc-e790c65acdb1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d2829643-277e-4aab-bbdc-e790c65acdb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Fri, 01 Mar 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tKXWunR-6j_3nvINdcB2GAscrLyMZJNZFS9voF3ssTEw.jpg"/>
     </item>
   </channel>
 </rss>
