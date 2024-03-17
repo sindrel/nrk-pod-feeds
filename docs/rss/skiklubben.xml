@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 15 Mar 2024 05:27:42 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 17 Mar 2024 17:25:27 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Mar 2024 18:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
+    <item>
+      <title>Bonusepisode – Slik gikk Birken</title>
+      <description><![CDATA[Anders, Silje og Emil har nettopp fullført Birken – hør hvordan det gikk. Klippet og publisert i bil langs Mjøsa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/59a8f775-69e8-4919-93f2-3aec3348c988_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/59a8f775-69e8-4919-93f2-3aec3348c988_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:30</itunes:duration>
+      <pubDate>Sun, 17 Mar 2024 18:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
+    </item>
     <item>
       <title>Birkebeinerrennet</title>
       <description><![CDATA[Et halvt år med trening kulminerer i sesongens mål: Birkebeinerrennet. Hvordan står det til med nervene, og hvordan bør man forberede seg? ]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/a482b11d-06ab-4b98-85e1-9a8686a981e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:09</itunes:duration>
       <pubDate>Fri, 26 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
-    </item>
-    <item>
-      <title>Formtopping</title>
-      <description><![CDATA[Hvordan toppe formen før en viktig konkurranse? Skiklubben deler erfaringer og forteller hvordan verdenseliten gjør det. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/e31a1845-32a9-4db1-8a26-9a2399f3c64c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skiklubben/e31a1845-32a9-4db1-8a26-9a2399f3c64c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:58</itunes:duration>
-      <pubDate>Fri, 19 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
     </item>
   </channel>
