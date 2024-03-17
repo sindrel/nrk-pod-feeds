@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 10 Mar 2024 05:27:12 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 17 Mar 2024 05:28:04 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Sigrid Bonde Tusvik</title>
+      <description><![CDATA[Sigrid Bonde Tusvik om nytt show, promping og hvorfor det er så viktig å være drøy komiker!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/30f4f298-e0ab-4ade-9286-5aa86701c597_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/30f4f298-e0ab-4ade-9286-5aa86701c597_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:19</itunes:duration>
+      <pubDate>Sun, 17 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Q8H_3-7fMozJL2-bhY819wGk2B22D_hpeq06f_ZjpYpQ.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Christian Strand</title>
       <description><![CDATA[Christian Strand og Else snakker om adopsjon, dokumentserien «Gitt bort», den nye boka «Hva hvis», Arnold Schwarzenegger som motivator, frykten for å skuffe foreldre - og vi titter i skoledagboka fra tenåra. Hyggelig brunsj hos familien Strand!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>41:22</itunes:duration>
       <pubDate>Sun, 14 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zQZ3N7_JoxlZtuROtXq8mA23YB6QQz0WpH0uOha8HAzA.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Beathoven</title>
-      <description><![CDATA[Else får på seg maske og blir med til musikkgruppa Beathoven sitt studio for en prat om suksessen, identitet og drømmen om Spektrum. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/2e0f8d9c-604f-4152-8334-57b59bf26ac3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/2e0f8d9c-604f-4152-8334-57b59bf26ac3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:50</itunes:duration>
-      <pubDate>Sun, 07 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ADT4i0Gg0Ll3HlFhEPwEFAUy9tvDN8O51pyWDJGLTwEA.jpg"/>
     </item>
   </channel>
 </rss>
