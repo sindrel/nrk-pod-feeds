@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 14 Mar 2024 13:24:47 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Mar 2024 14:15:00 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2024 13:24:40 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2024 13:43:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Harald Henden</title>
+      <description><![CDATA[Krigsfotograf i VG, Harald Henden har uhelbredelig kreft:
+-Jeg har aldri blitt deprimert eller trist av diagnosen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b38b7ad1-5d95-4c6f-88a0-47a78b392fc4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b38b7ad1-5d95-4c6f-88a0-47a78b392fc4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:16</itunes:duration>
+      <pubDate>Mon, 18 Mar 2024 13:43:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yo2IXO835jKzHF3M1syTkAOg9R_E6A__4yQt8a8AOzGw.jpg"/>
+    </item>
     <item>
       <title>Pascale Baudonnel</title>
       <description><![CDATA[- Vi må lage mer gammelost og pultost, sier den fransk-norske "ostedronninga". Hun får mye av æren for framveksten av småskala osteprodusenter i Norge.
@@ -99,16 +109,6 @@
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Tue, 20 Feb 2024 13:50:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_b4T89NHwds3r4kuX6VI8gw-kQP3svNebbw1-3jrUHhA.jpg"/>
-    </item>
-    <item>
-      <title>Maria Navarro Skaranger</title>
-      <description><![CDATA[Etter brakdebuten ble forfatteren livredd: - Jeg teipet igjen inngangsdøra til hybelen med gaffateip. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6c47fe11-3058-4290-a6c1-11a5c1570fef_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6c47fe11-3058-4290-a6c1-11a5c1570fef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:18</itunes:duration>
-      <pubDate>Mon, 19 Feb 2024 14:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oD8I-hYliBHqM81jDCmsCA-CKspXf-jZTpFKubHKfLbA.jpg"/>
     </item>
   </channel>
 </rss>
