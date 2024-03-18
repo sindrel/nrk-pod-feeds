@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 15 Mar 2024 18:28:13 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Mar 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2024 19:22:12 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2024 19:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Mot katastrofal sult i Gaza</title>
+      <description><![CDATA[Befolkninga på Gazastripa står overfor "katastrofal sult", viser ny rapport.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7837fff8-b8a0-405b-bba9-08732213ac37_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7837fff8-b8a0-405b-bba9-08732213ac37_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:57</itunes:duration>
+      <pubDate>Mon, 18 Mar 2024 19:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZZOBX09ixzbcO2s_JQiYFQhm5-QB_DdApkVPP-9t_A1A.jpg"/>
+    </item>
     <item>
       <title>Regjeringen med ny boligpolitikk</title>
       <description><![CDATA[Vil at flere skal eie sin egen bolig, og gjøre det lettere å bygge flere boliger.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Tue, 05 Mar 2024 19:25:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vUkTHei-NwEvkHd1_V1gCwVAjJRAi1uV6tNKO2QiyO3g.jpg"/>
-    </item>
-    <item>
-      <title>Trump får stille til valg</title>
-      <description><![CDATA[Donald Trump fikk i dag medhold i Høyesterett: Delstater kan ikke fjerne ham fra stemmesedlene til presidentvalget.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/33b3b9f3-f911-4285-9e9c-ce3c16ebac47_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/33b3b9f3-f911-4285-9e9c-ce3c16ebac47_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 04 Mar 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uATNc0xtYSSmFEjwer3TqQ2db2JLgRu7exb3fW99k2vg.jpg"/>
     </item>
   </channel>
 </rss>
