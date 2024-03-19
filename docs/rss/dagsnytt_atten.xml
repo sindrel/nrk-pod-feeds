@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 18 Mar 2024 19:22:12 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Mar 2024 19:35:00 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2024 18:27:37 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Mar 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Flere klimarekorder knust i 2023</title>
+      <description><![CDATA[Ny rapport slår rød alarm om rekordvarmt hav, høye nivåer av klimagasser, og smeltende isbreer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/48a3127b-449c-4204-845a-cbcc6da5b9f1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/48a3127b-449c-4204-845a-cbcc6da5b9f1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 19 Mar 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zRHwlP7wdHjx3hP3Ve-XKA7gnuA5_mUIGnCI4W-LQ4QA.jpg"/>
+    </item>
     <item>
       <title>Mot katastrofal sult i Gaza</title>
       <description><![CDATA[Befolkninga på Gazastripa står overfor "katastrofal sult", viser ny rapport.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 06 Mar 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ndlhzIdfTdz55oSZEYn1OAfnpo1JBfwjA78kbp6s92uQ.jpg"/>
-    </item>
-    <item>
-      <title>Solberg og Brenna får kritikk</title>
-      <description><![CDATA[Tidligere statsminister Erna Solberg (H) får i dag hardest mulig kritikk for habilitetssakene i Stortinget. Statsråd Tonje Brenna (Ap) unngår mistillit i denne omgang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7193352e-fa08-43c5-aa5e-7e4ef23438c6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7193352e-fa08-43c5-aa5e-7e4ef23438c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Tue, 05 Mar 2024 19:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vUkTHei-NwEvkHd1_V1gCwVAjJRAi1uV6tNKO2QiyO3g.jpg"/>
     </item>
   </channel>
 </rss>
