@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 13:23:03 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Mar 2024 14:20:00 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2024 14:26:53 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Mar 2024 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Tetes nye solbriller</title>
+      <description><![CDATA[Vi snakker om filmen Cats, pølser og solbriller. Til stede: Adelina, Tete, Daniel, Anna og Hani. Nate fra StudioP3 kommer også innom!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ba37d2b6-820e-4854-806d-58b62de1664e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ba37d2b6-820e-4854-806d-58b62de1664e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:54</itunes:duration>
+      <pubDate>Tue, 19 Mar 2024 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UBhp-fXZSVG5T2EYmtP9mwVAj1MXIMQpeGIUAEalXE9Q.jpg"/>
+    </item>
     <item>
       <title>Når ble fotball harry?</title>
       <description><![CDATA[Knut Nærum og Ruben Anda er på besøk for å prate om påskefilmen: "Døde menn på ski"!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:01:53</itunes:duration>
       <pubDate>Tue, 12 Mar 2024 12:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/w2KJYVyM4dzkcLeuSVRaYwViW4ep1q43rbrhCxx-t2SA.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Krim-spesial</title>
-      <description><![CDATA[Vi havner i et mørkt hull av krimsaker fra Norge. Til stede: Karsten, Tete, Adelina, Daniel og ho Anna. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/888d3edf-fbd9-4c85-87fe-e388e1e0fa6f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/888d3edf-fbd9-4c85-87fe-e388e1e0fa6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:20</itunes:duration>
-      <pubDate>Mon, 11 Mar 2024 15:13:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
