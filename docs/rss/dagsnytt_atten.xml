@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 18:27:37 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Mar 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2024 18:28:36 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Mar 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Havvindauksjon avgjort</title>
+      <description><![CDATA[Belgisk selskap vant over norske Equinor i den første havvind-konkurransen på norsk sokkel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3f7db716-8cd6-42ba-be90-0e5411d43155_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3f7db716-8cd6-42ba-be90-0e5411d43155_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Wed, 20 Mar 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/riTIaxlb7dQZ8oOtyXh1ZQ5x4yhYDbkymcaeXZtlqbNw.jpg"/>
+    </item>
     <item>
       <title>Flere klimarekorder knust i 2023</title>
       <description><![CDATA[Ny rapport slår rød alarm om rekordvarmt hav, høye nivåer av klimagasser, og smeltende isbreer.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 07 Mar 2024 19:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/g2T5a-Qs4FCxO52f2g3UyAgbXhyqnrcetGrJ-ODpCu3Q.jpg"/>
-    </item>
-    <item>
-      <title> Enighet i Fosen-saken</title>
-      <description><![CDATA[Det er enighet i Fosen-saken og med det er menneskerettighetsbruddet over, det mener sametingspresidenten og menneskerettighetsekspert.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ca286df8-14bb-4b6f-84fd-68b486bd598a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ca286df8-14bb-4b6f-84fd-68b486bd598a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 06 Mar 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ndlhzIdfTdz55oSZEYn1OAfnpo1JBfwjA78kbp6s92uQ.jpg"/>
     </item>
   </channel>
 </rss>
