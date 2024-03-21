@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 20 Mar 2024 18:28:36 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Mar 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Mar 2024 19:22:05 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Mar 2024 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Rentekutt til høsten</title>
+      <description><![CDATA[Første rentekutt skjer sannsynligvis i september. Sentralbanksjef Ida Wolden Bache redegjør rentebeslutningen og de pengepolitiske vurderingene fremover.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/afd9d3d0-a6a2-4a10-a1a8-9667f0221680_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/afd9d3d0-a6a2-4a10-a1a8-9667f0221680_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 21 Mar 2024 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dH9Bj3vAdlrVlcYwnWJ0JA5ydyo_VXu2tr_tJ8h1XT7A.jpg"/>
+    </item>
     <item>
       <title>Havvindauksjon avgjort</title>
       <description><![CDATA[Belgisk selskap vant over norske Equinor i den første havvind-konkurransen på norsk sokkel.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Fri, 08 Mar 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7LcxZIeiUHZZBAHBsQ5PIwp0cHa6-EbYp2WZdArGt0vg.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen fraråder norske selskaper å handle med israelske bosetninger</title>
-      <description><![CDATA[Burde kommet et forbud, kritiserer SV.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d3ddf4ad-5c52-4b3c-b31c-d6697a44fc53_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d3ddf4ad-5c52-4b3c-b31c-d6697a44fc53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 07 Mar 2024 19:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/g2T5a-Qs4FCxO52f2g3UyAgbXhyqnrcetGrJ-ODpCu3Q.jpg"/>
     </item>
   </channel>
 </rss>
