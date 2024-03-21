@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 22:26:51 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Mar 2024 22:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Mar 2024 22:27:09 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Mar 2024 22:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    <item>
+      <title>VAR det verdt det?</title>
+      <description><![CDATA[Videodømming i Eliteserien har fått supportere til å brøle enda høyere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/4f4121ff-cc60-4455-8d83-6a241401ce3a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/4f4121ff-cc60-4455-8d83-6a241401ce3a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:29</itunes:duration>
+      <pubDate>Thu, 21 Mar 2024 22:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    </item>
     <item>
       <title>Snakker vi oss syke?</title>
       <description><![CDATA[Unge melder selv om psykiske helseplager.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/d8e25d63-8e72-4809-b064-1e2d0243c994_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:28</itunes:duration>
       <pubDate>Tue, 20 Feb 2024 22:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
-    </item>
-    <item>
-      <title>Borten Moe ut mot egen regjering</title>
-      <description><![CDATA[Klimaministeren avviser Borten Moes påstand om at Norge ikke når klimamålene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/60f38487-8845-49d3-8084-31e3c82021f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/60f38487-8845-49d3-8084-31e3c82021f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:10</itunes:duration>
-      <pubDate>Thu, 15 Feb 2024 22:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
   </channel>
