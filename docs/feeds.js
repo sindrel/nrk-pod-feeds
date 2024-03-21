@@ -1002,6 +1002,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "roed_loeype",
+    "title": "De 10 siste fra Rød løype",
+    "season": null,
+    "enabled": false
+  },
+  {
     "id": "roeverradion_i_nrk_p2",
     "title": "De 10 siste fra Røverradion i NRK P2",
     "season": null,
@@ -1182,6 +1188,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "supertroett",
+    "title": "De 10 siste fra Supertrøtt",
+    "season": null,
+    "enabled": false
   },
   {
     "id": "tazte_priv",
