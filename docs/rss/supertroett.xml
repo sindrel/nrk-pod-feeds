@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 2 siste fra Supertrøtt</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Supertrøtt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/supertroett for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 22 Mar 2024 07:22:25 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2024 06:01:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/dhCz90zRlHrLO237nig6RQN9GLNPKvf8nQGrLjKWXCNw.jpg"/>
+    <item>
+      <title>Dordi drage og regnbueridderen</title>
+      <description><![CDATA[Det er ikke lett å pusse tenner når man er en ildsprutende drage som heller vil være regnbueridder enn å legge seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/supertroett/c3aac6b6-5f65-471d-8240-da59256b6e9e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/c3aac6b6-5f65-471d-8240-da59256b6e9e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:36</itunes:duration>
+      <pubDate>Fri, 22 Mar 2024 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dhCz90zRlHrLO237nig6RQN9GLNPKvf8nQGrLjKWXCNw.jpg"/>
+    </item>
+    <item>
+      <title>Henrik hyene har latterkrampe</title>
+      <description><![CDATA[Henrik Hyene skal sove, men nå har han latterkrampe – han klarer ikke slutte å le! Og hvorfor stikker pysjen sånn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/supertroett/5cd1df23-8a92-49a5-b53e-6a41deb33ffe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/5cd1df23-8a92-49a5-b53e-6a41deb33ffe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:29</itunes:duration>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dhCz90zRlHrLO237nig6RQN9GLNPKvf8nQGrLjKWXCNw.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -6,11 +6,38 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Mysterier fra Norge. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/mysterier_fra_norge for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 May 2023 04:28:44 +0000</lastBuildDate>
-    <pubDate>Tue, 23 May 2023 06:00:00 +0200</pubDate>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 22 Mar 2024 07:22:16 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2024 06:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"/>
+    <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g.jpg"/>
+    <item>
+      <title>Seriemorderen fra Selbu</title>
+      <description><![CDATA[Belle Gunness var en av USAs verste kvinnelige seriemordere. Men hvor ble hun av? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/ccfbe10b-af25-4b62-baf1-bcab9d3fc67d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/ccfbe10b-af25-4b62-baf1-bcab9d3fc67d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:50</itunes:duration>
+      <pubDate>Fri, 22 Mar 2024 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c20i8HGcmNyVZJPn-cfrVgromaDLj2obr3yovAZfsq2g.jpg"/>
+    </item>
+    <item>
+      <title>Skriket fra graven</title>
+      <description><![CDATA[En høygravid kvinne dør like før fødsel. Etter begravelsen hører folk barnegråt fra graven. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/6e39e9b9-671d-4516-9fcd-fa4d6767b377_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/6e39e9b9-671d-4516-9fcd-fa4d6767b377_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:12</itunes:duration>
+      <pubDate>Fri, 22 Mar 2024 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh9ZpsgQaJAGTDKif3NPTgVeoybXOZA7Mbgh_sTIMCdA.jpg"/>
+    </item>
+    <item>
+      <title>Døden på rom 106</title>
+      <description><![CDATA[En offiser blir funnet død på rommet sitt med kloremerker på halsen. Rundt ham er det blod, oppkast – og en mystisk «A». ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/6a92b5e0-bfe0-4552-9e3b-c23fdf26a1a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/6a92b5e0-bfe0-4552-9e3b-c23fdf26a1a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:19</itunes:duration>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OW5wrqF75-R9ezDsBoFbcg_LPyoM4xpWVvUVrjrdet6A.jpg"/>
+    </item>
     <item>
       <title>Den hjemsøkte barnehagen</title>
       <description><![CDATA[En prest settes til å rense en barnehage som plages av et gjenferd.
@@ -21,6 +48,7 @@ Et mysterium fra Vågå i Innlandet.
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/fa82cbce-5d1b-46ed-b2ed-6dfe65842b3c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:35</itunes:duration>
       <pubDate>Tue, 23 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yIVArelyWFqiQZWmOr_PlAU7Pmn7OKfoNgvGbiLoYqcw.jpg"/>
     </item>
     <item>
       <title>Huset som ikke ville brenne</title>
@@ -32,6 +60,7 @@ Et mysterium fra Ålesund i Møre og Romsdal.
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/cb72c89a-df53-4a0c-9e03-3d91190f81d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:23</itunes:duration>
       <pubDate>Tue, 16 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j315-9QGp7LNZzh06dgEfAtzx5VgM-ZwVjM6xgRr3r0Q.jpg"/>
     </item>
     <item>
       <title>Demonveggen</title>
@@ -43,6 +72,7 @@ Et mysterium fra Sauherad i Telemark
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/565daa57-08a1-47cd-8058-237c75372097_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:41</itunes:duration>
       <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aD0HsbPiVOurBMn16Z44xw5rXkbfLL8PY5bWBZfAL8Ig.jpg"/>
     </item>
     <item>
       <title>Lysene i Hessdalen (2:2)</title>
@@ -53,6 +83,7 @@ Et mysterium fra Hessdalen i Trøndelag.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/7763c51f-6149-453a-90cf-8a732123eada_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:02</itunes:duration>
       <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EA3AwBqHCP4yaQ9yikWuHw-e9ejfUCanUpQJ5kkR14sA.jpg"/>
     </item>
     <item>
       <title>Lysene i Hessdalen (1:2)</title>
@@ -63,6 +94,7 @@ Et mysterium fra Hessdalen i Trøndelag. ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/e4380329-fd33-445b-b86d-f4d714752dda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:41</itunes:duration>
       <pubDate>Tue, 25 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EA3AwBqHCP4yaQ9yikWuHw-e9ejfUCanUpQJ5kkR14sA.jpg"/>
     </item>
     <item>
       <title>Politiets synske hjelper</title>
@@ -73,6 +105,7 @@ Et mysterium fra Bergen i Vestland.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/7d018957-c6c6-4c35-956a-e4283e16e425_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:08</itunes:duration>
       <pubDate>Tue, 18 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LfuyL50Q6IejH12Bapm4uQytvGg4fytYj7KOSlZALJFA.jpg"/>
     </item>
     <item>
       <title>Seljordsormen</title>
@@ -83,36 +116,7 @@ Et mysterium fra Seljord i Telemark.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/360455f9-7228-40dd-a422-4dfca1d06d11_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:58</itunes:duration>
       <pubDate>Tue, 11 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ørnerovet</title>
-      <description><![CDATA[Ei tre år gammel jente forsvinner. Har hun blitt tatt av ørna?
-
-Et mysterium fra Leka i Trøndelag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/3f70748d-c3b0-4822-9807-bd98cfbb7ee7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/3f70748d-c3b0-4822-9807-bd98cfbb7ee7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:24</itunes:duration>
-      <pubDate>Fri, 07 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Fotballforbannelsen (2:2)</title>
-      <description><![CDATA[En 20 år gammel, blodig hemmelighet kommer ut. Tåler den dagens lys?
-
-Et mysterium fra Tromsø.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/d8b87c94-66b3-450d-a346-fb83864807ed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/d8b87c94-66b3-450d-a346-fb83864807ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:47</itunes:duration>
-      <pubDate>Tue, 04 Apr 2023 06:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Fotballforbannelsen (1:2)</title>
-      <description><![CDATA[En forbannelse kastes over Tromsø IL. Treneren må ta et umulig valg. 
-
-Et mysterium fra Tromsø.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/74676063-f360-4e9f-a7eb-7356ea684651_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/74676063-f360-4e9f-a7eb-7356ea684651_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:05</itunes:duration>
-      <pubDate>Tue, 04 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dA7QO1qOXP60OR-2OUJ-ugMfvLWsDjNydxO9tyT5__XQ.jpg"/>
     </item>
   </channel>
 </rss>
