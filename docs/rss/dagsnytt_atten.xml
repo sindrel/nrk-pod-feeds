@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 19:22:05 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Mar 2024 19:30:00 +0100</pubDate>
+    <lastBuildDate>Fri, 22 Mar 2024 19:22:09 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2024 20:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Glede og skuffelse over Nasjonal transportplan</title>
+      <description><![CDATA[Regjeringa la i dag fram sin gigantplan for hvilke veier, jernbaner, flyplasser og havner som skal prioriteres de neste 12 årene.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ec080f5b-6876-42f4-b99a-7c26dcb616a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ec080f5b-6876-42f4-b99a-7c26dcb616a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 22 Mar 2024 20:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Dui-svjV6_5mPYnBIlnBYgY_D-TS_6IjuUlyV-1lVBaw.jpg"/>
+    </item>
     <item>
       <title>Rentekutt til høsten</title>
       <description><![CDATA[Første rentekutt skjer sannsynligvis i september. Sentralbanksjef Ida Wolden Bache redegjør rentebeslutningen og de pengepolitiske vurderingene fremover.]]></description>
@@ -91,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 11 Mar 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OVJ_ISuictJ1XiNsmVq3cA-q3HL4NuuKbxd3dJRsireQ.jpg"/>
-    </item>
-    <item>
-      <title>Økning i antallet voldtekter</title>
-      <description><![CDATA[1 av 5 kvinner har blitt voldtatt i løpet av livet, viser ny rapport. Myndighetene får sterk kritikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b0df588-6650-49f9-aab7-09df787596eb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b0df588-6650-49f9-aab7-09df787596eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Fri, 08 Mar 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7LcxZIeiUHZZBAHBsQ5PIwp0cHa6-EbYp2WZdArGt0vg.jpg"/>
     </item>
   </channel>
 </rss>
