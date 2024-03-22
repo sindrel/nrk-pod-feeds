@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Desken brenner</title>
+    <title>De 10 siste fra Desken brenner</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Desken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/desken_brenner for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Desken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/desken_brenner for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 15 Mar 2024 05:27:20 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 22 Mar 2024 05:28:30 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Selvhjelpsnazisme og pornobussen</title>
+      <description><![CDATA[Gutter blir lei seg, gjenvalgt på ukonstitusjonelt grunnlag, og politianmeldt av Kvinnegruppa Ottar. Og noen forbereder seg på rasekrig. Men ikke alle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/c3be07d8-5ead-463a-84f4-b26bb6b1f815_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/c3be07d8-5ead-463a-84f4-b26bb6b1f815_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:56</itunes:duration>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Per-Whisky Amundsen og Photoshop-prinsessa</title>
       <description><![CDATA[Det må være lov å dele meninger på Facebook i whisky-fylla! Det må også være lov å kose seg på Staysman-konsert, men man skal kanskje holde seg for god for å avholde rettsaker under ramadan. Eller?]]></description>

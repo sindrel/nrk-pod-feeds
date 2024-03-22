@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 16 Mar 2024 12:39:09 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Mar 2024 12:30:00 +0100</pubDate>
+    <lastBuildDate>Fri, 22 Mar 2024 05:28:54 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Har Macron tatt for mye tran?</title>
+      <description><![CDATA[Hvorfor er plutselig Frankrike blitt de råeste Ukraina-haukene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/59f1c713-1b01-4079-bed3-5128bd41c7a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/59f1c713-1b01-4079-bed3-5128bd41c7a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:43</itunes:duration>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XZFC9NChE9jECAt5EV4Z7Qnr5gU9bkMviLop16CzxWgA.jpg"/>
+    </item>
     <item>
       <title>Der ingen lov og orden finnes</title>
       <description><![CDATA[Bortføring, drap og voldtekt. Hvem kan redde Haiti nå?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Sat, 17 Feb 2024 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jDPmz1fX7b8z3S3sxad9EgSxzzGzAvj6Ctl3mE1GlpQg.jpg"/>
-    </item>
-    <item>
-      <title>Kan Ukraina vinne krigen med F-16?</title>
-      <description><![CDATA[F-16 kan endre krigen i Ukraina. Flyet kan ødelegge den viktige Kertsjbroen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/242ea191-d806-4c26-a171-38a0bedd4561_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/242ea191-d806-4c26-a171-38a0bedd4561_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:41</itunes:duration>
-      <pubDate>Fri, 16 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1oHz-HhfLn4sQJBtzWfy-QjJYzc8HVv9DOLRFbRpatuQ.jpg"/>
     </item>
   </channel>
 </rss>
