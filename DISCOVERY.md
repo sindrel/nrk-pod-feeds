@@ -1,4 +1,12 @@
 # Podcast Discovery Changelog  
+### 2024-03-22  
+- Added podcast 'Dømt' (`doemt`)  
+- Updated podcast 'Labyrint om natten' (`labyrint_om_natten`)  
+- Updated podcast 'Meininga med livet' (`meininga_med_livet`)  
+- Updated podcast 'Mysterier fra Norge' (`mysterier_fra_norge`)  
+- Updated podcast 'Rød løype' (`roed_loeype`)  
+- Updated podcast 'Supertrøtt' (`supertroett`)  
+- Updated podcast 'Øyeblikket' (`yeblikket`)  
 ### 2024-03-21  
 - Added podcast 'Rød løype' (`roed_loeype`)  
 - Added podcast 'Supertrøtt' (`supertroett`)  
