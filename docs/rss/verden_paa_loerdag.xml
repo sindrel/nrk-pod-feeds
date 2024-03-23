@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 05:28:54 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2024 12:39:45 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Mar 2024 12:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Terrorangrepet i Moskva</title>
+      <description><![CDATA[Moskva-terroren; den dødeligste i Russland på 20 år ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/69816157-95f2-41db-818a-0fcfe13e34e8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/69816157-95f2-41db-818a-0fcfe13e34e8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Sat, 23 Mar 2024 12:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6SO9yqIJRmqKH7WkQBLgAQKmfObF2n27vi-LiqFz3Dkg.jpg"/>
+    </item>
     <item>
       <title>Har Macron tatt for mye tran?</title>
       <description><![CDATA[Hvorfor er plutselig Frankrike blitt de råeste Ukraina-haukene?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>15:49</itunes:duration>
       <pubDate>Fri, 23 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/lCLz8O2eGaKU_RtA5vgSTwCvihLOsM1I3Op_HX5cXuqw.jpg"/>
-    </item>
-    <item>
-      <title>Navalnyj trosset Putin til det siste</title>
-      <description><![CDATA[Nyheten om at Navalnyj ble funnet død i går, har rystet en hel verden. Hva nå med opposisjonen i Russland?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/6e5749d5-4319-422b-87b2-d6becefd84a6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/6e5749d5-4319-422b-87b2-d6becefd84a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Sat, 17 Feb 2024 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jDPmz1fX7b8z3S3sxad9EgSxzzGzAvj6Ctl3mE1GlpQg.jpg"/>
     </item>
   </channel>
 </rss>
