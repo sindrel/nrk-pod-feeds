@@ -7,10 +7,25 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 18:26:37 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Mar 2024 18:48:00 +0100</pubDate>
+    <lastBuildDate>Mon, 25 Mar 2024 08:28:36 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Mar 2024 09:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Årets vinner av Abel-prisen er kåret...</title>
+      <description><![CDATA[Redaksjonen bringer deg nyheter fra vitenskapens verden:
+
+Forskerne vet nå hvorfor levende musikk påvirker oss så sterkt
+
+Michel Talagrand fikk årets Abel-pris for å ha gjort matematisk mulig å regne ut neste hundreårsbølge 
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0361d5d3-332c-4c06-8b91-43b722339c63_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0361d5d3-332c-4c06-8b91-43b722339c63_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:35</itunes:duration>
+      <pubDate>Mon, 25 Mar 2024 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZUVKef136ZZW4sfcYgJjUwPB1jnHxe0VPmfteYm1muMA.jpg"/>
+    </item>
     <item>
       <title>Den store serien om KI (3:10) - Når maskiner lærer å se</title>
       <description><![CDATA[Volvo tester ut biler pakket inn i kameraer og radarer. Selv etter 50 år er det fortsatt vanskelig å lære biler å se. Er trikset å lære av menneskehjernen?]]></description>
@@ -21,7 +36,7 @@
       <itunes:image href="https://gfx.nrk.no/NKHDjrz8FJbfB5qSfBOL0AbxgTdQHV2x_qKeVPtIlZyw.jpg"/>
     </item>
     <item>
-      <title>Kan KI bli religiøs?</title>
+      <title>Er jordskjelv og vulkanutbrudd egentlig vår skyld?</title>
       <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
 
 Dagens eksperter:
@@ -147,22 +162,6 @@ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen,
       <itunes:duration>34:06</itunes:duration>
       <pubDate>Fri, 01 Mar 2024 09:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3mumL9cIJZ9jr50LYgsm2QF3_IvY-sjjdW5zgJ1NugPw.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - Selvlysende potteplanter er nå til salgs i USA</title>
-      <description><![CDATA[Redaksjonen diskuterer siste forskningsnyheter og denne gangen handler det om: 
-
-- Selvlysende potteplanter er nå til salgs i USA
-- Hunder som kan lukte seg fram til Parkinson
-- Bjørnedyrets ekstreme dvaletilstand
-- Skorpioners giftige sexliv
-- Satellitter lagd av tre
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c8735208-a9c8-4b88-9aa4-c8929299fc75_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c8735208-a9c8-4b88-9aa4-c8929299fc75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:41</itunes:duration>
-      <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TSNGuZ3Ay0UZXPPqviT9pgfmnH5V1f1owd4O7yaArRvQ.jpg"/>
     </item>
   </channel>
 </rss>
