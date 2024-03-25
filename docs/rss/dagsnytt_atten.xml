@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 19:22:09 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Mar 2024 20:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 25 Mar 2024 19:22:16 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Mar 2024 19:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Krever våpenhvile i Gaza</title>
+      <description><![CDATA[FNs sikkerhetsråd stemte for resolusjon om umiddelbar våpenhvile og frigivelse av gisler i Gaza. USA avsto fra å stemme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/52caed98-f8aa-4fc4-8d25-062bfd64082e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/52caed98-f8aa-4fc4-8d25-062bfd64082e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:49</itunes:duration>
+      <pubDate>Mon, 25 Mar 2024 19:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lQao9U13CGD9EoMzO2cwfwIaMlS-G32fKYkQ5t3fknsA.jpg"/>
+    </item>
     <item>
       <title>Glede og skuffelse over Nasjonal transportplan</title>
       <description><![CDATA[Regjeringa la i dag fram sin gigantplan for hvilke veier, jernbaner, flyplasser og havner som skal prioriteres de neste 12 årene.
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 12 Mar 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kusThaRdpiL1k0uWTZPlDwjLavncOVIm3oBe41xBYFfg.jpg"/>
-    </item>
-    <item>
-      <title>Lover bedre økonomiske tider</title>
-      <description><![CDATA[Regjeringen forventer at norsk økonomi vil vokse i år. Folk skal få bedre råd, sier statsminister Jonas Gahr Støre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dfe2334d-0b3f-4f97-b849-6078c2ac0fd2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dfe2334d-0b3f-4f97-b849-6078c2ac0fd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 11 Mar 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OVJ_ISuictJ1XiNsmVq3cA-q3HL4NuuKbxd3dJRsireQ.jpg"/>
     </item>
   </channel>
 </rss>
