@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Pønsj</title>
+    <title>De 8 siste fra Pønsj</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Pønsj. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/poensj for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Pønsj. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/poensj for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 05:26:55 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 26 Mar 2024 08:29:23 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    <item>
+      <title>Reiseforsikring til hjemmekontor</title>
+      <description><![CDATA[Plutselig skal alle ta yrkesfag på videregående. Skoleforsker Elise Farstad Djupedal forklarer hvorfor. Og består vi rasismeprøven?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/2d472b5b-643d-4902-8178-2dcb28ac95e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/2d472b5b-643d-4902-8178-2dcb28ac95e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:37</itunes:duration>
+      <pubDate>Tue, 26 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
     <item>
       <title>Lengre penis, fortsatt deppa</title>
       <description><![CDATA[Hver tiende nordmann har operert utseende sitt, forteller psykologspesialist Silje Endresen Reme. Og hva er det Vedum babler om?]]></description>
