@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 23 Mar 2024 12:39:45 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Mar 2024 12:35:00 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Mar 2024 05:27:37 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Den farlige flukten fra Nord-Korea</title>
+      <description><![CDATA[Ut av verdens mest lukkede land.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/629d21ac-dfe3-45e3-ac24-32911cc21011_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/629d21ac-dfe3-45e3-ac24-32911cc21011_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:18</itunes:duration>
+      <pubDate>Wed, 27 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fhpWkF5kLltrw84Q8yXS1gRD3TjGwQaa8xIGjcp-D6Mw.jpg"/>
+    </item>
     <item>
       <title>Terrorangrepet i Moskva</title>
       <description><![CDATA[Moskva-terroren; den dødeligste i Russland på 20 år ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Sat, 24 Feb 2024 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/woyia-6JAdKGbIr5jGBVRQNBJa9ZptSM7Ed8P8e_vjbw.jpg"/>
-    </item>
-    <item>
-      <title>Fra komiker til krigssjef</title>
-      <description><![CDATA[Hvordan har krigen forandret Volodymyr Zelenskyj og hva er "superkraften" hans? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/b70b4617-3836-4f17-9b9b-f5511baad4bb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/b70b4617-3836-4f17-9b9b-f5511baad4bb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:49</itunes:duration>
-      <pubDate>Fri, 23 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lCLz8O2eGaKU_RtA5vgSTwCvihLOsM1I3Op_HX5cXuqw.jpg"/>
     </item>
   </channel>
 </rss>
