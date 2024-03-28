@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Mar 2024 05:26:09 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 28 Mar 2024 05:28:46 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Mar 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Dårleg nytt for lakriselskarar</title>
+      <description><![CDATA[Ein ny studie viser at vi toler mindre lakris enn vi har trudd tidlegare. Er alt håp ute for alle som elskar lakris?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7192f8eb-c058-4401-b45c-a61c82183e84_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7192f8eb-c058-4401-b45c-a61c82183e84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:45</itunes:duration>
+      <pubDate>Thu, 28 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ElK6TTpu-JNAhuJuyV-IKg4grClVt2l_gm3cOj8rRx5A.jpg"/>
+    </item>
     <item>
       <title>Hvorfor driver noen med skihopp?</title>
       <description><![CDATA[Det er jo livsfarlig! Vi sjekker ut hva som får noen til å kaste seg utfor et hopp i 100 kilometer i timen. På ski! ]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>40:04</itunes:duration>
       <pubDate>Sat, 09 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OXjn_s4CPhOVzlLSnvodIwMMKAxLleYulTw7J6Tuzy8Q.jpg"/>
-    </item>
-    <item>
-      <title>USA: Ingen kvinner på toppen</title>
-      <description><![CDATA[Hvorfor står presidentvalget igjen mellom to gamle, hvite menn?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/df72f72d-1ec9-4095-a9b4-5d8945e71648_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/df72f72d-1ec9-4095-a9b4-5d8945e71648_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:30</itunes:duration>
-      <pubDate>Fri, 08 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OVLlRV105miK4_fMU4Gy0w8eTVmgHxA6tpO1yFUhfh9w.jpg"/>
     </item>
   </channel>
 </rss>
