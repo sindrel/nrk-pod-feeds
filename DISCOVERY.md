@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-03-30  
+- Podcast 'Fantorangenfortellinger' is considered obsolete and will be ignored in the future (`fantorangenfortellinger`)  
+- Podcast 'Guttapassasjen' is considered obsolete and will be ignored in the future (`guttapassasjen`)  
 ### 2024-03-22  
 - Added podcast 'Dømt' (`doemt`)  
 - Updated podcast 'Labyrint om natten' (`labyrint_om_natten`)  

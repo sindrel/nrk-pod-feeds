@@ -247,7 +247,9 @@
         "id": "fantorangenfortellinger",
         "title": "De 10 siste fra Fantorangenfortellinger",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "fantorangens_lydmysterier",
@@ -371,7 +373,9 @@
         "id": "guttapassasjen",
         "title": "De 10 siste fra Guttapassasjen",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "haevvi",
