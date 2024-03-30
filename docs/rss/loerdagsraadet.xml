@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Mar 2024 05:27:23 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 30 Mar 2024 08:27:45 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Mar 2024 09:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Høydepunkter fra 2023 - nr. 10</title>
+      <description><![CDATA[Jenny Skavlan / Hilde Skaar / Erik Solbakken / Henrik Fladseth / Adelina Ibishi / Fredrik Skavlan / Lars Berrum / Odd Nordstoga / Ingrid Gjessing Linhave]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/dacde037-06cd-4031-9374-44c7e1a8b67f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/dacde037-06cd-4031-9374-44c7e1a8b67f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:42:49</itunes:duration>
+      <pubDate>Sat, 30 Mar 2024 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/B4Wi9oIWqfMo0PBc0Hk28AhpXzswFi4Ir3NcS4uO23PA.jpg"/>
+    </item>
     <item>
       <title>Mikkel Niva holder tale</title>
       <description><![CDATA[Mikkel leser talen til Margreth... på mange vis! Vi får tilbakemelding på hvordan det gikk... pluss: fyllemail!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>17:29</itunes:duration>
       <pubDate>Wed, 28 Feb 2024 16:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra 2023 - nr. 8</title>
-      <description><![CDATA[Ida Fladen / Henrik Farley / Ronny Brede Aase / Solveig Kloppen / Martha Leivestad / Niklas Baarli / Annika Momrak / Harald Eia / Martin Lepperød / Mikkel Niva / Bahare Viken / Jonas K. Bergland]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/c767971a-d39d-4b2a-8def-a1b982d5dc25_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c767971a-d39d-4b2a-8def-a1b982d5dc25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:34:05</itunes:duration>
-      <pubDate>Sat, 24 Feb 2024 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/B4Wi9oIWqfMo0PBc0Hk28AhpXzswFi4Ir3NcS4uO23PA.jpg"/>
     </item>
   </channel>
 </rss>
