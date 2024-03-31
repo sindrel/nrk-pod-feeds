@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 24 Mar 2024 05:26:19 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 31 Mar 2024 04:29:36 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Mar 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Annika Momrak</title>
+      <description><![CDATA[Annika Momrak sine overlevelsesstrategier! Ryddetips, kinotips - og masse om kjærlighet! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/ccf43021-9e9b-43d0-99f3-18466998adc2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/ccf43021-9e9b-43d0-99f3-18466998adc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:51</itunes:duration>
+      <pubDate>Sun, 31 Mar 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8dwdC5-M8RdgS1QMCbMlbwrAZmMDHjRYSCc-8rPl6H0g.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Frida Ånnevik</title>
       <description><![CDATA[Frida og Else synger vakkert, snakker om bråkete naboer, dansing og grining! En nydelig brunsj!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>37:48</itunes:duration>
       <pubDate>Sun, 28 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6-330-W2O4B0yBlGYFL1pQmzmfwn8u9_MMY5C4F_Vdcg.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Alessandra</title>
-      <description><![CDATA[Alessandra forteller Else hvorfor hun snakker til plantene sine, hvordan en promp kan ødelegge alt, og hvordan man flørter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/4178b56a-55cf-4cc3-a936-82bedf2a29ce_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/4178b56a-55cf-4cc3-a936-82bedf2a29ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:22</itunes:duration>
-      <pubDate>Sun, 21 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kw81-Ix8HCipyoVlwQrl8QSMFnc7YR0t9fNnqJzGsnHg.jpg"/>
     </item>
   </channel>
 </rss>
