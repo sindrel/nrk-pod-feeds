@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Mar 2024 05:28:27 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Apr 2024 04:28:48 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Lokalavis spessial</title>
+      <description><![CDATA[Hva sier lokalavisene om oss nordmenn? Og hvorfor er de så morsomme? Med mannen bak instagramkontoen BAdesKEn Ken André Ottesen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/dc2d71e0-a232-46c8-a052-5172c3d48b78_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/dc2d71e0-a232-46c8-a052-5172c3d48b78_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:50</itunes:duration>
+      <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zjhW1V4zxKl5Mm2crsm44AW2jdXqxl8pZt6EGJDE2zeA.jpg"/>
+    </item>
     <item>
       <title>Transhumanisme</title>
       <description><![CDATA[Hvor langt bør menneskene være villige til å gå for å forbedre oss selv? Med filosof Ole Martin Moen. ]]></description>
@@ -92,17 +101,6 @@
       <itunes:duration>01:10:32</itunes:duration>
       <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tPLuTEq4VekqcY8GKWJ5DA5EXO8n5RxeWRoO2Z0ZOalg.jpg"/>
-    </item>
-    <item>
-      <title>Norge og korrupsjon</title>
-      <description><![CDATA[Er vi naive når vi tror Norge er nesten fritt for korrupsjon?  Bør tillit erstattes med mer mistenksomhet?
-Med Eva Joly og Nina Witoszek  som sammen har skrevet boka "Det blåøyde riket".
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/8f4995aa-61ac-4517-b0be-487e699930bc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/8f4995aa-61ac-4517-b0be-487e699930bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:23</itunes:duration>
-      <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MvRPxiTOj9QQLYVJJc4qUABuZmjR45tfDx_EW2qaYXQw.jpg"/>
     </item>
   </channel>
 </rss>

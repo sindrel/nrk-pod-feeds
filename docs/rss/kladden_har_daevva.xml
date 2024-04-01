@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Mar 2024 05:28:11 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Mar 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Apr 2024 04:28:33 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Adelina Ibishi og bølgen</title>
+      <description><![CDATA[Folk tar ikke Adelinas fancy nær døden-opplevelse på alvor. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2029da43-f7f4-4829-a2ed-a65eff46fb36_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2029da43-f7f4-4829-a2ed-a65eff46fb36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:00</itunes:duration>
+      <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8NrQw4ZbS5oPiLEormKtogUnpp_UDlHN-sUMswxZTz_Q.jpg"/>
+    </item>
     <item>
       <title>Marlene Stavrum og dødens pumpe</title>
       <description><![CDATA[Et brutalt møte med døden, og et tilfeldig møte med en veiarbeider. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:00:32</itunes:duration>
       <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GjdbcMVhcupKR0-5Snh_FQme65C-97iYLa2XiLFFz5qg.jpg"/>
-    </item>
-    <item>
-      <title>Bård Ylvisåker, guffent med maskingevær</title>
-      <description><![CDATA[Kan prat om døden være starten på et nytt vennskap? En av to i studio er skeptiske. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/def1c996-8f2e-4f39-a54a-e907b682cf11_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/def1c996-8f2e-4f39-a54a-e907b682cf11_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:26</itunes:duration>
-      <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LJzMTzeT8KAbbuIUHmWJ4g0tc3Kj13GGYdjwQ_-J-hlQ.jpg"/>
     </item>
   </channel>
 </rss>
