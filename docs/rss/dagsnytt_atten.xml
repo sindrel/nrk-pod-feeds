@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Mar 2024 19:21:52 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Mar 2024 19:30:00 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Apr 2024 17:27:44 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Apr 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Flere må avtjene verneplikt</title>
+      <description><![CDATA[Regjeringen ønsker å styrke forsvaret. Antallet som avtjener verneplikt skal økes med 50 prosent innen 2036.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5795702f-ef7a-4774-8458-f984cffb5c34_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5795702f-ef7a-4774-8458-f984cffb5c34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Tue, 02 Apr 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WoEYdiexgnXQZ3ilOfG6kQXjQEM6RLWY_NNRgoJc6NXw.jpg"/>
+    </item>
     <item>
       <title>Folkemord i Gaza</title>
       <description><![CDATA[Det er rimelig grunn til å tro at Israel har begått folkemord i Gaza, slår ny FN-rapport fast. Flere lover i folkemordkonvensjonen skal være brutt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 14 Mar 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WKGAsI0SdjxRwlRpvlPxrgXb2WfJh3kpYvsO2jEUr2cQ.jpg"/>
-    </item>
-    <item>
-      <title>Færre barn enn noen gang</title>
-      <description><![CDATA[Alderen på førstegangsfødende i Norge har aldri vært høyere. Det viser ferske tall fra SSB.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d495fcfd-7e9a-4330-a9d0-21aa0b0b4c44_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d495fcfd-7e9a-4330-a9d0-21aa0b0b4c44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Wed, 13 Mar 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/w2GPq_F7jlkfZrKsnx2jrAJuKlIEHXhFTRrdDXWt5qWA.jpg"/>
     </item>
   </channel>
 </rss>
