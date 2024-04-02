@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 14:26:36 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Mar 2024 14:30:00 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Apr 2024 12:41:59 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Apr 2024 14:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Tuva Syvertsen</title>
+      <description><![CDATA[Musikeren blir livredd når hun skal gjøre nye ting, som å lede Spellemannprisen. - Jeg skammer meg veldig når noe blir halvveis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/567e68b8-aa18-4fea-acb5-2435724a95d2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/567e68b8-aa18-4fea-acb5-2435724a95d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Tue, 02 Apr 2024 14:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pvYo4g9G6P8EDxVA4Y0ZZAz3fbFvcE5ICbboAqUg-0Jg.jpg"/>
+    </item>
     <item>
       <title>Amund Bjørklund</title>
       <description><![CDATA[Da låtskriveren samarbeidet med Taylor Swift måtte han skrive under på en taushetserklæring: - hun er best i verden på å kontrollere sitt eget narrativ.]]></description>
@@ -101,15 +110,6 @@
       <itunes:duration>01:00:40</itunes:duration>
       <pubDate>Wed, 28 Feb 2024 14:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JfnkEdg-32MN0wHj1u725gGCatiy7K3fi8g4nCfgGOmg.jpg"/>
-    </item>
-    <item>
-      <title>Grace Bullen</title>
-      <description><![CDATA[-Målet er å bli det forbildet jeg selv manglet, sier den OL-klare bryteren fra Fredrikstad.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a6ab49f8-7a9b-4287-8108-0170c358cfe5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a6ab49f8-7a9b-4287-8108-0170c358cfe5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:38</itunes:duration>
-      <pubDate>Tue, 27 Feb 2024 13:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2pM3jspxmRIZOkBLOzJWXwddhcLyn66H8beeyPO7zGZA.jpg"/>
     </item>
   </channel>
 </rss>
