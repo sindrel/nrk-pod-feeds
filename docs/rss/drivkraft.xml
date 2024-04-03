@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 Apr 2024 12:41:59 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Apr 2024 14:35:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2024 10:29:33 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2024 11:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Runa Sandvik</title>
+      <description><![CDATA[Da hun var 15 år hacket hun seg inn på venninnas datamaskin. Nå er hun en av verdens fremste eksperter på hacking og datasikkerhet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3bd264f6-aaba-4b5c-ade2-06127c38f1cc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3bd264f6-aaba-4b5c-ade2-06127c38f1cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:24</itunes:duration>
+      <pubDate>Wed, 03 Apr 2024 11:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sAV0smBWOG1L0oKwZMuHKgGJHrkW1lzxbNITL1bttQew.jpg"/>
+    </item>
     <item>
       <title>Tuva Syvertsen</title>
       <description><![CDATA[Musikeren blir livredd når hun skal gjøre nye ting, som å lede Spellemannprisen. - Jeg skammer meg veldig når noe blir halvveis.]]></description>
@@ -101,15 +110,6 @@
       <itunes:duration>56:32</itunes:duration>
       <pubDate>Thu, 29 Feb 2024 21:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HfZG3MAByW7KrKLMLNrfdAm_ai4_0UYGvXI2tT07w2lA.jpg"/>
-    </item>
-    <item>
-      <title>Aurora Aksnes</title>
-      <description><![CDATA[Lærerne mente artisten ikke klarte å skille mellom fantasi og virkelighet: - Foreldrene mine lot meg være den jeg er.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/65cb1ff6-f6d9-452f-b13a-96aa00de1571_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/65cb1ff6-f6d9-452f-b13a-96aa00de1571_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:40</itunes:duration>
-      <pubDate>Wed, 28 Feb 2024 14:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JfnkEdg-32MN0wHj1u725gGCatiy7K3fi8g4nCfgGOmg.jpg"/>
     </item>
   </channel>
 </rss>
