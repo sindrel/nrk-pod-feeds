@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 Apr 2024 11:22:05 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Apr 2024 13:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2024 11:22:11 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2024 12:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Hoppe etter ruccola</title>
+      <description><![CDATA[Silje Nordnes og Mikkel Bratt Silset er på besøk for å prate om tiden i Kompani Lauritzen <3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d384e090-e370-48f3-a92f-cd414b9851ff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d384e090-e370-48f3-a92f-cd414b9851ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:43</itunes:duration>
+      <pubDate>Wed, 03 Apr 2024 12:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/M9NwB7wQ7VmlLoIUqIEihA1PLgZVsq17Sf-OSYAPe8RA.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Prøver sniff tobakk</title>
       <description><![CDATA[Tete har med godsaker fra Sverige, Hani har møtt Tyrkias president og Anna er meget fornøyd med egen aprilspøk. Til stede: Tete, Adelina, Daniel, Hani og Anna. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>05:21</itunes:duration>
       <pubDate>Fri, 22 Mar 2024 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Karsten blir rørt og kvalm</title>
-      <description><![CDATA[Karsten bringer store nyheter til P3morgen! Det markeres med rollespill, forsøk på verdensrekord og kake. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/eebe8062-3785-460c-af13-44f70bbe74cf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/eebe8062-3785-460c-af13-44f70bbe74cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:13</itunes:duration>
-      <pubDate>Fri, 22 Mar 2024 11:48:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/luEDQ61F90TN18Yb5Hqvzw1nzNC6OYAqVja5ZqE04OEw.jpg"/>
     </item>
   </channel>
 </rss>
