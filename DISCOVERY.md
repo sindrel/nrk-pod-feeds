@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-04-03  
+- Updated podcast 'Burde vært pensum' (`burde_vaert_pensum`)  
 ### 2024-03-30  
 - Podcast 'Fantorangenfortellinger' is considered obsolete and will be ignored in the future (`fantorangenfortellinger`)  
 - Podcast 'Guttapassasjen' is considered obsolete and will be ignored in the future (`guttapassasjen`)  
