@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 04 Apr 2024 06:28:35 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Apr 2024 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Apr 2024 06:28:53 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Apr 2024 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/HQOdXZJnFNWwrd9x8VTcIQ_p5LYdB-xxVAqwj4qrBaGg.jpg"/>
+    <item>
+      <title>Rust opp!</title>
+      <description><![CDATA[I dag kjem ny langtidsplan for Forsvaret. Blir Noreg meir militarisert?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/6ee78657-1b47-4ea1-8a99-18a32e88f0c1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/6ee78657-1b47-4ea1-8a99-18a32e88f0c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Fri, 05 Apr 2024 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8kODgZtnqcSazHZpx9l-uQrFhuNNLCXUYjvHMpiD6U0Q.jpg"/>
+    </item>
     <item>
       <title>Ny abortlov – mer moderne eller bare mer uansvarlig?</title>
       <description><![CDATA[Arbeiderpartiet vil endre den snart 50 år gamle abortloven og utvide grensa for selvbestemt abort til 18 uker.
@@ -105,16 +114,6 @@ Kom med løsningene da, sier SVs leder Kirsti Bergstø.]]></description>
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Wed, 20 Mar 2024 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FRhU6tTaA_a6kWs-t_hiwQ2xQAzwje5kZ_0a4JNGIi_Q.jpg"/>
-    </item>
-    <item>
-      <title>Vedum advarer mot nye måter å tappe oljefondet</title>
-      <description><![CDATA[Finansminister Vedum advarer mot nye måter bruke mer oljepenger.
-Selv må han møte i kontrollhøring etter at han brukte oljepenger til å kjøpe giganteiendom.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ab701092-9dcb-4cee-a217-695b40d04da3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ab701092-9dcb-4cee-a217-695b40d04da3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:08</itunes:duration>
-      <pubDate>Tue, 19 Mar 2024 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YWcBb3SYM3oVawlbcH33fQLYq4_HHcHXRVr7-1JXg5UQ.jpg"/>
     </item>
   </channel>
 </rss>
