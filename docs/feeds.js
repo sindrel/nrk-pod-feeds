@@ -945,7 +945,7 @@ const feeds = [
     "id": "radio_utslagsnes",
     "title": "De 10 siste fra Radio Utslagsnes",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "radiodokumentaren",
