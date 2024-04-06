@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-04-06  
+- Updated podcast 'Radio Utslagsnes' (`radio_utslagsnes`)  
 ### 2024-04-03  
 - Updated podcast 'Burde vært pensum' (`burde_vaert_pensum`)  
 ### 2024-03-30  
