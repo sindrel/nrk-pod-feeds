@@ -7,13 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 05 Apr 2024 04:30:47 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 06 Apr 2024 11:22:31 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Apr 2024 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
     <item>
+      <title>Hva skjedde med gislene?</title>
+      <description><![CDATA[130 israelere sitter fortsatt fanget i Gaza etter et halvt år med krig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ff902253-6dcf-443a-bd34-0fd5e10ced13_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ff902253-6dcf-443a-bd34-0fd5e10ced13_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 06 Apr 2024 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tsoEL0dowU7H_BQ3vxOchw3xvEKcdF3fxdrgmXL2fq4w.jpg"/>
+    </item>
+    <item>
       <title>En krig for gamle menn</title>
-      <description><![CDATA[Når de unge ikke vil kjempe, sendes eldre soldater i krigen. Hvorfor?]]></description>
+      <description><![CDATA[Når de unge ikke vil kjempe, sendes eldre soldater i krigen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/0c27aadb-2271-4387-bb9a-cc663b8347e6_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/0c27aadb-2271-4387-bb9a-cc663b8347e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:10</itunes:duration>
@@ -93,15 +102,6 @@
       <itunes:duration>14:10</itunes:duration>
       <pubDate>Fri, 08 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Wv_o630qDdtCN3WLufkBzQupajmmdid4DrW_JeQro8_Q.jpg"/>
-    </item>
-    <item>
-      <title>Hva vil egentlig Putin?</title>
-      <description><![CDATA[Er "putinismen" bare et ønske om mye makt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/2d1a1937-94aa-46c0-a30e-4bf2daac9353_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/2d1a1937-94aa-46c0-a30e-4bf2daac9353_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:38</itunes:duration>
-      <pubDate>Sat, 02 Mar 2024 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rVDfBFjMWXL_G--JBLmhZAGB04-t5Kwe8hq8loV5BsOw.jpg"/>
     </item>
   </channel>
 </rss>
