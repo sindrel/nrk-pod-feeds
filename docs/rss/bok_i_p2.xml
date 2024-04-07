@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 06 Apr 2024 04:28:08 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 07 Apr 2024 04:28:42 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Stjålen suksess, desperasjon og minner</title>
+      <description><![CDATA[Et smertefullt morsportrett, en satirebok om kulturkonflikter og en mors fortvilelse, når hennes datter isolerer seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/defb776a-f8c4-47ee-8aa7-4c95864b85c4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/defb776a-f8c4-47ee-8aa7-4c95864b85c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sun, 07 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0Cdy9pd0sq5Az_M5i7ZPywcO_0_2JTA6YvVEPWE2-B_A.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Alexander K. Krag</title>
       <description><![CDATA["Sorg blir fort veldig praktisk" Alexander Kielland Krag utforsker sorg etter selvmord i sin nye roman «Aldri bedre». Jasdeep Singh Kalirai er dagens lesetipser.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Sun, 18 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/bvrGkzbNLlCZgv6KTT5PNARZ1qIfvM8yHxzAt4b6Qa1w.jpg"/>
-    </item>
-    <item>
-      <title>Kritikerne fra Bergen Litteraturfestival</title>
-      <description><![CDATA[Kritikerne er i Bergen! Vi anmelder samiske eventyr, fjorårets Bookerpris-vinner og en fabelaktig fortelling fra India. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/27322c75-35fe-4bae-b32d-4aef4bea1fb4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/27322c75-35fe-4bae-b32d-4aef4bea1fb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:42</itunes:duration>
-      <pubDate>Sun, 11 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/p2-ZDLDzcSntMvFG599Z-QqLxOXPyRbWfHzIeEY7TLJw.jpg"/>
     </item>
   </channel>
 </rss>
