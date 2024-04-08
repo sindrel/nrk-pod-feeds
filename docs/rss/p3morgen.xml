@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Apr 2024 10:31:45 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Apr 2024 12:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2024 12:40:58 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2024 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Johannes har flytta</title>
+      <description><![CDATA[Endelig er Johannes på plass, men det har vært litt humper i veien. Til stede: Adelina, Johannes, Jenny og Anna. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e00eff77-fc3a-4d04-b836-27357de043bb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e00eff77-fc3a-4d04-b836-27357de043bb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:39</itunes:duration>
+      <pubDate>Mon, 08 Apr 2024 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Adelina er verdens peneste brud</title>
       <description><![CDATA[Adlina har gjort en uvanlig lørdagsaktivitet. Vi minnes også Dutty Dior og hva han har betydd for norsk musikk. <3]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>50:08</itunes:duration>
       <pubDate>Tue, 02 Apr 2024 12:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-HqqhiI32ycP4e1Ym6jbiwPpnqXRAusv-GNO9oVUqU3Q.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Møte i marsipanmafiaen</title>
-      <description><![CDATA[Gjengen tar påskeferie (hvert fall noen av oss) og går gjennom hva vi skal. Til stede: Adelina, Johannes og Anna. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5c7f7096-4a0f-423f-9902-a48b989a71a0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5c7f7096-4a0f-423f-9902-a48b989a71a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:37</itunes:duration>
-      <pubDate>Wed, 27 Mar 2024 10:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>

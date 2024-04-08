@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 04 Apr 2024 13:24:10 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Apr 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2024 12:40:45 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2024 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Ulrikke Brandstorp</title>
+      <description><![CDATA[Artisten fargesorterer klærne og bretter trusene sine. Hun sier hun har kaos i hodet og derfor trenger orden rundt seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4586562a-d429-4b6d-a6e5-a08ed9fc54cb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4586562a-d429-4b6d-a6e5-a08ed9fc54cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:21</itunes:duration>
+      <pubDate>Mon, 08 Apr 2024 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VZ_eETRLnkR2drG3wbetrgt26e4_46GuJMYzrrdVNsgA.jpg"/>
+    </item>
     <item>
       <title>Gry Hammer</title>
       <description><![CDATA[Podkasteren og bloggeren mener sivilisasjonen er "på bærtur", og at vi må koble oss mer på naturen]]></description>
@@ -101,15 +110,6 @@
       <itunes:duration>57:11</itunes:duration>
       <pubDate>Wed, 06 Mar 2024 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/grEeNgZ08_tkGq0R_HhpbwPuzFNbwWRKPZhA44Sn70fg.jpg"/>
-    </item>
-    <item>
-      <title>Aida Dahlen</title>
-      <description><![CDATA[Bordtennisspilleren ser ingen begrensninger. Nå er hun klar for sitt fjerde OL.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/2e87dd38-c2bd-4333-9269-9e01a084fa46_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/2e87dd38-c2bd-4333-9269-9e01a084fa46_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:08</itunes:duration>
-      <pubDate>Mon, 04 Mar 2024 13:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/B4N08QW-aDQqwzeD8UsWnQ4xU51d7FS5R6NBsxdOp-Bw.jpg"/>
     </item>
   </channel>
 </rss>
