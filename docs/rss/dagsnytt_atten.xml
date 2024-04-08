@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 05 Apr 2024 17:26:59 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Apr 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2024 17:26:59 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Fagbevegelsen provosert over samstemte økonomer</title>
+      <description><![CDATA[Fagbevegelsen reagerer sterkt på at økonomer mener lønnsoppgjøret forsinker rentenedsettelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/aa151ad7-f6a2-4906-8fd7-c72a2634d846_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aa151ad7-f6a2-4906-8fd7-c72a2634d846_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Mon, 08 Apr 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cr-euPatjYlr7JGwvPle-gRQQRRn-N6Ap4yQsd9REEpw.jpg"/>
+    </item>
     <item>
       <title>Milliarddryss på Forsvaret</title>
       <description><![CDATA[Regjeringen vil bruke 600 milliarder mer på Forsvaret i ny langtidsplan.]]></description>
@@ -93,15 +102,6 @@ Det er å gå baklengs inn i framtiden, kontrer IKT Norge.]]></description>
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Wed, 20 Mar 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/riTIaxlb7dQZ8oOtyXh1ZQ5x4yhYDbkymcaeXZtlqbNw.jpg"/>
-    </item>
-    <item>
-      <title>Flere klimarekorder knust i 2023</title>
-      <description><![CDATA[Ny rapport slår rød alarm om rekordvarmt hav, høye nivåer av klimagasser, og smeltende isbreer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/48a3127b-449c-4204-845a-cbcc6da5b9f1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/48a3127b-449c-4204-845a-cbcc6da5b9f1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 19 Mar 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zRHwlP7wdHjx3hP3Ve-XKA7gnuA5_mUIGnCI4W-LQ4QA.jpg"/>
     </item>
   </channel>
 </rss>
