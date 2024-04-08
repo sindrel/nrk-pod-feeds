@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 04 Apr 2024 04:29:34 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2024 04:29:16 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Nytt våpen - med Arman Vestad</title>
+      <description><![CDATA[Han la livet som kriminell bak seg. Og fikk en idé for å gjøre verden vennligere. Arman Vestad er foredragsholder og økonomisk rådgiver.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d6bfcebb-234c-4ade-a18f-76073a315cb7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d6bfcebb-234c-4ade-a18f-76073a315cb7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:25</itunes:duration>
+      <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KNyG0IdJXLQflWj38QfIzwdtbRWxaHgL8Ikq7bVXh4zg.jpg"/>
+    </item>
     <item>
       <title> Før det er for seint - med Herborg Kråkevik</title>
       <description><![CDATA[Da hunden dør, angrer hun på at kveldsturene ble for korte. Gjør vi rett mot hverandre mens det er tid? Med multikunstner Herborg Kråkevik.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:51</itunes:duration>
       <pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dmVxMGNxq5N-8hhWB15vjQNOfnCmj9mG1dCv-j0SnsyA.jpg"/>
-    </item>
-    <item>
-      <title>Naboer - med Herborg Kråkevik</title>
-      <description><![CDATA[Naboskap kan bli til varmt vennskap. Og det begynte med det lykketreffet, at Herborg er mørkredd. Herborg Kråkevik er sanger og skuespiller.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/256f1dac-2e58-43d8-956f-93282ec6e653_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/256f1dac-2e58-43d8-956f-93282ec6e653_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:33</itunes:duration>
-      <pubDate>Mon, 11 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/S6QEbFgSSWZLaT_ZQuGMsgDEaQ3KvJmun4AadKMM_Scg.jpg"/>
     </item>
   </channel>
 </rss>

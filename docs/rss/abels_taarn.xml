@@ -7,10 +7,24 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 06 Apr 2024 12:37:28 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Apr 2024 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2024 04:28:58 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Litt angst kan være bra å ha</title>
+      <description><![CDATA[Redaksjonen byr på et knippe nyheter fra vitenskapens verden.
+
+- Kunstig intelligens kan si hva som feiler deg bare basert på hosten din
+- Vi har siden barneskolen lært at ulike ladninger tiltrekker hverandre. Nå har forskere oppdaget at det ikke alltid er sånn 
+- Å ha angst er ikke bare en ulempe
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fd89aa55-29e8-4b3e-b952-79efd7608ba5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fd89aa55-29e8-4b3e-b952-79efd7608ba5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:15</itunes:duration>
+      <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    </item>
     <item>
       <title>Den store serien om KI (4:10) - Vaktskifte: Dr. KI stempler inn</title>
       <description><![CDATA[Å oppdage en kreftsvulst  er en perfekt oppgave for KI, og nå er teknologien på full fart inn i helsevesenet. Hva betyr det for deg og meg?
@@ -135,20 +149,6 @@ Religionfilosof og digitaletiker Leonora Bergsjø]]></description>
       <itunes:duration>32:27</itunes:duration>
       <pubDate>Mon, 18 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/In9K_0cb2aoe8pXNp91zzQTnnaBvXj7-1DnCsjogAx6g.jpg"/>
-    </item>
-    <item>
-      <title>Hva er verdens mest klissete substans?</title>
-      <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
-
-Dagens eksperter:
-Musikkforsker Alexander Refsum Jensenius
-Fysiker Anders Kvellestad
-Geolog Ingrid Anell]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/60988f91-6ae5-45ae-927d-5be4f4bf3801_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/60988f91-6ae5-45ae-927d-5be4f4bf3801_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:46</itunes:duration>
-      <pubDate>Fri, 15 Mar 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Lk2XBeEiOWOoqVhwMybpFgi-lSK2giMKyA_VmqBfWcPg.jpg"/>
     </item>
   </channel>
 </rss>

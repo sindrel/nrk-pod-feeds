@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 01 Apr 2024 04:28:33 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2024 04:29:13 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>En betablokker til Steinar Sagen</title>
+      <description><![CDATA[Han døde ikke på bryllupsreise, det bare kjentes litt sånn ut. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/0239b00b-eae7-4c61-afc8-0129023b7047_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/0239b00b-eae7-4c61-afc8-0129023b7047_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:42</itunes:duration>
+      <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/op7ltpakELo8n0rByRmDBAiiH4YnJnqxNgpFBw42VKxg.jpg"/>
+    </item>
     <item>
       <title>Adelina Ibishi og bølgen</title>
       <description><![CDATA[Folk tar ikke Adelinas fancy nær døden-opplevelse på alvor. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:46</itunes:duration>
       <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/H6JI4X_pjOVbfttUBiy_gQJdDyLZ0vaQJGzrjXeg__jg.jpg"/>
-    </item>
-    <item>
-      <title>Erlend Loe på ett hjul</title>
-      <description><![CDATA[Bruk hjelm og se opp for bjørn! ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7f9daba0-1ab6-434f-93d7-07ec8b3da1ac_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7f9daba0-1ab6-434f-93d7-07ec8b3da1ac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:32</itunes:duration>
-      <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GjdbcMVhcupKR0-5Snh_FQme65C-97iYLa2XiLFFz5qg.jpg"/>
     </item>
   </channel>
 </rss>

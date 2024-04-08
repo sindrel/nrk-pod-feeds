@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 01 Apr 2024 04:28:19 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2024 04:29:01 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Erlend har blitt mann</title>
+      <description><![CDATA[Erlend har blitt mann, Steinar har tenkt tanker om kunst og de kvinnelige ridderne har gitt lyd fra seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/e17078a5-79b4-4ece-b5f2-5ef2cd29495a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/e17078a5-79b4-4ece-b5f2-5ef2cd29495a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:33</itunes:duration>
+      <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>Fra barnelandsby til dagsfyll</title>
       <description><![CDATA[Steinar har møtt en drapsmann og tenketanken jobber videre med prinsipprogram for Rause riddere. ]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/01b62c9d-a51b-4363-9eec-e79865d9d0f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:50</itunes:duration>
       <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Sexfest og Syden</title>
-      <description><![CDATA[Steinar har prøvd å komme seg inn på sexfest. Erlend er hjemme igjen fra Syden med lang liste tenketanker om blant annet guttechatter, veiskilt og IKEA-poser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/efa16120-b83a-4838-8295-d4e8e6b54791_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/efa16120-b83a-4838-8295-d4e8e6b54791_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:02:12</itunes:duration>
-      <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>
