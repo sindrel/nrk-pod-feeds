@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Apr 2024 12:40:45 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Apr 2024 14:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Apr 2024 12:41:18 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Apr 2024 14:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Benny Borg</title>
+      <description><![CDATA[Artisten skjønner fortsatt ikke hvorfor «Balladen om Morgan Kane» ble en slager: – Det er syv vers med gjentakelser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a2dfa818-098a-401d-acaa-ed8d0bfdf9fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a2dfa818-098a-401d-acaa-ed8d0bfdf9fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:58</itunes:duration>
+      <pubDate>Tue, 09 Apr 2024 14:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K4V9GdbkVPYbGNQZo-9vXg2UPjeY0w-8ZtrLQg1utBMw.jpg"/>
+    </item>
     <item>
       <title>Ulrikke Brandstorp</title>
       <description><![CDATA[Artisten fargesorterer klærne og bretter trusene sine. Hun sier hun har kaos i hodet og derfor trenger orden rundt seg.]]></description>
@@ -99,17 +108,6 @@
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Thu, 14 Mar 2024 14:15:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Bo1hdP4Kqjj3mU4AjCHlgwMcff7pHVQ1Z9aslKOCP6mg.jpg"/>
-    </item>
-    <item>
-      <title>Helene Flood Aakvaag</title>
-      <description><![CDATA[Krimforfatteren opplevde skrivingen som skambelagt i ungdommen
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cc0ab0ef-8d7b-4d63-bd7e-cb40a05fe0ae_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cc0ab0ef-8d7b-4d63-bd7e-cb40a05fe0ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:11</itunes:duration>
-      <pubDate>Wed, 06 Mar 2024 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/grEeNgZ08_tkGq0R_HhpbwPuzFNbwWRKPZhA44Sn70fg.jpg"/>
     </item>
   </channel>
 </rss>
