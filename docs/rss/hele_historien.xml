@@ -1,61 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 05:26:36 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Mar 2024 06:03:00 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Apr 2024 12:41:07 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Apr 2024 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer: Nokas-ranet</title>
-      <description><![CDATA[En gjeng væpna ranere får med seg 57 millioner kroner fra tellesentralen Nokas i Stavanger. I en skuddveksling dreper de politimannen Arne Klungland. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/cf9d0f95-cc19-41f5-812d-9b480f8ac0fb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/cf9d0f95-cc19-41f5-812d-9b480f8ac0fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05</itunes:duration>
-      <pubDate>Wed, 20 Mar 2024 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q.jpg"/>
-    </item>
-    <item>
-      <title>Paller med penger – Nokas-ranet (1:4)</title>
-      <description><![CDATA[Gjengen med ranere fyller bager med pengesedler. Svetten siler og klokka tikker. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/5c5ccf04-5cf4-40cd-985b-82148171f5e7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/5c5ccf04-5cf4-40cd-985b-82148171f5e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:41</itunes:duration>
-      <pubDate>Thu, 21 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q.jpg"/>
-    </item>
-    <item>
-      <title>Vill vest – Nokas-ranet (2:4)</title>
-      <description><![CDATA[Ranere og politi skyter mot hverandre. Politimannen Arne Klungland blir truffet i hodet – og dør.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/3d672c60-2dff-4cd2-8114-c222f78406cc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/3d672c60-2dff-4cd2-8114-c222f78406cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:07</itunes:duration>
-      <pubDate>Thu, 21 Mar 2024 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q.jpg"/>
-    </item>
-    <item>
-      <title>På sporet av «Skyggen» – Nokas-ranet (3:4)</title>
-      <description><![CDATA[Alle krefter settes inn i jakten på han som drepte politimannen Arne Klungland – en kriminell med kallenavnet «Skyggen».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/30ab2b8f-5dde-483d-b44b-8d685dbc0328_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/30ab2b8f-5dde-483d-b44b-8d685dbc0328_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:48</itunes:duration>
-      <pubDate>Thu, 21 Mar 2024 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q.jpg"/>
-    </item>
-    <item>
-      <title>Jakten på Toska – Nokas-ranet (4:4)</title>
-      <description><![CDATA[Politiet jobber intenst med å spore opp hjernen bak det spektakulære ranet – David Toska. Men han er som sunket i jorda.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/fe6977c0-bc72-4003-bb7f-5c77f6283444_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/fe6977c0-bc72-4003-bb7f-5c77f6283444_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:20</itunes:duration>
-      <pubDate>Thu, 21 Mar 2024 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yjG8uFsEwZ-4BITKDYw_RAiFjKk0ZdnRYIRDfuqGSd-Q.jpg"/>
+      <title>Kommer: Dødsfellen Rocknes</title>
+      <description><![CDATA[Januar 2004:  Lasteskipet Rocknes går rundt på få minutter. Halvparten av mannskapet på 30 blir fanget inne i skroget. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/533bde3f-6b96-49cb-ac53-2a9ec133d38d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/533bde3f-6b96-49cb-ac53-2a9ec133d38d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:33</itunes:duration>
+      <pubDate>Wed, 10 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw.jpg"/>
     </item>
   </channel>
 </rss>
