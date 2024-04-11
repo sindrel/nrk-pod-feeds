@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 10 Apr 2024 06:29:49 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Apr 2024 08:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2024 06:29:10 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2024 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/HQOdXZJnFNWwrd9x8VTcIQ_p5LYdB-xxVAqwj4qrBaGg.jpg"/>
+    <item>
+      <title>Noreg og EU</title>
+      <description><![CDATA[Skal vi seie meir nei til EU? Eller starte vegen mot medlemskap? To syn og fire strategiar er representerte i studio.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/a7b3de5c-05f0-4370-9067-6bb83e941080_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/a7b3de5c-05f0-4370-9067-6bb83e941080_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Thu, 11 Apr 2024 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LEwhgjOg18tUI-SeGMM3iQ94ntjkJT-mQw8lllm0M2UA.jpg"/>
+    </item>
     <item>
       <title>Sløseri i byene og armod på fylkesveiene?</title>
       <description><![CDATA[En sykkelvei til 200 000 kr per meter. En Fornebubane som koster seks ganger mer enn planlagt. Ola Borten Moe (Sp) mener vi har fått en klasse av miljøbyråkrater i storbyene som planlegger ekstravagante prosjekter uten demokratisk kontroll. Hårreisende kunnskapsløst, svarer byråd i Oslo.]]></description>
@@ -98,15 +107,6 @@ Bør det være mulig å dra ei stripe kokain uten å bli tatt for det? Nei, mene
       <itunes:duration>15:00</itunes:duration>
       <pubDate>Tue, 26 Mar 2024 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fvkzOt2U6KBA7JyNOZqS2QgIfZWHeT73B04Cg0pJdC6A.jpg"/>
-    </item>
-    <item>
-      <title>Lova mykje, men leverte lite?</title>
-      <description><![CDATA[Høgre meiner regjeringa pyntar på sanninga og leverer mindre enn dei gir inntrykk av i Nasjonal transportplan. Men kor mykje kan Høgre ause av pengebingen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/df6bca23-2030-4d66-ba80-192e59c26a8c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/df6bca23-2030-4d66-ba80-192e59c26a8c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:05</itunes:duration>
-      <pubDate>Mon, 25 Mar 2024 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bkYOOcj7MKD0nyKxZyuoGg7_iHV2G63X-CRGMp615tRA.jpg"/>
     </item>
   </channel>
 </rss>
