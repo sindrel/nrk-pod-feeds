@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 14:27:32 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Apr 2024 15:31:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Apr 2024 14:26:56 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Apr 2024 15:57:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>EKSTRAEPISODE: Hvorfor måtte Ingvild Kjerkol gå av?</title>
+      <description><![CDATA[Helseminister Ingvild Kjerkol går av som helseminister. Men hvorfor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/0257b3ee-113c-48e4-942e-4b6415e0c11f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/0257b3ee-113c-48e4-942e-4b6415e0c11f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:34</itunes:duration>
+      <pubDate>Fri, 12 Apr 2024 15:57:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v6MFIorKF9RPbOWaiOA_nQrHJrFblVC3eq-60p1qNNYA.jpg"/>
+    </item>
     <item>
       <title>Ingvild Kjerkol fratatt mastergrad på grunn av juks</title>
       <description><![CDATA[Må helseministeren gå av? Hvorfor er Temu så billig og burde du handle der? Og gode inflasjonsnyheter.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>39:18</itunes:duration>
       <pubDate>Thu, 15 Feb 2024 16:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MgwO74_3jXDueqTldYTOAwDKm2E0ptkLgaRzL0fG-A9w.jpg"/>
-    </item>
-    <item>
-      <title>EKSTRAEPISODE: Hvorfor mer bråk om Trond Giske nå?</title>
-      <description><![CDATA[Trond Giske er valgt til ny nestleder for Trondheim Arbeiderparti, men ikke uten bråk. Hva er det han egentlig vil? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b2881af7-a4b7-4beb-9aa3-cd6d237b7e36_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/b2881af7-a4b7-4beb-9aa3-cd6d237b7e36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:47</itunes:duration>
-      <pubDate>Mon, 12 Feb 2024 13:55:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OLvJzeaHV5cl1oOmWNeaXwTYd7-4yTlA3NBs_CUOx-sA.jpg"/>
     </item>
   </channel>
 </rss>
