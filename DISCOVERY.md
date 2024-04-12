@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-04-12  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2024-04-06  
 - Updated podcast 'Radio Utslagsnes' (`radio_utslagsnes`)  
 ### 2024-04-03  
