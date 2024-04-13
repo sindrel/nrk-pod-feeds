@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 07 Apr 2024 04:28:42 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 13 Apr 2024 04:24:22 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Forfatterintervjuet med Wencke Mühleisen</title>
+      <description><![CDATA["Jeg har selv opplevd å bli ghosta" forteller Wencke Mühleisen, om Tinder-dating.  Arne Hjeltnes er dagens lesetipser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/e4483884-d922-4b35-a36c-f7c538510a28_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/e4483884-d922-4b35-a36c-f7c538510a28_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sat, 13 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/G5T5vn40igiV89YnqYvIKAd5ofY4rHOXAX_qaYneSP0g.jpg"/>
+    </item>
     <item>
       <title>Stjålen suksess, desperasjon og minner</title>
       <description><![CDATA[Et smertefullt morsportrett, en satirebok om kulturkonflikter og en mors fortvilelse, når hennes datter isolerer seg.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>54:47</itunes:duration>
       <pubDate>Fri, 23 Feb 2024 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/azz3o5UYl65w6EpQAcxCQApOKiFWb8ODEL7Hu_D8DPBA.jpg"/>
-    </item>
-    <item>
-      <title>Streik, stillstand og sorg</title>
-      <description><![CDATA[En spenstig roman om veiarbeiderstreik på 1930-tallet, en bokserie om å være fanget i tiden, og en roman om sannhet og løgner. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/2dc6ec9e-3223-461f-bc95-1e5e87b1fc47_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/2dc6ec9e-3223-461f-bc95-1e5e87b1fc47_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Sun, 18 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bvrGkzbNLlCZgv6KTT5PNARZ1qIfvM8yHxzAt4b6Qa1w.jpg"/>
     </item>
   </channel>
 </rss>
