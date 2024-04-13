@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 12 Apr 2024 13:24:29 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Apr 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 13 Apr 2024 05:27:05 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Apr 2024 07:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Abels tårn tok feil om månen</title>
+      <description><![CDATA[Vi har invitert måneprofessor Reidar G. Trønnes for irettesette oss. Han forteller hva månen faktisk består av, hvordan den oppstod og hvordan den påvirker jorda nå. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/54b212f9-0229-4191-a7df-d58ff645732b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/54b212f9-0229-4191-a7df-d58ff645732b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:38</itunes:duration>
+      <pubDate>Sat, 13 Apr 2024 07:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    </item>
     <item>
       <title>Hvordan ville jorda vært uten mennesker?</title>
       <description><![CDATA[Et strålende panel i Mandal svarer på spørsmål om evolusjon, batterier og lengden på skistaver.
@@ -150,20 +159,6 @@ Michel Talagrand fikk årets Abel-pris for å ha gjort matematisk mulig å regne
       <itunes:duration>01:01:26</itunes:duration>
       <pubDate>Fri, 22 Mar 2024 18:48:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NKHDjrz8FJbfB5qSfBOL0AbxgTdQHV2x_qKeVPtIlZyw.jpg"/>
-    </item>
-    <item>
-      <title>Er jordskjelv og vulkanutbrudd egentlig vår skyld?</title>
-      <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på.
-
-Dagens eksperter:
-Geolog Reidar Müller
-Kjemiker Ole Swang
-Religionfilosof og digitaletiker Leonora Bergsjø]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/75b11a0f-2103-4f7e-a217-b745bf739eef_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/75b11a0f-2103-4f7e-a217-b745bf739eef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:38</itunes:duration>
-      <pubDate>Fri, 22 Mar 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_LlYgm1FB48DOcqK8cfbkA1GdQsmiC63s41Q7hiW2zXw.jpg"/>
     </item>
   </channel>
 </rss>
