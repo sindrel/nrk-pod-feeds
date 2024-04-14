@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 13 Apr 2024 04:24:22 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 14 Apr 2024 04:56:48 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Festbrems, samtidskritikk og økonomi</title>
+      <description><![CDATA[Denne uken anmelder vi «Nagel 2» av Sigbjørn Lilleeng, «Finans» av Martin Svedman og «Bursdagsfesten» av Laurent Mauvignier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/05b9bbae-b801-4b02-a1d1-1491db68d6f6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/05b9bbae-b801-4b02-a1d1-1491db68d6f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Sun, 14 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sB6PskAmRkIMM0xgoug74Qhq_sh_y8ijj1aBkkFYjFPQ.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Wencke Mühleisen</title>
       <description><![CDATA["Jeg har selv opplevd å bli ghosta" forteller Wencke Mühleisen, om Tinder-dating.  Arne Hjeltnes er dagens lesetipser.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:04</itunes:duration>
       <pubDate>Sun, 03 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/SNB0tLscVTy1JkHmLfSnVg96wEHLV_2ncM0wSHeNnnig.jpg"/>
-    </item>
-    <item>
-      <title>Erotikk, psyke og selvbiografi</title>
-      <description><![CDATA[En forløper til «Sagaen om Isfolket»-bøkene, et dypdykk i menneskets indre, og en imponerende debut fra en ikke-binær forfatter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/87204eaf-eecf-4048-9b99-c308468c03fb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/87204eaf-eecf-4048-9b99-c308468c03fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:47</itunes:duration>
-      <pubDate>Fri, 23 Feb 2024 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/azz3o5UYl65w6EpQAcxCQApOKiFWb8ODEL7Hu_D8DPBA.jpg"/>
     </item>
   </channel>
 </rss>
