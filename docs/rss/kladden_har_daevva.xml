@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Apr 2024 04:29:13 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2024 04:36:28 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Aune Sand og livskraften </title>
+      <description><![CDATA[Aune har ikke tenkt på døden før for noen måneder siden. Og nå har han plutselig dårlig tid. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/a7ddf49a-8d3e-413f-9e38-3debd7544ebf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a7ddf49a-8d3e-413f-9e38-3debd7544ebf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:36</itunes:duration>
+      <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rYAWhhfsiX4s-WuXhuMXlQy244dyVlO149--J8HB7IwQ.jpg"/>
+    </item>
     <item>
       <title>En betablokker til Steinar Sagen</title>
       <description><![CDATA[Han døde ikke på bryllupsreise, det bare kjentes litt sånn ut. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:48</itunes:duration>
       <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DSls5Feq-n6lcL_EGE18dQs2Nr0_tZvO0zovbdqzYQDA.jpg"/>
-    </item>
-    <item>
-      <title>Renate Reinsve og dødsspådommen</title>
-      <description><![CDATA[Ikke hør på ALT legen din sier. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/f869525b-b213-44e8-a3a8-fcc6e18d6531_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f869525b-b213-44e8-a3a8-fcc6e18d6531_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:46</itunes:duration>
-      <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/H6JI4X_pjOVbfttUBiy_gQJdDyLZ0vaQJGzrjXeg__jg.jpg"/>
     </item>
   </channel>
 </rss>

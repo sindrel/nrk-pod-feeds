@@ -1,53 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 Apr 2024 04:29:37 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Apr 2024 06:03:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2024 04:36:39 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Den første vitsen (1:4)</title>
-      <description><![CDATA[På starten av 90-tallet tar standup-sjangeren sine første, vaklende steg i Norge. Hvordan startet sirkuset, og hvem var de første komikerne i manesjen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/492cf48d-5a03-4b38-ab45-a1c2182ae965_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/492cf48d-5a03-4b38-ab45-a1c2182ae965_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:22</itunes:duration>
-      <pubDate>Tue, 02 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7jKBEDT--XKBOSyqwKHzyAE9wo9U1o1yVZS10KqKm3xQ.jpg"/>
-    </item>
-    <item>
-      <title>Komisk kaos og nye stemmer (2:4)</title>
-      <description><![CDATA[Elina Krantz vil temme det kaotiske komikermiljøet i Oslo, og Lisa Tønne og Sigrid Bonde Tusvik utfordrer den mannlige standup-dominansen.
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/834ef29e-3366-4d07-a7a8-4f43b5632ac4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/834ef29e-3366-4d07-a7a8-4f43b5632ac4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:50</itunes:duration>
-      <pubDate>Tue, 02 Apr 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7jKBEDT--XKBOSyqwKHzyAE9wo9U1o1yVZS10KqKm3xQ.jpg"/>
-    </item>
-    <item>
-      <title>Penger, makt og mytteri (3:4)</title>
-      <description><![CDATA[Latter på Aker Brygge gjør norsk standup om til store penger. Elina Krantz hylles som humordronning, men bak suksessen hvisker de kritiske røstene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/18e2cde5-ce35-494d-aeae-4ca0bb927a6f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/18e2cde5-ce35-494d-aeae-4ca0bb927a6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:48</itunes:duration>
-      <pubDate>Tue, 02 Apr 2024 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7jKBEDT--XKBOSyqwKHzyAE9wo9U1o1yVZS10KqKm3xQ.jpg"/>
-    </item>
-    <item>
-      <title>Totusenogkrenka (4:4)</title>
-      <description><![CDATA[På små, alternative humorscener møter komikerne et minefelt av potensielle krenkefeller. Så hva skal vi le av nå, da?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/ecb81fe9-ea91-46b4-9a64-c29ebe069139_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ecb81fe9-ea91-46b4-9a64-c29ebe069139_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:33</itunes:duration>
-      <pubDate>Tue, 02 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7jKBEDT--XKBOSyqwKHzyAE9wo9U1o1yVZS10KqKm3xQ.jpg"/>
+      <title>Kommer: På innsiden av domstolen</title>
+      <description><![CDATA[Therese (27) og Silje (25) skal i retten for første gang. Kan de vinne over mektige motstandere og overbevise dommerne? Fra 16.april. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/82f783c6-a227-443b-ba39-7b5c82aec935_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/82f783c6-a227-443b-ba39-7b5c82aec935_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:33</itunes:duration>
+      <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1Sw38miO_bAdptCWWu1kZQdDrFRx54ePLhqJR30Qrfbg.jpg"/>
     </item>
   </channel>
 </rss>
