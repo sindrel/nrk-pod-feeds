@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 12:41:08 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Apr 2024 13:40:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2024 11:22:09 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Apr 2024 13:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Vidar Magnussen</title>
+      <description><![CDATA[I oppveksten slo skuespilleren seg flere ganger til blods for å utføre perfekt slapstick. Men selv ser han aldri på komedie: -  Jeg må se på de tristeste ting.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/fcf60926-1bea-4653-b2b1-c3fe6413d3c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/fcf60926-1bea-4653-b2b1-c3fe6413d3c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:30</itunes:duration>
+      <pubDate>Mon, 15 Apr 2024 13:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xw6Vcd4DjFFyo84yjkl0nQKSUda7TDowlCkgmEMImMEw.jpg"/>
+    </item>
     <item>
       <title>Sumeet Singh</title>
       <description><![CDATA[Han er mangfold -og inkluderingsdirektør i Schibsted og mannen bak turbandagen:
@@ -93,16 +102,6 @@
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Wed, 20 Mar 2024 12:52:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/w5N4owzVviPpXquNX98txgnm0RmFEWKmCkd5NXNn5OPA.jpg"/>
-    </item>
-    <item>
-      <title>Tabita Berglund</title>
-      <description><![CDATA[Dirigenten om livet og tilværelsen som gjestedirigent rundt i Europa:
--En blanding av eufori og ensomhet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/28ad6297-df39-4404-b578-2913ba7daa03_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/28ad6297-df39-4404-b578-2913ba7daa03_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:19</itunes:duration>
-      <pubDate>Tue, 19 Mar 2024 14:08:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AN17UmeasuhapkJxo15I6w1RlzsXS_HxltQlemZ9-UhA.jpg"/>
     </item>
   </channel>
 </rss>
