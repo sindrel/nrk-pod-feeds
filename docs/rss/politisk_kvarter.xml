@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 12 Apr 2024 06:29:08 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Apr 2024 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:52 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Apr 2024 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/HQOdXZJnFNWwrd9x8VTcIQ_p5LYdB-xxVAqwj4qrBaGg.jpg"/>
+    <item>
+      <title>Måtte ho gå?</title>
+      <description><![CDATA[Måtte Kjerkol gå, eller er ho offer for ei jakt på feilfrie politikarar?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ea816b80-70ae-426c-a0c4-7070e716000b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ea816b80-70ae-426c-a0c4-7070e716000b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Mon, 15 Apr 2024 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TqmQGNtOn39JZBpfxQJtCwoX4k_HXCSZTUHu_LsdGRAQ.jpg"/>
+    </item>
     <item>
       <title>Bråk om bondeinntekt </title>
       <description><![CDATA[Bøndene har blitt lovet kraftig inntektshopp av Senterpartiet og Arbeiderpartiet. Nå mener de regjeringen trikser med tall for å redusere regningen.]]></description>
@@ -97,15 +106,6 @@ Vi må samarbeide med USA uansett hvem som blir president, svarer Høyre.]]></de
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Tue, 02 Apr 2024 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/J_r087eVc8aNhQyVS36r9AG_rPh1FoY2pJ12IX_ir6jg.jpg"/>
-    </item>
-    <item>
-      <title>Kva om Noreg hadde Euro?</title>
-      <description><![CDATA[Krona er svak, Euroen dyr. Så kva om vi hadde Euro? Politisk kvarter inviterer til høgttenking. Spelt inn i opptak før påske.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/300572ff-8016-47bd-b6d8-1fbd9faa83b9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/300572ff-8016-47bd-b6d8-1fbd9faa83b9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:18</itunes:duration>
-      <pubDate>Wed, 27 Mar 2024 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iPfFjp-TpnfGmw_ZpTh7DAghuKmAESOXYtJ5WzgccrPw.jpg"/>
     </item>
   </channel>
 </rss>
