@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Historier fra virkeligheten</title>
+    <title>De 5 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 04:36:39 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Apr 2024 04:28:20 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Apr 2024 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
@@ -18,6 +18,42 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/82f783c6-a227-443b-ba39-7b5c82aec935_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:33</itunes:duration>
       <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1Sw38miO_bAdptCWWu1kZQdDrFRx54ePLhqJR30Qrfbg.jpg"/>
+    </item>
+    <item>
+      <title>Et spark på leggen – På innsiden av domstolen (1:4)</title>
+      <description><![CDATA[Bursdagsfeiringen på byen får en brå slutt. Nå risikerer Therese fengsel for vold mot politiet. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/b047bea9-41ba-47db-a1ce-04098faef1da_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/b047bea9-41ba-47db-a1ce-04098faef1da_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:12</itunes:duration>
+      <pubDate>Tue, 16 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1Sw38miO_bAdptCWWu1kZQdDrFRx54ePLhqJR30Qrfbg.jpg"/>
+    </item>
+    <item>
+      <title>Videobeviset – På innsiden av domstolen (2:4)</title>
+      <description><![CDATA[Therese kjemper for å bli trodd i retten. Politiet vitner mot henne og en video blir avgjørende.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/14ee3e77-3026-49d3-b463-415d84055368_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/14ee3e77-3026-49d3-b463-415d84055368_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:42</itunes:duration>
+      <pubDate>Tue, 16 Apr 2024 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1Sw38miO_bAdptCWWu1kZQdDrFRx54ePLhqJR30Qrfbg.jpg"/>
+    </item>
+    <item>
+      <title>Silje mot staten – På innsiden av domstolen (3:4)</title>
+      <description><![CDATA[Silje tar en stor sjanse når hun saksøker staten og Therese får endelig dommen.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/549a398a-e32b-402d-90cd-548d5e646ca5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/549a398a-e32b-402d-90cd-548d5e646ca5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:17</itunes:duration>
+      <pubDate>Tue, 16 Apr 2024 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1Sw38miO_bAdptCWWu1kZQdDrFRx54ePLhqJR30Qrfbg.jpg"/>
+    </item>
+    <item>
+      <title>Kan Silje vinne? – På innsiden av domstolen (4:4)</title>
+      <description><![CDATA[Staten har gode kort på hånda. Hvis Silje taper, risikerer hun en kjemperegning.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/1b66b11b-be3f-4bf4-994f-4bbd08c51e2b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/1b66b11b-be3f-4bf4-994f-4bbd08c51e2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:37</itunes:duration>
+      <pubDate>Tue, 16 Apr 2024 06:04:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1Sw38miO_bAdptCWWu1kZQdDrFRx54ePLhqJR30Qrfbg.jpg"/>
     </item>
   </channel>
