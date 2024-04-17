@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-04-17  
+- Added podcast 'Mias gym' (`mias_gym`)  
 ### 2024-04-12  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2024-04-06  
