@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 4 siste fra Mias gym</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Mias gym. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/mias_gym for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Thu, 18 Apr 2024 06:29:40 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/RMDi9eEMjTwYH4O1hDe-ZgduwTtcn00CDQp8uxLpDVRA.jpg"/>
+    <item>
+      <title>Morten Ramm: Best på alt? </title>
+      <description><![CDATA[Morten Ramm fikk skryt av lærerne sine for å være god, hans beste venn fikk en tommel i rumpa og fikk Morten 6'er i gym?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mias_gym/56db28a4-afe6-4771-a212-620f8d6ad39b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mias_gym/56db28a4-afe6-4771-a212-620f8d6ad39b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:32</itunes:duration>
+      <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2bf2jrUYedUqLFwLu2nKLAoX-zy6xwAwwLcQ5ZNWU_Ww.jpg"/>
+    </item>
+    <item>
+      <title>Olli Wermskog: Slo med flat hånd </title>
+      <description><![CDATA[Olli Wermskog forteller om da han var slo en motspiller på banen og kampen mellom sporten og teateret. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mias_gym/e1539ced-f4b7-483a-96a7-a5b472a30595_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mias_gym/e1539ced-f4b7-483a-96a7-a5b472a30595_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:17</itunes:duration>
+      <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9GKE2I4AG_0cpGVtilhLsAIpNWDJnQBYL0kRJmfUV03w.jpg"/>
+    </item>
+    <item>
+      <title>Tara Lina: Gym hos privatist</title>
+      <description><![CDATA[Tara Lina Shahin skulka så mye at hun måtte ta opp gym hos privatist, hun gråt under oppvarming og hadde en eks militær som gymlærer. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mias_gym/ceaafd76-15e2-4a41-b863-02e55d5c9d82_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mias_gym/ceaafd76-15e2-4a41-b863-02e55d5c9d82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:29</itunes:duration>
+      <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/e5C_YstESuAu60pTEa7ljwnRggRlbGyrjvOVIjj248yw.jpg"/>
+    </item>
+    <item>
+      <title>Martha Leivestad: Svette gjennom hodet</title>
+      <description><![CDATA[Martha Leivestad sleit på skolen, men var ingen skulker. Hun svetter igjennom hodet og fikk skryt av gymlærerne for å gi alt. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mias_gym/93eedfd5-9a31-4cb5-b939-73dfd3f6d837_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mias_gym/93eedfd5-9a31-4cb5-b939-73dfd3f6d837_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:21</itunes:duration>
+      <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OsIF-dMYSVgcZK0hSJSKRwAzF7lpdDaBUrTyKUQ40zkA.jpg"/>
+    </item>
+  </channel>
+</rss>
