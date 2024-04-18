@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 11:22:14 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Apr 2024 12:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Apr 2024 04:27:39 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    <item>
+      <title>#380 - Lene Mykjåland</title>
+      <description><![CDATA[Lene Mykjåland forteller om da hun klippet seg som Steffen Iversen, landslagsboikotten og om den eneste treneren som har innrømmet feil.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/ae8af6b1-80e5-4bdb-8bb7-43d5900e65ae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/ae8af6b1-80e5-4bdb-8bb7-43d5900e65ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:23:57</itunes:duration>
+      <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ybFmR2PjIWfRFeqX-LucGgT1fiv50DqJiDEkmAAZQagg.jpg"/>
+    </item>
     <item>
       <title>Snakkis: Vinnerkusen, Kingsley Coman og albue</title>
       <description><![CDATA[Endelig mandag! 
@@ -101,17 +111,6 @@ I panelet: Sven Bisgaard Sundet, Tete Lidbom og Markus Neby]]></description>
       <itunes:duration>01:59:18</itunes:duration>
       <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tQOWqAyBXf3M7QKowrocTwOYeITAP8bBy-_YZB2IfNjQ.jpg"/>
-    </item>
-    <item>
-      <title>Snakkis: UEFA-mafia, sixpence og MGPjr</title>
-      <description><![CDATA[Panelet snakker om Brann-boten, Jakobs oldboys-karriere med Markus og Martinus og Tete provoseres av uttrykket "right on the sixpence".
-
-I panelet: Sven Bisgaard Sundet, Tete Lidbom og Jakob Naustdal]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/d6c79e36-5807-4dbc-8cc5-f7a8a89254d6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d6c79e36-5807-4dbc-8cc5-f7a8a89254d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:17</itunes:duration>
-      <pubDate>Mon, 04 Mar 2024 13:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
     </item>
   </channel>
 </rss>
