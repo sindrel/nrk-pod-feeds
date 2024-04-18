@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 11:22:27 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Apr 2024 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Apr 2024 11:22:10 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Apr 2024 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Adelinas smertefulle opplevelse</title>
+      <description><![CDATA[Det er på tide å begrave "skjøte-diskusjonen" , en gang for alle! Adelina forteller også om en pinefull hendelse fra gårsdagen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8878af5a-2d10-488f-ab28-1ca8818c316a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8878af5a-2d10-488f-ab28-1ca8818c316a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:05</itunes:duration>
+      <pubDate>Thu, 18 Apr 2024 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Klappet en høne </title>
       <description><![CDATA[Hvor mange egg legger egentlig en høne? Det dykker Adelina, Johannes og Anna inn i. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>10:51</itunes:duration>
       <pubDate>Thu, 11 Apr 2024 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Verdens beste bergenser </title>
-      <description><![CDATA[Katelyn og Caroline fra "Cammo" er klare for sesong 2 av serien og kommer innom oss! Vi får også et fantastisk lydklipp fra videojournalist Daniel. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f566b117-f14d-428a-81b0-ec2b6141f110_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f566b117-f14d-428a-81b0-ec2b6141f110_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:28</itunes:duration>
-      <pubDate>Thu, 11 Apr 2024 14:49:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MYEfEha6cD44Y4TUOi8AJAkAQSovP1teN08LjouNe8Gw.jpg"/>
     </item>
   </channel>
 </rss>
