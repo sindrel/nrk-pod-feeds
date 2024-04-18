@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 18 Apr 2024 11:22:10 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Apr 2024 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Apr 2024 12:40:34 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Apr 2024 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe Attåt: Landet med det beste kjøkkenet</title>
+      <description><![CDATA[Tete og Daniel holder det gående i studio, sammen med hjelp fra Johannes, Kaja og praktikant Inga. Husk å stem på dagens avstemning!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cdb6806d-c4e9-4399-9ad3-f05630a13caf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cdb6806d-c4e9-4399-9ad3-f05630a13caf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:20</itunes:duration>
+      <pubDate>Thu, 18 Apr 2024 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>Adelinas smertefulle opplevelse</title>
       <description><![CDATA[Det er på tide å begrave "skjøte-diskusjonen" , en gang for alle! Adelina forteller også om en pinefull hendelse fra gårsdagen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:23</itunes:duration>
       <pubDate>Fri, 12 Apr 2024 12:25:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MBpubHSlwgJpfHmTSuGQWgYN95JlIJr_8KMICBfQFGWQ.jpg"/>
-    </item>
-    <item>
-      <title>Noe kjappåt: Konsertbillett-taktikk</title>
-      <description><![CDATA[Det går hurtig i dagens kjappåt, men vi rekker en kort snakkis om Girls, konsertbilletter og bildekkreportasje. Til stede: Tete, Adelina og Jenny]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bcf0d38b-a599-425d-aa64-434ace8236a7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bcf0d38b-a599-425d-aa64-434ace8236a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:51</itunes:duration>
-      <pubDate>Thu, 11 Apr 2024 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
