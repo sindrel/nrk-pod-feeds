@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-04-18  
+- Updated podcast 'Mias gym' (`mias_gym`)  
 ### 2024-04-17  
 - Added podcast 'Mias gym' (`mias_gym`)  
 ### 2024-04-12  
