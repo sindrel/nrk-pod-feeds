@@ -7,10 +7,24 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 04:36:10 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Apr 2024 12:40:37 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Apr 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Kan operasangere knuse glass med stemmen? </title>
+      <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud deg svar på alt du ikke visste du lurte på. 
+
+Dagens eksperter:
+Fysiker Anne Schad Bergsaker
+Kjemiker Einar Uggerud
+Biolog Glenn-Peter Sætre]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/dc996a5a-d356-4d93-9a21-8a6c492f8e36_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/dc996a5a-d356-4d93-9a21-8a6c492f8e36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Fri, 19 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H9i4yigKEk4CaUKTGqN1VA7ZxMCVRP9kngtYgHTuIo2g.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten - Ett skritt nærmere å få mammuter tilbake</title>
       <description><![CDATA[Torkild, Hanne og Annette deler små og store forskningsnyheter. 
@@ -148,21 +162,6 @@ Jeanett Hammer Andersen - professor i biomedisin ]]></description>
       <itunes:duration>01:10:43</itunes:duration>
       <pubDate>Fri, 29 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - Årets vinner av Abel-prisen er kåret...</title>
-      <description><![CDATA[Redaksjonen bringer deg nyheter fra vitenskapens verden:
-
-Forskerne vet nå hvorfor levende musikk påvirker oss så sterkt
-
-Michel Talagrand fikk årets Abel-pris for å ha gjort matematisk mulig å regne ut neste hundreårsbølge 
-
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0361d5d3-332c-4c06-8b91-43b722339c63_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0361d5d3-332c-4c06-8b91-43b722339c63_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:35</itunes:duration>
-      <pubDate>Mon, 25 Mar 2024 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZUVKef136ZZW4sfcYgJjUwPB1jnHxe0VPmfteYm1muMA.jpg"/>
     </item>
   </channel>
 </rss>
