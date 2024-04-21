@@ -1,4 +1,11 @@
 # Podcast Discovery Changelog  
+### 2024-04-21  
+- Updated podcast 'Dømt' (`doemt`)  
+- Updated podcast 'Labyrint om natten' (`labyrint_om_natten`)  
+- Podcast 'Mysterier fra Norge' is considered obsolete and will be ignored in the future (`mysterier_fra_norge`)  
+- Updated podcast 'Rød løype' (`roed_loeype`)  
+- Updated podcast 'Supertrøtt' (`supertroett`)  
+- Updated podcast 'Øyeblikket' (`yeblikket`)  
 ### 2024-04-18  
 - Updated podcast 'Mias gym' (`mias_gym`)  
 ### 2024-04-17  
