@@ -185,7 +185,7 @@ const feeds = [
     "id": "doemt",
     "title": "De 10 siste fra Dømt",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "drivkraft",
@@ -613,7 +613,7 @@ const feeds = [
     "id": "labyrint_om_natten",
     "title": "De 10 siste fra Labyrint om natten",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "labyrinthemmeligheter",
@@ -775,7 +775,9 @@ const feeds = [
     "id": "mysterier_fra_norge",
     "title": "De 10 siste fra Mysterier fra Norge",
     "season": null,
-    "enabled": true
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "natt_til_loerdag",
@@ -1021,7 +1023,7 @@ const feeds = [
     "id": "roed_loeype",
     "title": "De 10 siste fra Rød løype",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "roeverradion_i_nrk_p2",
@@ -1209,7 +1211,7 @@ const feeds = [
     "id": "supertroett",
     "title": "De 10 siste fra Supertrøtt",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "tazte_priv",
@@ -1421,6 +1423,6 @@ const feeds = [
     "id": "yeblikket",
     "title": "De 10 siste fra Øyeblikket",
     "season": null,
-    "enabled": true
+    "enabled": false
   }
 ]
