@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 13:25:29 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Apr 2024 15:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Apr 2024 12:42:58 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Apr 2024 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Alexander Read</title>
+      <description><![CDATA[Da han mistet jobben ble han hele Norges turpappa, kjent fra tv-serien «Mina og meg».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/9d89ec1f-bcf3-43bb-af64-589af3cd0a0a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/9d89ec1f-bcf3-43bb-af64-589af3cd0a0a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Mon, 22 Apr 2024 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1dauc2xPGyWpz0v8wJn4GgsRIsrkODPNGZLjGI4IY13Q.jpg"/>
+    </item>
     <item>
       <title>Astrid Smeplass</title>
       <description><![CDATA[Artisten tar ikke suksessen for gitt: – Frykten for å miste alt jeg har sitter fortsatt i.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>57:24</itunes:duration>
       <pubDate>Wed, 03 Apr 2024 11:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sAV0smBWOG1L0oKwZMuHKgGJHrkW1lzxbNITL1bttQew.jpg"/>
-    </item>
-    <item>
-      <title>Tuva Syvertsen</title>
-      <description><![CDATA[Musikeren blir livredd når hun skal gjøre nye ting, som å lede Spellemannprisen: - Frykt er som regel grunnen til at det blir bra, sier hun.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/567e68b8-aa18-4fea-acb5-2435724a95d2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/567e68b8-aa18-4fea-acb5-2435724a95d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:11</itunes:duration>
-      <pubDate>Tue, 02 Apr 2024 14:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pvYo4g9G6P8EDxVA4Y0ZZAz3fbFvcE5ICbboAqUg-0Jg.jpg"/>
     </item>
   </channel>
 </rss>
