@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 04:36:44 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Apr 2024 04:28:42 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Europa</title>
+      <description><![CDATA[Hvor lang er vi i Vesten villige til å gå for å forsvare verdiene våre? Og hvordan ser Europas fremtid ut? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/348de274-3b44-498d-82fe-a36f2b3fc402_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/348de274-3b44-498d-82fe-a36f2b3fc402_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:02</itunes:duration>
+      <pubDate>Mon, 22 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/d2Rv1iRmaMw9KIEz8YxTggGajeGQ-suoDa-U0h-3ue2A.jpg"/>
+    </item>
     <item>
       <title>Fattigdom</title>
       <description><![CDATA[Hvordan er det å være fattig i Norge? Er fattigdom vårt siste tabu? Med kunstner Nikolai Torgernsen og sosionom og forfatter Anna-Sabina Soggiu. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:04:16</itunes:duration>
       <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/u3C60JgDG4nUsFU3BqPdLAdm5HjYsxoL2zPuvoU5K9jQ.jpg"/>
-    </item>
-    <item>
-      <title>Syden spessial</title>
-      <description><![CDATA[Hvorfor og hvordan forelsket nordmenn seg i det mystiske landet Syden? Med sosialantropolog og forfatter Runar Døving og Gudveig Nyre, syden- og charterreise-veteran med nesten 30 års erfaring fra Star Tour. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/9ba13f2b-2334-4eac-a682-60835873a7b4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9ba13f2b-2334-4eac-a682-60835873a7b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:56</itunes:duration>
-      <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/77XD2XBhl9JYuesX5mb8cAberzNrYEGm-qEnUgGOOlXw.jpg"/>
     </item>
   </channel>
 </rss>
