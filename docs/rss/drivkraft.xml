@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 22 Apr 2024 12:42:58 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Apr 2024 14:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2024 13:24:54 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2024 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Øyvind Alsaker</title>
+      <description><![CDATA[- Jeg elsker fotball så inderlig, sier fotball-kommentatoren. Men når han kommenterer favorittlaget sitt er han "på jobb".
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1b1dd3e7-665e-49a8-858a-f8dd560af3a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1b1dd3e7-665e-49a8-858a-f8dd560af3a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Tue, 23 Apr 2024 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/67onJZ1v3SMz38K8uNhHmAYGqeksGQ7BKT683s_s2y_w.jpg"/>
+    </item>
     <item>
       <title>Alexander Read</title>
       <description><![CDATA[Da han mistet jobben ble han hele Norges turpappa, kjent fra tv-serien «Mina og meg».]]></description>
@@ -93,15 +103,6 @@
       <itunes:duration>56:53</itunes:duration>
       <pubDate>Thu, 04 Apr 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SxgUL89y0lGbji_xkk9WZw0tWTu5r57kyz9ja1f-X07w.jpg"/>
-    </item>
-    <item>
-      <title>Runa Sandvik</title>
-      <description><![CDATA[Da hun var 15 år hacket hun seg inn på venninnas datamaskin. Nå er hun en av verdens fremste eksperter på hacking og datasikkerhet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3bd264f6-aaba-4b5c-ade2-06127c38f1cc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3bd264f6-aaba-4b5c-ade2-06127c38f1cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:24</itunes:duration>
-      <pubDate>Wed, 03 Apr 2024 11:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sAV0smBWOG1L0oKwZMuHKgGJHrkW1lzxbNITL1bttQew.jpg"/>
     </item>
   </channel>
 </rss>
