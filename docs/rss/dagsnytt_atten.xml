@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 22 Apr 2024 18:26:49 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Apr 2024 19:25:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2024 17:27:59 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Politimann dømt for vold</title>
+      <description><![CDATA[En politimann dømmes i lagmannsretten til 120 dagers fengsel, for vold og maktmisbruk på Kongsberg. Mannen ble først frikjent i tingretten og anker nå til Høyesterett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/16e5f9bb-d709-4d29-9f35-9290aea50af5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/16e5f9bb-d709-4d29-9f35-9290aea50af5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 23 Apr 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rNROJWF_hpq2Guyi1J0wkgegrqjbgJD2jAEnv18594sQ.jpg"/>
+    </item>
     <item>
       <title>- Høyre beskylder Ap for brudd på arbeidslinjen</title>
       <description><![CDATA[Regjeringens politikk er i strid med arbeidslinjen, hevder nestleder Henrik Asheim.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 10 Apr 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zLGEDRa6oF8I2kQ-0L9iRgqspZAifKnchriKrSqnVmcg.jpg"/>
-    </item>
-    <item>
-      <title>Toppduell om skatt</title>
-      <description><![CDATA[Svekker regjeringen norsk eierskap og dermed verdiskapning gjennom formuesskatten, eller bruker de den for å fordele og minske forskjellene? Duell mellom finansministeren og Høyre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1f04a1d7-1bf0-41cf-a7ed-30aa49fc33b4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1f04a1d7-1bf0-41cf-a7ed-30aa49fc33b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Tue, 09 Apr 2024 19:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KDTgQF7SkNboa5ltmbwyYgFuepGl3ICAR190djPssk-A.jpg"/>
     </item>
   </channel>
 </rss>
