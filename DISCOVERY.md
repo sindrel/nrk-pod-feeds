@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-04-24  
+- Podcast 'Cold Front – Skyggekrigen' is considered obsolete and will be ignored in the future (`cold_front_skyggekrigen`)  
 ### 2024-04-21  
 - Updated podcast 'Dømt' (`doemt`)  
 - Updated podcast 'Labyrint om natten' (`labyrint_om_natten`)  
