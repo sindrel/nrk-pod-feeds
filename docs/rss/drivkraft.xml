@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 Apr 2024 13:24:54 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Apr 2024 14:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2024 12:48:26 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2024 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Mr. Pimp-Lotion</title>
+      <description><![CDATA[Thomas Thrap Huse har blitt kjent for sin ekstreme livsstil og mener det er sunt å tørrfaste: - Jeg anbefaler ingen å gjøre det, men jeg anbefaler det til meg selv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/389e263c-bb0e-4002-b43e-681087a42393_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/389e263c-bb0e-4002-b43e-681087a42393_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Wed, 24 Apr 2024 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/V3Ikr7yIR4IOeyTVm5yaZQJt0kf27JmL5p51hGKQCXCQ.jpg"/>
+    </item>
     <item>
       <title>Øyvind Alsaker</title>
       <description><![CDATA[- Jeg elsker fotball så inderlig, sier fotball-kommentatoren. Men når han kommenterer favorittlaget sitt er han "på jobb".
@@ -94,15 +103,6 @@
       <itunes:duration>57:21</itunes:duration>
       <pubDate>Mon, 08 Apr 2024 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VZ_eETRLnkR2drG3wbetrgt26e4_46GuJMYzrrdVNsgA.jpg"/>
-    </item>
-    <item>
-      <title>Gry Hammer</title>
-      <description><![CDATA[Podkasteren og bloggeren mener sivilisasjonen er "på bærtur", og at vi må koble oss mer på naturen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1ca8a25a-4a81-4e61-85a4-b905ccc62d55_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1ca8a25a-4a81-4e61-85a4-b905ccc62d55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:53</itunes:duration>
-      <pubDate>Thu, 04 Apr 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SxgUL89y0lGbji_xkk9WZw0tWTu5r57kyz9ja1f-X07w.jpg"/>
     </item>
   </channel>
 </rss>
