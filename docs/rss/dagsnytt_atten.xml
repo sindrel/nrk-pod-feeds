@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 25 Apr 2024 17:28:18 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Apr 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 17:27:51 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <item>
+      <title>Stupende søkertall</title>
+      <description><![CDATA[Utdanningsforbundet slår alarm om kraftig nedgang i søkertallene til lærerstudiene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/340f4e20-b715-4db8-b6f5-2fb4f2b46dbd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/340f4e20-b715-4db8-b6f5-2fb4f2b46dbd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 26 Apr 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/liUaDjOtCCo7caphicl2cQHMTNhJCZGlPWvIH1VYuCog.jpg"/>
+    </item>
     <item>
       <title>Studentopprør mot Israel</title>
       <description><![CDATA[Protestene mot krigen i Gaza sprer seg til flere universiteter i USA. Kan dette endre amerikansk politikk?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 15 Apr 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_-lIghWI5BeQDhmb_SEaxQQfGLD7rt36bko6embl289Q.jpg"/>
-    </item>
-    <item>
-      <title>Kjerkol måtte gå som helseminister idag</title>
-      <description><![CDATA[Ingvild Kjerkols dager som helseminister er talte, etter at hun ble tatt for juks på masteroppgaven.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/fa65e442-a434-45d9-b6c1-86704622d5a7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fa65e442-a434-45d9-b6c1-86704622d5a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 12 Apr 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cCLZ4R1sJzyYEJlEfy54AQ5h_9m6qvQqUtcCb2h86E_A.jpg"/>
     </item>
   </channel>
 </rss>
