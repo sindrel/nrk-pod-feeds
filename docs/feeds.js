@@ -181,7 +181,7 @@ const feeds = [
     "id": "dlla_ja_dalloj",
     "title": "De 10 siste fra Dálla ja dalloj",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "doemt",
