@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 Apr 2024 13:24:49 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Apr 2024 14:45:00 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Apr 2024 04:26:59 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Forfatterintervjuet Randi Fuglehaug</title>
+      <description><![CDATA[Randi Fuglehaug er klar med den tredje boken i "Vossatrilogien", «Skallebank». Men, blir dette vårt siste møte med hovedpersonen Agnes Tveit?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/d5cd0149-b07a-4a8b-b3a8-2267f21bc0a5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/d5cd0149-b07a-4a8b-b3a8-2267f21bc0a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:06</itunes:duration>
+      <pubDate>Sat, 27 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3DL9dPTIAFF59IrS0-YwsAPb0sQLtdKFhLfcuARr85iQ.jpg"/>
+    </item>
     <item>
       <title>Rushdie, Halvorsen og Langeland</title>
       <description><![CDATA[Vi anmelder «Superbruker» av Kjersti Halvorsen, «Kniv» av Salman Rushdie og «Makten og æren» av Henrik H. Langeland]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>55:05</itunes:duration>
       <pubDate>Sun, 17 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vYDve9kfY6E176NL-BeQmQl1CUOL-0JHKqmvX6IA30FA.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervju fra LitFest Bergen</title>
-      <description><![CDATA[Programleder Cille Biermann inviterer festival-forfatterne til samtale om de små og store spørsmålene. Hva skriver de om? Og hvorfor?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/19598236-8feb-48fe-8db4-69796bdafa9a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/19598236-8feb-48fe-8db4-69796bdafa9a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:05</itunes:duration>
-      <pubDate>Sun, 17 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PBeWkLeQJpdkCw9OmyiTMwCFm2akkDJ-gPOW-1ap9B_Q.jpg"/>
     </item>
   </channel>
 </rss>
