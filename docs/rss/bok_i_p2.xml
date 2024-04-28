@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 27 Apr 2024 04:26:59 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 28 Apr 2024 04:26:59 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Fanatisme, dop og magi</title>
+      <description><![CDATA[En skummel roman som kritiserer miljøbevegelsen, en bok for dem som mener virkeligheten har forbedringspotensial og en roman om fattigdom og rusmisbruk i USA.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/3112bfc2-44f4-4ac4-a3ec-af360890acd3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/3112bfc2-44f4-4ac4-a3ec-af360890acd3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Sun, 28 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mjJhUO_LCEtmTGbgvWdA8QV1zARUwf5aze7MaLmw9eIA.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet Randi Fuglehaug</title>
       <description><![CDATA[Randi Fuglehaug er klar med den tredje boken i "Vossatrilogien", «Skallebank». Men, blir dette vårt siste møte med hovedpersonen Agnes Tveit?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:04</itunes:duration>
       <pubDate>Sun, 24 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Z_VdALV3hq5KdFPFHhbQbgce7MIoCsqGyxyPU4Wy3osQ.jpg"/>
-    </item>
-    <item>
-      <title>Rasisme, tilhørighet og magisk realisme</title>
-      <description><![CDATA[En fortelling om hverdagsrasisme på 1950-tallet, en uferdig roman ­som burde ha fått hvile i fred, og en roman om forfedre og tilhørighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/289f9c3a-3220-4205-b3d0-505178c9ce3d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/289f9c3a-3220-4205-b3d0-505178c9ce3d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:05</itunes:duration>
-      <pubDate>Sun, 17 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vYDve9kfY6E176NL-BeQmQl1CUOL-0JHKqmvX6IA30FA.jpg"/>
     </item>
   </channel>
 </rss>
