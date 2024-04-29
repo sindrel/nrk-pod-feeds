@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 22 Apr 2024 04:28:22 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2024 04:28:29 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Fredrik Juell, prepping og rall</title>
+      <description><![CDATA[Fredrik stod ved roret på Berserk da stormen traff. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/a2fc43dc-9a69-4204-b90b-ef2440ad2bdd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a2fc43dc-9a69-4204-b90b-ef2440ad2bdd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:12</itunes:duration>
+      <pubDate>Mon, 29 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wrTa3w5NZP9BxNm8T1T8TgojTLTbliPczq0S3KNACpuw.jpg"/>
+    </item>
     <item>
       <title>Kan noen vekke Snorre Monsson?</title>
       <description><![CDATA[Kan man dø av skam? Eller svelge en hel kjærlighet på pinne med pinne? ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:29</itunes:duration>
       <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5smMXtSEJjHxIeU9pXF72AAinrIqBpbKpBt893FGK1qQ.jpg"/>
-    </item>
-    <item>
-      <title>Tete Lidbom og sommerfugleffekten</title>
-      <description><![CDATA[Tete døde en gang. På ordentlig. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/da8ceef4-1a21-47d2-a046-91e133812160_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/da8ceef4-1a21-47d2-a046-91e133812160_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:44</itunes:duration>
-      <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xcS-A1ztU2qSgvNHkdCLJwDPxYYi48ZG9hTxrVRh-rqg.jpg"/>
     </item>
   </channel>
 </rss>
