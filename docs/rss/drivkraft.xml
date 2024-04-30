@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 29 Apr 2024 13:25:28 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Apr 2024 14:55:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2024 13:23:12 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Apr 2024 14:44:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Bernt Hagtvet</title>
+      <description><![CDATA[Statsviteren er redd vi går søvngjengeraktig inn i en ny verdenskrig.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5c2450a8-ca33-401e-a084-a1ccc92ce637_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5c2450a8-ca33-401e-a084-a1ccc92ce637_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Tue, 30 Apr 2024 14:44:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mIgyd1BgKhomOI1ryLf7PwlmDqA6aIq5lt4hb9bDVFjQ.jpg"/>
+    </item>
     <item>
       <title>Gerd-Liv Valla</title>
       <description><![CDATA[— Det er ikke lov å jobbe i hagen 1. mai, sier den tidligere LO-lederen. ]]></description>
@@ -95,15 +105,6 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Thu, 11 Apr 2024 13:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XMyC9j7zAbyhMRb46-fOIAu72C_mXKS0qlx1lce_MbSg.jpg"/>
-    </item>
-    <item>
-      <title>Nico Widerberg</title>
-      <description><![CDATA[Billedhuggeren har truck på atelieret og ser på seg selv som en praktisk type]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/601f5930-3f7d-45f1-931d-3a18b9bccb97_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/601f5930-3f7d-45f1-931d-3a18b9bccb97_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:14</itunes:duration>
-      <pubDate>Wed, 10 Apr 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/c28bFytsygbNYFTzlStaSAplv5CFR1wmte42BNOJx5NA.jpg"/>
     </item>
   </channel>
 </rss>
