@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 25 Apr 2024 04:28:17 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2024 04:29:05 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Apr 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    <item>
+      <title>Ikke dra til Norge</title>
+      <description><![CDATA[Ernæringsbiologen Marit Kolby forklarer oss en gang for alle hva ultraprosessert mat egentlig er. Ellers: en død oter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/597a9c03-f786-4dc1-a75b-a98779ad9d10_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/597a9c03-f786-4dc1-a75b-a98779ad9d10_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:29</itunes:duration>
+      <pubDate>Tue, 30 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
     <item>
       <title>Ordspill eller folkemord - Hva er verst?</title>
       <description><![CDATA[Patricia Katee fra Amnesty forklarer litt om hva en samtykkelov vil innebære i Norge. Og begge guttas personvern krenkes på det groveste.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>28:37</itunes:duration>
       <pubDate>Tue, 26 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
-    </item>
-    <item>
-      <title>Lengre penis, fortsatt deppa</title>
-      <description><![CDATA[Hver tiende nordmann har operert utseende sitt, forteller psykologspesialist Silje Endresen Reme. Og hva er det Vedum babler om?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/7df3b456-5c86-4216-b2ff-f950c6283e35_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/poensj/7df3b456-5c86-4216-b2ff-f950c6283e35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:31</itunes:duration>
-      <pubDate>Thu, 21 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
     </item>
   </channel>
 </rss>
