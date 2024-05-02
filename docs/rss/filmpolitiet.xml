@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 24 Apr 2024 12:48:30 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Apr 2024 13:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 May 2024 12:43:01 +0000</lastBuildDate>
+    <pubDate>Thu, 02 May 2024 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>Star Wars: Episode I er 25 år!</title>
+      <description><![CDATA[Vi reiser til en galakse langt, langt borte for å feire 25-årsdagen til «Star Wars: Episode I – Den skjulte trussel».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/cf58cb07-28ed-4ee8-9508-2683ecd94bab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/cf58cb07-28ed-4ee8-9508-2683ecd94bab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:39</itunes:duration>
+      <pubDate>Thu, 02 May 2024 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    </item>
     <item>
       <title>Zendaya i elektrisk trekantdrama</title>
       <description><![CDATA[«Challengers», fra «Call Me By Your Name»-skaperen Luca Guadagnino, kombinerer sport og lidenskap på tilfredsstillende vis.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>39:34</itunes:duration>
       <pubDate>Thu, 22 Feb 2024 14:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
-    </item>
-    <item>
-      <title>«Madame Web» og Sonys «First Price-Marvel»</title>
-      <description><![CDATA[Sigurd og Marte diskuterer superheltfilmen «Madame Web», og hvordan det står til i Sonys Marvel-univers!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/3ebb2815-c7f8-458a-bb7c-89c3722f86eb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/3ebb2815-c7f8-458a-bb7c-89c3722f86eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:09</itunes:duration>
-      <pubDate>Thu, 15 Feb 2024 14:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ap4JgRpJQqNtCOzciA4feADnfSnoDzO09SxHEhEPuzZA.jpg"/>
     </item>
   </channel>
 </rss>
