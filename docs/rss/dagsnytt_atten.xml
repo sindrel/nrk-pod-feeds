@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 Apr 2024 17:25:39 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Apr 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 May 2024 17:27:23 +0000</lastBuildDate>
+    <pubDate>Thu, 02 May 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/yUFGUAeLwdu5MgY-ApA0IgQxEeKhQVolipNY3_p6g41Q.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Ny plan for barnevernet</title>
+      <description><![CDATA[Regjeringen vil bedre tilbudet på barnevernsinstitusjonene etter NRK-serie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3cc3bbe9-f092-43bd-9ddd-33bd2382eb0a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3cc3bbe9-f092-43bd-9ddd-33bd2382eb0a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 02 May 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dtIXT-hOKf09Drw-zMT4Fgp5fK1SdP94HQrLOTMGO2_Q.jpg"/>
+    </item>
     <item>
       <title>Oslopolitiet skjerper innsats</title>
       <description><![CDATA[Nå omdisponeres kreftene i hovedstaden for å få bukt med den økende kriminaliteten i byen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 18 Apr 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/w9AF5Me4dsPrLi3UX58LUQ0YiLBYIyQ5oOojkJdQ7pVA.jpg"/>
-    </item>
-    <item>
-      <title>Vil gjenåpne Nygaard-saken</title>
-      <description><![CDATA[Flere krever at politiet gjenåpner drapsforsøkssaken på forlagsdirektør William Nygaard, etter at saken ble henlagt på bevisets stilling forrige uke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8884552b-5066-4fb4-a750-83fa4cc5dfe7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8884552b-5066-4fb4-a750-83fa4cc5dfe7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Wed, 17 Apr 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KWEcZ787vF8OAlkIfU5pHQ2P22sL4XrPdV88aap8v_Xg.jpg"/>
     </item>
   </channel>
 </rss>
