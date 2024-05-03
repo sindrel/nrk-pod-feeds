@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 27 Apr 2024 11:22:23 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Apr 2024 12:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 03 May 2024 04:29:44 +0000</lastBuildDate>
+    <pubDate>Fri, 03 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Blir sjokolade en dyr luksus?</title>
+      <description><![CDATA[Kakaoprisen er firedoblet på ett år]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ebb83c11-23d2-4cb8-8d78-f29029ebe828_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ebb83c11-23d2-4cb8-8d78-f29029ebe828_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:13</itunes:duration>
+      <pubDate>Fri, 03 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9Ka2xsU7DNFNaINKocNKywZ4Eh5MxoLrvW9p2XCYsjqQ.jpg"/>
+    </item>
     <item>
       <title>Kan en teltleir i New York endre Israels politikk?</title>
       <description><![CDATA[Vil krigen på Gaza forandre USAs Israels politikk for all tid? ]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>57:35</itunes:duration>
       <pubDate>Sat, 30 Mar 2024 12:50:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6fZFOqxKAKsV_LfvOagK3A6JdNocQGhYrpr-YOzHFiWw.jpg"/>
-    </item>
-    <item>
-      <title>Den farlige flukten fra Nord-Korea</title>
-      <description><![CDATA[Ut av verdens mest lukkede land.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/629d21ac-dfe3-45e3-ac24-32911cc21011_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/629d21ac-dfe3-45e3-ac24-32911cc21011_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:18</itunes:duration>
-      <pubDate>Wed, 27 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fhpWkF5kLltrw84Q8yXS1gRD3TjGwQaa8xIGjcp-D6Mw.jpg"/>
     </item>
   </channel>
 </rss>
