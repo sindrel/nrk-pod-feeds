@@ -7,10 +7,25 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 May 2024 04:28:34 +0000</lastBuildDate>
-    <pubDate>Thu, 02 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 03 May 2024 11:21:47 +0000</lastBuildDate>
+    <pubDate>Fri, 03 May 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Hva er de ti sterkeste dyrene?  </title>
+      <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
+
+Dagens eksperter:
+Statistiker Solveig Engebretsen
+Forsker på dyrevelferd, Kristian Ellingsen
+Kjemiker Carl Henrik Gørbitz
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/8e996484-785a-4409-9186-928c2fc9815d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8e996484-785a-4409-9186-928c2fc9815d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:36</itunes:duration>
+      <pubDate>Fri, 03 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hOnOfFMGUjF7Q9pNQKzAzQuvoFNq-cwO71EhAVVozypA.jpg"/>
+    </item>
     <item>
       <title>Den store serien om KI (6:10) - Trekk 37</title>
       <description><![CDATA[Norges pokerelite møter KI til duell - hvem vinner?
@@ -138,20 +153,6 @@ Hvorfor varierer nøytroner fra stoff til stoff?]]></description>
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Fri, 12 Apr 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3zlRBnFiZ1TXX-gVvKOaewynF9guSEgxswMFYAwQE2NQ.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - Litt angst kan være bra å ha</title>
-      <description><![CDATA[Redaksjonen byr på et knippe nyheter fra vitenskapens verden.
-
-- Kunstig intelligens kan si hva som feiler deg bare basert på hosten din
-- Siden barneskolen har vi lært at ulike ladninger tiltrekker hverandre. Nå har forskere oppdaget at det ikke alltid er sånn 
-- Å ha angst er ikke bare en ulempe
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fd89aa55-29e8-4b3e-b952-79efd7608ba5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fd89aa55-29e8-4b3e-b952-79efd7608ba5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:15</itunes:duration>
-      <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BZ7FN6omVUz5XJKQdc4VDQwQYY7RewkG4svH09i4wtpQ.jpg"/>
     </item>
   </channel>
 </rss>
