@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 03 May 2024 04:29:44 +0000</lastBuildDate>
-    <pubDate>Fri, 03 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 04 May 2024 11:22:10 +0000</lastBuildDate>
+    <pubDate>Sat, 04 May 2024 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Friheten som er under press</title>
+      <description><![CDATA[Retten til abort blir styrket andre steder. Hvorfor er det motstand i USA?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/b5368884-c634-4ed5-9f41-96a1cf7060a3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/b5368884-c634-4ed5-9f41-96a1cf7060a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:27</itunes:duration>
+      <pubDate>Sat, 04 May 2024 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-Ga-9yrSZjDwSVEuYT7EgQK3IhcszytYKhcXmgCC0gUg.jpg"/>
+    </item>
     <item>
       <title>Blir sjokolade en dyr luksus?</title>
       <description><![CDATA[Kakaoprisen er firedoblet på ett år]]></description>
@@ -91,17 +100,6 @@
       <itunes:duration>13:10</itunes:duration>
       <pubDate>Fri, 05 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0Mj1Yu9edxtQrhB9wUPS7AnWUVdHLN27Kie5DMJFcsYw.jpg"/>
-    </item>
-    <item>
-      <title>Kirken som feirer påske 22. juni</title>
-      <description><![CDATA[Kirken til Maradona feirer påske 22. juni. Det var da Argentina slo England.
-
- ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/1a64d9f0-44ac-438e-95a5-e14fe53cd316_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/1a64d9f0-44ac-438e-95a5-e14fe53cd316_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:35</itunes:duration>
-      <pubDate>Sat, 30 Mar 2024 12:50:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6fZFOqxKAKsV_LfvOagK3A6JdNocQGhYrpr-YOzHFiWw.jpg"/>
     </item>
   </channel>
 </rss>
