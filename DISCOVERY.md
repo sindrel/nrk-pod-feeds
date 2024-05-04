@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-05-04  
+- Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 ### 2024-04-26  
 - Updated podcast 'Dálla ja dalloj' (`dlla_ja_dalloj`)  
 ### 2024-04-24  
