@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 28 Apr 2024 04:26:59 +0000</lastBuildDate>
-    <pubDate>Sun, 28 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 04 May 2024 04:29:33 +0000</lastBuildDate>
+    <pubDate>Sat, 04 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Forfatterintervjuet med Kjell Westö </title>
+      <description><![CDATA["Vi blir forelsket i hverandre, selv når det er krig", sier Kjell Westö om sin krigsroman «Skumring 1941».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/56f019bb-3290-40f4-926a-973fe2f2f40e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/56f019bb-3290-40f4-926a-973fe2f2f40e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:35</itunes:duration>
+      <pubDate>Sat, 04 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A7UZ-uifxvBPQX6pOGHiow0toOIRXwKzeKRvB-s6fkeg.jpg"/>
+    </item>
     <item>
       <title>Fanatisme, dop og magi</title>
       <description><![CDATA[En skummel roman som kritiserer miljøbevegelsen, en bok for dem som mener virkeligheten har forbedringspotensial og en roman om fattigdom og rusmisbruk i USA.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:59</itunes:duration>
       <pubDate>Sun, 24 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9YiM010L-vf7c0laQWdFtA_DHNM8EwT_vZQsk0SONQXA.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervju med Mikael Niemi</title>
-      <description><![CDATA[Den svenske forfatteren Mikael Niemi er på en evig oppdagelses reise: "Når den slutter, slutter jeg å skrive". Han er nå ute med boka «Stein i silke».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/9bc0ea8c-6225-44f5-9e6c-091df2d5e785_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/9bc0ea8c-6225-44f5-9e6c-091df2d5e785_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:04</itunes:duration>
-      <pubDate>Sun, 24 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Z_VdALV3hq5KdFPFHhbQbgce7MIoCsqGyxyPU4Wy3osQ.jpg"/>
     </item>
   </channel>
 </rss>
