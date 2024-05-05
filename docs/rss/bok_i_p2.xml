@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 04 May 2024 04:29:33 +0000</lastBuildDate>
-    <pubDate>Sat, 04 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 05 May 2024 04:30:10 +0000</lastBuildDate>
+    <pubDate>Sun, 05 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Westö, Nordenhof, Keegan</title>
+      <description><![CDATA[Nydelige historier om kvinner og menn, en historie om den kalde krigen og en historie om kjærlighet og kapitalisme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/5c303046-2e3b-4d66-a684-361da6d21ebb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/5c303046-2e3b-4d66-a684-361da6d21ebb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sun, 05 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p0D_K_1K1jwcUpzpih_TygTEbCrY6GliMa44_T3je4Og.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Kjell Westö </title>
       <description><![CDATA["Vi blir forelsket i hverandre, selv når det er krig", sier Kjell Westö om sin krigsroman «Skumring 1941».]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Sat, 06 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PBeWkLeQJpdkCw9OmyiTMwCFm2akkDJ-gPOW-1ap9B_Q.jpg"/>
-    </item>
-    <item>
-      <title>Kritikernes krimspesial</title>
-      <description><![CDATA[Hva bør du lese i påsken? Kritikerne kommer med de beste krimtipsene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/4ddf047d-fa35-4883-b0d7-9f68815b3e0f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/4ddf047d-fa35-4883-b0d7-9f68815b3e0f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:59</itunes:duration>
-      <pubDate>Sun, 24 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9YiM010L-vf7c0laQWdFtA_DHNM8EwT_vZQsk0SONQXA.jpg"/>
     </item>
   </channel>
 </rss>

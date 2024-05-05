@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 28 Apr 2024 04:27:19 +0000</lastBuildDate>
-    <pubDate>Sun, 28 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 05 May 2024 04:30:46 +0000</lastBuildDate>
+    <pubDate>Sun, 05 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Høydepunkter!</title>
+      <description><![CDATA[Tinderdates, kjendishistorier og parodier: her får du det beste fra søndagsbrunsj med Else!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/b9b3782c-4538-4496-9220-852408e0f8a8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/b9b3782c-4538-4496-9220-852408e0f8a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:54</itunes:duration>
+      <pubDate>Sun, 05 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/36ajY7sAYiWt3No5mr8ZIglvcMVlhysxGC0fedYEXp9g.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Catrin og Steinar Sagen</title>
       <description><![CDATA[Nygifte Else får forholdstips fra Norges (muligens) mest koselige og kranglete par, Catrin og Steinar Sagen! Fra tjobingregel til puppeklyping, her får du alt du trenger for å lykkes i et parforhold.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>41:49</itunes:duration>
       <pubDate>Sun, 03 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6gT29J20BKFahWNAAHVtmQyvivuMhvoDtiqoD66Ran4w.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: David Eriksen</title>
-      <description><![CDATA[Manager og TV-stjerne David Eriksen åpner opp om den tunge tida, gir oss sine beste tips for å bli kjendis og forteller om sin nye samboer når Else komnmer på besøk!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/fd3431e7-e0bb-4f3d-96aa-13ade2b09c33_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/fd3431e7-e0bb-4f3d-96aa-13ade2b09c33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:06</itunes:duration>
-      <pubDate>Sun, 25 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iXMkr52U_J1FeHYSOPEEvg_lUTugexxVDbLV2k100DrQ.jpg"/>
     </item>
   </channel>
 </rss>
