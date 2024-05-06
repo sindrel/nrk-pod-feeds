@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 29 Apr 2024 04:28:29 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Apr 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 06 May 2024 04:29:19 +0000</lastBuildDate>
+    <pubDate>Mon, 06 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Touché, Thomas "Fingern" Gullestad </title>
+      <description><![CDATA[Kan man dø av brukket ankel på microrampen? Ja, nesten faktisk. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/804a0f6d-da64-49b4-a0e9-1b78148026c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/804a0f6d-da64-49b4-a0e9-1b78148026c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:27</itunes:duration>
+      <pubDate>Mon, 06 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhOjlkX9Fw6h0aiGbK0sUQfh_eXOGG8oVI62H4sI1k8g.jpg"/>
+    </item>
     <item>
       <title>Fredrik Juell, prepping og rall</title>
       <description><![CDATA[Fredrik stod ved roret på Berserk da stormen traff. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>48:34</itunes:duration>
       <pubDate>Mon, 04 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/1xbTfzhb3kbdlpsy-xUDwQ1lRayUaNAYFJ-yOnAh82bA.jpg"/>
-    </item>
-    <item>
-      <title>Det er ingen lik på do, Silje Nordnes </title>
-      <description><![CDATA[Silje har nok katastrofetanker, men døden er hun ikke redd for. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/1a91c61e-5a2c-4ac3-9fc0-2a521584431b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/1a91c61e-5a2c-4ac3-9fc0-2a521584431b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:29</itunes:duration>
-      <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5smMXtSEJjHxIeU9pXF72AAinrIqBpbKpBt893FGK1qQ.jpg"/>
     </item>
   </channel>
 </rss>

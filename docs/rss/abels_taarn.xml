@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 03 May 2024 11:21:47 +0000</lastBuildDate>
-    <pubDate>Fri, 03 May 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 06 May 2024 04:29:07 +0000</lastBuildDate>
+    <pubDate>Mon, 06 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Fisk kan være (selv)bevisst</title>
+      <description><![CDATA[Torkild og Kristina deler små og store forskningsnyheter. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3cf71dd6-222c-4ac0-9568-0dc74947a80c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3cf71dd6-222c-4ac0-9568-0dc74947a80c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:52</itunes:duration>
+      <pubDate>Mon, 06 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TTa1nCRh3yPMbR34tEp4FgT7vkt1c2mKMDAv6jlEksyw.jpg"/>
+    </item>
     <item>
       <title>Hva er de ti sterkeste dyrene?  </title>
       <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på. 
@@ -27,9 +36,10 @@ Kjemiker Carl Henrik Gørbitz
       <itunes:image href="https://gfx.nrk.no/hOnOfFMGUjF7Q9pNQKzAzQuvoFNq-cwO71EhAVVozypA.jpg"/>
     </item>
     <item>
-      <title>Den store serien om KI (6:10) - Trekk 37</title>
-      <description><![CDATA[Norges pokerelite møter KI til duell - hvem vinner?
-Kunstig intelligens og spill. Kan KI bløffe?]]></description>
+      <title>Den store serien om KI (6:10) - Kan KI gjøre deg til verdens beste pokerspiller?</title>
+      <description><![CDATA[Spill, bløff, Alpha Zero og det magiske «Trekk 37».
+Vi utfordret Norges pokerelite til  duell. Menneske mot maskin. Ekte penger i potten.
+Vi spør også om maskinene kan lære oss noe nytt om verden, og om hvordan man driver hjernekirurgi på en KI.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/b7bfc2c6-0852-46af-841a-53d0bada30ef_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b7bfc2c6-0852-46af-841a-53d0bada30ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:06:26</itunes:duration>
@@ -126,33 +136,6 @@ Biolog Glenn-Peter Sætre]]></description>
       <itunes:duration>29:38</itunes:duration>
       <pubDate>Sat, 13 Apr 2024 07:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan ville jorda vært uten mennesker?</title>
-      <description><![CDATA[Et strålende panel i Mandal svarer på spørsmål om evolusjon, batterier og lengden på skistaver.
-
-Hvordan ville jorda vært uten mennesker?
-
-Hvor langt kan man kjøre med en elbil på solceller?
-
-Vil solstrømanlegg funke om strømnettet faller ut?
-
-Kan en legmann forstå kunstig intelligens?
-
-Hva skjedde med havlevende pattedyr?
-
-Hva er på innsiden av et batteri?
-
-Hvorfor begrensningen på skistavlengden i Vasaloppet?
-
-Hvorfor forholder alt som lever seg til størrelse?
-
-Hvorfor varierer nøytroner fra stoff til stoff?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/91e80eb0-f50d-4cb6-82fa-032b077ed9fd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/91e80eb0-f50d-4cb6-82fa-032b077ed9fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Fri, 12 Apr 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3zlRBnFiZ1TXX-gVvKOaewynF9guSEgxswMFYAwQE2NQ.jpg"/>
     </item>
   </channel>
 </rss>
