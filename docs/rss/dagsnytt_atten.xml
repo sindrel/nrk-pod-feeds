@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 06 May 2024 18:30:52 +0000</lastBuildDate>
-    <pubDate>Mon, 06 May 2024 19:25:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 May 2024 17:26:32 +0000</lastBuildDate>
+    <pubDate>Tue, 07 May 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Norge i Putins innsettelse</title>
+      <description><![CDATA[Norge sendte sin ambassadør til å delta da Russlands president Vladimir Putin i dag ble innsatt i sin femte periode.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/68d95c81-d392-4bdd-be26-5914f03b7d23_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/68d95c81-d392-4bdd-be26-5914f03b7d23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 07 May 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qhNZQpT-X4lrNSiRArqyQgjmIA3KCTg2kLp6qDfd5w0Q.jpg"/>
+    </item>
     <item>
       <title>Hamas hevder Israel angriper Rafah</title>
       <description><![CDATA[Hamas hevder Israel angriper evakuert område Rafah. 100 000  er bedt om å evakuere før en mulig storoffensiv.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 23 Apr 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rNROJWF_hpq2Guyi1J0wkgegrqjbgJD2jAEnv18594sQ.jpg"/>
-    </item>
-    <item>
-      <title>- Høyre beskylder Ap for brudd på arbeidslinjen</title>
-      <description><![CDATA[Regjeringens politikk er i strid med arbeidslinjen, hevder nestleder Henrik Asheim.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/262150b8-5f97-4637-957f-7cc66e14e8f5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/262150b8-5f97-4637-957f-7cc66e14e8f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:56</itunes:duration>
-      <pubDate>Mon, 22 Apr 2024 19:25:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pAPQvN5sx3YvPjx70_Qu4Ar2h_aH53wXImHdppQFEWkA.jpg"/>
     </item>
   </channel>
 </rss>
