@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-05-07  
+- Podcast 'Vikinger' is considered obsolete and will be ignored in the future (`vikinger`)  
 ### 2024-05-04  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 ### 2024-04-26  
