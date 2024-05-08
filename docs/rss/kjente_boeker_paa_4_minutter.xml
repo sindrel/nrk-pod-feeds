@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 01 May 2024 08:32:15 +0000</lastBuildDate>
-    <pubDate>Wed, 01 May 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 May 2024 08:25:48 +0000</lastBuildDate>
+    <pubDate>Wed, 08 May 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Beatles" av Lars Saabye Christensen</title>
+      <description><![CDATA[Hvor er det blitt av alle gutta?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/44f874c5-1d28-4a2f-9c01-7fba6ced6f04_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/44f874c5-1d28-4a2f-9c01-7fba6ced6f04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:18</itunes:duration>
+      <pubDate>Wed, 08 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Line" av Axel Jensen</title>
       <description><![CDATA[Jente og en ganske problematisk matador. ]]></description>
@@ -90,16 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/03b90a60-0dab-4e3a-84b5-79d6771ef8ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:47</itunes:duration>
       <pubDate>Wed, 28 Feb 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title> "Soga om Gunnlaug Ormstunge" </title>
-      <description><![CDATA[Islendinge-soga som du leste på videregående skole, men som du har fortrengt.
-Sagaen skildrer en romantisk konflikt mellom skalden Gunnlaug Ormstunge, hans rival Ravn Ånundsson og Helga Torsteinsdatter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/27c4d5d6-2000-48e3-8544-036a5666e095_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/27c4d5d6-2000-48e3-8544-036a5666e095_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:49</itunes:duration>
-      <pubDate>Wed, 21 Feb 2024 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
