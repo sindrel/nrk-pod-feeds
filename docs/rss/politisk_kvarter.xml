@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 07 May 2024 06:31:30 +0000</lastBuildDate>
-    <pubDate>Tue, 07 May 2024 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 May 2024 06:26:54 +0000</lastBuildDate>
+    <pubDate>Wed, 08 May 2024 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/HQOdXZJnFNWwrd9x8VTcIQ_p5LYdB-xxVAqwj4qrBaGg.jpg"/>
+    <item>
+      <title>Flyktningomkamp i Drammen</title>
+      <description><![CDATA[Drammen ville berre ha ukrainarar, men tek imot flyktningar likevel. Då blir det null flyktningar neste år, seier Frp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/55f67f90-9309-4c32-bc66-cae42016aebb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/55f67f90-9309-4c32-bc66-cae42016aebb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Wed, 08 May 2024 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EQDY_9DMErouYNOzl4J38QVrDeMbtNV33bwyubMcM42Q.jpg"/>
+    </item>
     <item>
       <title>Høyre vil skrote exitskatten </title>
       <description><![CDATA[Regjeringens nye exitskatt skremmer bort både utlendinger og gründere, mener Høyre. 
@@ -100,16 +109,6 @@ Og kan vi stole på USA?]]></description>
       <itunes:duration>15:33</itunes:duration>
       <pubDate>Wed, 24 Apr 2024 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pX9TbzH8vO0e-87CBAVLBA9W1F3tVTjuiXb57CFDqIrQ.jpg"/>
-    </item>
-    <item>
-      <title>Krig mot kryptovaluta</title>
-      <description><![CDATA[Regjeringa vil stoppe krypto-utvinning i Noreg, men SV meiner reglane er for svake. 
-Og seier det noko om helseministerens prosjekt at firmaet hans brukte privat helseforsikring?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/aac868c8-a5e4-4616-999c-48ebc3f18ce6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/aac868c8-a5e4-4616-999c-48ebc3f18ce6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:31</itunes:duration>
-      <pubDate>Tue, 23 Apr 2024 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/A3k9lh9h6oS_bZih49Tv7QkM9NpHJYY6fG7BXvOjldvA.jpg"/>
     </item>
   </channel>
 </rss>
