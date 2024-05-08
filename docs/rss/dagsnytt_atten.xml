@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 07 May 2024 17:26:32 +0000</lastBuildDate>
-    <pubDate>Tue, 07 May 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 May 2024 18:29:54 +0000</lastBuildDate>
+    <pubDate>Wed, 08 May 2024 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Mindre surrogati</title>
+      <description><![CDATA[Flere partier vil gjøre det vanskeligere for nordmenn å kjøpe surrogatihjelp i utlandet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/77d02a0f-8a85-46e3-9689-de41d20ae7c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/77d02a0f-8a85-46e3-9689-de41d20ae7c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 08 May 2024 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CrJPMHMkIebis7G2dxFMyA2DvvjudPPZLRS8F0QwW3rA.jpg"/>
+    </item>
     <item>
       <title>Norge i Putins innsettelse</title>
       <description><![CDATA[Norge sendte sin ambassadør til å delta da Russlands president Vladimir Putin i dag ble innsatt i sin femte periode.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Wed, 24 Apr 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/91EknNQf4f-bSZyaWGnBDQcW9Wy77zf2_j7Iu4eiPnMA.jpg"/>
-    </item>
-    <item>
-      <title>Politimann dømt for vold</title>
-      <description><![CDATA[En politimann dømmes i lagmannsretten til 120 dagers fengsel, for vold og maktmisbruk på Kongsberg. Mannen ble først frikjent i tingretten og anker nå til Høyesterett.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/16e5f9bb-d709-4d29-9f35-9290aea50af5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/16e5f9bb-d709-4d29-9f35-9290aea50af5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 23 Apr 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rNROJWF_hpq2Guyi1J0wkgegrqjbgJD2jAEnv18594sQ.jpg"/>
     </item>
   </channel>
 </rss>
