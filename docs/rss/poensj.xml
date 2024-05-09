@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 07 May 2024 04:29:43 +0000</lastBuildDate>
-    <pubDate>Tue, 07 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 May 2024 04:31:45 +0000</lastBuildDate>
+    <pubDate>Thu, 09 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    <item>
+      <title>I krig er ingen gode eller onde</title>
+      <description><![CDATA[Konflikt- og folkerettsforsker Cecilie Hellestveit forteller om da hun smuglet ut videobevis fra Sovjet. Ellers: Henning Bang er creepy.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/17cca3e9-3ab1-44f3-82e9-60e1e95b41ab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/17cca3e9-3ab1-44f3-82e9-60e1e95b41ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:14</itunes:duration>
+      <pubDate>Thu, 09 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
     <item>
       <title>Den ultimate henrettelsen</title>
       <description><![CDATA[Søvnforsker Elisabeth Flo-Groeneboom svarer på det vi lurer på om søvn. Og dagens «Punch eller Punsj» handler IKKE om Frank Løke.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>28:50</itunes:duration>
       <pubDate>Tue, 09 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
-    </item>
-    <item>
-      <title>– Staten har ikke kontroll!</title>
-      <description><![CDATA[Hennings drøm om å bli k-sjef settes på prøve, mens Omar Svendsen-Yagci fra Unge Venstre forklarer hvorfor han vil legalisere cannabis.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/bddfab3e-48b5-4b25-b9ef-e33bb31219b6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/poensj/bddfab3e-48b5-4b25-b9ef-e33bb31219b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:11</itunes:duration>
-      <pubDate>Thu, 04 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
     </item>
   </channel>
 </rss>

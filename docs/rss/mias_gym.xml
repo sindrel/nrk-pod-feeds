@@ -1,16 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Mias gym</title>
+    <title>De 10 siste fra Mias gym</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Mias gym. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/mias_gym for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Mias gym. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/mias_gym for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 May 2024 04:28:53 +0000</lastBuildDate>
-    <pubDate>Thu, 02 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 May 2024 04:31:35 +0000</lastBuildDate>
+    <pubDate>Thu, 09 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/RMDi9eEMjTwYH4O1hDe-ZgduwTtcn00CDQp8uxLpDVRA.jpg"/>
+    <item>
+      <title>Henrik Fladseth: Juks i spurten </title>
+      <description><![CDATA[Komiker Henrik Fladseth mimrer tilbake hjørnefotball og løpetester. Han kunne vært et løpetalent om ikke han brakk beinet og jukset skikkelig på en løpetest. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mias_gym/3ac2c41d-c98f-498e-a07c-1b6c109ff29b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mias_gym/3ac2c41d-c98f-498e-a07c-1b6c109ff29b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:53</itunes:duration>
+      <pubDate>Thu, 09 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1vGwPxDq8_z_LXbq5z6VPw4AZzM81jlFXXfRL10W_fGg.jpg"/>
+    </item>
+    <item>
+      <title>Jon Almaas: Kroppsøving for sjelen </title>
+      <description><![CDATA[Programleder Jon Almaas har gått store deler av skolegangen på steinerskolen. Der spilte de fotball med tennisball og gjennomførte eurytmi. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mias_gym/a5995020-1ebc-4a1c-b3b1-8e60366213b8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mias_gym/a5995020-1ebc-4a1c-b3b1-8e60366213b8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:28</itunes:duration>
+      <pubDate>Thu, 09 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nQE3y9uiGphQVFP6oSOqIwsR1HvG3GlOO25WntD1HcAQ.jpg"/>
+    </item>
     <item>
       <title>Gaute Berg Næss: Gym uten friksjon?</title>
       <description><![CDATA[Gaute Berg Næss har hatt gym uten friksjon. Han likte lærerne sine, å spille golf og ikke minst å skli over gulvet på rumpa i garderoben. ]]></description>
