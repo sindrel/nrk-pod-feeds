@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 10 May 2024 08:28:31 +0000</lastBuildDate>
-    <pubDate>Fri, 10 May 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 May 2024 12:42:12 +0000</lastBuildDate>
+    <pubDate>Fri, 10 May 2024 13:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Den store serien om KI (X:10) Bonusepisode</title>
+      <description><![CDATA["Hvis KI tar det siste skrittet nå, er vi ferdige", sier matematiker Helge Holden om sin egen profesjon. Og sjakken? Den er allerede ferdig. ++ Bonusbonus: Bing & Bringsværd]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/8eb66160-ac3a-4d9a-989f-c5b545616150_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8eb66160-ac3a-4d9a-989f-c5b545616150_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:15</itunes:duration>
+      <pubDate>Fri, 10 May 2024 13:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TH0-KFpBVntS8Z9mUCbM8Qvf2BNpT2mI_Dmrb-ikATEw.jpg"/>
+    </item>
     <item>
       <title>Hvordan holde russebassen ute?</title>
       <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
@@ -130,19 +139,6 @@ Biolog Glenn-Peter Sætre]]></description>
       <itunes:duration>57:34</itunes:duration>
       <pubDate>Fri, 19 Apr 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/H9i4yigKEk4CaUKTGqN1VA7ZxMCVRP9kngtYgHTuIo2g.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - Ett skritt nærmere å få mammuter tilbake</title>
-      <description><![CDATA[Torkild, Hanne og Annette deler små og store forskningsnyheter. 
-
-- Tiktok-trend stemmer. Baklengsgange ER bra for deg.  
-- Universet utvider seg mer ujevnt enn vi trodde                                                     
-- Et skritt nærmere å få mammuter tilbake                                                                               ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/08e22744-a2a4-4ceb-9ef4-4a8b29b3139f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/08e22744-a2a4-4ceb-9ef4-4a8b29b3139f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:47</itunes:duration>
-      <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KzHB7i7VzFaDwV6QuzUoIgSbngECH5uYLIiMYofFSIAQ.jpg"/>
     </item>
   </channel>
 </rss>
