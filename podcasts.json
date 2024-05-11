@@ -395,7 +395,7 @@
         "id": "hele_historien",
         "title": "De 10 siste fra Hele historien",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "historiske_kjendiser",
@@ -421,7 +421,7 @@
         "id": "hvordan_moettes_dere_",
         "title": "De 10 siste fra Hvordan møttes dere? ",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "i_det_lange_loep",

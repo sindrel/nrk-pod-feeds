@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-05-11  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+- Updated podcast 'Hvordan møttes dere? ' (`hvordan_moettes_dere_`)  
 ### 2024-05-07  
 - Podcast 'Vikinger' is considered obsolete and will be ignored in the future (`vikinger`)  
 ### 2024-05-04  
