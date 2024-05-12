@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 05 May 2024 04:30:10 +0000</lastBuildDate>
-    <pubDate>Sun, 05 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 12 May 2024 04:28:48 +0000</lastBuildDate>
+    <pubDate>Sun, 12 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Mesna, Rishøi og Houm</title>
+      <description><![CDATA[To romaner fra klasserommet og en diktbok for voksene og barn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/24f42654-3d86-42e1-aa5c-37cf0fd57c6a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/24f42654-3d86-42e1-aa5c-37cf0fd57c6a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:36</itunes:duration>
+      <pubDate>Sun, 12 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T_Y-TE47x7zb6Xz2fx8l-wzzkhN0aBwnJyzVqYQKuIYg.jpg"/>
+    </item>
     <item>
       <title>Westö, Nordenhof, Keegan</title>
       <description><![CDATA[Nydelige historier om kvinner og menn, en historie om den kalde krigen og en historie om kjærlighet og kapitalisme.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Sun, 07 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0Cdy9pd0sq5Az_M5i7ZPywcO_0_2JTA6YvVEPWE2-B_A.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Alexander K. Krag</title>
-      <description><![CDATA["Sorg blir fort veldig praktisk" Alexander Kielland Krag utforsker sorg etter selvmord i sin nye roman «Aldri bedre». Jasdeep Singh Kalirai er dagens lesetipser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/96a6aa8d-da54-40d3-88c5-6a6f2cc41168_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/96a6aa8d-da54-40d3-88c5-6a6f2cc41168_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:01</itunes:duration>
-      <pubDate>Sat, 06 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PBeWkLeQJpdkCw9OmyiTMwCFm2akkDJ-gPOW-1ap9B_Q.jpg"/>
     </item>
   </channel>
 </rss>
