@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 06 May 2024 04:29:19 +0000</lastBuildDate>
-    <pubDate>Mon, 06 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 May 2024 04:29:54 +0000</lastBuildDate>
+    <pubDate>Mon, 13 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Abubakar Hussains selvdestruktivitet</title>
+      <description><![CDATA[Abu gikk fra dyp depresjon til gladere dager med hjelp fra gode venner. Og en psykolog. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/d75ba130-6123-4215-937e-7abd7d73c132_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d75ba130-6123-4215-937e-7abd7d73c132_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:13</itunes:duration>
+      <pubDate>Mon, 13 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gn4P6U7YKnFNNOvgWxyNBwc02ZOL327gJClWewcyzr_A.jpg"/>
+    </item>
     <item>
       <title>Touché, Thomas "Fingern" Gullestad </title>
       <description><![CDATA[Kan man dø av brukket ankel på microrampen? Ja, nesten faktisk. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:46</itunes:duration>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mrAXCva1AfBl0v9xraDWgQ8nvB4tlsQV2Q-4OZyj-jJw.jpg"/>
-    </item>
-    <item>
-      <title>Ikke få panikk, Jonas Benyoub! </title>
-      <description><![CDATA[Jonas var sikker på at han skulle dø under musikkvideoinnspilling i skogen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7d8d6d49-45cb-4585-ac10-62d088fa682c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7d8d6d49-45cb-4585-ac10-62d088fa682c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:34</itunes:duration>
-      <pubDate>Mon, 04 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1xbTfzhb3kbdlpsy-xUDwQ1lRayUaNAYFJ-yOnAh82bA.jpg"/>
     </item>
   </channel>
 </rss>
