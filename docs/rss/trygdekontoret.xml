@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 06 May 2024 04:29:33 +0000</lastBuildDate>
-    <pubDate>Mon, 06 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 May 2024 10:30:15 +0000</lastBuildDate>
+    <pubDate>Mon, 13 May 2024 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Barndom og sosiale medier</title>
+      <description><![CDATA[Hva skjer med barndommen når man alltid er på sosiale medier? Med forfatter og sosiolog Willy Pedersen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/a0f4483c-fbd4-493e-9a05-6fc109fd3037_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a0f4483c-fbd4-493e-9a05-6fc109fd3037_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:58</itunes:duration>
+      <pubDate>Mon, 13 May 2024 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_daFxU00aqutq8wvuIV1YwG7e6OjUMS2Xi_YroE19RwQ.jpg"/>
+    </item>
     <item>
       <title>Kjernekraft</title>
       <description><![CDATA[Hvorfor har ikke Norge kjernekraftverk? Hvor farlig er stråling? Og hva var det egentlig som skjedde under Tsjernobyl-katastrofen? Med kjernefysiker Sunniva Rose. ]]></description>
@@ -92,15 +101,6 @@ I 30 år har Kim Anne Hiorth har skrevet ned sterke historier fra hverdagen som 
       <itunes:duration>01:09:32</itunes:duration>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0a3pUKlxe5oH3MbJfjk3iAZd_ixVg_4eOafV-agDDiNg.jpg"/>
-    </item>
-    <item>
-      <title>Prepping</title>
-      <description><![CDATA[Hvor forberedte bør vi være på naturkatastrofer, krig og pandemi? Og kan man bli så forberedt at man gleder seg litt til verdens undergang? Med prepper og egenberedskap-ekspert Fredrik Juell. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/0be90d47-a0b6-47b8-8f2b-5f1987447283_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0be90d47-a0b6-47b8-8f2b-5f1987447283_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:57</itunes:duration>
-      <pubDate>Mon, 04 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wnzo3gKtTu0v4wwbX45wvw78WCPwIlLGyf42_fzqD80g.jpg"/>
     </item>
   </channel>
 </rss>
