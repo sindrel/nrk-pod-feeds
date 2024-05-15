@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 08 May 2024 08:25:48 +0000</lastBuildDate>
-    <pubDate>Wed, 08 May 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 08:29:55 +0000</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Mennesket og maktene"  av Olav Duun</title>
+      <description><![CDATA[Det siste verket som Duun skrev.  Det handler om menneskene på øya som opplever en stor flom. Det får fram det beste og det verste i dem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/f2929ac0-47f1-4f74-84a6-a65a55d937fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/f2929ac0-47f1-4f74-84a6-a65a55d937fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:16</itunes:duration>
+      <pubDate>Wed, 15 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Beatles" av Lars Saabye Christensen</title>
       <description><![CDATA[Hvor er det blitt av alle gutta?]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2aba521a-3f79-4ebd-bb00-de518e5a2d26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:15</itunes:duration>
       <pubDate>Wed, 06 Mar 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title> "Den hemmelige historien"  av Donna Tartt</title>
-      <description><![CDATA[En "omvendt kriminalroman" fra 1992 - Der både offer og gjerningspersoner avsløres med en gang. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/03b90a60-0dab-4e3a-84b5-79d6771ef8ab_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/03b90a60-0dab-4e3a-84b5-79d6771ef8ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:47</itunes:duration>
-      <pubDate>Wed, 28 Feb 2024 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
