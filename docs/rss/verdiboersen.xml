@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 10 May 2024 04:28:26 +0000</lastBuildDate>
-    <pubDate>Fri, 10 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 09:26:55 +0000</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 11:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Hammarskjöld</title>
+      <description><![CDATA[Mannen som ga alt – også sitt eget liv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/0b7ba9bd-46c7-4b05-bdb4-b42522bc0eca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/0b7ba9bd-46c7-4b05-bdb4-b42522bc0eca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:30</itunes:duration>
+      <pubDate>Wed, 15 May 2024 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    </item>
     <item>
       <title>Hva gjør en person kjedelig?</title>
       <description><![CDATA[Vi snakker om spennende skurker og kjedelige helter  - og meg og deg!]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1e14ca80-250f-4706-be8c-5a6112e899d1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:19</itunes:duration>
       <pubDate>Sat, 13 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
-    </item>
-    <item>
-      <title> Kan prevensjon bli forbudt i USA?</title>
-      <description><![CDATA[Dramatiske endringer i synet på livets begynnelse ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/1ec5f393-1d7e-42dd-a1d2-3993d3f09df6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1ec5f393-1d7e-42dd-a1d2-3993d3f09df6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:29</itunes:duration>
-      <pubDate>Fri, 12 Apr 2024 11:22:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
     </item>
   </channel>
