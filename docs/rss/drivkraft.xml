@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 14 May 2024 14:28:15 +0000</lastBuildDate>
-    <pubDate>Tue, 14 May 2024 16:15:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 12:44:48 +0000</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Daniel Kjørberg Siraj</title>
+      <description><![CDATA[OBOS-sjefen har et samfunnsoppdrag som er større en seg selv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/49e0dac9-e390-4a59-a91d-ab1152ab4444_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/49e0dac9-e390-4a59-a91d-ab1152ab4444_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Wed, 15 May 2024 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CXlZ7HoKfcN-dLAKUJPfkAxiM3igeVelRLatco9h3JKg.jpg"/>
+    </item>
     <item>
       <title>Maria Berg Hestad</title>
       <description><![CDATA[- Alle nordmenn med hage burde dyrke 100 kilo grønnsaker hver i året, mener hageinfluenseren. Selv forsyner hun familien med grønnsaker 6 måneder i året.]]></description>
@@ -95,15 +104,6 @@
       <itunes:duration>57:05</itunes:duration>
       <pubDate>Tue, 23 Apr 2024 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/67onJZ1v3SMz38K8uNhHmAYGqeksGQ7BKT683s_s2y_w.jpg"/>
-    </item>
-    <item>
-      <title>Alexander Read</title>
-      <description><![CDATA[Da han mistet jobben ble han hele Norges turpappa, kjent fra tv-serien «Mina og meg».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/9d89ec1f-bcf3-43bb-af64-589af3cd0a0a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/9d89ec1f-bcf3-43bb-af64-589af3cd0a0a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:08</itunes:duration>
-      <pubDate>Mon, 22 Apr 2024 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1dauc2xPGyWpz0v8wJn4GgsRIsrkODPNGZLjGI4IY13Q.jpg"/>
     </item>
   </channel>
 </rss>
