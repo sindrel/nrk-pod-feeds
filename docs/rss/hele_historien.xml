@@ -1,51 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Hele historien</title>
+    <title>De 3 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 04:27:58 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Apr 2024 06:02:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 07:06:41 +0000</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer: Dødsfellen Rocknes</title>
-      <description><![CDATA[Januar 2004:  Lasteskipet Rocknes går rundt på få minutter. Halvparten av mannskapet på 30 blir fanget inne i skroget. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/533bde3f-6b96-49cb-ac53-2a9ec133d38d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/533bde3f-6b96-49cb-ac53-2a9ec133d38d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:33</itunes:duration>
-      <pubDate>Wed, 10 Apr 2024 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw.jpg"/>
+      <title>Kommer:  Operasjon Libanon</title>
+      <description><![CDATA[I 1978 havner norske FN-soldater i strid i Libanon. Israel har invadert nabolandet på jakt etter palestinske terrorister. Publiseres onsdag 15. mai 2024.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/6308a5dc-1c71-4687-8a55-dc1e907b4edd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/6308a5dc-1c71-4687-8a55-dc1e907b4edd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:32</itunes:duration>
+      <pubDate>Tue, 14 May 2024 09:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA.jpg"/>
     </item>
     <item>
-      <title>Kantringen – Dødsfellen Rocknes  (1:3) </title>
-      <description><![CDATA[Mannskapet vet ikke at noe er galt før verktøy faller ned fra veggen. Det enorme skipet kantrer og havner på få minutter opp ned. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/eebaa0ee-8625-45ed-9e34-78b73bf61bf3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/eebaa0ee-8625-45ed-9e34-78b73bf61bf3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:15</itunes:duration>
-      <pubDate>Thu, 11 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw.jpg"/>
+      <title>I krig for fred – Operasjon Libanon (1:2)</title>
+      <description><![CDATA[De unge norske guttene som reiser til Libanon aner ikke hva som venter dem. Verken israelere eller palestinere vil ha dem der.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/fdf19205-9cf2-4bdd-973a-545e28bad017_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/fdf19205-9cf2-4bdd-973a-545e28bad017_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:29</itunes:duration>
+      <pubDate>Wed, 15 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA.jpg"/>
     </item>
     <item>
-      <title>Kampen mot klokka –Dødsfellen Rocknes (2:3)</title>
-      <description><![CDATA[Sjokkerte naboer ser folk løpe på skipsskroget. Noen har havnet i sjøen, og mange er fortsatt fanget inne i skipet.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/12be5fad-38a8-4de3-bb70-bc0308d4a0c4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/12be5fad-38a8-4de3-bb70-bc0308d4a0c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:14</itunes:duration>
-      <pubDate>Thu, 11 Apr 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw.jpg"/>
-    </item>
-    <item>
-      <title>Fanget i mørket–Dødsfellen Rocknes (3:3)</title>
-      <description><![CDATA[Tre menn er innestengt i det mørke maskinrommet. Det begynner å bli vanskelig å puste.   ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/0ccb8f19-bdc3-4fad-88be-cfe580884441_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/0ccb8f19-bdc3-4fad-88be-cfe580884441_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:21</itunes:duration>
-      <pubDate>Thu, 11 Apr 2024 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ijaDbjYE9HEliMHx1XZGrwTPLkBveU9Adju3hmSM4ICw.jpg"/>
+      <title>Kampen om Ørneredet – Operasjon Libanon (2:2)</title>
+      <description><![CDATA[Kulene hagler og geriljaen nærmer seg. For første gang siden andre verdenskrig får norske soldater ordre om å skyte for å drepe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/02824039-6f43-484a-aa6e-524dc3598afa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/02824039-6f43-484a-aa6e-524dc3598afa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:34</itunes:duration>
+      <pubDate>Wed, 15 May 2024 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA.jpg"/>
     </item>
   </channel>
 </rss>
