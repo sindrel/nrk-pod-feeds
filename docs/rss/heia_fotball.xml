@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 May 2024 11:22:03 +0000</lastBuildDate>
-    <pubDate>Mon, 13 May 2024 12:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 May 2024 04:24:22 +0000</lastBuildDate>
+    <pubDate>Thu, 16 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    <item>
+      <title>#384 Benjamin Helstad</title>
+      <description><![CDATA[Dagens gjest er skuespiller og Vålerengasupporter Benjamin Helstad. 
+Hør om da han spilte i Vålerengaspelet, om samlemanien og om da han som ung graffitikunstner trodde han skulle dø!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/53f7b10b-f6cc-40fc-9b14-7902de7bbad2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/53f7b10b-f6cc-40fc-9b14-7902de7bbad2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:34:38</itunes:duration>
+      <pubDate>Thu, 16 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RBcE6-F2OpeUDGf0ROci2A0EZ2uEPzYn2x4PByYHTB2A.jpg"/>
+    </item>
     <item>
       <title>Snakkis: Hollywood, dommertips og Maradonnadrap</title>
       <description><![CDATA[Tete er i fengsel og Ken er vikar.
@@ -113,15 +123,6 @@ Dagens panel: Tete Lidbom, Sven Bisgaard Sundet, Ken Wasenius-Nilsen og Ali Souf
       <itunes:duration>37:44</itunes:duration>
       <pubDate>Mon, 15 Apr 2024 12:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
-    </item>
-    <item>
-      <title>#379 Per Heimly</title>
-      <description><![CDATA[Per Heimly forteller om alle sine hatter, vennskapet med Myggen og tida som skitten spiller i Snubba.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/f1a9ba2a-bfb2-475a-bd3b-ed30837346d6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/f1a9ba2a-bfb2-475a-bd3b-ed30837346d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:47:45</itunes:duration>
-      <pubDate>Thu, 11 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/P0wbIq2VSvufZjh0DXf0HAcqaSMkKaZMvU4zgcGoBR7w.jpg"/>
     </item>
   </channel>
 </rss>
