@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 May 2024 18:29:52 +0000</lastBuildDate>
-    <pubDate>Wed, 15 May 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 May 2024 18:29:15 +0000</lastBuildDate>
+    <pubDate>Thu, 16 May 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Slovakia kan bli politistat</title>
+      <description><![CDATA[Helsingforskomiteen frykter at Slovakia kan bli en politistat etter attentatforsøket på landets statsminister Robert Fico.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1744e6a8-824a-4ad3-b771-fd7f681c12de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1744e6a8-824a-4ad3-b771-fd7f681c12de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:54</itunes:duration>
+      <pubDate>Thu, 16 May 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKXL7igG2vjb8WYpUJr3Zg_pOPfWsPQA5K1NQylpQWrQ.jpg"/>
+    </item>
     <item>
       <title>Slovakias statsminister skutt</title>
       <description><![CDATA[Slovakias statsminister Robert Fico er sendt til sykehus med livstruende skader etter å ha blitt skutt onsdag ettermiddag.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 02 May 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dtIXT-hOKf09Drw-zMT4Fgp5fK1SdP94HQrLOTMGO2_Q.jpg"/>
-    </item>
-    <item>
-      <title>Oslopolitiet skjerper innsats</title>
-      <description><![CDATA[Nå omdisponeres kreftene i hovedstaden for å få bukt med den økende kriminaliteten i byen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/aeaef417-0a15-4319-974f-ecaa82605d3f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aeaef417-0a15-4319-974f-ecaa82605d3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 30 Apr 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o5cIPrrr9u0uFzIUtnSI9AodLTs45FtWI-Iv6nFJC1Tg.jpg"/>
     </item>
   </channel>
 </rss>
