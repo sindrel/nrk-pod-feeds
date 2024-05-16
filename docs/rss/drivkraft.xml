@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 May 2024 12:44:48 +0000</lastBuildDate>
-    <pubDate>Wed, 15 May 2024 13:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 May 2024 09:24:05 +0000</lastBuildDate>
+    <pubDate>Thu, 16 May 2024 11:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Petter Baarli</title>
+      <description><![CDATA[En av Norges råeste gitarister, skriver 3-5 nye låter hver dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4fe40e45-4810-42e6-be42-b320dfba8772_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4fe40e45-4810-42e6-be42-b320dfba8772_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:27</itunes:duration>
+      <pubDate>Thu, 16 May 2024 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Dg-Us5Es1JMcEK872MoMBQ790y9sT4yXhNVKmf-aW8Pw.jpg"/>
+    </item>
     <item>
       <title>Daniel Kjørberg Siraj</title>
       <description><![CDATA[OBOS-sjefen har et samfunnsoppdrag som er større en seg selv.]]></description>
@@ -94,16 +103,6 @@
       <itunes:duration>57:05</itunes:duration>
       <pubDate>Wed, 24 Apr 2024 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/V3Ikr7yIR4IOeyTVm5yaZQJt0kf27JmL5p51hGKQCXCQ.jpg"/>
-    </item>
-    <item>
-      <title>Øyvind Alsaker</title>
-      <description><![CDATA[- Jeg elsker fotball så inderlig, sier fotball-kommentatoren. Men når han kommenterer favorittlaget sitt er han "på jobb".
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1b1dd3e7-665e-49a8-858a-f8dd560af3a1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1b1dd3e7-665e-49a8-858a-f8dd560af3a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:05</itunes:duration>
-      <pubDate>Tue, 23 Apr 2024 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/67onJZ1v3SMz38K8uNhHmAYGqeksGQ7BKT683s_s2y_w.jpg"/>
     </item>
   </channel>
 </rss>
