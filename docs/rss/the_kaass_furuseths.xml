@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 12 May 2024 04:29:05 +0000</lastBuildDate>
-    <pubDate>Sun, 12 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 19 May 2024 04:29:33 +0000</lastBuildDate>
+    <pubDate>Sun, 19 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else møter: Galvan Mehidi</title>
+      <description><![CDATA[Komiker, programleder, kurder og østfolding Galvan Mehidi tar oss med til sitt favoritt-søndagssted og deler historier om angst, bombing og pølser!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/0a17adbe-51e5-4cf5-9b66-de5f91af965d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/0a17adbe-51e5-4cf5-9b66-de5f91af965d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:22</itunes:duration>
+      <pubDate>Sun, 19 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2-bZeFC0sL-e3AN1TFByMAQ-PJktLKg93Uj4o2G_Tg0Q.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Einar Tørnquist</title>
       <description><![CDATA[Else er hjemme hos Einar Tørnquist, og får historier om alt fra hockeysveis til henrettelser og hukommelse. Søndagshygge på høyt nivå!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>38:19</itunes:duration>
       <pubDate>Sun, 17 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Q8H_3-7fMozJL2-bhY819wGk2B22D_hpeq06f_ZjpYpQ.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Christian Strand</title>
-      <description><![CDATA[Christian Strand og Else snakker om adopsjon, dokumentserien «Gitt bort», den nye boka «Hva hvis», Arnold Schwarzenegger som motivator, frykten for å skuffe foreldre - og vi titter i skoledagboka fra tenåra. Hyggelig brunsj hos familien Strand!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/e7a9d7b4-2be7-4b9e-b073-cea5b6e204d4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e7a9d7b4-2be7-4b9e-b073-cea5b6e204d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:41</itunes:duration>
-      <pubDate>Sun, 10 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YOjuCgJauSIWGVSsV6XqOw_lae4C6mJx7rLuLK_Na83w.jpg"/>
     </item>
   </channel>
 </rss>
