@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 May 2024 10:29:39 +0000</lastBuildDate>
-    <pubDate>Thu, 16 May 2024 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 May 2024 04:28:45 +0000</lastBuildDate>
+    <pubDate>Tue, 21 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Vil du leve i 400 år?</title>
+      <description><![CDATA[Biohacking har blitt hverdags, og håpet er å utsette alderdommen. Men hva skjer med samfunnet om alle lever mye lenger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/27786cc5-9d03-42b3-9e25-013edc463756_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/27786cc5-9d03-42b3-9e25-013edc463756_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:27</itunes:duration>
+      <pubDate>Tue, 21 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2SloTBkKjtsyk5HJzggdiQfiBNNZY2NtQSMFibVI8ebA.jpg"/>
+    </item>
     <item>
       <title>Hvem skal lede palestinerne?</title>
       <description><![CDATA[I spørretimen svarte ekspertene på dine spørsmål om palestinernes fremtid.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:29</itunes:duration>
       <pubDate>Thu, 18 Apr 2024 13:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/AHRZkBieKLcATiCwox-xiwWTRUb3dw4tRYCFN939a00w.jpg"/>
-    </item>
-    <item>
-      <title>Dette kan bli Israels svar</title>
-      <description><![CDATA[Etter angrepet fra Iran kan svaret de gir få konsekvenser langt utenfor Midtøsten, men hva er det egentlig Israels ledere vil?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bc6790f3-d81e-40b3-8df9-873426e23926_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bc6790f3-d81e-40b3-8df9-873426e23926_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:02</itunes:duration>
-      <pubDate>Tue, 16 Apr 2024 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Fn4MIx0NBDK4Qnj5yvLvnAAiwdZ1QIXXIXuey_45PTNg.jpg"/>
     </item>
   </channel>
 </rss>
