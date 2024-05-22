@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 May 2024 09:24:05 +0000</lastBuildDate>
-    <pubDate>Thu, 16 May 2024 11:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 May 2024 11:25:01 +0000</lastBuildDate>
+    <pubDate>Wed, 22 May 2024 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Tove Bjørgaas</title>
+      <description><![CDATA[-Jeg er redd for USA, sier korrespondenten som har fulgt endringene i landet over tre tiår.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/889c237b-7f56-4329-81e3-7384d6a38333_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/889c237b-7f56-4329-81e3-7384d6a38333_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Wed, 22 May 2024 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5871Q-WJVmqcv_CxO2_IAAVI5UjgmJCE-7Sb8SCD1kMQ.jpg"/>
+    </item>
     <item>
       <title>Petter Baarli</title>
       <description><![CDATA[En av Norges råeste gitarister, skriver 3-5 nye låter hver dag.]]></description>
@@ -22,7 +31,7 @@
     </item>
     <item>
       <title>Daniel Kjørberg Siraj</title>
-      <description><![CDATA[OBOS-sjefen har et samfunnsoppdrag som er større en seg selv.]]></description>
+      <description><![CDATA[OBOS-sjefen har et samfunnsoppdrag som er større enn seg selv.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/49e0dac9-e390-4a59-a91d-ab1152ab4444_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/49e0dac9-e390-4a59-a91d-ab1152ab4444_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:10</itunes:duration>
@@ -94,15 +103,6 @@
       <itunes:duration>56:44</itunes:duration>
       <pubDate>Thu, 25 Apr 2024 14:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MKCmH3XoduOMHCtXR18SVwGGXfiQ-wBg4_TznK33Sm2w.jpg"/>
-    </item>
-    <item>
-      <title>Mr. Pimp-Lotion</title>
-      <description><![CDATA[Thomas Thrap Huse har blitt kjent for sin ekstreme livsstil og mener det er sunt å tørrfaste: - Jeg anbefaler ingen å gjøre det, men jeg anbefaler det til meg selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/389e263c-bb0e-4002-b43e-681087a42393_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/389e263c-bb0e-4002-b43e-681087a42393_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:05</itunes:duration>
-      <pubDate>Wed, 24 Apr 2024 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/V3Ikr7yIR4IOeyTVm5yaZQJt0kf27JmL5p51hGKQCXCQ.jpg"/>
     </item>
   </channel>
 </rss>
