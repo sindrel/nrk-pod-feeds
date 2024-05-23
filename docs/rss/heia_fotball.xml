@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 16 May 2024 04:24:22 +0000</lastBuildDate>
-    <pubDate>Thu, 16 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 04:28:53 +0000</lastBuildDate>
+    <pubDate>Thu, 23 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    <item>
+      <title>#385 Tor Hogne Aarøy</title>
+      <description><![CDATA[I dagens episode får vi besøk av legenden Tor Hogne Aarøy! Hør den utrolige historien om jordskjelvet i Japan, om da Nils Arne Eggen slaktet skoene hans og det kriminelle drømmelaget!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/98cc53e3-ebfc-4b9a-bc7f-78c1081c5cc3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/98cc53e3-ebfc-4b9a-bc7f-78c1081c5cc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:53:38</itunes:duration>
+      <pubDate>Thu, 23 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xUtMMEhcVdTV44IBuw-6TgS645Xn_9W4ZE5ahGcJZFaQ.jpg"/>
+    </item>
     <item>
       <title>#384 Benjamin Helstad</title>
       <description><![CDATA[Dagens gjest er skuespiller og Vålerengasupporter Benjamin Helstad. 
@@ -110,19 +119,6 @@ I panelet: Tete Lidbom, Sven Bisgaard Sundet og Hani Hussein]]></description>
       <itunes:duration>02:23:57</itunes:duration>
       <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ybFmR2PjIWfRFeqX-LucGgT1fiv50DqJiDEkmAAZQagg.jpg"/>
-    </item>
-    <item>
-      <title>Snakkis: Vinnerkusen, Kingsley Coman og albue</title>
-      <description><![CDATA[Endelig mandag! 
-Neverkusen har blitt Vinnerkusen, Ken savner Eurogoals, og gjengen diskuterer årets mål.
-
-Dagens panel: Tete Lidbom, Sven Bisgaard Sundet, Ken Wasenius-Nilsen og Ali Soufi-Grimsrud
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/fca93278-9ee2-45bd-8086-60e552211c9d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/fca93278-9ee2-45bd-8086-60e552211c9d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:44</itunes:duration>
-      <pubDate>Mon, 15 Apr 2024 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
     </item>
   </channel>
 </rss>
