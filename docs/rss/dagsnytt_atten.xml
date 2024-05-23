@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 22 May 2024 17:27:01 +0000</lastBuildDate>
-    <pubDate>Wed, 22 May 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 17:29:02 +0000</lastBuildDate>
+    <pubDate>Thu, 23 May 2024 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Får ikke heise regnbueflagget</title>
+      <description><![CDATA[Ålesund kommune sier nei til Pride-flagg i skolene]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bfdd4af1-4002-40e3-a5a2-4320cfa9c00d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bfdd4af1-4002-40e3-a5a2-4320cfa9c00d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 23 May 2024 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fxXonxeuAFKilGNK60jmZQEHxOxrmkv8qQH9Xf7Ic9cQ.jpg"/>
+    </item>
     <item>
       <title>Norge anerkjenner Palestina</title>
       <description><![CDATA[Mener Norge er et av de mest fiendtlige landene.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 07 May 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qhNZQpT-X4lrNSiRArqyQgjmIA3KCTg2kLp6qDfd5w0Q.jpg"/>
-    </item>
-    <item>
-      <title>Hamas hevder Israel angriper Rafah</title>
-      <description><![CDATA[Hamas hevder Israel angriper evakuert område Rafah. 100 000  er bedt om å evakuere før en mulig storoffensiv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dba87d99-15c0-4ed1-9a39-b02485fd57c0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dba87d99-15c0-4ed1-9a39-b02485fd57c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Mon, 06 May 2024 19:25:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZiTSGooI2cDx9ZO7xsOCKwvh7Hdt-vqGF8oFUHyPwV-g.jpg"/>
     </item>
   </channel>
 </rss>
