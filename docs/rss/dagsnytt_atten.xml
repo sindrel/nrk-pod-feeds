@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 May 2024 17:29:02 +0000</lastBuildDate>
-    <pubDate>Thu, 23 May 2024 18:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 May 2024 18:30:34 +0000</lastBuildDate>
+    <pubDate>Fri, 24 May 2024 19:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Streik etter intense forhandlinger</title>
+      <description><![CDATA[Unio og Akademikerne tar 1261 medlemmer ut i streik etter brudd i forhandlingene med staten. Mandag trappes streiken opp ytterligere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d61442dd-da87-4fa4-971b-2691fe723a34_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d61442dd-da87-4fa4-971b-2691fe723a34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 24 May 2024 19:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CPRsQrDD4m3OCGwf1MRuEwOhRJfdrt33dmrlsuGT6c5g.jpg"/>
+    </item>
     <item>
       <title>Får ikke heise regnbueflagget</title>
       <description><![CDATA[Ålesund kommune sier nei til Pride-flagg i skolene]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 08 May 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CrJPMHMkIebis7G2dxFMyA2DvvjudPPZLRS8F0QwW3rA.jpg"/>
-    </item>
-    <item>
-      <title>Norge i Putins innsettelse</title>
-      <description><![CDATA[Norge sendte sin ambassadør til å delta da Russlands president Vladimir Putin i dag ble innsatt i sin femte periode.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/68d95c81-d392-4bdd-be26-5914f03b7d23_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/68d95c81-d392-4bdd-be26-5914f03b7d23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 07 May 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qhNZQpT-X4lrNSiRArqyQgjmIA3KCTg2kLp6qDfd5w0Q.jpg"/>
     </item>
   </channel>
 </rss>
