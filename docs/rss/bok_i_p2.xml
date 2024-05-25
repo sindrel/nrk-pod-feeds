@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 21 May 2024 14:28:17 +0000</lastBuildDate>
-    <pubDate>Tue, 21 May 2024 15:30:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 04:29:02 +0000</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Forfatterintervjuet med Nicolai Houm</title>
+      <description><![CDATA["Man føler seg som en nybegynner hver gang" sier Nicolai Houm om å ha skrivesperre. Nå er han ute med boka «Hver torsdag klokken nitten».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/380554a9-e194-497e-89ec-8452069f2548_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/380554a9-e194-497e-89ec-8452069f2548_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sat, 25 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JE1VeKVAKm7ux8lp3VJV4g49OYqVXn5EcYK0kPk_pUBw.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Gine C. Pedersen</title>
       <description><![CDATA["Jeg tror det bare er i kjærligheten, at det er mulig å gå så langt bort fra fornuft" sier forfatteren.  ]]></description>
@@ -22,7 +31,7 @@
     </item>
     <item>
       <title>Mesna, Rishøi og Houm</title>
-      <description><![CDATA[To romaner fra klasserommet og en diktbok for voksene og barn.]]></description>
+      <description><![CDATA[To romaner fra klasserommet og en diktbok for voksne og barn.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/24f42654-3d86-42e1-aa5c-37cf0fd57c6a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/24f42654-3d86-42e1-aa5c-37cf0fd57c6a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:36</itunes:duration>
@@ -91,15 +100,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Sun, 14 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sB6PskAmRkIMM0xgoug74Qhq_sh_y8ijj1aBkkFYjFPQ.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Wencke Mühleisen</title>
-      <description><![CDATA["Jeg har selv opplevd å bli ghosta" forteller Wencke Mühleisen, om Tinder-dating.  Arne Hjeltnes er dagens lesetipser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/e4483884-d922-4b35-a36c-f7c538510a28_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/e4483884-d922-4b35-a36c-f7c538510a28_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Sat, 13 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/G5T5vn40igiV89YnqYvIKAd5ofY4rHOXAX_qaYneSP0g.jpg"/>
     </item>
   </channel>
 </rss>
