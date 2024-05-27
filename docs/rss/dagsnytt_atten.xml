@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 24 May 2024 18:30:34 +0000</lastBuildDate>
-    <pubDate>Fri, 24 May 2024 19:35:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 May 2024 18:30:19 +0000</lastBuildDate>
+    <pubDate>Mon, 27 May 2024 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Politisk strid om streik</title>
+      <description><![CDATA[Venstre mener staten tvinger partene inn i avtale de er imot. – Uhyre problematisk, sier Sveinung Rotevatn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/adcf75f4-831f-478a-992d-8c5250c77a34_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/adcf75f4-831f-478a-992d-8c5250c77a34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 27 May 2024 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XaovEfTZ8J-FZucaoSHqzQptiS946CH8OGH37kW1A3rg.jpg"/>
+    </item>
     <item>
       <title>Streik etter intense forhandlinger</title>
       <description><![CDATA[Unio og Akademikerne tar 1261 medlemmer ut i streik etter brudd i forhandlingene med staten. Mandag trappes streiken opp ytterligere.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:53</itunes:duration>
       <pubDate>Fri, 10 May 2024 19:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/P3Lx4jXfeP9xFfzL84LY5ABEBq_oS25fN350WFk8Eq-Q.jpg"/>
-    </item>
-    <item>
-      <title>Mindre surrogati</title>
-      <description><![CDATA[Flere partier vil gjøre det vanskeligere for nordmenn å kjøpe surrogatihjelp i utlandet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/77d02a0f-8a85-46e3-9689-de41d20ae7c3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/77d02a0f-8a85-46e3-9689-de41d20ae7c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 08 May 2024 19:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CrJPMHMkIebis7G2dxFMyA2DvvjudPPZLRS8F0QwW3rA.jpg"/>
     </item>
   </channel>
 </rss>
