@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 May 2024 04:29:51 +0000</lastBuildDate>
-    <pubDate>Mon, 20 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 May 2024 04:30:14 +0000</lastBuildDate>
+    <pubDate>Mon, 27 May 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Jo Nesbø</title>
+      <description><![CDATA[Hva driver Jo Nesbø?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/0fe3b750-787a-4607-b6a8-346aa4e8880f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0fe3b750-787a-4607-b6a8-346aa4e8880f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:55</itunes:duration>
+      <pubDate>Mon, 27 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FQFrQJxNW7DqacUMsKt3agb_wSIiEKMU4rqVF4Eu1g1Q.jpg"/>
+    </item>
     <item>
       <title>Naomi Klein og dobbeltgjengeren</title>
       <description><![CDATA[Hvordan ble konspirasjonsteorier en folkesport i USA? Med forfatter og journalist Naomi Klein.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:04:50</itunes:duration>
       <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zjhW1V4zxKl5Mm2crsm44AW2jdXqxl8pZt6EGJDE2zeA.jpg"/>
-    </item>
-    <item>
-      <title>Transhumanisme</title>
-      <description><![CDATA[Hvor langt bør menneskene være villige til å gå for å forbedre oss selv? Med filosof Ole Martin Moen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/da6ed8e6-b0b7-4976-98a3-d5e2478bf1cd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/da6ed8e6-b0b7-4976-98a3-d5e2478bf1cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:03</itunes:duration>
-      <pubDate>Mon, 25 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3gOKX0X40zjpWjH2rvbQ6QqOJwdC_8Td-cQ9uvRYnbhw.jpg"/>
     </item>
   </channel>
 </rss>
