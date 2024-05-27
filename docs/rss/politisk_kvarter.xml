@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 24 May 2024 06:31:55 +0000</lastBuildDate>
-    <pubDate>Fri, 24 May 2024 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 May 2024 06:33:15 +0000</lastBuildDate>
+    <pubDate>Mon, 27 May 2024 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/HQOdXZJnFNWwrd9x8VTcIQ_p5LYdB-xxVAqwj4qrBaGg.jpg"/>
+    <item>
+      <title>Skulda for streiken</title>
+      <description><![CDATA[Høgre meiner det er streik fordi regjeringa favoriserer LO. KrF vil hindre flyktningar å flytte vidare til innvandrar-tette byar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e20c72d7-951f-4347-941c-58fe76c3c051_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e20c72d7-951f-4347-941c-58fe76c3c051_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:13</itunes:duration>
+      <pubDate>Mon, 27 May 2024 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zjYqSHYIrmiHznF2wDsrAAXQJk-TYnbXPlspPhTplSNg.jpg"/>
+    </item>
     <item>
       <title>Rødt og kommunismen</title>
       <description><![CDATA[I dag velger landsmøtet i Rødt Marie Sneve Martinussen til leder.
@@ -96,15 +105,6 @@ Kan Norge lære noe for å ned rentene her? Eller går vi motsatt vei med økt p
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Fri, 10 May 2024 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/AvoMy8tTmeiVw_w9PV1E5wGuOmymnqINAJ4p1kqYvyBw.jpg"/>
-    </item>
-    <item>
-      <title>Flyktningomkamp i Drammen</title>
-      <description><![CDATA[Drammen ville berre ha ukrainarar, men tek imot flyktningar likevel. Då blir det null flyktningar neste år, seier Frp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/55f67f90-9309-4c32-bc66-cae42016aebb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/55f67f90-9309-4c32-bc66-cae42016aebb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Wed, 08 May 2024 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EQDY_9DMErouYNOzl4J38QVrDeMbtNV33bwyubMcM42Q.jpg"/>
     </item>
   </channel>
 </rss>
