@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 May 2024 21:24:27 +0000</lastBuildDate>
-    <pubDate>Thu, 23 May 2024 22:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 May 2024 21:24:28 +0000</lastBuildDate>
+    <pubDate>Tue, 28 May 2024 22:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    <item>
+      <title>Er kunstig intelligens slutten?</title>
+      <description><![CDATA[Er det over og ut for menneskeheten når datamaskinene blir smartere enn oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/42636b60-0ae6-4fb3-b306-6c8c48b1fdad_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/42636b60-0ae6-4fb3-b306-6c8c48b1fdad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:30</itunes:duration>
+      <pubDate>Tue, 28 May 2024 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
+    </item>
     <item>
       <title>Flaggnekt fyrer opp pride-debatten</title>
       <description><![CDATA[Kommune nekter skolene å heise regnbueflagget.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/c28af718-0521-4b4b-b14d-709c01af57d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:00</itunes:duration>
       <pubDate>Tue, 16 Apr 2024 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
-    </item>
-    <item>
-      <title>Kan Kjerkol bli sittende?</title>
-      <description><![CDATA[Klagenemnda underkjenner helseministerens master grunnet juks.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/1c4a4c3b-7aa0-498c-8a1c-b0f17392ea66_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/1c4a4c3b-7aa0-498c-8a1c-b0f17392ea66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:04</itunes:duration>
-      <pubDate>Thu, 11 Apr 2024 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Af9YzwX723rS69Qgz3oHLw2IHEwG0DBRpFXyskY8gwrA.jpg"/>
     </item>
   </channel>
