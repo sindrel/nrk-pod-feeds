@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 May 2024 18:31:42 +0000</lastBuildDate>
-    <pubDate>Tue, 28 May 2024 19:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 May 2024 17:28:04 +0000</lastBuildDate>
+    <pubDate>Wed, 29 May 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Høyre vil åpne for gassleting</title>
+      <description><![CDATA[Partiet ønsker å åpne for gassleting utenfor Lofoten, men møter hard kritikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4096806f-2e3b-46df-aa16-d468257da6c1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4096806f-2e3b-46df-aa16-d468257da6c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Wed, 29 May 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6UddT41-HY0epxmj0jzSPAE4GsO0g8rRm27MssOaN6Bg.jpg"/>
+    </item>
     <item>
       <title>Krisemøte om Rafah-angrep</title>
       <description><![CDATA[FNs sikkerhetsråd samles etter israelske angrep på teltleir i Gaza, der minst 45 er drept.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 14 May 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/A29TPdCbeFd3A1fC1Yf9zQ9JAsjYRTRTEexeh3d4IWzA.jpg"/>
-    </item>
-    <item>
-      <title>Kommersielle aktører inn i helsevesenet</title>
-      <description><![CDATA[Regjeringen bevilger to milliarder kroner mer til norsk helsevesen for å redusere sykehuskøene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e4e27420-c6bf-4337-9a6e-40d7b632b350_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e4e27420-c6bf-4337-9a6e-40d7b632b350_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 13 May 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zapaM3k-eN0BliTJVhh_ZgWqWTj1gFHyX6uA8E5hvZGg.jpg"/>
     </item>
   </channel>
 </rss>
