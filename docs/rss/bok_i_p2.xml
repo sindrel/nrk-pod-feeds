@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 26 May 2024 04:31:10 +0000</lastBuildDate>
-    <pubDate>Sun, 26 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 31 May 2024 13:26:22 +0000</lastBuildDate>
+    <pubDate>Fri, 31 May 2024 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Sterke samtaler på Norsk litteraturfestival</title>
+      <description><![CDATA[Amina Elmi, Monica Goksøyr, Ingvild Rishøi, Helene Uri og John Ajvide Lindqvist besøker programleder Cille Biermann på Litteraturfestivalen på Lillehammer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/a5661122-d3af-4faf-bc93-d1a5ae00e4ae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/a5661122-d3af-4faf-bc93-d1a5ae00e4ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Fri, 31 May 2024 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sgzelxHuWqSx1pOspgvQlAUq2rEUXnGa4q2l7srwAxaQ.jpg"/>
+    </item>
     <item>
       <title>Walden, Klein, Halvorsen og Fuglehaug</title>
       <description><![CDATA[Vi anmelder «Jævla menn» av Andrev Walden, «Kroningen» av Anne Gunn Halvorsen og Randi Fuglehaug, og «Dobbeltgjenger» av Naomi Klein.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Tue, 23 Apr 2024 14:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xawQPFp9sBic9sFTG4V5OQzVpb0RG9FFLFHADInWVKHQ.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Henrik Langeland</title>
-      <description><![CDATA[En bok som ikke bare handler om menn og makt, men også kvinnerettigheter, sier Henrik Langeland om sin nye bok «Makten og æren»]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/75ae41a1-50c4-43e5-bad7-8a0e7fed92a7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/75ae41a1-50c4-43e5-bad7-8a0e7fed92a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Sat, 20 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/j9d11KyrGlkLVJyj7Gul1g7beqZUJcSLzNqAlEi19ASA.jpg"/>
     </item>
   </channel>
 </rss>
