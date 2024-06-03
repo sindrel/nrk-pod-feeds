@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 30 May 2024 13:26:04 +0000</lastBuildDate>
-    <pubDate>Thu, 30 May 2024 15:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 14:29:09 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2024 15:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Drivkraft med Celine Irgens Aagaard</title>
+      <description><![CDATA[Moteprofilen om bærekraft:
+-Det hjelper ikke om genseren din er økologisk om du bare bruker den én gang!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ed49de8b-91ed-4fe4-8ee1-3bfcb2c5aa13_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ed49de8b-91ed-4fe4-8ee1-3bfcb2c5aa13_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:48</itunes:duration>
+      <pubDate>Mon, 03 Jun 2024 15:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/97CXjHu-AL7pS9l7Q_u-HwWZXY4huk-v03aeLByKtRJw.jpg"/>
+    </item>
     <item>
       <title>Drivkraft med Atle Pettersen</title>
       <description><![CDATA[Atle Pettersen, artist og programleder, har gitt ut album både som solo-artist og med band. Nå er han ute med en bok om grilling.]]></description>
@@ -91,15 +101,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Wed, 08 May 2024 15:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/cF8YB1qt0QJ0gBnZHtmtSQ5r7fXMrMqOcYbWuN12qaUA.jpg"/>
-    </item>
-    <item>
-      <title>Kate Hansen Bundt</title>
-      <description><![CDATA[- 2024 er et skjebneår for verden, mener generalsekretæren i Den norske atlanterhavskomitè. Hun er bekymret optimist for tiden fremover.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8653b7f1-b93d-42ec-89e4-a43f86ba7ede_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8653b7f1-b93d-42ec-89e4-a43f86ba7ede_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:07</itunes:duration>
-      <pubDate>Tue, 07 May 2024 13:55:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Degc5uUGvmIEejQQ-t9TrAqLxoYUL_slbWtuUsc8_Ecg.jpg"/>
     </item>
   </channel>
 </rss>
