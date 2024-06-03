@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 May 2024 04:29:48 +0000</lastBuildDate>
-    <pubDate>Mon, 27 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 04:30:54 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Gonzo-episoden</title>
+      <description><![CDATA[Erlend og Steinar har vært ute i felt og avdekket hvor inkluderende båtmiljøet er. Og hvor på kroppen skal man plassere den røde knappen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c987a82a-806c-4c55-8df4-cd932254407e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c987a82a-806c-4c55-8df4-cd932254407e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:24</itunes:duration>
+      <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Dn4zzdHb8S9w7QkocADlFQ3izdspXaaKlTBqm0BZNXiw.jpg"/>
+    </item>
     <item>
       <title>"Samtlige" har blitt voldtatt</title>
       <description><![CDATA[Steinar har lært forskjellen på "noen" og "samtlige", Erlend har opplevd syke tilfeldigheter og hva skjer hvis man tar vekk all kåtskap?]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/cd927b45-0cae-4974-82d8-9e5423d5dffd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:09:25</itunes:duration>
       <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Rause ridderes begynnelse</title>
-      <description><![CDATA[Prinsipprogrammet for unge menn (og kvinner som støtter dem) er her. Og hva skal bevegelsen hete?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c500f652-1db0-48fc-a708-e9beb42672bf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c500f652-1db0-48fc-a708-e9beb42672bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:09:10</itunes:duration>
-      <pubDate>Mon, 25 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>

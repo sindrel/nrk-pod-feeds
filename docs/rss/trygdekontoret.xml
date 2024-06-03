@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 May 2024 04:30:14 +0000</lastBuildDate>
-    <pubDate>Mon, 27 May 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 04:31:17 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Afghanistan under Talban</title>
+      <description><![CDATA[Hva har skjedd i Afghanistan etter at verdens oppmerksomhet forsvant? Med Ayesha Wolasmal, journalist, hjelpearbeider, diplomat og forfatter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/41f2a962-9844-431e-93e5-5fb538cd3b92_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/41f2a962-9844-431e-93e5-5fb538cd3b92_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:26</itunes:duration>
+      <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CNXYlP-SVFQ8QusktzbJvgdsPL7JoY07Z5RecL_cAKBg.jpg"/>
+    </item>
     <item>
       <title>Jo Nesbø</title>
       <description><![CDATA[Hva driver Jo Nesbø?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:13:09</itunes:duration>
       <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
-    </item>
-    <item>
-      <title>Lokalavis spessial</title>
-      <description><![CDATA[Hva sier lokalavisene om oss nordmenn? Og hvorfor er de så morsomme? Med Ken André Ottesen aka. BAdesKEN.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/dc2d71e0-a232-46c8-a052-5172c3d48b78_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/dc2d71e0-a232-46c8-a052-5172c3d48b78_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:04:50</itunes:duration>
-      <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zjhW1V4zxKl5Mm2crsm44AW2jdXqxl8pZt6EGJDE2zeA.jpg"/>
     </item>
   </channel>
 </rss>
