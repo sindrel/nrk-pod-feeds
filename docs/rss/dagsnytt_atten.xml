@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 31 May 2024 17:29:03 +0000</lastBuildDate>
-    <pubDate>Fri, 31 May 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 17:26:53 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Tvungen lønnsnemnd for Akademikerne</title>
+      <description><![CDATA[To fagforeninger med samme krav. Den ene måtte avslutte streiken på grunn av tvungen lønnsnemnd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b8f3aba0-dfec-4e92-a10b-6e4b818f861e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b8f3aba0-dfec-4e92-a10b-6e4b818f861e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:51</itunes:duration>
+      <pubDate>Mon, 03 Jun 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N7VxGoqExPcEbHLqf_Wj1QZOHiRil5T7W77VbmuB7ESg.jpg"/>
+    </item>
     <item>
       <title>Historisk dom</title>
       <description><![CDATA[USAs eks-president Donald Trump er kjent skyldig i dokumentfalsk: Kan vinne valg i 2024.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 21 May 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/P8m8c5fQxmA11k33daF-aA91GQCqwUoGBxV60khMg1BA.jpg"/>
-    </item>
-    <item>
-      <title>Slovakia kan bli politistat</title>
-      <description><![CDATA[Helsingforskomiteen frykter at Slovakia kan bli en politistat etter attentatforsøket på landets statsminister Robert Fico.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1744e6a8-824a-4ad3-b771-fd7f681c12de_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1744e6a8-824a-4ad3-b771-fd7f681c12de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:54</itunes:duration>
-      <pubDate>Thu, 16 May 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UKXL7igG2vjb8WYpUJr3Zg_pOPfWsPQA5K1NQylpQWrQ.jpg"/>
     </item>
   </channel>
 </rss>
