@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 01 Jun 2024 04:29:09 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Jun 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Jun 2024 04:29:24 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Jun 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Bør jeg dele bildet videre?</title>
+      <description><![CDATA[Sosiale medier florerer med både ekte og KI-genererte bilder. Men har det noe å si om du deler eller ikke deler?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/42be719e-7d87-4f26-ada0-f1ee68466724_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/42be719e-7d87-4f26-ada0-f1ee68466724_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:49</itunes:duration>
+      <pubDate>Tue, 04 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Iw6SLJj26gGLDcaM9uiDFQnpm7ge358AjAEIzW5h6IYg.jpg"/>
+    </item>
     <item>
       <title>Fornærmer alt og alle!</title>
       <description><![CDATA[Presidenten i Argentina har kalt kona til den den spanske statsministerens for korrupt. Sånt blir det diplomatisk bråk av.]]></description>
@@ -92,15 +101,6 @@ Hør hvordan du lever best med menssyklusen din.]]></description>
       <itunes:duration>20:29</itunes:duration>
       <pubDate>Thu, 02 May 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IlsN03sXCrq9xDknhmKcPQ07RYGSE88tbD0yNAjoTzmA.jpg"/>
-    </item>
-    <item>
-      <title>Slik fungerer domstolen</title>
-      <description><![CDATA[Bli med inn i rommet vi ikke vil havne i: Rettssalen. Hva skjer egentlig bak og foran kulissene i den norske domstolen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/10edb6cc-f2f7-4698-9219-763ce2b1069f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/10edb6cc-f2f7-4698-9219-763ce2b1069f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:34</itunes:duration>
-      <pubDate>Wed, 01 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qzCrH0j8fWqRjGLDgj2ccQZQWJbuvk4NVXfByB1aMCmQ.jpg"/>
     </item>
   </channel>
 </rss>
