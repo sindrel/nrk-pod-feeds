@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 18:31:13 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Jun 2024 19:40:00 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2024 17:28:12 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jun 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Unio krever ny lønnsnemnd</title>
+      <description><![CDATA[Unio ber Stortinget oppnevne en egen nemnd når arbeidskonflikten organisasjonen står i skal behandles.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3f3f738e-c061-428b-a825-23675819b5c9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3f3f738e-c061-428b-a825-23675819b5c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:50</itunes:duration>
+      <pubDate>Wed, 05 Jun 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yNF7OiHkr5gQ9Tpa_IQatQx0JBon_4c_30GvSDDjI7rA.jpg"/>
+    </item>
     <item>
       <title>Vil ha fortgang i mineralutvinning</title>
       <description><![CDATA[Høyre, Venstre og KrF vil ha fortgang i mineralutvinning, frykter Kina tar markedet. Naturvernforbundet sier hastverk tjener ingen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 23 May 2024 18:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fxXonxeuAFKilGNK60jmZQEHxOxrmkv8qQH9Xf7Ic9cQ.jpg"/>
-    </item>
-    <item>
-      <title>Norge anerkjenner Palestina</title>
-      <description><![CDATA[Mener Norge er et av de mest fiendtlige landene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b5b52491-5b17-46ca-a424-128d34e967ee_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b5b52491-5b17-46ca-a424-128d34e967ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 22 May 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6XM72jHymEEsyV7_6D0Z8AVWMtN98m_xs-elFtyIBSsw.jpg"/>
     </item>
   </channel>
 </rss>
