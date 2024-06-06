@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 13:28:05 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 15:15:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Jun 2024 12:45:21 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2024 13:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Marte Heian-Engdal</title>
+      <description><![CDATA[Midtøsten-eksperten fikk skriveråd av nabo og nobelprisvinner, Jon Fosse: 
+-Du må nok uti verda, den vonde, du]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3bf18c00-b9a9-4033-a538-d17e01499889_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3bf18c00-b9a9-4033-a538-d17e01499889_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Thu, 06 Jun 2024 13:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6sBJASYnIIZZCKIGSFPgWwyw43pgTeCxoNl_vDVo06qA.jpg"/>
+    </item>
     <item>
       <title>Knut Reiersrud</title>
       <description><![CDATA[Komponist Knut Reiersrud om egen sjanger: 
@@ -92,15 +102,6 @@
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Wed, 15 May 2024 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CXlZ7HoKfcN-dLAKUJPfkAxiM3igeVelRLatco9h3JKg.jpg"/>
-    </item>
-    <item>
-      <title>Maria Berg Hestad</title>
-      <description><![CDATA[- Alle nordmenn med hage burde dyrke 100 kilo grønnsaker hver i året, mener hageinfluenseren. Selv forsyner hun familien med grønnsaker 6 måneder i året.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/66a6619e-71da-495f-9e06-1111c6a9bc49_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/66a6619e-71da-495f-9e06-1111c6a9bc49_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:13</itunes:duration>
-      <pubDate>Tue, 14 May 2024 16:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eIBjTJmww0Ozb2jxeD26pw8o4OgiuLTdeDBMqI8f3_0g.jpg"/>
     </item>
   </channel>
 </rss>
