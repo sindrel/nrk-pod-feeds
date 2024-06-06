@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 17:28:12 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Jun 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Jun 2024 18:30:57 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>— Flere må ut i arbeid</title>
+      <description><![CDATA[Finansminister Trygve Slagsvold Vedum er bekymret for at stadig flere unge går på uføretrygd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d9b139ac-5e0a-4abb-853e-df5c57835b1f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d9b139ac-5e0a-4abb-853e-df5c57835b1f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 06 Jun 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J-53g9z4fPer-6XcZhg_bA-alJjdYfYcWGhc0fTKZGdA.jpg"/>
+    </item>
     <item>
       <title>Unio krever ny lønnsnemnd</title>
       <description><![CDATA[Unio ber Stortinget oppnevne en egen nemnd når arbeidskonflikten organisasjonen står i skal behandles.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 24 May 2024 19:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CPRsQrDD4m3OCGwf1MRuEwOhRJfdrt33dmrlsuGT6c5g.jpg"/>
-    </item>
-    <item>
-      <title>Får ikke heise regnbueflagget</title>
-      <description><![CDATA[Ålesund kommune sier nei til Pride-flagg i skolene]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bfdd4af1-4002-40e3-a5a2-4320cfa9c00d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bfdd4af1-4002-40e3-a5a2-4320cfa9c00d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 23 May 2024 18:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fxXonxeuAFKilGNK60jmZQEHxOxrmkv8qQH9Xf7Ic9cQ.jpg"/>
     </item>
   </channel>
 </rss>
