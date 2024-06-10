@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 03 Jun 2024 04:31:05 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2024 04:32:32 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Krasj med Kevin Kildal</title>
+      <description><![CDATA["Døden er gulroten som driver meg"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/0bc9ddc8-d2ac-4062-a311-0bebb098bccf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/0bc9ddc8-d2ac-4062-a311-0bebb098bccf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:38</itunes:duration>
+      <pubDate>Mon, 10 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jZikdIuVJ8dE6NG-ZOBIJwtErF8GwCm2FZWPPmh0hXAw.jpg"/>
+    </item>
     <item>
       <title>Christine Koht lever!</title>
       <description><![CDATA[Hvordan er livet etter å ha overlevd en dødsdom?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>39:36</itunes:duration>
       <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rYAWhhfsiX4s-WuXhuMXlQy244dyVlO149--J8HB7IwQ.jpg"/>
-    </item>
-    <item>
-      <title>En betablokker til Steinar Sagen</title>
-      <description><![CDATA[Han døde ikke på bryllupsreise, det bare kjentes litt sånn ut. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/0239b00b-eae7-4c61-afc8-0129023b7047_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/0239b00b-eae7-4c61-afc8-0129023b7047_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:42</itunes:duration>
-      <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/op7ltpakELo8n0rByRmDBAiiH4YnJnqxNgpFBw42VKxg.jpg"/>
     </item>
   </channel>
 </rss>
