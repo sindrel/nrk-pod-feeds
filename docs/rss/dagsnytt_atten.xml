@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 18:32:38 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Jun 2024 19:40:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2024 18:31:42 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2024 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Uzy9wK4j_524zvQcnOTOfwooFSy71pqBkUQRk5dHJ9oA.jpg"/>
+    <item>
+      <title>Framgang for ytre høyre i EU</title>
+      <description><![CDATA[Hva betyr det for europeisk politikk og hva betyr det for Norge?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3ebb6207-b725-4c93-8a34-ccc0b07b35f8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3ebb6207-b725-4c93-8a34-ccc0b07b35f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 10 Jun 2024 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N142b-yvJ8QGj37P2muA_wJ4mVXor4M1VMTEqZpXfAEQ.jpg"/>
+    </item>
     <item>
       <title>Sterk økning av barneranere</title>
       <description><![CDATA[De siste ukene er 24 barn ranet av jevnaldrende barn i Oslo. Bør barna fotfølges eller settes i fengsel?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:53</itunes:duration>
       <pubDate>Tue, 28 May 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EwX-ZzUOrzYiCBEvY1xuNAqYuMVVxycEY6ucluwCe_hQ.jpg"/>
-    </item>
-    <item>
-      <title>Politisk strid om streik</title>
-      <description><![CDATA[Venstre mener staten tvinger partene inn i avtale de er imot. – Uhyre problematisk, sier Sveinung Rotevatn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/adcf75f4-831f-478a-992d-8c5250c77a34_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/adcf75f4-831f-478a-992d-8c5250c77a34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 27 May 2024 19:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XaovEfTZ8J-FZucaoSHqzQptiS946CH8OGH37kW1A3rg.jpg"/>
     </item>
   </channel>
 </rss>
