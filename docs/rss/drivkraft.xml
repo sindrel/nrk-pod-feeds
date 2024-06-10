@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 12:45:21 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Jun 2024 13:25:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2024 13:28:32 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2024 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Siri Østvold</title>
+      <description><![CDATA[- Fridykkere er noen raringer. Sier designeren som har satt Norgesrekord 13 ganger og dykket 54 meter uten oksygen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f188d7f5-2d94-4795-a072-49468860ca20_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f188d7f5-2d94-4795-a072-49468860ca20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:57:35</itunes:duration>
+      <pubDate>Mon, 10 Jun 2024 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZpGmfncvIkb7h4UzqjxfCAKDkZ2PJkh0slP8SjhIzcvg.jpg"/>
+    </item>
     <item>
       <title>Marte Heian-Engdal</title>
       <description><![CDATA[Midtøsten-eksperten fikk skriveråd av nabo og nobelprisvinner, Jon Fosse: 
@@ -23,8 +32,7 @@
     </item>
     <item>
       <title>Knut Reiersrud</title>
-      <description><![CDATA[Komponist Knut Reiersrud om egen sjanger: 
--Jeg er ikke bluesartist, jeg er fra Smestad.]]></description>
+      <description><![CDATA[Musikeren om egen sjanger: - Jeg er ikke bluesartist, jeg er fra Smestad.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a01da576-a59a-4c0a-a2c5-3dca5e6becb5_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/a01da576-a59a-4c0a-a2c5-3dca5e6becb5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:12</itunes:duration>
@@ -93,15 +101,6 @@
       <itunes:duration>57:27</itunes:duration>
       <pubDate>Thu, 16 May 2024 11:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Dg-Us5Es1JMcEK872MoMBQ790y9sT4yXhNVKmf-aW8Pw.jpg"/>
-    </item>
-    <item>
-      <title>Daniel Kjørberg Siraj</title>
-      <description><![CDATA[OBOS-sjefen har et samfunnsoppdrag som er større enn seg selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/49e0dac9-e390-4a59-a91d-ab1152ab4444_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/49e0dac9-e390-4a59-a91d-ab1152ab4444_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:10</itunes:duration>
-      <pubDate>Wed, 15 May 2024 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CXlZ7HoKfcN-dLAKUJPfkAxiM3igeVelRLatco9h3JKg.jpg"/>
     </item>
   </channel>
 </rss>
