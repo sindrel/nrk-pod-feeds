@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 May 2024 08:30:53 +0000</lastBuildDate>
-    <pubDate>Wed, 29 May 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Jun 2024 08:30:22 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Jun 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Folk og røvere i Kardemommeby" av Torbjørn Egner</title>
+      <description><![CDATA[Lat politimester har griseflaks når røvere bare vil bidra til samfunnsregnskapet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/425f8c7c-59d1-4ee8-8f2a-1cdbc4f5a05b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/425f8c7c-59d1-4ee8-8f2a-1cdbc4f5a05b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:00</itunes:duration>
+      <pubDate>Wed, 12 Jun 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Amtmannens døtre" av Camilla Collett</title>
       <description><![CDATA[Rekk opp hånden alle som tror kvinner elsker å ofre seg for andre.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/b6c66295-437c-49d7-902a-3c42c24141e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:33</itunes:duration>
       <pubDate>Wed, 03 Apr 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title> "Heimskringla" av Snorre Sturlason</title>
-      <description><![CDATA[Her er det konger opp i mente, ispedd litt kringle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/f4d38b1a-9230-47e5-b7ac-d6a0fc86786d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/f4d38b1a-9230-47e5-b7ac-d6a0fc86786d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:06</itunes:duration>
-      <pubDate>Wed, 20 Mar 2024 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
