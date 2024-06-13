@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 09:27:46 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Jun 2024 11:05:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Jun 2024 11:23:28 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Jun 2024 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Johannes sin siste gave</title>
+      <description><![CDATA[Johannes har med en liten godbit fra en tidligere noe attåt til Adelina<3 Til stede: Adelina, Tete, Karsten, Daniel og Anna.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5e64edb7-dae3-4382-b7c0-07e97c591d71_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5e64edb7-dae3-4382-b7c0-07e97c591d71_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:17</itunes:duration>
+      <pubDate>Thu, 13 Jun 2024 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    </item>
     <item>
       <title>En siste dum ting</title>
       <description><![CDATA[Tete har ennå ikke tatt lappen og skal gripe sjansen til å øvelseskjøre med Adelina og Karsten. Hvem er den beste kjørelæreren?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>50:23</itunes:duration>
       <pubDate>Fri, 07 Jun 2024 11:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/I_wes_a4F-ZdWA5yUNiFQw8kqhZNX-hsS5_kiAU4LAxw.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Hvilken pels vil du ha?</title>
-      <description><![CDATA[Samtlige i gjengen fikk med lapp hjem fra skolen. Til stede: Tete, Johannes, Jenny og Anna.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9f41843a-4b62-4d4b-8560-6eed14774410_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9f41843a-4b62-4d4b-8560-6eed14774410_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:23</itunes:duration>
-      <pubDate>Thu, 06 Jun 2024 13:13:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
