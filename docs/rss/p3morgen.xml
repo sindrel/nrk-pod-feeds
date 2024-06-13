@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 10:30:46 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Jun 2024 12:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Jun 2024 09:27:46 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Jun 2024 11:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>En siste dum ting</title>
+      <description><![CDATA[Tete har ennå ikke tatt lappen og skal gripe sjansen til å øvelseskjøre med Adelina og Karsten. Hvem er den beste kjørelæreren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b34fdb6a-9631-42a2-8058-9a3e48d58440_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b34fdb6a-9631-42a2-8058-9a3e48d58440_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:37</itunes:duration>
+      <pubDate>Thu, 13 Jun 2024 11:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2_p5BA6pLsS39Z04H9yq4wSsgIISlTRYiFdikreZRXnw.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Airpods eller earpods</title>
       <description><![CDATA[Vi har spist sjokoladekurv og snakker om vårt foretrukne headset. Til stede: Adelina, Tete, Johannes og Anna.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>47:23</itunes:duration>
       <pubDate>Thu, 06 Jun 2024 13:13:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Henrik Thodesen kunne blitt rapstjerne</title>
-      <description><![CDATA[Gutta fra «Klovner i Kamp» er på besøk! De gir et tilbakeblikk på de gode gamle dagene, før deres kommende jubileumskonsert i august.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4d72ce63-e1c0-4e07-8e59-a3ef2ee11dc8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4d72ce63-e1c0-4e07-8e59-a3ef2ee11dc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:52</itunes:duration>
-      <pubDate>Thu, 06 Jun 2024 12:43:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qi1InhQs9HjFwZXxqLZuRgJAnP_X7_-NhZJcjwY9wMfQ.jpg"/>
     </item>
   </channel>
 </rss>
