@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-06-14  
+- Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2024-06-08  
 - Updated podcast 'Mias gym' (`mias_gym`)  
 ### 2024-05-23  
