@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 04:30:01 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Jun 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2024 08:29:34 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>ABELS KORK - Verdens største(?) musikkeksperiment (2:3)</title>
+      <description><![CDATA[Hvordan henger musikk og følelser sammen, og finnes det typisk manne- og kvinnemusikk?
+Sammen med Krinkastingsorkestret og musikkforskere ved Universitetet i Oslo får du både musikk og vitenskap i dette tredelte Abels tårn podkasten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/61a47ecc-eb12-4484-bb44-d3ec852cb5b7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/61a47ecc-eb12-4484-bb44-d3ec852cb5b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:41</itunes:duration>
+      <pubDate>Fri, 14 Jun 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PUrJK70hMOTyfL8iGOIDmwJI6ad8NWyvuB2CnFO8y9mg.jpg"/>
+    </item>
     <item>
       <title>Den store serien om KI (7.2:10) Chat GPTs norske utfordrer</title>
       <description><![CDATA[Bør forfatterne kjempe mot Chat GPT, eller heller inngå en avtale for å bidra til en norsk språkmodell? Hva skjer med dine data når du bruker slike modeller? Og hvordan lager man egentlig en språkmodell?]]></description>
@@ -127,15 +137,6 @@ Forskere mener rynker gjør at kroppen eldes, ikke motsatt]]></description>
       <itunes:duration>32:44</itunes:duration>
       <pubDate>Wed, 15 May 2024 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/F8SwUre0_XhBQqY0nWmd8wv26N_0Zko2AdSpdMlOvvnw.jpg"/>
-    </item>
-    <item>
-      <title>Den store serien om KI (X:10) Bonusepisode</title>
-      <description><![CDATA["Hvis KI tar det siste skrittet nå, er vi ferdige", sier matematiker Helge Holden om sin egen profesjon. Og sjakken? Den er allerede ferdig. ++ Bonusbonus: Bing & Bringsværd]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/8eb66160-ac3a-4d9a-989f-c5b545616150_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8eb66160-ac3a-4d9a-989f-c5b545616150_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:15</itunes:duration>
-      <pubDate>Fri, 10 May 2024 13:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TH0-KFpBVntS8Z9mUCbM8Qvf2BNpT2mI_Dmrb-ikATEw.jpg"/>
     </item>
   </channel>
 </rss>
