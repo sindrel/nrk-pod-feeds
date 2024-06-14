@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 18:32:35 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Jun 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2024 18:32:27 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ti år med Støre</title>
+      <description><![CDATA[I ti år har Jonas Gahr Støre ledet Arbeiderpartiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/be722981-b263-4fba-a7fa-6c7e53da82c7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/be722981-b263-4fba-a7fa-6c7e53da82c7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:49</itunes:duration>
+      <pubDate>Fri, 14 Jun 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SYyUOY5pfzFxMA8rmxwj1gewsIy2Q0SFTvlTlJrZ0uHw.jpg"/>
+    </item>
     <item>
       <title>PST-aksjon mot unge høyreekstreme</title>
       <description><![CDATA[PST har aksjonert over hele landet mot unge personer i høyreekstremt nettverk. 
@@ -92,15 +101,6 @@ Skal blant annet ha oppfordret til terror.]]></description>
       <itunes:duration>58:51</itunes:duration>
       <pubDate>Mon, 03 Jun 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/N7VxGoqExPcEbHLqf_Wj1QZOHiRil5T7W77VbmuB7ESg.jpg"/>
-    </item>
-    <item>
-      <title>Historisk dom</title>
-      <description><![CDATA[USAs eks-president Donald Trump er kjent skyldig i dokumentfalsk: Kan vinne valg i 2024.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3df26272-e1ed-45f4-8b86-af3dd7a3acb0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3df26272-e1ed-45f4-8b86-af3dd7a3acb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 31 May 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZwleyeKkDNLmYyOUuccVYQsmQcpYx5F6ahgEulOq7iSg.jpg"/>
     </item>
   </channel>
 </rss>
