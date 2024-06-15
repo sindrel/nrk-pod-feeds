@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-06-15  
+- Podcast 'Fantorangens vitseshow' is considered obsolete and will be ignored in the future (`fantorangens_vitseshow`)  
 ### 2024-06-14  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2024-06-08  
