@@ -265,7 +265,9 @@ const feeds = [
     "id": "fantorangens_vitseshow",
     "title": "De 10 siste fra Fantorangens vitseshow",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "feriestemning",
