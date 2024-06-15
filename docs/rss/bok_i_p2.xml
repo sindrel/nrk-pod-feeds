@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 04:29:36 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Jun 2024 06:01:00 +0200</pubDate>
+    <lastBuildDate>Sat, 15 Jun 2024 04:32:17 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Jun 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Forfatterintervjuet med Marit Eikemo</title>
+      <description><![CDATA["Det blir tyngre og tyngre å skrive" sier forfatteren om å skrive bøker. Nå er hun ute med romanen "Vi er brødrene Eikemo".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/805f89e3-e712-4bff-9572-84b229f1031c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/805f89e3-e712-4bff-9572-84b229f1031c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 15 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/V8YY_fZA8VQVFADKiTD33AmVMownsvRYVySA3MTOy-pw.jpg"/>
+    </item>
     <item>
       <title>Wolasmal, Levy og Fjeldbraaten</title>
       <description><![CDATA[En roman om reality-tv, et innblikk i Talibans Afghanistan og en roman om et vidunderbarn på piano.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Sun, 05 May 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/p0D_K_1K1jwcUpzpih_TygTEbCrY6GliMa44_T3je4Og.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Kjell Westö </title>
-      <description><![CDATA["Vi blir forelsket i hverandre, selv når det er krig", sier Kjell Westö om sin krigsroman «Skumring 1941».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/56f019bb-3290-40f4-926a-973fe2f2f40e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/56f019bb-3290-40f4-926a-973fe2f2f40e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:35</itunes:duration>
-      <pubDate>Sat, 04 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/A7UZ-uifxvBPQX6pOGHiow0toOIRXwKzeKRvB-s6fkeg.jpg"/>
     </item>
   </channel>
 </rss>
