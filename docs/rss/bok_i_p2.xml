@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 04:32:17 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Jun 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 16 Jun 2024 04:29:02 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Jun 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Hammad, Nesbø og Andersson</title>
+      <description><![CDATA[Denne uken anmelder vi «Gjenferdet inn» av Isabella Hammad, «Kongen av Os» av Jo Nesbø og «Studie i menneskelig atferd» av Lena Andersson.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/f761f9ad-345b-4d59-b28a-d80dab2bd88a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/f761f9ad-345b-4d59-b28a-d80dab2bd88a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sun, 16 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YzK79U1pfoVj8T2PDl2lJwJKMfbKh6Bo8TDiBmwehhPA.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Marit Eikemo</title>
       <description><![CDATA["Det blir tyngre og tyngre å skrive" sier forfatteren om å skrive bøker. Nå er hun ute med romanen "Vi er brødrene Eikemo".]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:36</itunes:duration>
       <pubDate>Sun, 12 May 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/T_Y-TE47x7zb6Xz2fx8l-wzzkhN0aBwnJyzVqYQKuIYg.jpg"/>
-    </item>
-    <item>
-      <title>Westö, Nordenhof, Keegan</title>
-      <description><![CDATA[Nydelige historier om kvinner og menn, en historie om den kalde krigen og en historie om kjærlighet og kapitalisme.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/5c303046-2e3b-4d66-a684-361da6d21ebb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/5c303046-2e3b-4d66-a684-361da6d21ebb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Sun, 05 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/p0D_K_1K1jwcUpzpih_TygTEbCrY6GliMa44_T3je4Og.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 04:30:01 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Jun 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 16 Jun 2024 04:29:21 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Jun 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Synne Vo</title>
+      <description><![CDATA[Synne Vo har laget vafler, hun og Else leker jeg har aldri, og snakker om musikk og kjærlighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/35538032-5a66-4460-8ab8-c91ca5af061f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/35538032-5a66-4460-8ab8-c91ca5af061f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:07</itunes:duration>
+      <pubDate>Sun, 16 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nJowzzZi8LBCMCFeAaYtGw1Mb0bHv4gBEO-y0YdLVKUQ.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Erik Solbakken</title>
       <description><![CDATA[Else og Erik bygger platting, snakker om kjærlighet, skummel sykkeltur og spiser vafler! Nydelig søndag!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>48:01</itunes:duration>
       <pubDate>Sun, 14 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Wr90YfDMxeAVIqhaFIdv-gn1hJ2T8nILAXZK8AuSF1Tw.jpg"/>
-    </item>
-    <item>
-      <title>Aktiv søndag: Bordtenniskameratene</title>
-      <description><![CDATA[Else prøver seg på en aktiv søndag, og besøker Bordtenniskameratene i Bjølsenhallen. Hvem er Kari Gjengedal, hvordan er humøret til Ole, og klarer Else å lære seg spillet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/d742d0b1-3fa2-475b-9064-67f73d995c47_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/d742d0b1-3fa2-475b-9064-67f73d995c47_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:00</itunes:duration>
-      <pubDate>Sun, 07 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3IVYUnZLg_rWbkQIgT-YGgHdXhD5xYDCjwrnI0XHrwgw.jpg"/>
     </item>
   </channel>
 </rss>
