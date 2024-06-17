@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 14 Jun 2024 18:32:27 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Jun 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Jun 2024 18:31:50 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Jun 2024 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Orderudsaken ikke gjenopptatt</title>
+      <description><![CDATA[Per og Veronica Orderud gir likevel ikke opp å bli frikjent for det 25 år gamle trippeldrapet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f7522587-56cf-4739-8e03-6a5c686371ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f7522587-56cf-4739-8e03-6a5c686371ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 17 Jun 2024 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qm5ywagjuWnnOMWa09LU3QgJwMdXxx5_sK21-TUEZGYQ.jpg"/>
+    </item>
     <item>
       <title>Ti år med Støre</title>
       <description><![CDATA[I ti år har Jonas Gahr Støre ledet Arbeiderpartiet.]]></description>
@@ -92,15 +101,6 @@ Skal blant annet ha oppfordret til terror.]]></description>
       <itunes:duration>58:50</itunes:duration>
       <pubDate>Tue, 04 Jun 2024 19:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ndO6JyWVhnrJE0ZjqG9atgVfH1__v5GPbhyEOc_Ngx1Q.jpg"/>
-    </item>
-    <item>
-      <title>Tvungen lønnsnemnd for Akademikerne</title>
-      <description><![CDATA[To fagforeninger med samme krav. Den ene måtte avslutte streiken på grunn av tvungen lønnsnemnd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b8f3aba0-dfec-4e92-a10b-6e4b818f861e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b8f3aba0-dfec-4e92-a10b-6e4b818f861e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:51</itunes:duration>
-      <pubDate>Mon, 03 Jun 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/N7VxGoqExPcEbHLqf_Wj1QZOHiRil5T7W77VbmuB7ESg.jpg"/>
     </item>
   </channel>
 </rss>
