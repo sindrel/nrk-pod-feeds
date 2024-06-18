@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 12:45:26 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Jun 2024 13:20:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Jun 2024 12:46:02 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Jun 2024 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Jan Petter Sissener</title>
+      <description><![CDATA[Mangemillionæren er ikke opptatt av likhet. -Jeg vil bare at flest mulig skal ha det bra og at vi skal ha en plan for fremtiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ff1c276c-4b85-447a-a990-c59f52679f17_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ff1c276c-4b85-447a-a990-c59f52679f17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Tue, 18 Jun 2024 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EA2FyqDsvAgc7ymifZRU4QgpMDG35T_LJgjRnWX0tGdg.jpg"/>
+    </item>
     <item>
       <title>Ingrid Kristiansen</title>
       <description><![CDATA[-Det er noe unorsk ved å være så gode i friidrett. Det sier løperlegenden etter den imponerende innsatsen i EM.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:13</itunes:duration>
       <pubDate>Mon, 27 May 2024 14:10:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6tEIaD78iu3-QL9vkRy-CQVmEguF6ektywEvxTGPLJ4A.jpg"/>
-    </item>
-    <item>
-      <title>Johanne Refseth</title>
-      <description><![CDATA[Kjærlighetssorg fikk psykologen til å begynne å sove ute i naturen. Nå driver hun instagramkontoen "psykolog med sovepose",  som har over 90 000 følgere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b005d786-5dc5-46aa-84bb-47dd4a310fc0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b005d786-5dc5-46aa-84bb-47dd4a310fc0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:58</itunes:duration>
-      <pubDate>Thu, 23 May 2024 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o3IPCEH8ibHTK9b94E-a6A35JazogHST_3_HMpazfaCQ.jpg"/>
     </item>
   </channel>
 </rss>
