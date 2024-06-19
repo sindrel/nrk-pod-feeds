@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 08:30:22 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Jun 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2024 08:30:30 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Jun 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Erasmus Montanus" av Ludvig Holberg</title>
+      <description><![CDATA[Ung mann bruker universitetsutdannelsen sin til å skremme folk på bygda]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2ebb94e5-6296-4f11-9923-cbe62d726ae9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2ebb94e5-6296-4f11-9923-cbe62d726ae9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:51</itunes:duration>
+      <pubDate>Wed, 19 Jun 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Folk og røvere i Kardemommeby" av Torbjørn Egner</title>
       <description><![CDATA[Lat politimester har griseflaks når røvere bare vil bidra til samfunnsregnskapet]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0ee0e2e9-dfc3-4d73-b153-28801973163f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:05</itunes:duration>
       <pubDate>Wed, 10 Apr 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"Voluspå" </title>
-      <description><![CDATA[Gudene skaper verden og 5 minutter senere kommer damene og ødelegger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/b6c66295-437c-49d7-902a-3c42c24141e9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/b6c66295-437c-49d7-902a-3c42c24141e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:33</itunes:duration>
-      <pubDate>Wed, 03 Apr 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
