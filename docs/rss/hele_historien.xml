@@ -1,42 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 4 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 May 2024 07:06:41 +0000</lastBuildDate>
-    <pubDate>Wed, 15 May 2024 06:02:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2024 18:32:12 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Jun 2024 19:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer:  Operasjon Libanon</title>
-      <description><![CDATA[I 1978 havner norske FN-soldater i strid i Libanon. Israel har invadert nabolandet på jakt etter palestinske terrorister. Publiseres onsdag 15. mai 2024.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/6308a5dc-1c71-4687-8a55-dc1e907b4edd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/6308a5dc-1c71-4687-8a55-dc1e907b4edd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32</itunes:duration>
-      <pubDate>Tue, 14 May 2024 09:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA.jpg"/>
+      <title>Bestyreren med sprøyta – Seriemorderen Arnfinn Nesset (1:4)</title>
+      <description><![CDATA[På sykehjemmet dør pasientene uventet, én etter én. Flere ansatte reagerer på oppførselen til bestyreren, som ofte er i nærheten når noen dør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/589ab971-e71d-43cd-bfba-3c0246b88844_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/589ab971-e71d-43cd-bfba-3c0246b88844_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:04</itunes:duration>
+      <pubDate>Wed, 19 Jun 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6Xg2iDAojD4vV3y8GEY9_QTzVqsd-tn4maw4FwrfcKDQ.jpg"/>
     </item>
     <item>
-      <title>I krig for fred – Operasjon Libanon (1:2)</title>
-      <description><![CDATA[De unge norske guttene som reiser til Libanon aner ikke hva som venter dem. Verken israelere eller palestinere vil ha dem der.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/fdf19205-9cf2-4bdd-973a-545e28bad017_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/fdf19205-9cf2-4bdd-973a-545e28bad017_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:29</itunes:duration>
-      <pubDate>Wed, 15 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA.jpg"/>
+      <title>Dødens korridorer – Seriemorderen Arnfinn Nesset (2:4)</title>
+      <description><![CDATA[Arrestasjonen av den vennlige bestyrer Nesset slår ned som en bombe. Han sliter med å forklare hvorfor han han bestilt gift til sykehjemmet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/18c90f5d-2791-4c37-9382-8b438a080603_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/18c90f5d-2791-4c37-9382-8b438a080603_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:30</itunes:duration>
+      <pubDate>Wed, 19 Jun 2024 19:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6Xg2iDAojD4vV3y8GEY9_QTzVqsd-tn4maw4FwrfcKDQ.jpg"/>
     </item>
     <item>
-      <title>Kampen om Ørneredet – Operasjon Libanon (2:2)</title>
-      <description><![CDATA[Kulene hagler og geriljaen nærmer seg. For første gang siden andre verdenskrig får norske soldater ordre om å skyte for å drepe.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/02824039-6f43-484a-aa6e-524dc3598afa_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/02824039-6f43-484a-aa6e-524dc3598afa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:34</itunes:duration>
-      <pubDate>Wed, 15 May 2024 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6q7BNylTddMlActUbhv6LQP8wD-ajw6ByeRQLxdZ8_iA.jpg"/>
+      <title>Retten er satt – Seriemorderen Arnfinn Nesset (3:4)</title>
+      <description><![CDATA[Under avhør tilstår Arnfinn Nesset å ha satt sprøyter med gift på mange eldre beboere ved sykehjemmet. Men i retten nekter han for alt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/75fa1528-5bd8-4712-898a-2d0e84f919e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/75fa1528-5bd8-4712-898a-2d0e84f919e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:07</itunes:duration>
+      <pubDate>Wed, 19 Jun 2024 19:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6Xg2iDAojD4vV3y8GEY9_QTzVqsd-tn4maw4FwrfcKDQ.jpg"/>
+    </item>
+    <item>
+      <title>Dommens dag – Seriemorderen Arnfinn Nesset (4:4)</title>
+      <description><![CDATA[Hele landet er i sjokk når Arnfinn Nesset dømmes for å ha drept 22 eldre beboere – med gift. Selv holder han fast på at han er helt uskyldig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/851f0ce0-16ba-4d20-805a-65dffaae816c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/851f0ce0-16ba-4d20-805a-65dffaae816c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:10</itunes:duration>
+      <pubDate>Wed, 19 Jun 2024 19:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6Xg2iDAojD4vV3y8GEY9_QTzVqsd-tn4maw4FwrfcKDQ.jpg"/>
     </item>
   </channel>
 </rss>
