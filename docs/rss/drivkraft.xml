@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 12:46:02 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Jun 2024 14:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Jun 2024 12:44:52 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jun 2024 14:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Annette Dragland</title>
+      <description><![CDATA[Annette Dragland driver Norges største helsepodkast "Leger om livet" med helhetlig fokus på helse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d43bad00-5685-4a14-8996-4081a4101b46_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d43bad00-5685-4a14-8996-4081a4101b46_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Thu, 20 Jun 2024 14:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KQLvqzEfB4pFAgND8WFjwQaVELUANwOtZs-uwks6HPcw.jpg"/>
+    </item>
     <item>
       <title>Jan Petter Sissener</title>
       <description><![CDATA[Mangemillionæren er ikke opptatt av likhet. -Jeg vil bare at flest mulig skal ha det bra og at vi skal ha en plan for fremtiden.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:54</itunes:duration>
       <pubDate>Tue, 28 May 2024 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9CddZvrD6adTfiF36pI2MQBxha4Z_AN1KX5W90r4yu-Q.jpg"/>
-    </item>
-    <item>
-      <title>Truls Brataas</title>
-      <description><![CDATA[Han er mannen bak Douchebags - sekkene "alle" vil ha. Det hele startet med at gründeren møtte skilegenden Jon Olsson på stranda.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6e4c1acf-caff-4268-95ee-1594e4141e24_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6e4c1acf-caff-4268-95ee-1594e4141e24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:13</itunes:duration>
-      <pubDate>Mon, 27 May 2024 14:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6tEIaD78iu3-QL9vkRy-CQVmEguF6ektywEvxTGPLJ4A.jpg"/>
     </item>
   </channel>
 </rss>
