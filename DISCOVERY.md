@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-06-20  
+- Updated podcast 'Hævvi' (`haevvi`)  
 ### 2024-06-19  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2024-06-15  
