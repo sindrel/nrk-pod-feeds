@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 08:30:35 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Jun 2024 09:35:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Jun 2024 08:30:28 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jun 2024 10:23:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Markus lager is med rekesmak</title>
+      <description><![CDATA[Kan kombinasjonen av sommerfavorittene reker og is være nøkkelen til å maksimere sommerstemningen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b2a60e6e-9125-4c13-bc89-e41c02922102_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b2a60e6e-9125-4c13-bc89-e41c02922102_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:00</itunes:duration>
+      <pubDate>Thu, 20 Jun 2024 10:23:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mwcxLtyIFr-T9K5CFYVEnAJnA_9S81F5-iU5EBuxZI4g.jpg"/>
+    </item>
     <item>
       <title>Syndefull hacking</title>
       <description><![CDATA[Anna undrer seg over en ny hackermetode, mens Markus sjekker om bygging av en hule kan gi sommerstemningen et løft!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>51:37</itunes:duration>
       <pubDate>Thu, 13 Jun 2024 11:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2_p5BA6pLsS39Z04H9yq4wSsgIISlTRYiFdikreZRXnw.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Airpods eller earpods</title>
-      <description><![CDATA[Vi har spist sjokoladekurv og snakker om vårt foretrukne headset. Til stede: Adelina, Tete, Johannes og Anna.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/569e8404-28d2-440d-81ce-21cd2c548397_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/569e8404-28d2-440d-81ce-21cd2c548397_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:42</itunes:duration>
-      <pubDate>Wed, 12 Jun 2024 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-iXaGOmU4SMktff9pVXTfgAT0d51WuTTsqF9AjnUvE1w.jpg"/>
     </item>
   </channel>
 </rss>
