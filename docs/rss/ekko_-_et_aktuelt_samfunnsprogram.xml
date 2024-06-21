@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 04:30:25 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Jun 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Jun 2024 04:30:07 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jun 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Spørretime om Facebook</title>
+      <description><![CDATA[Må jeg slette Facebook for å unngå KI-treningen de har planlagt, eller holder det med reservasjon? Ekspertene svarer lytterne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/39ee8812-654a-4d7e-98d9-e4645daee31b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/39ee8812-654a-4d7e-98d9-e4645daee31b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:04</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RcjVPSQacZH9GCZ4AFUdmAEjEfTJ0eaWlrKbdvwehlug.jpg"/>
+    </item>
     <item>
       <title>Har du en plan?</title>
       <description><![CDATA[Du skal kunne klare deg i 7 dager dersom Norge blir rammet av en krise. Men bare én av sju nordmenn har et eget beredskapslager.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>19:33</itunes:duration>
       <pubDate>Sat, 01 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9Eis_G57rpTwRXZKZASKDw_uLjo9Ne17RmUT8OWlI7pg.jpg"/>
-    </item>
-    <item>
-      <title>Betalingsvansker kan være dødelig</title>
-      <description><![CDATA[Flere enn på lenge tok livet sitt fjor. Hva er sammenhengen mellom økonomiske problemer og selvmord?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3794f4fc-25fa-4095-aa30-64eec0e3726d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3794f4fc-25fa-4095-aa30-64eec0e3726d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:35</itunes:duration>
-      <pubDate>Fri, 31 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L4zLyD-INcv4U-iEuRCYcgpodkqW_x40h4u12CbusKqw.jpg"/>
     </item>
   </channel>
 </rss>
