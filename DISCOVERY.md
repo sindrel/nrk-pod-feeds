@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-06-21  
+- Updated podcast 'Gamle greier' (`gamle_greier`)  
+- Added podcast 'Hei, nabo' (`hei_nabo`)  
 ### 2024-06-20  
 - Updated podcast 'Hævvi' (`haevvi`)  
 ### 2024-06-19  
