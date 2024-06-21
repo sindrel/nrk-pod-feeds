@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 4 siste fra Hei, nabo</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Hei, nabo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hei_nabo for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 21 Jun 2024 06:33:26 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jun 2024 06:04:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/PG6BkBqHwlrTWTDQ6biEWgjvbcO1PBDvS_41DUXXZOLQ.jpg"/>
+    <item>
+      <title>Gode forbilder (episode 4)</title>
+      <description><![CDATA[Lotta og Isabel lurer på om Youtube-stjernene Sara og Victoria lukter like søtt som de ser ut. Og hvordan fikk de egentlig en halv million følgere?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hei_nabo/843ef023-64d0-4049-8e7a-d94a72e267be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hei_nabo/843ef023-64d0-4049-8e7a-d94a72e267be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:04</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q_i6vvjI69yfmn91SMBhDwDBUkB9ih7oiq7CSwDIelzA.jpg"/>
+    </item>
+    <item>
+      <title>Innbrudd hos naboen (episode 3)</title>
+      <description><![CDATA[Lotta og Isabel besøker Tiktok-søstrene Selene og Angelika. Hva var egentlig greia med den rosa spaden? Og vil du høre en helt ny julesang? Følg med!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hei_nabo/1156cc0d-3c8f-4912-8977-3d7419b55a6d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hei_nabo/1156cc0d-3c8f-4912-8977-3d7419b55a6d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:42</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GhaiGRB_xuV7SJywV4XAkQgqg75oha081cT4vkutZJnw.jpg"/>
+    </item>
+    <item>
+      <title>Kyss en prinsesse (episode 2)</title>
+      <description><![CDATA[Cengiz Al er på ekte nabo med Lotta og Isabel. Nå er de på besøk for å finne ut hvor «Skal vi danse»-pokalen står og hvorfor han ikke kyssa Astrid S.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hei_nabo/fa1fdcff-296c-4e9f-89bc-791726f001a3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hei_nabo/fa1fdcff-296c-4e9f-89bc-791726f001a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:56</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Tp-iaihXEuMR-YghAMOBAg6R9h9l7K9VjvMS_8duoexQ.jpg"/>
+    </item>
+    <item>
+      <title>Drama på Rådhusplassen (episode 1)</title>
+      <description><![CDATA[Hvem er drømmenaboen til Selma Ibrahim? Og hvorfor trakk hun seg nesten fra BlimE-opptredenen på Rådhusplassen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hei_nabo/39386ca3-0037-4e57-9e35-528182d1b34d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hei_nabo/39386ca3-0037-4e57-9e35-528182d1b34d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:38</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3FVe69fNW6eUng218XpCHw6-feCYsOTUHKnkLq53FAtQ.jpg"/>
+    </item>
+  </channel>
+</rss>

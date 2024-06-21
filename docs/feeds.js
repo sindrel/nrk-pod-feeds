@@ -323,7 +323,7 @@ const feeds = [
     "id": "gamle_greier",
     "title": "De 10 siste fra Gamle greier",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "gfestallan_lisain",
@@ -386,6 +386,12 @@ const feeds = [
     "title": "De 10 siste fra Hævvi",
     "season": null,
     "enabled": false
+  },
+  {
+    "id": "hei_nabo",
+    "title": "De 10 siste fra Hei, nabo",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "heia_fotball",
