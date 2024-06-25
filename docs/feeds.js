@@ -1023,7 +1023,7 @@ const feeds = [
     "id": "reiseradioens_sommerleker",
     "title": "De 10 siste fra Reiseradioens sommerleker",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "revolusjonen",
