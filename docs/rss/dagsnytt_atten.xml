@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 24 Jun 2024 18:31:35 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Jun 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Jun 2024 18:32:26 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Jun 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Uro i Kenya</title>
+      <description><![CDATA[Over hele Kenya protesterer unge mennesker mot regjeringens nye skatteøkninger. Flere er drept.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eaf32bc4-a76b-400f-a493-5cff7a6b0aea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eaf32bc4-a76b-400f-a493-5cff7a6b0aea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 25 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KH7cUxB8dpD9GdwGc4XF_wZfzv_YzVXy4cYnQLgqBaOw.jpg"/>
+    </item>
     <item>
       <title>Lovutvalg vil straffe negativ sosial kontroll</title>
       <description><![CDATA[Vil blant annet straffe foreldre som sender barn på koranskoler og ulovlig utenlandsopphold.]]></description>
@@ -92,15 +101,6 @@ Skal blant annet ha oppfordret til terror.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 12 Jun 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MmnxwNNwrcCCuLiSwuW2SAv6WTMBtv9gbXhUJAbqFvwA.jpg"/>
-    </item>
-    <item>
-      <title>Blir det våpenhvile i Midtøsten?</title>
-      <description><![CDATA[Hamas klare for å forhandle om detaljene i en våpenhvile med Israel. Blir det nå slutt på krigen i Midtøsten?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3ad2b28b-da03-4196-b864-8c4212a74205_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3ad2b28b-da03-4196-b864-8c4212a74205_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 11 Jun 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X8xKp8ol2pZ1q7obCGv7ggl9XzMcjuLI2vJJZFofRUvg.jpg"/>
     </item>
   </channel>
 </rss>
