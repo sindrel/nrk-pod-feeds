@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 26 Jun 2024 17:27:23 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Jun 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Jun 2024 17:29:29 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Jun 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>– Hold deg unna den sterke sola</title>
+      <description><![CDATA[Trend blant unge å komme seg ut når UV-strålingen er høy, for å få sterkest mulig brunfarge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/035a0c4e-ac54-4afa-82b7-7dece308ffcf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/035a0c4e-ac54-4afa-82b7-7dece308ffcf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 27 Jun 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pobpohb6NCfP-L7nNxx64wp22W3acyqLj28mRIam7pYg.jpg"/>
+    </item>
     <item>
       <title>Politiet bevæpner seg under lørdagens Pride-markering</title>
       <description><![CDATA[Politiet forbereder seg på et folksomt Oslo sentrum under helgens Pride-markering. Er Oslo en trygg by for alle i helga?]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>58:49</itunes:duration>
       <pubDate>Fri, 14 Jun 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SYyUOY5pfzFxMA8rmxwj1gewsIy2Q0SFTvlTlJrZ0uHw.jpg"/>
-    </item>
-    <item>
-      <title>PST-aksjon mot unge høyreekstreme</title>
-      <description><![CDATA[PST har aksjonert over hele landet mot unge personer i høyreekstremt nettverk. 
-Skal blant annet ha oppfordret til terror.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3c311e91-08ef-43cf-870c-81d587e4085b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3c311e91-08ef-43cf-870c-81d587e4085b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 13 Jun 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hgPqA541WukcufZWDu_5QQbo-QmCNDYnqJyzOkqdknaA.jpg"/>
     </item>
   </channel>
 </rss>
