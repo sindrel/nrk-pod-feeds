@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-06-28  
+- Updated podcast 'Debatten' (`debatten`)  
+- Added podcast 'OL-gull' (`olgull`)  
 ### 2024-06-25  
 - Updated podcast 'Reiseradioens sommerleker' (`reiseradioens_sommerleker`)  
 ### 2024-06-24  
