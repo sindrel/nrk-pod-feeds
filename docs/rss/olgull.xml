@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 4 siste fra OL-gull</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten OL-gull. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/olgull for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Fri, 28 Jun 2024 06:33:24 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/y2an3qnykZd1Ck979G7TjQ5vRDXGBdF9g7btI9CaAdQQ.jpg"/>
+    <item>
+      <title>Sydney  2000</title>
+      <description><![CDATA[En ål ble en av OL-historiens mest uventede helter – og Dagny Mellgren sto for tidenes kommentatorekstase.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/olgull/0b0d068b-59e3-449d-b068-3e36ed11f49a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/0b0d068b-59e3-449d-b068-3e36ed11f49a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:32</itunes:duration>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zECbwaZQF3nkMRvIoAVmqwS5YmrJ6gprZHhp4AZavAMA.jpg"/>
+    </item>
+    <item>
+      <title>Barcelona 1992</title>
+      <description><![CDATA[1992 var året da superstjernene inntok OL, en kvinne fra Nøtterøy ble historisk og vi endelig slo Sovjet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/olgull/74349761-272d-4e91-a8f7-879ee620fa5e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/74349761-272d-4e91-a8f7-879ee620fa5e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:23</itunes:duration>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fHeob_dIWcoB853cc1v57w3mQM9rYVXkezkQHroynYmw.jpg"/>
+    </item>
+    <item>
+      <title>Atlanta 1996</title>
+      <description><![CDATA[Historien om da terroren traff OL-byen, den største tente ilden og den halve sjokoladen som skulle redde norsk OL-historie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/olgull/ac16b99f-f39e-4057-98ac-61e636064111_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/ac16b99f-f39e-4057-98ac-61e636064111_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:11</itunes:duration>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nUXaHRE1EvoJadG5r_MojgFNFrBdKBpD4q-Um2iCHhuA.jpg"/>
+    </item>
+    <item>
+      <title>Seoul 1988</title>
+      <description><![CDATA[Arrangørene slapp ut slitne duer som måtte bøte med livet. En 26-åring skjøt villsvin og en mann løp om kapp med en hest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/olgull/a8032df1-3d3c-4bf7-8691-105106ba0a43_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/a8032df1-3d3c-4bf7-8691-105106ba0a43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:45</itunes:duration>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iVKIGAj0epIwviq6tcWeuwGFtNiNLL1MutIEjWY68olA.jpg"/>
+    </item>
+  </channel>
+</rss>

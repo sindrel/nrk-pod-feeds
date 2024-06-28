@@ -153,7 +153,7 @@ const feeds = [
     "id": "debatten",
     "title": "De 10 siste fra Debatten",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "delfi_og_dolfy",
@@ -872,6 +872,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "olgull",
+    "title": "De 10 siste fra OL-gull",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "oppdatert",
