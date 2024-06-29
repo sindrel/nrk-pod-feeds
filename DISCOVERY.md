@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-06-29  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2024-06-28  
 - Updated podcast 'Debatten' (`debatten`)  
 - Added podcast 'OL-gull' (`olgull`)  
