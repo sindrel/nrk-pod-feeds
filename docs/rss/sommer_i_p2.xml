@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 01 Jul 2024 04:30:10 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2024 04:31:44 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Frida Marie Grande</title>
+      <description><![CDATA[Hver måned blir hun dypt deprimert. Grunnen er hormoner og syklus. Influenseren krever at vi tar kvinnehelse på alvor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e6caa9a5-985b-4caa-a5e9-ab86444ddf7d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e6caa9a5-985b-4caa-a5e9-ab86444ddf7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:48</itunes:duration>
+      <pubDate>Tue, 02 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YvM57cYgxHrQdp0bn3PBpAp4kQ-Tuy-WXbq9lu9QcjMw.jpg"/>
+    </item>
     <item>
       <title>Kjell Ingolf Ropstad</title>
       <description><![CDATA[Han innrømmer en grov feilvurdering for å slippe skatt. Krf-politikeren er fortsatt fryktelig lei seg.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>29:20</itunes:duration>
       <pubDate>Fri, 22 Dec 2023 06:06:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/n57E23az3S7FqT1sGZk8SwuXvjRTUZK5tHRr-l7_RyLg.jpg"/>
-    </item>
-    <item>
-      <title>Simen Velle</title>
-      <description><![CDATA[FpU-lederen leverte et brakvalg i høst. Hans urokkelige tro på frihet er ikke tatt ut av det blå.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5a8a82a9-1456-4902-927b-39d0ba11b60f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5a8a82a9-1456-4902-927b-39d0ba11b60f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:41</itunes:duration>
-      <pubDate>Fri, 22 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qkcd-0yqADrfDEJQDFskHwKqyqhkxO8PsQRIg6WBTsXw.jpg"/>
     </item>
   </channel>
 </rss>
