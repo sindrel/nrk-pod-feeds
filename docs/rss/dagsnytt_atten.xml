@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 01 Jul 2024 18:32:05 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jul 2024 19:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2024 18:32:05 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2024 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ny dom i Baneheia-saken</title>
+      <description><![CDATA[Jan Helge Andersen dømmes til fengsel i to år for drapet på Lena Sløgedal Paulsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d4356215-2f34-4a24-beb7-e570d0b62a92_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d4356215-2f34-4a24-beb7-e570d0b62a92_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 02 Jul 2024 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GBuFsNJnaeZkWfrCqMbH6w5Ot_hXEJ3qzn-F901AL37w.jpg"/>
+    </item>
     <item>
       <title>Økning i økonomisk kriminalitet</title>
       <description><![CDATA[Konsernsjefen i DNB slår alarm og etterlyser handling fra regjeringen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 19 Jun 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6XDOD-o3pO6tuJNEIs_ZgQB57IGiPxuW44vkjRN7NSAw.jpg"/>
-    </item>
-    <item>
-      <title>Ekspertutvalg foreslår ny narko-lovgivning</title>
-      <description><![CDATA[Vil at all narkotikabruk skal være straffbart.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/615da9fb-b713-4578-889f-6ddfc5010291_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/615da9fb-b713-4578-889f-6ddfc5010291_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 18 Jun 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/y0O5JSYJ8TgrDVOr5ltNrgfWf1ZlEVP-KCjB4aafMpJA.jpg"/>
     </item>
   </channel>
 </rss>
