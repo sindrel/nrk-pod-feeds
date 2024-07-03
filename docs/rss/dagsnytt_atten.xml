@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 Jul 2024 18:32:05 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jul 2024 19:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Jul 2024 18:30:23 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jul 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vil Joe Biden trekke seg?</title>
+      <description><![CDATA[Presset mot USAs president øker etter presidentdebatten forrige uke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5ab7eb6b-4952-4938-9974-e315fd32f04f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5ab7eb6b-4952-4938-9974-e315fd32f04f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 03 Jul 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9NIm2YsQO9szsWIZNqVWTgK88oO8WsMLlEE9cqQFk4aA.jpg"/>
+    </item>
     <item>
       <title>Ny dom i Baneheia-saken</title>
       <description><![CDATA[Jan Helge Andersen dømmes til fengsel i to år for drapet på Lena Sløgedal Paulsen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 20 Jun 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZXaXwbpH7Ek9j22GYJd1HQz-rUdDJtQzvPeciwT9_blg.jpg"/>
-    </item>
-    <item>
-      <title>–Arbeiderpartiet har mistet selvtilliten</title>
-      <description><![CDATA[Høyre stiller diagnosen i møte med Ap]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c9823612-1a2b-4ff2-9b7c-e15b28a03694_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c9823612-1a2b-4ff2-9b7c-e15b28a03694_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 19 Jun 2024 19:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6XDOD-o3pO6tuJNEIs_ZgQB57IGiPxuW44vkjRN7NSAw.jpg"/>
     </item>
   </channel>
 </rss>
