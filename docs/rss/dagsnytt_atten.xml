@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 18:30:23 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jul 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jul 2024 18:31:50 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jul 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Historisk dom i 25. juni-saken</title>
+      <description><![CDATA[Matapour dømmes til 30 års forvaring for grov terror]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/949080de-9764-44c5-ac7e-1fc9bba8e8bb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/949080de-9764-44c5-ac7e-1fc9bba8e8bb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 04 Jul 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oCwGxh8aAK3gdOF969PI7A92pH6ht0iAc3u6DrrluAUw.jpg"/>
+    </item>
     <item>
       <title>Vil Joe Biden trekke seg?</title>
       <description><![CDATA[Presset mot USAs president øker etter presidentdebatten forrige uke.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 21 Jun 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Odt0hoaIOR_-r4xA5Z7a_QHL-dRmUc1dG8z7_D7TgwRg.jpg"/>
-    </item>
-    <item>
-      <title>– Norge bør stramme inn</title>
-      <description><![CDATA[OECD peker på dyr distriktspolitikk og dyr sykelønn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/59660500-76e1-4406-b906-5e92fe1de212_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/59660500-76e1-4406-b906-5e92fe1de212_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 20 Jun 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZXaXwbpH7Ek9j22GYJd1HQz-rUdDJtQzvPeciwT9_blg.jpg"/>
     </item>
   </channel>
 </rss>
