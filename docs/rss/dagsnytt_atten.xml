@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 04 Jul 2024 18:31:50 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jul 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Jul 2024 18:31:37 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jul 2024 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Labour gjorde brakvalg i Storbritannia</title>
+      <description><![CDATA[14 år med konservativt styre er over: Nå blir det regjeringsskifte i Storbritannia.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/17f9144f-09d4-45ef-84f3-652175198cdb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/17f9144f-09d4-45ef-84f3-652175198cdb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Fri, 05 Jul 2024 20:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0Usp4HLpKxZWXJ8-HqLjAAgV9FU5vlXpFpUm5FNKmi0A.jpg"/>
+    </item>
     <item>
       <title>Historisk dom i 25. juni-saken</title>
       <description><![CDATA[Matapour dømmes til 30 års forvaring for grov terror]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 24 Jun 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZOEpzcKPW21mCFmr-Rk_rQ-3KsUUdP1ZoQv28gJqbnyA.jpg"/>
-    </item>
-    <item>
-      <title>Vil la lærerne bruke fysisk makt</title>
-      <description><![CDATA[Regjeringen vil at ansatte i skolen skal kunne gripe inn fysisk for å hindre at elever forstyrrer undervisningen eller kommer med verbale angrep.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/503e8174-5ce9-40b8-977b-b6228a2c13f7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/503e8174-5ce9-40b8-977b-b6228a2c13f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 21 Jun 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Odt0hoaIOR_-r4xA5Z7a_QHL-dRmUc1dG8z7_D7TgwRg.jpg"/>
     </item>
   </channel>
 </rss>
