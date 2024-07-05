@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 02 Jul 2024 01:39:08 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jul 2024 02:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Jul 2024 04:32:17 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Summerhauset 3: Se te hælvete å kom deg ut</title>
+      <description><![CDATA[Lars og Martin har tatt med seg gjengen ut på hyttetur. Sandra Kolstad er sommerens eneste gjest. Det blir kanskje et dikt og en ny summerhauset vignett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/28b8930d-2796-4ded-96fc-7e3bf65e4f0e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/28b8930d-2796-4ded-96fc-7e3bf65e4f0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:18</itunes:duration>
+      <pubDate>Fri, 05 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2yMKx3DXsYQ-_EQ6DN7OJg1f0MtLvexdgC-SeBsXn-3g.jpg"/>
+    </item>
     <item>
       <title>Sedler i sokka, machete rundt og hva slags sommer?</title>
       <description><![CDATA[Martin skal spille tennis i frankrike. Det blir premiere på is-test og spalten Machete rundt og sammen avslører de hvilken artist som er sommerens tegn.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:01:26</itunes:duration>
       <pubDate>Tue, 04 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
-    </item>
-    <item>
-      <title>Gabrielle: Bratislava og der er ikke Bergen</title>
-      <description><![CDATA[Artist Gabrielle er dagens gjest. Det blir preik om Bratislava, hva som er Bergen og angsten rundt å være kjent.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b994cdcc-00c2-4b4f-a26a-ff1d14e62361_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b994cdcc-00c2-4b4f-a26a-ff1d14e62361_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:59</itunes:duration>
-      <pubDate>Fri, 31 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jnByVrrtQVLhIcoREuSuKgx9tJ-JEbjplb7nSAGWPQew.jpg"/>
     </item>
   </channel>
 </rss>
