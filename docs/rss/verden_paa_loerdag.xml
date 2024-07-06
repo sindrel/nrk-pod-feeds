@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 04:30:35 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 06 Jul 2024 11:22:47 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Jul 2024 12:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Er tiden ute for Biden?</title>
+      <description><![CDATA[Joe Biden kjemper for livet etter en tøff uke. Vil nattens intervju berolige velgerne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/7e25ab37-0b2a-4253-85f4-69880031ffcb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/7e25ab37-0b2a-4253-85f4-69880031ffcb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:38</itunes:duration>
+      <pubDate>Sat, 06 Jul 2024 12:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KCmgyvlaHTWU1J1oIbnmeAu4lhL8M3CI1dYrk6oIEvwQ.jpg"/>
+    </item>
     <item>
       <title>Flukten fra Nord-Korea (REPRISE)</title>
       <description><![CDATA[En familie ville ut av verdens mest lukkede land.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>10:24</itunes:duration>
       <pubDate>Thu, 06 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xr-XSaQ8BM10uw4AfSui-wYrFxbyblwipqAuVVLXakTw.jpg"/>
-    </item>
-    <item>
-      <title>En kriminell presidentkandidat?</title>
-      <description><![CDATA[Vil republikanerne velge en straffedømt mann?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/6ca9e6f3-f0e1-4c8c-bb57-5d8e09bb4a38_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/6ca9e6f3-f0e1-4c8c-bb57-5d8e09bb4a38_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Sat, 01 Jun 2024 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TTa2KRVj0rzXYjbNU9aBbQGA76XZ6_VYLoFyOWavqCxA.jpg"/>
     </item>
   </channel>
 </rss>
