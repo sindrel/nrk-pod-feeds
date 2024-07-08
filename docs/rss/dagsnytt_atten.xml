@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 05 Jul 2024 18:31:37 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jul 2024 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jul 2024 18:32:27 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jul 2024 20:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kyiv angrepet på høylys dag</title>
+      <description><![CDATA[Flere ukrainske byer truffet av russiske raketter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/659ae6f3-7ef0-4fde-bd5d-4f6211ddd0ed_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/659ae6f3-7ef0-4fde-bd5d-4f6211ddd0ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 08 Jul 2024 20:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LgxA6EOkrm-hfaVC6w55iQ0MT_7l-LdN3Y7uH2scKHFA.jpg"/>
+    </item>
     <item>
       <title>Labour gjorde brakvalg i Storbritannia</title>
       <description><![CDATA[14 år med konservativt styre er over: Nå blir det regjeringsskifte i Storbritannia.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 25 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/KH7cUxB8dpD9GdwGc4XF_wZfzv_YzVXy4cYnQLgqBaOw.jpg"/>
-    </item>
-    <item>
-      <title>Lovutvalg vil straffe negativ sosial kontroll</title>
-      <description><![CDATA[Vil blant annet straffe foreldre som sender barn på koranskoler og ulovlig utenlandsopphold.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ea3b6b84-8267-4cfc-bc2a-42999bf26773_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ea3b6b84-8267-4cfc-bc2a-42999bf26773_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 24 Jun 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZOEpzcKPW21mCFmr-Rk_rQ-3KsUUdP1ZoQv28gJqbnyA.jpg"/>
     </item>
   </channel>
 </rss>
