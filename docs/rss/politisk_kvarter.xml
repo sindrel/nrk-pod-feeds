@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 05 Jul 2024 06:34:01 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jul 2024 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jul 2024 06:34:20 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jul 2024 07:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Politisk kvarter har sommarpause</title>
+      <description><![CDATA[Politisk kvarter er tilbake som direktesending og podkast mandag 5. august.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/b8541866-6e35-4948-b5f9-6f9b3f9fa479_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/b8541866-6e35-4948-b5f9-6f9b3f9fa479_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:45</itunes:duration>
+      <pubDate>Mon, 08 Jul 2024 07:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    </item>
     <item>
       <title>Simen Velle om cannabis, stortingsambisjoner og høyrevinden blant unge.</title>
       <description><![CDATA[FpU-leder Simen Velle kommenterer narkotikasaken fra 2019 og møter AUF leder Astrid Hoem om hva som driver høyrevinden blant unge i Norge og ute.]]></description>
@@ -96,17 +105,6 @@ Det som skulle bli en gladsak, endte i surr og trøbbel, sier Vadsø-ordfører n
       <itunes:duration>15:10</itunes:duration>
       <pubDate>Tue, 25 Jun 2024 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/D4Z00nuKIjxGTcVQdQeSqA99yZt7pvWRUjPeJCDxTQEg.jpg"/>
-    </item>
-    <item>
-      <title>Unge Høyre vil ha null kvoteflyktninger</title>
-      <description><![CDATA[Landsmøtet til Unge Høyre vedtok strengere innvandringspolitikk i helgen.
-
-Partiet vil ha null kvoteflyktninger til Norge, og sende asylsøkere til Rwanda.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/f849bb3e-720d-4b9b-8f0b-ad426f2d70bc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/f849bb3e-720d-4b9b-8f0b-ad426f2d70bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:02</itunes:duration>
-      <pubDate>Mon, 24 Jun 2024 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6bd6HG9Men1DLzqYhMlRnwhFQwC6GEkeghDTfrIn2cXw.jpg"/>
     </item>
   </channel>
 </rss>
