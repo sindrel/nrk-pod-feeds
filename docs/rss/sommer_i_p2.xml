@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 07 Jul 2024 04:29:25 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jul 2024 04:31:25 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Hadia Tajik</title>
+      <description><![CDATA[Vennene fikk gå på disco, hun måtte på bedehuset. Fordi hun var jente, måtte politikeren alltid bære familiens ære.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/fbf3a426-a25e-40c4-856f-e0828dbcb01a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/fbf3a426-a25e-40c4-856f-e0828dbcb01a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:36</itunes:duration>
+      <pubDate>Mon, 08 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kwaFnZENn80JaWkNdOepkQ7XRN4v_4kLXW4TjWV8RWfw.jpg"/>
+    </item>
     <item>
       <title>Sigrid Bratlie</title>
       <description><![CDATA[Snart tar vi kontroll over gener og lager nytt liv. Det gir molekylærbiologen tro på fremtiden - og noen søvnløse netter.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>30:02</itunes:duration>
       <pubDate>Mon, 24 Jun 2024 06:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3web_L7MZY_EP0BRyHxDNwB7x8IIjV-II_gmzoZhdHMw.jpg"/>
-    </item>
-    <item>
-      <title>Iselin Shumba</title>
-      <description><![CDATA[Hun mistet sønnen Storm, og vil aldri bli hel igjen. Nå vil skuespilleren og aktivisten bruke mammahjernen til å redde verden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/32d3b010-27db-442c-a60c-8654d3c89480_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/32d3b010-27db-442c-a60c-8654d3c89480_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:49</itunes:duration>
-      <pubDate>Mon, 24 Jun 2024 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ts5jcYpgmGI_3xhlti0gsQ-EIVQwwFVl5HmOE1kEfGBA.jpg"/>
     </item>
   </channel>
 </rss>
