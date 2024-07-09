@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-07-09  
+- Updated podcast 'Hævvi' (`haevvi`)  
 ### 2024-06-29  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2024-06-28  
