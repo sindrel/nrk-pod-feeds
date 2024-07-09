@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Jul 2024 04:31:25 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Jul 2024 04:30:06 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Metteson</title>
+      <description><![CDATA[På teaterhøgskolen skulle han være en svamp. Sverre Breivik vrenger opp alt han har suget til seg som artisten «Metteson».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/a8c26591-0049-4827-9072-1b1f3e1ae7a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/a8c26591-0049-4827-9072-1b1f3e1ae7a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:38</itunes:duration>
+      <pubDate>Tue, 09 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7_DB9Mt5WRXh12YwANAcng8xF6nd-qXsxvDHRoZP7vtw.jpg"/>
+    </item>
     <item>
       <title>Hadia Tajik</title>
       <description><![CDATA[Vennene fikk gå på disco, hun måtte på bedehuset. Fordi hun var jente, måtte politikeren alltid bære familiens ære.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>36:16</itunes:duration>
       <pubDate>Mon, 24 Jun 2024 06:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8F1tu2jbKu-vrcwrJ5PgFAqI3eBV6VJWdQYMaID87VeQ.jpg"/>
-    </item>
-    <item>
-      <title>Kim Wigaard</title>
-      <description><![CDATA[Som liten gutt raidet han mammas klesskap. Nå står dirigenten på drag-scenen og føler seg like sexy som Beyoncé.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/a2c5d021-2477-4588-b997-07aa8667624f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/a2c5d021-2477-4588-b997-07aa8667624f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:02</itunes:duration>
-      <pubDate>Mon, 24 Jun 2024 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3web_L7MZY_EP0BRyHxDNwB7x8IIjV-II_gmzoZhdHMw.jpg"/>
     </item>
   </channel>
 </rss>
