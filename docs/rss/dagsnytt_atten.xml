@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 08 Jul 2024 18:32:27 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jul 2024 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Jul 2024 18:32:11 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jul 2024 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kan Nato regne med USA?</title>
+      <description><![CDATA[Om få måneder er det amerikansk valg, hva skjer med forsvarsalliansen om Trump får makta?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ca83ed03-28ae-4891-83e3-e8d398787a5d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ca83ed03-28ae-4891-83e3-e8d398787a5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 09 Jul 2024 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m0K_AV00qgzdr5uNReqyagPIq2bgdNcI139qQDrWTg3A.jpg"/>
+    </item>
     <item>
       <title>Kyiv angrepet på høylys dag</title>
       <description><![CDATA[Flere ukrainske byer truffet av russiske raketter.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 26 Jun 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4Dsy3qGKNkehO3uKMv1uyQhBWVYCsbJrcWb-Sj9ZOTMQ.jpg"/>
-    </item>
-    <item>
-      <title>Uro i Kenya</title>
-      <description><![CDATA[Over hele Kenya protesterer unge mennesker mot regjeringens nye skatteøkninger. Flere er drept.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eaf32bc4-a76b-400f-a493-5cff7a6b0aea_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eaf32bc4-a76b-400f-a493-5cff7a6b0aea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 25 Jun 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KH7cUxB8dpD9GdwGc4XF_wZfzv_YzVXy4cYnQLgqBaOw.jpg"/>
     </item>
   </channel>
 </rss>
