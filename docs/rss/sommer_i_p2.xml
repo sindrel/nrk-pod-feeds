@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 04:32:12 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2024 04:29:49 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Maria Kjos Fonn</title>
+      <description><![CDATA[Drikke. Ligge. Flykte. Gjenta ved behov. Da forfatteren traff dikteren Martin sluttet hun endelig å rømme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/11f531bd-c574-4b8b-bde3-b5cfd0063923_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/11f531bd-c574-4b8b-bde3-b5cfd0063923_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:11</itunes:duration>
+      <pubDate>Fri, 12 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XDzD6Zp_Cum2v-H2OM9eUwZSlCwEB4Xns_QEr7cNCQNg.jpg"/>
+    </item>
     <item>
       <title>Petter Stordalen</title>
       <description><![CDATA[Hvordan permitterer man 8000 ansatte på Teams? Hotelleieren om næringslivets store opp- og nedturer.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:28</itunes:duration>
       <pubDate>Wed, 03 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WihM5Mk3MICBIMBW6pYvhAwRCQYR0jB1xsogDyKQca_g.jpg"/>
-    </item>
-    <item>
-      <title>Frida Marie Grande</title>
-      <description><![CDATA[Hver måned blir hun dypt deprimert. Grunnen er hormoner og syklus. Influenseren krever at vi tar kvinnehelse på alvor.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e6caa9a5-985b-4caa-a5e9-ab86444ddf7d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e6caa9a5-985b-4caa-a5e9-ab86444ddf7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:48</itunes:duration>
-      <pubDate>Tue, 02 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YvM57cYgxHrQdp0bn3PBpAp4kQ-Tuy-WXbq9lu9QcjMw.jpg"/>
     </item>
   </channel>
 </rss>
