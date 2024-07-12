@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 18:32:14 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jul 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2024 18:34:21 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jul 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Natos fremtid etter toppmøtet</title>
+      <description><![CDATA[Løfter til Ukraina og skarp tone mot Kina under Nato-toppmøtet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4311e38e-4007-4453-9a4e-086d27a5cb4d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4311e38e-4007-4453-9a4e-086d27a5cb4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Fri, 12 Jul 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y2vk40Yw52F0ySwA45FcowxcxPwhHJGQjmiS8VmndzLg.jpg"/>
+    </item>
     <item>
       <title>Strid om formueskatten treffer</title>
       <description><![CDATA[Flest kvinner og pensjonister som bare betaler formueskatt. Skivebom, mener Høyre.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 01 Jul 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fkWdvsDaqRhHaIYomtC9mg2P5AndEevncVqZM5itMNAw.jpg"/>
-    </item>
-    <item>
-      <title>Flere ber Biden trekke seg</title>
-      <description><![CDATA[Demokratene i panikk etter presidentdebatt, skriver The New York Times. Hva gjør Biden nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/66676c3b-9d89-4f95-b336-c105b4023e16_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/66676c3b-9d89-4f95-b336-c105b4023e16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:04</itunes:duration>
-      <pubDate>Fri, 28 Jun 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TGcJ72REPHTDYW8DFZVQdQZoIStLRhdkfWjtoJvml1Sg.jpg"/>
     </item>
   </channel>
 </rss>
