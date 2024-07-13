@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 04:29:49 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 13 Jul 2024 04:29:39 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Håvard Lilleheie</title>
+      <description><![CDATA[Folk sier «ta kontroll over livet ditt». Det gjør ikke skuespilleren. Livet bare skjer med ham.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/fe332ac9-adaf-44c4-b655-3eb6197e65fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/fe332ac9-adaf-44c4-b655-3eb6197e65fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:28</itunes:duration>
+      <pubDate>Sat, 13 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uVmOeFSSwkt47IsEs8QpYgcxT2rQ6udHrfjTr88cyjiQ.jpg"/>
+    </item>
     <item>
       <title>Maria Kjos Fonn</title>
       <description><![CDATA[Drikke. Ligge. Flykte. Gjenta ved behov. Da forfatteren traff dikteren Martin sluttet hun endelig å rømme.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>28:43</itunes:duration>
       <pubDate>Thu, 04 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x4uur26N5kdlHspl2TH0dwvHTwlQEWX9MMA8HJIUo1XA.jpg"/>
-    </item>
-    <item>
-      <title>Sara Vienna</title>
-      <description><![CDATA[Alt var synd der hun vokste opp. Den skeive modellen brøt med mormonerne og stupte inn i sex, sult og rus. Det måtte gå galt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/a73f00c9-b52f-4021-954c-cc37af4be1f5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/a73f00c9-b52f-4021-954c-cc37af4be1f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:28</itunes:duration>
-      <pubDate>Wed, 03 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WihM5Mk3MICBIMBW6pYvhAwRCQYR0jB1xsogDyKQca_g.jpg"/>
     </item>
   </channel>
 </rss>
