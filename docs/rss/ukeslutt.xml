@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 06 Jul 2024 14:27:15 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Jul 2024 15:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 13 Jul 2024 13:26:05 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jul 2024 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Hva het du nå igjen?</title>
+      <description><![CDATA[Ikke bare statsledere, men også vanlige folk glemmer navn. Hva er navneafasi og hvorfor skjer det med så mange av oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/5b834941-0c68-4766-9ffe-54e503ca9ed2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/5b834941-0c68-4766-9ffe-54e503ca9ed2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:40</itunes:duration>
+      <pubDate>Sat, 13 Jul 2024 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qbUMBB0B3t_UJcFcJiZ3nwYBbVeWJZIYFvexezpA2Krg.jpg"/>
+    </item>
     <item>
       <title>Grønt skifte i oppdrettsnæringen?</title>
       <description><![CDATA[Villaksen sliter og mange elver er stengt. Oppdrettsnæringen får mye av skylda. Hvor vanskelig er det egentlig å produsere laks uten lus? På Helgeland hevder de å ha løsningen. Fiskeriministeren svarer hos oss.]]></description>
@@ -96,15 +105,6 @@ Vi skal også innom Premier League-avslutninga, Taylor Swift-feber i Sverige, sk
       <itunes:duration>56:49</itunes:duration>
       <pubDate>Sat, 11 May 2024 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3MpW30PiAo6gg5ZhtHmxFAc7UtA5624lrJoeHf0OQn0Q.jpg"/>
-    </item>
-    <item>
-      <title>Tidenes dyreste russeknute</title>
-      <description><![CDATA[Nå står han frem: Russen som sørget for at en hel by måtte evakueres.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/4d75d198-d7db-43f5-b160-5952be5a5c4e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/4d75d198-d7db-43f5-b160-5952be5a5c4e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Sat, 04 May 2024 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KSWgnDtqyVFgIvPaBA98pQF8Q_ShzyfucoP24Wu2WNpQ.jpg"/>
     </item>
   </channel>
 </rss>
