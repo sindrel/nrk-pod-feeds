@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 07 Jul 2024 04:29:29 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 14 Jul 2024 04:32:17 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Reprise: Morten Ramm, snufsing, russetiden og politianmeldelse</title>
+      <description><![CDATA[Morten Ramm forteller om snufsingen som kostet ham seksti tusen kroner, om hva han synes om russetiden, og om hvorfor han anmeldte seg selv til politiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/c9c57703-3943-4924-a624-26652cda57b2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c9c57703-3943-4924-a624-26652cda57b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:42</itunes:duration>
+      <pubDate>Sun, 14 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/El-sDeKtByOTpnqf5uYnsQy56kYIjP2B8po0IKke_wRw.jpg"/>
+    </item>
     <item>
       <title>Reprise: Jon Almaas, hønsenetting og kjæresterier</title>
       <description><![CDATA[Selveste Jon Almaas kommer på besøk og søstrene er mildt sagt nervøse. Jon finner hønsenettingen til Else og mener bestemt at det kan brukes til noe.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:31</itunes:duration>
       <pubDate>Sun, 12 May 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Hk5jDK9NrsHwYKDhtmsWgQy7p0gK0WaMdt7FCcVboDRQ.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter!</title>
-      <description><![CDATA[Tinderdates, kjendishistorier og parodier: her får du det beste fra søndagsbrunsj med Else!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/b9b3782c-4538-4496-9220-852408e0f8a8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/b9b3782c-4538-4496-9220-852408e0f8a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:54</itunes:duration>
-      <pubDate>Sun, 05 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/36ajY7sAYiWt3No5mr8ZIglvcMVlhysxGC0fedYEXp9g.jpg"/>
     </item>
   </channel>
 </rss>

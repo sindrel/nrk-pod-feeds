@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 13 Jul 2024 04:29:39 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 14 Jul 2024 04:32:13 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Gunilla Süssmann</title>
+      <description><![CDATA[Farfaren hennes overlevde Holocaust fordi han var musiker. For konsertpianisten ble musikken en glede, men også en tung arv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/08ecf056-395e-42cd-8095-42230d94d3d4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/08ecf056-395e-42cd-8095-42230d94d3d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:28</itunes:duration>
+      <pubDate>Sun, 14 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cqtCDez-WeQ7waE1FvpDEgIEPXE8-ibay1pGzx_SEDdg.jpg"/>
+    </item>
     <item>
       <title>Håvard Lilleheie</title>
       <description><![CDATA[Folk sier «ta kontroll over livet ditt». Det gjør ikke skuespilleren. Livet bare skjer med ham.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:52</itunes:duration>
       <pubDate>Fri, 05 Jul 2024 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9l--WAA1aA4hj3BPERSaTQ2QDHzWf9gU6WrF25e0QJWQ.jpg"/>
-    </item>
-    <item>
-      <title>Erling Fossen</title>
-      <description><![CDATA[Oslo feirer dobbeltjubileum. Byen med det store hjertet har endelig fått tilbake selvtilliten, mener urbanisten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/bc9eba93-babd-4925-b9fb-7f6b12e094ae_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/bc9eba93-babd-4925-b9fb-7f6b12e094ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:43</itunes:duration>
-      <pubDate>Thu, 04 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x4uur26N5kdlHspl2TH0dwvHTwlQEWX9MMA8HJIUo1XA.jpg"/>
     </item>
   </channel>
 </rss>
