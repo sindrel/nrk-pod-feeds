@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 14 Jul 2024 04:32:13 +0000</lastBuildDate>
-    <pubDate>Sun, 14 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 04:32:14 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Cato Zahl Pedersen</title>
+      <description><![CDATA[Når du mister begge armene kan det være lett å få mye sympati. Idrettshelten vil heller ha motstand.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/8c282b0f-4bea-4f34-9012-a9c2a4ed4cd9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/8c282b0f-4bea-4f34-9012-a9c2a4ed4cd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:20</itunes:duration>
+      <pubDate>Mon, 15 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/siRbDVT0Dk1PMKLQoYG3Cg8WrSiaQU0mpkUPcLnr1pog.jpg"/>
+    </item>
     <item>
       <title>Gunilla Süssmann</title>
       <description><![CDATA[Farfaren hennes overlevde Holocaust fordi han var musiker. For konsertpianisten ble musikken en glede, men også en tung arv.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>37:38</itunes:duration>
       <pubDate>Sat, 06 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb5fv1IMX8hGFqEm3Mv9GwJRD3RtJMqQ8mReEXOiYgrw.jpg"/>
-    </item>
-    <item>
-      <title>Mimmi Tamba</title>
-      <description><![CDATA[Hår betyr alt! Da Mimmi forlot sykehuset etter å ha vært i livsfare, dro hun rett til frisøren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/c5d2f857-c7b5-44f0-8b20-ec930bc5ba4c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/c5d2f857-c7b5-44f0-8b20-ec930bc5ba4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:52</itunes:duration>
-      <pubDate>Fri, 05 Jul 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9l--WAA1aA4hj3BPERSaTQ2QDHzWf9gU6WrF25e0QJWQ.jpg"/>
     </item>
   </channel>
 </rss>
