@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 18:34:21 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jul 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:33:06 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Trump velges formelt</title>
+      <description><![CDATA[Trump velges som republikanernes presidentkandidat. Vil attentatet påvirke valgkampen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/488255e3-7c5a-44a4-9ae9-f1912dcd258d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/488255e3-7c5a-44a4-9ae9-f1912dcd258d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 15 Jul 2024 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/d9rGMGVAREjId8bQ2rKPfAeJPkfo0lVxt0ozgriAf9UQ.jpg"/>
+    </item>
     <item>
       <title>Natos fremtid etter toppmøtet</title>
       <description><![CDATA[Løfter til Ukraina og skarp tone mot Kina under Nato-toppmøtet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 02 Jul 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GBuFsNJnaeZkWfrCqMbH6w5Ot_hXEJ3qzn-F901AL37w.jpg"/>
-    </item>
-    <item>
-      <title>Økning i økonomisk kriminalitet</title>
-      <description><![CDATA[Konsernsjefen i DNB slår alarm og etterlyser handling fra regjeringen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/73aa0a1d-a7c8-4500-a594-43b4ba855d83_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/73aa0a1d-a7c8-4500-a594-43b4ba855d83_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 01 Jul 2024 19:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fkWdvsDaqRhHaIYomtC9mg2P5AndEevncVqZM5itMNAw.jpg"/>
     </item>
   </channel>
 </rss>
