@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 04:32:14 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Jul 2024 04:30:18 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Hedda Hosås</title>
+      <description><![CDATA[Kan eigentleg kvinner ratte bil? Ho køyrer elektrisk offroad rallycross i verdstoppen, men må likevel bevise at ho er god nok.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e489c5cf-ee64-4ced-9c7d-6dc1073a63bf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e489c5cf-ee64-4ced-9c7d-6dc1073a63bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:14</itunes:duration>
+      <pubDate>Tue, 16 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8Yq9qfCqwRCHj61Sy-oB5ArqjmoE-gKCbeABTMknqmhA.jpg"/>
+    </item>
     <item>
       <title>Cato Zahl Pedersen</title>
       <description><![CDATA[Når du mister begge armene kan det være lett å få mye sympati. Idrettshelten vil heller ha motstand.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>35:26</itunes:duration>
       <pubDate>Sun, 07 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LnVJ_GZkuFesQpqTAoLvTgZIOlCpY0CE0d4SXUME_Wyw.jpg"/>
-    </item>
-    <item>
-      <title>Benjamin Ree</title>
-      <description><![CDATA[Han kommer aldri helt i mål før han har ødelagt for seg selv. Regissøren bak «Ibelin» tviler seg syk, suksessen til tross.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/25a2e3f9-cbed-4f00-96eb-5c602720eb60_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/25a2e3f9-cbed-4f00-96eb-5c602720eb60_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:38</itunes:duration>
-      <pubDate>Sat, 06 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb5fv1IMX8hGFqEm3Mv9GwJRD3RtJMqQ8mReEXOiYgrw.jpg"/>
     </item>
   </channel>
 </rss>
