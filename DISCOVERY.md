@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-07-17  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2024-07-13  
 - Podcast 'Eventyrstund med Morten og Saft' is considered obsolete and will be ignored in the future (`eventyrstund_med_morten_og_saft`)  
 ### 2024-07-09  
