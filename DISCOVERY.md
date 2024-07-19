@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-07-19  
+- Updated podcast 'Arena' (`arena`)  
+- Updated podcast 'Labyrint om natten' (`labyrint_om_natten`)  
 ### 2024-07-17  
 - Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2024-07-13  
