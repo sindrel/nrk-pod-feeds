@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 18 Jul 2024 18:33:27 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jul 2024 19:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 18:32:17 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kaos etter IT-kollaps</title>
+      <description><![CDATA[Fortsatt kaos mange steder etter historiens største IT-kollaps.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a207985c-a0c0-4840-8c69-522ba23d9673_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a207985c-a0c0-4840-8c69-522ba23d9673_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 19 Jul 2024 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yvf_Rp9NXs_HbxcA7Sa-WwuR_86UbP9OjlT1qR98DXkg.jpg"/>
+    </item>
     <item>
       <title>Storbritannia leder europeisk toppmøte</title>
       <description><![CDATA[Nyvalgte Keir Starmer er vertskap for ledere fra rundt 50 land.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 08 Jul 2024 20:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LgxA6EOkrm-hfaVC6w55iQ0MT_7l-LdN3Y7uH2scKHFA.jpg"/>
-    </item>
-    <item>
-      <title>Labour gjorde brakvalg i Storbritannia</title>
-      <description><![CDATA[14 år med konservativt styre er over: Nå blir det regjeringsskifte i Storbritannia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/17f9144f-09d4-45ef-84f3-652175198cdb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/17f9144f-09d4-45ef-84f3-652175198cdb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Fri, 05 Jul 2024 20:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0Usp4HLpKxZWXJ8-HqLjAAgV9FU5vlXpFpUm5FNKmi0A.jpg"/>
     </item>
   </channel>
 </rss>
