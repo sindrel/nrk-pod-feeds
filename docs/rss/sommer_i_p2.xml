@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 18 Jul 2024 04:31:35 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 20 Jul 2024 04:32:05 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Nikolai Torgersen</title>
+      <description><![CDATA[Joda, det blir bra kunst av jævlige opplevelser. Og kunstneren har nok å ta av. Men er det verd det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/4a7bb54d-e349-4a0d-b99c-48a58692fe4b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/4a7bb54d-e349-4a0d-b99c-48a58692fe4b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:57</itunes:duration>
+      <pubDate>Sat, 20 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VrHkvb4a_9iyBgXmO4m8ngqIdU22puVbvisPlcwzfyUg.jpg"/>
+    </item>
     <item>
       <title>Jenny Gehrken</title>
       <description><![CDATA[I ti dager skal hun meditere og holde kjeft. Men influenseren finner ikke roen. Hun gruer seg til å skuffe faren sin igjen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>40:08</itunes:duration>
       <pubDate>Thu, 11 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NQs2SJOukFTUL8ThtSKaPQaoRqHoo24xWWs75L0eHUPg.jpg"/>
-    </item>
-    <item>
-      <title>Sissel Kruse Larsen</title>
-      <description><![CDATA[– Om vi stopper adopsjon fra utlandet, svikter vi barn som sårt fortjener familier. Nato-rådgiveren hentet datteren Ingrid i Peru.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/da357181-0ec6-4181-ad50-d114e6bf96b4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/da357181-0ec6-4181-ad50-d114e6bf96b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:19</itunes:duration>
-      <pubDate>Wed, 10 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/07uheDtqt2XYDDDPD28fgQOC-qtjCWZyBr1D4Y2BBTOQ.jpg"/>
     </item>
   </channel>
 </rss>
