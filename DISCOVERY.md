@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-07-21  
+- Updated podcast 'Drivkraft' (`drivkraft`)  
+- Updated podcast 'Hei, nabo' (`hei_nabo`)  
 ### 2024-07-20  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 - Updated podcast 'Kjente bøker på 4 minutter' (`kjente_boeker_paa_4_minutter`)  
