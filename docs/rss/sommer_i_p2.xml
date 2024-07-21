@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 20 Jul 2024 04:32:05 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Jul 2024 04:29:48 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Lone Beate Ebeltoft</title>
+      <description><![CDATA[–  Åndelighet er et bånd mellom meg og naturen, menneskene før meg og de som kommer etter. Dette er trossamfunnet Naturfolk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/12242368-99c8-4551-9127-b62bd4701fef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/12242368-99c8-4551-9127-b62bd4701fef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:36</itunes:duration>
+      <pubDate>Sun, 21 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eWp61O9iF1lBhoyNqPx9hwwOXN3XXUvnFdK2Osx4eZDA.jpg"/>
+    </item>
     <item>
       <title>Nikolai Torgersen</title>
       <description><![CDATA[Joda, det blir bra kunst av jævlige opplevelser. Og kunstneren har nok å ta av. Men er det verd det?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>42:11</itunes:duration>
       <pubDate>Fri, 12 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XDzD6Zp_Cum2v-H2OM9eUwZSlCwEB4Xns_QEr7cNCQNg.jpg"/>
-    </item>
-    <item>
-      <title>Petter Stordalen</title>
-      <description><![CDATA[Hvordan permitterer man 8000 ansatte på Teams? Hotelleieren om næringslivets store opp- og nedturer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/6161751f-dc12-49bf-bfc8-667c1224ba9b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/6161751f-dc12-49bf-bfc8-667c1224ba9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:08</itunes:duration>
-      <pubDate>Thu, 11 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NQs2SJOukFTUL8ThtSKaPQaoRqHoo24xWWs75L0eHUPg.jpg"/>
     </item>
   </channel>
 </rss>
