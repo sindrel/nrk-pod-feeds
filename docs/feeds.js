@@ -193,7 +193,7 @@ const feeds = [
     "id": "drivkraft",
     "title": "De 10 siste fra Drivkraft",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "eallima_mohkit",
@@ -393,7 +393,7 @@ const feeds = [
     "id": "hei_nabo",
     "title": "De 10 siste fra Hei, nabo",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "heia_fotball",
