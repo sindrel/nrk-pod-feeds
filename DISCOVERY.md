@@ -1,4 +1,10 @@
 # Podcast Discovery Changelog  
+### 2024-07-22  
+- Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
+- Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
+- Updated podcast 'P3morgen' (`p3morgen`)  
+- Updated podcast 'Studio 2' (`studio_2`)  
+- Updated podcast 'Åpen bok' (`bok_i_p2`)  
 ### 2024-07-21  
 - Updated podcast 'Drivkraft' (`drivkraft`)  
 - Updated podcast 'Hei, nabo' (`hei_nabo`)  
