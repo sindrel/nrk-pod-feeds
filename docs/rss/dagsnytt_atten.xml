@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 19 Jul 2024 18:32:17 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jul 2024 19:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jul 2024 18:32:37 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Bred støtte til Harris</title>
+      <description><![CDATA[Kamala Harris er favoritt til å ta over for Joe Biden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/915481d5-6bd6-440f-a2dd-82deb2e26352_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/915481d5-6bd6-440f-a2dd-82deb2e26352_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 22 Jul 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sTCRt9P1ALT33OJ6IBS5bwo-1t1rQzs9Sy_6tgDKy0UA.jpg"/>
+    </item>
     <item>
       <title>Kaos etter IT-kollaps</title>
       <description><![CDATA[Fortsatt kaos mange steder etter historiens største IT-kollaps.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 09 Jul 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/m0K_AV00qgzdr5uNReqyagPIq2bgdNcI139qQDrWTg3A.jpg"/>
-    </item>
-    <item>
-      <title>Kyiv angrepet på høylys dag</title>
-      <description><![CDATA[Flere ukrainske byer truffet av russiske raketter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/659ae6f3-7ef0-4fde-bd5d-4f6211ddd0ed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/659ae6f3-7ef0-4fde-bd5d-4f6211ddd0ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 08 Jul 2024 20:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LgxA6EOkrm-hfaVC6w55iQ0MT_7l-LdN3Y7uH2scKHFA.jpg"/>
     </item>
   </channel>
 </rss>
