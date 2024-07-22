@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 21 Jul 2024 04:29:48 +0000</lastBuildDate>
-    <pubDate>Sun, 21 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jul 2024 04:31:28 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Martha Leivestad</title>
+      <description><![CDATA[Kjærlighetssorg, ungdomstid og utbrenthet. Det finnes en medisin som har fått komikeren gjennom alt: film.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/f2859a58-3680-4788-b975-8ce1843b3ade_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/f2859a58-3680-4788-b975-8ce1843b3ade_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:23</itunes:duration>
+      <pubDate>Mon, 22 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AyTGQwzAm2FTp49bu8gXDAGs9ngS-doG0_uTNBfdmdFw.jpg"/>
+    </item>
     <item>
       <title>Lone Beate Ebeltoft</title>
       <description><![CDATA[–  Åndelighet er et bånd mellom meg og naturen, menneskene før meg og de som kommer etter. Dette er trossamfunnet Naturfolk.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>44:28</itunes:duration>
       <pubDate>Sat, 13 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uVmOeFSSwkt47IsEs8QpYgcxT2rQ6udHrfjTr88cyjiQ.jpg"/>
-    </item>
-    <item>
-      <title>Maria Kjos Fonn</title>
-      <description><![CDATA[Drikke. Ligge. Flykte. Gjenta ved behov. Da forfatteren traff dikteren Martin sluttet hun endelig å rømme.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/11f531bd-c574-4b8b-bde3-b5cfd0063923_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/11f531bd-c574-4b8b-bde3-b5cfd0063923_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:11</itunes:duration>
-      <pubDate>Fri, 12 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XDzD6Zp_Cum2v-H2OM9eUwZSlCwEB4Xns_QEr7cNCQNg.jpg"/>
     </item>
   </channel>
 </rss>
