@@ -97,7 +97,7 @@ const feeds = [
     "id": "bok_i_p2",
     "title": "De 10 siste fra Åpen bok",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "brannbamsen_bjoernis",
@@ -111,7 +111,7 @@ const feeds = [
     "id": "brenner_deler_dikt",
     "title": "De 10 siste fra Brenner deler dikt",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "brillebjoerns_kvissvas",
@@ -827,7 +827,7 @@ const feeds = [
     "id": "norsken_svensken_og_dansken",
     "title": "De 10 siste fra Norsken, svensken og dansken",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "nrkbeta",
@@ -907,7 +907,7 @@ const feeds = [
     "id": "p3morgen",
     "title": "De 10 siste fra P3morgen",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "paalogga",
@@ -1219,7 +1219,7 @@ const feeds = [
     "id": "studio_2",
     "title": "De 10 siste fra Studio 2",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "supernytt",
