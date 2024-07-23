@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 22 Jul 2024 18:32:37 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jul 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Jul 2024 17:28:36 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jul 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Nygaard-saken henlegges ikke</title>
+      <description><![CDATA[Riksadvokaten omgjør henleggelsen av straffesaken etter attentatet mot William Nygaard.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1aedd4b4-c854-4d43-9548-8796fa4416a4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1aedd4b4-c854-4d43-9548-8796fa4416a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 23 Jul 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uLSTPRcvSbRBXUg6KqZQhg89kDNvVfNViein-hLsmEBg.jpg"/>
+    </item>
     <item>
       <title>Bred støtte til Harris</title>
       <description><![CDATA[Kamala Harris er favoritt til å ta over for Joe Biden.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:50</itunes:duration>
       <pubDate>Wed, 10 Jul 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/F0otVbhGSmdbAdPqA0Z0egXUJM2PfwzV-CRqjZnXjNSA.jpg"/>
-    </item>
-    <item>
-      <title>Kan Nato regne med USA?</title>
-      <description><![CDATA[Om få måneder er det amerikansk valg, hva skjer med forsvarsalliansen om Trump får makta?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ca83ed03-28ae-4891-83e3-e8d398787a5d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ca83ed03-28ae-4891-83e3-e8d398787a5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 09 Jul 2024 19:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/m0K_AV00qgzdr5uNReqyagPIq2bgdNcI139qQDrWTg3A.jpg"/>
     </item>
   </channel>
 </rss>
