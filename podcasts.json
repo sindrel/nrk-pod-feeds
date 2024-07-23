@@ -526,6 +526,12 @@
         "enabled": true
     },
     {
+        "id": "klassenraadet",
+        "title": "De 10 siste fra Klassen-rådet",
+        "season": null,
+        "enabled": false
+    },
+    {
         "id": "klassequizen",
         "title": "De 10 siste fra Klassequizen",
         "season": "LATEST_SEASON",

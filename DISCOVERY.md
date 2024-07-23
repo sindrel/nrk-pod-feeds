@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-07-23  
+- Added podcast 'Klassen-rådet' (`klassenraadet`)  
 ### 2024-07-22  
 - Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
 - Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
