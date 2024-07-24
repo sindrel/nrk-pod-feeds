@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 17:28:36 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jul 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2024 18:35:06 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jul 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Funn av polio i Gaza</title>
+      <description><![CDATA[WHO frykter nå en polioepidemi i Gaza, hvor helsevesenet allerede er på bristepunktet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2c3358cc-9180-43c4-8fd1-b0abbe9c0aca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2c3358cc-9180-43c4-8fd1-b0abbe9c0aca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 24 Jul 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1bFVnZO9U2V76b-2tN6wzwlR0Yhmds8WKBTM3VyGUjKQ.jpg"/>
+    </item>
     <item>
       <title>Nygaard-saken henlegges ikke</title>
       <description><![CDATA[Riksadvokaten omgjør henleggelsen av straffesaken etter attentatet mot William Nygaard.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Thu, 11 Jul 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zIYYFx8R3g81rd2bcYS0kQa35Iy51cvFcD79Mf32q1Cw.jpg"/>
-    </item>
-    <item>
-      <title>Professorer reiste til russisk kulturfestival</title>
-      <description><![CDATA[Universitetet i Tromsø beklager at to professorer reiste til russisk kulturfestival. Professor slår tilbake]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e990abca-33a6-42bb-9209-86e1d6ae6770_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e990abca-33a6-42bb-9209-86e1d6ae6770_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:50</itunes:duration>
-      <pubDate>Wed, 10 Jul 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/F0otVbhGSmdbAdPqA0Z0egXUJM2PfwzV-CRqjZnXjNSA.jpg"/>
     </item>
   </channel>
 </rss>
