@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 24 Jul 2024 18:35:06 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jul 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 25 Jul 2024 18:31:51 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jul 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Netanyahu besøker Det hvite hus</title>
+      <description><![CDATA[Skal diskutere forhandlinger om våpenhvile med Joe Biden]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d9c6df7c-3f4a-4333-8a8b-016b1cd859c1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d9c6df7c-3f4a-4333-8a8b-016b1cd859c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Thu, 25 Jul 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nlnhQwiQbLV83Ny5MXGrxAJD9VTHB7OpOw_cJBpMtylQ.jpg"/>
+    </item>
     <item>
       <title>Funn av polio i Gaza</title>
       <description><![CDATA[WHO frykter nå en polioepidemi i Gaza, hvor helsevesenet allerede er på bristepunktet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Fri, 12 Jul 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y2vk40Yw52F0ySwA45FcowxcxPwhHJGQjmiS8VmndzLg.jpg"/>
-    </item>
-    <item>
-      <title>Strid om formueskatten treffer</title>
-      <description><![CDATA[Flest kvinner og pensjonister som bare betaler formueskatt. Skivebom, mener Høyre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0bc420c5-4e5f-46a6-a1d0-9b22de117c15_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0bc420c5-4e5f-46a6-a1d0-9b22de117c15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Thu, 11 Jul 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zIYYFx8R3g81rd2bcYS0kQa35Iy51cvFcD79Mf32q1Cw.jpg"/>
     </item>
   </channel>
 </rss>
