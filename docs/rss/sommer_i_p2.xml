@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 25 Jul 2024 04:33:13 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jul 2024 04:31:31 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Jonas Kittelsen</title>
+      <description><![CDATA[Det kan se mørkt ut for kloden, men han skal gjøre oss alle til ulydige klimaaktivister. Hvor vanskelig kan det være, liksom?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/7d65d2af-c547-4412-92f3-fde923ce7807_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/7d65d2af-c547-4412-92f3-fde923ce7807_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:55</itunes:duration>
+      <pubDate>Fri, 26 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PVOCYL_r-ESpr1u39B6ujQ-_ROYhRKMWMUx0dLHkkUCw.jpg"/>
+    </item>
     <item>
       <title>Jonis Josef</title>
       <description><![CDATA[Han manglet kanskje penger, men ikke kreativitet. Komikeren elsket somrene på Gulset, da han hadde lite og alt på en gang.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>42:55</itunes:duration>
       <pubDate>Wed, 17 Jul 2024 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YUDKxcAzVLXqBirUyyo1wQSZwBeswFUreqzizIuu0ABQ.jpg"/>
-    </item>
-    <item>
-      <title>Hedda Hosås</title>
-      <description><![CDATA[Kan eigentleg kvinner ratte bil? Ho køyrer elektrisk offroad rallycross i verdstoppen, men må likevel bevise at ho er god nok.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e489c5cf-ee64-4ced-9c7d-6dc1073a63bf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e489c5cf-ee64-4ced-9c7d-6dc1073a63bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:14</itunes:duration>
-      <pubDate>Tue, 16 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8Yq9qfCqwRCHj61Sy-oB5ArqjmoE-gKCbeABTMknqmhA.jpg"/>
     </item>
   </channel>
 </rss>
