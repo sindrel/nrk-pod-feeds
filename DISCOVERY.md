@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-07-27  
+- Podcast 'I det lange løp' is considered obsolete and will be ignored in the future (`i_det_lange_loep`)  
 ### 2024-07-23  
 - Added podcast 'Klassen-rådet' (`klassenraadet`)  
 ### 2024-07-22  
