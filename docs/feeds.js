@@ -415,9 +415,9 @@ const feeds = [
   },
   {
     "id": "hoera",
-    "title": "De 10 siste fra Hør'a!",
+    "title": "De 10 siste fra Hør'a",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "hos_peder",
@@ -559,7 +559,7 @@ const feeds = [
     "id": "kommentert",
     "title": "De 10 siste fra Kommentert",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "kongerekka",
