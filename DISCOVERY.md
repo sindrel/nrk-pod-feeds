@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-07-28  
+- Updated podcast 'Hør'a' (`hoera`)  
+- Updated podcast 'Kommentert' (`kommentert`)  
 ### 2024-07-27  
 - Podcast 'I det lange løp' is considered obsolete and will be ignored in the future (`i_det_lange_loep`)  
 ### 2024-07-23  
