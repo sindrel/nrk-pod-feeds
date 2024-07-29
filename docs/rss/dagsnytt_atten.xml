@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 18:30:58 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Jul 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jul 2024 18:32:41 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Frykter storkrig</title>
+      <description><![CDATA[Høyspent situasjon i Midtøsten etter helgens angrep mot den israelskokkuperte Golanhøyden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/05eb6446-c63f-4820-8b75-d1a18ef99689_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/05eb6446-c63f-4820-8b75-d1a18ef99689_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Mon, 29 Jul 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jZ4odBVgXDR0UndW9PrNSg-ss4UwcdF1lwrhN_EEny1g.jpg"/>
+    </item>
     <item>
       <title>Svakeste krone siden pandemien</title>
       <description><![CDATA[Sjeføkonom etterlyser beredskapsplan for kronen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 16 Jul 2024 19:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lAKUHV_EjSc45nubrPGwGAXrI77yLXMVjTAfoYmIU-rQ.jpg"/>
-    </item>
-    <item>
-      <title>Trump velges formelt</title>
-      <description><![CDATA[Trump velges som republikanernes presidentkandidat. Vil attentatet påvirke valgkampen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/488255e3-7c5a-44a4-9ae9-f1912dcd258d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/488255e3-7c5a-44a4-9ae9-f1912dcd258d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 15 Jul 2024 19:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/d9rGMGVAREjId8bQ2rKPfAeJPkfo0lVxt0ozgriAf9UQ.jpg"/>
     </item>
   </channel>
 </rss>
