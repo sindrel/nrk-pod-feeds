@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-07-30  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+- Updated podcast 'Språksnakk' (`spraakteigen`)  
 ### 2024-07-28  
 - Updated podcast 'Hør'a' (`hoera`)  
 - Updated podcast 'Kommentert' (`kommentert`)  
