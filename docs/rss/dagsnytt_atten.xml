@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 29 Jul 2024 18:32:41 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jul 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jul 2024 18:32:53 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jul 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vil ha boplikt i Forsvaret</title>
+      <description><![CDATA[Sp-topp vil pålegge forsvarspersonell å bo der de jobber.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4bdd98f9-4f26-462a-929b-3c20a8b8a056_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4bdd98f9-4f26-462a-929b-3c20a8b8a056_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 30 Jul 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yE_SRETtsL-dY3VipGLXeQ8DiFjvpMLu8ROLhdh2ST-g.jpg"/>
+    </item>
     <item>
       <title>Frykter storkrig</title>
       <description><![CDATA[Høyspent situasjon i Midtøsten etter helgens angrep mot den israelskokkuperte Golanhøyden.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 17 Jul 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1OzrHS1ulx0PspzsK1lVGAEPA4nuhFr8z-TQ9lLkpGrw.jpg"/>
-    </item>
-    <item>
-      <title>Republikanernes visepresidentkandidat er klar</title>
-      <description><![CDATA[Fra kritiker til støttespiller. Vance blir Trumps visepresidentkandidat.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0f15433f-9a18-4a8d-a39e-c346f83c3516_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0f15433f-9a18-4a8d-a39e-c346f83c3516_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 16 Jul 2024 19:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lAKUHV_EjSc45nubrPGwGAXrI77yLXMVjTAfoYmIU-rQ.jpg"/>
     </item>
   </channel>
 </rss>
