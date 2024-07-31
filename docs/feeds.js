@@ -55,7 +55,7 @@ const feeds = [
     "id": "baade_erlend_og_steinar_",
     "title": "De 10 siste fra Både Erlend og Steinar ",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "baksnakk",
@@ -167,7 +167,7 @@ const feeds = [
     "id": "desken_brenner",
     "title": "De 10 siste fra Desken brenner",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "dilemmaklemma",
@@ -525,7 +525,7 @@ const feeds = [
     "id": "kladden_har_daevva",
     "title": "De 10 siste fra Kladden har dævva",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "klassenraadet",
