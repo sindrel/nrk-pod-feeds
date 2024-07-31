@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 Jul 2024 04:31:19 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 31 Jul 2024 04:26:01 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Jul 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Knut Houge</title>
+      <description><![CDATA[Han fikk sjokk da han så seg selv i Makta. Nå forteller journalisten om gateslag, endeløse allmøter, dop og dritt i Skippergata 6.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/dd6dcdaf-027b-4433-94b8-2de068390030_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/dd6dcdaf-027b-4433-94b8-2de068390030_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:38</itunes:duration>
+      <pubDate>Wed, 31 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SIf735EDhWVSC7jVJRJang3B2BQgLgtkKwE3pT7SyqvQ.jpg"/>
+    </item>
     <item>
       <title>Erlend Elias</title>
       <description><![CDATA[Sultne blikk, død og sparkesykkel opp Holmenkollen. Den magiske sommeren 2002 snudde opp ned på livet til den kjente stylisten.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>43:36</itunes:duration>
       <pubDate>Sun, 21 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eWp61O9iF1lBhoyNqPx9hwwOXN3XXUvnFdK2Osx4eZDA.jpg"/>
-    </item>
-    <item>
-      <title>Nikolai Torgersen</title>
-      <description><![CDATA[Joda, det blir bra kunst av jævlige opplevelser. Og kunstneren har nok å ta av. Men er det verd det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/4a7bb54d-e349-4a0d-b99c-48a58692fe4b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/4a7bb54d-e349-4a0d-b99c-48a58692fe4b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:57</itunes:duration>
-      <pubDate>Sat, 20 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VrHkvb4a_9iyBgXmO4m8ngqIdU22puVbvisPlcwzfyUg.jpg"/>
     </item>
   </channel>
 </rss>
