@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2024-07-31  
+- Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
+- Updated podcast 'Desken brenner' (`desken_brenner`)  
+- Updated podcast 'Kladden har dævva' (`kladden_har_daevva`)  
 ### 2024-07-30  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 - Updated podcast 'Språksnakk' (`spraakteigen`)  
