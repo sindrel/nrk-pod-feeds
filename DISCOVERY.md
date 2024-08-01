@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-08-01  
+- Podcast 'Feriestemning' is considered obsolete and will be ignored in the future (`feriestemning`)  
+- Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2024-07-31  
 - Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
 - Updated podcast 'Desken brenner' (`desken_brenner`)  
