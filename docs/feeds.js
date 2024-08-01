@@ -275,7 +275,9 @@ const feeds = [
     "id": "feriestemning",
     "title": "De 10 siste fra Feriestemning",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "filmpolitiet",
@@ -973,7 +975,7 @@ const feeds = [
     "id": "radio_moerch",
     "title": "De 10 siste fra Radio Mørch",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "radio_utslagsnes",
