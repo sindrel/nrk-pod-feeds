@@ -7,17 +7,36 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 04:29:58 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Aug 2024 08:31:39 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Aug 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
     <item>
-      <title>Den store serien om KI (10:10) - Kan maskinene true menneskeheten?</title>
+      <title>Hvordan ville en blanding av alle mennesker sett ut?</title>
+      <description><![CDATA[Abels tårn sender fra Universitetet i Stavanger! 
+Sammen med et ekspertpanel gir Torkild Jemterud deg svar på det du ikke visste du ville vite.
+
+Dagens panel:
+Fysiker Vegard Undheim
+Molekylærbiolog Sigrid Bratlie
+Teknologihistoriker Lars Nyre
+
+Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no.
+
+Illustrasjonen er laget av Chat GPT-4o.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/6c8f1b1a-7ad5-4ec8-b6ba-3f220a1573b4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6c8f1b1a-7ad5-4ec8-b6ba-3f220a1573b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:37</itunes:duration>
+      <pubDate>Fri, 02 Aug 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vS4BlMKwoIWuvyvc_o-Xuw-_N2LN99xoffKZoPou_dRw.jpg"/>
+    </item>
+    <item>
+      <title>Den store serien om KI (10:10) - Singulariteten</title>
       <description><![CDATA[Techmilliardærene i Silicon Valley elsker å snakke om «singulariteten» og menneskehetens undergang.
 Hva skjer når maskinene blir mer intelligente enn mennesker?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a4e8c150-4af2-473c-bf21-e8165ba568d8_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e8c150-4af2-473c-bf21-e8165ba568d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:29</itunes:duration>
+      <itunes:duration>01:00:16</itunes:duration>
       <pubDate>Tue, 16 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2gNdijIRAW4nTNMh0yUtzArPuGgJpbuVfP-k7j7hPykg.jpg"/>
     </item>
@@ -109,15 +128,6 @@ Sammen med Krinkastingsorkestret og musikkforskere ved Universitetet i Oslo får
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Fri, 14 Jun 2024 09:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PUrJK70hMOTyfL8iGOIDmwJI6ad8NWyvuB2CnFO8y9mg.jpg"/>
-    </item>
-    <item>
-      <title>Den store serien om KI (7.2:10) Chat GPTs norske utfordrer</title>
-      <description><![CDATA[Bør forfatterne kjempe mot Chat GPT, eller heller inngå en avtale for å bidra til en norsk språkmodell? Hva skjer med dine data når du bruker slike modeller? Og hvordan lager man egentlig en språkmodell?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/61ad4505-f52c-4784-b481-b5108028e66c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/61ad4505-f52c-4784-b481-b5108028e66c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:53</itunes:duration>
-      <pubDate>Thu, 13 Jun 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CHKXTyH25CrdZMLi8Kz6Gg98cLozH7QDQhKgrqBtGapA.jpg"/>
     </item>
   </channel>
 </rss>
