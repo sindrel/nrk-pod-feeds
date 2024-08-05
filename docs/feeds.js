@@ -55,7 +55,7 @@ const feeds = [
     "id": "baade_erlend_og_steinar_",
     "title": "De 10 siste fra Både Erlend og Steinar ",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "baksnakk",
