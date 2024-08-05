@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 03 Aug 2024 04:30:11 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Aug 2024 04:31:15 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Øyunn Krogh</title>
+      <description><![CDATA[Speilet kan være ditt beste redskap og din verste fiende. Influenseren kan egentlig ikke huske en dag hun har likt sin egen kropp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/345befa6-c21f-413d-b370-ea323c3903eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/345befa6-c21f-413d-b370-ea323c3903eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:28</itunes:duration>
+      <pubDate>Mon, 05 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vGtYR4COVBvtZnQESn0FRwU0vqZE0-t0CMgW5np2W4gw.jpg"/>
+    </item>
     <item>
       <title>Anette Trettebergstuen</title>
       <description><![CDATA[Livet føltes ødelagt da hun mistet drømmejobben, og eks-ministeren har tenkt så mye på hva som gikk galt. Nå forteller hun.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>40:43</itunes:duration>
       <pubDate>Tue, 23 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-A8YN_ddLYWMMmZqIWRn1AKZUcJ-VtlXpFqCLBpG8cQg.jpg"/>
-    </item>
-    <item>
-      <title>Martha Leivestad</title>
-      <description><![CDATA[Kjærlighetssorg, ungdomstid og utbrenthet. Det finnes en medisin som har fått komikeren gjennom alt: film.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/f2859a58-3680-4788-b975-8ce1843b3ade_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/f2859a58-3680-4788-b975-8ce1843b3ade_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:23</itunes:duration>
-      <pubDate>Mon, 22 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AyTGQwzAm2FTp49bu8gXDAGs9ngS-doG0_uTNBfdmdFw.jpg"/>
     </item>
   </channel>
 </rss>
