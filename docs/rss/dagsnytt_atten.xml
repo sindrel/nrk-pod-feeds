@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 05 Aug 2024 18:33:41 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Aug 2024 19:50:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Aug 2024 18:33:53 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Aug 2024 19:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Dristig valg! ifølge USA-ekspert</title>
+      <description><![CDATA[Guvernør Tim Walz blir USAs visepresidentkandidat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d28e4111-4fb6-48c2-860c-2ccfe5bc7307_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d28e4111-4fb6-48c2-860c-2ccfe5bc7307_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Tue, 06 Aug 2024 19:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x2dj27mqLefmkHeaLs0hHwZOrZg3ST-brqhI6_ZWNiBQ.jpg"/>
+    </item>
     <item>
       <title>Globalt børsfall</title>
       <description><![CDATA[Eksperter forklarer børsfallet med frykt for at USA er på vei inn i nedgangstider.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 24 Jul 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1bFVnZO9U2V76b-2tN6wzwlR0Yhmds8WKBTM3VyGUjKQ.jpg"/>
-    </item>
-    <item>
-      <title>Nygaard-saken henlegges ikke</title>
-      <description><![CDATA[Riksadvokaten omgjør henleggelsen av straffesaken etter attentatet mot William Nygaard.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1aedd4b4-c854-4d43-9548-8796fa4416a4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1aedd4b4-c854-4d43-9548-8796fa4416a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 23 Jul 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uLSTPRcvSbRBXUg6KqZQhg89kDNvVfNViein-hLsmEBg.jpg"/>
     </item>
   </channel>
 </rss>
