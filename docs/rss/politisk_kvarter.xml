@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 06:35:40 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Aug 2024 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:34:40 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Aug 2024 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>USA og verden</title>
+      <description><![CDATA[Hva betyr det om den nye presidenten heter Harris eller Trump? Hva betyr det for verden? Hva betyr det for Norge?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/cbbe3bd4-f712-4074-810c-15910579a2b9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/cbbe3bd4-f712-4074-810c-15910579a2b9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:13</itunes:duration>
+      <pubDate>Wed, 07 Aug 2024 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BlGJpmo9x8g1w-8moaAnMwJA8t8nAQjhDp888rwqgT4A.jpg"/>
+    </item>
     <item>
       <title>Dei yngste kriminelle</title>
       <description><![CDATA[Senk den kriminelle lågalderen og fjern den milde ungdomsstraffa, seier Frp etter ungdomsvald i sommar.
@@ -94,17 +103,6 @@ Kva er det politiske ansvaret for at laksefisket vart stoppa?]]></description>
       <itunes:duration>15:36</itunes:duration>
       <pubDate>Fri, 28 Jun 2024 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/e__7SbGu_1Dxvg1SCexOpQYPTWzqBBmIkTJmsKosk4Sw.jpg"/>
-    </item>
-    <item>
-      <title>Maktkamp i Oslo Høyre</title>
-      <description><![CDATA[- Der kom bikkjeslagsmålet i Høyre!", skriver Minerva-redaktør Nils August Andresen.
-
-Harde utspill mot Ola Svenneby etter Unge Høyres landsmøte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/2706db5b-e904-4b35-9dc6-227f4c2de98d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/2706db5b-e904-4b35-9dc6-227f4c2de98d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:05</itunes:duration>
-      <pubDate>Thu, 27 Jun 2024 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cQSV851qWyMcpQVQdNuzMgdSUN92rRmy8y0rbqO3JTfg.jpg"/>
     </item>
   </channel>
 </rss>
