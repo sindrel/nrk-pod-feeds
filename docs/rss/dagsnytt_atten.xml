@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 18:33:12 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Aug 2024 19:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Aug 2024 18:34:06 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Aug 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Israel med sanksjoner mot Norge</title>
+      <description><![CDATA[Kaster ut norske diplomater fra Vestbredden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5efeb8f9-daa7-4abe-84fe-ac80dfa3636a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5efeb8f9-daa7-4abe-84fe-ac80dfa3636a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 08 Aug 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ki7YY7LFvB2zjiBNb9xwKgBTORbpHbBtyYujNFQC9IIw.jpg"/>
+    </item>
     <item>
       <title>Marius Borg Høiby siktet</title>
       <description><![CDATA[Mette Marits sønn siktet for vold og skadeverk.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Fri, 26 Jul 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1f2CMlY-RTVEPkdEuEWuogqqg3ebOblOoh2OsS1GWhTQ.jpg"/>
-    </item>
-    <item>
-      <title>Netanyahu besøker Det hvite hus</title>
-      <description><![CDATA[Skal diskutere forhandlinger om våpenhvile med Joe Biden]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d9c6df7c-3f4a-4333-8a8b-016b1cd859c1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d9c6df7c-3f4a-4333-8a8b-016b1cd859c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Thu, 25 Jul 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nlnhQwiQbLV83Ny5MXGrxAJD9VTHB7OpOw_cJBpMtylQ.jpg"/>
     </item>
   </channel>
 </rss>
