@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-08-09  
+- Updated podcast 'Desken brenner' (`desken_brenner`)  
 ### 2024-08-05  
 - Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
 ### 2024-08-01  
