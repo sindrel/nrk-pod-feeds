@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 04:31:39 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Aug 2024 04:30:53 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Sondre Lerche: Grøt og blodåre</title>
+      <description><![CDATA[Sondre Lerche er ukens gjest. Tre tjommier snakker om livet i New York, bergensk selvtillit og gir deg tips til havregrøten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/6a9c0f98-bebe-4088-b307-7c7874be9567_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/6a9c0f98-bebe-4088-b307-7c7874be9567_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:14:13</itunes:duration>
+      <pubDate>Fri, 09 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fmBCAhGW-e-K4VCvC9fQSAHooxybA-jwJ27Rv-L6g7Ug.jpg"/>
+    </item>
     <item>
       <title>Bade med lik, AI cosplay og angrepille</title>
       <description><![CDATA[Lars har skrevet en vits. Martin har laget et nytt spill. Sammen diskuterer de hvor mange lik de er villige til å bade med.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>53:41</itunes:duration>
       <pubDate>Tue, 09 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
-    </item>
-    <item>
-      <title>Summerhauset 3: Se te hælvete å kom deg ut</title>
-      <description><![CDATA[Lars og Martin har tatt med seg gjengen ut på hyttetur. Sandra Kolstad er sommerens eneste gjest. Det blir kanskje et dikt og en ny summerhauset vignett.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/28b8930d-2796-4ded-96fc-7e3bf65e4f0e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/28b8930d-2796-4ded-96fc-7e3bf65e4f0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:18</itunes:duration>
-      <pubDate>Fri, 05 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2yMKx3DXsYQ-_EQ6DN7OJg1f0MtLvexdgC-SeBsXn-3g.jpg"/>
     </item>
   </channel>
 </rss>

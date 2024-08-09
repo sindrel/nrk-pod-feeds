@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Aug 2024 04:32:50 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Aug 2024 04:31:14 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Marcus Wandt</title>
+      <description><![CDATA[Astronaut, fallskjermjeger og jagerfly-pilot. Første nordmann i verdensrommet har en helt egen skala for hva som er farlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/4c816bdb-d9c8-4df5-8de5-c3bf7e2c500c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/4c816bdb-d9c8-4df5-8de5-c3bf7e2c500c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:13</itunes:duration>
+      <pubDate>Fri, 09 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Nnacz_jxCGBmZzCX8Y7fmQQxwmIN6mHmYDDrG4XMA6ZQ.jpg"/>
+    </item>
     <item>
       <title>Mohammed Madi</title>
       <description><![CDATA[Norsk-palestineren var blant de siste som ble reddet ut fra Gaza. Han var der  7. oktober i fjor, og kom seg ikke ut i tide.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>43:12</itunes:duration>
       <pubDate>Sun, 28 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JDFAWCf2upvMvcM2cC6j1QR5NcfYf2agbvDZBC4aMJYw.jpg"/>
-    </item>
-    <item>
-      <title>Jonas Kittelsen</title>
-      <description><![CDATA[Det kan se mørkt ut for kloden, men han skal gjøre oss alle til ulydige klimaaktivister. Hvor vanskelig kan det være, liksom?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/7d65d2af-c547-4412-92f3-fde923ce7807_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/7d65d2af-c547-4412-92f3-fde923ce7807_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:55</itunes:duration>
-      <pubDate>Fri, 26 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PVOCYL_r-ESpr1u39B6ujQ-_ROYhRKMWMUx0dLHkkUCw.jpg"/>
     </item>
   </channel>
 </rss>
