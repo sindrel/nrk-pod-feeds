@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Aug 2024 18:34:06 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Aug 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Aug 2024 18:33:41 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Aug 2024 19:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norge mangler folk</title>
+      <description><![CDATA[Vil trenge 180.000 flere i helsevesenet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e0f269a9-b55f-4c3b-b2af-36733bde7715_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e0f269a9-b55f-4c3b-b2af-36733bde7715_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Fri, 09 Aug 2024 19:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vLJ9RJq1u56adX91oc-IYQGzJimRHZGclW_EuUJXZR7Q.jpg"/>
+    </item>
     <item>
       <title>Israel med sanksjoner mot Norge</title>
       <description><![CDATA[Kaster ut norske diplomater fra Vestbredden.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:55</itunes:duration>
       <pubDate>Mon, 29 Jul 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jZ4odBVgXDR0UndW9PrNSg-ss4UwcdF1lwrhN_EEny1g.jpg"/>
-    </item>
-    <item>
-      <title>Svakeste krone siden pandemien</title>
-      <description><![CDATA[Sjeføkonom etterlyser beredskapsplan for kronen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cf397238-08e3-4daa-970b-486469ffc52f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cf397238-08e3-4daa-970b-486469ffc52f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Fri, 26 Jul 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1f2CMlY-RTVEPkdEuEWuogqqg3ebOblOoh2OsS1GWhTQ.jpg"/>
     </item>
   </channel>
 </rss>
