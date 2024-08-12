@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Aug 2024 18:33:41 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Aug 2024 19:35:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Aug 2024 17:28:34 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Aug 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Innvandring og kriminalitet</title>
+      <description><![CDATA[For mange setter likhetstegn mellom ungdomskriminalitet og innvandrerbakgrunn, mener Rød ungdom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3cee3056-b32d-4938-a405-51972615daa9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3cee3056-b32d-4938-a405-51972615daa9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 12 Aug 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sR9yl4ACesbF-SMvGaRRyAMq8uB0NKWaPN7D_B-Isw3g.jpg"/>
+    </item>
     <item>
       <title>Norge mangler folk</title>
       <description><![CDATA[Vil trenge 180.000 flere i helsevesenet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 30 Jul 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yE_SRETtsL-dY3VipGLXeQ8DiFjvpMLu8ROLhdh2ST-g.jpg"/>
-    </item>
-    <item>
-      <title>Frykter storkrig</title>
-      <description><![CDATA[Høyspent situasjon i Midtøsten etter helgens angrep mot den israelskokkuperte Golanhøyden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/05eb6446-c63f-4820-8b75-d1a18ef99689_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/05eb6446-c63f-4820-8b75-d1a18ef99689_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:55</itunes:duration>
-      <pubDate>Mon, 29 Jul 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jZ4odBVgXDR0UndW9PrNSg-ss4UwcdF1lwrhN_EEny1g.jpg"/>
     </item>
   </channel>
 </rss>
