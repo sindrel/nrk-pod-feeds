@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2024-08-12  
+- Updated podcast 'Burde vært pensum' (`burde_vaert_pensum`)  
+- Updated podcast 'Kladden har dævva' (`kladden_har_daevva`)  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2024-08-09  
 - Updated podcast 'Desken brenner' (`desken_brenner`)  
 ### 2024-08-05  
