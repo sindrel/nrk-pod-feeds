@@ -413,7 +413,7 @@ const feeds = [
     "id": "historiske_kjendiser",
     "title": "De 10 siste fra Historiske kjendiser",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hoera",
@@ -533,7 +533,7 @@ const feeds = [
     "id": "klassenraadet",
     "title": "De 10 siste fra Klassen-rådet",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "klassequizen",
