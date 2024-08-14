@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-08-14  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
+- Updated podcast 'Klassen-rådet' (`klassenraadet`)  
 ### 2024-08-12  
 - Updated podcast 'Burde vært pensum' (`burde_vaert_pensum`)  
 - Updated podcast 'Kladden har dævva' (`kladden_har_daevva`)  
