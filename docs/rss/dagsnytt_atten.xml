@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Aug 2024 17:27:57 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Aug 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Aug 2024 17:27:34 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Aug 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Jonas møter Erna</title>
+      <description><![CDATA[Statsministerduell direkte fra brygga i Arendal. Svarer også på spørsmål fra publikum.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1271b98e-1c8d-4175-969b-6f0e1c914e27_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1271b98e-1c8d-4175-969b-6f0e1c914e27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:05</itunes:duration>
+      <pubDate>Thu, 15 Aug 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PCfs2FOjRgMaujbF7i36CAmVEuu3P0kM7McE1MLxDxrA.jpg"/>
+    </item>
     <item>
       <title>Utgiftene til eldre blir større enn inntektene</title>
       <description><![CDATA[Oljefondsjef Nicolai Tangen om å navigere i et trøblete marked]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 02 Aug 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/flv0E_QTTObysDcMtX6CNQ-CsmiSY0FpqYvzviMdhCNA.jpg"/>
-    </item>
-    <item>
-      <title>Historisk fangeutveksling mellom Russland og Vesten</title>
-      <description><![CDATA[Russer siktet for spionasje mot Norge skal være del av byttehandelen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bbe472f3-df7a-4622-af97-25c36b0c7622_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bbe472f3-df7a-4622-af97-25c36b0c7622_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:52</itunes:duration>
-      <pubDate>Thu, 01 Aug 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3xsD1sl__k6jVgfsfDxRjgy8XNbi5eAEnOZcXv092-Gg.jpg"/>
     </item>
   </channel>
 </rss>
