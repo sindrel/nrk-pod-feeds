@@ -791,7 +791,7 @@ const feeds = [
     "id": "musikkrommet",
     "title": "De 10 siste fra Musikkrommet",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "mysterier_fra_norge",
@@ -1229,7 +1229,7 @@ const feeds = [
     "id": "studio_2",
     "title": "De 10 siste fra Studio 2",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "supernytt",
