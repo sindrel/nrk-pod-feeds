@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-08-15  
+- Updated podcast 'Musikkrommet' (`musikkrommet`)  
+- Updated podcast 'Studio 2' (`studio_2`)  
 ### 2024-08-14  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 - Updated podcast 'Klassen-rådet' (`klassenraadet`)  
