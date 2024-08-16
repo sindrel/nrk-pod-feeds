@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-08-16  
+- Updated podcast 'Drivkraft' (`drivkraft`)  
 ### 2024-08-15  
 - Updated podcast 'Musikkrommet' (`musikkrommet`)  
 - Updated podcast 'Studio 2' (`studio_2`)  
