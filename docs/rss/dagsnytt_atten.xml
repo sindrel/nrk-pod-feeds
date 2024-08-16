@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 15 Aug 2024 17:27:34 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Aug 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Aug 2024 18:33:21 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Aug 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>M-kopper påvist i Sverige</title>
+      <description><![CDATA[Sverige første landet utenfor Afrika som smittes med ny variant av viruset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c4e9ccef-e31e-4f59-8b49-798c30900ea2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c4e9ccef-e31e-4f59-8b49-798c30900ea2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 16 Aug 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Lcsd791eKMHsubkFY-yOdwFHDzbycFA_y4rQoha5cw5w.jpg"/>
+    </item>
     <item>
       <title>Jonas møter Erna</title>
       <description><![CDATA[Statsministerduell direkte fra brygga i Arendal. Svarer også på spørsmål fra publikum.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:53</itunes:duration>
       <pubDate>Mon, 05 Aug 2024 19:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/h4kCXiXfi3303tSPW3LxkgjX0-eoFw5Ub_XT5_dfGMPg.jpg"/>
-    </item>
-    <item>
-      <title>Biden takker Norge</title>
-      <description><![CDATA[USAs president hyller sine allierte for å bidra til historisk fangeutveksling.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cb30808c-5ab7-405f-a92f-efdd35625882_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cb30808c-5ab7-405f-a92f-efdd35625882_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 02 Aug 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/flv0E_QTTObysDcMtX6CNQ-CsmiSY0FpqYvzviMdhCNA.jpg"/>
     </item>
   </channel>
 </rss>
