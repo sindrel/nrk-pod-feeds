@@ -97,7 +97,7 @@ const feeds = [
     "id": "bok_i_p2",
     "title": "De 10 siste fra Åpen bok",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "brannbamsen_bjoernis",
@@ -401,7 +401,7 @@ const feeds = [
     "id": "heia_fotball",
     "title": "De 10 siste fra Heia Fotball",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "hele_historien",
@@ -561,7 +561,7 @@ const feeds = [
     "id": "kommentert",
     "title": "De 10 siste fra Kommentert",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kongerekka",

@@ -7,12 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 22 Jun 2024 04:28:43 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Jun 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 17 Aug 2024 06:32:06 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
     <item>
-      <title>Paramalingam, Qvenild og Knutsen</title>
+      <title>Forfatterintervjuet med Anne Bitsch</title>
+      <description><![CDATA[«Jeg hadde mareritt, fikk blåmerker og blødde neseblod». Anne Bitsch ble syk av å skrive om drapet på Benjamin Hermansen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/929e65ef-abb1-49e1-a856-bf8d123801ba_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/929e65ef-abb1-49e1-a856-bf8d123801ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Sat, 17 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HOGIETYHKB3ZXoxIppU4KQeAia3so62-sYRFo7r39NCw.jpg"/>
+    </item>
+    <item>
+      <title>Paramalingam, Qvenild og Knudsen</title>
       <description><![CDATA[Vi anmelder tre norske kvinnelige forfattere, som er ute med hver sin nye bok.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/db51bda6-b170-4227-bfc3-a3b5ba3b790d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/db51bda6-b170-4227-bfc3-a3b5ba3b790d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -91,15 +100,6 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Sat, 25 May 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JE1VeKVAKm7ux8lp3VJV4g49OYqVXn5EcYK0kPk_pUBw.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Gine C. Pedersen</title>
-      <description><![CDATA["Jeg tror det bare er i kjærligheten, at det er mulig å gå så langt bort fra fornuft" sier forfatteren.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/48aa2218-4be7-4447-aa66-268cff89dee9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/48aa2218-4be7-4447-aa66-268cff89dee9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Tue, 21 May 2024 15:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KrcfRmbMlO9uvNSf2OUR_QGM34hF4Xt-7c8rf5XBux-w.jpg"/>
     </item>
   </channel>
 </rss>
