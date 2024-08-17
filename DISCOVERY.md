@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2024-08-17  
+- Updated podcast 'Heia Fotball' (`heia_fotball`)  
+- Updated podcast 'Kommentert' (`kommentert`)  
+- Updated podcast 'Åpen bok' (`bok_i_p2`)  
 ### 2024-08-16  
 - Updated podcast 'Drivkraft' (`drivkraft`)  
 ### 2024-08-15  
