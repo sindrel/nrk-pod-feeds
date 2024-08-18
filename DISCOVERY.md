@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-08-18  
+- Updated podcast 'Labyrint om natten' (`labyrint_om_natten`)  
+- Updated podcast 'OL-gull' (`olgull`)  
 ### 2024-08-17  
 - Updated podcast 'Heia Fotball' (`heia_fotball`)  
 - Updated podcast 'Kommentert' (`kommentert`)  
