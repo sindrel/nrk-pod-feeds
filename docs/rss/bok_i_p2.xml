@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 17 Aug 2024 06:32:06 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2024 04:31:47 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Andreassen, Kristjansson og Skolem</title>
+      <description><![CDATA[Vi anmelder «Ikke mennesker jeg kan regne med» av Kyrre Andreassen, «Pabbi» av Mimir Kristjansson og «Dørene lukkes» av Maren Elise Skolem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/442b66d4-9517-4f86-bdb6-b447d4954c31_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/442b66d4-9517-4f86-bdb6-b447d4954c31_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:30</itunes:duration>
+      <pubDate>Sun, 18 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/a_GlbeNupvVKFEe31sAKqQ4XGVWNudNTLscMOo7687zg.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Anne Bitsch</title>
       <description><![CDATA[«Jeg hadde mareritt, fikk blåmerker og blødde neseblod». Anne Bitsch ble syk av å skrive om drapet på Benjamin Hermansen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:22</itunes:duration>
       <pubDate>Sun, 26 May 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8XWXL_l_1W2l4UwSM5d7ZgJXk-qPCJ70XfQT7ucJSxxQ.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Nicolai Houm</title>
-      <description><![CDATA["Man føler seg som en nybegynner hver gang" sier Nicolai Houm om å ha skrivesperre. Nå er han ute med boka «Hver torsdag klokken nitten».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/380554a9-e194-497e-89ec-8452069f2548_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/380554a9-e194-497e-89ec-8452069f2548_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Sat, 25 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JE1VeKVAKm7ux8lp3VJV4g49OYqVXn5EcYK0kPk_pUBw.jpg"/>
     </item>
   </channel>
 </rss>
