@@ -635,7 +635,7 @@ const feeds = [
     "id": "labyrint_om_natten",
     "title": "De 10 siste fra Labyrint om natten",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "labyrinthemmeligheter",
@@ -889,7 +889,7 @@ const feeds = [
     "id": "olgull",
     "title": "De 10 siste fra OL-gull",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "oppdatert",
