@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-08-19  
+- Updated podcast 'Kveldstanker' (`kveldstanker`)  
 ### 2024-08-18  
 - Updated podcast 'Labyrint om natten' (`labyrint_om_natten`)  
 - Updated podcast 'OL-gull' (`olgull`)  
