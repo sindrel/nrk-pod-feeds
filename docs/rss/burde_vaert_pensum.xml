@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 06:35:06 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2024 04:31:15 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    <item>
+      <title>Genredigert mat kan redde verden</title>
+      <description><![CDATA[Biolog Sigrid Bratlie forklarer hvordan genredigert mat kan redde verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/3d63a666-2fe4-4a69-b54d-272a12f1edd2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/3d63a666-2fe4-4a69-b54d-272a12f1edd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:02</itunes:duration>
+      <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8MYd25uCWI4WeMHQJPps_Q8RQfsbpZD3kfvbenhPO--g.jpg"/>
+    </item>
     <item>
       <title>Sånn redder du liv</title>
       <description><![CDATA[Lege Katarina Flatland forteller deg hvordan du redder liv]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>21:45</itunes:duration>
       <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/U4MfCeitijYBPJTyWBZsDAIHZDkbN5LY34yxBFevKl6w.jpg"/>
-    </item>
-    <item>
-      <title>Mental hjernetrim</title>
-      <description><![CDATA[Mentaltrener Bjørn Mannsverk lærer deg å fikse egne problemer ved å trene hjernen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/f7ef11ce-78c6-4e48-8304-02e05dbfaf53_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/f7ef11ce-78c6-4e48-8304-02e05dbfaf53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:21</itunes:duration>
-      <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iJsAeL86hjvaiW4nDk7_ewFq2Cwe0g4CDGoZSyxN0ihg.jpg"/>
     </item>
   </channel>
 </rss>

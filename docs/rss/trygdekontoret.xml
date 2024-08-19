@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 06:35:50 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2024 04:33:29 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Mannen og litteraturen</title>
+      <description><![CDATA[Mange menn gir alle andre skylda når de sliter.  Forfatter Kyrre Andreassen ender ofte opp med å skrive om dem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/b69eaaec-5ed2-4f98-8075-2f339c770e0e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/b69eaaec-5ed2-4f98-8075-2f339c770e0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:05</itunes:duration>
+      <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
     <item>
       <title>Tvangstanker</title>
       <description><![CDATA[Hva er tvangstanker og hvordan blir man kvitt dem? Med komiker og programleder Galvan Mehidi og psykolog Lars Dehli.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:13:54</itunes:duration>
       <pubDate>Mon, 06 May 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qsBmc1-Wt1qImomB4-AWXAiNRg_G1taMTGV0HOnYvXtQ.jpg"/>
-    </item>
-    <item>
-      <title>Politi</title>
-      <description><![CDATA[Etter 30 år i Oslopolitiet har Kim Anne Hiort sett hovedstadens mørkeste sider og spredt håp til de mest sårbare.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/b181d686-bd64-413d-bef9-ebd91422097a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/b181d686-bd64-413d-bef9-ebd91422097a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:37</itunes:duration>
-      <pubDate>Mon, 29 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9zKyliqNE1J6U3YvIt_BwwN6QvibeXRN7JlrJdtfuCKg.jpg"/>
     </item>
   </channel>
 </rss>
