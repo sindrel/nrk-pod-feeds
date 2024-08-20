@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 17 Aug 2024 11:22:54 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Aug 2024 12:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Aug 2024 04:35:48 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>Far er gissel i Gaza</title>
+      <description><![CDATA[Familiene lever i uvisshet.  Gislene i Gaza har blitt brikker i et spill. Kan de noen gang få komme hjem?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/590f3152-8335-419b-894b-11176f786253_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/590f3152-8335-419b-894b-11176f786253_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Tue, 20 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hCBbEDLRHmYEzhjS2aGelw1sd3r0Xvnxg84_QVyPJ5IQ.jpg"/>
+    </item>
     <item>
       <title>Hvem bryr seg om de israelske gislene?</title>
       <description><![CDATA[De israelske gislene er blitt brikker i et stort spill.
@@ -92,15 +101,6 @@ Bryr egentlig den israelske regjeringen seg om dem?]]></description>
       <itunes:duration>57:46</itunes:duration>
       <pubDate>Sat, 20 Jul 2024 12:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YTGGj5Ttx44I9Cnq1gMkRgQqS7TUaTz3TFCL0BNLiJaw.jpg"/>
-    </item>
-    <item>
-      <title>Veien mot valget: Hallelujastemning i Wisconsin</title>
-      <description><![CDATA[Republikanerne samler seg rundt Donald Trump]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/17cb6112-f15f-4185-b388-2ebe2ad5cb86_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/17cb6112-f15f-4185-b388-2ebe2ad5cb86_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:00</itunes:duration>
-      <pubDate>Thu, 18 Jul 2024 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/43hP4nmHQq3ETNAeMD8gDQwHvePypMmllfoSOn4rh0mQ.jpg"/>
     </item>
   </channel>
 </rss>
