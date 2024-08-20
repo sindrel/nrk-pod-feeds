@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 19 Aug 2024 18:33:23 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Aug 2024 19:40:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Aug 2024 18:33:02 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Aug 2024 19:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Anklager om kuppforsøk i KrF</title>
+      <description><![CDATA[Olaug Bollestad skal ha anklaget nestlederne for å ha forsøkt å presse henne til å gå av som partileder og takke nei til gjenvalg på Stortinget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/01571b93-3bb9-469c-9bf3-d62936dea463_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/01571b93-3bb9-469c-9bf3-d62936dea463_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 20 Aug 2024 19:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QhIaPBqW6RoksMro_utYng7jE1tgQ_uUyOq4s4c46t9A.jpg"/>
+    </item>
     <item>
       <title>Kritiserer VG for publisering av lydopptak</title>
       <description><![CDATA[Er det feil av VG å publisere lydopptak av Marius Borg Høiby?
@@ -92,15 +101,6 @@ Lydklippene er viktige for å belyse hva som skjedde, mener VG.]]></description>
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Wed, 07 Aug 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ae2K0TzHDvh2nmVZN_0MOg5aAoelgYhqu6_IiHA5gDIw.jpg"/>
-    </item>
-    <item>
-      <title>Dristig valg! ifølge USA-ekspert</title>
-      <description><![CDATA[Guvernør Tim Walz blir USAs visepresidentkandidat.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d28e4111-4fb6-48c2-860c-2ccfe5bc7307_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d28e4111-4fb6-48c2-860c-2ccfe5bc7307_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:56</itunes:duration>
-      <pubDate>Tue, 06 Aug 2024 19:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x2dj27mqLefmkHeaLs0hHwZOrZg3ST-brqhI6_ZWNiBQ.jpg"/>
     </item>
   </channel>
 </rss>
