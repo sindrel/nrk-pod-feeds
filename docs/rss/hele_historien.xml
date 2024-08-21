@@ -1,33 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 Jul 2024 06:33:57 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jul 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Aug 2024 12:44:38 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Aug 2024 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer: Rasa i Jølster</title>
-      <description><![CDATA[Ein sommardag i 2019 rasar enorme mengder jord og stein ned bratte fjellsider i Jølster. Folk spring for livet, og bilane blir dødsfeller.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/eb23960e-4536-4cf2-af82-f1e9a0dbba09_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/eb23960e-4536-4cf2-af82-f1e9a0dbba09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:35</itunes:duration>
-      <pubDate>Mon, 29 Jul 2024 14:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L2nZEMCmQdIGpJemafriTAxpv51o4l9TISXzs_a9E5Yw.jpg"/>
-    </item>
-    <item>
-      <title>Rasa i Jølster</title>
-      <description><![CDATA[160 gonger rasar det ned stupbratte fjell i Jølster. Ein far og ei dotter er i bil på veg heim i styrtregnet. Så skal det gå eit siste ras.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/54036002-dbb1-4c40-9d8a-12f4fe2a553f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/54036002-dbb1-4c40-9d8a-12f4fe2a553f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:26</itunes:duration>
-      <pubDate>Tue, 30 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L2nZEMCmQdIGpJemafriTAxpv51o4l9TISXzs_a9E5Yw.jpg"/>
+      <title>Kommer: Roskilde-tragedien</title>
+      <description><![CDATA[En episk Pearl Jam-kveld blir et mareritt. En fortvila rockestjerne trygler publikum om å trekke bakover – forgjeves.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/819ce32d-27e8-4eb9-a019-2f087466c690_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/819ce32d-27e8-4eb9-a019-2f087466c690_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:54</itunes:duration>
+      <pubDate>Wed, 21 Aug 2024 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/33biR0i2RRKkorgO4FBhDApWnSU8nFq6ueZVvA1-DiCw.jpg"/>
     </item>
   </channel>
 </rss>
