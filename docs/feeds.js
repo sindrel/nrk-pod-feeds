@@ -49,7 +49,7 @@ const feeds = [
     "id": "arena",
     "title": "De 10 siste fra Arena",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "baade_erlend_og_steinar_",
