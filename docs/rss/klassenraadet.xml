@@ -1,19 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Klassen-rådet</title>
+    <title>De 6 siste fra Klassen-rådet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Klassen-rådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassenraadet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Klassen-rådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassenraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 14 Aug 2024 06:34:20 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Aug 2024 04:32:02 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Aug 2024 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A.jpg"/>
     <item>
+      <title>Forelska i bestevennens kjæreste</title>
+      <description><![CDATA[Hva gjør du når du er forelska i HELT feil person? Og hvordan kan du fortelle at du har fått mensen - uten at det blir kleint?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/a773e1c7-95d9-4ba0-a78f-b2f3b4ecca97_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/a773e1c7-95d9-4ba0-a78f-b2f3b4ecca97_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:45</itunes:duration>
+      <pubDate>Wed, 21 Aug 2024 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/viwlY9cOplX-iMHaeLsJXwyQu35VoCD2OpxesSVlVcoQ.jpg"/>
+    </item>
+    <item>
+      <title>Begynne på ungdomsskolen</title>
+      <description><![CDATA[Hjelp, jeg skal begynne på ungdomskolen!  Og bør Natalie slå opp med kjæresten, siden han er kjip mot vennene hennes?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/989d76cb-0c36-4c27-aeea-f0c16dcb41c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/989d76cb-0c36-4c27-aeea-f0c16dcb41c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:57</itunes:duration>
+      <pubDate>Wed, 21 Aug 2024 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oHliEwrCC8qpp2dOiIxwzAhH5hkwOyxy0fq0pYxHwl9g.jpg"/>
+    </item>
+    <item>
+      <title>Jeg vil kysse, men hvordan?</title>
+      <description><![CDATA[Kan du øve på å bli god til å kysse? Og hva kan du gjøre hvis du ser noen bli mobba?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/b98533ee-e70d-45e3-affb-71a99cf30f91_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/b98533ee-e70d-45e3-affb-71a99cf30f91_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:47</itunes:duration>
+      <pubDate>Wed, 21 Aug 2024 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wck5gCfOa9nqcnhuEHmkWAk_ZuZZxzWCIGXL35pLv9Xg.jpg"/>
+    </item>
+    <item>
+      <title>Jeg vil ha kjæreste!</title>
+      <description><![CDATA[Hvordan blir man egentlig kjærester?  Og hva kan du gjøre hvis du føler deg alene på skolen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/d89eb050-c4e9-479e-b476-3e5fd5ad5de2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/d89eb050-c4e9-479e-b476-3e5fd5ad5de2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:02</itunes:duration>
+      <pubDate>Wed, 21 Aug 2024 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NFaVn__bxA9srau7RKKRmQIMO5iyVagJ0hPx3B37R5fg.jpg"/>
+    </item>
+    <item>
+      <title>Ikke mobb hobbyen min!</title>
+      <description><![CDATA[Hvordan få vennene til å godta en litt annerledes (og hårete) hobby? Og hva skal jeg prate om med kjæresten min?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/fe29019d-a168-495e-9465-6d1c118d7cf1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/fe29019d-a168-495e-9465-6d1c118d7cf1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:39</itunes:duration>
+      <pubDate>Wed, 21 Aug 2024 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ej5zCVFlT2MCRn8i3wRIeQU5h64PdTOp8lldFA-oc79w.jpg"/>
+    </item>
+    <item>
       <title>Klassen-rådet kommer 21.august</title>
-      <description><![CDATA[Kjærlighet, mobbing, kropp, press og kysseproblemer – Selma Ibrahim og skuespillerne fra Klassen gir deg sine beste (og rareste) råd for å fikse livet.]]></description>
+      <description><![CDATA[Hør ny podkast om kjærlighet, mobbing, kropp, press og kysseproblemer – Selma Ibrahim og skuespillerne fra Klassen gir deg sine beste (og rareste) råd for å fikse livet. Hver onsdag i NRK Radio.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/0f4b0bda-f8bb-4f1a-b2a1-7b03f89d496a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/klassenraadet/0f4b0bda-f8bb-4f1a-b2a1-7b03f89d496a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:29</itunes:duration>
