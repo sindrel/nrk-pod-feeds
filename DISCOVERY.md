@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-08-21  
+- Updated podcast 'Arena' (`arena`)  
 ### 2024-08-19  
 - Updated podcast 'Kveldstanker' (`kveldstanker`)  
 ### 2024-08-18  
