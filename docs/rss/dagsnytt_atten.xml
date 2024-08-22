@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 17:27:57 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Aug 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Aug 2024 18:33:33 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Aug 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Skjebnemøte i KrF</title>
+      <description><![CDATA[Utfallet for leder Olaug Bollestad fortsatt i det blå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ac275a75-7ad7-4789-b4c0-7092645afb31_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ac275a75-7ad7-4789-b4c0-7092645afb31_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 22 Aug 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_fj9XJXCkfiAHXMlKUZhqg3bkM9s82vow47nh2W-KJtA.jpg"/>
+    </item>
     <item>
       <title>Rekordbøter til dagligvarekjedene</title>
       <description><![CDATA[Matvaregigantene får rekordbøter etter bruk av prisjegere.]]></description>
@@ -92,15 +101,6 @@ Lydklippene er viktige for å belyse hva som skjedde, mener VG.]]></description>
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Fri, 09 Aug 2024 19:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/vLJ9RJq1u56adX91oc-IYQGzJimRHZGclW_EuUJXZR7Q.jpg"/>
-    </item>
-    <item>
-      <title>Israel med sanksjoner mot Norge</title>
-      <description><![CDATA[Kaster ut norske diplomater fra Vestbredden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5efeb8f9-daa7-4abe-84fe-ac80dfa3636a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5efeb8f9-daa7-4abe-84fe-ac80dfa3636a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 08 Aug 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ki7YY7LFvB2zjiBNb9xwKgBTORbpHbBtyYujNFQC9IIw.jpg"/>
     </item>
   </channel>
 </rss>
