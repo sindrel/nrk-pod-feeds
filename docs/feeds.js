@@ -389,7 +389,7 @@ const feeds = [
     "id": "haevvi",
     "title": "De 10 siste fra Hævvi",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "hei_nabo",
@@ -521,7 +521,7 @@ const feeds = [
     "id": "kjente_boeker_paa_4_minutter",
     "title": "De 10 siste fra Kjente bøker på 4 minutter",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kladden_har_daevva",
@@ -1385,7 +1385,7 @@ const feeds = [
     "id": "utakt",
     "title": "De 10 siste fra Utakt",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "valg",
