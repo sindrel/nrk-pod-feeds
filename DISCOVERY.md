@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2024-08-22  
+- Updated podcast 'Hævvi' (`haevvi`)  
+- Updated podcast 'Kjente bøker på 4 minutter' (`kjente_boeker_paa_4_minutter`)  
+- Updated podcast 'Utakt' (`utakt`)  
 ### 2024-08-21  
 - Updated podcast 'Arena' (`arena`)  
 ### 2024-08-19  
