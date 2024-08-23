@@ -1183,7 +1183,7 @@ const feeds = [
     "id": "spraakteigen",
     "title": "De 10 siste fra Språksnakk",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "staale_utslagsnes_fra_loensj",
@@ -1391,7 +1391,9 @@ const feeds = [
     "id": "valg",
     "title": "De 10 siste fra Valg",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "verden_paa_loerdag",
