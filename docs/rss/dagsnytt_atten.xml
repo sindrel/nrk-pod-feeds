@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 22 Aug 2024 18:33:33 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Aug 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Aug 2024 17:29:47 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Aug 2024 19:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ny abortlov</title>
+      <description><![CDATA[Ny abortlov fra regjeringen, men helt åpent om Stortinget sikrer flertall - for Senterpartiet er skeptisk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/45c28a1b-9d31-4ff3-978e-011d59e1181f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/45c28a1b-9d31-4ff3-978e-011d59e1181f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Fri, 23 Aug 2024 19:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0LHFfHc9tNRdV8WVScE_2whDfvFUj3LSIpaAnLeJA9RQ.jpg"/>
+    </item>
     <item>
       <title>Skjebnemøte i KrF</title>
       <description><![CDATA[Utfallet for leder Olaug Bollestad fortsatt i det blå.]]></description>
@@ -92,15 +101,6 @@ Lydklippene er viktige for å belyse hva som skjedde, mener VG.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 12 Aug 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sR9yl4ACesbF-SMvGaRRyAMq8uB0NKWaPN7D_B-Isw3g.jpg"/>
-    </item>
-    <item>
-      <title>Norge mangler folk</title>
-      <description><![CDATA[Vil trenge 180.000 flere i helsevesenet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e0f269a9-b55f-4c3b-b2af-36733bde7715_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e0f269a9-b55f-4c3b-b2af-36733bde7715_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Fri, 09 Aug 2024 19:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vLJ9RJq1u56adX91oc-IYQGzJimRHZGclW_EuUJXZR7Q.jpg"/>
     </item>
   </channel>
 </rss>
