@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 04:31:47 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Aug 2024 04:30:41 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Forfatterintervjuet med Are Kalvø</title>
+      <description><![CDATA[By og land hand i hand. Are Kalvø gjør veien korterte mellom Utsira og London i sin nye bok "Berre bønder lengtar heim".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/a245fd16-6e82-490f-8189-50cd1655d818_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/a245fd16-6e82-490f-8189-50cd1655d818_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sat, 24 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gmL_-T8Pyz6yMYIpBiXECQKHQBbjb57V_Nydm3nWNQpw.jpg"/>
+    </item>
     <item>
       <title>Andreassen, Kristjansson og Skolem</title>
       <description><![CDATA[Vi anmelder «Ikke mennesker jeg kan regne med» av Kyrre Andreassen, «Pabbi» av Mimir Kristjansson og «Dørene lukkes» av Maren Elise Skolem.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:55</itunes:duration>
       <pubDate>Fri, 31 May 2024 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sgzelxHuWqSx1pOspgvQlAUq2rEUXnGa4q2l7srwAxaQ.jpg"/>
-    </item>
-    <item>
-      <title>Walden, Klein, Halvorsen og Fuglehaug</title>
-      <description><![CDATA[Vi anmelder «Jævla menn» av Andrev Walden, «Kroningen» av Anne Gunn Halvorsen og Randi Fuglehaug, og «Dobbeltgjenger» av Naomi Klein.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/96b790ba-3368-4bda-8294-51f8bad63a05_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/96b790ba-3368-4bda-8294-51f8bad63a05_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:22</itunes:duration>
-      <pubDate>Sun, 26 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8XWXL_l_1W2l4UwSM5d7ZgJXk-qPCJ70XfQT7ucJSxxQ.jpg"/>
     </item>
   </channel>
 </rss>
