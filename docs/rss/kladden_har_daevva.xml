@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 19 Aug 2024 06:35:20 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Aug 2024 04:33:52 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Mia Hundvin/hissigpropp</title>
+      <description><![CDATA[1000 spenn på Mia i kranglebattle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2f9eb04a-c6f4-4729-8903-acfe3ae92b09_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2f9eb04a-c6f4-4729-8903-acfe3ae92b09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:01</itunes:duration>
+      <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2kS3aeeXQ1QKaPkZDQXUFgfpTMHZZydF82SINUv2m6tw.jpg"/>
+    </item>
     <item>
       <title>Én tåre fra Danby Choi</title>
       <description><![CDATA[Danby har gjenoppdaget gråting.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:06:13</itunes:duration>
       <pubDate>Mon, 27 May 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2ZxYbvS0ApIb0K3xcsxsPQ2Ko_M3C0Zhw14YXhPh9jvQ.jpg"/>
-    </item>
-    <item>
-      <title>Thomas Hylland Eriksen og livet sjøl</title>
-      <description><![CDATA[Thomas overlevde kreft og skrev bok om livets meninger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/3faa97e7-14d7-4061-b5ae-61291adc1e9b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/3faa97e7-14d7-4061-b5ae-61291adc1e9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:19</itunes:duration>
-      <pubDate>Mon, 20 May 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kDd_s_H6aAAb9Ou0bQDH6wNoWbbLPHkn5I6ZBmU9WNfw.jpg"/>
     </item>
   </channel>
 </rss>

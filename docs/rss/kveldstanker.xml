@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 04:32:07 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Aug 2024 04:34:03 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Sur og forsinka - med Mímir Kristjánsson</title>
+      <description><![CDATA[Politiker Mímir Kristjánsson forsov seg til jobb, og ble nødt til å ta taxi til jobb. Det ga han noe å tenke på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a7c3528e-b831-4c2a-8faf-c15b4a97747b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a7c3528e-b831-4c2a-8faf-c15b4a97747b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:52</itunes:duration>
+      <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AfEUPbQIRGCBc_muAnmcog6mY2kLCOjoqdyfxGdwtf1Q.jpg"/>
+    </item>
     <item>
       <title>Skuespillerspire - med Tor Ivar Hagen</title>
       <description><![CDATA[Skuespiller Tor Ivar Hagen ble i 1999 med på en audition som endret hans kurs i livet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:55</itunes:duration>
       <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/wPJnhStMqHEuNL4VBseTYgJUZSsr9CP60VtYtpMnOhdw.jpg"/>
-    </item>
-    <item>
-      <title>Italian fusion - med Ragnhild Folkestad</title>
-      <description><![CDATA[Med italiensk mann og svigermor, finnes det visse regler. Er italienerne bare bedre - i alt? Ragnhild Folkestad er filosof og humanist.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/5d578351-39d4-4715-9d85-defae0136b06_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/5d578351-39d4-4715-9d85-defae0136b06_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:50</itunes:duration>
-      <pubDate>Thu, 11 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xkcLNcgLwZ-OS91yoe8wJQmBeyptuZCZHntMwM1o8-ug.jpg"/>
     </item>
   </channel>
 </rss>

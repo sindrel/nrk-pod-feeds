@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 19 Aug 2024 04:31:15 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Aug 2024 04:33:23 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    <item>
+      <title>Kjønnssykdommer er ikke flaut!</title>
+      <description><![CDATA[Stadig flere blir smittet av kjønnssykdommer. Lege Ellen Støkken Dahl forklarer hvorfor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/4e591078-55d4-4548-8945-28280f989a4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/4e591078-55d4-4548-8945-28280f989a4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:43</itunes:duration>
+      <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A8wHEBu8uJ_HiRq6j0Wc0wCk34KT_phHwNreuHzehw3A.jpg"/>
+    </item>
     <item>
       <title>Genredigert mat kan redde verden</title>
       <description><![CDATA[Biolog Sigrid Bratlie forklarer hvordan genredigert mat kan redde verden.]]></description>
@@ -91,17 +100,6 @@
       <itunes:duration>27:46</itunes:duration>
       <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/u8r0844_GQMdazIJq6WY7Q8WrOwDQQJzhuDhsboMIikQ.jpg"/>
-    </item>
-    <item>
-      <title>Lyder i havet</title>
-      <description><![CDATA[Hvert døgn durer titusenvis av lasteskip rundt på verdenshavene. Marinbiolog Emilie Hernes Vereide forklarer hva støy gjør med livet under vann. Medvirkende: Lise Doksæter Sivle 
-
- ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/19923231-c52b-4080-89d9-e7e848317adb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/19923231-c52b-4080-89d9-e7e848317adb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:45</itunes:duration>
-      <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/U4MfCeitijYBPJTyWBZsDAIHZDkbN5LY34yxBFevKl6w.jpg"/>
     </item>
   </channel>
 </rss>
