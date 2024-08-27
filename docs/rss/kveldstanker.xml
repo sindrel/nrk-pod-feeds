@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 04:34:03 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2024 04:34:09 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Krigen inni meg - med Alexander Sandtorv</title>
+      <description><![CDATA[Som 18-åring velger kjemiker Alexander Sandtorv å dele en av sine aller største hemmeligheter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/55a38f41-eefd-44be-bd1f-8b8bdddd874d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/55a38f41-eefd-44be-bd1f-8b8bdddd874d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:03</itunes:duration>
+      <pubDate>Tue, 27 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zoc7rHaW41_9bXoajsH-IQgOPAHntNGwuN8XbHUarhYQ.jpg"/>
+    </item>
     <item>
       <title>Sur og forsinka - med Mímir Kristjánsson</title>
       <description><![CDATA[Politiker Mímir Kristjánsson forsov seg til jobb, og ble nødt til å ta taxi til jobb. Det ga han noe å tenke på.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:30</itunes:duration>
       <pubDate>Tue, 16 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rh6jF95i-tXRLRPYo2Asrwdd8Rz1TflpnHQlxVlxcJQg.jpg"/>
-    </item>
-    <item>
-      <title>Er verden bedre enn du tror? - Esben Esther</title>
-      <description><![CDATA[På en bitteliten flyplass, er det en stor og skummel mann som stirrer. Transpersonen Esben Esther blir urolig. Så skjer det noe uventet.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/918c4a27-3c57-423d-8cb3-a2b2dc3dd58f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/918c4a27-3c57-423d-8cb3-a2b2dc3dd58f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:55</itunes:duration>
-      <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wPJnhStMqHEuNL4VBseTYgJUZSsr9CP60VtYtpMnOhdw.jpg"/>
     </item>
   </channel>
 </rss>
