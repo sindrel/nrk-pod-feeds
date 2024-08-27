@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-08-27  
+- Updated podcast 'Heia Fotball' (`heia_fotball`)  
+- Added podcast 'Leseklubben' (`leseklubben`)  
 ### 2024-08-24  
 - Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
 ### 2024-08-23  
