@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 18:33:44 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Aug 2024 19:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:34:00 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2024 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Islam i Norge</title>
+      <description><![CDATA[Fremveksten av Islam i Europa truer vestlige verdier, mener Abid Raja, som møter to muslimske kvinner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f2267dcd-2d83-4ab9-92ff-c375b75b5dc9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f2267dcd-2d83-4ab9-92ff-c375b75b5dc9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 27 Aug 2024 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D8s_yb_EVip1eIwVgoIEwAHhfoKLwd6mvDA80A3I9ZSg.jpg"/>
+    </item>
     <item>
       <title>Oljebransjen fremover</title>
       <description><![CDATA[Oljetopp vil ha økt satsing på olje- og gassindustrien og får støtte av Høyre - men SV er lunkne, og mener bransjen har fått mer enn nok.]]></description>
@@ -92,15 +101,6 @@ Lydklippene er viktige for å belyse hva som skjedde, mener VG.]]></description>
       <itunes:duration>01:00:02</itunes:duration>
       <pubDate>Wed, 14 Aug 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5lc-mmHyJMGQMggKEbb1YA78RIm-TyzQSFUlgR7sauVw.jpg"/>
-    </item>
-    <item>
-      <title>Landets rikeste organiserer seg mot formuesskatten</title>
-      <description><![CDATA[Møter to av sine argeste politiske motstandere]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bc0b3e9b-c106-48dd-8a08-e88752aab182_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bc0b3e9b-c106-48dd-8a08-e88752aab182_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 13 Aug 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vxFOETJZ5xexlc4NamRYBgnoTbhwv6hUhG9u5-vKxuRw.jpg"/>
     </item>
   </channel>
 </rss>
