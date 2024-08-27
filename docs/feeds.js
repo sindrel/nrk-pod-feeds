@@ -401,7 +401,7 @@ const feeds = [
     "id": "heia_fotball",
     "title": "De 10 siste fra Heia Fotball",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hele_historien",
@@ -644,6 +644,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "leseklubben",
+    "title": "De 10 siste fra Leseklubben",
+    "season": "LATEST_SEASON",
+    "enabled": true
   },
   {
     "id": "lindmo_og_co",

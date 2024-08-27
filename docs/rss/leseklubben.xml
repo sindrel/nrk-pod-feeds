@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 3 siste fra Leseklubben</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 27 Aug 2024 06:35:02 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2024 06:05:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
+    <item>
+      <title>Kommer snart: Leseklubben</title>
+      <description><![CDATA[Les fantastiske bøker med oss! Her får du lydbok, leseoppskrift fra uke til uke og morsomme diskusjoner med den nye klubben din.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/e823c45a-d59f-4799-80ec-82104d2bd429_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/e823c45a-d59f-4799-80ec-82104d2bd429_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:52</itunes:duration>
+      <pubDate>Sat, 24 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
+    </item>
+    <item>
+      <title>Bli kjent med Leseklubben</title>
+      <description><![CDATA[Vil du ha noen å lese bøker med? Kristoffer, Christine og Live er fulle av forventinger til «1984» og gleder seg til å komme i gang]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/cb7a3531-9f20-4e65-a70b-dc2a443d29eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/cb7a3531-9f20-4e65-a70b-dc2a443d29eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:35</itunes:duration>
+      <pubDate>Tue, 27 Aug 2024 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
+    </item>
+    <item>
+      <title>Sex, hat og gummikølle</title>
+      <description><![CDATA[Saftige sexfantasier og bjeffende treningsinstruktører. Klubben har mye å snakke om etter tre kapitler av «1984».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f7835350-57b1-46ef-a056-d2a2d6a542db_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f7835350-57b1-46ef-a056-d2a2d6a542db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:15</itunes:duration>
+      <pubDate>Tue, 27 Aug 2024 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
+    </item>
+  </channel>
+</rss>
