@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 17:28:38 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Aug 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Aug 2024 17:29:20 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Aug 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kom koronaen fra en lab likevel?</title>
+      <description><![CDATA[Flere seriøse forskere mener nå at det er mer sannsynlig at viruset oppstod på et laboratorium enn på et matmarked.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a9ea9f19-690a-4cd6-95e5-d6b24e4868b8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a9ea9f19-690a-4cd6-95e5-d6b24e4868b8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 30 Aug 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/obFi527PjYsarY-QRbsqtAs8u_lfVIz_5Jicqh0ljgcw.jpg"/>
+    </item>
     <item>
       <title>Krisemøte om køkaos</title>
       <description><![CDATA[Det er uaktuelt å åpne kollektivfeltene for elbiler på hverdager igjen, ifølge samferdselsministeren.]]></description>
@@ -92,15 +101,6 @@ Lydklippene er viktige for å belyse hva som skjedde, mener VG.]]></description>
       <itunes:duration>58:55</itunes:duration>
       <pubDate>Mon, 19 Aug 2024 19:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GiWD3oh_GkP5JJX9p3vuRATkVBftpIanTPS4MCnQWPSg.jpg"/>
-    </item>
-    <item>
-      <title>M-kopper påvist i Sverige</title>
-      <description><![CDATA[Sverige første landet utenfor Afrika som smittes med ny variant av viruset.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c4e9ccef-e31e-4f59-8b49-798c30900ea2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c4e9ccef-e31e-4f59-8b49-798c30900ea2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 16 Aug 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Lcsd791eKMHsubkFY-yOdwFHDzbycFA_y4rQoha5cw5w.jpg"/>
     </item>
   </channel>
 </rss>
