@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-08-31  
+- Updated podcast 'Pønsj' (`poensj`)  
 ### 2024-08-27  
 - Updated podcast 'Heia Fotball' (`heia_fotball`)  
 - Added podcast 'Leseklubben' (`leseklubben`)  
