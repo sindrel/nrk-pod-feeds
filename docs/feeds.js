@@ -937,7 +937,7 @@ const feeds = [
     "id": "poensj",
     "title": "De 10 siste fra Pønsj",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "politisk_kvarter",
