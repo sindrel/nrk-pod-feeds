@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 30 Aug 2024 17:29:20 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Aug 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Sep 2024 17:30:29 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Sep 2024 19:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Generalstreik i Israel</title>
+      <description><![CDATA[De streikende vil ha israelske gisler i palestinsk fangenskap fri.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cc89acde-eb3c-4411-8fb2-ad556403fa46_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cc89acde-eb3c-4411-8fb2-ad556403fa46_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 02 Sep 2024 19:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D80yjFlynI_qEiTofJDRqgszxSLpl5TUlq_tNOjDhSKQ.jpg"/>
+    </item>
     <item>
       <title>Kom koronaen fra en lab likevel?</title>
       <description><![CDATA[Flere seriøse forskere mener nå at det er mer sannsynlig at viruset oppstod på et laboratorium enn på et matmarked.]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 20 Aug 2024 19:25:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QhIaPBqW6RoksMro_utYng7jE1tgQ_uUyOq4s4c46t9A.jpg"/>
-    </item>
-    <item>
-      <title>Kritiserer VG for publisering av lydopptak</title>
-      <description><![CDATA[Er det feil av VG å publisere lydopptak av Marius Borg Høiby?
-Lydklippene er viktige for å belyse hva som skjedde, mener VG.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ae11e93f-0dd1-4a5c-bd2d-df5e8958ac99_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ae11e93f-0dd1-4a5c-bd2d-df5e8958ac99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:55</itunes:duration>
-      <pubDate>Mon, 19 Aug 2024 19:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GiWD3oh_GkP5JJX9p3vuRATkVBftpIanTPS4MCnQWPSg.jpg"/>
     </item>
   </channel>
 </rss>
