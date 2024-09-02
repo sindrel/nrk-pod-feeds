@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 30 Aug 2024 04:33:10 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Sep 2024 12:50:51 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Sep 2024 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-g9KxVEJkVPyL0_tG5Pzmgk-qS6iQdgS2ENP50rbZOfg.jpg"/>
+    <item>
+      <title>En beskjed fra Urix</title>
+      <description><![CDATA[Heretter får du to korte podkastepisoder - og en lang radiosending - fra Urix hver uke. Slik finner du dem!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/549f397b-3e0a-4eab-b1ac-7b724628d71c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/549f397b-3e0a-4eab-b1ac-7b724628d71c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06</itunes:duration>
+      <pubDate>Mon, 02 Sep 2024 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TzOyPz9qPFfrJqJDRjHuPwg0GPomnX8PipPuYj9QnMRA.jpg"/>
+    </item>
     <item>
       <title>En brikke i Putins spill</title>
       <description><![CDATA[Kevin er 19 år. Han slapp fri fra russisk fangenskap i bytte mot en dømt drapsmann og hemmelig agent.]]></description>
@@ -92,15 +101,6 @@ Bryr egentlig den israelske regjeringen seg om dem?]]></description>
       <itunes:duration>57:50</itunes:duration>
       <pubDate>Sat, 03 Aug 2024 12:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yUGeQVMK5SKx6FMfiCqJHwn82OBy97zOcWfyIeSJ5G3w.jpg"/>
-    </item>
-    <item>
-      <title>Den peneste piraten i Rødehavet (REPRISE)</title>
-      <description><![CDATA[Slik ble en kjekkas på bare 19 år talsmann for kapringer og angrep til havs fra houthi-militsen i Jemen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/11785830-cdd2-43ef-bc68-50d1093de826_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/11785830-cdd2-43ef-bc68-50d1093de826_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:54</itunes:duration>
-      <pubDate>Wed, 31 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/e40vdj7EJzW9-7vVvjpnVQrgYG1qj4XOJtmmHTiGtsTQ.jpg"/>
     </item>
   </channel>
 </rss>

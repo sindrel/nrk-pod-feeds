@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 14:31:40 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Aug 2024 15:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Sep 2024 12:50:24 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Sep 2024 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Odd Nordstoga</title>
+      <description><![CDATA[Han har akkurat hatt sin verste spillejobb. Det er tre dager siden han sang i sin mors begravelse. - Jeg trodde jeg skulle knekke sammen, men sang den ganske bra. For mor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8762e7da-a787-4a4f-9b6e-c047fe550cfd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8762e7da-a787-4a4f-9b6e-c047fe550cfd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:42</itunes:duration>
+      <pubDate>Mon, 02 Sep 2024 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/heQF03gC2REYgQZlrksEhwuXezXQ_Xx7XqyiqvKqf4fw.jpg"/>
+    </item>
     <item>
       <title>Shazia Majid</title>
       <description><![CDATA[-Som innvandrerbarn har du en utrolig driv for å "bli noe"- og som jente må du jobbe dobbelt så hard, sier VG-kommentatoren.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:34</itunes:duration>
       <pubDate>Thu, 20 Jun 2024 14:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/KQLvqzEfB4pFAgND8WFjwQaVELUANwOtZs-uwks6HPcw.jpg"/>
-    </item>
-    <item>
-      <title>Jan Petter Sissener</title>
-      <description><![CDATA[Mangemillionæren er ikke opptatt av likhet. -Jeg vil bare at flest mulig skal ha det bra og at vi skal ha en plan for fremtiden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ff1c276c-4b85-447a-a990-c59f52679f17_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ff1c276c-4b85-447a-a990-c59f52679f17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:04</itunes:duration>
-      <pubDate>Tue, 18 Jun 2024 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EA2FyqDsvAgc7ymifZRU4QgpMDG35T_LJgjRnWX0tGdg.jpg"/>
     </item>
   </channel>
 </rss>
