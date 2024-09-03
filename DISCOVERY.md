@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-09-03  
+- Updated podcast 'Hævvi' (`haevvi`)  
+- Added podcast 'Kompass' (`kompass`)  
 ### 2024-08-31  
 - Updated podcast 'Pønsj' (`poensj`)  
 ### 2024-08-27  
