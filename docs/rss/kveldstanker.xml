@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 04:33:20 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2024 04:32:24 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Jegerlykke - med Tor Ivar Hagen</title>
+      <description><![CDATA[Faren til skuespiller Tor Ivar Hagen har dratt med familien på jakt- og fisketurer hele Hagens oppvekst. Og denne turen glemmer han aldri.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/de07f71e-16a7-41b0-9c0b-af3808df4823_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/de07f71e-16a7-41b0-9c0b-af3808df4823_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:54</itunes:duration>
+      <pubDate>Tue, 03 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/t1VGvSkM51A51qpXs-kd1gzfsx7AtgB8oVolu9YmqVgw.jpg"/>
+    </item>
     <item>
       <title>Fiskekjerringa - med Elise Kruse</title>
       <description><![CDATA[En statue på Nord-Møre får journalist Elise Kruse til å tenke på hennes egen fiskekjerring.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:41</itunes:duration>
       <pubDate>Mon, 22 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rh6jF95i-tXRLRPYo2Asrwdd8Rz1TflpnbyJ87f7kdkg.jpg"/>
-    </item>
-    <item>
-      <title>Reddet av Wenche Foss - Ragnhild Lund Ansnes </title>
-      <description><![CDATA[Hun våknet med skepsis på 30-årsdagen. Så ringte Wenche Foss. Ragnhild Lund Ansnes er journalist og forfatter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1476df4a-e9ea-4cad-8aa3-fee82deb7578_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1476df4a-e9ea-4cad-8aa3-fee82deb7578_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:12</itunes:duration>
-      <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lqCVeN0yiVxk9BSlT3gIeQRRTAcVRVOvaU-ZTkkRjTTA.jpg"/>
     </item>
   </channel>
 </rss>
