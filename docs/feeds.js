@@ -389,7 +389,7 @@ const feeds = [
     "id": "haevvi",
     "title": "De 10 siste fra Hævvi",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hei_nabo",
@@ -562,6 +562,12 @@ const feeds = [
     "title": "De 10 siste fra Kommentert",
     "season": null,
     "enabled": true
+  },
+  {
+    "id": "kompass",
+    "title": "De 10 siste fra Kompass",
+    "season": null,
+    "enabled": false
   },
   {
     "id": "kongerekka",
