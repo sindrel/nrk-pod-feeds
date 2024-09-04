@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 17:29:44 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Sep 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 04 Sep 2024 17:31:37 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Sep 2024 19:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Oslo mobiliserer mot ungdomskriminalitet</title>
+      <description><![CDATA[Ungdomskriminaliteten øker i hovedstaten. Nå vil Arbeiderpartiet fotfølge kriminell ungdom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c1dea27e-fb13-4686-b8e8-a48c26b6cf6d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c1dea27e-fb13-4686-b8e8-a48c26b6cf6d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Wed, 04 Sep 2024 19:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X_6jwhFKm-0d2cy8JCVdowpUALzZuNXdVGotOHK9IYng.jpg"/>
+    </item>
     <item>
       <title>Hvor har det blitt av kritikken mot Emiren av Qatar?</title>
       <description><![CDATA[Emiren av Qatar besøker Norge, og han møter kongen og statsministeren. Hvor har det blitt av kritikken mot menneskerettighetsbrudd?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 22 Aug 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_fj9XJXCkfiAHXMlKUZhqg3bkM9s82vow47nh2W-KJtA.jpg"/>
-    </item>
-    <item>
-      <title>Rekordbøter til dagligvarekjedene</title>
-      <description><![CDATA[Matvaregigantene får rekordbøter etter bruk av prisjegere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/209e2702-724e-4dc6-843a-efb11d228225_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/209e2702-724e-4dc6-843a-efb11d228225_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 21 Aug 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ImZS_CcY6GiyI2e1g0otDgdlSQJOGevRoXZrsZrtSogw.jpg"/>
     </item>
   </channel>
 </rss>
