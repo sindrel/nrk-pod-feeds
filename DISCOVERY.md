@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-09-05  
+- Updated podcast 'Kompass' (`kompass`)  
 ### 2024-09-04  
 - Updated podcast 'Debatten' (`debatten`)  
 ### 2024-09-03  
