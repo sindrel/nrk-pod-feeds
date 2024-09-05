@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Sep 2024 11:25:15 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Sep 2024 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 05 Sep 2024 13:31:33 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Sep 2024 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Siri Martinsen</title>
+      <description><![CDATA[Veterinær og leder i NOAH - Jeg har alltid stått på mitt, på dyrenes parti!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/2f8956fb-e877-4438-8e65-1bc97ec9c7b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/2f8956fb-e877-4438-8e65-1bc97ec9c7b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Thu, 05 Sep 2024 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/je2nvLPsLf2kzpyjQZx-RgjC48Z77prgyDeMPG3bT0OA.jpg"/>
+    </item>
     <item>
       <title>Øystein Sunde</title>
       <description><![CDATA[Skulle han gitt seg nå, hadde han gått på veggen. Dessuten er det stadig nye sanger som banker på og vil bli skrevet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Mon, 19 Aug 2024 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6pt4oNQFc2-qGD4b_HeLvAWDCwLEQRnPv8qzTRk_71Lg.jpg"/>
-    </item>
-    <item>
-      <title>Karen-Anna Eggen</title>
-      <description><![CDATA[- Det er ikke gitt at Ukraina vil tape. Russlands-forskeren mener angrepet på Kursk viser at krigen kan snu.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b8bed436-92d8-4aad-aaec-222c85bf549c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b8bed436-92d8-4aad-aaec-222c85bf549c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:52</itunes:duration>
-      <pubDate>Thu, 15 Aug 2024 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MXulsSFCrHWbamx-NR6PNQK9ABCkv3nRDi7VMMexQIYw.jpg"/>
     </item>
   </channel>
 </rss>
