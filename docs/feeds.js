@@ -1252,6 +1252,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "supernytt_forklarer",
+    "title": "De 10 siste fra Supernytt forklarer",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "supertroett",
     "title": "De 10 siste fra Supertrøtt",
     "season": null,
