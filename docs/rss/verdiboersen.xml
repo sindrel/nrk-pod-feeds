@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 05 Sep 2024 08:33:50 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Sep 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 06 Sep 2024 08:33:12 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Sep 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Sokrates' forsvarstale</title>
+      <description><![CDATA[Skal du bare lese en filosofibok i livet ditt? Les denne!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/1d9d2ffe-a92a-4bb7-91bc-0f8fb323b4b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1d9d2ffe-a92a-4bb7-91bc-0f8fb323b4b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:45</itunes:duration>
+      <pubDate>Fri, 06 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    </item>
     <item>
       <title>Demografisk vinter</title>
       <description><![CDATA[Stadig færre barn vil endre samfunnet vårt markant. Men hvorfor vil vi ikke ha barn?]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/06ed7d5b-46cc-4822-8507-1112def97462_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:05</itunes:duration>
       <pubDate>Thu, 25 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
-    </item>
-    <item>
-      <title>Det gode liv i Pompeii 4:6</title>
-      <description><![CDATA[Innendørs hager og enorme villaer . Så kommer 24 august år 79...]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/6c51490b-7c2e-426f-9daf-4554d59beadb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/6c51490b-7c2e-426f-9daf-4554d59beadb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:48</itunes:duration>
-      <pubDate>Thu, 18 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
     </item>
   </channel>
