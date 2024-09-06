@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 05 Sep 2024 18:34:00 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Sep 2024 19:25:00 +0200</pubDate>
+    <lastBuildDate>Fri, 06 Sep 2024 18:35:04 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Sep 2024 19:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>NRK avpubliserer Team Ingebrigtsen</title>
+      <description><![CDATA[NRK forhåndsdømmer Gjert Ingebrigsten, hevder hans forsvarer. Vi har vært spesielt opptatt av at valget ikke skal påvirke den rettslige konflikten, svarer kringkastingsjefen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4c59da4b-a582-4c8f-b93c-a1299640dc66_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4c59da4b-a582-4c8f-b93c-a1299640dc66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Fri, 06 Sep 2024 19:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RzxHJJFW760HfpNmhEORyAIsbeAFL2UgChublKBmA6fQ.jpg"/>
+    </item>
     <item>
       <title>Stoltenberg på vei hjem</title>
       <description><![CDATA[Ti år på toppen av forsvarsalliansen i svært urolige tider er straks ved veis ende - Jens Stoltenberg kommer snart hjem.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 26 Aug 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/p5UvHxZz3CPd3yKdwNzmiglne0wuw9RTQU4AGS0L21iQ.jpg"/>
-    </item>
-    <item>
-      <title>Ny abortlov</title>
-      <description><![CDATA[Ny abortlov fra regjeringen, men helt åpent om Stortinget sikrer flertall - for Senterpartiet er skeptisk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/45c28a1b-9d31-4ff3-978e-011d59e1181f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/45c28a1b-9d31-4ff3-978e-011d59e1181f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:56</itunes:duration>
-      <pubDate>Fri, 23 Aug 2024 19:25:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0LHFfHc9tNRdV8WVScE_2whDfvFUj3LSIpaAnLeJA9RQ.jpg"/>
     </item>
   </channel>
 </rss>
