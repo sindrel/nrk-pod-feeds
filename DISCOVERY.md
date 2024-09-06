@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-09-06  
+- Added podcast 'Supernytt forklarer' (`supernytt_forklarer`)  
 ### 2024-09-05  
 - Updated podcast 'Kompass' (`kompass`)  
 ### 2024-09-04  
