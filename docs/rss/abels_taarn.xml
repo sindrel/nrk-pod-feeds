@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 12:48:48 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Sep 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 07 Sep 2024 04:31:48 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Lost in space</title>
+      <description><![CDATA[Abels tårns redaksjon med Torkild, Annette og Kristina forteller om ting fra vitenskapens verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/7a07ba9b-f3cd-44ca-b62e-8be90ffc18a8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7a07ba9b-f3cd-44ca-b62e-8be90ffc18a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:36</itunes:duration>
+      <pubDate>Sat, 07 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WG2FpHtUtGFHkRt1cpJ-cANOymLD7hPv_6-ivR0PerxQ.jpg"/>
+    </item>
     <item>
       <title>Er tyggis laget av plast?</title>
       <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud deg svar på ting du ikke visste du lurte på: 
@@ -148,23 +157,6 @@ Og hva skjer med sannheten, når alt kan genereres?]]></description>
       <itunes:duration>56:40</itunes:duration>
       <pubDate>Wed, 26 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_UWVRinxKktQv2fwK5fVlAZs3NiurM077rfJJlVdxIJA.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - En "zapp" i hjernen kan kurere kjærlighetssorg</title>
-      <description><![CDATA[Vi, Torkild, Annette og Hanne i Abels tårn redaksjonen, deler på noen utvalgte nyheter fra forskningens verden. 
-
-En "zapp" i hjernen kan kurere kjærlighetssorg
-
-Lystgass-gomlende bakterier, reduserer landbrukets klimautslipp så det virkelig monner
-
-Fentanyl er verdens farligste rusmiddel, nå er det funnet en mulig kur.
-
-Ny formel for å regne ut hvor fort fugler må flakse med vingene for å holde seg i lufta]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/e9c3a233-e124-4b66-b3db-83842f792489_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e9c3a233-e124-4b66-b3db-83842f792489_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:26</itunes:duration>
-      <pubDate>Mon, 24 Jun 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ocn2c_AdyEWXxsUikt4NhQ2Gt2IdMstu_MoJQrp2b0zA.jpg"/>
     </item>
   </channel>
 </rss>

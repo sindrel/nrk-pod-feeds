@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 01 Sep 2024 04:33:39 +0000</lastBuildDate>
-    <pubDate>Sun, 01 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 07 Sep 2024 04:31:58 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Forfatterintervjuet med Trude Teige</title>
+      <description><![CDATA[Trude Teige tror grunnen til at de historiske romanene hennes er så populære i Tyskland skyldes en kollektiv skyldfølelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/0604f55f-8bbb-4656-9125-ecd5a520bfdf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/0604f55f-8bbb-4656-9125-ecd5a520bfdf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sat, 07 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3OttXGDLhrnqzyxyTWDrfA6N_wS9QINjS-hAua_MXlNw.jpg"/>
+    </item>
     <item>
       <title>Kinge, Mirković og Wulff</title>
       <description><![CDATA[Denne uken tar vi for oss tre debutanter når vi anmelder «Du lurer ikke meg» av Marie Kinge, «Divnas bok» av Karoline Mirković og «Dyr i byen» av Marte Wulff.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Sat, 15 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/V8YY_fZA8VQVFADKiTD33AmVMownsvRYVySA3MTOy-pw.jpg"/>
-    </item>
-    <item>
-      <title>Wolasmal, Levy og Fjeldbraaten</title>
-      <description><![CDATA[En roman om reality-tv, et innblikk i Talibans Afghanistan og en roman om et vidunderbarn på piano.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/cec228b5-5649-4d6b-a85f-cfe519834b33_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/cec228b5-5649-4d6b-a85f-cfe519834b33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Sun, 09 Jun 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LvozR134ZjRHI7eOpqHiywQLKcV2XTG63WEmf6qw3r2A.jpg"/>
     </item>
   </channel>
 </rss>
