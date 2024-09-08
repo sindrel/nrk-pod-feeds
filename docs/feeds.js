@@ -1173,7 +1173,7 @@ const feeds = [
     "id": "sommer_i_p2",
     "title": "De 10 siste fra Sommer i P2",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "sophie_og_fetisha",
