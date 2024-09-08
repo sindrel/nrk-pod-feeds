@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-09-08  
+- Updated podcast 'Sommer i P2' (`sommer_i_p2`)  
 ### 2024-09-06  
 - Added podcast 'Supernytt forklarer' (`supernytt_forklarer`)  
 ### 2024-09-05  
