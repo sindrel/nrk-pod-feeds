@@ -1,96 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Leseklubben</title>
+    <title>De 4 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 04:32:08 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Sep 2024 06:03:00 +0200</pubDate>
+    <lastBuildDate>Tue, 10 Sep 2024 04:33:26 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Sep 2024 06:06:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     <item>
-      <title>Kapittel 1 av «1984» – Leseklubben-ep. 2</title>
-      <description><![CDATA[Lydboka «1984» av George Orwell lest av Roger Opdal Paulsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/63da6b82-a50a-493d-ba81-d5d350d97c6a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/63da6b82-a50a-493d-ba81-d5d350d97c6a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:53</itunes:duration>
-      <pubDate>Tue, 27 Aug 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqjqT2auk-i_p0FOYuLd_AtQ2d963kseHC9c9JQBXXcg.jpg"/>
+      <title>Bli kjent med Leseklubben. Episode 1</title>
+      <description><![CDATA[Vil du ha noen å lese bøker med? Kristoffer, Christine og Live er fulle av forventinger til «1984» og gleder seg til å komme i gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/cb7a3531-9f20-4e65-a70b-dc2a443d29eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/cb7a3531-9f20-4e65-a70b-dc2a443d29eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:35</itunes:duration>
+      <pubDate>Tue, 27 Aug 2024 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
     </item>
     <item>
-      <title>Kapittel 2 av «1984» – Leseklubben-ep. 2</title>
-      <description><![CDATA[Lydboka «1984» av George Orwell lest av Roger Opdal Paulsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d63bbd2c-5788-4109-a7d3-6748c546a58a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d63bbd2c-5788-4109-a7d3-6748c546a58a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:33</itunes:duration>
-      <pubDate>Tue, 27 Aug 2024 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqjqT2auk-i_p0FOYuLd_AtQ2d963kseHC9c9JQBXXcg.jpg"/>
+      <title>Sex, hat og gummikølle. Episode 2</title>
+      <description><![CDATA[Saftige sexfantasier og bjeffende treningsinstruktører. Klubben har mye å snakke om etter tre kapitler av «1984».
+
+I denne episoden snakker vi om kapittel en, to og tre. Du finner lydboka i NRK Radio. Har du ikke rukket å høre? Fortvil ikke, Kristoffer gir deg en oppsummering av kapitlene!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f7835350-57b1-46ef-a056-d2a2d6a542db_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f7835350-57b1-46ef-a056-d2a2d6a542db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:15</itunes:duration>
+      <pubDate>Tue, 27 Aug 2024 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
     </item>
     <item>
-      <title>Kapittel 3 av «1984» – Leseklubben-ep. 2</title>
-      <description><![CDATA[Lydboka «1984» av George Orwell lest av Roger Opdal Paulsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/66cd2c9a-ac4f-4d8a-a3fd-6e7fcf7185d9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/66cd2c9a-ac4f-4d8a-a3fd-6e7fcf7185d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:28</itunes:duration>
-      <pubDate>Tue, 27 Aug 2024 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqjqT2auk-i_p0FOYuLd_AtQ2d963kseHC9c9JQBXXcg.jpg"/>
+      <title>«1984»-quiz – hvem overlever? Episode 3</title>
+      <description><![CDATA[Har Christine og Live egentlig forstått hva «dobbelttenk» og «tankeforbrytelser» er når de deltar i Kristoffers «1984»-quiz: «Tenk eller dobbelt»?
+
+I denne episoden snakker vi om kapittel fire, fem og seks. Har du ikke rukket å høre? Kristoffer gir deg en oppsummering!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ec989720-fa80-4e34-9832-d69633b343bc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ec989720-fa80-4e34-9832-d69633b343bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:48</itunes:duration>
+      <pubDate>Tue, 03 Sep 2024 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
     </item>
     <item>
-      <title>Kapittel 4 av «1984» – Leseklubben-ep. 3</title>
-      <description><![CDATA[Lydboka «1984» av George Orwell lest av Roger Opdal Paulsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/206aad7a-0ffa-4b06-8bee-7f8cc79b723e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/206aad7a-0ffa-4b06-8bee-7f8cc79b723e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:14</itunes:duration>
-      <pubDate>Fri, 30 Aug 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqjqT2auk-i_p0FOYuLd_AtQ2d963kseHC9c9JQBXXcg.jpg"/>
-    </item>
-    <item>
-      <title>Kapittel 5 av «1984» – Leseklubben-ep. 3</title>
-      <description><![CDATA[Lydboka «1984» av George Orwell lest av Roger Opdal Paulsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6ad72589-5b08-439d-bc9d-6d1703bc4d5f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6ad72589-5b08-439d-bc9d-6d1703bc4d5f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:52</itunes:duration>
-      <pubDate>Fri, 30 Aug 2024 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqjqT2auk-i_p0FOYuLd_AtQ2d963kseHC9c9JQBXXcg.jpg"/>
-    </item>
-    <item>
-      <title>Kapittel 6 av «1984» – Leseklubben-ep. 3</title>
-      <description><![CDATA[Lydboka «1984» av George Orwell lest av Roger Opdal Paulsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/81880585-b04c-47e6-bad7-86e0424da441_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/81880585-b04c-47e6-bad7-86e0424da441_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:10</itunes:duration>
-      <pubDate>Fri, 30 Aug 2024 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqjqT2auk-i_p0FOYuLd_AtQ2d963kseHC9c9JQBXXcg.jpg"/>
-    </item>
-    <item>
-      <title>Kapittel 7 av «1984» – Leseklubben-ep. 4</title>
-      <description><![CDATA[Lydboka «1984» av George Orwell lest av Roger Opdal Paulsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2bceffd7-e638-49fe-988b-af25341d4fad_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2bceffd7-e638-49fe-988b-af25341d4fad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:15</itunes:duration>
-      <pubDate>Fri, 06 Sep 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqjqT2auk-i_p0FOYuLd_AtQ2d963kseHC9c9JQBXXcg.jpg"/>
-    </item>
-    <item>
-      <title>Kapittel 8 av «1984» – Leseklubben-ep. 4</title>
-      <description><![CDATA[Lydboka «1984» av George Orwell lest av Roger Opdal Paulsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/35f8d0eb-2e58-4092-b29a-32c6a9c07101_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/35f8d0eb-2e58-4092-b29a-32c6a9c07101_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:48</itunes:duration>
-      <pubDate>Fri, 06 Sep 2024 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqjqT2auk-i_p0FOYuLd_AtQ2d963kseHC9c9JQBXXcg.jpg"/>
-    </item>
-    <item>
-      <title>Kapittel 1 av «1984» del 2 – Leseklubben-ep. 4</title>
-      <description><![CDATA[Lydboka «1984» av George Orwell lest av Roger Opdal Paulsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/92aa589b-ff27-4736-afbb-364a522f55ae_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/92aa589b-ff27-4736-afbb-364a522f55ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:15</itunes:duration>
-      <pubDate>Fri, 06 Sep 2024 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqjqT2auk-i_p0FOYuLd_AtQ2d963kseHC9c9JQBXXcg.jpg"/>
+      <title>Trumps løgner er så «1984». Episode 4</title>
+      <description><![CDATA[– Alle bare godtar at Trump driver med løgn og «dobbeltenk», sier Orwell-ekspert. Live får gåsehud og Kristoffer kaster en brannfakkel. Alle gleder seg til å snakke om sjokklappen.
+
+I denne episoden snakker vi om kapittel 7, 8 og kap. 1 i del 2 av boken «1984».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/81758d65-0acb-4b89-9ca0-93ad8225bc27_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/81758d65-0acb-4b89-9ca0-93ad8225bc27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:26</itunes:duration>
+      <pubDate>Tue, 10 Sep 2024 06:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     </item>
   </channel>
 </rss>
