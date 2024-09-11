@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-09-11  
+- Updated podcast 'Klassequizen' (`klassequizen`)  
 ### 2024-09-08  
 - Updated podcast 'Sommer i P2' (`sommer_i_p2`)  
 ### 2024-09-06  
