@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Sep 2024 08:32:34 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Sep 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 11 Sep 2024 08:34:07 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Sep 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Døden på  Oslo S" av Ingvar Ambjørnsen</title>
+      <description><![CDATA[Unge detektiver og sosiale utfordringer på Torshov]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c4d2f112-47d7-4bd3-ba50-b43743566420_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c4d2f112-47d7-4bd3-ba50-b43743566420_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:22</itunes:duration>
+      <pubDate>Wed, 11 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Det norske folkesprogs gramatik" av Ivar Aasen</title>
       <description><![CDATA[Spynorsk mordliste!]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/44f874c5-1d28-4a2f-9c01-7fba6ced6f04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:18</itunes:duration>
       <pubDate>Wed, 08 May 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"Line" av Axel Jensen</title>
-      <description><![CDATA[Jente og en ganske problematisk matador. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/26f4b587-5d8e-483c-a4d8-1b58899bab40_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/26f4b587-5d8e-483c-a4d8-1b58899bab40_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:20</itunes:duration>
-      <pubDate>Wed, 01 May 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
