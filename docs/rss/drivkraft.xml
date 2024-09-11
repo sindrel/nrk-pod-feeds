@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 10 Sep 2024 11:24:53 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Sep 2024 13:17:00 +0200</pubDate>
+    <lastBuildDate>Wed, 11 Sep 2024 13:31:26 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Sep 2024 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Richard Bærug</title>
+      <description><![CDATA[Sommeren 2009 var han på fottur i noen avsidesliggende fjell i Georgia. Det endte med at han til slutt ble fastboende der, og medeier av et hotell.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5dc7dff3-aa6d-4d9c-859f-cf2ce8d81b88_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5dc7dff3-aa6d-4d9c-859f-cf2ce8d81b88_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:43</itunes:duration>
+      <pubDate>Wed, 11 Sep 2024 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UTaBKkQdWSZS66VfeRK63gZxLX5oh_m57D08pDOpbYBg.jpg"/>
+    </item>
     <item>
       <title>Trude Teige</title>
       <description><![CDATA[Forfatteren opplever eventyrlig suksess i Tyskland, med bøker om andre verdenskrig. Selv mener hun suksessen skyldes at hun skriver om hendelser som lenge har vært tabu i Tyskland.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:07</itunes:duration>
       <pubDate>Tue, 27 Aug 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sOT5BlIsAi21slvdPh2Umg2UF4DJsv2oUAe5BU1rZjkQ.jpg"/>
-    </item>
-    <item>
-      <title>Christian Mikkelsen</title>
-      <description><![CDATA[- Jeg er redd folk skal synes jeg er en idiot. Det er forklaringen på hvorfor komikeren synes det er skummelt å ringe bilverkstedet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0ef6c653-d046-4dd7-a34f-0cd3821217b7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0ef6c653-d046-4dd7-a34f-0cd3821217b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:57</itunes:duration>
-      <pubDate>Mon, 26 Aug 2024 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/y4dZ2wIPVPRv5Bhw4CZJjQAYfPcQrZtI8298yhtHhqxQ.jpg"/>
     </item>
   </channel>
 </rss>
