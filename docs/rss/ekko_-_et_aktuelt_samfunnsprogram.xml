@@ -7,12 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 04:35:30 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Sep 2024 10:33:46 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Sep 2024 12:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
     <item>
-      <title>Ble overvåket i Russland</title>
+      <title>Har Taylor Swift avgjort valget?</title>
+      <description><![CDATA[Verdens største popstjerne har engasjert seg i valgkampen. Hvor stor påvirkning har hun egentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d12a8814-f8d6-4606-8586-6ac163e126d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d12a8814-f8d6-4606-8586-6ac163e126d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:25</itunes:duration>
+      <pubDate>Thu, 12 Sep 2024 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Lsohc1dJa0R0MVOV5VBq3ApMgRdgZrs3qz3Xc6-1B2kg.jpg"/>
+    </item>
+    <item>
+      <title>Gro Holm overvåket i Russland</title>
       <description><![CDATA[Noen ukjente har brukt toalettet, tuklet med datamaskinen og forfulgt henne – dette ble hverdagen for NRK-korrespondent Gro Holm.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/21edba47-0171-409d-ab92-2c11335e9263_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/21edba47-0171-409d-ab92-2c11335e9263_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -21,8 +30,8 @@
       <itunes:image href="https://gfx.nrk.no/YJO_EglSoFvjybFpim3_xAI6pDM1QRSQV2nYus0ByU3w.jpg"/>
     </item>
     <item>
-      <title>Hvordan tenker en snikfilmer?</title>
-      <description><![CDATA[Snikfilming skjer oftere enn vi tror. Det er ulovlig og skambelagt, så hva driver noen til å gjøre det likevel?]]></description>
+      <title>Snikfilming skjer oftere enn vi tror</title>
+      <description><![CDATA[Det er ulovlig og skambelagt, så hva driver noen til å gjøre det likevel?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b96a4b71-0f3c-422e-90ee-a094afd7489d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b96a4b71-0f3c-422e-90ee-a094afd7489d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:55</itunes:duration>
@@ -94,15 +103,6 @@ Hva skjer om du logger av?]]></description>
       <itunes:duration>24:00</itunes:duration>
       <pubDate>Fri, 23 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/c-qAyY7n09Jj8hvRmIeadw7r4joYbe7tRMay2BzKxEMQ.jpg"/>
-    </item>
-    <item>
-      <title>Slik blir du astronaut</title>
-      <description><![CDATA[Ein ekte astronaut fortel kva som skal til for å kome seg ut i verdsrommet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cb1d0f7e-50aa-473e-aa17-00922cd4daae_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cb1d0f7e-50aa-473e-aa17-00922cd4daae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:18</itunes:duration>
-      <pubDate>Wed, 21 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vZPuebh6GkivqYLn_Jhc_AoGdto7D0xWdWpjIDzgHg1g.jpg"/>
     </item>
   </channel>
 </rss>
