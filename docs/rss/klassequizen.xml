@@ -1,105 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Klassequizen</title>
+    <title>De 1 siste fra Klassequizen</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Klassequizen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassequizen for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Klassequizen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassequizen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 07:26:19 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Sep 2024 09:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Sep 2024 12:49:55 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Sep 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw.jpg"/>
     <item>
-      <title>Sokna skole</title>
-      <description><![CDATA[Vi er på Sokna skole sammen med Kenmillian Eid, Nikoline Sørsdal Fodnæss og Madelen Tutanrud.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/9f6a761b-ae77-4149-bb81-be3348e61593_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/9f6a761b-ae77-4149-bb81-be3348e61593_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:10</itunes:duration>
-      <pubDate>Wed, 11 Sep 2024 09:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
-    </item>
-    <item>
-      <title>Krødsherad ungdomsskole</title>
-      <description><![CDATA[Vi kickstarter Klassequiz-sesongen sammen med Sander Aasen Bjerkerud, Thea Kristine Nilsen og Jonathan Hovden på Krødsherad skole. Hva vil de helst ikke få spørsmål om? Og hva spiser de helst på fredagskvelden?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/1e1bef63-6e05-4ca6-93cc-247cdc82daac_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/1e1bef63-6e05-4ca6-93cc-247cdc82daac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:08</itunes:duration>
-      <pubDate>Tue, 10 Sep 2024 16:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
-    </item>
-    <item>
-      <title>Fylkesfinale - ekstraomgang 2</title>
-      <description><![CDATA[Hov ungdomsskole er videre til landsfinalen. Nå står kampen om den siste "Buskerud-plassen" mellom lagene fra Killingrud og Veienmarka. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/11bd2e37-6b0d-446d-837a-a7b567e3b3b6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/11bd2e37-6b0d-446d-837a-a7b567e3b3b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:29</itunes:duration>
-      <pubDate>Fri, 29 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
-    </item>
-    <item>
-      <title>Fylkesfinale, ekstraomgang 1 </title>
-      <description><![CDATA[I den nervepirrende ekstraomgangen kjemper lagene fra Hov, Veienmarka og Killingrud om de to "Buskerud-plassene" i landsfinalen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/79d2765d-09de-4c46-ada3-c666c2663da8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/79d2765d-09de-4c46-ada3-c666c2663da8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:25</itunes:duration>
-      <pubDate>Thu, 28 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
-    </item>
-    <item>
-      <title>Fylkesfinale i Buskerud </title>
-      <description><![CDATA[Lagene fra Veienmarka, Hov, Ål og Killingrud kjemper om de to "Buskerud-plassene" i landsfinalen. Quizmaster er Elisabeth Tøtte Hansen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/e950c3e2-b189-4fc1-a778-25c07caa06e5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/e950c3e2-b189-4fc1-a778-25c07caa06e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:23</itunes:duration>
-      <pubDate>Wed, 27 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
-    </item>
-    <item>
-      <title>Galterud skole </title>
-      <description><![CDATA[Nicolay Fehn, Nils Klevland og Marion Hafland ønsker seg spørsmål om geografi og sport når de quizes av Karoline Stangenes. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/f8ee618b-d6c8-430f-a9fe-9283710000dc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/f8ee618b-d6c8-430f-a9fe-9283710000dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:44</itunes:duration>
-      <pubDate>Mon, 18 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
-    </item>
-    <item>
-      <title>Lunner ungdomsskole</title>
-      <description><![CDATA[Fotballspillende Hans Henrik Strømnes, treningsglade Timian Fagerholt og gitarspillende Zuzanna Mlynarczyk quizes av Eirik Koren. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/454d698b-bbbe-4500-a736-9268ec9f9a57_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/454d698b-bbbe-4500-a736-9268ec9f9a57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:04</itunes:duration>
-      <pubDate>Wed, 13 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
-    </item>
-    <item>
-      <title>Sigdal skole</title>
-      <description><![CDATA[Langrennsløperen Kristoffer Aaby, maleglade Tuva Aasand og sykkelinteresserte Ida Østebye Støvern quizes av Elisabeth Tøtte Hansen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/849879c0-a299-43fd-a150-54a1e483972c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/849879c0-a299-43fd-a150-54a1e483972c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:10</itunes:duration>
-      <pubDate>Mon, 11 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
-    </item>
-    <item>
-      <title>Veienmarka ungdomsskole </title>
-      <description><![CDATA[Å lære noe nytt er topp synes Tobias Johansen, Andreas Hanisch Papadakos og Lona Odderbø Bråten. De quizes av Elisabeth Tøtte Hansen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/7baa7b9d-60b4-4756-adb6-132193c01da3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/7baa7b9d-60b4-4756-adb6-132193c01da3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:33</itunes:duration>
-      <pubDate>Fri, 08 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
-    </item>
-    <item>
-      <title>Podkast: KQ - Flesberg</title>
-      <description><![CDATA[Traktorkjørende Viel Marit Hvamb og fotballspillende Alexander Surlien og Eirin F. Oldre quizes av Tina Brock. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/74491fba-56f6-4ef2-8f27-6d7bdc43a803_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/74491fba-56f6-4ef2-8f27-6d7bdc43a803_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:09</itunes:duration>
-      <pubDate>Wed, 06 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MxbcuNsBPa_McMeaHHqJHAcNNU1Nont9aVYbhEl6puQQ.jpg"/>
+      <title>Vardheia ungdomsskole</title>
+      <description><![CDATA[Benjamin Rathaphum Pollestad, Tor Arne Ege og Maria Berg fra Vardheia ungdomskole i Klassequizen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/6584339d-3d86-432f-9a48-4a4b5a6c5891_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/6584339d-3d86-432f-9a48-4a4b5a6c5891_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:04</itunes:duration>
+      <pubDate>Thu, 12 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DUj6SG3OaGXDv5wTq0ZKFgv0NnuUVR4DbVmb9sfA2RrQ.jpg"/>
     </item>
   </channel>
 </rss>
