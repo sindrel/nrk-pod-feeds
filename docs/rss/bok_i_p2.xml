@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 04:31:17 +0000</lastBuildDate>
-    <pubDate>Sun, 08 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 14 Sep 2024 04:32:08 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Forfatterintervjuet med Kyrre Andreassen</title>
+      <description><![CDATA[Da det gjenstod bare et kapitel av «Svendsens Catering», kastet Kyrre Andreassen hele utkastet av boken, og startet helt på nytt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/02c72abd-2082-4d3d-ba89-79df135f0c5c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/02c72abd-2082-4d3d-ba89-79df135f0c5c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:35</itunes:duration>
+      <pubDate>Sat, 14 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HkBqX40AcUW4ch-pzrtkUQi3QF2NJzS_kz4PNM9S2Mkg.jpg"/>
+    </item>
     <item>
       <title>Tiller, Elvedal og Sinno</title>
       <description><![CDATA[Vi anmelder «Arbeidarhjerte» av Carl Frode Tiller, «Trist tiger» av Neige Sinno og «Du kan kalle meg Jan» av Anne Elvedal.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:59</itunes:duration>
       <pubDate>Sat, 22 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oV06hPlMPgiZKbMByb1pLQJ4oY4hr30Hu4oPff4U0npw.jpg"/>
-    </item>
-    <item>
-      <title>Hammad, Nesbø og Andersson</title>
-      <description><![CDATA[Denne uken anmelder vi «Gjenferdet inn» av Isabella Hammad, «Kongen av Os» av Jo Nesbø og «Studie i menneskelig atferd» av Lena Andersson.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/f761f9ad-345b-4d59-b28a-d80dab2bd88a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/f761f9ad-345b-4d59-b28a-d80dab2bd88a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Sun, 16 Jun 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YzK79U1pfoVj8T2PDl2lJwJKMfbKh6Bo8TDiBmwehhPA.jpg"/>
     </item>
   </channel>
 </rss>
