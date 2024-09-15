@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 04:31:43 +0000</lastBuildDate>
-    <pubDate>Sun, 08 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 15 Sep 2024 04:33:56 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Mathea Stensæth Josefsen</title>
+      <description><![CDATA[Else og Mathea Stensæth Josefsen spiller fløyte, snakker om parykk og drar på Frank Znort-konsert!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/d7e01498-5ba2-46d1-a075-7584393e818b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/d7e01498-5ba2-46d1-a075-7584393e818b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:13</itunes:duration>
+      <pubDate>Sun, 15 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r9ahxPmiI-03yNhvrWxT_AWc-3gEsz3fscmsOqmRfeqQ.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Odd-Magnus Williamson</title>
       <description><![CDATA[Else og Odda om voksenkjeft, drøye vitser og botox!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>35:42</itunes:duration>
       <pubDate>Sun, 14 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/El-sDeKtByOTpnqf5uYnsQy56kYIjP2B8po0IKke_wRw.jpg"/>
-    </item>
-    <item>
-      <title>Reprise: Jon Almaas, hønsenetting og kjæresterier</title>
-      <description><![CDATA[Selveste Jon Almaas kommer på besøk og søstrene er mildt sagt nervøse. Jon finner hønsenettingen til Else og mener bestemt at det kan brukes til noe.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a2a84b1e-2994-4211-9ffc-979a7236afa4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a2a84b1e-2994-4211-9ffc-979a7236afa4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:12:30</itunes:duration>
-      <pubDate>Sun, 07 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
     </item>
   </channel>
 </rss>

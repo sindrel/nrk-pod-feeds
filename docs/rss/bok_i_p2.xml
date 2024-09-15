@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 14 Sep 2024 04:32:08 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 15 Sep 2024 04:32:57 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Ruset, Cusk og Durnak</title>
+      <description><![CDATA[Vi anmelder «Kometjenta» av Victoria Durnak, «Stjålet venn» av Endre Ruset og «Parade» av Rachel Cusk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/f915ab69-4860-4f6e-871d-ec39921b62be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/f915ab69-4860-4f6e-871d-ec39921b62be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sun, 15 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uNLYanrVefiFCqChS0ILKQ4SLeESYEGrHUDJejsa5ecg.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Kyrre Andreassen</title>
       <description><![CDATA[Da det gjenstod bare et kapitel av «Svendsens Catering», kastet Kyrre Andreassen hele utkastet av boken, og startet helt på nytt.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Sat, 17 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HOGIETYHKB3ZXoxIppU4KQeAia3so62-sYRFo7r39NCw.jpg"/>
-    </item>
-    <item>
-      <title>Paramalingam, Qvenild og Knudsen</title>
-      <description><![CDATA[Vi anmelder tre norske kvinnelige forfattere, som er ute med hver sin nye bok.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/db51bda6-b170-4227-bfc3-a3b5ba3b790d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/db51bda6-b170-4227-bfc3-a3b5ba3b790d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Sat, 22 Jun 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oV06hPlMPgiZKbMByb1pLQJ4oY4hr30Hu4oPff4U0npw.jpg"/>
     </item>
   </channel>
 </rss>
