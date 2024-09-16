@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-09-16  
+- Updated podcast 'Reiseradioens sommerleker' (`reiseradioens_sommerleker`)  
 ### 2024-09-15  
 - Updated podcast 'Gamle greier' (`gamle_greier`)  
 ### 2024-09-11  
