@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 04:35:53 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Sep 2024 04:33:58 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Liza Minelli - med Tor Ivar Hagen</title>
+      <description><![CDATA[Skuespiller Tor Ivar Hagen forteller om sitt store idol - Liza Minelli.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/cd1dc979-bd91-4642-8fea-bec3dba0ecd4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/cd1dc979-bd91-4642-8fea-bec3dba0ecd4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:07</itunes:duration>
+      <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/t1VGvSkM51A51qpXs-kd1gzfsx7AtgB8oVolu9YmqVgw.jpg"/>
+    </item>
     <item>
       <title>Håp i havet - med Alexander Sandtorv</title>
       <description><![CDATA[Under en eksistensiell krise flykter kjemiker Alexander Sandtorv inn i Københavns akvarie.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:52</itunes:duration>
       <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/AfEUPbQIRGCBc_muAnmcog6mY2kLCOjoqdyfxGdwtf1Q.jpg"/>
-    </item>
-    <item>
-      <title>Skuespillerspire - med Tor Ivar Hagen</title>
-      <description><![CDATA[Skuespiller Tor Ivar Hagen ble i 1999 med på en audition som endret hans kurs i livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/bf8d11de-8512-4490-84ab-814c69089ece_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bf8d11de-8512-4490-84ab-814c69089ece_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:18</itunes:duration>
-      <pubDate>Wed, 21 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/t1VGvSkM51A51qpXs-kd1gzfsx7AtgB8oVolu9YmqVgw.jpg"/>
     </item>
   </channel>
 </rss>

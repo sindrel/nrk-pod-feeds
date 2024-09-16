@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 04:33:10 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Sep 2024 04:33:50 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Emil Meek og pulsåren</title>
+      <description><![CDATA[Blir man mer redd for døden når man sloss for livet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/f90e8108-e18d-4ee6-9a8d-1a9577ff9eff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f90e8108-e18d-4ee6-9a8d-1a9577ff9eff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:51</itunes:duration>
+      <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gXE8WxTWYk2L8zck3ULkJgqjWr-yYJdKAVxtUB6Inqaw.jpg"/>
+    </item>
     <item>
       <title>Mari Maurstad med hagle</title>
       <description><![CDATA[Ganske redd, men klar for kamp!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:00:38</itunes:duration>
       <pubDate>Mon, 10 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jZikdIuVJ8dE6NG-ZOBIJwtErF8GwCm2FZWPPmh0hXAw.jpg"/>
-    </item>
-    <item>
-      <title>Christine Dancke i skogens mørke</title>
-      <description><![CDATA[Kanskje redd for mye, men ikke døden eller alenetid i skogen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/dc86a6d7-8efe-4401-a6fc-8edea4fa5419_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/dc86a6d7-8efe-4401-a6fc-8edea4fa5419_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:01</itunes:duration>
-      <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yYtyTv4mM04jVfdSaNxDRgW9WijtplrJoww6yhDcuDbg.jpg"/>
     </item>
   </channel>
 </rss>

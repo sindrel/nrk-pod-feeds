@@ -7,10 +7,23 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 15 Sep 2024 04:32:45 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Sep 2024 04:33:23 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Hvem er smartest av A- og B-mennesker?</title>
+      <description><![CDATA[Torkild, Hanne og Kristina gir deg nyheter fra vitenskapens verden. 
+                                                                                                                                                           
+Forskning viser hvem som er smartest av A- og B-mennesker. 
+Kanskje får vi snart verdens mest presise atomur på månen. 
+Resultater klare fra verdens første og eneste øyetransplantasjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/72b8b4bf-55b2-4131-a713-5d08ccdbbd2b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/72b8b4bf-55b2-4131-a713-5d08ccdbbd2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:18</itunes:duration>
+      <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rfYoqDP90zwEAcUTa0fGZApx0K_q43DgJEPwYTnVAuyg.jpg"/>
+    </item>
     <item>
       <title>Nanoteknologi mot kreft</title>
       <description><![CDATA[Forskning på nanoteknologi i medisin vant en av Kavliprisene 2024. 
@@ -163,16 +176,6 @@ Illustrasjonen er laget av Chat GPT-4o.]]></description>
       <itunes:duration>57:37</itunes:duration>
       <pubDate>Fri, 02 Aug 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/vS4BlMKwoIWuvyvc_o-Xuw-_N2LN99xoffKZoPou_dRw.jpg"/>
-    </item>
-    <item>
-      <title>Den store serien om KI (10:10) - Singulariteten</title>
-      <description><![CDATA[Techmilliardærene i Silicon Valley elsker å snakke om «singulariteten» og menneskehetens undergang.
-Hva skjer når maskinene blir mer intelligente enn mennesker?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a4e8c150-4af2-473c-bf21-e8165ba568d8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e8c150-4af2-473c-bf21-e8165ba568d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:16</itunes:duration>
-      <pubDate>Tue, 16 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2gNdijIRAW4nTNMh0yUtzArPuGgJpbuVfP-k7j7hPykg.jpg"/>
     </item>
   </channel>
 </rss>
