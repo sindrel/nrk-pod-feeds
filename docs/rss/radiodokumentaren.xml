@@ -1,60 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 04:32:37 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Sep 2024 06:03:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Sep 2024 11:25:51 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Sep 2024 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Kommer: Våpensmuglerne</title>
-      <description><![CDATA[Et nytt vennskap oppstår når to narkosmuglere tar et livsfarlig oppdrag fylt av elendige valg og ville vendinger – å smugle våpen inn i Irak. I NRK Radio fra 3.9.2024.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/698d4e51-068b-46e5-82a7-22f1eb4f1f9d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/698d4e51-068b-46e5-82a7-22f1eb4f1f9d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32</itunes:duration>
-      <pubDate>Mon, 02 Sep 2024 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/asneJhYplxgfHRKYIPiw4Aw_IqBUOX_pGxb62P-KLabg.jpg"/>
-    </item>
-    <item>
-      <title>Arendals farligste mann – Våpensmuglerne (1:4)</title>
-      <description><![CDATA[Tore har takket ja til et sinnssykt oppdrag, og trenger en partner. Han får tips om minerydderen og narkosmugleren Audun fra Arendal.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/e5d2c196-841e-4f03-8e87-1e5b17055bcb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/e5d2c196-841e-4f03-8e87-1e5b17055bcb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:06</itunes:duration>
-      <pubDate>Tue, 03 Sep 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/asneJhYplxgfHRKYIPiw4Aw_IqBUOX_pGxb62P-KLabg.jpg"/>
-    </item>
-    <item>
-      <title>På IS-territorium – Våpensmuglerne (2:4)</title>
-      <description><![CDATA[Adrenalinet pumper i årene på de to ferske kompisene når lastebilene med våpen kjører over grensa til Irak. De vet enda ikke hvor galt det skal gå.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/067903a9-4efd-4bfd-9b2d-98754eb2f00a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/067903a9-4efd-4bfd-9b2d-98754eb2f00a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:10</itunes:duration>
-      <pubDate>Tue, 03 Sep 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/asneJhYplxgfHRKYIPiw4Aw_IqBUOX_pGxb62P-KLabg.jpg"/>
-    </item>
-    <item>
-      <title>90 000 piller – Våpensmuglerne (3:4)</title>
-      <description><![CDATA[– Tore, jeg skal kvele deg! Audun blir rasende når han skjønner hva Tore har gjemt i bilen. Og veien ut av Tyrkia blir vanskeligere enn antatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a3ab211e-c055-439f-8ab8-348a26e54b4e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a3ab211e-c055-439f-8ab8-348a26e54b4e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:57</itunes:duration>
-      <pubDate>Tue, 03 Sep 2024 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/asneJhYplxgfHRKYIPiw4Aw_IqBUOX_pGxb62P-KLabg.jpg"/>
-    </item>
-    <item>
-      <title>30 år i tyrkisk fengsel – Våpensmuglerne (4:4)</title>
-      <description><![CDATA[En mørbanket Tore sliter i det tyrkiske fengselet. Audun gjør alt han kan for å hjelpe kompisen, og nå kommer nettverket hans til sin rett.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4b3dff9b-4aed-4452-a8ba-215b115f06e2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4b3dff9b-4aed-4452-a8ba-215b115f06e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:09</itunes:duration>
-      <pubDate>Tue, 03 Sep 2024 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/asneJhYplxgfHRKYIPiw4Aw_IqBUOX_pGxb62P-KLabg.jpg"/>
+      <title>I NRK Radio – Arvingen</title>
+      <description><![CDATA[Johan Hagenæs junior får tidenes mulighet. Han arver bestefarens skipsrederi og lever i overflod. Så snur det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/2d2157fb-bad1-42ea-a6d3-8c6b8f0688c9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/2d2157fb-bad1-42ea-a6d3-8c6b8f0688c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29</itunes:duration>
+      <pubDate>Mon, 16 Sep 2024 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f2wRjQ1mRDpR_xOdVnU5ZgwYKsMI5r-ILDf7nU1trGHQ.jpg"/>
     </item>
   </channel>
 </rss>
