@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 04:33:58 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 17 Sep 2024 04:30:29 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Min lille oase - Med Alexander Sandtorv</title>
+      <description><![CDATA[Drøm deg bort med kjemiker Alexander Sandtorvs beretninger om balkongen hans.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/6c1f1d84-797e-447b-982d-d05e2dddf6c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/6c1f1d84-797e-447b-982d-d05e2dddf6c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:11</itunes:duration>
+      <pubDate>Tue, 17 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zoc7rHaW41_9bXoajsH-IQgOPAHntNGwuN8XbHUarhYQ.jpg"/>
+    </item>
     <item>
       <title>Liza Minelli - med Tor Ivar Hagen</title>
       <description><![CDATA[Skuespiller Tor Ivar Hagen forteller om sitt store idol - Liza Minelli.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>04:03</itunes:duration>
       <pubDate>Tue, 27 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zoc7rHaW41_9bXoajsH-IQgOPAHntNGwuN8XbHUarhYQ.jpg"/>
-    </item>
-    <item>
-      <title>Sur og forsinka - med Mímir Kristjánsson</title>
-      <description><![CDATA[Politiker Mímir Kristjánsson forsov seg til jobb, og ble nødt til å ta taxi til jobb. Det ga han noe å tenke på.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a7c3528e-b831-4c2a-8faf-c15b4a97747b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a7c3528e-b831-4c2a-8faf-c15b4a97747b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:52</itunes:duration>
-      <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AfEUPbQIRGCBc_muAnmcog6mY2kLCOjoqdyfxGdwtf1Q.jpg"/>
     </item>
   </channel>
 </rss>
