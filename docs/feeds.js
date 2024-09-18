@@ -433,7 +433,7 @@ const feeds = [
     "id": "hvordan_moettes_dere_",
     "title": "De 10 siste fra Hvordan møttes dere? ",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "i_det_lange_loep",
@@ -447,7 +447,9 @@ const feeds = [
     "id": "i_doedens_spor",
     "title": "De 10 siste fra I dødens spor",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "i_elsa_laulas_fotspor",
@@ -573,7 +575,9 @@ const feeds = [
     "id": "kongerekka",
     "title": "De 10 siste fra Kongerekka",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "koselig",
