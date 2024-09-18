@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 04:30:29 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Sep 2024 04:33:38 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Klokt råd fra Ole Paus - med Jon Niklas Rønning</title>
+      <description><![CDATA[-Min venn Ole Paus rådet meg til å bruke mer tid sammen med sønnen min, sier komiker Jon Niklas Rønning. Og han bestemte seg for å kutte ned til to forestillinger i måneden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9bae684f-cf97-4ada-bccf-1129bf03197b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9bae684f-cf97-4ada-bccf-1129bf03197b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:49</itunes:duration>
+      <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pnXDSDkB07yDX0M64QmlfwbGNqbRBvpBpXubjDMHDChw.jpg"/>
+    </item>
     <item>
       <title>Min lille oase - Med Alexander Sandtorv</title>
       <description><![CDATA[Drøm deg bort med kjemiker Alexander Sandtorvs beretninger om balkongen hans.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:29</itunes:duration>
       <pubDate>Wed, 28 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VIbfKsPXoFGdZpV4wAiHXwH2AW_sAxfB_rJ5UCANkFEg.jpg"/>
-    </item>
-    <item>
-      <title>Krigen inni meg - med Alexander Sandtorv</title>
-      <description><![CDATA[Som 18-åring velger kjemiker Alexander Sandtorv å dele en av sine aller største hemmeligheter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/55a38f41-eefd-44be-bd1f-8b8bdddd874d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/55a38f41-eefd-44be-bd1f-8b8bdddd874d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:03</itunes:duration>
-      <pubDate>Tue, 27 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zoc7rHaW41_9bXoajsH-IQgOPAHntNGwuN8XbHUarhYQ.jpg"/>
     </item>
   </channel>
 </rss>

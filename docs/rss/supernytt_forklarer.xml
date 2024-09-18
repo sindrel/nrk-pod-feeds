@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Supernytt forklarer</title>
+    <title>De 5 siste fra Supernytt forklarer</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Supernytt forklarer. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/supernytt_forklarer for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Supernytt forklarer. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/supernytt_forklarer for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 04:36:07 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Sep 2024 06:03:00 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Sep 2024 04:33:57 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/McgGBvK8QsMThfw4naZDKQ-PYjjAI7OJkzWAeCuoeYzg.jpg"/>
+    <item>
+      <title>Da smarttelefonen tok over</title>
+      <description><![CDATA[Livet før smartelefonene var HELT annerledes. Supernytt forklarer hvordan det var før og hvordan de smarte smarttelefonen ble til.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/supernytt_forklarer/2930cb60-188e-43e3-8ec3-e6f725e6292e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/2930cb60-188e-43e3-8ec3-e6f725e6292e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:42</itunes:duration>
+      <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/McgGBvK8QsMThfw4naZDKQ-PYjjAI7OJkzWAeCuoeYzg.jpg"/>
+    </item>
     <item>
       <title>Terroren 11.september 2001</title>
       <description><![CDATA[Terrorangrepene i USA den 11. september 2001 endret verden for alltid. Hva skjedde egentlig?]]></description>
@@ -39,7 +48,7 @@
       <itunes:image href="https://gfx.nrk.no/McgGBvK8QsMThfw4naZDKQ-PYjjAI7OJkzWAeCuoeYzg.jpg"/>
     </item>
     <item>
-      <title>Supernytt forklarer  - kommer 11. september</title>
+      <title>Supernytt forklarer  - ny podkast</title>
       <description><![CDATA[Hva skjedde egentlig? Supernytt forklarer store og små hendelser som har påvirket verden.
 Kommer 11.september i appen NRK Radio!]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/supernytt_forklarer/2f05cffd-578a-4581-b454-162b991ba1e4_0_ID192MP3.mp3</guid>
