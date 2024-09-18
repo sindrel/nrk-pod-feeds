@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2024-09-18  
+- Updated podcast 'Hvordan møttes dere? ' (`hvordan_moettes_dere_`)  
+- Podcast 'I dødens spor' is considered obsolete and will be ignored in the future (`i_doedens_spor`)  
+- Podcast 'Kongerekka' is considered obsolete and will be ignored in the future (`kongerekka`)  
 ### 2024-09-16  
 - Updated podcast 'Reiseradioens sommerleker' (`reiseradioens_sommerleker`)  
 ### 2024-09-15  
