@@ -665,7 +665,7 @@
         "id": "lindmo_og_co",
         "title": "De 10 siste fra Lindmo og Co",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "loensj_med_rune_nilson",
@@ -678,6 +678,12 @@
     {
         "id": "loerdagsraadet",
         "title": "De 10 siste fra Lørdagsrådet",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "luois_luohti",
+        "title": "De 10 siste fra Luođis luohtái",
         "season": null,
         "enabled": true
     },
@@ -1109,7 +1115,7 @@
         "id": "seriesnakk",
         "title": "De 10 siste fra Seriesnakk",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "sex_over_60",

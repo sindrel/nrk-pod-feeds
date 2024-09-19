@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2024-09-19  
+- Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
+- Added podcast 'Luođis luohtái' (`luois_luohti`)  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2024-09-18  
 - Updated podcast 'Hvordan møttes dere? ' (`hvordan_moettes_dere_`)  
 - Podcast 'I dødens spor' is considered obsolete and will be ignored in the future (`i_doedens_spor`)  
