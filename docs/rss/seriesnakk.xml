@@ -1,112 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Seriesnakk</title>
+    <title>De 1 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 11 Feb 2024 05:25:44 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Sep 2024 06:37:33 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Sep 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aP5YrPy3ULG8bhqM3UzHUwhNgJ3hN8iCyN-CiuOuzHPg.jpg"/>
     <item>
-      <title>- Riktig å avslutte med å gi publikum fingeren </title>
-      <description><![CDATA[Serieskaper Johan Fasting ser tilbake på 12 episoder med "Makta". Christian Vennerød forteller om tiden i Gateavisa.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/17a71557-5cf4-4980-8e6a-822338ae83af_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/17a71557-5cf4-4980-8e6a-822338ae83af_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:45:12</itunes:duration>
-      <pubDate>Sun, 11 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/l4WQqttM9umRv9IycPcbGAO0KtYKU27Ktc444aSnah3g.jpg"/>
-    </item>
-    <item>
-      <title>- Hvis dette var toppen i min karriere er det helt greit</title>
-      <description><![CDATA[Kathrine Thorborg Johansen ser tilbake på reisen som Gro. Åge Aleksandersen om avslutningslåta på episoden, og om elefanter på fjellet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/5b811192-8c4b-4ef4-874f-bcb5023331c0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/5b811192-8c4b-4ef4-874f-bcb5023331c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:10:49</itunes:duration>
-      <pubDate>Sun, 04 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BPirLd-uCo0u9hF50X-4xwjlFmQBR8hu741orS9qbsWQ.jpg"/>
-    </item>
-    <item>
-      <title>- Skuffende at løveungen har smittet inn i min Kåre Willoch-rolle</title>
-      <description><![CDATA[Thorbjørn Harr om forberedelsene da han gikk inn i rollen som Kåre Willoch. Kåre Christoffer Vestrheim om å komponere Makta-musikken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/09515448-acf9-4bea-9360-20b3c2a4f130_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/09515448-acf9-4bea-9360-20b3c2a4f130_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:18</itunes:duration>
-      <pubDate>Sun, 28 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vQR7PmjxKiRgv5mdwKs6iAruiGXQo0FEaCqoNHelMxRQ.jpg"/>
-    </item>
-    <item>
-      <title>- Utøya fortjener å være på TV</title>
-      <description><![CDATA[Arbeids- og inkluderingsminister Tonje Brenna har et nært forhold til Utøya. Harald Mæle jr. har vært episodeforfatter på episode 9. Jan Gunnar Røises reise som Reiulf Steen går mot slutten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/81129371-9e6e-4328-ace9-5c748553b8d8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/81129371-9e6e-4328-ace9-5c748553b8d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:19:17</itunes:duration>
-      <pubDate>Sun, 21 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xpp8Eh0c_1uglpdtpgbF9Qkt263iecFoYhTDJREHJu7g.jpg"/>
-    </item>
-    <item>
-      <title>- Køllegrøtsullik</title>
-      <description><![CDATA[AP-veteran Bjørn Tore Godal var på landsmøtet i -81 og andre nøkkelscener i Makta. Serieskaper Silje Storstein om hvorfor Godal ikke er med i serien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/e3591b86-db72-4779-860e-4c2dd39b60fd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/e3591b86-db72-4779-860e-4c2dd39b60fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:08:37</itunes:duration>
-      <pubDate>Sun, 14 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jOVnbaiH8HdVt-Ujn02veAPfKGiwUWvSWZLOJaOKGmZA.jpg"/>
-    </item>
-    <item>
-      <title>- Nu ska æ føkke opp det her</title>
-      <description><![CDATA[Elle Márjá Eira om å tilnærme seg "Makta" og regissere episode 7. Marius Lien om å være nytt fjes i serien, i rollen som Wiktor Martinsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/510dd7ce-97d0-4a7b-9966-23f11fa09e5b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/510dd7ce-97d0-4a7b-9966-23f11fa09e5b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:32</itunes:duration>
-      <pubDate>Sun, 07 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/u3wxt55e5GW1viNJtgLM1gkfJAF0sv__ESzZi5Qk7Zow.jpg"/>
-    </item>
-    <item>
-      <title>- Min teori er at han er en dramaqueengründer</title>
-      <description><![CDATA[Få svar på alt du lurer på om «Makta» av manusforfatter og serieskaper Johan Fasting.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/9eaf645f-f189-4690-a29c-6e618a8cbcb5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/9eaf645f-f189-4690-a29c-6e618a8cbcb5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:25</itunes:duration>
-      <pubDate>Sun, 03 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4gbpRomOMfTdO8eYowxydASwTYlIZBOP4-t2H--dH7sg.jpg"/>
-    </item>
-    <item>
-      <title>- Det ligner faktisk ikke grisen</title>
-      <description><![CDATA[Skuespiller Anders Baasmo om å tolke Odvar Nordli. Arbeiderparti-veteran Martin Kolberg om hva han liker og ikke liker med Makta.
-
-Lenker til arkivklipp:
-Jogging med Ingvild Bryn og Arvid Engen: https://tv.nrk.no/se?v=FUHA06005490&t=747s
-Fjernsynskjøkkenet med Gro: https://tv.nrk.no/se?v=FALM19000396
-Valg ‘79: https://tv.nrk.no/se?v=FNYH70003779
-Nyttårstalene til Odvar Nordli: https://tv.nrk.no/se?v=FNYH70001980
-Popkorn: Topp 5 tygg i Makta: http://nrk.no/popkorn]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/89142543-d8ca-483c-8b5e-3edb435fefe6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/89142543-d8ca-483c-8b5e-3edb435fefe6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:44</itunes:duration>
-      <pubDate>Sun, 26 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FfwjUVZVjxnqNd4_AWveXgDElpHLM79pUeJO9BUjc8cA.jpg"/>
-    </item>
-    <item>
-      <title>- Jeg holdt på å kjøre av veien</title>
-      <description><![CDATA[Journalist Viggo Johansen om møtet med Arvid Engen. Regissør Yngvild Sve Flikke om å forme uttrykket i «Makta».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/372854fa-295a-43b7-89fa-886f6f344fff_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/372854fa-295a-43b7-89fa-886f6f344fff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:54</itunes:duration>
-      <pubDate>Sun, 19 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-t-azCpXU8HS16TvVv2cgw00gp2qnqXiEk2gQGElnp8Q.jpg"/>
-    </item>
-    <item>
-      <title>- Kan ikke gjøre det for mye, jeg er ingen sirkushest</title>
-      <description><![CDATA[Kathrine Thorborg Johansen forteller om den omfattende researchen som ble lagt ned for å tolke Gro.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/54464232-ba6a-492a-a1a6-0484fbee0d68_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/54464232-ba6a-492a-a1a6-0484fbee0d68_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:47</itunes:duration>
-      <pubDate>Sun, 12 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LrFJa9UDKcUrpxpI-i-3Og6h091aLXiuHx-6Wt1A3McA.jpg"/>
+      <title>Seriesnakk: So long, Marianne. Nye episoder på lørdag!</title>
+      <description><![CDATA[Torkil Risan gir deg de ville historiene som ikke fikk plass i tv-serien, og snakker med de som var der, skuespillerne og folka som kjenner kjærlighetshistorien om Leonard Cohen og Marianne Ihlen best.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/da30f77a-c28d-48f1-a7ee-776e4b7b213f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/da30f77a-c28d-48f1-a7ee-776e4b7b213f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:13</itunes:duration>
+      <pubDate>Wed, 18 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uYtN7JHZSbpE_pKx-hGTqAViWSej4-QJ2z1HF0EN4RCA.jpg"/>
     </item>
   </channel>
 </rss>
