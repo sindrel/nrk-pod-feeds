@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 18:35:08 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Sep 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 20 Sep 2024 17:29:18 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Sep 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Krigen i Midtøsten eskalerer</title>
+      <description><![CDATA[Det israelske forsvaret har gjennomført angrep mot den sørlige delen av den libanesiske hovedstaden Beirut]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/388e9435-b912-4272-9114-100b1bb51834_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/388e9435-b912-4272-9114-100b1bb51834_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Fri, 20 Sep 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XwsYhxku6JQTjUl_yWqE6wgZ7TKQ_ILIUzLa0Q8Tvf-Q.jpg"/>
+    </item>
     <item>
       <title>- Rød linje er krysset, sier Hizbollahleder</title>
       <description><![CDATA[Israel bomber i Libanon, nærmere full krig.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 09 Sep 2024 20:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/usQVS_QLGwVykrkL1ZhN2AOtdjki9B9SK_nsnenL4YqQ.jpg"/>
-    </item>
-    <item>
-      <title>NRK avpubliserer Team Ingebrigtsen</title>
-      <description><![CDATA[NRK forhåndsdømmer Gjert Ingebrigsten, hevder hans forsvarer. Vi har vært spesielt opptatt av at valget ikke skal påvirke den rettslige konflikten, svarer kringkastingsjefen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4c59da4b-a582-4c8f-b93c-a1299640dc66_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4c59da4b-a582-4c8f-b93c-a1299640dc66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Fri, 06 Sep 2024 19:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RzxHJJFW760HfpNmhEORyAIsbeAFL2UgChublKBmA6fQ.jpg"/>
     </item>
   </channel>
 </rss>
