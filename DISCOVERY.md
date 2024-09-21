@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-09-21  
+- Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2024-09-19  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 - Added podcast 'Luođis luohtái' (`luois_luohti`)  
