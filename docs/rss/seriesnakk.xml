@@ -1,16 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Seriesnakk</title>
+    <title>De 4 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 06:37:33 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Sep 2024 10:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2024 04:33:38 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aP5YrPy3ULG8bhqM3UzHUwhNgJ3hN8iCyN-CiuOuzHPg.jpg"/>
+    <item>
+      <title>- Musing skal foregå i senga (3:8)</title>
+      <description><![CDATA[Forfatter Marta Breen om Marianne som Leonards muse. Produsent Ingeborg Klyve om Leonards brev som fikk henne til å ville lage serien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/5720240b-7b01-4828-a517-e4eba6d7deff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/5720240b-7b01-4828-a517-e4eba6d7deff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:37</itunes:duration>
+      <pubDate>Sat, 21 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-R61HGmB9JE1CpUYjxynIgf9CxkPhrmJM614Fq_gTf4g.jpg"/>
+    </item>
+    <item>
+      <title>- Jeg satt bak monitor og grein</title>
+      <description><![CDATA[Jonas Strand Gravli synes det var ubehagelig lett å spille ond. Axel Jensen-biograf, Torgrim Eggen, forteller om UFO-reiser og andre sprø historier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/777d394e-4747-4bc2-9ffd-765bb14b8c49_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/777d394e-4747-4bc2-9ffd-765bb14b8c49_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:49</itunes:duration>
+      <pubDate>Sat, 21 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TI-XT0EoOkV_pOexEZ6zegY56QC3HP_vExpO5RFxj9Jw.jpg"/>
+    </item>
+    <item>
+      <title>- Se&amp;hør sov på dørmatta hennes! (1:8)</title>
+      <description><![CDATA[Dokumentarist Kari Hesthamar brakte Mariannes Ihlens kjærlighetshistorie med Leonard Cohen ut i verden. Kunstner Bjørn Saastad om vennskapet til Marianne og hippielivet på Hydra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/53fa4e3d-c602-4dcd-8c4c-56161db94023_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/53fa4e3d-c602-4dcd-8c4c-56161db94023_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:14</itunes:duration>
+      <pubDate>Sat, 21 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zQa5rMXyP4ui9bYFa6AGpQYmRwpBS1jrN0Ttm1d328_w.jpg"/>
+    </item>
     <item>
       <title>Seriesnakk: So long, Marianne. Nye episoder på lørdag!</title>
       <description><![CDATA[Torkil Risan gir deg de ville historiene som ikke fikk plass i tv-serien, og snakker med de som var der, skuespillerne og folka som kjenner kjærlighetshistorien om Leonard Cohen og Marianne Ihlen best.]]></description>
