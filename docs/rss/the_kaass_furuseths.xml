@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 15 Sep 2024 04:33:56 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 22 Sep 2024 04:35:42 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Silya Nymoen</title>
+      <description><![CDATA[Silya og Else om høner, eplekake og roen på landet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/98ec478d-1d11-4d1b-9574-e8dd363d6b8e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/98ec478d-1d11-4d1b-9574-e8dd363d6b8e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:39</itunes:duration>
+      <pubDate>Sun, 22 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BgzNL1iNJZuKKMLSq-xBCw850lvxSoDyROWBmvJqeMtw.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Mathea Stensæth Josefsen</title>
       <description><![CDATA[Else og Mathea Stensæth Josefsen spiller fløyte, snakker om parykk og drar på Frank Znort-konsert!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>52:35</itunes:duration>
       <pubDate>Sun, 21 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YiwyGYBQ_Pjqf0X9xFxAmABiN3dTuLwMSaBcwEa5GkSg.jpg"/>
-    </item>
-    <item>
-      <title>Reprise: Morten Ramm, snufsing, russetiden og politianmeldelse</title>
-      <description><![CDATA[Morten Ramm forteller om snufsingen som kostet ham seksti tusen kroner, om hva han synes om russetiden, og om hvorfor han anmeldte seg selv til politiet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/c9c57703-3943-4924-a624-26652cda57b2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c9c57703-3943-4924-a624-26652cda57b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:42</itunes:duration>
-      <pubDate>Sun, 14 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/El-sDeKtByOTpnqf5uYnsQy56kYIjP2B8po0IKke_wRw.jpg"/>
     </item>
   </channel>
 </rss>

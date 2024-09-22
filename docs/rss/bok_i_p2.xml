@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 21 Sep 2024 04:33:01 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 22 Sep 2024 04:35:05 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Renberg, Fossum og Heivoll</title>
+      <description><![CDATA[Vi anmelder «Lorden» av Tore Renberg, «I begynnelsen var mørket» av Karin Fossum og «Min tid i disse skogene» av Gaute Heivoll.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/861426ae-ec7c-4588-b667-602f554912a5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/861426ae-ec7c-4588-b667-602f554912a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sun, 22 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fsTzijcdyNwaQ38BPVLhZgXFYOf15MV6KyLCWdEhHOyA.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Andrea Bræin Hovig</title>
       <description><![CDATA["Jeg er redd for at noe dårlig skal slippe gjennom." sier Andrea Bræin Hovig om å gi ut bok. Hun er nå aktuell med boken «Siste akt».]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Sat, 24 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gmL_-T8Pyz6yMYIpBiXECQKHQBbjb57V_Nydm3nWNQpw.jpg"/>
-    </item>
-    <item>
-      <title>Andreassen, Kristjansson og Skolem</title>
-      <description><![CDATA[Vi anmelder «Ikke mennesker jeg kan regne med» av Kyrre Andreassen, «Pabbi» av Mimir Kristjansson og «Dørene lukkes» av Maren Elise Skolem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/442b66d4-9517-4f86-bdb6-b447d4954c31_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/442b66d4-9517-4f86-bdb6-b447d4954c31_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:30</itunes:duration>
-      <pubDate>Sun, 18 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/a_GlbeNupvVKFEe31sAKqQ4XGVWNudNTLscMOo7687zg.jpg"/>
     </item>
   </channel>
 </rss>
