@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 04:33:50 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 23 Sep 2024 04:33:38 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Hans Magne Skard i likpose</title>
+      <description><![CDATA[Hans Magne Skard har satt opp soloshow om døden og tilbragt mye tid på innsiden av en likpose.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/dd8f89e3-5b22-4e2b-8ea6-fa39539734d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/dd8f89e3-5b22-4e2b-8ea6-fa39539734d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:13</itunes:duration>
+      <pubDate>Mon, 23 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Hld0aA1oDcDuq9PIqESv0QrHM7-FLKYj4OTJ1wNL2xLA.jpg"/>
+    </item>
     <item>
       <title>Emil Meek og pulsåren</title>
       <description><![CDATA[Blir man mer redd for døden når man sloss for livet?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:06:00</itunes:duration>
       <pubDate>Mon, 17 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/R6E61vKFJBjYcsBoPIqLLghooQ0lvQW1ixoXzCeyDP9A.jpg"/>
-    </item>
-    <item>
-      <title>Krasj med Kevin Kildal</title>
-      <description><![CDATA["Døden er gulroten som driver meg"]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/0bc9ddc8-d2ac-4062-a311-0bebb098bccf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/0bc9ddc8-d2ac-4062-a311-0bebb098bccf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:38</itunes:duration>
-      <pubDate>Mon, 10 Jun 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jZikdIuVJ8dE6NG-ZOBIJwtErF8GwCm2FZWPPmh0hXAw.jpg"/>
     </item>
   </channel>
 </rss>
