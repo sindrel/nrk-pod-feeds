@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 20 Sep 2024 17:29:18 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Sep 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 23 Sep 2024 17:30:39 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Bok om Ap får kritikk</title>
+      <description><![CDATA[Kritikken fortsetter å hagle mot omstridt bok om Arbeiderpartiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/38c696e6-5508-4c19-94cd-4b3e7d66eba8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/38c696e6-5508-4c19-94cd-4b3e7d66eba8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 23 Sep 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T46pw9jVAghmRnPBlTupFwwqEuR9gGa9rx1y3WwNNBLg.jpg"/>
+    </item>
     <item>
       <title>Krigen i Midtøsten eskalerer</title>
       <description><![CDATA[Det israelske forsvaret har gjennomført angrep mot den sørlige delen av den libanesiske hovedstaden Beirut]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Tue, 10 Sep 2024 19:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SdGjF-rC1RM0KbyrwU6XOAfLSyS_WaA8Br8wuYmjmgkA.jpg"/>
-    </item>
-    <item>
-      <title>Høyre vil fjerne exitskatten</title>
-      <description><![CDATA[– Et skattesystem for de rike, mener finansministeren om Høyres førsteutkast til partiprogram]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/14a93d5c-5b24-4442-99b5-c402d820e5c1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/14a93d5c-5b24-4442-99b5-c402d820e5c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 09 Sep 2024 20:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/usQVS_QLGwVykrkL1ZhN2AOtdjki9B9SK_nsnenL4YqQ.jpg"/>
     </item>
   </channel>
 </rss>
