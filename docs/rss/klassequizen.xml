@@ -1,78 +1,105 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Klassequizen</title>
+    <title>De 10 siste fra Klassequizen</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Klassequizen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassequizen for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Klassequizen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassequizen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 24 Sep 2024 09:30:54 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Sep 2024 08:45:00 +0200</pubDate>
+    <lastBuildDate>Tue, 24 Sep 2024 14:32:28 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Sep 2024 16:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw.jpg"/>
     <item>
-      <title>Alstad ungdomsskole</title>
-      <description><![CDATA[Felix, Hanna og Even håper de gjør det like bra som skolen har gjort tidligere år. For to år siden vant Alstad hele Klassequizen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/d9a9c025-4834-4f84-9072-3d509f150591_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/d9a9c025-4834-4f84-9072-3d509f150591_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:53</itunes:duration>
-      <pubDate>Tue, 24 Sep 2024 08:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ojLIvEK1n4MXTiKzhs4k9gGCBn9FWaUpmpfpQN07KMQg.jpg"/>
+      <title>Klassequizen 2024: Møre barne- og ungdomsskule</title>
+      <description><![CDATA[Noah Sakamoto Hagen, Sara Kristine Rossevatn Svoren og Lilja Brügger-Synnes frå Møre barne- og ungdomsskule er først ut i årets runde av Klassequizen i Møre og Romsdal.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/64e831a1-00a8-436d-9745-61b1772d5eb9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/64e831a1-00a8-436d-9745-61b1772d5eb9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:08</itunes:duration>
+      <pubDate>Tue, 24 Sep 2024 16:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p1kTYFO4R1ztf_4pm2g6OwLf-cPir23AeThlzIUMSXjw.jpg"/>
     </item>
     <item>
-      <title>Neverdal Enspire skole</title>
-      <description><![CDATA[Endelig er årets sesong i gang! Natalie Mari Eidissen, Iselin Granberg Tvenning og Sindre Olsen Haug er første lag ut.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/44ee82b5-1467-4d57-b64e-fd003ab5c140_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/44ee82b5-1467-4d57-b64e-fd003ab5c140_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:07</itunes:duration>
-      <pubDate>Mon, 09 Sep 2024 08:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ucuajlAFYFsyK9qQW8dVhAC3Ps_dU2d1apdHUQsYI35w.jpg"/>
+      <title>Fylkesfinale Møre og Romsdal</title>
+      <description><![CDATA[Fylkesfinalen i Møre og Romsdal skal kåre to vinnerlag. De som kjemper er Frei ungdomsskole fra Kristiansund, Bergmo ungdomsskole fra Molde, Kolvikbakken ungdomsskole fra Ålesund og Møre barne- og ungdomsskule fra Ålesund.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/7b4a3482-2692-4292-a0e8-7572c70d8661_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/7b4a3482-2692-4292-a0e8-7572c70d8661_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:18</itunes:duration>
+      <pubDate>Thu, 11 Jan 2024 16:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0KwT8ZJnFwbKvo7zqUCpYQi_Lvxo17xGiqaLbRsC3_bQ.jpg"/>
     </item>
     <item>
-      <title>Bankgata ungdomsskole</title>
-      <description><![CDATA[Elias Nicolay Støttar Mouloua, Sindre Skindlo og Øyvind Finne Præsteng Larsen er nervøse før Klassequizen, men det går ganske bra likevel. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/178856b1-02cb-42ce-b63a-975bbcbe0f01_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/178856b1-02cb-42ce-b63a-975bbcbe0f01_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:27</itunes:duration>
-      <pubDate>Tue, 21 Nov 2023 08:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/exM8BUO-sV0BzewOBt43hwAG3cQ3DJh5hHMYu0ixj7Pg.jpg"/>
+      <title>Måndalen skule</title>
+      <description><![CDATA[Alisa Hage liker dataspillet Fortnite, Martin Husby Øvstedal er veldig interessert i fotball og Tiril Bruaset Engen er opptatt av mote.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/064cf6c4-4252-4db8-9b1b-3096750f39ea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/064cf6c4-4252-4db8-9b1b-3096750f39ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:37</itunes:duration>
+      <pubDate>Tue, 05 Dec 2023 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0KwT8ZJnFwbKvo7zqUCpYQi_Lvxo17xGiqaLbRsC3_bQ.jpg"/>
     </item>
     <item>
-      <title>Vestmyra skole</title>
-      <description><![CDATA[Kaja Braseth, Heine Korsvik og Markus Blix Larsen er spesielt gode på hovedsteder. De er også gode til å resonnere seg frem til rett svar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/d8004f8e-47eb-4988-ae3d-294a71b9907a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/d8004f8e-47eb-4988-ae3d-294a71b9907a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:41</itunes:duration>
-      <pubDate>Mon, 20 Nov 2023 08:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/exM8BUO-sV0BzewOBt43hwAG3cQ3DJh5hHMYu0ixj7Pg.jpg"/>
+      <title>Helland ungdomsskule</title>
+      <description><![CDATA[Jesper Walle Keiseraas har mange dyr hjemme, Ninett Overaa Hole spiller håndball og Didrik Selnes Sæter er mest glad i fotball.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/dd58ea4c-f476-4a69-aff3-6d5460eab49e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/dd58ea4c-f476-4a69-aff3-6d5460eab49e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:47</itunes:duration>
+      <pubDate>Mon, 04 Dec 2023 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0KwT8ZJnFwbKvo7zqUCpYQi_Lvxo17xGiqaLbRsC3_bQ.jpg"/>
     </item>
     <item>
-      <title>Røkland skole</title>
-      <description><![CDATA[Elise Albinussen, Lucas Alm og Nicolai Lundstrøm samarbeider godt som lag og kan litt om mye. De overrasket også seg selv i Klassequizen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/44e43953-bd12-424f-bd96-660c4ca1fdf6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/44e43953-bd12-424f-bd96-660c4ca1fdf6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:58</itunes:duration>
-      <pubDate>Thu, 16 Nov 2023 08:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/exM8BUO-sV0BzewOBt43hwAG3cQ3DJh5hHMYu0ixj7Pg.jpg"/>
+      <title>Gursken oppvekstsenter</title>
+      <description><![CDATA[Anders Hammer Rekdal og Åse Bonaa Refsnes har spilt for kongen og Robin Hauge Pettersen er norgesmester tre ganger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/5a7ef0ad-f5dc-4da0-b973-372d268db0cb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/5a7ef0ad-f5dc-4da0-b973-372d268db0cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:55</itunes:duration>
+      <pubDate>Fri, 01 Dec 2023 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0KwT8ZJnFwbKvo7zqUCpYQi_Lvxo17xGiqaLbRsC3_bQ.jpg"/>
     </item>
     <item>
-      <title>Rognan ungdomsskole</title>
-      <description><![CDATA[Ariel Eline Pedersen, Albin Albinussen, og Ihne Aarøe er aller best på geografi og sport, men har også pugget litt på ministre i Norge. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/f93a33f4-b219-4280-bb46-decad86aad36_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/f93a33f4-b219-4280-bb46-decad86aad36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:09</itunes:duration>
-      <pubDate>Wed, 15 Nov 2023 08:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/exM8BUO-sV0BzewOBt43hwAG3cQ3DJh5hHMYu0ixj7Pg.jpg"/>
+      <title>Ulstein ungdomsskule</title>
+      <description><![CDATA[Peter Sundgot Aarland liker vintersport, Sveinung Snipsøyr forteller om en dramatisk speiderleir og Synne Øvrelid Solås driver med både speiding og piano. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/b25a0b08-b5f7-4064-ae66-fd21a66914aa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/b25a0b08-b5f7-4064-ae66-fd21a66914aa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:34</itunes:duration>
+      <pubDate>Thu, 30 Nov 2023 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0KwT8ZJnFwbKvo7zqUCpYQi_Lvxo17xGiqaLbRsC3_bQ.jpg"/>
     </item>
     <item>
-      <title>Narvik ungdomsskole</title>
-      <description><![CDATA[Mathias Lien Kristensen, Storm Johnsen Djupvik og Martin Kleiveland kjenner ikke hverandre så godt fra før, men er likevel sikre på at de vil samarbeide godt. Quizmaster Synnøve Sundby Fallmyr.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/4e3c29de-30d1-424d-bbcb-235cd4c321b7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/4e3c29de-30d1-424d-bbcb-235cd4c321b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:29</itunes:duration>
-      <pubDate>Tue, 26 Sep 2023 08:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/exM8BUO-sV0BzewOBt43hwAG3cQ3DJh5hHMYu0ixj7Pg.jpg"/>
+      <title>Åndalsnes ungdomsskole</title>
+      <description><![CDATA[Amanda Morstøl gleder seg til vinteren og slalom, Kari Bakker er født i Nederland og Vegar Alnes Bersås er aktiv i fotball.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/f513c90f-030e-480d-975c-f680c838d7eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/f513c90f-030e-480d-975c-f680c838d7eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:30</itunes:duration>
+      <pubDate>Wed, 29 Nov 2023 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0KwT8ZJnFwbKvo7zqUCpYQi_Lvxo17xGiqaLbRsC3_bQ.jpg"/>
+    </item>
+    <item>
+      <title>Åfarnes skole</title>
+      <description><![CDATA[William Dønheim Vik er ganske interessert i historie, Julian Kalvøy-Myrabø gleder seg til å ta lappen på lettsykkel og Lill Mina Andersen Harvold er aktiv i 4H.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/1e65f1f0-25b1-45ff-a8f2-9a3af12da17f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/1e65f1f0-25b1-45ff-a8f2-9a3af12da17f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:41</itunes:duration>
+      <pubDate>Tue, 28 Nov 2023 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0KwT8ZJnFwbKvo7zqUCpYQi_Lvxo17xGiqaLbRsC3_bQ.jpg"/>
+    </item>
+    <item>
+      <title>Eresfjord barne- og ungdomsskule</title>
+      <description><![CDATA[Både Othelia Alexander og Eline Kristine Da Silva Nerland er med i 4H og Markus Rindli kommer fra gård. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/845d81fe-7469-4e8f-9dca-cdab288060b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/845d81fe-7469-4e8f-9dca-cdab288060b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:34</itunes:duration>
+      <pubDate>Mon, 27 Nov 2023 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0KwT8ZJnFwbKvo7zqUCpYQi_Lvxo17xGiqaLbRsC3_bQ.jpg"/>
+    </item>
+    <item>
+      <title>Eidsvåg barne- og ungdomsskole</title>
+      <description><![CDATA[Både Jakob Aasan og Ida Elise Alme Svensli er ihuga MFK-fans mens Robert Remmen liker historie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/2ad750e4-e436-4096-8d90-8a304b243933_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/2ad750e4-e436-4096-8d90-8a304b243933_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:10</itunes:duration>
+      <pubDate>Fri, 24 Nov 2023 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0KwT8ZJnFwbKvo7zqUCpYQi_Lvxo17xGiqaLbRsC3_bQ.jpg"/>
     </item>
   </channel>
 </rss>
