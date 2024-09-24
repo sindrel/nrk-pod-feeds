@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 23 Sep 2024 17:30:39 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Sep 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 24 Sep 2024 17:32:27 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Sep 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Borgerlig jubelmåling</title>
+      <description><![CDATA[Borgerlig flertall uten KrF på ny NRK-måling. Frp puster Ap i nakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/636e8092-17b7-4dc3-8e8a-9ac71bae2c02_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/636e8092-17b7-4dc3-8e8a-9ac71bae2c02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 24 Sep 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F2ZeU1I2vfNVzkz6k1CpmQhUyHlOJBjDYDd4XOWgsaDA.jpg"/>
+    </item>
     <item>
       <title>Bok om Ap får kritikk</title>
       <description><![CDATA[Kritikken fortsetter å hagle mot omstridt bok om Arbeiderpartiet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:54</itunes:duration>
       <pubDate>Wed, 11 Sep 2024 19:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ibq8aUWkMJfFsVnnaCl7uw4VxvBKel3e3wc7yYfRXrcQ.jpg"/>
-    </item>
-    <item>
-      <title>Første duell mellom Trump og Harris</title>
-      <description><![CDATA[Presidentkandidatene Donald Trump og Kamala Harris møtes for første gang i tv-duell i natt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3c5a0a84-093e-483b-98d8-1d6d7d112528_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3c5a0a84-093e-483b-98d8-1d6d7d112528_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Tue, 10 Sep 2024 19:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SdGjF-rC1RM0KbyrwU6XOAfLSyS_WaA8Br8wuYmjmgkA.jpg"/>
     </item>
   </channel>
 </rss>
