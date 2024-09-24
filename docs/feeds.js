@@ -17,8 +17,8 @@ const feeds = [
   },
   {
     "id": "abels_taarn",
-    "title": "De 10 siste fra Abels Tårn",
-    "season": null,
+    "title": "De 10 siste fra Abels tårn",
+    "season": "LATEST_SEASON",
     "enabled": true
   },
   {
