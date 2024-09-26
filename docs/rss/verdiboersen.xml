@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 22 Sep 2024 04:35:50 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Sep 2024 08:35:58 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Sep 2024 10:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Politisk vold i USA</title>
+      <description><![CDATA[Hvorfor skjer det så ofte? Og øker støtten til slik vold?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/2f7de964-690f-43e8-9fa9-d8690d45afd4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/2f7de964-690f-43e8-9fa9-d8690d45afd4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:19</itunes:duration>
+      <pubDate>Thu, 26 Sep 2024 10:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    </item>
     <item>
       <title>Hvordan skal vi dø?</title>
       <description><![CDATA[Medisinske fremskritt gir oss nye dilemmaer]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/fc290a07-92fb-470c-85b0-eb335fc0a46d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:32</itunes:duration>
       <pubDate>Fri, 30 Aug 2024 11:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
-    </item>
-    <item>
-      <title>Dagen da Hitler skulle dø</title>
-      <description><![CDATA[20 juli 1944--attentatet var nær ved å lykkes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ea46bfbb-13e4-4110-b7b3-d3aedee147bd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ea46bfbb-13e4-4110-b7b3-d3aedee147bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:08</itunes:duration>
-      <pubDate>Fri, 23 Aug 2024 11:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
     </item>
   </channel>
