@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 17:33:06 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Sep 2024 19:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 27 Sep 2024 17:30:35 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Sep 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kritikk mot regjeringens naturmelding</title>
+      <description><![CDATA[Regjeringen kommer med ny plan for naturen. Trist og for få tiltak, sier opposisjonen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/89f445e1-3288-456a-bc12-e057bc2841e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/89f445e1-3288-456a-bc12-e057bc2841e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 27 Sep 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MWYj00k9mAywJLcsaBArEgfIvtmRbxAiB0mw4lY13qpA.jpg"/>
+    </item>
     <item>
       <title>- KI-mål for næringslivet mangler</title>
       <description><![CDATA[Norge skal bli verdens mest digitaliserte land, sier regjeringen i ny digitaliseringsstrategi. KI mangler, mener IKT-Norge.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 16 Sep 2024 19:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_YXLsTN8zLZX_43vtsl6Iwf4BBt2SeFrx4i9qbd6eYkw.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen vil avskaffe nasjonale prøver</title>
-      <description><![CDATA[Kunnskapsministeren vil gjøre skolen mer praktisk og avskaffe nasjonale prøver. - Håpløst slapp skolemelding, mener Unge Venstre som heller vil sende flere fag på skraphaugen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0873314f-910b-4388-a9d4-6c94f3459434_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0873314f-910b-4388-a9d4-6c94f3459434_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 13 Sep 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8MqjepNQR_qdN-YrliMwYA2c0D7SJ-ipOxaBTNoUXDxw.jpg"/>
     </item>
   </channel>
 </rss>
