@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 22 Sep 2024 04:35:05 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 28 Sep 2024 04:32:41 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Forfatterintervjuet med Frederik Svindland</title>
+      <description><![CDATA[Han har skrevet store deler av boken på mobiltelefon. Frederik Svindland er aktuell med selvopplevde romanen «Jævelunger».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/16ae5245-1511-4cf6-8bff-745e2d6dfc88_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/16ae5245-1511-4cf6-8bff-745e2d6dfc88_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Sat, 28 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TMdscrbfdY522rd4NmVCHQRNtuUZS16N6KNAJ02L0J2A.jpg"/>
+    </item>
     <item>
       <title>Renberg, Fossum og Heivoll</title>
       <description><![CDATA[Vi anmelder «Lorden» av Tore Renberg, «I begynnelsen var mørket» av Karin Fossum og «Min tid i disse skogene» av Gaute Heivoll.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Sun, 25 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tEeDyyAj0OToCdHFxU15KwEjhXQ_hmOGzRId2WM1AxaQ.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Are Kalvø</title>
-      <description><![CDATA[By og land hand i hand. Are Kalvø gjør veien korterte mellom Utsira og London i sin nye bok "Berre bønder lengtar heim".]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/a245fd16-6e82-490f-8189-50cd1655d818_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/a245fd16-6e82-490f-8189-50cd1655d818_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Sat, 24 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gmL_-T8Pyz6yMYIpBiXECQKHQBbjb57V_Nydm3nWNQpw.jpg"/>
     </item>
   </channel>
 </rss>
