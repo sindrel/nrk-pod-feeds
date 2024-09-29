@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 28 Sep 2024 04:32:41 +0000</lastBuildDate>
-    <pubDate>Sat, 28 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 29 Sep 2024 04:32:44 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Kjærstad, Rooney og Damhaug.</title>
+      <description><![CDATA[Vi er i Lillestrøm på litteraturfestival! Her på Litt av en Fest anmelder vi «Valgdager» av Jan Kjærstad, «Intermezzo» av Sally Rooney og «Forræderen» av Torkil Damhaug.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/8732dce2-9b38-4b55-83af-2f8513f03e7a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/8732dce2-9b38-4b55-83af-2f8513f03e7a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sun, 29 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jJuigDju7AJO96N-HifNVgYyqCFw8htsapICAfs8dwAw.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Frederik Svindland</title>
       <description><![CDATA[Han har skrevet store deler av boken på mobiltelefon. Frederik Svindland er aktuell med selvopplevde romanen «Jævelunger».]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Sat, 31 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/16-SCi5HNyNgmC3xUe8ZPQZELYXzb4AjBbgoC4T2yi8g.jpg"/>
-    </item>
-    <item>
-      <title>Raja, Frobenius og Harstad</title>
-      <description><![CDATA[Denne uken anmelder vi "Vår ære og vår frykt" av Abid Raja, "Rasende lys" av Nikolaj Frobenius og "Under brosteinen, stranden!" av Johan Harstad.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/7552d73e-eb9c-474b-8f11-58a201e6a07b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/7552d73e-eb9c-474b-8f11-58a201e6a07b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Sun, 25 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tEeDyyAj0OToCdHFxU15KwEjhXQ_hmOGzRId2WM1AxaQ.jpg"/>
     </item>
   </channel>
 </rss>
