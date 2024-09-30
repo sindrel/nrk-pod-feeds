@@ -7,12 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 25 Sep 2024 04:34:29 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Sep 2024 04:35:03 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
     <item>
-      <title>Kveldstanker: Dialektangst -  med Terri Senior</title>
+      <title>Jeg heier på deg - med Axel Frønes</title>
+      <description><![CDATA[Axel Frønes liker menn og kvinner som tør å vise sårbarhet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9e99de2a-d320-44c9-a4a6-0a820dda0f79_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9e99de2a-d320-44c9-a4a6-0a820dda0f79_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:40</itunes:duration>
+      <pubDate>Mon, 30 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vyPx5Tgp6flapNHkpoSnOgYHExizForENnvd4jbnVXFA.jpg"/>
+    </item>
+    <item>
+      <title>Dialektangst -  med Terri Senior</title>
       <description><![CDATA[Terri Senior fra Jamaica slet med å forstå dialekter da hun kom til Norge, spesielt trøndersk.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d93331c2-bbc6-4ef6-9622-f77e5406e46f_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d93331c2-bbc6-4ef6-9622-f77e5406e46f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -21,7 +30,7 @@
       <itunes:image href="https://gfx.nrk.no/0tdLTlFHBdHiYgpJ1YnZTwxujGyvCgeaJSbawOcE7PHA.jpg"/>
     </item>
     <item>
-      <title>Kveldstanker: - Jeg gråt i fengselet - med Axel Frønes</title>
+      <title>Jeg gråt i fengselet - med Axel Frønes</title>
       <description><![CDATA[Visesanger Axel Frønes var fordomsfull da han holdt konsert i et fengsel. Det endte med at han gråt sammen med de innsatte.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/fe3d3083-a19f-4704-9317-50ee1b539fb6_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kveldstanker/fe3d3083-a19f-4704-9317-50ee1b539fb6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -91,15 +100,6 @@
       <itunes:duration>04:42</itunes:duration>
       <pubDate>Mon, 09 Sep 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/J5_sas0kfMJGopaKAQ4S8AAfHmUuup78YXrw9urC_qjA.jpg"/>
-    </item>
-    <item>
-      <title>Da Trump vant valget- med Alexander Sandtorv</title>
-      <description><![CDATA[Kjemiker Alexander Sandtorv bodde i USA i 2016. Da opplevde han det amerikanske valget, og forsto faren med å leve med politiske skylapper.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/6c1d62b7-dcea-416a-b03d-60d683c75033_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/6c1d62b7-dcea-416a-b03d-60d683c75033_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:44</itunes:duration>
-      <pubDate>Wed, 04 Sep 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zoc7rHaW41_9bXoajsH-IQgOPAHntNGwuN8XbHUarhYQ.jpg"/>
     </item>
   </channel>
 </rss>

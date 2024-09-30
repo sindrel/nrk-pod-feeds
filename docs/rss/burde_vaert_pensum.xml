@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 23 Sep 2024 04:33:22 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Sep 2024 04:34:41 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Sep 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    <item>
+      <title>Ut på tur, alltid smørblid!</title>
+      <description><![CDATA[Speiderveteran Petter Schjerven gir deg oppskriften på hvordan du lekende lett kommer deg opp av sofaen og ut på tur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/8b894deb-6b23-4e4f-9fe9-a115ec691fb3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/8b894deb-6b23-4e4f-9fe9-a115ec691fb3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:48</itunes:duration>
+      <pubDate>Mon, 30 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3H0gzRteYxpeGH9h4EEe5AnKaGzGDhXzOv7cJovxEKpw.jpg"/>
+    </item>
     <item>
       <title>Hvordan lykkes med kjærligheten?</title>
       <description><![CDATA[Filosof Kaja Melsom forklarer hemmeligheten bak et langt og lykkelig forhold.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>21:42</itunes:duration>
       <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5-tT6gNr4my8RWHcv6F6JAMQuMdrdoFpo7VqQEqKsqXg.jpg"/>
-    </item>
-    <item>
-      <title>Er Grunnloven oppskrytt?</title>
-      <description><![CDATA[Livet ditt styres av en 210 år gammel lov. Jurist Anine Kierulf forklarer hvorfor. Medvirkende: Borgar Høgetveit Berg]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/b253d5ef-e033-4b82-863f-0fb7285b2616_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/b253d5ef-e033-4b82-863f-0fb7285b2616_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:46</itunes:duration>
-      <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
     </item>
   </channel>
 </rss>
