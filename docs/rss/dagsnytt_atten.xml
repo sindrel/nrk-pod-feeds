@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 30 Sep 2024 17:30:28 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Sep 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Oct 2024 17:30:44 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Oct 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Israel går inn i Libanon</title>
+      <description><![CDATA[Samtidig forbereder Iran rakettangrep på Israel, hevder amerikanske kilder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1937f2cb-b2f3-4f46-94ce-8c1da37d187f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1937f2cb-b2f3-4f46-94ce-8c1da37d187f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Tue, 01 Oct 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1NHA8T_ngsxIgiGGO95hIQqBhbLTOxtITbfNNJ1PCusw.jpg"/>
+    </item>
     <item>
       <title>Arbeiderpartiet lover å fryse skattenivået</title>
       <description><![CDATA[En ny Ap-regjering skal ikke øke skatten for næringsliv og privatpersoner]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 18 Sep 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Whf3GqvwRpjbPCIjKR1fPgD2nJ_N6I87qPVe19FR6fzA.jpg"/>
-    </item>
-    <item>
-      <title>Flommen rammer Sentral-Europa</title>
-      <description><![CDATA[Storflom rammer Sentral- Europa, men landene er bakpå når det gjelder å tilpasse seg etter klimaendringene, mener forsker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3f03ff22-ce22-4641-857e-bb66d616ccaa_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3f03ff22-ce22-4641-857e-bb66d616ccaa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:04</itunes:duration>
-      <pubDate>Tue, 17 Sep 2024 18:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/foDOvN8dc2CbMHltDSLruAhdQyb6s6PtuG553Jt5DGCw.jpg"/>
     </item>
   </channel>
 </rss>
