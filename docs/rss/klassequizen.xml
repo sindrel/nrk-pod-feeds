@@ -1,106 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Klassequizen</title>
+    <title>De 1 siste fra Klassequizen</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Klassequizen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassequizen for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Klassequizen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassequizen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 01 Oct 2024 12:53:44 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Oct 2024 13:54:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Oct 2024 13:34:47 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Oct 2024 15:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw.jpg"/>
     <item>
-      <title>Tolga skole</title>
-      <description><![CDATA[Abdulahi, Oda og Maria fra Tolga skole håper å sette ny skolerekord i Klassequizen, men det viktigste er tross alt å slå nabobygda Os i Østerdalen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/9cda122d-f63b-4504-b9da-c285f49d0090_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/9cda122d-f63b-4504-b9da-c285f49d0090_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:36</itunes:duration>
-      <pubDate>Tue, 01 Oct 2024 13:54:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/elQKBJBFGayIwZYC0pMbgwYRG78ICn0CDAGgeOpHrCxA.jpg"/>
-    </item>
-    <item>
-      <title>Kvikne skole</title>
-      <description><![CDATA[Kristian, Ingeborg og Ingrid fra Kvikne skole bor alle på sauegård i Bjørnstjerne Bjørnsons fødebygd. I Klassequizen håper de på ny skolerekord.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/aa10ccf7-76fd-43f6-9e88-d01457b274c5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/aa10ccf7-76fd-43f6-9e88-d01457b274c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:56</itunes:duration>
-      <pubDate>Tue, 01 Oct 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LfZcEStYQsy9Am3d6K0isA3WLqCR2IQqFpIuzXpBl-LA.jpg"/>
-    </item>
-    <item>
-      <title>Tynset ungdomsskole</title>
-      <description><![CDATA[Ola sykler aktivt, kjører slalom og spiller håndball. Junil spiller fotball og er opptatt av naturen. Erlend driver med skiskyting på vinteren og stisykling på sommeren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/d8443f15-a154-4fbf-9c91-2c06b308ae3e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/d8443f15-a154-4fbf-9c91-2c06b308ae3e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:46</itunes:duration>
-      <pubDate>Tue, 01 Oct 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/G9BkWhDsDU1ANP1oOc7rwAbKzGJbcPgY6x95ebqJBdBA.jpg"/>
-    </item>
-    <item>
-      <title>Stor-Elvdal ungdomsskole</title>
-      <description><![CDATA[Mergim spiller fotball og jobber på en byggevarebutikk på fritida. Børre har en plan om å starte eget firma og drømmer om å bli millionær. Mathilde spiller også fotball og har lyst å jobbe med å hjelpe folk i ambulansetjenesten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/7f2fe451-0fcf-4942-b4f0-5972028a6c88_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/7f2fe451-0fcf-4942-b4f0-5972028a6c88_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:10</itunes:duration>
-      <pubDate>Tue, 01 Oct 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/G_xS5FPIqwbQUsfAer7RAQ1DnCfMtCzmhteo-Gbp0vsQ.jpg"/>
-    </item>
-    <item>
-      <title>Os skole</title>
-      <description><![CDATA[Jørgen liker å jakte på rype og reinsdyr og vil bli gardbruker. Synne driver med miniatyrskyting og tenker på å bli arkitekt. Lucas legger opp og selger ved, men gleder seg til våren da han skal ta lappen på motorsykkel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/f922363b-a864-45d6-ba17-de204602f7b7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/f922363b-a864-45d6-ba17-de204602f7b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:38</itunes:duration>
-      <pubDate>Tue, 01 Oct 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/62CEFhPTQXujqmTwURDl8QWIagM-gc5BLdADAIlIjx7g.jpg"/>
-    </item>
-    <item>
-      <title>Otta Ungdomsskole</title>
-      <description><![CDATA[Edda liker å være på rømningsrom på fritida, Sigurd øvelseskjører på motorsykkelen sin og Mari sjonglerer håndball og fotball.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/cd7505d8-ff19-47f0-8e1b-76cfa9bf052f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/cd7505d8-ff19-47f0-8e1b-76cfa9bf052f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:00</itunes:duration>
-      <pubDate>Mon, 30 Sep 2024 17:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1OmK3JhLKb7Aj0fujB2bdgmLUotVtHs6tPLaFsFZhssA.jpg"/>
-    </item>
-    <item>
-      <title>Vågå Ungdomsskule</title>
-      <description><![CDATA[Silje drømmer om å reise til USA, Ragnhild løper fra alle i sin klasse i Oslo halvmaraton og Anton røper et skjult talent,  som får jentene på laget til å sprute ut i latter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/1754a83a-ae11-49fd-a108-71b48564e470_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/1754a83a-ae11-49fd-a108-71b48564e470_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:33</itunes:duration>
-      <pubDate>Mon, 30 Sep 2024 08:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OWvTOy43zGd8bZxvtYMQYgKUoIAML-r3TvB6xCA4crPA.jpg"/>
-    </item>
-    <item>
-      <title>Lom ungdomsskule</title>
-      <description><![CDATA[Jo Jakup bor 1111 m.o.h., Hallvard kjører fra høye fjelltopper med splitboard og Juni har 3 hester og 5 hunder og drømmer om å bli veterinær.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/a9fc4150-56cc-448e-8310-accd2346dfed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/a9fc4150-56cc-448e-8310-accd2346dfed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:12</itunes:duration>
-      <pubDate>Fri, 27 Sep 2024 17:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2PiyCHUJk2Sm4a-NEDC0rgu30Y9xNEfRoKPjevy7UUiQ.jpg"/>
-    </item>
-    <item>
-      <title>Skjåk barne- og ungdomsskule</title>
-      <description><![CDATA[Tuva har hjortefarm og spiller på tre fotballag.  Thilde kaster håndball og er en dårlig taper og vinner. 
-Noa har 500 sau og liker jakt, fiske og arbeide på gard.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/298ea836-4979-43f7-8be9-7caed79e533b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/298ea836-4979-43f7-8be9-7caed79e533b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:48</itunes:duration>
-      <pubDate>Fri, 27 Sep 2024 14:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/n_Myx_ntRPjnvkRisSMRbgXmmazrvZAGqkJa0VJqRp_Q.jpg"/>
-    </item>
-    <item>
-      <title>Klassequiz Elverum ungdomsskole</title>
-      <description><![CDATA[Pernille, Håkon og Erle fra Elverum ungdomsskole jakter 12 poeng og full pott.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/a07ad276-ab9f-4327-b286-128e9702172f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/a07ad276-ab9f-4327-b286-128e9702172f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:14</itunes:duration>
-      <pubDate>Thu, 26 Sep 2024 19:43:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XNlwRCXCz9JFOY03NJ-wcAo4i5NaUASnpfrdyh1g0Zhg.jpg"/>
+      <title>KQ Frøyland skule</title>
+      <description><![CDATA[Anders, Vilde og Nore fra Frøyland skule på Kvernaland går smått nervøse til  oppgavene som venter dem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/1c0fe67d-01bd-4af6-a89e-4d517c7445db_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/1c0fe67d-01bd-4af6-a89e-4d517c7445db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:13</itunes:duration>
+      <pubDate>Tue, 01 Oct 2024 15:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FXZxRxTU6gnA3Xo66QoXnQQnpwRgA_V8nOhHr05O8XJQ.jpg"/>
     </item>
   </channel>
 </rss>
