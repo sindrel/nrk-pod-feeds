@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 01 Oct 2024 12:53:30 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Oct 2024 14:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Oct 2024 11:25:28 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Oct 2024 13:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Johan Harstad</title>
+      <description><![CDATA[- Å være forfatter er jo en skavank. Drømmen min er at jeg en dag skal skrive meg ferdig, sier mannen bak årets største roman.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5bbbe77c-fccc-43f8-b2a0-d890abf2c53c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5bbbe77c-fccc-43f8-b2a0-d890abf2c53c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:54</itunes:duration>
+      <pubDate>Wed, 02 Oct 2024 13:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZQfKMIgAmX2bRiE1LesImg-B2JRLPY98T7tUtnUHs4bA.jpg"/>
+    </item>
     <item>
       <title>Ralph Høibakk</title>
       <description><![CDATA[87-åringen beskrives som en "legende" i klatremiljøet. Selv lurer han på hvorfor han fortsatt lever.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:14</itunes:duration>
       <pubDate>Thu, 12 Sep 2024 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CRxk3CnrFevuYdCPs-VdGg79-j66uGw4aRPSRO9Lc7ag.jpg"/>
-    </item>
-    <item>
-      <title>Richard Bærug</title>
-      <description><![CDATA[Sommeren 2009 var han på fottur i noen avsidesliggende fjell i Georgia. Det endte med at han til slutt ble fastboende der, og medeier av et hotell.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5dc7dff3-aa6d-4d9c-859f-cf2ce8d81b88_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5dc7dff3-aa6d-4d9c-859f-cf2ce8d81b88_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:43</itunes:duration>
-      <pubDate>Wed, 11 Sep 2024 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UTaBKkQdWSZS66VfeRK63gZxLX5oh_m57D08pDOpbYBg.jpg"/>
     </item>
   </channel>
 </rss>
