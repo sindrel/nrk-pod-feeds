@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 25 Sep 2024 04:34:23 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Oct 2024 04:34:56 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A.jpg"/>
+    <item>
+      <title>Ingen ser meg</title>
+      <description><![CDATA[Hva gjør du når broren din tar all oppmerksomheten – og hva gjør du når venninna di blir sammen med han du nettopp datet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/1a144c0c-b407-4d44-8f43-99676f260f80_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/1a144c0c-b407-4d44-8f43-99676f260f80_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:15</itunes:duration>
+      <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ohDvEvNrqypsUyBC16dc8gsi2QaQ-J6uW_mZDLMHGcWw.jpg"/>
+    </item>
     <item>
       <title>Aldri bra nok</title>
       <description><![CDATA[Hjelper det å skifte stil hvis du føler deg utenfor? Og hvordan få oppmerksomheten til en av de mest populære på skolen?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>17:57</itunes:duration>
       <pubDate>Wed, 21 Aug 2024 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oHliEwrCC8qpp2dOiIxwzAhH5hkwOyxy0fq0pYxHwl9g.jpg"/>
-    </item>
-    <item>
-      <title>Forelska i bestevennens kjæreste</title>
-      <description><![CDATA[Hva gjør du når du er forelska i HELT feil person? Og hvordan kan du fortelle at du har fått mensen – uten at det blir kleint?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/a773e1c7-95d9-4ba0-a78f-b2f3b4ecca97_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/a773e1c7-95d9-4ba0-a78f-b2f3b4ecca97_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:45</itunes:duration>
-      <pubDate>Wed, 21 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/viwlY9cOplX-iMHaeLsJXwyQu35VoCD2OpxesSVlVcoQ.jpg"/>
     </item>
   </channel>
 </rss>
