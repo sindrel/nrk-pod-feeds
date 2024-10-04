@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 03 Oct 2024 17:31:34 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Oct 2024 19:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Oct 2024 17:30:12 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Oct 2024 19:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ventetider på sykehus</title>
+      <description><![CDATA[Høyre fortsatt kritisk til regjeringens innsats for å få ned helsekøene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/06f5f6fe-bebe-448c-80a8-49568770022f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/06f5f6fe-bebe-448c-80a8-49568770022f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 04 Oct 2024 19:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VjMBut_PAyGvSfdf0PO4mAaRcM1Z-dRyZZuB9GiQoPoQ.jpg"/>
+    </item>
     <item>
       <title>Kritiserer kvinnehelserapport</title>
       <description><![CDATA[For lite konkret og forpliktende sier kritikere, som mener helseministeren må bli tydeligere - og rausere med pengene.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 23 Sep 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/T46pw9jVAghmRnPBlTupFwwqEuR9gGa9rx1y3WwNNBLg.jpg"/>
-    </item>
-    <item>
-      <title>Krigen i Midtøsten eskalerer</title>
-      <description><![CDATA[Det israelske forsvaret har gjennomført angrep mot den sørlige delen av den libanesiske hovedstaden Beirut]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/388e9435-b912-4272-9114-100b1bb51834_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/388e9435-b912-4272-9114-100b1bb51834_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Fri, 20 Sep 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XwsYhxku6JQTjUl_yWqE6wgZ7TKQ_ILIUzLa0Q8Tvf-Q.jpg"/>
     </item>
   </channel>
 </rss>
