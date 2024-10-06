@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 29 Sep 2024 04:32:44 +0000</lastBuildDate>
-    <pubDate>Sun, 29 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 06 Oct 2024 04:33:23 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/2jr1RzlS0_Yjv0zZ73YFjAnPU2W-1ippg0DLIdLHOA2g.jpg"/>
+    <item>
+      <title>Nedrejord, Yarros og Kincaid</title>
+      <description><![CDATA[Vi anmelder «Annie John» av Jamaica Kincaid, «Sameproblemet» av Kathrine Nedrejord og «Fjerde ving» av Rebecca Yarros.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/2eebf910-e2ea-42e4-9f65-62c3372aaaba_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/2eebf910-e2ea-42e4-9f65-62c3372aaaba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sun, 06 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i-J3fuO2UunFDYIrr7sVXwou6Lyc0Nhg196nVp8W3MRA.jpg"/>
+    </item>
     <item>
       <title>Kjærstad, Rooney og Damhaug.</title>
       <description><![CDATA[Vi er i Lillestrøm på litteraturfestival! Her på Litt av en Fest anmelder vi «Valgdager» av Jan Kjærstad, «Intermezzo» av Sally Rooney og «Forræderen» av Torkil Damhaug.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Sun, 01 Sep 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UbBC8FQR5qrG1uwPdOa4PAxCasuG5_8M58Sblbl4n_0g.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Hilde Østby</title>
-      <description><![CDATA[–Jeg ville skrive en rar bok, sier forfatter Hilde Østby. Hun har forsøkt å gjenreise H. C. Andersens ære i sin nye roman "Jeg elsker Dickens".]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/5c5161a1-a835-4933-8576-5ec908dbe5ae_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/5c5161a1-a835-4933-8576-5ec908dbe5ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Sat, 31 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/16-SCi5HNyNgmC3xUe8ZPQZELYXzb4AjBbgoC4T2yi8g.jpg"/>
     </item>
   </channel>
 </rss>
