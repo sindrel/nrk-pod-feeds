@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 30 Sep 2024 04:34:41 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Sep 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Oct 2024 04:34:17 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    <item>
+      <title>Når bør du få barn ?</title>
+      <description><![CDATA[Journalist Penny Wayne Claire Kembba forklarer det du må vite om den berømte biologiske klokka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/e3b068da-e8fc-4f0b-8200-41f151927924_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/e3b068da-e8fc-4f0b-8200-41f151927924_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:25</itunes:duration>
+      <pubDate>Mon, 07 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/88nRUN9cbZW-jRho3IjMdQUac63XwvSEqjcNvtd-2u4g.jpg"/>
+    </item>
     <item>
       <title>Ut på tur, alltid smørblid!</title>
       <description><![CDATA[Speiderveteran Petter Schjerven gir deg oppskriften på hvordan du lekende lett kommer deg opp av sofaen og ut på tur.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>21:50</itunes:duration>
       <pubDate>Mon, 04 Mar 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/sgvlEgMk00Vp9QLSRssa_QFsbzp_DosGqJwQCbNOg-yw.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan bli kriminell?</title>
-      <description><![CDATA[B-gjengens gudfar Ghulam Abbas forklarer hva du må gjøre for å bli kriminell.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/5fa4e2b5-d7eb-47d7-a8a7-1cbf0652c8c0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/5fa4e2b5-d7eb-47d7-a8a7-1cbf0652c8c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:42</itunes:duration>
-      <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5-tT6gNr4my8RWHcv6F6JAMQuMdrdoFpo7VqQEqKsqXg.jpg"/>
     </item>
   </channel>
 </rss>
