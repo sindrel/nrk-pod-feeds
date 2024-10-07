@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 04 Oct 2024 17:30:12 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Oct 2024 19:15:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Oct 2024 17:30:48 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Oct 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Siste forslag til statsbudsjett før valget</title>
+      <description><![CDATA[FrP kaller skattegrep for bløff]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b787bb6-8b70-4a04-82e8-bae6fe02980e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b787bb6-8b70-4a04-82e8-bae6fe02980e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 07 Oct 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b4_l5jOaKJdb3FNtRYOenAmPFd0NxVjGSh5G8o0-C-dw.jpg"/>
+    </item>
     <item>
       <title>Ventetider på sykehus</title>
       <description><![CDATA[Høyre fortsatt kritisk til regjeringens innsats for å få ned helsekøene.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 24 Sep 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/F2ZeU1I2vfNVzkz6k1CpmQhUyHlOJBjDYDd4XOWgsaDA.jpg"/>
-    </item>
-    <item>
-      <title>Bok om Ap får kritikk</title>
-      <description><![CDATA[Kritikken fortsetter å hagle mot omstridt bok om Arbeiderpartiet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/38c696e6-5508-4c19-94cd-4b3e7d66eba8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/38c696e6-5508-4c19-94cd-4b3e7d66eba8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 23 Sep 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/T46pw9jVAghmRnPBlTupFwwqEuR9gGa9rx1y3WwNNBLg.jpg"/>
     </item>
   </channel>
 </rss>
