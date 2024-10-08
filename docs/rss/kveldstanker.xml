@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 04:34:38 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2024 04:34:09 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>En spinningtime i livet mitt - med Cecilie Hoxmark</title>
+      <description><![CDATA[Sorg kan bearbeides de merkeligste steder, forteller Cecilie Hoxmark.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/34791190-f96e-4fe1-9940-f77bf9763af0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/34791190-f96e-4fe1-9940-f77bf9763af0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:34</itunes:duration>
+      <pubDate>Tue, 08 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WO7x6limNz2MEu2rOsajWgzQuYSEIrQwF9jOd_CBF4qA.jpg"/>
+    </item>
     <item>
       <title>Vi elsker våre barn - med Esben Esther Pirelli Benestad</title>
       <description><![CDATA[Våre fiender elsker også barna sine, minner Esben Esther Pirelli Benestad oss om.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>04:11</itunes:duration>
       <pubDate>Tue, 17 Sep 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zoc7rHaW41_9bXoajsH-IQgOPAHntNGwuN8XbHUarhYQ.jpg"/>
-    </item>
-    <item>
-      <title>Liza Minelli - med Tor Ivar Hagen</title>
-      <description><![CDATA[Skuespiller Tor Ivar Hagen forteller om sitt store idol - Liza Minelli.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/cd1dc979-bd91-4642-8fea-bec3dba0ecd4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/cd1dc979-bd91-4642-8fea-bec3dba0ecd4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:07</itunes:duration>
-      <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/t1VGvSkM51A51qpXs-kd1gzfsx7AtgB8oVolu9YmqVgw.jpg"/>
     </item>
   </channel>
 </rss>
