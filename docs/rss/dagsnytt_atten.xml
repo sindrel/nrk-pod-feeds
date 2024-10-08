@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 17:30:48 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Oct 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2024 17:30:34 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>PST hever trusselnivået</title>
+      <description><![CDATA[Trusselen mot jødiske og israelske mål i Norge skjerpes. Politiet innfører nasjonal bevæpning som følge av den økte terrortrusselen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e10c02d0-dd63-4965-b367-dc6f870bc0b2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e10c02d0-dd63-4965-b367-dc6f870bc0b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 08 Oct 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GM4UIEoBtIhqeORvasZJawOV81JFjOxbwsvfj9-ShaFA.jpg"/>
+    </item>
     <item>
       <title>Siste forslag til statsbudsjett før valget</title>
       <description><![CDATA[FrP kaller skattegrep for bløff]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:46</itunes:duration>
       <pubDate>Wed, 25 Sep 2024 19:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/h1nzDzqhoHKmefOjhfHcmQj55NWmXsLPX5Uv6XaTJBPg.jpg"/>
-    </item>
-    <item>
-      <title>Borgerlig jubelmåling</title>
-      <description><![CDATA[Borgerlig flertall uten KrF på ny NRK-måling. Frp puster Ap i nakken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/636e8092-17b7-4dc3-8e8a-9ac71bae2c02_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/636e8092-17b7-4dc3-8e8a-9ac71bae2c02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 24 Sep 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/F2ZeU1I2vfNVzkz6k1CpmQhUyHlOJBjDYDd4XOWgsaDA.jpg"/>
     </item>
   </channel>
 </rss>
