@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-10-09  
+- Added podcast 'Vassendgutane – brødre i boots' (`vassendgutane_broedre_i_boots`)  
 ### 2024-09-26  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2024-09-24  
