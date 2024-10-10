@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 17:32:23 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Oct 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2024 17:32:33 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Oct 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>– Private aktører utarmer helsevesenet</title>
+      <description><![CDATA[Overlege kritiserer bemanningsbyråer for å tjene seg rike på offentlige helsekroner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cfd22901-ed13-472e-ba7f-d01375034c84_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cfd22901-ed13-472e-ba7f-d01375034c84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 10 Oct 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hiMyScVk2i6eVbYNSLT5BgcLWdFuoaIcCtTCc1OqL12Q.jpg"/>
+    </item>
     <item>
       <title>Solberg vil faktasjekke Støre</title>
       <description><![CDATA[Høyre-lederen beskylder regjeringen for å ha oversolgt statsbudsjettet. Erna Solberg møter Jonas Gahr Støre.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 27 Sep 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MWYj00k9mAywJLcsaBArEgfIvtmRbxAiB0mw4lY13qpA.jpg"/>
-    </item>
-    <item>
-      <title>- KI-mål for næringslivet mangler</title>
-      <description><![CDATA[Norge skal bli verdens mest digitaliserte land, sier regjeringen i ny digitaliseringsstrategi. KI mangler, mener IKT-Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e84fcdb0-9ece-47da-b545-c56e60fb506a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e84fcdb0-9ece-47da-b545-c56e60fb506a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 26 Sep 2024 19:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wKvpqcEDoUeb33SvR5EHxgBr6escveRHjOoYSFwFxWMA.jpg"/>
     </item>
   </channel>
 </rss>
