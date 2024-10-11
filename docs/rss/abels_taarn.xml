@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 12:51:42 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Oct 2024 11:26:31 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Oct 2024 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Året da KI vant Nobelprisene</title>
+      <description><![CDATA[Torkild, Kristina og Hanne forklarer, forenkler og kanskje forvirrer når de tar for seg årets Nobelpriser i medisin, fysikk og kjemi]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/61fea614-27ec-4cdb-a1c6-5f07d0c64767_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/61fea614-27ec-4cdb-a1c6-5f07d0c64767_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:33</itunes:duration>
+      <pubDate>Fri, 11 Oct 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nY2cvKjf9yZ2NrWacBaqJQddYNWwlsVbm-iojNxKZhzw.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten - Den store marshmallowtesten er feil</title>
       <description><![CDATA[En berømt psykologitest med marshmallow fra 70-tallet utfordres.  
@@ -137,19 +146,6 @@ Send oss dine spørsmål ved å trykke på snakkeboblen øverst i NRK-radioappen
       <itunes:duration>34:16</itunes:duration>
       <pubDate>Fri, 20 Sep 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rHleDLLXq8E2DEpuHWZ2xA2PDQWTkO6ViYT8DXI2Q8wQ.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - Hvem er smartest av A- og B-mennesker?</title>
-      <description><![CDATA[Torkild, Hanne og Kristina gir deg nyheter fra vitenskapens verden. 
-                                                                                                                                                           
-Forskning viser hvem som er smartest av A- og B-mennesker. 
-Kanskje får vi snart verdens mest presise atomur på månen. 
-Resultater klare fra verdens første og eneste øyetransplantasjon.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/72b8b4bf-55b2-4131-a713-5d08ccdbbd2b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/72b8b4bf-55b2-4131-a713-5d08ccdbbd2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:18</itunes:duration>
-      <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rfYoqDP90zwEAcUTa0fGZApx0K_q43DgJEPwYTnVAuyg.jpg"/>
     </item>
   </channel>
 </rss>
