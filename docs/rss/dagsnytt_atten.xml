@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 17:32:33 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Oct 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Oct 2024 17:29:47 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Oct 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Organisasjonen Nihon Hidankyō, tildelt Nobels fredspris</title>
+      <description><![CDATA[Grasrotbevegelsen bestående av overlevende av atombombene i Hiroshima og Nagasaki mottar fredsprisen for sitt arbeid for en verden fri for atomvåpen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/122c3bab-5076-4fbc-b747-5b4089b36c91_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/122c3bab-5076-4fbc-b747-5b4089b36c91_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 11 Oct 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1UU70S1e5lzeutqzcysQvAwY-NQo6mF2mxJxIaqkWW4A.jpg"/>
+    </item>
     <item>
       <title>– Private aktører utarmer helsevesenet</title>
       <description><![CDATA[Overlege kritiserer bemanningsbyråer for å tjene seg rike på offentlige helsekroner.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 30 Sep 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zN8EhoMHDOvBXhJwbSTu5AkuFVKvW-Fr-gYXh5UsOLBQ.jpg"/>
-    </item>
-    <item>
-      <title>Kritikk mot regjeringens naturmelding</title>
-      <description><![CDATA[Regjeringen kommer med ny plan for naturen. Trist og for få tiltak, sier opposisjonen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/89f445e1-3288-456a-bc12-e057bc2841e4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/89f445e1-3288-456a-bc12-e057bc2841e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 27 Sep 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MWYj00k9mAywJLcsaBArEgfIvtmRbxAiB0mw4lY13qpA.jpg"/>
     </item>
   </channel>
 </rss>
