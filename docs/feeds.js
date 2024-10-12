@@ -111,7 +111,7 @@ const feeds = [
     "id": "brenner_deler_dikt",
     "title": "De 10 siste fra Brenner deler dikt",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "brillebjoerns_kvissvas",
@@ -1427,7 +1427,7 @@ const feeds = [
     "id": "vassendgutane_broedre_i_boots",
     "title": "De 10 siste fra Vassendgutane – brødre i boots",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "verden_paa_loerdag",
