@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 11 Oct 2024 17:29:47 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Oct 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2024 17:31:51 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kina øker spenningen rundt Taiwan</title>
+      <description><![CDATA[Det kinesiske militæret øver på en invasjon av øyen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8e871fe0-80c8-4130-94cc-1424744e4f1b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8e871fe0-80c8-4130-94cc-1424744e4f1b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 14 Oct 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gqVMns-RUR3W9TjWlDy_IAvhjbAaMXZcOxQ0RIy5Tuyg.jpg"/>
+    </item>
     <item>
       <title>Organisasjonen Nihon Hidankyō, tildelt Nobels fredspris</title>
       <description><![CDATA[Grasrotbevegelsen bestående av overlevende av atombombene i Hiroshima og Nagasaki mottar fredsprisen for sitt arbeid for en verden fri for atomvåpen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Tue, 01 Oct 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1NHA8T_ngsxIgiGGO95hIQqBhbLTOxtITbfNNJ1PCusw.jpg"/>
-    </item>
-    <item>
-      <title>Arbeiderpartiet lover å fryse skattenivået</title>
-      <description><![CDATA[En ny Ap-regjering skal ikke øke skatten for næringsliv og privatpersoner]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3f3becba-df97-4d02-ad1a-4f55212a65ad_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3f3becba-df97-4d02-ad1a-4f55212a65ad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 30 Sep 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zN8EhoMHDOvBXhJwbSTu5AkuFVKvW-Fr-gYXh5UsOLBQ.jpg"/>
     </item>
   </channel>
 </rss>
