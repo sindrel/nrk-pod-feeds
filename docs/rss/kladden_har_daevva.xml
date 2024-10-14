@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 04:34:31 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2024 04:34:10 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Viggo Venn - klovnen og døden</title>
+      <description><![CDATA[Ville Viggo blitt klovn hvis det ikke hadde vært for to dødsfall?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2d3c8eb5-8f9e-4e86-9c99-b1d5d4a6935e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2d3c8eb5-8f9e-4e86-9c99-b1d5d4a6935e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:00</itunes:duration>
+      <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FGnA2gOPL-0Hs3UZKaNLFQ9P_ubNXxAxHIfntzIOyh-Q.jpg"/>
+    </item>
     <item>
       <title>Jon Martin Henriksen og flystyrt'n</title>
       <description><![CDATA[Jon Martin Henriksen har en egen teori om hvordan man lurer døden på fly. Og to dødsredde gutter skal til Praha!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:48</itunes:duration>
       <pubDate>Mon, 12 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VqmgDuf7PwBo63CptKPdOAvEqMvt3M7tfZjczIwFYs8g.jpg"/>
-    </item>
-    <item>
-      <title>Den gode samaritan: Nathan Kahungu</title>
-      <description><![CDATA[Neste gang Nate går forbi en slåsskamp, kommer han ikke til å prøve å stoppe den, for å si det sånn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b7a566f9-6916-4774-964a-f7524bb0ff39_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b7a566f9-6916-4774-964a-f7524bb0ff39_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:25</itunes:duration>
-      <pubDate>Mon, 01 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9K8BzCbEmqQxX4RviahdEg8PeiAdfAyuTJ6sEn66iFUA.jpg"/>
     </item>
   </channel>
 </rss>
