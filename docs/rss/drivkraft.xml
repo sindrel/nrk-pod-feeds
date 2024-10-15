@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 11:26:36 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Oct 2024 13:20:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2024 12:53:14 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2024 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Victoria Gulliksen</title>
+      <description><![CDATA[- Hest er lidenskap, mener sprangrytteren, som kom til finalen i sitt første OL i Paris i  sommer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d1b1f721-e9d3-48f6-8c80-fb49c94e80fb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d1b1f721-e9d3-48f6-8c80-fb49c94e80fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Tue, 15 Oct 2024 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E8sduFqDzdGxvtLAY5HQgw8zbzysi77rLZelK9XdgDBA.jpg"/>
+    </item>
     <item>
       <title>Mari Maurstad</title>
       <description><![CDATA[- Jeg blir en udetonert bombe hvis jeg ikke får opptre, sier skuespilleren, som spøker med at hele Maurstad-familien er "ekshibisjonister".]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:13</itunes:duration>
       <pubDate>Thu, 19 Sep 2024 13:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_V3NLztb-OusqnzGbnOQHgUoSx5oKGXs2ouS50KPn1Bg.jpg"/>
-    </item>
-    <item>
-      <title>Christian Skolmen</title>
-      <description><![CDATA[- Jeg liker ikke å stikke meg ut, men det er også er en form for selvopptatthet, sier den selvkritiske skuespilleren]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3a156836-d64d-4a7a-824e-b455ad8e539a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3a156836-d64d-4a7a-824e-b455ad8e539a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:06</itunes:duration>
-      <pubDate>Wed, 18 Sep 2024 13:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/n74YGErdV95XKSKy4fdypQCs9DJ4oOPMGTYz_9MHg0Zg.jpg"/>
     </item>
   </channel>
 </rss>
