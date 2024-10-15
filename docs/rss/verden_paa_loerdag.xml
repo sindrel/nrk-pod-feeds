@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 11 Oct 2024 04:34:14 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2024 04:35:55 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>De som overlevde atombomben</title>
+      <description><![CDATA[Japan snudde lenge ryggen til dem, nå får de Nobels fredspris.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/dd1e170d-8c46-4610-bb13-5704a6fabd71_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/dd1e170d-8c46-4610-bb13-5704a6fabd71_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:38</itunes:duration>
+      <pubDate>Tue, 15 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3f2_9iw10NBiY2eU3NzYVAHWY18xt4yxJ9pdftANRn9g.jpg"/>
+    </item>
     <item>
       <title>Veien mot valget: Valgfunksjonærer trues på livet</title>
       <description><![CDATA[USA gjør seg klare til valg med panikk-knapp og skuddsikkert glass. Hvordan ble det sånn?]]></description>
@@ -93,15 +102,6 @@ Hvordan skal Storbritannia forholde seg til historien sin?]]></description>
       <itunes:duration>11:51</itunes:duration>
       <pubDate>Wed, 11 Sep 2024 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oW1UXP0XII86_LYzfuLS8QKM0-eMlTDMKaxrDAjVYg3g.jpg"/>
-    </item>
-    <item>
-      <title>Hvem bryr seg om Sudan?</title>
-      <description><![CDATA[11 millioner mennesker er på flukt. Vi har reist så nær krigen i Sudan som vi tør.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/a9f0fbfb-70e8-46c7-9496-c34859660e5f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/a9f0fbfb-70e8-46c7-9496-c34859660e5f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:56</itunes:duration>
-      <pubDate>Tue, 10 Sep 2024 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/A1FY0DkuLYGkJQ-8BXVtUA9IIZMqygu_uemGnSnjrzdQ.jpg"/>
     </item>
   </channel>
 </rss>

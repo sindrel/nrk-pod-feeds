@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 04:34:17 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2024 04:35:07 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Den trygge sangen - med Maria Parr</title>
+      <description><![CDATA[Har du blitt sunget for på sengekanten som barn? Det har forfatter Maria Parr, og hun gjør det samme for barna sine.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/62d4848f-7bc5-42dc-8a58-c2b1d9d149d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/62d4848f-7bc5-42dc-8a58-c2b1d9d149d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:31</itunes:duration>
+      <pubDate>Tue, 15 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2oRuEQoDkFvKAMZJtnOqqggP0rhGsmIp1oyToAHeYXFQ.jpg"/>
+    </item>
     <item>
       <title>Meningen med livet - med Geir Erik Berge</title>
       <description><![CDATA[Meningen med livet er å se andre og bli sett. Det mener Geir Erik Berge, veterinær og radiodyrlege i NRK.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:45</itunes:duration>
       <pubDate>Tue, 24 Sep 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8EqeMS7aUej3C4TznG8U6w4Byg1AholTHsxLR2ZeBjbA.jpg"/>
-    </item>
-    <item>
-      <title>Alt for Gabriel  - med Jon Niklas Rønning</title>
-      <description><![CDATA[Komiker Jon Niklas Rønning synes det er vemodig at sønnen Gabriel (11) blir større. Vemodet har han tenkt å gjøre noe med.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9ab99cf4-22ca-4c4e-b3cc-958ac9842d0c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9ab99cf4-22ca-4c4e-b3cc-958ac9842d0c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:33</itunes:duration>
-      <pubDate>Mon, 23 Sep 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rVuvjOg_txisWca4KhoteQ1P7kxg_cUr1XcsEmuaO9EA.jpg"/>
     </item>
   </channel>
 </rss>
