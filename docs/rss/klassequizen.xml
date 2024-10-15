@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 15:31:05 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Oct 2024 17:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2024 06:39:07 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2024 08:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw.jpg"/>
+    <item>
+      <title>Dalsøyra skule</title>
+      <description><![CDATA[Aurora, Filip og Maria må bryne seg på kategoriar som Nobel og FN.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/da8b0cbb-e0d7-4fb9-8119-ed3651b8e752_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/da8b0cbb-e0d7-4fb9-8119-ed3651b8e752_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:41</itunes:duration>
+      <pubDate>Tue, 15 Oct 2024 08:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A6Wvp04nLj5H3MHgVk9vXgsQM7Mor-UAu4GNf5glUTXg.jpg"/>
+    </item>
     <item>
       <title>Brekke skule</title>
       <description><![CDATA[Adrian, Emil og Noah skal prøve å få mest mogleg rette svar.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>11:37</itunes:duration>
       <pubDate>Mon, 30 Sep 2024 08:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/d5PG3FVUZhm_YeRMlKHNlwMJSQayj1MkEoCdxn3nIsmQ.jpg"/>
-    </item>
-    <item>
-      <title>Hyen skule</title>
-      <description><![CDATA[Alfred Hope, Marte og Sander er dei einaste 10. klassingane ved Hyen skule.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/fbf94dc8-289e-4d6d-9736-f664619d7047_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/fbf94dc8-289e-4d6d-9736-f664619d7047_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:09</itunes:duration>
-      <pubDate>Thu, 26 Sep 2024 08:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0pAYJhIqjMXZDG6sP-Weewlj_GW1zb_0E1jPWLRTh9iw.jpg"/>
     </item>
   </channel>
 </rss>
