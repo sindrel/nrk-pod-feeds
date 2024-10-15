@@ -1,88 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Leseklubben</title>
+    <title>De 1 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 01 Oct 2024 04:35:05 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Oct 2024 06:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2024 10:36:10 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2024 12:28:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     <item>
-      <title>Bli kjent med Leseklubben. Episode 1</title>
-      <description><![CDATA[Vil du ha noen å lese bøker med? Kristoffer, Christine og Live er fulle av forventinger til «1984» og gleder seg til å komme i gang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/cb7a3531-9f20-4e65-a70b-dc2a443d29eb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/cb7a3531-9f20-4e65-a70b-dc2a443d29eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:35</itunes:duration>
-      <pubDate>Tue, 27 Aug 2024 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
-    </item>
-    <item>
-      <title>Sex, hat og gummikølle. Episode 2</title>
-      <description><![CDATA[Saftige sexfantasier og bjeffende treningsinstruktører. Klubben har mye å snakke om etter tre kapitler av «1984».
-
-I denne episoden snakker vi om kapittel en, to og tre. Du finner lydboka i NRK Radio. Har du ikke rukket å høre? Fortvil ikke, Kristoffer gir deg en oppsummering av kapitlene!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f7835350-57b1-46ef-a056-d2a2d6a542db_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f7835350-57b1-46ef-a056-d2a2d6a542db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:15</itunes:duration>
-      <pubDate>Tue, 27 Aug 2024 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
-    </item>
-    <item>
-      <title>Tenk eller dobbelt – hvem overlever? Episode 3</title>
-      <description><![CDATA[Har Christine og Live egentlig forstått hva «dobbelttenk» og «tankeforbrytelser» er når de deltar i Kristoffers «1984»-quiz: «Tenk eller dobbelt»?
-
-I denne episoden snakker vi om kapittel fire, fem og seks. Har du ikke rukket å høre? Kristoffer gir deg en oppsummering!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ec989720-fa80-4e34-9832-d69633b343bc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ec989720-fa80-4e34-9832-d69633b343bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:48</itunes:duration>
-      <pubDate>Tue, 03 Sep 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
-    </item>
-    <item>
-      <title>Trumps løgner er så «1984». Episode 4</title>
-      <description><![CDATA[– Alle bare godtar at Trump driver med løgn og «dobbeltenk», sier Orwell-ekspert. Live får gåsehud og Kristoffer kaster en brannfakkel. Alle gleder seg til å snakke om sjokklappen.
-
-I denne episoden snakker vi om kapittel 7, 8 og kap. 1 i del 2 av boken «1984».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/81758d65-0acb-4b89-9ca0-93ad8225bc27_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/81758d65-0acb-4b89-9ca0-93ad8225bc27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:26</itunes:duration>
-      <pubDate>Tue, 10 Sep 2024 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
-    </item>
-    <item>
-      <title>Farlig flørt: Tankepoliti eller pling i bollen? Episode 5</title>
-      <description><![CDATA[Blir Winston lurt av sin nye kjærlighet? Ingen blir kloke på Julia. Både Kristoffer og Live har et musikalsk eseløre!
-
-
-I denne episoden snakker vi om kapittel 2, 3, 4, 5 og 6 i del 2 av boken «1984».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/acb16b92-7da1-44f9-8785-40b2c25f0264_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/acb16b92-7da1-44f9-8785-40b2c25f0264_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:14</itunes:duration>
-      <pubDate>Tue, 17 Sep 2024 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
-    </item>
-    <item>
-      <title>Et politisk mesterverk eller snork? Episode 6</title>
-      <description><![CDATA[USA-ekspert Sofie Høgestøl og politiker Mímir Kristjánsson snakker om krig og fred og storpolitikk! Men hva tenker Julia? Snorketisnork, så klart.
-I denne episoden snakker vi om kapittel sju, åtte og ni i Del to av boka «1984».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2202cb15-a091-46ec-9e5e-1919b5d7ce19_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2202cb15-a091-46ec-9e5e-1919b5d7ce19_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:28</itunes:duration>
-      <pubDate>Tue, 24 Sep 2024 06:08:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
-    </item>
-    <item>
-      <title>Slik endte «1984». Episode 7</title>
-      <description><![CDATA[En grusom slutt. Terningkast fem, skriver lytter. Men hvilket terningkast triller Live, Kristoffer og Christine?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f917c853-5852-4ced-a614-4d5891a2c86c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f917c853-5852-4ced-a614-4d5891a2c86c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:05</itunes:duration>
-      <pubDate>Tue, 01 Oct 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Kshf5fj9kA31zeEux6AMDwAYXDNjyPQ0uc-YasrL8Rew.jpg"/>
+      <title>Ny bok i Leseklubben: «Heroin chic</title>
+      <description><![CDATA[Neste bok er «Heroin chic» av Maria Kjos Fonn. Vil du lese og lytte samtidig med Kristoffer, Christine og komiker Henrik Fladseth? Heng deg på fra 22. oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f6ce03a2-8697-45a4-a3e5-acec4819eed5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f6ce03a2-8697-45a4-a3e5-acec4819eed5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06</itunes:duration>
+      <pubDate>Tue, 15 Oct 2024 12:28:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MEGJ5G3XvS4-i3cmhBUshgd62pBLHkEF-BLoZICqG8Yw.jpg"/>
     </item>
   </channel>
 </rss>
