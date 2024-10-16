@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 04:33:24 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Oct 2024 04:34:26 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A.jpg"/>
+    <item>
+      <title>Trekantdrama</title>
+      <description><![CDATA[Et kjærlighetsbrev gikk ikke helt som planlagt – nå er det drama. Og hva svarer du når du blir lei av de samme spørsmålene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/c308511d-abf9-41cd-8bb7-4d2cd062984b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/c308511d-abf9-41cd-8bb7-4d2cd062984b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:11</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/P3CjkUbWo93pDZ-Pbz9FXwCxAQAnju-GfqeS241oqs-A.jpg"/>
+    </item>
     <item>
       <title>Savner kjæresten min</title>
       <description><![CDATA[Hvordan takle at kjæresten bor langt borte – og hva gjør du med en skikkelig klengete venn?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>18:02</itunes:duration>
       <pubDate>Wed, 21 Aug 2024 06:04:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NFaVn__bxA9srau7RKKRmQIMO5iyVagJ0hPx3B37R5fg.jpg"/>
-    </item>
-    <item>
-      <title>Jeg vil kysse, men hvordan?</title>
-      <description><![CDATA[Kan du øve på å bli god til å kysse? Og hva kan du gjøre hvis du ser noen bli mobba?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/b98533ee-e70d-45e3-affb-71a99cf30f91_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/b98533ee-e70d-45e3-affb-71a99cf30f91_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:47</itunes:duration>
-      <pubDate>Wed, 21 Aug 2024 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wck5gCfOa9nqcnhuEHmkWAk_ZuZZxzWCIGXL35pLv9Xg.jpg"/>
     </item>
   </channel>
 </rss>
