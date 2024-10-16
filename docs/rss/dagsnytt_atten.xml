@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 15 Oct 2024 17:31:25 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Oct 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Oct 2024 17:33:12 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Oct 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Bærum-søstre forklarer seg</title>
+      <description><![CDATA[Søstre forklarte seg om tiden i Syria. De ti siste årene har handlet om å overleve, sa den ene søsteren i retten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e49a9b56-874f-4824-8dc4-ca222aa3e283_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e49a9b56-874f-4824-8dc4-ca222aa3e283_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:53</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yIR9V8UGr9JcmDQZ1Ft_iQNMN8V4deQUljc7N1J-iQEg.jpg"/>
+    </item>
     <item>
       <title>Rettssaken mot IS-tiltalte søstre i gang</title>
       <description><![CDATA[Var de simpelthen husmødre som ville drive med hjelpearbeid -  eller var de terrorister som sluttet seg til det islamske kalifatet IS?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:55</itunes:duration>
       <pubDate>Thu, 03 Oct 2024 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DHWnWlQDvkx6ytlJiKw51ghwvWaOG_RpAJuRAxQKrzVw.jpg"/>
-    </item>
-    <item>
-      <title>Fare for storkrig</title>
-      <description><![CDATA[FNs sikkerhetsråd innkalt til hastemøte om situasjonen i Midtøsten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/fa627189-f344-4040-98d6-30803d031eb0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fa627189-f344-4040-98d6-30803d031eb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 02 Oct 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/M6zjcxmYFejDnCjh32QDGQjlUMoQ-YsVBySKSJV-OSCQ.jpg"/>
     </item>
   </channel>
 </rss>
