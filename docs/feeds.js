@@ -501,7 +501,9 @@ const feeds = [
     "id": "karakter",
     "title": "De 10 siste fra Dynga",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "karriereveilederen",
@@ -1378,6 +1380,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "tyrann",
+    "title": "De 10 siste fra Tyrann",
+    "season": null,
+    "enabled": false
   },
   {
     "id": "ubaatsaken",
