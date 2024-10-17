@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-10-17  
+- Podcast 'Dynga' is considered obsolete and will be ignored in the future (`karakter`)  
+- Added podcast 'Tyrann' (`tyrann`)  
 ### 2024-10-12  
 - Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
 - Updated podcast 'Vassendgutane – brødre i boots' (`vassendgutane_broedre_i_boots`)  
