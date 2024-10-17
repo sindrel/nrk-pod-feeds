@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 15 Oct 2024 21:27:50 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Oct 2024 22:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Oct 2024 21:28:20 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Oct 2024 22:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw.jpg"/>
+    <item>
+      <title>Slik kan du spare på maten</title>
+      <description><![CDATA[Maten har blitt 44.000 kroner dyrere på tre år. Her får du de beste sparetipsene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/539bf783-ac96-4bbe-a3c0-bfcc17464df7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/539bf783-ac96-4bbe-a3c0-bfcc17464df7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:29</itunes:duration>
+      <pubDate>Thu, 17 Oct 2024 22:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw.jpg"/>
+    </item>
     <item>
       <title>Skoler legges ned, bygder dør</title>
       <description><![CDATA[Under en regjering som lovet mindre sentralisering, blir det kutt i tilbudet til barn og unge over hele landet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>49:49</itunes:duration>
       <pubDate>Tue, 17 Sep 2024 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/neRgu96jvFt-ykLYS3yJMgoBLPtOh3O1aG4tXWU6PRCw.jpg"/>
-    </item>
-    <item>
-      <title>Nordens svar på Putins krig</title>
-      <description><![CDATA[Har Norden blitt tryggere etter at Finland og Sverige ble med i Nato? Dette er en spesialsending fra YLE, DR, SVT og NRK.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/31ec4186-3bdd-4d6b-94ef-aa730b02fba4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/31ec4186-3bdd-4d6b-94ef-aa730b02fba4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:31:16</itunes:duration>
-      <pubDate>Thu, 12 Sep 2024 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw.jpg"/>
     </item>
   </channel>
 </rss>
