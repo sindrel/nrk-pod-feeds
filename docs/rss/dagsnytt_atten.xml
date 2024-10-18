@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 18:35:55 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Oct 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2024 18:36:57 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Oct 2024 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Henlegger saken mot Tom Hagen</title>
+      <description><![CDATA[Siktelsen mot Tom Hagen for drapet på konen ble henlagt av riksadvokaten i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d1c761b6-e410-45b7-9cb4-1976a06ad0cd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d1c761b6-e410-45b7-9cb4-1976a06ad0cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 18 Oct 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/16gZ1zA4oS-fmd1TYzY58A8V4xLuMwnuY3xR2ff0vg0Q.jpg"/>
+    </item>
     <item>
       <title>Den europeiske sentralbanken kutter renten</title>
       <description><![CDATA[ESB kutter renten for tredje gang i år. Norge holder igjen, men land som Sverige, Storbritannia og USA setter også ned renten.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 07 Oct 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/b4_l5jOaKJdb3FNtRYOenAmPFd0NxVjGSh5G8o0-C-dw.jpg"/>
-    </item>
-    <item>
-      <title>Ventetider på sykehus</title>
-      <description><![CDATA[Høyre fortsatt kritisk til regjeringens innsats for å få ned helsekøene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/06f5f6fe-bebe-448c-80a8-49568770022f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/06f5f6fe-bebe-448c-80a8-49568770022f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 04 Oct 2024 19:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VjMBut_PAyGvSfdf0PO4mAaRcM1Z-dRyZZuB9GiQoPoQ.jpg"/>
     </item>
   </channel>
 </rss>
