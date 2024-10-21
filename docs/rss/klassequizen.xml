@@ -1,24 +1,105 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Klassequizen</title>
+    <title>De 10 siste fra Klassequizen</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Klassequizen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassequizen for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Klassequizen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/klassequizen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 21 Oct 2024 07:30:19 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Oct 2024 09:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Oct 2024 12:53:07 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Oct 2024 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw.jpg"/>
     <item>
-      <title>Aurland barne- og ungdomsskule</title>
-      <description><![CDATA[Maja Maria, Aleksander og Wille er spente før dei 12 spørsmåla.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/c11111eb-53bb-402f-a06d-eef9b0d145ac_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/c11111eb-53bb-402f-a06d-eef9b0d145ac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:38</itunes:duration>
-      <pubDate>Mon, 21 Oct 2024 09:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3YtJ0db8jQ3QBar3MJ9WVgmUOsML--i_FBS8Eq_94ypw.jpg"/>
+      <title>Skjervøy ungdomsskole</title>
+      <description><![CDATA[Johannes Frogum Nilssen, Naja Eleonor Meilandstind og Tyra Svisdal representerer Skjervøy ungdomsskole i Nord-Troms i Klassequizen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/a3e62b29-2b01-47d8-9e5f-b27ae504209b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/a3e62b29-2b01-47d8-9e5f-b27ae504209b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:35</itunes:duration>
+      <pubDate>Mon, 21 Oct 2024 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/06bY2wjU5un70N1z2ffLJA-eJX4I5DqVi7sHz52bIeWw.jpg"/>
+    </item>
+    <item>
+      <title>Kvænangen ungdomsskole</title>
+      <description><![CDATA[Sveinung Håkenrud, Håvard Nilsen Soleng og Jonas Skåre representerer Kvænangen barne- og ungdomsskole i Klassequizen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/e87ea17a-2644-4ad5-9bb2-24dd8fb0f667_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/e87ea17a-2644-4ad5-9bb2-24dd8fb0f667_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:40</itunes:duration>
+      <pubDate>Fri, 18 Oct 2024 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xmJzQ3MJXTFV-pG7ykig4gz4g_xOLE7GRQmQwWfGD0Uw.jpg"/>
+    </item>
+    <item>
+      <title>Kroken Skole</title>
+      <description><![CDATA[Ole Martin Gaare Nordbye, Sigve Djupnes Solberg og Lilly Naima Falch Haugland representerer Kroken skole i Tromsø i Klassequizen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/128f87de-7230-454d-bf3d-15504e5f12c7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/128f87de-7230-454d-bf3d-15504e5f12c7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:07</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H8jyPqROGsbcSl-URVbJqwxCxv9N1MKvFHyB5lXd2Czw.jpg"/>
+    </item>
+    <item>
+      <title>Langnes skole</title>
+      <description><![CDATA[Cecilia Viktoria Kristensen,  Kristine Helene Engstad og Matheus Nyan Song Berg representerer Langnes skole i Tromsø i Klassequizen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/b70870b8-d06a-49ef-94e5-c17605b72300_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/b70870b8-d06a-49ef-94e5-c17605b72300_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:52</itunes:duration>
+      <pubDate>Mon, 14 Oct 2024 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2TAtOZQSYkn4VkpbcIsllgrbGjiB8-m9J3SSJFRXrsuQ.jpg"/>
+    </item>
+    <item>
+      <title>Grønnåsen skole</title>
+      <description><![CDATA[Aurora Molund Tangen, David Lian Jakobsen og Sebastian Ilstad Nordal representerer 10. klasse på Grønnåsen skole i Tromsø i Klassequizen. Aurora går på friidrett og har begynt å spille gitar, Sebastian spiller piano og David går på turn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/67c123ae-37dc-44c5-b8ba-d153e5a74785_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/67c123ae-37dc-44c5-b8ba-d153e5a74785_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:04</itunes:duration>
+      <pubDate>Fri, 11 Oct 2024 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gCJlzRe6l8KwbAdknrN3_wYdLhY6OksX4RQG6rCLahjA.jpg"/>
+    </item>
+    <item>
+      <title>Bardufoss ungdomsskole</title>
+      <description><![CDATA[Brede Olsen-Ekanger, Mathilde Smith-Meyer og Mina Sørli representerte Bardufoss ungdomsskole i årets Klassequiz.  De ville veldig gjerne ha tema fotball , sport og musikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/e4ac89e6-d72e-4df2-a6e7-2328fd2e906a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/e4ac89e6-d72e-4df2-a6e7-2328fd2e906a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:40</itunes:duration>
+      <pubDate>Wed, 09 Oct 2024 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N7skq6z_I0o0HoNd2-1AjAw8Ep4VTCU0ZBGRbMhkIcBg.jpg"/>
+    </item>
+    <item>
+      <title>Ibestad skole</title>
+      <description><![CDATA[Truls Berg Frantsen, Cate Græsli og Sindre Åsandvik ved Ibestad skole driver alle med idrett på fritiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/056baad0-b52e-4dca-ac29-d57eec50f105_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/056baad0-b52e-4dca-ac29-d57eec50f105_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:40</itunes:duration>
+      <pubDate>Mon, 07 Oct 2024 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C5tcLUdFiBzKG_EiA3zf_ArPX-i65gap72qERqyRv3Ew.jpg"/>
+    </item>
+    <item>
+      <title>Husøy skole</title>
+      <description><![CDATA[Lars Adolfsen Pettersen, Emma Sofie Tøllefsen, og Oliver Johnsen representerte Husøy skole i Klassequizen. Alle kjenner alle, og det er alltid noen å henge med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/d496a07c-5e6a-43a5-a116-f16c2af05c8b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/d496a07c-5e6a-43a5-a116-f16c2af05c8b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:32</itunes:duration>
+      <pubDate>Wed, 02 Oct 2024 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTh-g5w2n78i1kwpXkOfigqfbIkoNJjBCNaL0hsxovNA.jpg"/>
+    </item>
+    <item>
+      <title>Finnsnes ungdomsskole</title>
+      <description><![CDATA[Gabriela Majerczak, Leon Paulsen og Theodor Haaland synes det er fint å vokse opp på Finnsnes. Det er mye å gjøre på fritiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/3f605fcd-8d0e-4921-9c7e-f6870f6ccd62_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/3f605fcd-8d0e-4921-9c7e-f6870f6ccd62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:41</itunes:duration>
+      <pubDate>Mon, 30 Sep 2024 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EbN4YZInkmOCeRKP68qjPgIU23KSGZcjihFNLhn56dAg.jpg"/>
+    </item>
+    <item>
+      <title>Rossfjord skole</title>
+      <description><![CDATA[Kaja Eugenia Jakobsen, Tom-Leon Henriksen og Unni Margrethe Sundquist synes det er fint å bo i Rossfjord. Lite og koselig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/9ad9c6c8-cb61-4710-b08d-d10c55e6320f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/9ad9c6c8-cb61-4710-b08d-d10c55e6320f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:57</itunes:duration>
+      <pubDate>Fri, 27 Sep 2024 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tZ9Wmb8vDNbufrGkGMpM4wl3MOcQV4fxRp093KpPtuyw.jpg"/>
     </item>
   </channel>
 </rss>
