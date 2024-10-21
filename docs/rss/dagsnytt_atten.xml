@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 18 Oct 2024 18:36:57 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Oct 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Oct 2024 17:30:39 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Oct 2024 19:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vipers lever videre</title>
+      <description><![CDATA[I går var de konkurs, i dag er plutselig håndballklubben Vipers i gang igjen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bbbdf300-8f18-42a9-bbe6-e2972a94765c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bbbdf300-8f18-42a9-bbe6-e2972a94765c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 21 Oct 2024 19:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SKCTfOOdx4EKVE3k_LwohwGTcFjthetJ_-qTQwPMNAgA.jpg"/>
+    </item>
     <item>
       <title>Henlegger saken mot Tom Hagen</title>
       <description><![CDATA[Siktelsen mot Tom Hagen for drapet på konen ble henlagt av riksadvokaten i dag.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 08 Oct 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GM4UIEoBtIhqeORvasZJawOV81JFjOxbwsvfj9-ShaFA.jpg"/>
-    </item>
-    <item>
-      <title>Siste forslag til statsbudsjett før valget</title>
-      <description><![CDATA[FrP kaller skattegrep for bløff]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b787bb6-8b70-4a04-82e8-bae6fe02980e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b787bb6-8b70-4a04-82e8-bae6fe02980e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 07 Oct 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/b4_l5jOaKJdb3FNtRYOenAmPFd0NxVjGSh5G8o0-C-dw.jpg"/>
     </item>
   </channel>
 </rss>
