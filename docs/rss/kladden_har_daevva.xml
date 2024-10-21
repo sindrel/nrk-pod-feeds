@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 04:34:10 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Oct 2024 04:34:36 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Boikott døden med Erlend Mørch</title>
+      <description><![CDATA[Erlend vil ikke snakke om den. Men nå må han nesten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/d6c64148-78d7-4cbe-8bbf-f9d5fbe4f438_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d6c64148-78d7-4cbe-8bbf-f9d5fbe4f438_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:58</itunes:duration>
+      <pubDate>Mon, 21 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v0tkU6fP8v8o897yFGn1rAa429Ff8hjJ6BaJaf6ku3lQ.jpg"/>
+    </item>
     <item>
       <title>Viggo Venn - klovnen og døden</title>
       <description><![CDATA[Ville Viggo blitt klovn hvis det ikke hadde vært for to dødsfall?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>52:52</itunes:duration>
       <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/70c1GqQl9BrDaymUjz3UAQPEwU6y8cIgiitLzfoZjdeg.jpg"/>
-    </item>
-    <item>
-      <title>Ikke sovne, Stig Brenner!</title>
-      <description><![CDATA[Flere begravelser enn bryllup og ett stygt fall.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/03516a4e-9874-4120-b2af-d1c7e8b48b56_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/03516a4e-9874-4120-b2af-d1c7e8b48b56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:48</itunes:duration>
-      <pubDate>Mon, 12 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VqmgDuf7PwBo63CptKPdOAvEqMvt3M7tfZjczIwFYs8g.jpg"/>
     </item>
   </channel>
 </rss>
