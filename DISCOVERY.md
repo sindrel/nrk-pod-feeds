@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-10-22  
+- Updated podcast 'Tyrann' (`tyrann`)  
 ### 2024-10-17  
 - Podcast 'Dynga' is considered obsolete and will be ignored in the future (`karakter`)  
 - Added podcast 'Tyrann' (`tyrann`)  
