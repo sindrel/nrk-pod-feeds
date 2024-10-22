@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 21 Oct 2024 04:34:45 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Oct 2024 04:34:52 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Genanse og verdighet - med Gunn Marit Nisja</title>
+      <description><![CDATA[Syns du det er skummelt å snakke i forsamlinger? Fortvil ikke, det er håp for alle, sier forfatter Gunn Marit Nisja]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/8009d06e-fbb9-4821-aa16-6b79652c9a92_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/8009d06e-fbb9-4821-aa16-6b79652c9a92_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:50</itunes:duration>
+      <pubDate>Tue, 22 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
+    </item>
     <item>
       <title>Jassfestival i Zululand - med Tom Roger Aadland</title>
       <description><![CDATA[- Av og til kan det vere smart å vere på feil stad på rett måte, seier artisten Tom Roger Aadland]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:45</itunes:duration>
       <pubDate>Tue, 01 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rVuvjOg_txisWca4KhoteQ1P7kxg_cUr1XcsEmuaO9EA.jpg"/>
-    </item>
-    <item>
-      <title>Jeg heier på deg - med Axel Frønes</title>
-      <description><![CDATA[Axel Frønes liker menn og kvinner som tør å vise sårbarhet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9e99de2a-d320-44c9-a4a6-0a820dda0f79_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9e99de2a-d320-44c9-a4a6-0a820dda0f79_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:40</itunes:duration>
-      <pubDate>Mon, 30 Sep 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vyPx5Tgp6flapNHkpoSnOgYHExizForENnvd4jbnVXFA.jpg"/>
     </item>
   </channel>
 </rss>
