@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 3 siste fra Tyrann</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Tue, 22 Oct 2024 06:38:43 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Oct 2024 06:03:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
+    <item>
+      <title>Saddam Hussein (1:5)</title>
+      <description><![CDATA[Saddam har i hele barndommen blitt utsatt for ydmykelse, juling og mobbing. Men én dag blir det HANS tur til å pine og plage.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/e2c04f24-a44b-48a8-8599-88c9a81b5df7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/e2c04f24-a44b-48a8-8599-88c9a81b5df7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:15</itunes:duration>
+      <pubDate>Tue, 22 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA.jpg"/>
+    </item>
+    <item>
+      <title>Saddam Hussein (2:5)</title>
+      <description><![CDATA[Kurdere, sjiamuslimer og nabolandet Iran skaper problemer for Saddam. Han løser problemene med brutal vold, våpen og giftig gass.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/196979be-88d8-497c-9b37-15b987389bb8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/196979be-88d8-497c-9b37-15b987389bb8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:15</itunes:duration>
+      <pubDate>Tue, 22 Oct 2024 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA.jpg"/>
+    </item>
+    <item>
+      <title>Saddam Hussein (3:5)</title>
+      <description><![CDATA[Saddams regime har gjort irakerne fattige og sinte. Svaret på alle problemene er en invasjon av det lille nabolandet Kuwait.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/8085725d-6e55-4413-b9b0-b7df6e92789a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/8085725d-6e55-4413-b9b0-b7df6e92789a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:52</itunes:duration>
+      <pubDate>Tue, 22 Oct 2024 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA.jpg"/>
+    </item>
+  </channel>
+</rss>
