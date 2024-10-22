@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 21 Oct 2024 12:52:53 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Oct 2024 13:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Oct 2024 13:34:27 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Oct 2024 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>AK Dolven</title>
+      <description><![CDATA[-Jeg drømte om at foreldrene mine skulle forstå meg, sier samtidskunstneren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/39e8ec72-50ce-4031-ab8b-e4ce77c0bf59_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/39e8ec72-50ce-4031-ab8b-e4ce77c0bf59_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:09</itunes:duration>
+      <pubDate>Tue, 22 Oct 2024 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8-28f7SQa-2--y676T1j3g9SL5YBO02Z9vyq_ONWPbiQ.jpg"/>
+    </item>
     <item>
       <title>Ken André Ottesen</title>
       <description><![CDATA[- Å skrive dritt om nabobygda er halve jobben for mange lokalaviser, mener mannen bak humorkontoen BAdesKen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:40</itunes:duration>
       <pubDate>Tue, 01 Oct 2024 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/diEgu4sbxq5lqiq0a5pqRwzUJyoXUCZUs2nLQ7j4xOlw.jpg"/>
-    </item>
-    <item>
-      <title>Cathrine Moestue</title>
-      <description><![CDATA[Hun levde åtte år fanget i en sekt. - Hva faen skjedde? Hvordan kunne det skje meg? For å forstå utdannet hun seg til psykolog.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/de55ffb1-8d54-4718-a785-93cfb08cc890_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/de55ffb1-8d54-4718-a785-93cfb08cc890_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:07</itunes:duration>
-      <pubDate>Thu, 26 Sep 2024 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XsFADZqD9JUk6i87uKrevQyDSo9Qw5z6yqNH02IpmQ7w.jpg"/>
     </item>
   </channel>
 </rss>
