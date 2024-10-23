@@ -850,6 +850,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "nittiatten",
+    "title": "De 10 siste fra Nittiatten",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "nokke_for_seg_sjoel",
     "title": "De 10 siste fra Nokke for seg sjøl",
     "season": null,
