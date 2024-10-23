@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 04:34:26 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Oct 2024 04:34:06 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A.jpg"/>
+    <item>
+      <title>Hår på tissen</title>
+      <description><![CDATA[Plutselig begynner det å vokse hår på de rareste steder; under armene, på beina og på tissen. Må man fjerne det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/189bc487-2d55-4279-b5d2-106916b6d0e1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/189bc487-2d55-4279-b5d2-106916b6d0e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:35</itunes:duration>
+      <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i0n3JewiGrDhTVrDJl48FwQzWOS9pA6N9H1gn3TfUeSw.jpg"/>
+    </item>
     <item>
       <title>Trekantdrama</title>
       <description><![CDATA[Et kjærlighetsbrev gikk ikke helt som planlagt – nå er det drama. Og hva svarer du når du blir lei av de samme spørsmålene?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>21:39</itunes:duration>
       <pubDate>Wed, 21 Aug 2024 06:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ej5zCVFlT2MCRn8i3wRIeQU5h64PdTOp8lldFA-oc79w.jpg"/>
-    </item>
-    <item>
-      <title>Jeg vil ha kjæreste!</title>
-      <description><![CDATA[Hvordan blir man egentlig kjærester?  Og hva kan du gjøre hvis du føler deg alene på skolen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/d89eb050-c4e9-479e-b476-3e5fd5ad5de2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/d89eb050-c4e9-479e-b476-3e5fd5ad5de2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:02</itunes:duration>
-      <pubDate>Wed, 21 Aug 2024 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NFaVn__bxA9srau7RKKRmQIMO5iyVagJ0hPx3B37R5fg.jpg"/>
     </item>
   </channel>
 </rss>

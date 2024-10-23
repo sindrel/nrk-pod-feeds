@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Supernytt forklarer</title>
+    <title>De 7 siste fra Supernytt forklarer</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Supernytt forklarer. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/supernytt_forklarer for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Supernytt forklarer. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/supernytt_forklarer for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 04:35:08 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Oct 2024 06:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Oct 2024 04:34:40 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Oct 2024 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/McgGBvK8QsMThfw4naZDKQ-PYjjAI7OJkzWAeCuoeYzg.jpg"/>
+    <item>
+      <title>Da hvalrossen Freya kom til Norge</title>
+      <description><![CDATA[Hvalrossen Freya ble kjendis i Norge sommeren 2022, og alle ville ta bilder og bade med henne. Og så bestemte myndighetene at hun måtte dø. Hvorfor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/supernytt_forklarer/af34f378-8507-4893-9b73-7eaf84d31053_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/af34f378-8507-4893-9b73-7eaf84d31053_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:40</itunes:duration>
+      <pubDate>Wed, 23 Oct 2024 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/umpv93vlCfNglFm__ZHxbAAhsCAOuaHM8v88w2vyaeFw.jpg"/>
+    </item>
     <item>
       <title>Hva skjedde med Prime?</title>
       <description><![CDATA[Energidrikken Prime ble solgt for flere hundre kroner flaska. Nå koster den samme flaska få kroner. Hva skjedde?]]></description>
