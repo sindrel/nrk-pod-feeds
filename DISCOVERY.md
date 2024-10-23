@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-10-23  
+- Added podcast 'Nittiatten' (`nittiatten`)  
 ### 2024-10-22  
 - Updated podcast 'Tyrann' (`tyrann`)  
 ### 2024-10-17  
