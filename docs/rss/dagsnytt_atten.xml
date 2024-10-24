@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 17:30:55 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Oct 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Oct 2024 18:36:51 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Oct 2024 19:50:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Helseplattformen har truet pasientsikkerheten</title>
+      <description><![CDATA[Riksrevisjonen kommer med krass kritikk og mener innføringen av Helseplattformen i Midt-Norge har truet pasientsikkerheten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a44a1d20-7550-47dc-b5db-d006a0aae09d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a44a1d20-7550-47dc-b5db-d006a0aae09d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 24 Oct 2024 19:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uccwJwwQBOq9DtAmYYE2oQG-Nf1LOqlJNZRQ2ioKFcEQ.jpg"/>
+    </item>
     <item>
       <title>Regjeringa vil øke aldersgrensen på sosiale medier</title>
       <description><![CDATA[Grensen skal økes fra 13 til 15 år og kontrolleres strengere.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 11 Oct 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1UU70S1e5lzeutqzcysQvAwY-NQo6mF2mxJxIaqkWW4A.jpg"/>
-    </item>
-    <item>
-      <title>– Private aktører utarmer helsevesenet</title>
-      <description><![CDATA[Overlege kritiserer bemanningsbyråer for å tjene seg rike på offentlige helsekroner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cfd22901-ed13-472e-ba7f-d01375034c84_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cfd22901-ed13-472e-ba7f-d01375034c84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 10 Oct 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hiMyScVk2i6eVbYNSLT5BgcLWdFuoaIcCtTCc1OqL12Q.jpg"/>
     </item>
   </channel>
 </rss>
