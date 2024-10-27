@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 20 Oct 2024 17:30:43 +0000</lastBuildDate>
-    <pubDate>Sun, 20 Oct 2024 19:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2024 05:31:48 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Maja Lunde</title>
+      <description><![CDATA[Maja Lunde om ny julefilm, skjermvett og om å være ekstremt produktiv!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a46bb2a0-5246-4688-ba5a-7d8b646f0570_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a46bb2a0-5246-4688-ba5a-7d8b646f0570_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:07</itunes:duration>
+      <pubDate>Sun, 27 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UVhgrkkohRcl_RlkBJ4NBwtenNCAQ88QvI2jCY2LD_rw.jpg"/>
+    </item>
     <item>
       <title>Else besøker: Ahmed Mamow</title>
       <description><![CDATA[Vi snakker om stjeling av toalettruller på hotell, kjærlighetssorg og livet med dusj... på badet!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>40:25</itunes:duration>
       <pubDate>Sun, 25 Aug 2024 14:12:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/OGMpz9i0mAflxL4f5M8KeAt0FzesFS3FfNe7tWkD7Jwg.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Henriette Steenstrup (og Henrik Mestad)</title>
-      <description><![CDATA[Else besøker sin gode venn Henriette Steenstrup, som er klar med ny sesong av Pørni. Henrik Mestad blir også med på kaffeslabberas i hagen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/0d28f5d6-5e7e-4402-a49c-78b8bae4d392_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/0d28f5d6-5e7e-4402-a49c-78b8bae4d392_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:48</itunes:duration>
-      <pubDate>Sun, 18 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mNcrQAAryf05fGCWAhpl6wLLf_J-l0BPQ5pOkvTX8VnA.jpg"/>
     </item>
   </channel>
 </rss>
