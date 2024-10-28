@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 25 Oct 2024 18:36:39 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Oct 2024 19:35:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Oct 2024 19:24:25 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Oct 2024 19:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Demonstrasjoner etter valgresultatet i Georgia</title>
+      <description><![CDATA[Begge sider hevder de vant valget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6da4ea1a-586e-45e3-9dfc-e767a75109a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6da4ea1a-586e-45e3-9dfc-e767a75109a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:45</itunes:duration>
+      <pubDate>Mon, 28 Oct 2024 19:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lN8_eoC5xTx3rAFqr5NzTweVndkcg2Ivu-JeE3yQjohQ.jpg"/>
+    </item>
     <item>
       <title>Forslag til ny rusreform blir møtt med skuffelse</title>
       <description><![CDATA[Helseministeren erkjente at politikken har svikta de med alvorlige rusproblemer.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:04</itunes:duration>
       <pubDate>Tue, 15 Oct 2024 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BmSP8Ydo5xjAnuXpPafMBA-vQoyuHQbLscMxR2HpzqaQ.jpg"/>
-    </item>
-    <item>
-      <title>Kina øker spenningen rundt Taiwan</title>
-      <description><![CDATA[Det kinesiske militæret øver på en invasjon av øyen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8e871fe0-80c8-4130-94cc-1424744e4f1b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8e871fe0-80c8-4130-94cc-1424744e4f1b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 14 Oct 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gqVMns-RUR3W9TjWlDy_IAvhjbAaMXZcOxQ0RIy5Tuyg.jpg"/>
     </item>
   </channel>
 </rss>
