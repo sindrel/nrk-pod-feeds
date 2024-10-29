@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Historier fra virkeligheten</title>
+    <title>De 5 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 12:54:17 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Oct 2024 13:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2024 05:33:01 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Oct 2024 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
@@ -18,6 +18,42 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/18c79a5e-b6a4-4ab4-9424-02bbc57a60da_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:32</itunes:duration>
       <pubDate>Mon, 28 Oct 2024 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9DGkU3GmN3oHZu9rWlH1JQ3k0fwgdhhpCP3e7dvP9G8Q.jpg"/>
+    </item>
+    <item>
+      <title>Stemmen fra dypet (1:4)</title>
+      <description><![CDATA[Et skjult dykkermiljø kontakter en journalist. I over 25 år har de hatt en skatt fra Blücher gjemt i en kjeller.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/0286a0ef-6480-4dd1-ad49-36183f6b8eae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/0286a0ef-6480-4dd1-ad49-36183f6b8eae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:22</itunes:duration>
+      <pubDate>Tue, 29 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9DGkU3GmN3oHZu9rWlH1JQ3k0fwgdhhpCP3e7dvP9G8Q.jpg"/>
+    </item>
+    <item>
+      <title>Operasjon Weserübung (2:4)</title>
+      <description><![CDATA[Willi har gått om bord på det gigantiske krigsskipet Blücher. Men han aner lite om det brutale toktet han er en del av.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/2fcceb59-777b-470c-b16a-73c91bedb010_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/2fcceb59-777b-470c-b16a-73c91bedb010_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:12</itunes:duration>
+      <pubDate>Tue, 29 Oct 2024 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9DGkU3GmN3oHZu9rWlH1JQ3k0fwgdhhpCP3e7dvP9G8Q.jpg"/>
+    </item>
+    <item>
+      <title>Døden ved Drøbak (3:4)</title>
+      <description><![CDATA[Angrepet på Norge går ikke etter planen. Willi må kjempe for livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/da4e089a-0696-4c75-82d9-7e52f64bf70c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/da4e089a-0696-4c75-82d9-7e52f64bf70c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:27</itunes:duration>
+      <pubDate>Tue, 29 Oct 2024 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9DGkU3GmN3oHZu9rWlH1JQ3k0fwgdhhpCP3e7dvP9G8Q.jpg"/>
+    </item>
+    <item>
+      <title>Hvor er Willi? (4:4)</title>
+      <description><![CDATA[Dykkerdetektivene oppdager en ny ledetråd i jakten på Willi. Endelig skal de få svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/8186ed50-e3a2-4dba-95bf-b1ef3050e812_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/8186ed50-e3a2-4dba-95bf-b1ef3050e812_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:02</itunes:duration>
+      <pubDate>Tue, 29 Oct 2024 06:03:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9DGkU3GmN3oHZu9rWlH1JQ3k0fwgdhhpCP3e7dvP9G8Q.jpg"/>
     </item>
   </channel>

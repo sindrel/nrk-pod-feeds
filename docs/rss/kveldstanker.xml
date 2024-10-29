@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 05:33:17 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Oct 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2024 05:32:44 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Oct 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Takk til barnehagen - med Jon Niklas Rønning</title>
+      <description><![CDATA[Jon Niklas Rønning takker barnehageansatte for omtanken han fikk som far.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/fd59295f-e8d9-4b1d-9af8-1812a0261471_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/fd59295f-e8d9-4b1d-9af8-1812a0261471_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:44</itunes:duration>
+      <pubDate>Tue, 29 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
     <item>
       <title>Brunfargen din gjør ingenting - med Jathushiga Bridget Rajah</title>
       <description><![CDATA[Jathushiga Bridget Rajah reagerte kraftig når bestevennina kommenterte hudfargen hennes.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:34</itunes:duration>
       <pubDate>Tue, 08 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WO7x6limNz2MEu2rOsajWgzQuYSEIrQwF9jOd_CBF4qA.jpg"/>
-    </item>
-    <item>
-      <title>Vi elsker våre barn - med Esben Esther Pirelli Benestad</title>
-      <description><![CDATA[Våre fiender elsker også barna sine, minner Esben Esther Pirelli Benestad oss om.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d3bf8aac-cea2-4c1b-9557-c852bd72e2cf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d3bf8aac-cea2-4c1b-9557-c852bd72e2cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:40</itunes:duration>
-      <pubDate>Mon, 07 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3rOoaGbFDeVvvZwiU1ciVgZVs11SIS6y4AC_BegwmlaA.jpg"/>
     </item>
   </channel>
 </rss>
