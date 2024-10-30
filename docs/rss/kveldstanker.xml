@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 05:32:44 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Oct 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 30 Oct 2024 05:33:17 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Ingen bryr seg - med Vegard Tjørholm</title>
+      <description><![CDATA[Korrespondent Vegard Tjørhom reiser dit ingen andre journalister drar. Slik håper han på økt oppmerksomhet om glemte kriser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/70319ed2-8654-4944-a379-da9b997eb7f9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/70319ed2-8654-4944-a379-da9b997eb7f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:39</itunes:duration>
+      <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6VVTzuvC1D93sS0gdcb9tg6B8uDHzhR3m5lt_Z-5aNxw.jpg"/>
+    </item>
     <item>
       <title>Takk til barnehagen - med Jon Niklas Rønning</title>
       <description><![CDATA[Jon Niklas Rønning takker barnehageansatte for omtanken han fikk som far.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:25</itunes:duration>
       <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ga3K2LhZVpYGpSJG6h5USgzsuJxnjrpQbRD_m1mNZGxw.jpg"/>
-    </item>
-    <item>
-      <title>En spinningtime i livet mitt - med Cecilie Hoxmark</title>
-      <description><![CDATA[Sorg kan bearbeides de merkeligste steder, forteller Cecilie Hoxmark.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/34791190-f96e-4fe1-9940-f77bf9763af0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/34791190-f96e-4fe1-9940-f77bf9763af0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:34</itunes:duration>
-      <pubDate>Tue, 08 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WO7x6limNz2MEu2rOsajWgzQuYSEIrQwF9jOd_CBF4qA.jpg"/>
     </item>
   </channel>
 </rss>
