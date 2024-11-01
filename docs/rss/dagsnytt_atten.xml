@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 18:37:39 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Oct 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:35:51 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Nov 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ekstramilliarder til kommunene</title>
+      <description><![CDATA[Regjeringa gir 5 milliarder ekstra til kommunene i år og 5 milliarder til neste år. Likevel er det ikke nok for kommunene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d27a4ff4-7219-46a1-bba2-05ceb6c8cbc1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d27a4ff4-7219-46a1-bba2-05ceb6c8cbc1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 01 Nov 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CC-ZOspbvRmpEpPzhfnC0Qmj8j2sYQn3Yf8c1k9XGX-g.jpg"/>
+    </item>
     <item>
       <title>Uenighet om ny sykelønnsordning</title>
       <description><![CDATA[NHO vil endre sykelønnsordningen, mens LO vil frede den.]]></description>
@@ -92,15 +101,6 @@ men finansminister Trygve Slagsvold Vedum vil ikke etterkomme ønsket.]]></descr
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 21 Oct 2024 19:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SKCTfOOdx4EKVE3k_LwohwGTcFjthetJ_-qTQwPMNAgA.jpg"/>
-    </item>
-    <item>
-      <title>Henlegger saken mot Tom Hagen</title>
-      <description><![CDATA[Siktelsen mot Tom Hagen for drapet på konen ble henlagt av riksadvokaten i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d1c761b6-e410-45b7-9cb4-1976a06ad0cd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d1c761b6-e410-45b7-9cb4-1976a06ad0cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 18 Oct 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/16gZ1zA4oS-fmd1TYzY58A8V4xLuMwnuY3xR2ff0vg0Q.jpg"/>
     </item>
   </channel>
 </rss>
