@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 05:33:09 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Oct 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Nov 2024 05:32:38 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Anna of the North og spøkelsene</title>
+      <description><![CDATA[Er Anna Lotterud klarsynt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b0b90e61-3be4-4b1c-9ef2-cb96627736d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b0b90e61-3be4-4b1c-9ef2-cb96627736d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:42</itunes:duration>
+      <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8h-wTbeS8ZjkZalz957ocgB6Et_oePWDFLOc0PzKP__A.jpg"/>
+    </item>
     <item>
       <title>Javad El Bakali på biltaket</title>
       <description><![CDATA[Hjerteoperert, påkjørt og full av dødsangst.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>47:37</itunes:duration>
       <pubDate>Mon, 02 Sep 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NV1dKh-lNuFx9IxD1O3VaQfVuise4huYrEhwB3RWjCZA.jpg"/>
-    </item>
-    <item>
-      <title>Mia Hundvin/hissigpropp</title>
-      <description><![CDATA[1000 spenn på Mia i kranglebattle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2f9eb04a-c6f4-4729-8903-acfe3ae92b09_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2f9eb04a-c6f4-4729-8903-acfe3ae92b09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:01</itunes:duration>
-      <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2kS3aeeXQ1QKaPkZDQXUFgfpTMHZZydF82SINUv2m6tw.jpg"/>
     </item>
   </channel>
 </rss>

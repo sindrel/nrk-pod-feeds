@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 05:33:17 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Nov 2024 05:32:44 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Å møtes for siste gang - med Gunn Marit Nisja</title>
+      <description><![CDATA[Vi må huske å leve mens vi gjør det, sier forfatter Gunn Marit Nisja]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a2b0e776-6845-4e7d-8866-44cf6e968634_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a2b0e776-6845-4e7d-8866-44cf6e968634_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:30</itunes:duration>
+      <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
+    </item>
     <item>
       <title>Ingen bryr seg - med Vegard Tjørholm</title>
       <description><![CDATA[Korrespondent Vegard Tjørhom reiser dit ingen andre journalister drar. Slik håper han på økt oppmerksomhet om glemte kriser.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:55</itunes:duration>
       <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JBj6rC8lLpPLh5jbujIzMg-_dzNDxrTtAJbmFtdlVakA.jpg"/>
-    </item>
-    <item>
-      <title>Farsfolket - med Tom Roger Aadland</title>
-      <description><![CDATA[Musiker Tom Roger Aadland finner de sterkeste tekstene sine i sitt eget liv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/6483f142-b711-4d33-9a33-84fd88cbda2e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/6483f142-b711-4d33-9a33-84fd88cbda2e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:25</itunes:duration>
-      <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ga3K2LhZVpYGpSJG6h5USgzsuJxnjrpQbRD_m1mNZGxw.jpg"/>
     </item>
   </channel>
 </rss>
