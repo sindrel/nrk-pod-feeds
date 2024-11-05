@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Nov 2024 05:32:44 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 05 Nov 2024 05:32:26 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Kampslutt - med Endre Ruset</title>
+      <description><![CDATA[Alle med lidenskap for fotball, vet at den lidenskapen koster, sier poeten Endre Ruset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3ca6c37b-0482-466f-88cc-9b78a5f1b49c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3ca6c37b-0482-466f-88cc-9b78a5f1b49c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:17</itunes:duration>
+      <pubDate>Tue, 05 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PBeK6ah2rUq0qiVZo7Z5nwBmmVNWBwQi4s-BExT6E4HA.jpg"/>
+    </item>
     <item>
       <title>Å møtes for siste gang - med Gunn Marit Nisja</title>
       <description><![CDATA[Vi må huske å leve mens vi gjør det, sier forfatter Gunn Marit Nisja]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:31</itunes:duration>
       <pubDate>Tue, 15 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2oRuEQoDkFvKAMZJtnOqqggP0rhGsmIp1oyToAHeYXFQ.jpg"/>
-    </item>
-    <item>
-      <title>Meningen med livet - med Geir Erik Berge</title>
-      <description><![CDATA[Meningen med livet er å se andre og bli sett. Det mener Geir Erik Berge, veterinær og radiodyrlege i NRK.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/21559dba-a1ec-4e9a-aa41-dacc11ae34e9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/21559dba-a1ec-4e9a-aa41-dacc11ae34e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:55</itunes:duration>
-      <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JBj6rC8lLpPLh5jbujIzMg-_dzNDxrTtAJbmFtdlVakA.jpg"/>
     </item>
   </channel>
 </rss>

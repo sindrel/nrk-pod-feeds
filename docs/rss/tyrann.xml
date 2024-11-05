@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Tyrann</title>
+    <title>De 5 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 05:33:08 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Oct 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 05 Nov 2024 05:33:01 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -45,6 +45,15 @@
       <enclosure url="https://podkast.nrk.no/fil/tyrann/36dddb32-e0dd-4684-a1fd-196a6a681007_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:55</itunes:duration>
       <pubDate>Tue, 29 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA.jpg"/>
+    </item>
+    <item>
+      <title>Saddam Hussein (5:5)</title>
+      <description><![CDATA[Saddam sitter fortapt og skitten i et hull i bakken. En gruppe amerikanske soldater i ferd med å kaste en håndgranat ned i hullet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/2fef0bdb-04e6-4893-8632-5ff21a2074d2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/2fef0bdb-04e6-4893-8632-5ff21a2074d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:01</itunes:duration>
+      <pubDate>Tue, 05 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA.jpg"/>
     </item>
   </channel>

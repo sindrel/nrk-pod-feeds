@@ -1,60 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Leseklubben</title>
+    <title>De 3 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 05:32:46 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Oct 2024 06:03:00 +0100</pubDate>
+    <lastBuildDate>Tue, 05 Nov 2024 05:32:28 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Nov 2024 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     <item>
-      <title>Del 1 av «Heroin chic» 1</title>
-      <description><![CDATA[Her kan du fram til 17. desember høre lydboka «Heroin chic», lest av forfatter Maria Kjos Fonn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/c8ac42db-2c73-4f69-987b-849840d3a762_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/c8ac42db-2c73-4f69-987b-849840d3a762_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:17</itunes:duration>
-      <pubDate>Wed, 23 Oct 2024 15:31:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KBpFTuqzDo3JKB9Ul_5hkQMH3wIByTEvjvL0NuXmSCqg.jpg"/>
+      <title>Henrik får frysninger av ny bok. (1:6)</title>
+      <description><![CDATA[Har du også egentlig lyst til å lese mer? Henrik Fladseth vil skru av Netflix og åpner Leseklubbens nye bok: «Heroin chic».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/75e69b59-e168-493d-8d20-9df2bb97bbd2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/75e69b59-e168-493d-8d20-9df2bb97bbd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:34</itunes:duration>
+      <pubDate>Tue, 22 Oct 2024 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ODtv3eR48wrotRzyAN94WgGRBo-JwH1PajgYh7qirZ1Q.jpg"/>
     </item>
     <item>
-      <title>Del 1 av «Heroin chic» 2</title>
-      <description><![CDATA[Her kan du fram til 17. desember høre lydboka «Heroin chic», lest av forfatter Maria Kjos Fonn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d501dca6-e553-4f11-b017-f1ee5a76b06d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d501dca6-e553-4f11-b017-f1ee5a76b06d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:01</itunes:duration>
-      <pubDate>Wed, 23 Oct 2024 15:32:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KBpFTuqzDo3JKB9Ul_5hkQMH3wIByTEvjvL0NuXmSCqg.jpg"/>
+      <title>For et språk! (2:6)</title>
+      <description><![CDATA[Første del av «Heroin chic» er lest og uhyggen brer seg i klubben. Men er en KI-bot bedre på sammendrag enn Kristoffer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/84bfac0e-ce8a-444a-9408-1f060479960b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/84bfac0e-ce8a-444a-9408-1f060479960b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:20</itunes:duration>
+      <pubDate>Tue, 29 Oct 2024 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ODtv3eR48wrotRzyAN94WgGRBo-JwH1PajgYh7qirZ1Q.jpg"/>
     </item>
     <item>
-      <title>Del 1 av «Heroin chic» 3</title>
-      <description><![CDATA[Her kan du fram til 17. desember høre lydboka «Heroin chic», lest av forfatter Maria Kjos Fonn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/db04c94a-6d7d-47f7-a287-9f9f5d1b98ac_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/db04c94a-6d7d-47f7-a287-9f9f5d1b98ac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:14</itunes:duration>
-      <pubDate>Wed, 23 Oct 2024 15:33:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KBpFTuqzDo3JKB9Ul_5hkQMH3wIByTEvjvL0NuXmSCqg.jpg"/>
-    </item>
-    <item>
-      <title>Del 2 av «Heroin chic» 4</title>
-      <description><![CDATA[Her kan du fram til 17. desember høre lydboka «Heroin chic», lest av forfatter Maria Kjos Fonn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/412f26b5-f2b2-4b76-bad7-98176c1a4f7a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/412f26b5-f2b2-4b76-bad7-98176c1a4f7a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:12</itunes:duration>
-      <pubDate>Tue, 29 Oct 2024 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KBpFTuqzDo3JKB9Ul_5hkQMH3wIByTEvjvL0NuXmSCqg.jpg"/>
-    </item>
-    <item>
-      <title>Del 2 av «Heroin chic» 5</title>
-      <description><![CDATA[Her kan du fram til 17. desember høre lydboka «Heroin chic», lest av forfatter Maria Kjos Fonn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/208209ff-1e0c-4e5e-af3f-e9b6aa846e5b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/208209ff-1e0c-4e5e-af3f-e9b6aa846e5b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:00</itunes:duration>
-      <pubDate>Tue, 29 Oct 2024 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KBpFTuqzDo3JKB9Ul_5hkQMH3wIByTEvjvL0NuXmSCqg.jpg"/>
+      <title>Sanglærer blir overgriper (3:6)</title>
+      <description><![CDATA[Rett etter 16-årsdagen blir Elise utsatt for overgrep, og hun vil ikke veie mer enn 40 kilo. Når hun møter Joakim, raser det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/0974fe6a-3b79-4cfc-9623-32f879d55418_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/0974fe6a-3b79-4cfc-9623-32f879d55418_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:20</itunes:duration>
+      <pubDate>Tue, 05 Nov 2024 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MEGJ5G3XvS4-i3cmhBUshgd62pBLHkEF-BLoZICqG8Yw.jpg"/>
     </item>
   </channel>
 </rss>
