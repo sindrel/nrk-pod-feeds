@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 05:32:26 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Nov 2024 05:32:19 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Min bestefars viktigste råd - med Masud Gharahkhani</title>
+      <description><![CDATA[Vi lever heldigvis i et fritt land, men den friheten bør vi aldri ta for gitt, sier Masud Gharahkhani.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d2a50902-38fc-4170-92dc-8099088f12b2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d2a50902-38fc-4170-92dc-8099088f12b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:17</itunes:duration>
+      <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LYGRiH-xCG8O6e6rTn3ECg9Mr4aP5dFyKaPrSyL-2xEw.jpg"/>
+    </item>
     <item>
       <title>Kampslutt - med Endre Ruset</title>
       <description><![CDATA[Alle med lidenskap for fotball, vet at den lidenskapen koster, sier poeten Endre Ruset.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:35</itunes:duration>
       <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yocQ3GR38SOVJEtULE2UdQf48T5qCKpQIizmaMdDxFSg.jpg"/>
-    </item>
-    <item>
-      <title>Den trygge sangen - med Maria Parr</title>
-      <description><![CDATA[Har du blitt sunget for på sengekanten som barn? Det har forfatter Maria Parr, og hun gjør det samme for barna sine.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/62d4848f-7bc5-42dc-8a58-c2b1d9d149d5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/62d4848f-7bc5-42dc-8a58-c2b1d9d149d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:31</itunes:duration>
-      <pubDate>Tue, 15 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2oRuEQoDkFvKAMZJtnOqqggP0rhGsmIp1oyToAHeYXFQ.jpg"/>
     </item>
   </channel>
 </rss>

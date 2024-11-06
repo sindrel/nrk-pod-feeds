@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 05:33:06 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Nov 2024 05:32:00 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/OD3v6WqJ1GtvBmx6BvV_-Q7T5Wi8xtzlVb0I9PLhWb9w.jpg"/>
+    <item>
+      <title>Niklas Baarli og Benjamin Silseth</title>
+      <description><![CDATA[Niklas brukte et P3-intervju til å sjekke opp Benjamin. Det skulle vise seg å funke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/95f60bf3-ce5b-4038-a67b-7070e5a9d54d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/95f60bf3-ce5b-4038-a67b-7070e5a9d54d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:53</itunes:duration>
+      <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u8YYgnCQZzEm8acQ6iBFIwSzGmScdDOazziPwJnPp6jw.jpg"/>
+    </item>
     <item>
       <title>Ingrid Vik Lysne og Andreas Feet</title>
       <description><![CDATA[Ingrid syntes at symesterskap-dommer Andreas var spennende og mystisk. Og takket være Jenny Skavlan, så ble det de to.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>37:20</itunes:duration>
       <pubDate>Wed, 03 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UayeXs5Hn_ck4wRkrFS98AW8sCaaNIKMtXjr2SkSpy8g.jpg"/>
-    </item>
-    <item>
-      <title>Rosell Utne Berge og Stig-André Berge</title>
-      <description><![CDATA[Stig-André møter Rosell i brytemiljøet da hun er 12 år og han er 19. Etter å ha vært treningskamerater i årevis, kysser de en dag på vektrommet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/f553499b-bff9-4b50-8fc0-d39983815ed8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/f553499b-bff9-4b50-8fc0-d39983815ed8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:25</itunes:duration>
-      <pubDate>Wed, 27 Mar 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WIqlWvPXGGIyuIWiigDDAQ8KM9etoRfNEGaVbWdxlPdA.jpg"/>
     </item>
   </channel>
 </rss>
