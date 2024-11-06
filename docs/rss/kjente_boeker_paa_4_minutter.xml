@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 09:30:40 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Oct 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Nov 2024 09:32:28 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Nov 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Den dagen Nils Vik døde" av Frode Grytten</title>
+      <description><![CDATA[Mennesker trenger mennesker]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/61645c58-45bf-4896-b73d-07ef824fc233_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/61645c58-45bf-4896-b73d-07ef824fc233_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:29</itunes:duration>
+      <pubDate>Wed, 06 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Gå aldri fra meg" av Kazuo Ishiguro</title>
       <description><![CDATA[Oppvekstskildringer bli aldri de samme igjen]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/453b1c1d-23a4-44da-a49f-cdadf4b4cc35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:08</itunes:duration>
       <pubDate>Wed, 04 Sep 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"Norske folkeeventyr" av Asbjørnsen og Moe</title>
-      <description><![CDATA[Troll er dumme, Askeladden lur og jenter er prinsesser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2d65e07e-8b2a-4480-9c80-afe640035457_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2d65e07e-8b2a-4480-9c80-afe640035457_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:30</itunes:duration>
-      <pubDate>Wed, 28 Aug 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
