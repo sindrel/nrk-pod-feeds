@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-11-07  
+- Updated podcast 'Tyrann' (`tyrann`)  
 ### 2024-11-04  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2024-10-23  
