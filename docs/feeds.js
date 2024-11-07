@@ -1390,7 +1390,7 @@ const feeds = [
   {
     "id": "tyrann",
     "title": "De 10 siste fra Tyrann",
-    "season": null,
+    "season": "LATEST_SEASON",
     "enabled": true
   },
   {
