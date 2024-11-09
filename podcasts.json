@@ -58,6 +58,12 @@
         "enabled": true
     },
     {
+        "id": "bakrommet",
+        "title": "De 10 siste fra Bakrommet",
+        "season": null,
+        "enabled": false
+    },
+    {
         "id": "baksnakk",
         "title": "De 10 siste fra Baksnakk",
         "season": null,
@@ -407,7 +413,7 @@
         "id": "hele_historien",
         "title": "De 10 siste fra Hele historien",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "historiske_kjendiser",
