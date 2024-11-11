@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 04 Nov 2024 05:33:02 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Nov 2024 05:33:23 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Psykiatri i Norge</title>
+      <description><![CDATA[Hvordan behandles de psykisk sykeste? Og hva skal til for å bli kjent utilregnelig? Med rettspsykiater Randi Rosenqvist.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/e74c8cd0-bf46-4130-a017-2a26fbb00144_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/e74c8cd0-bf46-4130-a017-2a26fbb00144_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:21:27</itunes:duration>
+      <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mYx73LUGFcXqTNTjq4mmYAUHHTrCMRyWHZ3NJgVKvH3A.jpg"/>
+    </item>
     <item>
       <title>Hvit nasjonalisme i USA</title>
       <description><![CDATA[Evan McLaren ble radikalisert, kalte seg fascist og hvit nasjonalist, og så snudde han og flyttet til Norge.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:00:35</itunes:duration>
       <pubDate>Mon, 02 Sep 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kCbmE2AquVK2Migrjwa5MgftZ4s00rcjtYm7PJlaXEgA.jpg"/>
-    </item>
-    <item>
-      <title>Storbritannia</title>
-      <description><![CDATA[Hva skjedde med Storbritannia? Med statsviter Øivind Bratberg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/96e50bcb-c879-467b-97b1-f35669c035c7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/96e50bcb-c879-467b-97b1-f35669c035c7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:10:21</itunes:duration>
-      <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LYaF7ovl5zlBgKPXZzuIIQ6lRq46jjgaGgGKZdy_wZPw.jpg"/>
     </item>
   </channel>
 </rss>
