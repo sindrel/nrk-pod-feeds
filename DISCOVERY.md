@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-11-11  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2024-11-09  
 - Added podcast 'Bakrommet' (`bakrommet`)  
 - Updated podcast 'Hele historien' (`hele_historien`)  
