@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Leseklubben</title>
+    <title>De 4 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 05:32:28 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Nov 2024 06:03:00 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Nov 2024 05:32:03 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Nov 2024 06:04:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     <item>
@@ -30,12 +30,21 @@
       <itunes:image href="https://gfx.nrk.no/ODtv3eR48wrotRzyAN94WgGRBo-JwH1PajgYh7qirZ1Q.jpg"/>
     </item>
     <item>
-      <title>Sanglærer blir overgriper (3:6)</title>
+      <title>Har sanglærer Philip skumle hensikter? (3:6)</title>
       <description><![CDATA[Rett etter 16-årsdagen blir Elise utsatt for overgrep, og hun vil ikke veie mer enn 40 kilo. Når hun møter Joakim, raser det.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/0974fe6a-3b79-4cfc-9623-32f879d55418_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/0974fe6a-3b79-4cfc-9623-32f879d55418_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:20</itunes:duration>
       <pubDate>Tue, 05 Nov 2024 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MEGJ5G3XvS4-i3cmhBUshgd62pBLHkEF-BLoZICqG8Yw.jpg"/>
+    </item>
+    <item>
+      <title>Farlig begjær (4:6)</title>
+      <description><![CDATA[Nå som dop og kjærlighet har festet kvelertak på Elise, kommer psykolog Sissel Gran på besøk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/256ed0a6-8ef5-4323-a8f2-82c43f42c84a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/256ed0a6-8ef5-4323-a8f2-82c43f42c84a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:11</itunes:duration>
+      <pubDate>Tue, 12 Nov 2024 06:04:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MEGJ5G3XvS4-i3cmhBUshgd62pBLHkEF-BLoZICqG8Yw.jpg"/>
     </item>
   </channel>

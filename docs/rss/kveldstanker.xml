@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 05:32:51 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Nov 2024 05:32:01 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Ein motbakke - med Maria Parr</title>
+      <description><![CDATA[Forfattar Maria Parr seier at ho bur på toppen av verdas lengste bakke. Det byr på både gleder og frustrasjonar:]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d7ff3257-7775-4eb2-b993-29a6ec4d165c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d7ff3257-7775-4eb2-b993-29a6ec4d165c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:30</itunes:duration>
+      <pubDate>Tue, 12 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2oRuEQoDkFvKAMZJtnOqqggP0rhGsmIp1oyToAHeYXFQ.jpg"/>
+    </item>
     <item>
       <title>Motstand - med Geir Erik Berge</title>
       <description><![CDATA[Når veterinæren Geir Erik Berge skal slappe av, går han gjerne tur i Nordmarka og der ute i skogen retter han blikket mot trærne.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:40</itunes:duration>
       <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3rOoaGbFDeVvvZwiU1ciVgZVs11SIS6y4AC_BegwmlaA.jpg"/>
-    </item>
-    <item>
-      <title>Genanse og verdighet - med Gunn Marit Nisja</title>
-      <description><![CDATA[Syns du det er skummelt å snakke i forsamlinger? Fortvil ikke, det er håp for alle, sier forfatter Gunn Marit Nisja]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/8009d06e-fbb9-4821-aa16-6b79652c9a92_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/8009d06e-fbb9-4821-aa16-6b79652c9a92_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:50</itunes:duration>
-      <pubDate>Tue, 22 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>
