@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 14:32:07 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Nov 2024 14:50:00 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Nov 2024 12:52:10 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Nov 2024 13:40:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Eva Weel Skram</title>
+      <description><![CDATA[-Jeg har kanalisert både det som er bra og det som er dårlig i sangene mine. Musikken betydde alt, sier Eva.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/861f4152-7770-4fb1-a5ea-58f19a53fb24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/861f4152-7770-4fb1-a5ea-58f19a53fb24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:06</itunes:duration>
+      <pubDate>Tue, 12 Nov 2024 13:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HVk_sPGj-sTINYXCcfbLhAeUvx8CMGWLIxQ2psbKCUtw.jpg"/>
+    </item>
     <item>
       <title>Kjetil  Krogstad</title>
       <description><![CDATA[Han har blitt verdenskjent for sine energiske og humoristiske dansevideoer på sosiale medier. Nå er de vist på russisk tv og amerikansk talkshow.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Wed, 23 Oct 2024 14:03:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/u7OnsBsc7o6yXgMkeco-VQ4ZrFTMxAPpUMqZ0Aa9dKsA.jpg"/>
-    </item>
-    <item>
-      <title>AK Dolven</title>
-      <description><![CDATA[-Jeg drømte om at foreldrene mine skulle forstå meg, sier samtidskunstneren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/39e8ec72-50ce-4031-ab8b-e4ce77c0bf59_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/39e8ec72-50ce-4031-ab8b-e4ce77c0bf59_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:09</itunes:duration>
-      <pubDate>Tue, 22 Oct 2024 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8-28f7SQa-2--y676T1j3g9SL5YBO02Z9vyq_ONWPbiQ.jpg"/>
     </item>
   </channel>
 </rss>
