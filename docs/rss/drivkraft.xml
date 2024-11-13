@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 12:52:10 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Nov 2024 13:40:00 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Nov 2024 12:51:52 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Nov 2024 13:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Andrev Walden</title>
+      <description><![CDATA[- Jeg er vokst opp med hippier, tyver og kunstnere, sier  den svenske forfatteren  som har gitt ut bestselgeren "Jævla menn"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6bcb4f1a-b5e0-4903-a26c-57f294572926_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6bcb4f1a-b5e0-4903-a26c-57f294572926_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Wed, 13 Nov 2024 13:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YxqrNWltLTFk8HCAWPfukAjpZ1Fla2rIccx2qpIHbZhQ.jpg"/>
+    </item>
     <item>
       <title>Eva Weel Skram</title>
       <description><![CDATA[-Jeg har kanalisert både det som er bra og det som er dårlig i sangene mine. Musikken betydde alt, sier Eva.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Thu, 24 Oct 2024 15:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7WEI0KE6gPPoWjhQpuJKOguCALKO48gdLQuAiUmxQFSQ.jpg"/>
-    </item>
-    <item>
-      <title>Benjamin Ingrosso</title>
-      <description><![CDATA[- Jeg har en djevel på skuldra som forteller meg at jeg er dårligst av alle, sier den svenske popstjernen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/406a0ead-1643-4936-a5f0-631691135fc1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/406a0ead-1643-4936-a5f0-631691135fc1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Wed, 23 Oct 2024 14:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/u7OnsBsc7o6yXgMkeco-VQ4ZrFTMxAPpUMqZ0Aa9dKsA.jpg"/>
     </item>
   </channel>
 </rss>
