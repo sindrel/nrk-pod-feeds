@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-11-13  
+- Updated podcast 'Burde vært pensum' (`burde_vaert_pensum`)  
 ### 2024-11-11  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2024-11-09  
