@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 09 Nov 2024 05:30:21 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 16 Nov 2024 11:26:07 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    <item>
+      <title>Vredens druer</title>
+      <description><![CDATA[Ordskiftet blir preget av stemningen etter USA-valget. Det har blitt trendy å drikke mindre. Og kan kulturens kraft redde det menneskelige i oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/71625b16-5f86-4e65-bd89-88807907456f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/71625b16-5f86-4e65-bd89-88807907456f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 16 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
     <item>
       <title>Trump-moments</title>
       <description><![CDATA[Valget i USA setter preg på sakene i ukens terapitime, fra ny dansk maktutredning, via alternativ jul, til krenket tannlegestudent i Bergen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 14 Sep 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NE__3hPIp9o7Ixf1GrmnEwdp8495nsjM1LALHajiwuQQ.jpg"/>
-    </item>
-    <item>
-      <title>Ytringsfrihetens dilemma</title>
-      <description><![CDATA[Skal alle ha lov til å ytre seg? Er gamle de største skjerm-junkiene? Og utenriksminister Lars Løkke Rasmussen i ny skandale – overlever han denne?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ed218043-5b68-4437-b6d8-3b2ab1143ca7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ed218043-5b68-4437-b6d8-3b2ab1143ca7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 07 Sep 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
     </item>
   </channel>
 </rss>
