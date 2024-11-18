@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 05:32:40 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2024 05:33:35 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Mayoo Indiran med visdomsordene</title>
+      <description><![CDATA[Martin blir satt ut av Mayoos livsvisdom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/c00f0d94-e981-41dd-ba6d-4d13c9e027d4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/c00f0d94-e981-41dd-ba6d-4d13c9e027d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:11</itunes:duration>
+      <pubDate>Mon, 18 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i6NIH3SqSHOS1Vp5tmaJngN4y5e5w0wUDV94P0cAaRng.jpg"/>
+    </item>
     <item>
       <title>Tom Styve med kniv mot ryggen</title>
       <description><![CDATA[Ikke la verandadøra stå åpen og pass på kjøkkenknivene deres, folkens!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>45:51</itunes:duration>
       <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gXE8WxTWYk2L8zck3ULkJgqjWr-yYJdKAVxtUB6Inqaw.jpg"/>
-    </item>
-    <item>
-      <title>Mari Maurstad med hagle</title>
-      <description><![CDATA[Ganske redd, men klar for kamp!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/af0a7d3a-4bfc-401b-8b02-615e4b99ffcd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/af0a7d3a-4bfc-401b-8b02-615e4b99ffcd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:05</itunes:duration>
-      <pubDate>Mon, 09 Sep 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cQphYMHPIc-aPuZOQxQhUgRH_WNgX6J-ZexRkZCrC8fA.jpg"/>
     </item>
   </channel>
 </rss>
