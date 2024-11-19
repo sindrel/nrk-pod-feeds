@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 14:32:11 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Nov 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Nov 2024 12:54:54 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Nov 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"/>
+    <item>
+      <title>Mitt indre kompass: Tor Ivar Hagen</title>
+      <description><![CDATA[Skodespelar Tor Ivar Hagen ba til Gud om ikkje å vere homofil da han var tenåring.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/afeb1ee8-cc57-4f33-bbaa-7cb61fe52839_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/afeb1ee8-cc57-4f33-bbaa-7cb61fe52839_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:24</itunes:duration>
+      <pubDate>Tue, 19 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aL4MS2esgjxPt1e719tmewJbxslEAJ2Yz2noUsJ72zYA.jpg"/>
+    </item>
     <item>
       <title>Mitt indre kompass: Lise Vermelid</title>
       <description><![CDATA[Ho er nesten skamfull fordi skilsmissen har vært så bra. No deler pengesnakk-Lise ein skilsmisseleilegheit med eks-mannen og finn ut kven ho er når ho ikkje er mamma.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>24:41</itunes:duration>
       <pubDate>Thu, 03 Oct 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Loc1IMGWOUO7Q2jBDnVUqgMlYK9wrPPFqKFZSQP18i2g.jpg"/>
-    </item>
-    <item>
-      <title>Mitt indre kompass: Randi Rosenqvist</title>
-      <description><![CDATA[- Kven er eg viss krigen kjem? Dette spørsmålet har plaga psykiater Randi Rosenqvist sidan ho var lita jente.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/e92c4c79-f9de-4663-a376-f4161265b102_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kompass/e92c4c79-f9de-4663-a376-f4161265b102_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:46</itunes:duration>
-      <pubDate>Tue, 01 Oct 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3UvfpmiaIcFsSvnJea962wjpq3QiumQtNlhXKnQ3kG3Q.jpg"/>
     </item>
   </channel>
 </rss>
