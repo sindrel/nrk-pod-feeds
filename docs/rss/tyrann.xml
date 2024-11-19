@@ -1,48 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Tyrann</title>
+    <title>De 1 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 05:32:30 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Nov 2024 06:10:00 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Nov 2024 05:33:20 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Pol Pot (3:5)</title>
-      <description><![CDATA[Pol Pot tømmer hovedstaden for folk, og avskaffer penger. Alle skal jobbe på rismarkene, barn fødes til Røde Khmer - soldater.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/f6a2874e-2547-43a3-ac2b-d59636153f16_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/f6a2874e-2547-43a3-ac2b-d59636153f16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:13</itunes:duration>
-      <pubDate>Tue, 12 Nov 2024 06:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sMu2d2YYk1odBMshimtJcAMrhvqClJcrSZc-_wXvQnQQ.jpg"/>
-    </item>
-    <item>
-      <title>Pol Pot (2:5)</title>
-      <description><![CDATA[Om dagen er Pol Pot en beundret gymnaslærer. Om natten en fryktinngytende revolusjonær som planlegger en blodig vei til makten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/1f6b8969-0774-41d4-8d04-54055c1d1f3d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/1f6b8969-0774-41d4-8d04-54055c1d1f3d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:41</itunes:duration>
-      <pubDate>Tue, 12 Nov 2024 06:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sMu2d2YYk1odBMshimtJcAMrhvqClJcrSZc-_wXvQnQQ.jpg"/>
-    </item>
-    <item>
-      <title>Pol Pot (1:5)</title>
-      <description><![CDATA[I Pol Pots Kambodsja er nesten alt forbudt, bortsett fra å arbeide på rismarkene. Til og med det å ha en mamma blir ulovlig.
-
-Kilder: 
-David P. Chandler (1992): Brother number one. 
-David P. Chandler (1999): Voices from S-21. 
-Henri Locard (2004): Pol Pots little red book. 
-Ben Kiernan (2004): How Pol Pot came to power. 
-Martin Short (2004): Pol Pot.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/a925c6e6-32fe-4ae5-9315-8565578a0d1f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/a925c6e6-32fe-4ae5-9315-8565578a0d1f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:26</itunes:duration>
-      <pubDate>Tue, 12 Nov 2024 06:00:00 +0100</pubDate>
+      <title>Pol Pot (4:5)</title>
+      <description><![CDATA[Pol Pot er i en tåke av frykt og paranoia. Det setter i gang en kjede av bestialske voldshandlinger. *Trigger Warning* ;  beskrivelse av vold og tortur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/36035507-b073-47f8-a025-62fb3bcb2537_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/36035507-b073-47f8-a025-62fb3bcb2537_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:31</itunes:duration>
+      <pubDate>Tue, 19 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/sMu2d2YYk1odBMshimtJcAMrhvqClJcrSZc-_wXvQnQQ.jpg"/>
     </item>
   </channel>
