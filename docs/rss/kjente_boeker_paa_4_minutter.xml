@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 13 Nov 2024 09:30:17 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Nov 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Nov 2024 09:31:15 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Nov 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Beowulf" (ukjent forfatter)</title>
+      <description><![CDATA[Helt dreper monster og drage dreper helt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/75a5c8a9-6e9b-489c-9a75-be7b474e9ac1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/75a5c8a9-6e9b-489c-9a75-be7b474e9ac1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:29</itunes:duration>
+      <pubDate>Wed, 20 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Piranesi" av Susanna Clarke</title>
       <description><![CDATA[Ung mann går seg skikkelig vill i sitt eget hode.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c19948d9-2e74-4542-abd3-74973c606997_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:30</itunes:duration>
       <pubDate>Wed, 18 Sep 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"Døden på  Oslo S" av Ingvar Ambjørnsen</title>
-      <description><![CDATA[Unge detektiver og sosiale utfordringer på Torshov]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c4d2f112-47d7-4bd3-ba50-b43743566420_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c4d2f112-47d7-4bd3-ba50-b43743566420_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:22</itunes:duration>
-      <pubDate>Wed, 11 Sep 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
