@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 07:30:31 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Nov 2024 08:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Nov 2024 07:29:44 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Nov 2024 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Har Listhaug forandret seg?</title>
+      <description><![CDATA[Fremskrittspartiet er Norges største parti på NRKs måling.
+
+Hva skjer på borgerlig side da?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/cd33a190-3404-4f29-9e7d-74e946bcc1ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/cd33a190-3404-4f29-9e7d-74e946bcc1ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:10</itunes:duration>
+      <pubDate>Wed, 20 Nov 2024 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bEyG5_yht9WrESVjNuWI-QRG3DFx4EA7d5SBQFIFPYBA.jpg"/>
+    </item>
     <item>
       <title>Nettleie dyrere enn strøm</title>
       <description><![CDATA[Nettleiesjokk, sier Rødt og vil kutte utbytte fra nettleieselskaper samt droppe ny Danmarkskabel.
@@ -98,15 +109,6 @@ Vil dere droppe og hjelpe unge med å dusje, eller komme seg opp om morgenen, sp
       <itunes:duration>15:05</itunes:duration>
       <pubDate>Thu, 07 Nov 2024 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/sw3LKArg88Fu8UHYVCduTQqqEOxd4AykxHGaJBAreH_Q.jpg"/>
-    </item>
-    <item>
-      <title>Presidentvalget</title>
-      <description><![CDATA[Må Europa sørge for egen sikkerhet i fremtiden, uavhengig av om det blir Harris eller Trump?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/af40d9c9-b3bf-4251-bf9c-cb15d2779ee8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/af40d9c9-b3bf-4251-bf9c-cb15d2779ee8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:00</itunes:duration>
-      <pubDate>Tue, 05 Nov 2024 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MC1wh2scoLsUJEYaCCXriwz-bKb06k3DOhHyIdkUasrg.jpg"/>
     </item>
   </channel>
 </rss>
