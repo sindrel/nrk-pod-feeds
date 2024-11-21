@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-11-21  
+- Podcast 'Meininga med livet' is considered obsolete and will be ignored in the future (`meininga_med_livet`)  
 ### 2024-11-15  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2024-11-13  
