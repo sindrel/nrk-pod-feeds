@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 05:31:31 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Nov 2024 05:33:29 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Politiker (og husgjest!) Mímir Kristjánsson</title>
+      <description><![CDATA[«Jeg må tilstå noe..» Erlend forteller Mímir Kristjánsson om følelsene sine etter USA-valget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/1490c7d3-a130-48e6-85aa-01e69a8d8ce5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/1490c7d3-a130-48e6-85aa-01e69a8d8ce5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:52</itunes:duration>
+      <pubDate>Thu, 21 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HwHL26teyHQwyNY77u7L9g5ZrwreaUSBlxmI4qpASkCw.jpg"/>
+    </item>
     <item>
       <title>Isalill Kolpus fra Nytt på nytt</title>
       <description><![CDATA[«Hvorfor er russiske barn så sjuuuukt flinke til å tegne?» Isalill er fra grensebyen Kirkenes og har har sett dem i aksjon.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:23:23</itunes:duration>
       <pubDate>Thu, 20 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/otMTRmHwh9yMFn85dI0AygujeXFEBL19Ix3mFWoAhpSQ.jpg"/>
-    </item>
-    <item>
-      <title>Komiker Henrik Fladseth</title>
-      <description><![CDATA[«Du var for feig!» Komiker Henrik Fladseth mener Erlend burde fortsatt med stand-up.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/7251ae07-6d2a-495f-90cf-12fce02fb2ff_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/7251ae07-6d2a-495f-90cf-12fce02fb2ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:25:21</itunes:duration>
-      <pubDate>Thu, 06 Jun 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MLL2BOe57bibwDeIfxpOyQCgWfEVyOeSq1QfPSM_Tauw.jpg"/>
     </item>
   </channel>
 </rss>
