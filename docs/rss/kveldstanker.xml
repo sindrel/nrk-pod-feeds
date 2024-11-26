@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Nov 2024 05:33:19 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 26 Nov 2024 05:33:32 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Et tilfeldig møte - med Jathushiga Bridget Rajah</title>
+      <description><![CDATA[Et tilfeldig møte kan bety mye. Det har forfatter Jathushiga Bridget Rajah fått erfare.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/dba1e1bb-5cfc-4d56-8f53-7f773b303657_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/dba1e1bb-5cfc-4d56-8f53-7f773b303657_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:43</itunes:duration>
+      <pubDate>Tue, 26 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J5_sas0kfMJGopaKAQ4S8AAfHmUuup78YXrw9urC_qjA.jpg"/>
+    </item>
     <item>
       <title>Venner - med Jon Niklas Rønning</title>
       <description><![CDATA[Gode vennskap varer evig, tror Jon Niklas Rønning]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>04:17</itunes:duration>
       <pubDate>Tue, 05 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/sJ9KzzgFSIBlRR2TUB8FpAX-geH2jPcj5UB-1sbaWpvA.jpg"/>
-    </item>
-    <item>
-      <title>Å møtes for siste gang - med Gunn Marit Nisja</title>
-      <description><![CDATA[Vi må huske å leve mens vi gjør det, sier forfatter Gunn Marit Nisja]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a2b0e776-6845-4e7d-8866-44cf6e968634_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a2b0e776-6845-4e7d-8866-44cf6e968634_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:30</itunes:duration>
-      <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>
