@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 05:33:32 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Nov 2024 05:33:24 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Et hellig tre - med Ragnhild Folkestad</title>
+      <description><![CDATA[Hva er det med trær, undrer filosof Ragnhild Folkestad.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/ee85ba51-2c7a-409c-b316-95cfe3a329e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ee85ba51-2c7a-409c-b316-95cfe3a329e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:21</itunes:duration>
+      <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xkcLNcgLwZ-OS91yoe8wJQmBeyptuZCZHntMwM1o8-ug.jpg"/>
+    </item>
     <item>
       <title>Et tilfeldig møte - med Jathushiga Bridget Rajah</title>
       <description><![CDATA[Et tilfeldig møte kan bety mye. Det har forfatter Jathushiga Bridget Rajah fått erfare.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:17</itunes:duration>
       <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/LYGRiH-xCG8O6e6rTn3ECg9Mr4aP5dFyKaPrSyL-2xEw.jpg"/>
-    </item>
-    <item>
-      <title>Kampslutt - med Endre Ruset</title>
-      <description><![CDATA[Alle med lidenskap for fotball, vet at den lidenskapen koster, sier poeten Endre Ruset.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3ca6c37b-0482-466f-88cc-9b78a5f1b49c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3ca6c37b-0482-466f-88cc-9b78a5f1b49c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:17</itunes:duration>
-      <pubDate>Tue, 05 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sJ9KzzgFSIBlRR2TUB8FpAX-geH2jPcj5UB-1sbaWpvA.jpg"/>
     </item>
   </channel>
 </rss>
