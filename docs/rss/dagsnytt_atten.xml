@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 19:25:35 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Nov 2024 19:30:00 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Nov 2024 18:40:11 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Nov 2024 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Høyre la fram sitt alternative budsjett</title>
+      <description><![CDATA[Høyre mener de gjør livet lettere for både rike og fattige med budsjettet, men møter motstand fra Arbeiderpartiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2d2b7384-924e-4596-b169-5f7aa88fb7c6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2d2b7384-924e-4596-b169-5f7aa88fb7c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Wed, 27 Nov 2024 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Uc69VBSXbSLfzkDkeRay0QRIX0tLihodZV1hiUzGu3ag.jpg"/>
+    </item>
     <item>
       <title>Ukraina-støtten økes</title>
       <description><![CDATA[Regjeringen foreslår å doble støtten til Ukraina, til 30 milliarder kroner. Opposisjonen vil øke enda mer.]]></description>
@@ -93,15 +102,6 @@ Høyre lover fortsatt å fjerne forbudet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 14 Nov 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/bcAoDRlwuvizGFHWwGUw3ArLPPvtQ2xl7FrSvZ1DUdDw.jpg"/>
-    </item>
-    <item>
-      <title>Trump besøker Biden i Det hvite hus</title>
-      <description><![CDATA[Samtidig begynner påtroppende president Trump sin administrasjon å ta form.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6fc81572-3678-4942-aa96-9846bb3cbc96_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6fc81572-3678-4942-aa96-9846bb3cbc96_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 13 Nov 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7fhc5auaRqMyzVO8q3xUAghVPRdRVzgSxbF8VlKSpduw.jpg"/>
     </item>
   </channel>
 </rss>
