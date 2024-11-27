@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 09:32:45 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Nov 2024 10:13:00 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Nov 2024 10:37:51 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Nov 2024 10:34:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw.jpg"/>
+    <item>
+      <title>Hansnes skole</title>
+      <description><![CDATA[Haakon Schjølberg, Leah Thomassen og Leo Jensen representerte 10. klasse ved Hansnes skole i Karlsøy kommune i Klassequizen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/c42ec3d8-1584-4788-94cf-95fdd96ddba0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/c42ec3d8-1584-4788-94cf-95fdd96ddba0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:25</itunes:duration>
+      <pubDate>Wed, 27 Nov 2024 10:34:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b2kSnDgVFSFnFi8z-pF9FA1oSfGFuUfNx6SfNfT3CPTA.jpg"/>
+    </item>
     <item>
       <title>Ramsund skole</title>
       <description><![CDATA[Pia Berger, Lydia Linnea Skaanevik og Nichlas Andre Movik representerer Ramsund skole i Troms fylke i Klassequizen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>10:01</itunes:duration>
       <pubDate>Thu, 07 Nov 2024 13:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yL0DfwJVrfFcsgtKSbqt9wqWuRknqDwYxvC8vVPf3oAg.jpg"/>
-    </item>
-    <item>
-      <title>Trondjord skole</title>
-      <description><![CDATA[Det er elevene Sander Janòs Koppangen Bråvang, Kristine Stenersen Helgesen og Sander Hansen som representerer 10.klasse på Trondjord skole utenfor Tromsø.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/ad0e00c2-2813-4e1f-bc2f-56348d5f17ef_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/ad0e00c2-2813-4e1f-bc2f-56348d5f17ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:50</itunes:duration>
-      <pubDate>Mon, 04 Nov 2024 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePOVnZaxhELzXHglkh-NTgR8eM4uIhF8ErCG2oDUpQGg.jpg"/>
     </item>
   </channel>
 </rss>
