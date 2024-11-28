@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 11:26:45 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Nov 2024 12:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 28 Nov 2024 11:27:04 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Nov 2024 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Edvard Hoem</title>
+      <description><![CDATA[Som ung mann ville han bare vekk fra gården. Ironisk nok var det familiens egne historier som ble forfatterens den største suksess.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5fea8fb7-aae8-4657-b462-1f9ee798e9cd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5fea8fb7-aae8-4657-b462-1f9ee798e9cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:48</itunes:duration>
+      <pubDate>Thu, 28 Nov 2024 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZUqONM4otxhd9cGp0-Vp0AOayVEpO9fL1x089dmItVLg.jpg"/>
+    </item>
     <item>
       <title>Tara Lina Shahin</title>
       <description><![CDATA[– Jeg fråtset i bacon, måtte lære meg å drikke øl og endte nesten i Moskva i fylla. Programlederen skulle gjerne gjenopplevd tiden alene i Oslo.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:04</itunes:duration>
       <pubDate>Mon, 11 Nov 2024 14:50:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/E8CkdlgiRf9Id3hOlFBZhwy6iq2VuMCbtX1OjnjD4xjQ.jpg"/>
-    </item>
-    <item>
-      <title>Gyda Oddekalv</title>
-      <description><![CDATA[- Min fars død lærte meg kunsten å leve sier Gyda Oddekalv, lederen i det nystartede Generasjonspartiet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b81ac70a-3f4d-414f-824a-8aa642740e49_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b81ac70a-3f4d-414f-824a-8aa642740e49_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:43</itunes:duration>
-      <pubDate>Thu, 07 Nov 2024 14:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ASjaiSuLjiHVZHgGfuso6gWXXRnkC9xTi8ZIivP8wxIg.jpg"/>
     </item>
   </channel>
 </rss>
