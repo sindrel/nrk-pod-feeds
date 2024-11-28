@@ -3,9 +3,11 @@ name: discover-podcast-feeds
 on:
   workflow_dispatch:
   schedule:
-  # Workaround to compensate for daylight savings
+   # Workaround to compensate for daylight savings
    - cron: '0 6 * 4-10 *' # April through October
    - cron: '0 7 * 11,12,1,2,3 *' # November through March
+   # Nightly run to pick up missed updates and avoid delays caused by caching
+   - cron: '0 1 * * *'
 
 jobs:
   update-feeds:
