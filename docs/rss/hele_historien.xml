@@ -1,42 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 5 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 04:33:43 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Oct 2024 06:01:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 Nov 2024 06:40:58 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Nov 2024 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer: Hagledrapene</title>
-      <description><![CDATA[August 1988: Gjemt i skogen bak en skytebane på Sørlandet ligger en mann med hagle. Folk på banen aner fred og ingen fare – men så skyter han. Kommer i NRK Radio 10.10.24.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/a42335ad-f7f7-4881-8bf8-c4702ba24492_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/a42335ad-f7f7-4881-8bf8-c4702ba24492_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30</itunes:duration>
-      <pubDate>Wed, 09 Oct 2024 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ca_imKC4uORyfQjjtz5nRgsMS8PXOMHxmguwYf_dy4eA.jpg"/>
+      <title>Kommer: Rinnan – den onde naziagenten</title>
+      <description><![CDATA[Liten, rappkjefta, sjarmerende – og fanatisk. Nazisten Henry Rinnan fikk hundrevis av nordmenn torturert og drept under andre verdenskrig. I NRK Radio fra 28.11.24.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/e2f89386-8340-429e-a23a-c7c9e3a5dc82_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/e2f89386-8340-429e-a23a-c7c9e3a5dc82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:37</itunes:duration>
+      <pubDate>Wed, 27 Nov 2024 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg.jpg"/>
     </item>
     <item>
-      <title>Hagledrapene (1:2)</title>
-      <description><![CDATA[Uten forvarsel skyter en mann mot folk på en idrettsbane. To faller livløse til bakken, mens de andre flykter for livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/7d5f7a08-9919-431b-9e13-6f4278be915f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/7d5f7a08-9919-431b-9e13-6f4278be915f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:51</itunes:duration>
-      <pubDate>Thu, 10 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ca_imKC4uORyfQjjtz5nRgsMS8PXOMHxmguwYf_dy4eA.jpg"/>
+      <title>Svikeren (1:4)</title>
+      <description><![CDATA[Rinnan er ikke vond å be når nazistene vil verve ham. Snart viser det seg at han har talent for å være iskald og brutal.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/e51a3c6b-8611-4d3c-839e-d79c70965c16_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/e51a3c6b-8611-4d3c-839e-d79c70965c16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:04</itunes:duration>
+      <pubDate>Thu, 28 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg.jpg"/>
     </item>
     <item>
-      <title>Hagledrapene (2:2)</title>
-      <description><![CDATA[Fire mennesker ligger livløse på bakken. Politiet jakter på gjerningsmannen som kjører rundt i området med våpen i bilen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/53e0c153-d43a-48f3-8e6a-259b62ac076d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/53e0c153-d43a-48f3-8e6a-259b62ac076d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:05</itunes:duration>
-      <pubDate>Thu, 10 Oct 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ca_imKC4uORyfQjjtz5nRgsMS8PXOMHxmguwYf_dy4eA.jpg"/>
+      <title>Dobbeltspillet (2:4)</title>
+      <description><![CDATA[Rinnan infiltrerer motstandsbevegelsen og tyster til nazistene. Hundrevis av motstandsfolk blir torturert og drept.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/2e647c26-1ed1-47aa-a960-f25d533a1378_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/2e647c26-1ed1-47aa-a960-f25d533a1378_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:38</itunes:duration>
+      <pubDate>Thu, 28 Nov 2024 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg.jpg"/>
+    </item>
+    <item>
+      <title>Rinnanbanden (3:4)</title>
+      <description><![CDATA[I hovedkvarteret Bandeklosteret blir norske motstandsfolk torturert. Rinnan deltar aktivt i mishandlingen, og viser ingen nåde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/6b46d841-c501-4552-ab8b-8deaab90c6dc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/6b46d841-c501-4552-ab8b-8deaab90c6dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:01</itunes:duration>
+      <pubDate>Thu, 28 Nov 2024 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg.jpg"/>
+    </item>
+    <item>
+      <title>Dødsdommen (4:4)</title>
+      <description><![CDATA[Rinnan flykter til fjells når nazistene taper krigen, men innhentes av hevnlystne nordmenn. Snart står han tiltalt for landssvik.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/16a7f70f-5cca-4c5f-a6bc-ed5105f58f5a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/16a7f70f-5cca-4c5f-a6bc-ed5105f58f5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:00</itunes:duration>
+      <pubDate>Thu, 28 Nov 2024 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LRO5nNUSGDCw9CWb_6p-Uwn282iAPntkHq-ZqfUTvobg.jpg"/>
     </item>
   </channel>
 </rss>
