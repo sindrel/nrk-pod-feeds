@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-11-29  
+- Updated podcast 'Abels tårn' (`abels_taarn`)  
 ### 2024-11-26  
 - Updated podcast 'Julestemning med Live og Ronny' (`julestemning`)  
 ### 2024-11-21  
