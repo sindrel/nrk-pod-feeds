@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 05:32:52 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 29 Nov 2024 05:33:24 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Nov 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Dancing the conga: Spill musikk!</title>
+      <description><![CDATA[Indiebandet Dancing the conga er på plass i dag. Det blir preik om indirock, da noen ropte "spill musikk" på konsert og litt psykologi!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/51c5dae6-8cf4-4148-af7e-7d30a7ca9c43_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/51c5dae6-8cf4-4148-af7e-7d30a7ca9c43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:43</itunes:duration>
+      <pubDate>Fri, 29 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7E1pVi1EKMoy2xIPK7c-lgjpFu8wMYRNuB02H4yyaIeg.jpg"/>
+    </item>
     <item>
       <title>Fotovergang, bro code og rå potet</title>
       <description><![CDATA[Lars har blitt truet av drosjesjåfør. Martin har plutselig fått en vanlig søndag. Sammen diskuterer de om rå grønnsaker er best.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>54:58</itunes:duration>
       <pubDate>Tue, 29 Oct 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
-    </item>
-    <item>
-      <title>Ine Marie Wilmann: Ironisk filming og dyne fra taket.</title>
-      <description><![CDATA[Skuespiller Ine Marie Wilmann er dagens gjest. Det blir prat om da hun var på prøvefilming med Lars og da det falt en dyne fra taket.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/0fa2e945-9c3b-4bd6-b3f6-9732f8da1ffb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/0fa2e945-9c3b-4bd6-b3f6-9732f8da1ffb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:41</itunes:duration>
-      <pubDate>Fri, 25 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y9OdqEBXYeuQxjZffOY5ggkvafindhNwjUdShnQG3BHQ.jpg"/>
     </item>
   </channel>
 </rss>
