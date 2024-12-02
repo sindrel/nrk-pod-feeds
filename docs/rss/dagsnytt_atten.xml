@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 29 Nov 2024 18:38:11 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Nov 2024 19:25:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2024 18:41:47 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2024 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Uro i Arbeiderpartiet</title>
+      <description><![CDATA[Hvordan blir samarbeidet fremover, etter helgens nominasjonsmøter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/aa235b5f-dc80-45ce-a260-f863d2570135_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aa235b5f-dc80-45ce-a260-f863d2570135_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 02 Dec 2024 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NsFDIwCA9xf7_9yolBjYyQo2MX2KoI0XZdFec9j1cCKA.jpg"/>
+    </item>
     <item>
       <title>Vindkraft avgjørende for kraftforsyningen</title>
       <description><![CDATA[En ny rapport viser at vindkraft er helt avgjørende for Norges energiforsyning. Det avviser Rødt.  ]]></description>
@@ -92,15 +101,6 @@ Høyre lover fortsatt å fjerne forbudet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 19 Nov 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WB3im87Ub8T5DcSqGIqxQcllXyGEcjtAm2g673ztwgg.jpg"/>
-    </item>
-    <item>
-      <title>Ukraina får bruke amerikanske raketter i Russland</title>
-      <description><![CDATA[- Putin kommer ikke til å gi seg, mener forsker]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1a57eb8b-4e36-4e9a-860e-a27faeade62a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1a57eb8b-4e36-4e9a-860e-a27faeade62a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 18 Nov 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nhY-fCSsKHNO9Qa5l9zKDgB4Ec2d4AsqQIpeMJDyybCw.jpg"/>
     </item>
   </channel>
 </rss>
