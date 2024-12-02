@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 05:33:24 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2024 05:34:03 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Den verste søndagsvakten - med Mímir Kristjánsson</title>
+      <description><![CDATA[Mimir Kristjansson glemmer aldri da Nortug tok gull i Holmenkollen, men mest på grunn av den han så innspurten sammen med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3131d6f9-2dd3-418c-852a-5a31932fd153_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3131d6f9-2dd3-418c-852a-5a31932fd153_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:41</itunes:duration>
+      <pubDate>Mon, 02 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nxscnge62KaKgDRAB8f6vgNJLqKheXrE1OmbQ6_HCQqA.jpg"/>
+    </item>
     <item>
       <title>Et hellig tre - med Ragnhild Folkestad</title>
       <description><![CDATA[Hva er det med trær, undrer filosof Ragnhild Folkestad.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:26</itunes:duration>
       <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JBj6rC8lLpPLh5jbujIzMg-_dzNDxrTtAJbmFtdlVakA.jpg"/>
-    </item>
-    <item>
-      <title>Min bestefars viktigste råd - med Masud Gharahkhani</title>
-      <description><![CDATA[Vi lever heldigvis i et fritt land, men den friheten bør vi aldri ta for gitt, sier Masud Gharahkhani.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d2a50902-38fc-4170-92dc-8099088f12b2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d2a50902-38fc-4170-92dc-8099088f12b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:17</itunes:duration>
-      <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LYGRiH-xCG8O6e6rTn3ECg9Mr4aP5dFyKaPrSyL-2xEw.jpg"/>
     </item>
   </channel>
 </rss>
