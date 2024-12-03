@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 05:34:03 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Dec 2024 05:34:13 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Kirsebærtreet - med Endre Ruset</title>
+      <description><![CDATA[Et kirsebærtre, en bestefar og det å lære å banne. Fotball rommer mye, sier Endre Ruset]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/debb0dfa-8bce-493a-a6f8-98620a30e780_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/debb0dfa-8bce-493a-a6f8-98620a30e780_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:35</itunes:duration>
+      <pubDate>Tue, 03 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sJ9KzzgFSIBlRR2TUB8FpAX-geH2jPcj5UB-1sbaWpvA.jpg"/>
+    </item>
     <item>
       <title>Den verste søndagsvakten - med Mímir Kristjánsson</title>
       <description><![CDATA[Mimir Kristjansson glemmer aldri da Nortug tok gull i Holmenkollen, men mest på grunn av den han så innspurten sammen med.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:30</itunes:duration>
       <pubDate>Tue, 12 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2oRuEQoDkFvKAMZJtnOqqggP0rhGsmIp1oyToAHeYXFQ.jpg"/>
-    </item>
-    <item>
-      <title>Motstand - med Geir Erik Berge</title>
-      <description><![CDATA[Når veterinæren Geir Erik Berge skal slappe av, går han gjerne tur i Nordmarka og der ute i skogen retter han blikket mot trærne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/27afd2a6-c326-4ccf-b978-28e626b5b594_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/27afd2a6-c326-4ccf-b978-28e626b5b594_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:26</itunes:duration>
-      <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JBj6rC8lLpPLh5jbujIzMg-_dzNDxrTtAJbmFtdlVakA.jpg"/>
     </item>
   </channel>
 </rss>
