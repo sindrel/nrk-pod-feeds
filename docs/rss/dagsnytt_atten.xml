@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 18:41:47 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Dec 2024 19:30:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Dec 2024 18:38:50 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Dec 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Dramatikk ved nasjonalforsamlingen i Sør-Korea</title>
+      <description><![CDATA[Presidenten ville innføre militær unntakstilstand i landet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0c840f4e-04b7-47cf-b444-4a0cfc664c1d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0c840f4e-04b7-47cf-b444-4a0cfc664c1d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 03 Dec 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DuTFFAclZy6g8eYb5nBnfA78C0imv31XJzbcmEv0FYjw.jpg"/>
+    </item>
     <item>
       <title>Uro i Arbeiderpartiet</title>
       <description><![CDATA[Hvordan blir samarbeidet fremover, etter helgens nominasjonsmøter?]]></description>
@@ -92,15 +101,6 @@ Høyre lover fortsatt å fjerne forbudet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 20 Nov 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zNfff9GMvfz_mtxnLMU1hwPeRS01BDZLPB9mwqgkE1VQ.jpg"/>
-    </item>
-    <item>
-      <title>Rent flertall til FrP og Høyre</title>
-      <description><![CDATA[Fremskrittspartiet mer populær hos velgerne enn begge regjeringspartiene tilsammen, viser ny meningsmåling.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a4058517-c99e-44fe-8537-b368fcefff3d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a4058517-c99e-44fe-8537-b368fcefff3d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 19 Nov 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WB3im87Ub8T5DcSqGIqxQcllXyGEcjtAm2g673ztwgg.jpg"/>
     </item>
   </channel>
 </rss>
