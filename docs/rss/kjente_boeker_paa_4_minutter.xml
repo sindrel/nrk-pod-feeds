@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 09:32:37 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Nov 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Dec 2024 09:33:03 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Dec 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Perlen" av John Steinbeck</title>
+      <description><![CDATA[Det er ikke bare enkelt å eie verdifulle ting]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/efef00a6-3065-4e3d-9242-877758becbda_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/efef00a6-3065-4e3d-9242-877758becbda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:48</itunes:duration>
+      <pubDate>Wed, 04 Dec 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"The Faerie Queene" av Edmund Spenser</title>
       <description><![CDATA[Selvhjelpsbok for riddere som ikke ønsker å være drittsekker.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/dbec3296-abfe-47e9-a90f-1e4198af9e6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:03</itunes:duration>
       <pubDate>Wed, 02 Oct 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"Mitt liv (1939-1986)"  av Gro Harlem Brundtland</title>
-      <description><![CDATA[Det er typisk norsk å være Gro]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/964007a0-4ad8-44f6-bc47-bd4027ebaee8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/964007a0-4ad8-44f6-bc47-bd4027ebaee8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:12</itunes:duration>
-      <pubDate>Wed, 25 Sep 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
