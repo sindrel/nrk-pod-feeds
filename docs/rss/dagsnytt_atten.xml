@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 18:42:07 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Dec 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Dec 2024 18:39:24 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Dec 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Toppduell om skatt</title>
+      <description><![CDATA[Støre og Solberg debatter formuesskatten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0f384095-4f95-4789-9185-2374d8781c32_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0f384095-4f95-4789-9185-2374d8781c32_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 05 Dec 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/g4lu7tk47CQmkhHDYSC5hg6lF2r4fhB0LqrV--xsHomA.jpg"/>
+    </item>
     <item>
       <title>Egenkapitalkravet senkes</title>
       <description><![CDATA[Regjeringa senker egenkapitalkravet for boligkjøp til 10 %.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 22 Nov 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hYgxz3cr205xwBL4jQvHkQNJdZItT6F_MRRVWsv2XsoQ.jpg"/>
-    </item>
-    <item>
-      <title>Sp vil ha lavere skatt i distriktet</title>
-      <description><![CDATA[Partileder Trygve Slagsvold Vedum foreslår lavere skatt i bygdene. – Hele landet bør få skattelette, svarer Høyre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/40fffc0e-8a1b-4351-ac71-3956788b8774_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/40fffc0e-8a1b-4351-ac71-3956788b8774_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:50</itunes:duration>
-      <pubDate>Thu, 21 Nov 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NvI3A9Bz5BAU7OkDUkKXIwDYzSE7GUjfnjtpGU0jIMCQ.jpg"/>
     </item>
   </channel>
 </rss>
