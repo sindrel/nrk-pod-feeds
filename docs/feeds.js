@@ -281,7 +281,7 @@ const feeds = [
     "id": "fantus_og_lydene",
     "title": "De 10 siste fra Fantus og lydene",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "feriestemning",
@@ -445,7 +445,7 @@ const feeds = [
     "id": "hvordan_moettes_dere_",
     "title": "De 10 siste fra Hvordan møttes dere? ",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "i_det_lange_loep",
