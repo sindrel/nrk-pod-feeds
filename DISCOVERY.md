@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-12-06  
+- Added podcast 'Fantus og lydene' (`fantus_og_lydene`)  
 ### 2024-11-29  
 - Updated podcast 'Abels tårn' (`abels_taarn`)  
 ### 2024-11-26  
