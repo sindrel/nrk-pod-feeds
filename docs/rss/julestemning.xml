@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 07 Dec 2024 05:32:20 +0000</lastBuildDate>
-    <pubDate>Sat, 07 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 08 Dec 2024 05:32:26 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/j0A2HFe-lXgb6YDhUAMMdwqiFUnfFymB0zCYKqjLq2nA.jpg"/>
+    <item>
+      <title>Min mors brune pinner</title>
+      <description><![CDATA[Live og Ronny skal lage Lives favoritt fra barndommens jul: brune pinner. Men blir de like gode som mammas?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/32388f6c-522c-4a7f-a93c-ff2f8546e9e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/32388f6c-522c-4a7f-a93c-ff2f8546e9e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:24</itunes:duration>
+      <pubDate>Sun, 08 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C-bLBAoNoTiPzOWbrHFZrwdpMDhOCBd8eBYqZf5zyvUQ.jpg"/>
+    </item>
     <item>
       <title>Gønne på-miks</title>
       <description><![CDATA[Live og Ronny inviterer til en koselomme full av julelåter som gir energi - et lydspor til vasking, julegavehandling eller fest.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:36</itunes:duration>
       <pubDate>Sun, 24 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0LV5Ke66F2rzoaicF1mSXgnp5l-IM5nZOVgGDVeo74fw.jpg"/>
-    </item>
-    <item>
-      <title>Svartjoleftan</title>
-      <description><![CDATA[På dagen før dagen er det grøten før grøten, og storfint besøk i kottet fra noen av landets kjæreste musikere: Odd og Ingebjørg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/a15cc32f-74ad-4d1e-b5be-4c5d8fce5e81_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/a15cc32f-74ad-4d1e-b5be-4c5d8fce5e81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:23</itunes:duration>
-      <pubDate>Sat, 23 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tcDhnxkyowENoSmJbMvuNwAwrM4X2gjTekDjF0Q3pT0g.jpg"/>
     </item>
   </channel>
 </rss>
