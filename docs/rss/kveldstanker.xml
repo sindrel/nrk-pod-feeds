@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 05:33:46 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Dec 2024 05:34:19 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Ole Paus om Josef - med Jon Niklas Rønning</title>
+      <description><![CDATA[Ole Paus hadde dyp respekt for Josef, den minst omtalte i juleevangeliet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/59cb8e9c-900a-41e4-ac7e-9051591bde53_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/59cb8e9c-900a-41e4-ac7e-9051591bde53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:48</itunes:duration>
+      <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
     <item>
       <title>Ei gåve frå ein junkie - med Ingelin Røssland</title>
       <description><![CDATA[Kvifor gir me gåver? spør journalist og forfattar Ingelin Røssland. Ho fekk ei uventa gåve som fekk ho til å tenke på nettopp det.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:03</itunes:duration>
       <pubDate>Mon, 18 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3rOoaGbFDeVvvZwiU1ciVgZVs11SIS6y4AC_BegwmlaA.jpg"/>
-    </item>
-    <item>
-      <title>Bry deg -  med Solveig Johanne Grønstøl</title>
-      <description><![CDATA[Nokre få ord kan gjere mykje med oss. Det har Solveig Johanne Grønstøl på Bømlo fått erfare.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/abd9de9f-c425-4d54-bb1e-b84bc4374757_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/abd9de9f-c425-4d54-bb1e-b84bc4374757_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:39</itunes:duration>
-      <pubDate>Wed, 13 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X9V512lrosJHs4nS-m1TFw7qiS8G76_4LGPaCU-l42Og.jpg"/>
     </item>
   </channel>
 </rss>
