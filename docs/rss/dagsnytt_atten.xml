@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 18:41:39 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Dec 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Dec 2024 18:41:52 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Dec 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Overgangsregjering i Syria</title>
+      <description><![CDATA[Mohammed al-Bashir er utnevnt som midlertidig statsminister i Syria frem til mars neste år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9eeddebc-6bfb-4e58-900a-621b403bccee_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9eeddebc-6bfb-4e58-900a-621b403bccee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 10 Dec 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5zHeFeVBlGo_FbNSPNGN8ALR_WIPc_ZJILmQu7XcZjSQ.jpg"/>
+    </item>
     <item>
       <title>LO bryter med NHO</title>
       <description><![CDATA[LO brøt samarbeidet med NHO og de andre arbeidsgiverne etter at de er misfornøyde med IA-forhandlingene]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Wed, 27 Nov 2024 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Uc69VBSXbSLfzkDkeRay0QRIX0tLihodZV1hiUzGu3ag.jpg"/>
-    </item>
-    <item>
-      <title>Ukraina-støtten økes</title>
-      <description><![CDATA[Regjeringen foreslår å doble støtten til Ukraina, til 30 milliarder kroner. Opposisjonen vil øke enda mer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/99b3f9e4-9784-4ed5-b68d-ecf84108fa44_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/99b3f9e4-9784-4ed5-b68d-ecf84108fa44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Tue, 26 Nov 2024 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kbcS-GU2-2Bej0MlYzDvmADau_aZvMm2B8NDfDrc67lw.jpg"/>
     </item>
   </channel>
 </rss>
