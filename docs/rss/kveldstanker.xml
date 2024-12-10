@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 05:34:19 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Dec 2024 05:34:06 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Julestemning langt heimanfrå - med Vegard Tjørhom</title>
+      <description><![CDATA[Det er ikkje enkelt å finne julestemninga for ein nordmann i Afrika, seier Vegard Tjørhom]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/7f1cf512-1332-4239-a449-53edab2b4b17_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/7f1cf512-1332-4239-a449-53edab2b4b17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:28</itunes:duration>
+      <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6VVTzuvC1D93sS0gdcb9tg6B8uDHzhR3m5lt_Z-5aNxw.jpg"/>
+    </item>
     <item>
       <title>Ole Paus om Josef - med Jon Niklas Rønning</title>
       <description><![CDATA[Ole Paus hadde dyp respekt for Josef, den minst omtalte i juleevangeliet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>04:06</itunes:duration>
       <pubDate>Tue, 19 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/sJ9KzzgFSIBlRR2TUB8FpAX-geH2jPcj5UB-1sbaWpvA.jpg"/>
-    </item>
-    <item>
-      <title>Fortell ikke hvem jeg er - med Esben Esther Pirelli Benestad</title>
-      <description><![CDATA[Vi er den vi selv vil være, sier Esben Esther Pirelli Benestad, som ber oss slutte å beskrive andre mennesker uten å ha snakket med dem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/71e3d00d-54fa-49e1-8fed-a8f3fb14d254_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/71e3d00d-54fa-49e1-8fed-a8f3fb14d254_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:03</itunes:duration>
-      <pubDate>Mon, 18 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3rOoaGbFDeVvvZwiU1ciVgZVs11SIS6y4AC_BegwmlaA.jpg"/>
     </item>
   </channel>
 </rss>

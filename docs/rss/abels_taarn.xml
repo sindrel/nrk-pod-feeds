@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 12:55:13 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Dec 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Dec 2024 05:33:31 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Hva dinobæsj kan si oss</title>
+      <description><![CDATA[Torkild, Hanne og Kristina graver seg ned i dinosaurbæsj, diskuterer bakterier, KI-overvåking av bilister, og hvor vår felles stamfar kom fra]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/80944dd3-98bc-44bb-be55-6349391aa2cf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/80944dd3-98bc-44bb-be55-6349391aa2cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:39</itunes:duration>
+      <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dcSLWhSno240JwlqrG7LqgEIXMgTePofSJG-UYsncvww.jpg"/>
+    </item>
     <item>
       <title>Hvor rask er raske karbohydrater?</title>
       <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
@@ -137,22 +146,6 @@ Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen,
       <itunes:duration>39:35</itunes:duration>
       <pubDate>Wed, 20 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/m3l-TWSRPfi_ejQGpBwXbwPnxdaKkneGAjd02Xyd8lRA.jpg"/>
-    </item>
-    <item>
-      <title>Vil mennesker bo i andre solsystemer?</title>
-      <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
-
-Dagens eksperter:
-Fysiker Ben David Normann
-Paleontolog Lene Liebe Delsett
-Kjemiker Ole Swang
-
-Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/09534c65-abf4-4a88-99fe-8a6bf6f364b3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/09534c65-abf4-4a88-99fe-8a6bf6f364b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:26</itunes:duration>
-      <pubDate>Fri, 15 Nov 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QjZ0VGrCE543B8NXX5EZawh-MhdQHycNW4Q7I-V3PQhA.jpg"/>
     </item>
   </channel>
 </rss>
