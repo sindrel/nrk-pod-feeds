@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 09:33:03 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Dec 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 09:32:42 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Dec 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Ivanov" av Anton Tsjekhov</title>
+      <description><![CDATA[Alle er veldig russiske og hovedpersonen tar sitt eget liv]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/7c905176-822a-49fd-98ec-a62a12844f59_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/7c905176-822a-49fd-98ec-a62a12844f59_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:40</itunes:duration>
+      <pubDate>Wed, 11 Dec 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Perlen" av John Steinbeck</title>
       <description><![CDATA[Det er ikke bare enkelt å eie verdifulle ting]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/708a124e-63ad-4cae-a3c6-dffa49ed3fc5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:28</itunes:duration>
       <pubDate>Wed, 09 Oct 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"Like sant som jeg er virkelig" av Hanne Ørstavik</title>
-      <description><![CDATA[Mor og datter, i evighet...Amen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/dbec3296-abfe-47e9-a90f-1e4198af9e6f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/dbec3296-abfe-47e9-a90f-1e4198af9e6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:03</itunes:duration>
-      <pubDate>Wed, 02 Oct 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
