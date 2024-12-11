@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 18:41:52 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Dec 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 18:41:47 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Dec 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Drapsmann hylles i USA</title>
+      <description><![CDATA[Drepte toppleder for helseforsikringsselskap]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/44236781-addc-4cb7-9f89-c0ce3e93addb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/44236781-addc-4cb7-9f89-c0ce3e93addb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 11 Dec 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IyNRdkioAGuVDUB-z7X6wQms0aJWLr4emERT2QDo9BxQ.jpg"/>
+    </item>
     <item>
       <title>Overgangsregjering i Syria</title>
       <description><![CDATA[Mohammed al-Bashir er utnevnt som midlertidig statsminister i Syria frem til mars neste år.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:53</itunes:duration>
       <pubDate>Thu, 28 Nov 2024 19:25:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/C3UEtb0H-bfNSNhsbLP2agGQncIJoNSsM2fWLOnZnMDw.jpg"/>
-    </item>
-    <item>
-      <title>Høyre la fram sitt alternative budsjett</title>
-      <description><![CDATA[Høyre mener de gjør livet lettere for både rike og fattige med budsjettet, men møter motstand fra Arbeiderpartiet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2d2b7384-924e-4596-b169-5f7aa88fb7c6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2d2b7384-924e-4596-b169-5f7aa88fb7c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Wed, 27 Nov 2024 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Uc69VBSXbSLfzkDkeRay0QRIX0tLihodZV1hiUzGu3ag.jpg"/>
     </item>
   </channel>
 </rss>
