@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 05:33:38 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 05:33:45 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A.jpg"/>
+    <item>
+      <title>Hva skjer med gjengen?</title>
+      <description><![CDATA[Hva gjør du når vennene dine har forandret seg? Og hvordan skal du få kjæresten til å tørre å møte foreldrene dine?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/1aef32f8-04c5-41d7-9c0f-349707089f22_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/1aef32f8-04c5-41d7-9c0f-349707089f22_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:50</itunes:duration>
+      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5P7JZ3jntgqf82R7ufEoZAeH233Ej1CQqGFLU2zUDPaQ.jpg"/>
+    </item>
     <item>
       <title>Tips mot kjærlighetssorg</title>
       <description><![CDATA[Spise is, klippe håret eller lage en tidsmaskin? Hva hjelper egentlig mot kjærlighetssorg?]]></description>
@@ -92,15 +101,6 @@ Improbjella gir gode og rare råd.]]></description>
       <itunes:duration>18:01</itunes:duration>
       <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/p7VVgT4Bjec8G35VmqJHwA9r281GuG-HdZmF-kMRp40Q.jpg"/>
-    </item>
-    <item>
-      <title>Ingen ser meg</title>
-      <description><![CDATA[Hva gjør du når broren din tar all oppmerksomheten – og hva gjør du når venninna di blir sammen med han du nettopp datet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/1a144c0c-b407-4d44-8f43-99676f260f80_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/1a144c0c-b407-4d44-8f43-99676f260f80_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:15</itunes:duration>
-      <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ohDvEvNrqypsUyBC16dc8gsi2QaQ-J6uW_mZDLMHGcWw.jpg"/>
     </item>
   </channel>
 </rss>

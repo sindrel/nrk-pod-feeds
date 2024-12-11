@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 05:34:06 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 05:33:53 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Si det - med Hein Anders Kvalheim</title>
+      <description><![CDATA[Fortell venner at du bryr deg om dem, råder Hein Anders Kvalheim.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/44029c81-d11d-4702-b1c9-cde319390eb4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/44029c81-d11d-4702-b1c9-cde319390eb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:23</itunes:duration>
+      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mZgIUUr1VooKQAk5pkKXiwslhzz8xOVzvvGMRMSbTeGQ.jpg"/>
+    </item>
     <item>
       <title>Julestemning langt heimanfrå - med Vegard Tjørhom</title>
       <description><![CDATA[Det er ikkje enkelt å finne julestemninga for ein nordmann i Afrika, seier Vegard Tjørhom]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:52</itunes:duration>
       <pubDate>Wed, 20 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
-    </item>
-    <item>
-      <title>Østenfor sol og vestenfor måne - med Endre Ruset</title>
-      <description><![CDATA[Alle går på do, forteller Endre Ruset, som ble rojalist på et utedo på Bjorli i Innlandet. Der oppdaga han også at verden er mye mindre enn en skulle tro.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/717e25b5-8c56-460e-af1f-4942f9ea7685_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/717e25b5-8c56-460e-af1f-4942f9ea7685_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:06</itunes:duration>
-      <pubDate>Tue, 19 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sJ9KzzgFSIBlRR2TUB8FpAX-geH2jPcj5UB-1sbaWpvA.jpg"/>
     </item>
   </channel>
 </rss>
