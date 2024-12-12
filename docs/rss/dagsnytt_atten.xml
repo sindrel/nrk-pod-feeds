@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 18:41:47 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Dec 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Dec 2024 18:41:44 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Dec 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ny strømprisrekord</title>
+      <description><![CDATA[Energiministeren svarer på hvorfor strømprisene fortsetter å stige.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/faeab9f3-b47f-4098-9fe4-7f6a252df6db_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/faeab9f3-b47f-4098-9fe4-7f6a252df6db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 12 Dec 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/y-IQbU3vnZ2qTvuSvVmamwqfxaCxvfo8ik40ju2SZjcw.jpg"/>
+    </item>
     <item>
       <title>Drapsmann hylles i USA</title>
       <description><![CDATA[Drepte toppleder for helseforsikringsselskap]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 29 Nov 2024 19:25:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/f1JND2QYkMAXnf1Cgt2gywGAm4H6LQKVjxl0bpdJnHJQ.jpg"/>
-    </item>
-    <item>
-      <title>Nordmenn kaster 451.600 tonn mat i året</title>
-      <description><![CDATA[Målet om å redusere matsvinnet med 30 prosent innen 2025 er ikke innen rekkevidde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bb7034d1-7135-4fd8-829a-d3cafb1d966b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bb7034d1-7135-4fd8-829a-d3cafb1d966b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:53</itunes:duration>
-      <pubDate>Thu, 28 Nov 2024 19:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C3UEtb0H-bfNSNhsbLP2agGQncIJoNSsM2fWLOnZnMDw.jpg"/>
     </item>
   </channel>
 </rss>
