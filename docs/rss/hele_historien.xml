@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Hele historien</title>
+    <title>De 3 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 12:56:48 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Dec 2024 13:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Dec 2024 05:33:50 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Dec 2024 06:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
@@ -18,6 +18,24 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/5023ab1b-f42a-4c7f-a747-cab345d690e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:28</itunes:duration>
       <pubDate>Wed, 11 Dec 2024 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mJWBn290hlaitbyFZCqisg4OeTtEM7Z88KvRseUPQgpw.jpg"/>
+    </item>
+    <item>
+      <title>Bomben på Oslo S (1:2)</title>
+      <description><![CDATA[En bombe går av i Østbanehallen på Oslo S. En blir drept og flere skadet. Politiet står uten spor. Er det en terrorhandling, eller en ulykke?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/aec728d5-6193-47a1-9253-90582d5c95d0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/aec728d5-6193-47a1-9253-90582d5c95d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:54</itunes:duration>
+      <pubDate>Thu, 12 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mJWBn290hlaitbyFZCqisg4OeTtEM7Z88KvRseUPQgpw.jpg"/>
+    </item>
+    <item>
+      <title>Bomben på Oslo S (2:2)</title>
+      <description><![CDATA[Et avisbud blir angrepet av ukjente gjerningsmenn. Kan overfallet henge sammen med bombeeksplosjonen tidlig på sommeren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/c846040b-341a-4638-82a5-3184f930f844_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/c846040b-341a-4638-82a5-3184f930f844_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:21</itunes:duration>
+      <pubDate>Thu, 12 Dec 2024 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mJWBn290hlaitbyFZCqisg4OeTtEM7Z88KvRseUPQgpw.jpg"/>
     </item>
   </channel>
