@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-12-13  
+- Updated podcast 'Øyeblikket' (`yeblikket`)  
 ### 2024-12-06  
 - Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
 - Updated podcast 'Hvordan møttes dere? ' (`hvordan_moettes_dere_`)  
