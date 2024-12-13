@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 13:38:46 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Dec 2024 14:30:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Dec 2024 13:36:51 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Dec 2024 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw.jpg"/>
+    <item>
+      <title>Steinerskolen på Hedemarken</title>
+      <description><![CDATA[Emil har rundt 2000 Donald-blader,  Lukas lærer seg å spille piano og Veronika har lyst å bli journalist.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/57380b20-38ff-4581-b587-77985b1f4ed3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/57380b20-38ff-4581-b587-77985b1f4ed3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:56</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EdI-TkpYXPLba2ywkN1QbAVPrLPlvYCI2iIdFE_J_hGg.jpg"/>
+    </item>
     <item>
       <title>Hamar Montessoriskole</title>
       <description><![CDATA[Mia spiller piano, Aksel  teater og Eduard  padel. Hvem  vil bli arkitekt, hvem vil  jobbe i Nordsjøen og hvem vil kjøre ambulanse?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>11:42</itunes:duration>
       <pubDate>Wed, 04 Dec 2024 14:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/I-Af4Fl_C1oVWGSao6Qr_QXtN9aaWzMM6nODMTYKKJpw.jpg"/>
-    </item>
-    <item>
-      <title>Lillehammer Steinerskole</title>
-      <description><![CDATA[Sjukdom blant 10. klassingene fører til at Steinerskolen på Lillehammer stiller med to 9. klassinger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/14c500a2-b963-440f-be50-88f5ee65d27c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/14c500a2-b963-440f-be50-88f5ee65d27c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:50</itunes:duration>
-      <pubDate>Wed, 04 Dec 2024 08:37:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/brgcSJEQ1NSNLbzpe8aVOgwSN4ugak2tsD3an8g8d30w.jpg"/>
     </item>
   </channel>
 </rss>
