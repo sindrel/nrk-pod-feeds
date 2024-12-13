@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 05:33:55 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Dec 2024 05:34:00 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/j0A2HFe-lXgb6YDhUAMMdwqiFUnfFymB0zCYKqjLq2nA.jpg"/>
+    <item>
+      <title>Opera Lucia</title>
+      <description><![CDATA[En opprørt lytter stevner Live for juleretten, de nominerte julefilmene lanseres, og Live og Ronny prøver å fremprovosere fødsel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/72e40d7e-2ac1-4799-bd53-447cd7b8f282_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/72e40d7e-2ac1-4799-bd53-447cd7b8f282_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:31</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6LHZhgI5P5MGsZfcJcBVrgwntAqL-zbiT3HlzPPz0UAg.jpg"/>
+    </item>
     <item>
       <title>Klissete juletre og blind date</title>
       <description><![CDATA[Det er gråtespesial i post i pipa, Ronny er klissete på hendene og Live instruerer lytterne Ida og Tormod på date.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>31:00</itunes:duration>
       <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/4CCqIre7Xj1XN96eCwgjXgDZvC_VR0JfCdZdbUNplRjA.jpg"/>
-    </item>
-    <item>
-      <title>Gråtefjes og bingo</title>
-      <description><![CDATA[Live og Ronny ringer julebukk til en lytter som skal inn i en heftig førjulstid. Og Live har mistet det helt av en barnejulefilm.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/241fee30-8733-4ece-bf8e-bf7ae153d387_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/241fee30-8733-4ece-bf8e-bf7ae153d387_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:45</itunes:duration>
-      <pubDate>Tue, 03 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AoTktOnMtOx_vm-7zPv3zAaIe8UW7LxBZlk5fW_h97VA.jpg"/>
     </item>
   </channel>
 </rss>

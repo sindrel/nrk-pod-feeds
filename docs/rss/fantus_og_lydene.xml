@@ -1,16 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Fantus og lydene</title>
+    <title>De 6 siste fra Fantus og lydene</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Fantus og lydene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantus_og_lydene for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Fantus og lydene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantus_og_lydene for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 07:30:30 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Dec 2024 05:33:48 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Dec 2024 06:06:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    <item>
+      <title>Fjøset</title>
+      <description><![CDATA[Hører du forskjell på en sau og et lam? Og hva sier ei stor ku? Fantus besøker fjøset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantus_og_lydene/b7c35111-930c-4c8c-8021-16182fa27384_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/b7c35111-930c-4c8c-8021-16182fa27384_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:18</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 06:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    </item>
+    <item>
+      <title>Barnehagen</title>
+      <description><![CDATA[Fantus besøker en barnehage og hører både latter og klapping. Men hvem er det som gråter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantus_og_lydene/d347a693-f49c-4358-8534-4b48e0be0f33_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/d347a693-f49c-4358-8534-4b48e0be0f33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:51</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    </item>
+    <item>
+      <title>Skogen</title>
+      <description><![CDATA[Fantus hører mange lyder i skogen: det kvekkes og kvitres og bruses og knekkes. Men hvem er det som brummer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantus_og_lydene/87307422-a736-46ba-8921-e611e0c40582_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/87307422-a736-46ba-8921-e611e0c40582_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:16</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    </item>
+    <item>
+      <title>Bussholdeplassen</title>
+      <description><![CDATA[På bussholdeplassen hører Fantus mange lyder! Hunder bjeffer, biler tuter og folk prater og synger, men hva er det som uler så fælt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantus_og_lydene/81e5fb74-9038-4e0b-910a-b5de6b644c23_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/81e5fb74-9038-4e0b-910a-b5de6b644c23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:18</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    </item>
+    <item>
+      <title>Badet</title>
+      <description><![CDATA[Fantus lager plaskelyder i badekaret, leker med badeanda – og promper litt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantus_og_lydene/e8355c3b-dd2f-427d-b0fa-bef559277a41_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/e8355c3b-dd2f-427d-b0fa-bef559277a41_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:44</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    </item>
     <item>
       <title>Ny podkast: Fantus og lydene</title>
       <description><![CDATA[Bli med Fantus og lek med alle de rare lydene som finnes i fjøset, barnehagen, skogen, på badet, og bussholdeplassen. En smakebit av ny podkast for de aller, aller minste i NRK Radio.]]></description>
