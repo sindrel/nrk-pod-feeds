@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 05:34:00 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Dec 2024 05:32:06 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/j0A2HFe-lXgb6YDhUAMMdwqiFUnfFymB0zCYKqjLq2nA.jpg"/>
+    <item>
+      <title>Britisk pudding og gammel høne</title>
+      <description><![CDATA[Oh gosh yess, det er lørdag og klart for erkebritisk selskap. Live har pyntet seg med pels, og tenner på en gammel julepudding.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/379d180a-ecae-4ff3-bbfa-333fe123f43a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/379d180a-ecae-4ff3-bbfa-333fe123f43a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:34</itunes:duration>
+      <pubDate>Sat, 14 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_EYF_-pedZVfp1PlRPnX2goBGfflHWpC4XXBkwC_zCTA.jpg"/>
+    </item>
     <item>
       <title>Opera Lucia</title>
       <description><![CDATA[En opprørt lytter stevner Live for juleretten, de nominerte julefilmene lanseres, og Live og Ronny prøver å fremprovosere fødsel.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>34:30</itunes:duration>
       <pubDate>Thu, 05 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pJKNoUiKvRv9VS-1py_qfwoC4jc0vbloHvNMGF7KQC5g.jpg"/>
-    </item>
-    <item>
-      <title>Nissefars vaginale vei</title>
-      <description><![CDATA[Live bedømmer om Wenche Myhres julelåt er kinky. Og Ronny prøver seg på et reinsdyrs raut.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/ba4fd8bb-cc34-48a6-aa49-0be503bfec5f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/ba4fd8bb-cc34-48a6-aa49-0be503bfec5f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:00</itunes:duration>
-      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4CCqIre7Xj1XN96eCwgjXgDZvC_VR0JfCdZdbUNplRjA.jpg"/>
     </item>
   </channel>
 </rss>
