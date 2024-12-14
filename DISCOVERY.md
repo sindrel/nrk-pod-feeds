@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-12-14  
+- Podcast 'Labyrint om natten' is considered obsolete and will be ignored in the future (`labyrint_om_natten`)  
 ### 2024-12-13  
 - Updated podcast 'Øyeblikket' (`yeblikket`)  
 ### 2024-12-06  
