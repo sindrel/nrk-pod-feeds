@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 14 Dec 2024 05:32:06 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 15 Dec 2024 05:31:54 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/j0A2HFe-lXgb6YDhUAMMdwqiFUnfFymB0zCYKqjLq2nA.jpg"/>
+    <item>
+      <title>Peismusikk og dyne</title>
+      <description><![CDATA[Live og Ronny spiller låter å varme seg på, å roe ned til på et hektisk kjøpesenter eller til å komme litt i julestemning av.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/69022f2f-3295-446f-882e-117c3f7fec46_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/69022f2f-3295-446f-882e-117c3f7fec46_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:58</itunes:duration>
+      <pubDate>Sun, 15 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ad4gGvZK8nU1hcQueFVqVgRjOKN8AozzNfG7XxgFMHyA.jpg"/>
+    </item>
     <item>
       <title>Britisk pudding og gammel høne</title>
       <description><![CDATA[Oh gosh yess, det er lørdag og klart for erkebritisk selskap. Live har pyntet seg med pels, og tenner på en gammel julepudding.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:59</itunes:duration>
       <pubDate>Fri, 06 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pMGsqoVvS-F7obUlMMccfwkxKoEFP2WlWLTdu5NyWuLA.jpg"/>
-    </item>
-    <item>
-      <title>Jakten på julekjærligheten</title>
-      <description><![CDATA[Ronny har blitt rørt til tårer av innboksen, og Live Giftekniv har valgt kandidaten hun skal prøve å finne kjærligheten til.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/3aab995b-e36a-4fb3-8d26-31d553985769_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/3aab995b-e36a-4fb3-8d26-31d553985769_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:30</itunes:duration>
-      <pubDate>Thu, 05 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pJKNoUiKvRv9VS-1py_qfwoC4jc0vbloHvNMGF7KQC5g.jpg"/>
     </item>
   </channel>
 </rss>
