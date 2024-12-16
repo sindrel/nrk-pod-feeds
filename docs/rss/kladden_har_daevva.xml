@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 05:34:13 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 05:34:52 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Finalen med Lilli Bendriss</title>
+      <description><![CDATA[Kladdens aller siste episode med selveste Lilli Bendriss. RIP Kladden <3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/cb81e1da-3bdf-46fc-b57c-bd6b4a9d3de9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/cb81e1da-3bdf-46fc-b57c-bd6b4a9d3de9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:19:19</itunes:duration>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vFaev0qPuZBM9qKFbNMbJwaqiWUUoWdVDAh4itK1ODTg.jpg"/>
+    </item>
     <item>
       <title>Öde Nerdrum, helst i mørket</title>
       <description><![CDATA[Er det fordi han døde en gang, at han liker mørket så godt?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>44:00</itunes:duration>
       <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FGnA2gOPL-0Hs3UZKaNLFQ9P_ubNXxAxHIfntzIOyh-Q.jpg"/>
-    </item>
-    <item>
-      <title>Jon Martin Henriksen og flystyrt'n</title>
-      <description><![CDATA[Jon Martin Henriksen har en egen teori om hvordan man lurer døden på fly. Og to dødsredde gutter skal til Praha!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/4ec08991-37a2-4c69-a9d9-411e7dddd3de_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4ec08991-37a2-4c69-a9d9-411e7dddd3de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:40</itunes:duration>
-      <pubDate>Mon, 07 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qDuflMQVYFIp-sDW4AHOAA2YLcgF7KXGPR9Def8lA-Ew.jpg"/>
     </item>
   </channel>
 </rss>

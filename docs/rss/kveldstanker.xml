@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 05:33:53 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 05:35:04 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Den beste julegaven - med Terri Senior</title>
+      <description><![CDATA[Trygghet var den beste julegaven Terri Senior kunne få til jul. Nestlederen i Norges Røde kors vokste opp i Jamaica.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/8c22ca60-c78e-47ff-b0c1-e2549a4146b0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/8c22ca60-c78e-47ff-b0c1-e2549a4146b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:20</itunes:duration>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yocQ3GR38SOVJEtULE2UdQf48T5qCKpQIizmaMdDxFSg.jpg"/>
+    </item>
     <item>
       <title>Si det - med Hein Anders Kvalheim</title>
       <description><![CDATA[Fortell venner at du bryr deg om dem, råder Hein Anders Kvalheim.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>04:01</itunes:duration>
       <pubDate>Mon, 25 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
-    </item>
-    <item>
-      <title>Husokkupanten - med Gunn Marit Nisja</title>
-      <description><![CDATA[Selv om du bestemmer deg for noe, så kan det være at andre vil ha et ord med i laget. Særlig når det gjelder sånne ting som ensomhet, forteller Gunn Marit Nisja.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/2ff64162-e841-4183-a3ad-48c8c67169d8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/2ff64162-e841-4183-a3ad-48c8c67169d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:52</itunes:duration>
-      <pubDate>Wed, 20 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>
