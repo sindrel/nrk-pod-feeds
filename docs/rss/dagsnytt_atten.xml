@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 19:25:17 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Dec 2024 19:30:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 18:41:11 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Utvalg: Ingen skal lenger få brev i postkassen</title>
+      <description><![CDATA[Nå kan det gå mot slutten for en tjeneste som har vært i samfunnet helt siden 1600-tallet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/fb7bec69-d9cf-4c39-ae97-2ce25fdefc9b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fb7bec69-d9cf-4c39-ae97-2ce25fdefc9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 16 Dec 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aLX7g_1sGPm9fG4-22wMqwHsAageBEMxePVNz4uFSWKA.jpg"/>
+    </item>
     <item>
       <title>Norge skal møte Israel i kvalifiseringen til fotball-VM</title>
       <description><![CDATA[Palestina-aksjonist mener Norge bør la være å møte opp til kamp.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 03 Dec 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DuTFFAclZy6g8eYb5nBnfA78C0imv31XJzbcmEv0FYjw.jpg"/>
-    </item>
-    <item>
-      <title>Uro i Arbeiderpartiet</title>
-      <description><![CDATA[Hvordan blir samarbeidet fremover, etter helgens nominasjonsmøter?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/aa235b5f-dc80-45ce-a260-f863d2570135_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aa235b5f-dc80-45ce-a260-f863d2570135_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 02 Dec 2024 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NsFDIwCA9xf7_9yolBjYyQo2MX2KoI0XZdFec9j1cCKA.jpg"/>
     </item>
   </channel>
 </rss>
