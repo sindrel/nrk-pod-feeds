@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 05:35:04 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Dec 2024 05:33:52 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Kjærleiksgåver- med Solveig Johanne Grønstøl</title>
+      <description><![CDATA[-Eg elskar gammal julepynt av papp og papir. Det er kjærleiksgåver frå borna mine, seier forfattar Solveig Johanne Grønstøl.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a0369b3f-b118-4d12-b557-afafbfe43f29_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a0369b3f-b118-4d12-b557-afafbfe43f29_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:01</itunes:duration>
+      <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X9V512lrosJHs4nS-m1TFw7qiS8G76_4LGPaCU-l42Og.jpg"/>
+    </item>
     <item>
       <title>Den beste julegaven - med Terri Senior</title>
       <description><![CDATA[Trygghet var den beste julegaven Terri Senior kunne få til jul. Nestlederen i Norges Røde kors vokste opp i Jamaica.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:43</itunes:duration>
       <pubDate>Tue, 26 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/J5_sas0kfMJGopaKAQ4S8AAfHmUuup78YXrw9urC_qjA.jpg"/>
-    </item>
-    <item>
-      <title>Venner - med Jon Niklas Rønning</title>
-      <description><![CDATA[Gode vennskap varer evig, tror Jon Niklas Rønning]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/c6caedb1-6871-46c9-957e-c38dec64c33d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/c6caedb1-6871-46c9-957e-c38dec64c33d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:01</itunes:duration>
-      <pubDate>Mon, 25 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 05:34:47 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Dec 2024 05:33:44 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/j0A2HFe-lXgb6YDhUAMMdwqiFUnfFymB0zCYKqjLq2nA.jpg"/>
+    <item>
+      <title>Sensor sensei</title>
+      <description><![CDATA[Lytterne har bestemt hvilken julefilm alle skal se, Ronny har vunnet fødeveddemålet og Live kvisser sin potensielle spleis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/229baaee-aded-4e64-8c29-dcec9b298526_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/229baaee-aded-4e64-8c29-dcec9b298526_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:35</itunes:duration>
+      <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VXuBxT0UBLB8Byt9AVO8pAp62uvQdrLyDblBXJ6GnuvQ.jpg"/>
+    </item>
     <item>
       <title>Eufori og rocka kakemann</title>
       <description><![CDATA[Det har vært julebukk-eufori i møte med lytterne, og Live får hard dom for sitt seneste julekake-eksperiment.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>36:24</itunes:duration>
       <pubDate>Sun, 08 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/C-bLBAoNoTiPzOWbrHFZrwdpMDhOCBd8eBYqZf5zyvUQ.jpg"/>
-    </item>
-    <item>
-      <title>Gønne på-miks</title>
-      <description><![CDATA[Live og Ronny inviterer til en koselomme full av julelåter som gir energi - et lydspor til vasking, julegavehandling eller fest.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/ab69aacc-6517-43fd-a99c-025135ed4119_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/ab69aacc-6517-43fd-a99c-025135ed4119_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:34</itunes:duration>
-      <pubDate>Sat, 07 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hoF-MvwFttUHoV0wEjm6GQ8t1saNqWfE8Xma1xCDa3Yw.jpg"/>
     </item>
   </channel>
 </rss>
