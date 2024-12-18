@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 17 Dec 2024 05:33:52 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Dec 2024 05:32:33 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Lukta av snø - med Gunn Marit Nisja</title>
+      <description><![CDATA[Kjenner du lukta av snø? spør forfatter Gunn Marit Nisja]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/2f15c49d-93d7-4c42-9eba-83ecb3ef04e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/2f15c49d-93d7-4c42-9eba-83ecb3ef04e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:54</itunes:duration>
+      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
+    </item>
     <item>
       <title>Kjærleiksgåver- med Solveig Johanne Grønstøl</title>
       <description><![CDATA[-Eg elskar gammal julepynt av papp og papir. Det er kjærleiksgåver frå borna mine, seier forfattar Solveig Johanne Grønstøl.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>04:21</itunes:duration>
       <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xkcLNcgLwZ-OS91yoe8wJQmBeyptuZCZHntMwM1o8-ug.jpg"/>
-    </item>
-    <item>
-      <title>Et tilfeldig møte - med Jathushiga Bridget Rajah</title>
-      <description><![CDATA[Et tilfeldig møte kan bety mye. Det har forfatter Jathushiga Bridget Rajah fått erfare.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/dba1e1bb-5cfc-4d56-8f53-7f773b303657_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/dba1e1bb-5cfc-4d56-8f53-7f773b303657_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:43</itunes:duration>
-      <pubDate>Tue, 26 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/J5_sas0kfMJGopaKAQ4S8AAfHmUuup78YXrw9urC_qjA.jpg"/>
     </item>
   </channel>
 </rss>
