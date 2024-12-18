@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 09:32:42 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Dec 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Dec 2024 09:31:01 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Dec 2024 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Heksejakt" Av Arthur Miller</title>
+      <description><![CDATA[En jakt etter hekser blir en heksejakt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/3caf51e2-a238-4edf-b793-dc20f5f89b73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/3caf51e2-a238-4edf-b793-dc20f5f89b73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:17</itunes:duration>
+      <pubDate>Wed, 18 Dec 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Ivanov" av Anton Tsjekhov</title>
       <description><![CDATA[Alle er veldig russiske og hovedpersonen tar sitt eget liv]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/4d8c0459-2f67-42f9-9488-2b3ad2cb9ecb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:56</itunes:duration>
       <pubDate>Wed, 16 Oct 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"En tid for alt" av Karl Ove Knausgård</title>
-      <description><![CDATA[Noah var sørlending og måker er nihilistiske engler]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/708a124e-63ad-4cae-a3c6-dffa49ed3fc5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/708a124e-63ad-4cae-a3c6-dffa49ed3fc5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:28</itunes:duration>
-      <pubDate>Wed, 09 Oct 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
