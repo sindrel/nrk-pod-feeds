@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 05:34:08 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Dec 2024 05:33:01 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
+    <item>
+      <title>Gul til jul</title>
+      <description><![CDATA[Anne har fått seg en på trynet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/9c468055-9766-4cd6-b8a7-05fc2bb3b4fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/9c468055-9766-4cd6-b8a7-05fc2bb3b4fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:22</itunes:duration>
+      <pubDate>Thu, 19 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
+    </item>
     <item>
       <title>Pulsklokkepanikk</title>
       <description><![CDATA[Anne har fått seg en krevende digital følgesvenn.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/3083790a-46af-4845-8203-b0eb1cfb2668_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:37</itunes:duration>
       <pubDate>Thu, 17 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
-    </item>
-    <item>
-      <title>Rumpa foran</title>
-      <description><![CDATA[Om ungarske campingvakter, hjemmelaget tobakk og gåsefylket Østfold.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/fff0fa0b-f9e1-43d3-903e-bf522cf7cc9b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/fff0fa0b-f9e1-43d3-903e-bf522cf7cc9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:23</itunes:duration>
-      <pubDate>Thu, 10 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
     </item>
   </channel>

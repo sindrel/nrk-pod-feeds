@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 05:32:22 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Dec 2024 05:32:44 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/j0A2HFe-lXgb6YDhUAMMdwqiFUnfFymB0zCYKqjLq2nA.jpg"/>
+    <item>
+      <title>Svin, sjokolade og sax</title>
+      <description><![CDATA[Lives siste kakestunt er ekkelt, men godt, Julestemnings lytterpar får det ultimate spørsmålet og Ronny har ny julesangrebus.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/b07ba2e5-91b9-4a1c-a15b-4a921d46cdbd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/b07ba2e5-91b9-4a1c-a15b-4a921d46cdbd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:33</itunes:duration>
+      <pubDate>Thu, 19 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rpJ-DDAxQ_RUn0m2nbwgGAeZbaJxv77k-s_9fKVdjy6g.jpg"/>
+    </item>
     <item>
       <title>Live rører Ronny</title>
       <description><![CDATA[Live lykkes endelig med å røre Ronny, en lytter har kullsvart “sykt barn”-rute i julebingo og det er total uenighet i juleretten.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>35:57</itunes:duration>
       <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NsbSu6BZHq7l_ARMl3XXHAWO6mGi_qv63BARZm9qBR4g.jpg"/>
-    </item>
-    <item>
-      <title>Etikk og bakst</title>
-      <description><![CDATA[Live og Ronny diskuterer om Ronny skal bryte en avtale om julegaver. Og de dømmer en lytter hardt i juleretten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/fda15e0e-e1b0-4462-a3de-5aaf7251340a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/fda15e0e-e1b0-4462-a3de-5aaf7251340a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:09</itunes:duration>
-      <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D9tq_MBd32bT_oKv2Y_PrQllrG175pSmKRWnSfJsVtcg.jpg"/>
     </item>
   </channel>
 </rss>
