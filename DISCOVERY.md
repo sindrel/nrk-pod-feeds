@@ -1,5 +1,8 @@
 # Podcast Discovery Changelog  
 ### 2024-12-20  
+- Updated podcast 'Bibelen' (`bibelen`)  
+- Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
+### 2024-12-20  
 - Added podcast 'Bibelen' (`bibelen`)  
 - Added podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
 - Added podcast 'Spør for en venn' (`spoer_for_en_venn`)  
