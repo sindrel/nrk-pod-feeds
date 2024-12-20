@@ -76,6 +76,12 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "bibelen",
+    "title": "De 10 siste fra Bibelen",
+    "season": null,
+    "enabled": false
+  },
+  {
     "id": "billis_og_bollos",
     "title": "De 10 siste fra Billis og Bollos",
     "season": null,
@@ -90,6 +96,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "binnabnna_ujujju",
+    "title": "De 10 siste fra Binnabánnaš & Ujujju",
+    "season": null,
+    "enabled": false
   },
   {
     "id": "bjoernen_lyver",
@@ -1224,6 +1236,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "spoer_for_en_venn",
+    "title": "De 10 siste fra Spør for en venn",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "spraakteigen",
