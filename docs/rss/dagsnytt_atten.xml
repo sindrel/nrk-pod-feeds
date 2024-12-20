@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 18:36:51 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Dec 2024 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Dec 2024 18:35:35 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Dec 2024 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norge vil toppe dyrevelferd</title>
+      <description><![CDATA[Regjeringen vil beskytte dyr, men MDG tror griser blir skuffet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/02b23139-12f6-4d86-b990-6a86e54c22df_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/02b23139-12f6-4d86-b990-6a86e54c22df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Fri, 20 Dec 2024 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BgR4Eoupim7sfiSp9YUaaQeYXgyBN_SqShrJmDiMMkfQ.jpg"/>
+    </item>
     <item>
       <title>Trolig rentekutt i mars</title>
       <description><![CDATA[Sentralbanken holdt renta uendret i dag, men sier det trolig blir rentekutt i mars.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 09 Dec 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FBirAann-_cTdaJXQXewEQ_pP6M25XBoHgq0bBpyqFaA.jpg"/>
-    </item>
-    <item>
-      <title>Rødt søker makt</title>
-      <description><![CDATA[Rødt åpner for å være med i regjering for første gang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/393f1b20-13bb-4b6e-aeff-4e6f1ab82a26_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/393f1b20-13bb-4b6e-aeff-4e6f1ab82a26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:57</itunes:duration>
-      <pubDate>Fri, 06 Dec 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cmBqP9KuwnIOJhLf18AWaQ-_HrnMyF8lqfhhlHznrsFA.jpg"/>
     </item>
   </channel>
 </rss>
