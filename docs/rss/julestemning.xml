@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 05:31:40 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Dec 2024 05:30:07 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/j0A2HFe-lXgb6YDhUAMMdwqiFUnfFymB0zCYKqjLq2nA.jpg"/>
+    <item>
+      <title>Post i pipa-spesial</title>
+      <description><![CDATA[Denne lørdagen titter Live og Ronny ekstra langt opp i pipa og leser de lange mailene og de varme ettertankene. Og litt tøys også.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/781f267a-20da-498b-9748-4ba2342533b3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/781f267a-20da-498b-9748-4ba2342533b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:22</itunes:duration>
+      <pubDate>Sat, 21 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RwqcV6hkIRhFI2g0hJ4DhQTaigP2fEp1V1QOssvAC7Bg.jpg"/>
+    </item>
     <item>
       <title>Lydsporet hjem til jul</title>
       <description><![CDATA[Live og Ronny markerer den store reisedagen hjem til jul med et knippe spesielt utvalgte julelåter. Og en kjapp telefon til Odd.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>33:34</itunes:duration>
       <pubDate>Thu, 12 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DZF5R6NcshY8bdN0fRkQlAFCqZrr143Mj3SmyFzK-H6A.jpg"/>
-    </item>
-    <item>
-      <title>Julebukke-gøy</title>
-      <description><![CDATA[Rampenissen har gjort comeback hjemme hos Live, men han er på sparebluss. Og Live og Ronny julebukker er student med eksamensnoia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/431cd66f-288d-4bf6-a669-8b8a71f191ed_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/431cd66f-288d-4bf6-a669-8b8a71f191ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:13</itunes:duration>
-      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/euKtKeLs1deThPlKW3EpVQF5TWznQL6V2xQMcGAL5N5Q.jpg"/>
     </item>
   </channel>
 </rss>
