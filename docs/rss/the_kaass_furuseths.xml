@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 15 Dec 2024 05:32:04 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 22 Dec 2024 05:30:24 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Secret Santa: Lille-Bolla</title>
+      <description><![CDATA[Lillesøster Cecilie er ukas hemmelige nisse. Tante Else blir lykkelig - og vi får julestemningsfrembringende sang!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/1d6f70e9-5edc-47db-9361-00ebc0f7dabe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/1d6f70e9-5edc-47db-9361-00ebc0f7dabe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:41</itunes:duration>
+      <pubDate>Sun, 22 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OFGDFMHz7o1h1GJ-7dU1UQB0JALeysBROe5UfipkGhNQ.jpg"/>
+    </item>
     <item>
       <title>Secret Santa: Javad El Bakali (a.k.a: Utlending.memes)</title>
       <description><![CDATA[Javad har røket ut av «24-stjernes julekalender», men dukker opp som Secret Santa hos Else.
@@ -92,15 +101,6 @@ Han skal feire jul for første gang med kjæresten, han har skrevet ny bok... og
       <itunes:duration>45:07</itunes:duration>
       <pubDate>Sun, 27 Oct 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/UVhgrkkohRcl_RlkBJ4NBwtenNCAQ88QvI2jCY2LD_rw.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: Ahmed Mamow</title>
-      <description><![CDATA[Vi snakker om stjeling av toalettruller på hotell, kjærlighetssorg og livet med dusj... på badet!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/ed54bddb-3043-47b6-a126-073eeb912ff1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/ed54bddb-3043-47b6-a126-073eeb912ff1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:16</itunes:duration>
-      <pubDate>Sun, 20 Oct 2024 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MQZNz3qc6yw455v5BFxljgEVBEQ8biK0iUgc1B7RjJIA.jpg"/>
     </item>
   </channel>
 </rss>
