@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 05:32:33 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Dec 2024 05:32:24 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Karl Bertil Ohlssons jul - med Jon Niklas Rønning</title>
+      <description><![CDATA[Den 24. desember må Jon Niklas Rønning se en bestemt tegnefilm på NRK for å komme i den rette julestemninga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/478725de-5357-44e5-83a5-abe9afa458a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/478725de-5357-44e5-83a5-abe9afa458a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:57</itunes:duration>
+      <pubDate>Mon, 23 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
     <item>
       <title>Lukta av snø - med Gunn Marit Nisja</title>
       <description><![CDATA[Kjenner du lukta av snø? spør forfatter Gunn Marit Nisja]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:41</itunes:duration>
       <pubDate>Mon, 02 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nxscnge62KaKgDRAB8f6vgNJLqKheXrE1OmbQ6_HCQqA.jpg"/>
-    </item>
-    <item>
-      <title>Et hellig tre - med Ragnhild Folkestad</title>
-      <description><![CDATA[Hva er det med trær, undrer filosof Ragnhild Folkestad.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/ee85ba51-2c7a-409c-b316-95cfe3a329e6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ee85ba51-2c7a-409c-b316-95cfe3a329e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:21</itunes:duration>
-      <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xkcLNcgLwZ-OS91yoe8wJQmBeyptuZCZHntMwM1o8-ug.jpg"/>
     </item>
   </channel>
 </rss>
