@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 07:27:09 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Dec 2024 08:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Dec 2024 08:34:56 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Dec 2024 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Hvem snakker mest i politisk kvarter?</title>
+      <description><![CDATA[Hvilke temaer er mest diskutert? Og hvilke partier var mest med? Vi lager årsmelding for politisk kvarter]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/91e7216c-a115-4ec7-b70c-7a1783861724_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/91e7216c-a115-4ec7-b70c-7a1783861724_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:10</itunes:duration>
+      <pubDate>Mon, 23 Dec 2024 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nbE8ycn30ORsexFp-g7VxQAb-Y4RcSIxFej4hTPEVjmA.jpg"/>
+    </item>
     <item>
       <title>2024</title>
       <description><![CDATA[Alle skal ned. Bortsett fra Frp. Politisk kvarter oppsummerer 2024.]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Tue, 10 Dec 2024 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/uGn5zEf4TV3_Ml5w3xSHSw5B-hefJhCMLdG_jFskJhnQ.jpg"/>
-    </item>
-    <item>
-      <title>Er miljøpartienes æra over?</title>
-      <description><![CDATA[Høyre og Frp kan få rent flertall.
-Er miljøpartienes æra over?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/c4a19247-4940-486e-b3f1-699cfd56c66a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/c4a19247-4940-486e-b3f1-699cfd56c66a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:02</itunes:duration>
-      <pubDate>Mon, 09 Dec 2024 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cwhphaIIUgf5B6OBWdy4tQEJQf7YHDgq-R8TbA8FyDwQ.jpg"/>
     </item>
   </channel>
 </rss>
