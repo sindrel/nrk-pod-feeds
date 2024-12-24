@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-12-24  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2024-12-20  
 - Updated podcast 'Bibelen' (`bibelen`)  
 - Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
