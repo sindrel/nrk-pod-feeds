@@ -1,87 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Seriesnakk</title>
+    <title>De 1 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 04:33:40 +0000</lastBuildDate>
-    <pubDate>Sat, 05 Oct 2024 06:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 25 Dec 2024 07:27:28 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aP5YrPy3ULG8bhqM3UzHUwhNgJ3hN8iCyN-CiuOuzHPg.jpg"/>
     <item>
-      <title>- Fin slutt for henne, men også for ham (8:8)</title>
-      <description><![CDATA[Dokumentarfilmskaper Jan Christian Mollestad ba Cohen sende en siste hilsen til den døende Marianne. Hvordan ble Mariannes liv?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/95671ccd-ce08-4900-b744-72eb6c205449_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/95671ccd-ce08-4900-b744-72eb6c205449_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:54</itunes:duration>
-      <pubDate>Sat, 05 Oct 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gdgP7v_Fkj9JzXpICa3ZTA07u75ID5p5-uH2qn0teeoA.jpg"/>
-    </item>
-    <item>
-      <title>- Jeg kommer aldri til å glemme ordet "pølse" (7:8)</title>
-      <description><![CDATA[Alex Wolff om hvorfor han blir sint om noen snakker stygt om Cohen. Poet Håvard Rem om Cohens depresjoner og jødiske liv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/2d888d04-60ab-484a-be72-afb768090e1e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/2d888d04-60ab-484a-be72-afb768090e1e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:18:33</itunes:duration>
-      <pubDate>Sat, 05 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gDNRtFa0KkJhF0Aimn8yags_N9VqlS_vIkHUFyI0_7xg.jpg"/>
-    </item>
-    <item>
-      <title>- Tida har stått stille der siden 1960 (6:8)</title>
-      <description><![CDATA[Serieskaper Øystein Karlsen om å lage So long, Marianne på Hydra. Journalist Vera Kvaal fikk spesiell bursdagsgave av Cohen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/855c17ca-f3d1-4f4c-8664-71001478c7f3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/855c17ca-f3d1-4f4c-8664-71001478c7f3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:07:44</itunes:duration>
-      <pubDate>Sat, 28 Sep 2024 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qC3yP3XFPDhBygENDuNY4wtp5KjvEzMANBGbaVgFpetw.jpg"/>
-    </item>
-    <item>
-      <title>- Han begynte å røyke da han var 7 (5:8)</title>
-      <description><![CDATA[Bård Kjøge Rønning om dokumentarfilmen han har laget om Lille-Axel. Helle Goldman om hvordan det var å vokse opp på Hydra.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/f8af1443-1762-42ff-b96d-c3f41608fb35_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/f8af1443-1762-42ff-b96d-c3f41608fb35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:09:11</itunes:duration>
-      <pubDate>Sat, 28 Sep 2024 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/45HzXzIm5gqWFkOW2jf1EAFuXLRpzPJtPAhBSj9-z1xg.jpg"/>
-    </item>
-    <item>
-      <title>- Første gang jeg spiller noen som har levd (4:8)</title>
-      <description><![CDATA[Skuespiller Thea Sofie Loch Næss ville vise at Marianne var mer enn en muse. Men så glemte hun hvordan hun spiller skuespill.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/cc4e9cfc-3855-4b43-8a82-53c2db47446e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/cc4e9cfc-3855-4b43-8a82-53c2db47446e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:50</itunes:duration>
-      <pubDate>Sat, 28 Sep 2024 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lLMdQJDeFZKnioUP0WQi7gBUXiJT8no-pHdz85oF1g0Q.jpg"/>
-    </item>
-    <item>
-      <title>- Musing skal foregå i senga (3:8)</title>
-      <description><![CDATA[Forfatter Marta Breen om Marianne som Leonards muse. Produsent Ingeborg Klyve om Leonards brev som fikk henne til å ville lage serien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/5720240b-7b01-4828-a517-e4eba6d7deff_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/5720240b-7b01-4828-a517-e4eba6d7deff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:37</itunes:duration>
-      <pubDate>Sat, 21 Sep 2024 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-R61HGmB9JE1CpUYjxynIgf9CxkPhrmJM614Fq_gTf4g.jpg"/>
-    </item>
-    <item>
-      <title>- Jeg satt bak monitor og grein (2:8)</title>
-      <description><![CDATA[Jonas Strand Gravli synes det var ubehagelig lett å spille ond. Axel Jensen-biograf, Torgrim Eggen, forteller om UFO-reiser og andre sprø historier.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/777d394e-4747-4bc2-9ffd-765bb14b8c49_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/777d394e-4747-4bc2-9ffd-765bb14b8c49_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:22:49</itunes:duration>
-      <pubDate>Sat, 21 Sep 2024 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TI-XT0EoOkV_pOexEZ6zegY56QC3HP_vExpO5RFxj9Jw.jpg"/>
-    </item>
-    <item>
-      <title>- Se og hør sov på dørmatta hennes! (1:8)</title>
-      <description><![CDATA[Dokumentarist Kari Hesthamar brakte Ihlen og Cohens kjærlighetshistorie ut i verden. Kunstner Bjørn Saastad var venn med Marianne på Hydra.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/53fa4e3d-c602-4dcd-8c4c-56161db94023_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/53fa4e3d-c602-4dcd-8c4c-56161db94023_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:14</itunes:duration>
-      <pubDate>Sat, 21 Sep 2024 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zQa5rMXyP4ui9bYFa6AGpQYmRwpBS1jrN0Ttm1d328_w.jpg"/>
+      <title>Seriesnakk: Familien Nerdrum</title>
+      <description><![CDATA[Öde mistet sin beste venn. Odd fikk en far som 50-åring. Regissør Linn ble usynlig. Kunstkritiker Mona mener Odd har rett til å være sur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/95e5bfed-5be4-4a13-9bd6-01bb93d47382_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/95e5bfed-5be4-4a13-9bd6-01bb93d47382_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:52:20</itunes:duration>
+      <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9g9re6OagHX2w2JC1MDqJgdWzEmOkjxCj7FyV0ceiYgQ.jpg"/>
     </item>
   </channel>
 </rss>
