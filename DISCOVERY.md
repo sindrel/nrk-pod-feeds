@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-12-29  
+- Updated podcast 'Debatten' (`debatten`)  
 ### 2024-12-25  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2024-12-24  
