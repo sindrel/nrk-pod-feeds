@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-12-30  
+- Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
 ### 2024-12-29  
 - Updated podcast 'Debatten' (`debatten`)  
 ### 2024-12-25  
