@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-03  
+- Updated podcast 'Supernytt forklarer' (`supernytt_forklarer`)  
 ### 2024-12-30  
 - Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
 ### 2024-12-29  
