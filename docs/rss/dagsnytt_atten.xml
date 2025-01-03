@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 19:22:58 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jan 2025 19:30:00 +0100</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2025 18:35:38 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2025 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Bodø/Glimt møter israelsk lag</title>
+      <description><![CDATA[Politiker og Glimt-supporter vil boikotte kampen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/993618fe-2c4d-4538-94df-af6344e6f6a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/993618fe-2c4d-4538-94df-af6344e6f6a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Fri, 03 Jan 2025 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2EJsZrJJMf5y-eRSL8NCzgBYntteI49yCUh8twvayZ3w.jpg"/>
+    </item>
     <item>
       <title>Store forsinkelser for jernbanen i 2024</title>
       <description><![CDATA[Forsinkelser og togstans forsetter inn i 2025. Togpassasjer, politikere og lokomotivfører møtes til debatt.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 13 Dec 2024 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/KiLD6tY0hKhZg9aWxdnA8gLHuO-4ojOMw0k7PJmnxVXQ.jpg"/>
-    </item>
-    <item>
-      <title>Ny strømprisrekord</title>
-      <description><![CDATA[Energiministeren svarer på hvorfor strømprisene fortsetter å stige.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/faeab9f3-b47f-4098-9fe4-7f6a252df6db_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/faeab9f3-b47f-4098-9fe4-7f6a252df6db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 12 Dec 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/y-IQbU3vnZ2qTvuSvVmamwqfxaCxvfo8ik40ju2SZjcw.jpg"/>
     </item>
   </channel>
 </rss>
