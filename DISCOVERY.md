@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-04  
+- Updated podcast 'Musikkrommet' (`musikkrommet`)  
 ### 2025-01-03  
 - Updated podcast 'Supernytt forklarer' (`supernytt_forklarer`)  
 ### 2024-12-30  
