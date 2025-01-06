@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-06  
+- Added podcast 'Vittig' (`vittig`)  
 ### 2025-01-04  
 - Updated podcast 'Musikkrommet' (`musikkrommet`)  
 ### 2025-01-03  
