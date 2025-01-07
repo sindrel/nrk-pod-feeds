@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 06 Jan 2025 18:36:59 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jan 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2025 18:37:01 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Oppvaskmøte om togstans</title>
+      <description><![CDATA[Oppvaskmøte etter at togene sto over hele landet 1. juledag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5923029b-4a84-45ba-9a66-6af654bdebaf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5923029b-4a84-45ba-9a66-6af654bdebaf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 07 Jan 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZmFLTfqNOJ-Et5DrY9QHowj5AqQzyE-S_TJ00JAIbceQ.jpg"/>
+    </item>
     <item>
       <title>Ytre høyre omfavner Trump</title>
       <description><![CDATA[Europas ytre-høyreledere knytter sterkere kontakt med USAs kommende ledere.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 17 Dec 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/d_ukzXvwgbOrbTGCtakwLAPPuq6n2bHlMn-D02b5pJng.jpg"/>
-    </item>
-    <item>
-      <title>Utvalg: Ingen skal lenger få brev i postkassen</title>
-      <description><![CDATA[Nå kan det gå mot slutten for en tjeneste som har vært i samfunnet helt siden 1600-tallet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/fb7bec69-d9cf-4c39-ae97-2ce25fdefc9b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fb7bec69-d9cf-4c39-ae97-2ce25fdefc9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 16 Dec 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aLX7g_1sGPm9fG4-22wMqwHsAageBEMxePVNz4uFSWKA.jpg"/>
     </item>
   </channel>
 </rss>
