@@ -687,7 +687,7 @@ const feeds = [
     "id": "leseklubben",
     "title": "De 10 siste fra Leseklubben",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "lindmo_og_co",
