@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 05:31:07 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 05:31:14 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Keiserens søster - med Ragnhild Lund Ansnes</title>
+      <description><![CDATA[Å være hyggelig med dem du møter, lønner seg, sier Ragnhild Lund Ansnes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/918cd084-1292-4cb4-97dd-3ad1cb822b94_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/918cd084-1292-4cb4-97dd-3ad1cb822b94_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:59</itunes:duration>
+      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0zJ-UbE0qPji64DnbsB9MA4IeOueKLJ_nN4l3fsclYXg.jpg"/>
+    </item>
     <item>
       <title>Ei open dør - med Ingelin Røssland</title>
       <description><![CDATA[Ei open dør betyr mykje for Ingelin Røssland. Ho vil at det skal vere plass rundt kjøkenbordet for den som vil sitte ned.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:28</itunes:duration>
       <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6VVTzuvC1D93sS0gdcb9tg6B8uDHzhR3m5lt_Z-5aNxw.jpg"/>
-    </item>
-    <item>
-      <title>Ole Paus om Josef - med Jon Niklas Rønning</title>
-      <description><![CDATA[Ole Paus hadde dyp respekt for Josef, den minst omtalte i juleevangeliet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/59cb8e9c-900a-41e4-ac7e-9051591bde53_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/59cb8e9c-900a-41e4-ac7e-9051591bde53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:48</itunes:duration>
-      <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
     </item>
   </channel>
 </rss>

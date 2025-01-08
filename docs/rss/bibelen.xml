@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 01 Jan 2025 05:31:03 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jan 2025 06:02:00 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 05:30:59 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
+    <item>
+      <title>Kain og Abel (3:40)</title>
+      <description><![CDATA[Lillebror funnet død i blodig åker. Storebror mangler alibi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/4e394e64-6968-4ad0-8aed-9030efc7dab3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/4e394e64-6968-4ad0-8aed-9030efc7dab3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:50</itunes:duration>
+      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YlY_t_JsD0lu9HoUMrqvfQrpNKnVt25jpqTTaRQgzoOQ.jpg"/>
+    </item>
     <item>
       <title>Syndefallet (2:40)</title>
       <description><![CDATA[Hvor lenge var Adam i paradis?]]></description>
@@ -28,15 +37,6 @@
       <itunes:duration>14:53</itunes:duration>
       <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pOwKkH6b92nT2qyiWG3CpgpMi3nLd8fLlPNyJsoI1J2Q.jpg"/>
-    </item>
-    <item>
-      <title>Kommer: Bibelen med Are Sende Osen</title>
-      <description><![CDATA[Hør podkasten Bibelen i appen NRK Radio fra 1. januar 2025]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/082fe346-63a2-4e68-9425-e6d69a1b90f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bibelen/082fe346-63a2-4e68-9425-e6d69a1b90f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:53</itunes:duration>
-      <pubDate>Fri, 20 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 05:32:27 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 05:31:09 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A.jpg"/>
+    <item>
+      <title>Antirasisme</title>
+      <description><![CDATA[Hva gjør du når absolutt alle vet hvem du er forelska i? Og Maxime har et råd mot rasisme, som faktisk funker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/e4554565-9d16-4c3a-bcb6-05fa4bcd303c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/e4554565-9d16-4c3a-bcb6-05fa4bcd303c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:49</itunes:duration>
+      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Hh_rKaJC1guReb5Yc7xA9AzWUcOUbhdMoeraTppLTivw.jpg"/>
+    </item>
     <item>
       <title>Bestevennen og eksen</title>
       <description><![CDATA[Er det greit å bli sammen med eksen til bestevennen? Og hvordan skjuler man det hvis man får hjemlengsel på overnattingsbesøk?]]></description>
@@ -92,15 +101,6 @@ Improbjella gir gode og rare råd.]]></description>
       <itunes:duration>21:35</itunes:duration>
       <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/i0n3JewiGrDhTVrDJl48FwQzWOS9pA6N9H1gn3TfUeSw.jpg"/>
-    </item>
-    <item>
-      <title>Trekantdrama</title>
-      <description><![CDATA[Et kjærlighetsbrev gikk ikke helt som planlagt – nå er det drama. Og hva svarer du når du blir lei av de samme spørsmålene?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/c308511d-abf9-41cd-8bb7-4d2cd062984b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/c308511d-abf9-41cd-8bb7-4d2cd062984b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:11</itunes:duration>
-      <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/P3CjkUbWo93pDZ-Pbz9FXwCxAQAnju-GfqeS241oqs-A.jpg"/>
     </item>
   </channel>
 </rss>
