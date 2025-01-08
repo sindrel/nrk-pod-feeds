@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2025-01-08  
+- Updated podcast 'Leseklubben' (`leseklubben`)  
+### 2025-01-08  
 - Updated podcast 'Debatten' (`debatten`)  
 - Updated podcast 'Leseklubben' (`leseklubben`)  
 ### 2025-01-06  
