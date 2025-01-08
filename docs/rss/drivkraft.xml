@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 12:52:39 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jan 2025 13:35:00 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 12:52:19 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 13:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Pia Seeberg</title>
+      <description><![CDATA[- Som barn var gym var det verste jeg visste, sier treningsinfluenseren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/134f02f7-cdac-46f2-b857-e82bc635d1f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/134f02f7-cdac-46f2-b857-e82bc635d1f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Wed, 08 Jan 2025 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_rwzy_lb6xYPPuBuPXxq6QbbALuTkH6QZNRiaNsNkeTA.jpg"/>
+    </item>
     <item>
       <title>Lene Drange</title>
       <description><![CDATA["Skal ikke du kjøpe First Price?" Det får økonomen fra Luksusfellen ofte høre på butikken, men penger er til for å brukes.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:06</itunes:duration>
       <pubDate>Tue, 10 Dec 2024 14:15:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/8hUqiAuJqJCEyberM2hpiQ0QPrSSWb4JDVf1436UczEg.jpg"/>
-    </item>
-    <item>
-      <title>Karin Fossum</title>
-      <description><![CDATA[– Jeg har en tatovering på et sted jeg kan skjule. Men det er ikke det dristigste jeg har gjort! Landets krimdronning er full av overraskelser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8a0ffd40-c95b-455e-8f3c-935918bbb36e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8a0ffd40-c95b-455e-8f3c-935918bbb36e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:11</itunes:duration>
-      <pubDate>Wed, 04 Dec 2024 14:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HHskLiun82cN0qPhaJUbtA6qseEHoMswhRuDWwHunU0g.jpg"/>
     </item>
   </channel>
 </rss>

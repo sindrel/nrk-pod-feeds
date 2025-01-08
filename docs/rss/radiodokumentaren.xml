@@ -1,61 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 25 Dec 2024 05:31:47 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Dec 2024 06:04:00 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 12:52:34 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Evig Liv</title>
-      <description><![CDATA[Evig Liv 
-Liv bor mer i Norge nå, og må på nytt bli kjent med landet, byen og gatene hun forlot for femti år siden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/1556dbfa-3439-4e12-a2eb-e8d77ab3d6d0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/1556dbfa-3439-4e12-a2eb-e8d77ab3d6d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:15</itunes:duration>
-      <pubDate>Wed, 25 Dec 2024 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SajoB48tyk4tWEekYK_PAwTMBPoDfeg_s4A74QOo4D9w.jpg"/>
-    </item>
-    <item>
-      <title>Amerika</title>
-      <description><![CDATA[Få kjenner det eventyrlige livet Liv levde i USA på åttitallet. Enda færre kjenner hemmeligheten hennes.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/00ef5c42-14c1-4d9f-b92c-789e20b95723_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/00ef5c42-14c1-4d9f-b92c-789e20b95723_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:36</itunes:duration>
-      <pubDate>Wed, 25 Dec 2024 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SajoB48tyk4tWEekYK_PAwTMBPoDfeg_s4A74QOo4D9w.jpg"/>
-    </item>
-    <item>
-      <title>Liv og Ingmar</title>
-      <description><![CDATA[Liv og Joachim leter i skuffer og skap som har vært lukket i femti år. Da åpner en helt ny verden seg, med ukjente historier om Livs liv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/dcdbd89a-7f25-4e8e-be8d-3b2928c011d1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/dcdbd89a-7f25-4e8e-be8d-3b2928c011d1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:53</itunes:duration>
-      <pubDate>Wed, 25 Dec 2024 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SajoB48tyk4tWEekYK_PAwTMBPoDfeg_s4A74QOo4D9w.jpg"/>
-    </item>
-    <item>
-      <title>Levd Liv</title>
-      <description><![CDATA[Livs ektemann gjennom førti år, har alzheimers. Selv om det har bragt dem enda nærmere hverandre, har det også gjort livet mer ensomt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/b9dc5a83-15a4-48be-9bb0-a9eceaecdbe4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/b9dc5a83-15a4-48be-9bb0-a9eceaecdbe4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:22</itunes:duration>
-      <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SajoB48tyk4tWEekYK_PAwTMBPoDfeg_s4A74QOo4D9w.jpg"/>
-    </item>
-    <item>
-      <title>Året med Liv Ullmann:</title>
-      <description><![CDATA[Den sanne historien om Norges største filmstjerne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/0020b88a-3d28-4bc5-b98a-ae0b5e11ab7b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/0020b88a-3d28-4bc5-b98a-ae0b5e11ab7b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:51</itunes:duration>
-      <pubDate>Mon, 23 Dec 2024 11:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SajoB48tyk4tWEekYK_PAwTMBPoDfeg_s4A74QOo4D9w.jpg"/>
+      <title>Smakebit: TikTok-krigeren Vova</title>
+      <description><![CDATA[I en stridsvogn ved fronten i Ukraina kjemper Vova mot russerne med granater – og på sosiale medier. I NRK Radio fra 9.1.2025.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f376a9bc-fdde-438a-a2bf-53f0ac0b28d6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f376a9bc-fdde-438a-a2bf-53f0ac0b28d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:28</itunes:duration>
+      <pubDate>Wed, 08 Jan 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aK6H7pE4GXJY6fbz8P_8RQg5DP0jFCQ5Oy4-WO2HMpuA.jpg"/>
     </item>
   </channel>
 </rss>
