@@ -171,7 +171,7 @@ const feeds = [
     "id": "debatten",
     "title": "De 10 siste fra Debatten",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "delfi_og_dolfy",
@@ -687,7 +687,7 @@ const feeds = [
     "id": "leseklubben",
     "title": "De 10 siste fra Leseklubben",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "lindmo_og_co",
