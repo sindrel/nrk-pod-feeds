@@ -832,6 +832,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "monsens_univers",
+    "title": "De 10 siste fra Monsens univers",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "museum",
     "title": "De 10 siste fra Museum - et program om norsk historie",
     "season": null,
