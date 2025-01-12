@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2025-01-12  
+- Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
+- Updated podcast 'Øyeblikket' (`yeblikket`)  
 ### 2025-01-11  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2025-01-11  
