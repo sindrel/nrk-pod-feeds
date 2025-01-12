@@ -293,7 +293,7 @@ const feeds = [
     "id": "fantus_og_lydene",
     "title": "De 10 siste fra Fantus og lydene",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "feriestemning",
@@ -1553,6 +1553,6 @@ const feeds = [
     "id": "yeblikket",
     "title": "De 10 siste fra Øyeblikket",
     "season": null,
-    "enabled": true
+    "enabled": false
   }
 ]
