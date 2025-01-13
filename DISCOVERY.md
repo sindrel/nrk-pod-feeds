@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-13  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-01-12  
 - Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
 - Updated podcast 'Øyeblikket' (`yeblikket`)  
