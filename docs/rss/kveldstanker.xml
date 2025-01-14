@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Jan 2025 05:31:58 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Jan 2025 05:29:59 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Et vendepunkt - med Geir Erik Berge</title>
+      <description><![CDATA[Geir Erik Berge lærte seg en lekse om å se og bli sett, høre og bli hørt. Da han som ung student utfordret en professor i medisin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0c384c9d-5883-4e1b-b00f-99e55f82bd8b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0c384c9d-5883-4e1b-b00f-99e55f82bd8b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Tue, 14 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JBj6rC8lLpPLh5jbujIzMg-_dzNDxrTtAJbmFtdlVakA.jpg"/>
+    </item>
     <item>
       <title>Ikke snik i køa! - med Terri Senior</title>
       <description><![CDATA[En ung mann forsøkte å snike i køa. Det skulle han ikke ha gjort,  forteller Terri Senior, nestleder i Møre og Romsdal Røde Kors.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>04:20</itunes:duration>
       <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yocQ3GR38SOVJEtULE2UdQf48T5qCKpQIizmaMdDxFSg.jpg"/>
-    </item>
-    <item>
-      <title>Si det - med Hein Anders Kvalheim</title>
-      <description><![CDATA[Fortell venner at du bryr deg om dem, råder Hein Anders Kvalheim.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/44029c81-d11d-4702-b1c9-cde319390eb4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/44029c81-d11d-4702-b1c9-cde319390eb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:23</itunes:duration>
-      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mZgIUUr1VooKQAk5pkKXiwslhzz8xOVzvvGMRMSbTeGQ.jpg"/>
     </item>
   </channel>
 </rss>
