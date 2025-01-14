@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 13 Jan 2025 18:38:52 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jan 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Jan 2025 18:34:53 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jan 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Villrein stopper utbygging</title>
+      <description><![CDATA[Kritikk av statsforvaltere som stanser til kraftutbygging på grunn av villrein.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f86808b1-3657-4ed7-90af-d4a8e0b574fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f86808b1-3657-4ed7-90af-d4a8e0b574fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:04</itunes:duration>
+      <pubDate>Tue, 14 Jan 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DhtkaGDesLIh-lQU40qsAglAIEQMp8974yMwwEYxozzw.jpg"/>
+    </item>
     <item>
       <title>Lover punktligere togavganger</title>
       <description><![CDATA[Samferdselsminister Jon-Ivar Nygård lover at flere tog skal være i rute, selv om hvert tredje tog ikke kom når det skulle i fjor.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Mon, 30 Dec 2024 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ift17g9TlfQ4C4hTHneBDQhqaDK1IWnhYQqdf7F3GcIw.jpg"/>
-    </item>
-    <item>
-      <title>Plastjuletrær kan være helseskadelige</title>
-      <description><![CDATA[Forskere advarer: helsefarlige stoffer kan lekke fra plasttrærne og ut i stuelufta]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/21810ea4-7158-4b53-98de-4e33a1706eb1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/21810ea4-7158-4b53-98de-4e33a1706eb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 23 Dec 2024 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ngqPWTDPdFC4FmrANDQ72wmA0yyqy6c9giE4dNqaNiiw.jpg"/>
     </item>
   </channel>
 </rss>
