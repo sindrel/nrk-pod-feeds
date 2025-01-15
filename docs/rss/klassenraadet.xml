@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 08 Jan 2025 05:31:09 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Jan 2025 05:31:15 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A.jpg"/>
+    <item>
+      <title>Venner som aldri drar</title>
+      <description><![CDATA[Er utflod farlig? Og hvordan får man venner til å dra hjem etter overnatting, uten å være frekk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/ded8b007-7b63-4830-abbd-00056e40070a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/ded8b007-7b63-4830-abbd-00056e40070a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:26</itunes:duration>
+      <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VufpS98jXoqtIE2W1SiDtAApDqWsWc4FVFuESjK9sxIA.jpg"/>
+    </item>
     <item>
       <title>Antirasisme</title>
       <description><![CDATA[Hva gjør du når absolutt alle vet hvem du er forelska i? Og Maxime har et råd mot rasisme, som faktisk funker.]]></description>
@@ -92,15 +101,6 @@ Improbjella gir gode og rare råd.]]></description>
       <itunes:duration>18:13</itunes:duration>
       <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nzxMABxI-C8FN25r2TCA-g2yHZtNmvg4MSNISfxbAwBg.jpg"/>
-    </item>
-    <item>
-      <title>Hår på tissen</title>
-      <description><![CDATA[Plutselig begynner det å vokse hår på de rareste steder; under armene, på beina og på tissen. Må man fjerne det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/189bc487-2d55-4279-b5d2-106916b6d0e1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/189bc487-2d55-4279-b5d2-106916b6d0e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:35</itunes:duration>
-      <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/i0n3JewiGrDhTVrDJl48FwQzWOS9pA6N9H1gn3TfUeSw.jpg"/>
     </item>
   </channel>
 </rss>
