@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 09:31:01 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Dec 2024 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Jan 2025 09:28:46 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jan 2025 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Robinson Crusoe" av Daniel Defoe</title>
+      <description><![CDATA[Første sesong av Robinson-ekspedisjonen (den uten Christer Falck)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c41f9418-3b33-42f8-a8e7-1e58fa6dde12_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c41f9418-3b33-42f8-a8e7-1e58fa6dde12_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:34</itunes:duration>
+      <pubDate>Wed, 15 Jan 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Heksejakt" Av Arthur Miller</title>
       <description><![CDATA[En jakt etter hekser blir en heksejakt]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0498ae8a-ffb1-44dd-86fc-63886e9544dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:52</itunes:duration>
       <pubDate>Wed, 23 Oct 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"Nervøse tilstander" Av Tsitsi Dangarembga</title>
-      <description><![CDATA[Livet er ikke enkelt for smarte og frihetssøkende jenter i et dumt og ufritt patriarkat]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/4d8c0459-2f67-42f9-9488-2b3ad2cb9ecb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/4d8c0459-2f67-42f9-9488-2b3ad2cb9ecb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:56</itunes:duration>
-      <pubDate>Wed, 16 Oct 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
