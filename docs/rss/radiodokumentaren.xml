@@ -1,33 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 05:30:28 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Jan 2025 12:50:38 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jan 2025 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Smakebit: TikTok-krigeren Vova</title>
-      <description><![CDATA[I en stridsvogn ved fronten i Ukraina kjemper Vova mot russerne med granater – og på sosiale medier. I NRK Radio fra 9.1.2025.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f376a9bc-fdde-438a-a2bf-53f0ac0b28d6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f376a9bc-fdde-438a-a2bf-53f0ac0b28d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28</itunes:duration>
-      <pubDate>Wed, 08 Jan 2025 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aK6H7pE4GXJY6fbz8P_8RQg5DP0jFCQ5Oy4-WO2HMpuA.jpg"/>
-    </item>
-    <item>
-      <title>TikTok-krigeren Vova</title>
-      <description><![CDATA[Etter flere år ved fronten i Ukraina håper Vova at krigen snart er over – mens drømmen om full seier føles stadig fjernere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/3c4a37a7-ba77-463e-bf73-585d4d4c3f9a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/3c4a37a7-ba77-463e-bf73-585d4d4c3f9a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:30</itunes:duration>
-      <pubDate>Thu, 09 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ru6Etd9wZUUBllUB94d4pgraVKy4kO_1fkO7JDsUm9Nw.jpg"/>
+      <title>Smakebit: Elena i ingenmannsland</title>
+      <description><![CDATA[Ukrainske Elena setter livet på spill for å ta seg av andre der hun bor ved fronten, rett ved grensa til Russland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/734d67d5-2715-4215-8a0f-781843ef0602_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/734d67d5-2715-4215-8a0f-781843ef0602_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:32</itunes:duration>
+      <pubDate>Wed, 15 Jan 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UgYJFkgEvtDro_zG4Ik5JA6Uo3chW6CIOGzuqHouqA6w.jpg"/>
     </item>
   </channel>
 </rss>
