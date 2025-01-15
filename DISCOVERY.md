@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-15  
+- Updated podcast 'Kladden har dævva' (`kladden_har_daevva`)  
 ### 2025-01-14  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-01-13  
