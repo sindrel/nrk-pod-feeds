@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 18:33:21 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jan 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Jan 2025 18:35:03 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jan 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Skjør våpenhvile i Gaza</title>
+      <description><![CDATA[Fortsatt uklarheter om våpenhvileavtalen i Midtøsten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d1603fdc-a999-443c-a6e9-9574a936430a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d1603fdc-a999-443c-a6e9-9574a936430a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 16 Jan 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2zs76hdvOBASoQBPdNGLrgMs2jnxzDJ3m8AmTDEQiMDg.jpg"/>
+    </item>
     <item>
       <title>Lover nedgang i helsekøer</title>
       <description><![CDATA[Helse- og omsorgsministeren vil modernisere fastlegeordningen og lover nedgang i ventetider i helsevesenet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:56</itunes:duration>
       <pubDate>Fri, 03 Jan 2025 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2EJsZrJJMf5y-eRSL8NCzgBYntteI49yCUh8twvayZ3w.jpg"/>
-    </item>
-    <item>
-      <title>Store forsinkelser for jernbanen i 2024</title>
-      <description><![CDATA[Forsinkelser og togstans forsetter inn i 2025. Togpassasjer, politikere og lokomotivfører møtes til debatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a4799e2e-44b1-466a-8556-fc15cf351bba_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a4799e2e-44b1-466a-8556-fc15cf351bba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:54</itunes:duration>
-      <pubDate>Thu, 02 Jan 2025 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZavTCb_DDPSy7d82Ug9iFQHNc_d6NmfgyPdWt77ESZlA.jpg"/>
     </item>
   </channel>
 </rss>
