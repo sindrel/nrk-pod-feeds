@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-19  
+- Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
 ### 2025-01-18  
 - Added podcast 'På audition' (`paa_audition`)  
 ### 2025-01-15  
