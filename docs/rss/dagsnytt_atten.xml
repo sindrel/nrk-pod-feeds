@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 17 Jan 2025 19:23:03 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jan 2025 19:40:00 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Jan 2025 19:23:16 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jan 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Donald Trump innsettes</title>
+      <description><![CDATA[Ingen grunn til frykt for nordmenn, mener Republicans Abroad.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c0101788-9be2-44fb-ad6f-96625ec8e096_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c0101788-9be2-44fb-ad6f-96625ec8e096_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 20 Jan 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Zv1OZyTuLoj0B7B02YWD0AfEFJ8tf5tDjE8rKK56-ztw.jpg"/>
+    </item>
     <item>
       <title>Ja til våpenhvileavtale</title>
       <description><![CDATA[Krigskabinettet i Israel godkjent avtale med Hamas.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 07 Jan 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZmFLTfqNOJ-Et5DrY9QHowj5AqQzyE-S_TJ00JAIbceQ.jpg"/>
-    </item>
-    <item>
-      <title>Ytre høyre omfavner Trump</title>
-      <description><![CDATA[Europas ytre-høyreledere knytter sterkere kontakt med USAs kommende ledere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/089caddb-526c-4a9f-a453-e2960be784cf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/089caddb-526c-4a9f-a453-e2960be784cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 06 Jan 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GiExY0Pz5YgqCSB1IRpuWwk-8YgOYHCNak57VOxUqWcw.jpg"/>
     </item>
   </channel>
 </rss>
