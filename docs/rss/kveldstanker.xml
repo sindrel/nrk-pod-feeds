@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Jan 2025 05:30:37 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Jan 2025 05:30:28 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Den lille gleden - med Henrik Syse</title>
+      <description><![CDATA[Vi søker gleder i livet, men glemmer ofte å registrere de små øyeblikkene. Det er dumt av oss, sier filosof Henrik Syse]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/395eb4bf-e114-4e68-8433-264c4de5c7f9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/395eb4bf-e114-4e68-8433-264c4de5c7f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:15</itunes:duration>
+      <pubDate>Tue, 21 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A3w8jm3IPsnvSMiu5Co0yAonxuL9NvamPMFipw4399-w.jpg"/>
+    </item>
     <item>
       <title>Min største tabbe - med Gunn Marit Nisja</title>
       <description><![CDATA[Ærlighet varer lengst, men ikke for forfattere, hevder Gunn Marit Nisja]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:57</itunes:duration>
       <pubDate>Mon, 23 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
-    </item>
-    <item>
-      <title>Lukta av snø - med Gunn Marit Nisja</title>
-      <description><![CDATA[Kjenner du lukta av snø? spør forfatter Gunn Marit Nisja]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/2f15c49d-93d7-4c42-9eba-83ecb3ef04e6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/2f15c49d-93d7-4c42-9eba-83ecb3ef04e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:54</itunes:duration>
-      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>
