@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 09:28:46 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jan 2025 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2025 09:29:22 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2025 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Vidunderlige nye verden" av Aldous Huxley</title>
+      <description><![CDATA[Alle er ruset, ingenting blir gjort]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2e9dcf06-7888-4482-9fe0-043cf8ec5078_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2e9dcf06-7888-4482-9fe0-043cf8ec5078_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:08</itunes:duration>
+      <pubDate>Wed, 22 Jan 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Robinson Crusoe" av Daniel Defoe</title>
       <description><![CDATA[Første sesong av Robinson-ekspedisjonen (den uten Christer Falck)]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/350dccac-da77-4b9f-bbcc-dc3e60f78391_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:01</itunes:duration>
       <pubDate>Wed, 30 Oct 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"I who have never known men" av  Jacqueline Harpman</title>
-      <description><![CDATA[Platons hulelignelse...bare med kvinner]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0498ae8a-ffb1-44dd-86fc-63886e9544dd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0498ae8a-ffb1-44dd-86fc-63886e9544dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:52</itunes:duration>
-      <pubDate>Wed, 23 Oct 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
