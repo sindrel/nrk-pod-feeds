@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 05:31:15 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2025 05:31:07 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A.jpg"/>
+    <item>
+      <title>Forbudte følelser</title>
+      <description><![CDATA[Er det greit å være forelska i et stesøsken? Og en venninne må alltid dra tidlig, men så viser det seg at hun henger med andre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/d5066e1a-eee8-4c34-bbc5-457013409b74_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/d5066e1a-eee8-4c34-bbc5-457013409b74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:57</itunes:duration>
+      <pubDate>Wed, 22 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0wKhitG5o1m4GRx6A8FkbQP6wrk0b7ubC574mcm8R7ew.jpg"/>
+    </item>
     <item>
       <title>Venner som aldri drar</title>
       <description><![CDATA[Er utflod farlig? Og hvordan får man venner til å dra hjem etter overnatting, uten å være frekk?]]></description>
@@ -92,15 +101,6 @@ Improbjella gir gode og rare råd.]]></description>
       <itunes:duration>17:28</itunes:duration>
       <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wck5gCfOa9nqcnhuEHmkWAk_ZuZZxzWCIGXL35pLv9Xg.jpg"/>
-    </item>
-    <item>
-      <title>Blir jeg ghosta?</title>
-      <description><![CDATA[Dersom man blir ghosta, skal man da si ifra? Kan man få noen til å slutte med å ghoste? Og hva gjør du når to av vennene dine ikke liker hverandre?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassenraadet/8d06787c-0f68-4f74-b929-26e2bfdf1b99_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/8d06787c-0f68-4f74-b929-26e2bfdf1b99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:13</itunes:duration>
-      <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nzxMABxI-C8FN25r2TCA-g2yHZtNmvg4MSNISfxbAwBg.jpg"/>
     </item>
   </channel>
 </rss>

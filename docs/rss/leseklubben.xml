@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Leseklubben</title>
+    <title>De 3 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 05:31:19 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jan 2025 06:03:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2025 05:31:11 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2025 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     <item>
@@ -29,6 +29,15 @@ Vi leser til s. 22 i Doppler til neste gang.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/ffe182a1-50ee-40b5-b615-580a14aacb1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:28</itunes:duration>
       <pubDate>Wed, 15 Jan 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KIJUxG2HygPRO-_In_ywoQ_YzSoIv73ROUY5GTZjsFnw.jpg"/>
+    </item>
+    <item>
+      <title>Flink, flinkere flinkest (3:6)</title>
+      <description><![CDATA[Hva er motgiften mot forbannet flinkhet? Og hva utløste Kristoffers største oppgjør med seg selv?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/39952260-a743-4bb4-8651-aeab72c8033a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/39952260-a743-4bb4-8651-aeab72c8033a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:14</itunes:duration>
+      <pubDate>Wed, 22 Jan 2025 06:03:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/KIJUxG2HygPRO-_In_ywoQ_YzSoIv73ROUY5GTZjsFnw.jpg"/>
     </item>
   </channel>
