@@ -1,5 +1,8 @@
 # Podcast Discovery Changelog  
 ### 2025-01-23  
+- Podcast 'Dálla ja dalloj' is considered obsolete and will be ignored in the future (`dlla_ja_dalloj`)  
+- Updated podcast 'Julestemning med Live og Ronny' (`julestemning`)  
+### 2025-01-23  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2025-01-19  
 - Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
