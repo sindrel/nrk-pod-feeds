@@ -199,7 +199,9 @@ const feeds = [
     "id": "dlla_ja_dalloj",
     "title": "De 10 siste fra Dálla ja dalloj",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "doemt",
@@ -511,7 +513,7 @@ const feeds = [
     "id": "julestemning",
     "title": "De 10 siste fra Julestemning med Live og Ronny",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "juntafil",
