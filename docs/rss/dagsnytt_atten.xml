@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 18:37:16 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jan 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Jan 2025 18:35:41 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jan 2025 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Forlater Sp regjeringen?</title>
+      <description><![CDATA[Arbeiderpartiet har fremmet saken som Senterpartiet ikke kan godta. Kan gå mot exit for Senterpartiet i regjeringen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/26807ec1-5a63-46a2-90fc-5cb05d195de8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/26807ec1-5a63-46a2-90fc-5cb05d195de8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:57</itunes:duration>
+      <pubDate>Thu, 23 Jan 2025 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6bAZ6HIQJih_lON7d9Ce1QrINvOYZCqwNCObV1BkqrZg.jpg"/>
+    </item>
     <item>
       <title>Regjeringsstrid om energi</title>
       <description><![CDATA[Arbeiderpartiet og Senterpartiet er dypt uenige om innføringen EUs fjerde energimarkedspakke.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 10 Jan 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oKQWgPCpIqHpgjsj6VqvHAgJzrZsw6kyq6lmhKqcxGWQ.jpg"/>
-    </item>
-    <item>
-      <title>Krisemøte i Danmark om Trump og Grønland</title>
-      <description><![CDATA[De danske partilederne er samlet hos statsministeren etter at Donald Trump har vist interesse for Grønland.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7cd398e2-36e6-47c2-a6ee-f6b2d7a084b9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7cd398e2-36e6-47c2-a6ee-f6b2d7a084b9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:47</itunes:duration>
-      <pubDate>Thu, 09 Jan 2025 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ep96IwyAIK0sjVCTXAnkxgey2AkXuM3CdVqCmp7EXutQ.jpg"/>
     </item>
   </channel>
 </rss>
