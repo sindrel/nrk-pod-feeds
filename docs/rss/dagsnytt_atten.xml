@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Jan 2025 18:35:41 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jan 2025 19:30:00 +0100</pubDate>
+    <lastBuildDate>Fri, 24 Jan 2025 18:35:23 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jan 2025 19:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Bærum-søstrene dømt</title>
+      <description><![CDATA[De to søstrene er begge dømt til fengsel for deltakelse i terrororganisasjonen IS.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b46681d3-1b96-4c59-82e8-15a8c3121599_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b46681d3-1b96-4c59-82e8-15a8c3121599_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 24 Jan 2025 19:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s08zeK9v-FwUNxWwhGmtSQwpPytzyzdy_sbX-LygzF4g.jpg"/>
+    </item>
     <item>
       <title>Forlater Sp regjeringen?</title>
       <description><![CDATA[Arbeiderpartiet har fremmet saken som Senterpartiet ikke kan godta. Kan gå mot exit for Senterpartiet i regjeringen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 13 Jan 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/gS3I0UlAwROU67K6kWHSrwqbtywd6E4xEbl8uYzOQ3kA.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen forbereder Norge på krig</title>
-      <description><![CDATA[Opposisjonen er kritisk til totalberedskapsmeldingen, som regjeringen la fram i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/24ccfc96-fb68-4f10-bc7a-23a654ad3242_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/24ccfc96-fb68-4f10-bc7a-23a654ad3242_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 10 Jan 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oKQWgPCpIqHpgjsj6VqvHAgJzrZsw6kyq6lmhKqcxGWQ.jpg"/>
     </item>
   </channel>
 </rss>
