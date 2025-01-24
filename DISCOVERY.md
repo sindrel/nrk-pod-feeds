@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-24  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-01-23  
 - Podcast 'Dálla ja dalloj' is considered obsolete and will be ignored in the future (`dlla_ja_dalloj`)  
 - Updated podcast 'Julestemning med Live og Ronny' (`julestemning`)  
