@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 18 Jan 2025 05:28:58 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 25 Jan 2025 05:29:14 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    <item>
+      <title>Den lille verden</title>
+      <description><![CDATA[Danmark mener Norge bør gi mer penger til Ukraina, Sverige og Norge står alene mot VAR, og hva er et hjem om alt brenner?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/bd65d703-c86d-4315-8253-fe5645dfa122_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/bd65d703-c86d-4315-8253-fe5645dfa122_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 25 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
     <item>
       <title>Nordens Forenede Stater</title>
       <description><![CDATA[Kan vi få en nordisk union? Er Norge så rikt at det er et problem? Og hvorfor lo ikke svenskene av havarert sovjetisk ubåt i skjærgården før nå?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 16 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
-    </item>
-    <item>
-      <title>Trump-moments</title>
-      <description><![CDATA[Valget i USA setter preg på sakene i ukens terapitime, fra ny dansk maktutredning, via alternativ jul, til krenket tannlegestudent i Bergen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/7a90c669-9da0-4b1b-9c31-f270515a096f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/7a90c669-9da0-4b1b-9c31-f270515a096f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 09 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bwLO1PLDTM3xXpNscVi3cwSMZREb1ikzUTY_7vyb01Gg.jpg"/>
     </item>
   </channel>
 </rss>

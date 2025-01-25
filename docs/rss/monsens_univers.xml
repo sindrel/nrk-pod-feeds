@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Monsens univers</title>
+    <title>De 4 siste fra Monsens univers</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Monsens univers. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/monsens_univers for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Monsens univers. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/monsens_univers for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 18 Jan 2025 05:28:56 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 25 Jan 2025 05:29:12 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aLnJImXCu2_m8Byo-OcjoAMIQNQjUaADk7UStbW2OHbQ.jpg"/>
+    <item>
+      <title>Blikkontakt med bjørn</title>
+      <description><![CDATA[Biolog Paul Eric Aspholm kjenner alle brunbjørnens irriterte ansiktsutrykk. Lars forteller om isbjørnen han helst ikke ville drepe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/cc4e7207-96bf-49b8-8229-44a010e10f03_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/cc4e7207-96bf-49b8-8229-44a010e10f03_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:59</itunes:duration>
+      <pubDate>Sat, 25 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ.jpg"/>
+    </item>
     <item>
       <title>Hallusinasjoner i Himalaya</title>
       <description><![CDATA["Du kaster bort livet ditt" sa de sykeste pasientene til sykepleieren Jannicke. Da dro hun til verdens vakreste fjell.
