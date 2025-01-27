@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 05:31:10 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 05:30:37 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Den som ler sist-  med Jon Niklas Rønning</title>
+      <description><![CDATA[Artisten John Denver var visst ikke kul nok til aksjonen "We are the world". De skulle bare visst, forteller Jon Niklas Rønning]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4a1c739c-7f0c-4067-a591-ae0f6bf31f7f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4a1c739c-7f0c-4067-a591-ae0f6bf31f7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:12</itunes:duration>
+      <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
     <item>
       <title>Kremmar i nabolaget - med Ingelin Røssland</title>
       <description><![CDATA[Å tene pengar til skuletur kan vere ei lykke for ein ung kremmar, og ein klump i magen for foreldre. Men ein kan ta feil.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:52</itunes:duration>
       <pubDate>Mon, 06 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mZgIUUr1VooKQAk5pkKXiwslhzz8xOVzvvGMRMSbTeGQ.jpg"/>
-    </item>
-    <item>
-      <title>Onkel Jørgen - med Arill Riise</title>
-      <description><![CDATA[Det var ikkje ribbelukt og englar som satte julestemninga for  nyheitsankeret Arill Riise då han var barn. Det var onkel Jørgen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4dce0663-89b0-4133-a447-9f2b40c82ec1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4dce0663-89b0-4133-a447-9f2b40c82ec1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:13</itunes:duration>
-      <pubDate>Mon, 30 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/a_2Gd7uLmQUo3UghECXFnwnF7FsZf4WMZZjmbLo-tkiw.jpg"/>
     </item>
   </channel>
 </rss>

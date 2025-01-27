@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Jan 2025 05:30:47 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 05:30:48 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Søvn</title>
+      <description><![CDATA[Hva kan man gjøre for å sove bedre? Og er det mulig å drepe noen i søvne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/93a86a82-e461-4ff3-bf47-112b76b33130_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/93a86a82-e461-4ff3-bf47-112b76b33130_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:09</itunes:duration>
+      <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
     <item>
       <title>Svenske tilstander</title>
       <description><![CDATA[Hvor ille kan man egentlig ha det i et land hvor bacon og alkohol er så billig? Med Åsa Linderborg.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:21:27</itunes:duration>
       <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mYx73LUGFcXqTNTjq4mmYAUHHTrCMRyWHZ3NJgVKvH3A.jpg"/>
-    </item>
-    <item>
-      <title>Hvit nasjonalisme i USA</title>
-      <description><![CDATA[Evan McLaren ble radikalisert, kalte seg fascist og hvit nasjonalist, og så snudde han og flyttet til Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/3fb8e01a-c072-4b6e-8e25-9cbdcd8cf5d7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/3fb8e01a-c072-4b6e-8e25-9cbdcd8cf5d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:34:41</itunes:duration>
-      <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZvejrZaLSV9FWyzHVVQRgwy8iBCydhtq2HhZP3DI44Qw.jpg"/>
     </item>
   </channel>
 </rss>

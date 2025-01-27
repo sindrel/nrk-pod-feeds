@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 20 Jan 2025 05:30:42 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 05:30:44 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
+    <item>
+      <title>Steinar Hallert</title>
+      <description><![CDATA[Andre kandidat er på plass! Adelina utfordrer Steinar Hallert - for han er jo veldig morsom... men kan han være genuin?!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/2ca08a1c-7f23-45bc-a002-3933985ede1a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/2ca08a1c-7f23-45bc-a002-3933985ede1a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:06</itunes:duration>
+      <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/czN6kxpmLPoFPod9FjvcCAfsuCLq6AQmBliKNJxGxbJw.jpg"/>
+    </item>
     <item>
       <title>Morten Ramm</title>
       <description><![CDATA[Førstemann ut er Morten Ramm. Adelina vil inn under huden: har han egenskaper hun leter etter – eller noen hun absolutt ikke vil ha?]]></description>
@@ -19,15 +28,6 @@
       <itunes:duration>40:54</itunes:duration>
       <pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/So5oz0e3wLJNWzYQOFx6GAn3jlERWIYJys17NRh0Om2w.jpg"/>
-    </item>
-    <item>
-      <title>På audition</title>
-      <description><![CDATA[Ny podkast med Adelina Ibishi kommer i NRK Radio mandag 20. januar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/cff11c41-9ec9-4db5-b4cb-a8861f74dab4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/paa_audition/cff11c41-9ec9-4db5-b4cb-a8861f74dab4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:33</itunes:duration>
-      <pubDate>Fri, 17 Jan 2025 21:22:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
     </item>
   </channel>
 </rss>
