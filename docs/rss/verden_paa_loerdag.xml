@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 05:30:43 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 16:34:12 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>Benådet</title>
+      <description><![CDATA[Han stormet Kongressen - nå er han fri.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/4a27e8c7-8400-4782-bc50-6dc39989dda9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/4a27e8c7-8400-4782-bc50-6dc39989dda9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:59</itunes:duration>
+      <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X2_V3Fitp-KMZ7qMj9oomgNakt_cWZAIou0G0I3TlLxA.jpg"/>
+    </item>
     <item>
       <title>Vil endre grunnloven i kampen mot innvandring</title>
       <description><![CDATA[Trump vil fjerne fødselsretten til statsborgskap, og med det endre grunnloven. Men kan han gjøre det?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>12:50</itunes:duration>
       <pubDate>Mon, 23 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yi2MigfPDGfAQDdHwUzeGw5CHsiWE81ClgrJn78bYfww.jpg"/>
-    </item>
-    <item>
-      <title>Dette er Israels plan</title>
-      <description><![CDATA[Israel fortsetter å okkupere land på Golanhøydene og Vestbredden. Hvorfor gjør de det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/6a2926b3-a155-4129-8979-7b10e9cc3f38_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/6a2926b3-a155-4129-8979-7b10e9cc3f38_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:28</itunes:duration>
-      <pubDate>Fri, 20 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D0sWgmWXzOBgByImzZNIvwPPO4e7DcXiQIh1fvXIyw2g.jpg"/>
     </item>
   </channel>
 </rss>
