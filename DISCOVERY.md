@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-28  
+- Added podcast 'Misforstå meg rett' (`misforstaa_meg_rett`)  
 ### 2025-01-24  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-01-23  
