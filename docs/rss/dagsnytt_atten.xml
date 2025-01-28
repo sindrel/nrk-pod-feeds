@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Jan 2025 18:35:47 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jan 2025 19:20:00 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Jan 2025 18:35:24 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jan 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Børsene skjelver av DeepSeek</title>
+      <description><![CDATA[Børsene skjelver av tekstroboten DeepSeek, men det kan bli en fordel for vanlige forbrukere, mener kommentator.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/930a8df9-fe5c-48f2-96fb-2653098c8c7a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/930a8df9-fe5c-48f2-96fb-2653098c8c7a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 28 Jan 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8_8TNDWFjMic_IgvEG4KXAtA9LMUv5udcJYuvcdQ2wNw.jpg"/>
+    </item>
     <item>
       <title>Jobber for en løsning på regjeringas energipakke-knute</title>
       <description><![CDATA[Ennå ingen enighet om EUs energipakke.
@@ -92,15 +101,6 @@
       <itunes:duration>59:06</itunes:duration>
       <pubDate>Wed, 15 Jan 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ThL1JIkwnhn7BvX6cW9VRQjp8F_kM6buS0dTF_ziZ-Yw.jpg"/>
-    </item>
-    <item>
-      <title>Villrein stopper utbygging</title>
-      <description><![CDATA[Kritikk av statsforvaltere som stanser til kraftutbygging på grunn av villrein.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f86808b1-3657-4ed7-90af-d4a8e0b574fc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f86808b1-3657-4ed7-90af-d4a8e0b574fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:04</itunes:duration>
-      <pubDate>Tue, 14 Jan 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DhtkaGDesLIh-lQU40qsAglAIEQMp8974yMwwEYxozzw.jpg"/>
     </item>
   </channel>
 </rss>
