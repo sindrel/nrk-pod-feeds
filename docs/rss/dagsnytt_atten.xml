@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 Jan 2025 18:35:24 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jan 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2025 18:35:33 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jan 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Rekordresultat for oljefondet</title>
+      <description><![CDATA[Oljefondet har steget med rundt 4.000 milliarder bare det siste året. 
+Samtidig er det debatt om oljefondsjefens SMS-dialog med Elon Musk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/654dd2e6-6dbf-4ae3-8b8e-ff073d3222a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/654dd2e6-6dbf-4ae3-8b8e-ff073d3222a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 29 Jan 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RWhuaklcvMiGXeoUPrr41AVCHQRL2p61ivIE632bGy3g.jpg"/>
+    </item>
     <item>
       <title>Børsene skjelver av DeepSeek</title>
       <description><![CDATA[Børsene skjelver av tekstroboten DeepSeek, men det kan bli en fordel for vanlige forbrukere, mener kommentator.]]></description>
@@ -92,15 +102,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 16 Jan 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2zs76hdvOBASoQBPdNGLrgMs2jnxzDJ3m8AmTDEQiMDg.jpg"/>
-    </item>
-    <item>
-      <title>Lover nedgang i helsekøer</title>
-      <description><![CDATA[Helse- og omsorgsministeren vil modernisere fastlegeordningen og lover nedgang i ventetider i helsevesenet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/006f820a-0160-4175-b082-c656d2b9729a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/006f820a-0160-4175-b082-c656d2b9729a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:06</itunes:duration>
-      <pubDate>Wed, 15 Jan 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ThL1JIkwnhn7BvX6cW9VRQjp8F_kM6buS0dTF_ziZ-Yw.jpg"/>
     </item>
   </channel>
 </rss>
