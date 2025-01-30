@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 18:35:33 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jan 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Jan 2025 18:35:16 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jan 2025 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Senterpartiet går ut av regjeringen</title>
+      <description><![CDATA[Både Støre og Vedum stiller i Dagsnytt 18 etter regjeringsbruddet.
+En ren Ap-regjering er først klar neste uke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c460bf5f-a8ee-4117-8cbc-45843ba217df_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c460bf5f-a8ee-4117-8cbc-45843ba217df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:53</itunes:duration>
+      <pubDate>Thu, 30 Jan 2025 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TmGyj6uRfVf8t3oMIYvx6wvbbV44CoUwgyzjV2Cq92jA.jpg"/>
+    </item>
     <item>
       <title>Rekordresultat for oljefondet</title>
       <description><![CDATA[Oljefondet har steget med rundt 4.000 milliarder bare det siste året. 
@@ -93,15 +103,6 @@ Samtidig er det debatt om oljefondsjefens SMS-dialog med Elon Musk.]]></descript
       <itunes:duration>58:52</itunes:duration>
       <pubDate>Fri, 17 Jan 2025 19:40:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3X8Fm9tezSIxF3zJR3A7lAvZcvnW4xbsfCU-vsIqQxgA.jpg"/>
-    </item>
-    <item>
-      <title>Skjør våpenhvile i Gaza</title>
-      <description><![CDATA[Fortsatt uklarheter om våpenhvileavtalen i Midtøsten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d1603fdc-a999-443c-a6e9-9574a936430a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d1603fdc-a999-443c-a6e9-9574a936430a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 16 Jan 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2zs76hdvOBASoQBPdNGLrgMs2jnxzDJ3m8AmTDEQiMDg.jpg"/>
     </item>
   </channel>
 </rss>
