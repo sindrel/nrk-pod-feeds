@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 18:35:16 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jan 2025 19:30:00 +0100</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2025 18:34:35 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2025 19:25:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringen vil innføre fastpris på strøm</title>
+      <description><![CDATA[Et knapt døgn etter at Senterpartiet forlot regjeringskontorene presenterte Arbeiderpartiet sin nye strømplan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e88cafdb-7ac8-462c-bd87-c8d128b5a2fd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e88cafdb-7ac8-462c-bd87-c8d128b5a2fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Fri, 31 Jan 2025 19:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VgAlItgbjuD_sKllQUao_QH7Yy2U4JrOX7mksx72oi8Q.jpg"/>
+    </item>
     <item>
       <title>Senterpartiet går ut av regjeringen</title>
       <description><![CDATA[Både Støre og Vedum stiller i Dagsnytt 18 etter regjeringsbruddet.
@@ -94,15 +103,6 @@ Samtidig er det debatt om oljefondsjefens SMS-dialog med Elon Musk.]]></descript
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 20 Jan 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Zv1OZyTuLoj0B7B02YWD0AfEFJ8tf5tDjE8rKK56-ztw.jpg"/>
-    </item>
-    <item>
-      <title>Ja til våpenhvileavtale</title>
-      <description><![CDATA[Krigskabinettet i Israel godkjent avtale med Hamas.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/333f285b-64ef-4ad3-b211-54437d569d1d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/333f285b-64ef-4ad3-b211-54437d569d1d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:52</itunes:duration>
-      <pubDate>Fri, 17 Jan 2025 19:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3X8Fm9tezSIxF3zJR3A7lAvZcvnW4xbsfCU-vsIqQxgA.jpg"/>
     </item>
   </channel>
 </rss>
