@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2025-01-31  
+- Updated podcast 'Arena' (`arena`)  
+- Updated podcast 'Luođis luohtái' (`luois_luohti`)  
 ### 2025-01-28  
 - Added podcast 'Misforstå meg rett' (`misforstaa_meg_rett`)  
 ### 2025-01-24  
