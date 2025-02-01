@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 25 Jan 2025 05:29:14 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 01 Feb 2025 05:29:28 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    <item>
+      <title>Ypping til strid</title>
+      <description><![CDATA[Svensk kulturminister ypper med filmbransjen, regjeringskrisen i Norge skjerper EU-debatten og danske medier er under statlig press. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ae8f37f4-2dff-45f5-abf0-ad1745f86a2c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ae8f37f4-2dff-45f5-abf0-ad1745f86a2c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 01 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
     <item>
       <title>Den lille verden</title>
       <description><![CDATA[Danmark mener Norge bør gi mer penger til Ukraina, Sverige og Norge står alene mot VAR, og hva er et hjem om alt brenner?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 23 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NE__3hPIp9o7Ixf1GrmnEwdp8495nsjM1LALHajiwuQQ.jpg"/>
-    </item>
-    <item>
-      <title>Vredens druer</title>
-      <description><![CDATA[Ordskiftet blir preget av stemningen etter USA-valget. Det har blitt trendy å drikke mindre. Og kan kulturens kraft redde det menneskelige i oss?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/71625b16-5f86-4e65-bd89-88807907456f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/71625b16-5f86-4e65-bd89-88807907456f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 16 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
     </item>
   </channel>
 </rss>

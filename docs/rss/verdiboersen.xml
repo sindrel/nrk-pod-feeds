@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 31 Jan 2025 11:24:25 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jan 2025 12:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 01 Feb 2025 05:29:40 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Hvem blir ensomme?</title>
+      <description><![CDATA[Vi snakker om ensomhet og myter om ensomhet. Er det sant at ensomheten øker?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/fbfa57af-fb05-45d9-90f8-8f384598022d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/fbfa57af-fb05-45d9-90f8-8f384598022d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:51</itunes:duration>
+      <pubDate>Sat, 01 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FpiyHIzirRldaVNBeszL9gUdlS5G171GrzMR1vNL2NTw.jpg"/>
+    </item>
     <item>
       <title>-Ingen må brenne Koranen!</title>
       <description><![CDATA[Muslimske land vil kriminalisere blasfemi globalt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:13</itunes:duration>
       <pubDate>Fri, 10 Jan 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/85kLEgpH4OAFMKOkHTAz9Afs39V1uqGi2qDK4kmYPc3Q.jpg"/>
-    </item>
-    <item>
-      <title>Vikingene i Grønland</title>
-      <description><![CDATA[I 500 år bodde det vikinger i Grønland. Så forsvant de. Ingen vet hvorfor]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/67f3558d-e912-4372-a3e7-d2be8a451aa1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/67f3558d-e912-4372-a3e7-d2be8a451aa1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:06</itunes:duration>
-      <pubDate>Fri, 10 Jan 2025 11:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0xW19OGXtCsUizR5nCl88whC39EK06fVFUGVCs8SNTNw.jpg"/>
     </item>
   </channel>
 </rss>
