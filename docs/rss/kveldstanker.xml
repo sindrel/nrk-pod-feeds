@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 05:30:34 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 03 Feb 2025 05:30:43 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Naiv lykke - med Ragnhild Lund Ansnes</title>
+      <description><![CDATA[Et naivt og skummelt valg kan av og til gi deg ditt livs opplevelse, forteller Ragnhild Lund Ansnes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/8848d838-d6f9-4d64-b631-00d801860ec8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/8848d838-d6f9-4d64-b631-00d801860ec8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:05</itunes:duration>
+      <pubDate>Mon, 03 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0zJ-UbE0qPji64DnbsB9MA4IeOueKLJ_nN4l3fsclYXg.jpg"/>
+    </item>
     <item>
       <title>Magisk opprydding - med Ragnhild Folkestad</title>
       <description><![CDATA[Leser du selvhjelpsbøker? Det er ikke nødvendigivis så mye hjelp i dem, mener filosof Ragnhild Folkestad.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:35</itunes:duration>
       <pubDate>Mon, 13 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yocQ3GR38SOVJEtULE2UdQf48T5qCKpQIizmaMdDxFSg.jpg"/>
-    </item>
-    <item>
-      <title>Keiserens søster - med Ragnhild Lund Ansnes</title>
-      <description><![CDATA[Å være hyggelig med dem du møter, lønner seg, sier Ragnhild Lund Ansnes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/918cd084-1292-4cb4-97dd-3ad1cb822b94_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/918cd084-1292-4cb4-97dd-3ad1cb822b94_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:59</itunes:duration>
-      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0zJ-UbE0qPji64DnbsB9MA4IeOueKLJ_nN4l3fsclYXg.jpg"/>
     </item>
   </channel>
 </rss>
