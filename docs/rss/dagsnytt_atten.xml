@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 31 Jan 2025 18:34:35 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jan 2025 19:25:00 +0100</pubDate>
+    <lastBuildDate>Mon, 03 Feb 2025 18:34:59 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Feb 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Presenterer ny regjering i morgen</title>
+      <description><![CDATA[Statsminister Jonas Gahr Støre (Ap) presenterer sin nye regjering i morgen, erfarer NRK. Åtte statsråder skal byttes ut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/29616740-7053-4304-865b-b96767182c4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/29616740-7053-4304-865b-b96767182c4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 03 Feb 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n0OWOZIHkboZaZnHK-8fbw8dNdN1JbGkX0d-canULwxg.jpg"/>
+    </item>
     <item>
       <title>Regjeringen vil innføre fastpris på strøm</title>
       <description><![CDATA[Et knapt døgn etter at Senterpartiet forlot regjeringskontorene presenterte Arbeiderpartiet sin nye strømplan.]]></description>
@@ -94,15 +103,6 @@ Samtidig er det debatt om oljefondsjefens SMS-dialog med Elon Musk.]]></descript
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 21 Jan 2025 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/exovGtDOXt_Ll2xsnOWvKgWUDb_aJWBgG6sAzCGfRgBw.jpg"/>
-    </item>
-    <item>
-      <title>Donald Trump innsettes</title>
-      <description><![CDATA[Ingen grunn til frykt for nordmenn, mener Republicans Abroad.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c0101788-9be2-44fb-ad6f-96625ec8e096_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c0101788-9be2-44fb-ad6f-96625ec8e096_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 20 Jan 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Zv1OZyTuLoj0B7B02YWD0AfEFJ8tf5tDjE8rKK56-ztw.jpg"/>
     </item>
   </channel>
 </rss>
