@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Spør for en venn</title>
+    <title>De 6 siste fra Spør for en venn</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Spør for en venn. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/spoer_for_en_venn for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Spør for en venn. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/spoer_for_en_venn for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 28 Jan 2025 05:30:27 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 04 Feb 2025 05:31:22 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQ522tN3q9uHRw6AQ_WPt-ew.jpg"/>
+    <item>
+      <title>Optimal søvn og melk fra puppene</title>
+      <description><![CDATA[Funker melatonin, eller kan man like gjerne ta seg en kiwi? Vi tester! En lytter opplevde melk fra puppene under sex. Hva skjedde?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spoer_for_en_venn/5a2be68f-8703-435d-b610-89b78c3d2b33_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spoer_for_en_venn/5a2be68f-8703-435d-b610-89b78c3d2b33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:12</itunes:duration>
+      <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQ522tN3q9uHRw6AQ_WPt-ew.jpg"/>
+    </item>
     <item>
       <title>Viagra på fylla og hårete armer</title>
       <description><![CDATA[Kan man prøve en liten, blå pille hvis pikken ikke blir hard etter noen øl? Jesper har tips til hva man kan si til partner, og gjengen har barbert armene - blir håret mørkere?]]></description>

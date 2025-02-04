@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Tyrann</title>
+    <title>De 2 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 03 Feb 2025 13:30:51 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Feb 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 04 Feb 2025 05:31:25 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -18,6 +18,24 @@
       <enclosure url="https://podkast.nrk.no/fil/tyrann/2e0bdb64-c964-48b3-828c-7a6db21496e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:33</itunes:duration>
       <pubDate>Mon, 03 Feb 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QCWgbUDXZQ3sQqcdnfv-SATspwZx9KNHlzMRcWDsjNTQ.jpg"/>
+    </item>
+    <item>
+      <title>Papa Doc  (1:4)</title>
+      <description><![CDATA[Den gode barnelegen Francois Duvalier forvandles til den onde presidenten "Papa Doc". Folket i Haiti får det mye, mye verre. 
+
+Kildeliste: 
+Papa Doc: Haiti and its Dictator: Barnard Diederich & Al Burt 
+Papa Doc, Baby Doc: Haiti and the Duvaliers: James Ferguson 
+Francois & Jean-Claude Duvalier; Erin Condit 
+Haiti: A Shattered Nation; Elizabeth Abbott 
+Written in Blood: Robert Debs Heinl 
+Third-World Folk Beliefs: Haiti Medical Anthropology: Bryant C. Freeman 
+Dominican Republic & Haiti country studies: Helen Chapin Metz (red]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/8dabbbff-87bd-4673-9d3a-9bf2f85666b0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/8dabbbff-87bd-4673-9d3a-9bf2f85666b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:22</itunes:duration>
+      <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QCWgbUDXZQ3sQqcdnfv-SATspwZx9KNHlzMRcWDsjNTQ.jpg"/>
     </item>
   </channel>
