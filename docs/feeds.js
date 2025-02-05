@@ -715,7 +715,7 @@ const feeds = [
     "id": "luois_luohti",
     "title": "De 10 siste fra Luođis luohtái",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "lyden_av_17_mai",
