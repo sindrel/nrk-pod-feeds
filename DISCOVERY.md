@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-02-05  
+- Updated podcast 'Luođis luohtái' (`luois_luohti`)  
 ### 2025-02-04  
 - Updated podcast 'P3morgen' (`p3morgen`)  
 ### 2025-01-31  
