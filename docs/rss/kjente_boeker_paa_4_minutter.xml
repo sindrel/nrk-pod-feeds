@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 09:28:40 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jan 2025 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Feb 2025 09:29:45 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Feb 2025 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Trollmannen fra Oz" av Lyman Frank Baum</title>
+      <description><![CDATA[Ung jente blir brikke i det skitne maktspillet til en så kalt trollmann]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0781dd03-e680-4fd4-ae4e-625a14b2c3fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0781dd03-e680-4fd4-ae4e-625a14b2c3fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:21</itunes:duration>
+      <pubDate>Wed, 05 Feb 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Greven av Monte Cristo" av Alexandre Dumas</title>
       <description><![CDATA[Mann rømmer fra fengselet og tar hevn]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/5ea45ea3-8eb8-4037-b0e1-b5545bdda031_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:50</itunes:duration>
       <pubDate>Wed, 13 Nov 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"Den dagen Nils Vik døde" av Frode Grytten</title>
-      <description><![CDATA[Mennesker trenger mennesker]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/61645c58-45bf-4896-b73d-07ef824fc233_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/61645c58-45bf-4896-b73d-07ef824fc233_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:29</itunes:duration>
-      <pubDate>Wed, 06 Nov 2024 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
