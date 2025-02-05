@@ -1,53 +1,105 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Leseklubben</title>
+    <title>De 10 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 05:30:35 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jan 2025 06:03:00 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Feb 2025 05:32:06 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Feb 2025 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     <item>
-      <title>Morsom, absurd og kort (1:6)</title>
-      <description><![CDATA[Linnéa Myhre oppdager plutselig hvor mye Erlend Loe har inspirert henne. 
-
-Vi leser til s. 22 i Doppler til neste gang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/0af5ec2a-c679-4409-a439-efeb9196d58b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/0af5ec2a-c679-4409-a439-efeb9196d58b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:06</itunes:duration>
-      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KIJUxG2HygPRO-_In_ywoQ_YzSoIv73ROUY5GTZjsFnw.jpg"/>
+      <title>Doppler (1:10)</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/cabec549-999b-443b-8a80-ae7363fb95e1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/cabec549-999b-443b-8a80-ae7363fb95e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:34</itunes:duration>
+      <pubDate>Wed, 08 Jan 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
     </item>
     <item>
-      <title>Doppler med kjempekuken (2:6)</title>
-      <description><![CDATA[Vår hovedperson har et stort lem, men hvem har størst i verden? Kristoffer har gjort research.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ffe182a1-50ee-40b5-b615-580a14aacb1c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ffe182a1-50ee-40b5-b615-580a14aacb1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:28</itunes:duration>
-      <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KIJUxG2HygPRO-_In_ywoQ_YzSoIv73ROUY5GTZjsFnw.jpg"/>
+      <title>Doppler (2:10)</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/db91adc2-48fe-4b87-a8e4-2a9f3042a14d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/db91adc2-48fe-4b87-a8e4-2a9f3042a14d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:18</itunes:duration>
+      <pubDate>Wed, 08 Jan 2025 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
     </item>
     <item>
-      <title>Flink, flinkere flinkest (3:6)</title>
-      <description><![CDATA[Hva er motgiften mot forbannet flinkhet? Og hva utløste Kristoffers største oppgjør med seg selv?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/39952260-a743-4bb4-8651-aeab72c8033a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/39952260-a743-4bb4-8651-aeab72c8033a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:14</itunes:duration>
-      <pubDate>Wed, 22 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KIJUxG2HygPRO-_In_ywoQ_YzSoIv73ROUY5GTZjsFnw.jpg"/>
+      <title>Doppler (3:10)</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/4bfb4218-b6ea-43fa-852e-70e9ec311929_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/4bfb4218-b6ea-43fa-852e-70e9ec311929_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:57</itunes:duration>
+      <pubDate>Wed, 15 Jan 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
     </item>
     <item>
-      <title>Leseklubbens mannsutvalg (4:6)</title>
-      <description><![CDATA[Vi manner oss opp og spør Simen Velle, Peder Kjøs og Emil Gukild om det egentlig er greit å bare stikke til skogs.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/78017186-f5b3-4259-a3f1-50630c2080ee_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/78017186-f5b3-4259-a3f1-50630c2080ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:25</itunes:duration>
-      <pubDate>Wed, 29 Jan 2025 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KIJUxG2HygPRO-_In_ywoQ_YzSoIv73ROUY5GTZjsFnw.jpg"/>
+      <title>Doppler (4:10)</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/92a0d0e2-7480-4da6-820b-fb4d3bc2e565_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/92a0d0e2-7480-4da6-820b-fb4d3bc2e565_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:22</itunes:duration>
+      <pubDate>Wed, 15 Jan 2025 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
+    </item>
+    <item>
+      <title>Doppler (5:10)</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f2a07f5e-83a4-451a-a99c-2b7d532ccc87_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f2a07f5e-83a4-451a-a99c-2b7d532ccc87_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:05</itunes:duration>
+      <pubDate>Wed, 22 Jan 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
+    </item>
+    <item>
+      <title>Doppler (6:10)</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/3dad104b-5e66-49a0-b274-3d90c57dbd4b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/3dad104b-5e66-49a0-b274-3d90c57dbd4b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:56</itunes:duration>
+      <pubDate>Wed, 22 Jan 2025 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
+    </item>
+    <item>
+      <title>Doppler (7:10)</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/31d82c03-1393-41c1-9346-322a58a5b33b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/31d82c03-1393-41c1-9346-322a58a5b33b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:36</itunes:duration>
+      <pubDate>Wed, 29 Jan 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
+    </item>
+    <item>
+      <title>Doppler 8:10</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8b4fde48-4028-4145-98aa-c4300419da16_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8b4fde48-4028-4145-98aa-c4300419da16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:45</itunes:duration>
+      <pubDate>Wed, 29 Jan 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
+    </item>
+    <item>
+      <title>Doppler (9:10)</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/1ffde20d-7e83-489b-a79d-be295e640a6f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/1ffde20d-7e83-489b-a79d-be295e640a6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:35</itunes:duration>
+      <pubDate>Wed, 05 Feb 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
+    </item>
+    <item>
+      <title>Doppler (10:10)</title>
+      <description><![CDATA[Lydboka «Doppler» lest av forfatteren Erlend Loe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/86abcfe7-ed2f-44cf-bf40-c22a3acf8881_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/86abcfe7-ed2f-44cf-bf40-c22a3acf8881_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:56</itunes:duration>
+      <pubDate>Wed, 05 Feb 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MhWJGjBqlyibpd1byXl0bg-bAld6YrYcxalOIospFprw.jpg"/>
     </item>
   </channel>
 </rss>
