@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 05:31:57 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Feb 2025 05:33:25 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    <item>
+      <title>Nå vet vi hvem kuen er!</title>
+      <description><![CDATA[Ingrid har forsket i setesdalsdialekten og Maria har fått med seg morsomme ting fra byen i Åfjord.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/e91588d2-221c-45ac-8b1c-e254dbdad948_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/e91588d2-221c-45ac-8b1c-e254dbdad948_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:29</itunes:duration>
+      <pubDate>Thu, 06 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
     <item>
       <title>Setesdalsdialekt i våre hjerter!</title>
       <description><![CDATA[Maria har vært på eventyr på bussen og Ingrid har fått dialektgull i innboksen.]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/vittig/4d97a118-1db1-433f-97a1-181db1033f1d.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:55</itunes:duration>
       <pubDate>Tue, 03 Dec 2024 11:51:13 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
-    </item>
-    <item>
-      <title>Historier fra en sauna</title>
-      <description><![CDATA[Maria har fått inn lydklipp fra den nye kjæresten til Ingrid. Oi-oi-oi!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/de8079f2-bbfa-40e3-8079-f2bbfa40e3ec.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/vittig/de8079f2-bbfa-40e3-8079-f2bbfa40e3ec.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:35</itunes:duration>
-      <pubDate>Tue, 26 Nov 2024 04:00:38 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
     </item>
   </channel>

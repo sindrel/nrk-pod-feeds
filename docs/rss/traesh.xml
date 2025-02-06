@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 03 Feb 2025 11:24:15 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Feb 2025 12:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Feb 2025 05:33:19 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gZGZqMFqYK49hfIVXYhzGRQ.jpg"/>
+    <item>
+      <title>Fanny Odden: Kennedys forbannelse</title>
+      <description><![CDATA[En familieforbannelse, The Sims-comeback, Trisha Paytas på Broadway og... beklager, BabyFace!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/4954c002-4f1e-4274-8b41-4c5ac7c58232_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/4954c002-4f1e-4274-8b41-4c5ac7c58232_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:25</itunes:duration>
+      <pubDate>Thu, 06 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4u5jjOrEuLyShMiFBtzamwPBibZv3Cy7BDPHLZ8pHTJg.jpg"/>
+    </item>
     <item>
       <title>Mandagsrapport: Grammys og Anna Paul</title>
       <description><![CDATA[Vi debriefer nattens Grammy-utdeling, og Ingrid oppdaterer Adelina på Anna Paul-drama.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>34:12</itunes:duration>
       <pubDate>Mon, 06 Jan 2025 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
-    </item>
-    <item>
-      <title>ÅRETS POPKULTURLLE ØYEBLIKK</title>
-      <description><![CDATA[Ingrid og Adelina tar deg igjennom årets største hendelser! Bli med i kåringen av «årets popkulturelle øyeblikk».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/8596adff-99aa-4aaa-89da-34e054291d0e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/traesh/8596adff-99aa-4aaa-89da-34e054291d0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:46</itunes:duration>
-      <pubDate>Mon, 23 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/n-_D48N2p7uuaQLv68f6fgeJfub45YzqxF_kXj4iNUbg.jpg"/>
     </item>
   </channel>
 </rss>
