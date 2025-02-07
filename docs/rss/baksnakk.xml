@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 04 Feb 2025 05:31:01 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 07 Feb 2025 11:24:22 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Feb 2025 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Livepodkast, klippe opp godteri og «Debatten»</title>
+      <description><![CDATA[Vi leser fine meldinger fra backerne og tester ny spalte!
+
+Send oss spørsmål direkte i NRK Radio!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/288fd8e5-75f6-4788-9d0f-cd9d69fc47a0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/288fd8e5-75f6-4788-9d0f-cd9d69fc47a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:36</itunes:duration>
+      <pubDate>Fri, 07 Feb 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Zaras flauser, for mye pupp og dusjing etter gym</title>
       <description><![CDATA[Zara har en med liste med rare ting hun gjorde som barn og en lytter synes venninna viser litt for mye pupp.
@@ -108,17 +119,6 @@ Send oss spørsmål i NRK Radio!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/236ac859-12ed-4fd7-9232-0512103badd8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:45</itunes:duration>
       <pubDate>Tue, 07 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Nyttår, første kyss og favorittøyeblikk</title>
-      <description><![CDATA[Godt nyttår fra oss i Baksnakk! Takk for at dere lytter på <3
-
-Send oss spørsmål i NRK Radio]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/15cd055e-4add-482f-8ace-8167a0abef53_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/15cd055e-4add-482f-8ace-8167a0abef53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:09</itunes:duration>
-      <pubDate>Tue, 31 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>
