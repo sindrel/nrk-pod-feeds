@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sat, 01 Feb 2025 05:29:28 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 08 Feb 2025 11:24:20 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    <item>
+      <title>Jenssynsglede</title>
+      <description><![CDATA[Politisk comeback for Jens Stoltenberg. Sverige er i sorg, og visepresident Vance får Mette Fredriksen til å frese!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/6f28f1a6-b961-4c8b-b0f4-b2958bc6cb5a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/6f28f1a6-b961-4c8b-b0f4-b2958bc6cb5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 08 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
     <item>
       <title>Ypping til strid</title>
       <description><![CDATA[Svensk kulturminister ypper med filmbransjen, regjeringskrisen i Norge skjerper EU-debatten og danske medier er under statlig press. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:02</itunes:duration>
       <pubDate>Sat, 30 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
-    </item>
-    <item>
-      <title>Serievoldtekt og bananfobi</title>
-      <description><![CDATA[«Nytorgsmannen» mistenkt for ny voldtekt, dansk programleder anklaget for rasisme og likestillingsminister med fobi mot bananer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/02048e28-7321-46c7-8c68-f46419509a08_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/02048e28-7321-46c7-8c68-f46419509a08_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 23 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NE__3hPIp9o7Ixf1GrmnEwdp8495nsjM1LALHajiwuQQ.jpg"/>
     </item>
   </channel>
 </rss>
