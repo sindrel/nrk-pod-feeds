@@ -7,10 +7,23 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 13:31:05 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 10 Feb 2025 05:31:25 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten - Når på dagen er du lykkeligst?</title>
+      <description><![CDATA[Når på dagen er du lykkeligst, og hva er den mest angstfylte ukedagen? 
+Vi snakker om lykkeforskning, om en asteroide som kan treffe jorda i 2032 og om mus med to biologiske fedre. 
+
+PS: Takk for alle gråtesanger! Her er lista på Spotify (Abels gråter): 
+https://open.spotify.com/playlist/5ArKx5CgFUgR6i7V8IKHoq?si=YjWi_M6vR3yykk9D0iUE8Q]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/2b39b439-8bbc-4b6d-974f-7b09761509a0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2b39b439-8bbc-4b6d-974f-7b09761509a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:13</itunes:duration>
+      <pubDate>Mon, 10 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rMA2CK7yEgXDqEkuIh9rbgS8XHQHtNNdS1buuL9ypfBA.jpg"/>
+    </item>
     <item>
       <title>Hvor raskt kan planter løpe?</title>
       <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
@@ -126,22 +139,6 @@ Og hvordan ser du for deg en rulle-r, hvis du skulle tegne lyden?]]></descriptio
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Mon, 13 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/SBFPasOs3seJRReko819AgELySLjwAxljFAssFG5t1WA.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan ville menneskepels sett ut?</title>
-      <description><![CDATA[Sammen med et ekspertpanel gir Torkild Jemterud svar på alt du ikke visste du lurte på
-
-Dagens eksperter:
-Biolog Petter Bøckman
-Kjemiker Einar Uggerud
-Fysiker Marianne Etzelmüller Bathen
-
-Send oss dine spørsmål ved å trykke på snakkebobla øverst i NRK-radioappen, eller send mail til abels@nrk.no]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a7c5ebf1-be4e-4933-9937-bfa32c8e40ce_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a7c5ebf1-be4e-4933-9937-bfa32c8e40ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:49</itunes:duration>
-      <pubDate>Fri, 10 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qQ7iNH7kMjIEFAAe5YgOhQ5LMIPZ7qHk9P1UyyblTvlQ.jpg"/>
     </item>
   </channel>
 </rss>
