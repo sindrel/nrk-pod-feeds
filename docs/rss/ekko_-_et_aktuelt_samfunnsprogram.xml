@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Feb 2025 13:31:58 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Feb 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 10 Feb 2025 12:51:47 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Feb 2025 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Spør Ekko: Kjærestejaget</title>
+      <description><![CDATA[Datingeksperten og psykologen avslører hva som foregår på dagens sjekkemarked]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7af52550-8a4a-4172-85f9-503e63609e54_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7af52550-8a4a-4172-85f9-503e63609e54_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:26</itunes:duration>
+      <pubDate>Mon, 10 Feb 2025 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FmJD1v9vQtSkJOD6-onf_gkdghGDKqmkeOsqyp6G1idA.jpg"/>
+    </item>
     <item>
       <title>Spør Ekko: Kan USA ta Gaza?</title>
       <description><![CDATA[Hva skjer når Trump foreslår at USA skal ta over Gaza. Hva betyr egentlig presidentens utspill?]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>42:57</itunes:duration>
       <pubDate>Thu, 23 Jan 2025 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BmnH_SgKe2cC8b9A2uIfZQsWJ0rQbfbPrKBnj3OpmM3g.jpg"/>
-    </item>
-    <item>
-      <title>Er melk farlig?</title>
-      <description><![CDATA[Er havremelk sunnere, eller må vi tilbake til kua? Vi utforsker "melkejungelen"  sammen med forsker og ernæringsfysiolog Jacob Juel Christensen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3231bb98-1b92-427f-b4bc-15d78c934f52_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3231bb98-1b92-427f-b4bc-15d78c934f52_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:54</itunes:duration>
-      <pubDate>Wed, 22 Jan 2025 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/18rNJRBCiByzxaZy2Eva5A6IvKnixoKQvdGS1h9jlv7g.jpg"/>
     </item>
   </channel>
 </rss>
