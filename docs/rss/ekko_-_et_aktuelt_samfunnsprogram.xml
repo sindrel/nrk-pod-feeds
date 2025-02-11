@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 12:51:47 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Feb 2025 13:30:00 +0100</pubDate>
+    <lastBuildDate>Tue, 11 Feb 2025 12:51:49 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Feb 2025 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Mikrotrening:  kort og smart</title>
+      <description><![CDATA[Norske helsemyndigheter anbefaler oss å trene mye, men ny forskning viser at korte og intensive økter kan gi stor effekt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/45f46e8a-3929-4854-953a-dadea1498ba5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/45f46e8a-3929-4854-953a-dadea1498ba5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:35</itunes:duration>
+      <pubDate>Tue, 11 Feb 2025 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yKFYTV8QQUZwKH1ZJH9QhQYtb8DE-0gpM5ijQL9DPs7A.jpg"/>
+    </item>
     <item>
       <title>Spør Ekko: Kjærestejaget</title>
       <description><![CDATA[Datingeksperten og psykologen avslører hva som foregår på dagens sjekkemarked]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>39:45</itunes:duration>
       <pubDate>Mon, 27 Jan 2025 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/T-zFTKZ7F453vXxR73XyhQI2PnunhALR-BQaIMi6PeLA.jpg"/>
-    </item>
-    <item>
-      <title>Spør Ekko: Sosiale medier under Trump</title>
-      <description><![CDATA[Samtidig som USA får ny president dropper Meta faktasjekking. Hva betyr det for innholdet i feeden din?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0a50631b-56b4-4208-9632-a413688e05f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0a50631b-56b4-4208-9632-a413688e05f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:57</itunes:duration>
-      <pubDate>Thu, 23 Jan 2025 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BmnH_SgKe2cC8b9A2uIfZQsWJ0rQbfbPrKBnj3OpmM3g.jpg"/>
     </item>
   </channel>
 </rss>
