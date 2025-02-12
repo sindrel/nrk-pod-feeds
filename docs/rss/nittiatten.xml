@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 05:32:11 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Feb 2025 05:31:07 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
+    <item>
+      <title>Tshawe og Steinar Wangen</title>
+      <description><![CDATA[Mo og Franky har vært på premiere på Flus 2 og Tshawe visste ikke hvem de var. Hvem er Steinar Wangen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/da530db8-1344-43b0-b726-f6d47e06c46b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/da530db8-1344-43b0-b726-f6d47e06c46b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:06</itunes:duration>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
+    </item>
     <item>
       <title>Mo ble catcha på byen</title>
       <description><![CDATA[Mo så seg selv  Oslo nightlife video]]></description>
@@ -92,15 +101,6 @@ En blanding av stress, panikk og noen lærerike øyeblikk.]]></description>
       <itunes:duration>37:25</itunes:duration>
       <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
-    </item>
-    <item>
-      <title>Arif er gjest.</title>
-      <description><![CDATA[Vi er i studio til Arif på Munchmuseet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/a05e26b4-e4e1-44be-85f6-0b20d14a3bc4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/a05e26b4-e4e1-44be-85f6-0b20d14a3bc4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:48</itunes:duration>
-      <pubDate>Fri, 29 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RhGatshz2oxwTGccgik35w917AYqzpNWadWiB-wcf2_w.jpg"/>
     </item>
   </channel>
 </rss>
