@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 09:29:45 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Feb 2025 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Feb 2025 09:29:31 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Feb 2025 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"The Mysteries of Udolpho" av Ann Radcliffe</title>
+      <description><![CDATA[Gotisk Scooby-Doo med hemmelige ganger, besvimelser og guffen stemning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/a50393cf-84e0-4353-9ffa-b8a6471997a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/a50393cf-84e0-4353-9ffa-b8a6471997a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:54</itunes:duration>
+      <pubDate>Wed, 12 Feb 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
     <item>
       <title>"Trollmannen fra Oz" av Lyman Frank Baum</title>
       <description><![CDATA[Ung jente blir brikke i det skitne maktspillet til en så kalt trollmann]]></description>
@@ -90,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/75a5c8a9-6e9b-489c-9a75-be7b474e9ac1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:29</itunes:duration>
       <pubDate>Wed, 20 Nov 2024 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
-    </item>
-    <item>
-      <title>"Piranesi" av Susanna Clarke</title>
-      <description><![CDATA[Ung mann går seg skikkelig vill i sitt eget hode.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/5ea45ea3-8eb8-4037-b0e1-b5545bdda031_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/5ea45ea3-8eb8-4037-b0e1-b5545bdda031_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:50</itunes:duration>
-      <pubDate>Wed, 13 Nov 2024 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
     </item>
   </channel>
