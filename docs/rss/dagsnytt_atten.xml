@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 18:35:12 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Feb 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Feb 2025 18:37:04 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Feb 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Enighet om ny IA-avtale</title>
+      <description><![CDATA[Staten og partene i arbeidslivet har kommet til enighet om en ny avtale om inkluderende arbeidsliv for de neste fire årene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/048d1cd0-5547-426f-b00a-576404333282_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/048d1cd0-5547-426f-b00a-576404333282_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Wed, 12 Feb 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ol7Pp7uWqOwnKBB3Hh_uaQbjtHK4uSHORGOo5lDuerhQ.jpg"/>
+    </item>
     <item>
       <title>Ny politisk meningsmåling</title>
       <description><![CDATA[Har Jens-effekten slått inn?]]></description>
@@ -92,16 +101,6 @@ En ren Ap-regjering er først klar neste uke.]]></description>
       <itunes:duration>58:53</itunes:duration>
       <pubDate>Thu, 30 Jan 2025 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/TmGyj6uRfVf8t3oMIYvx6wvbbV44CoUwgyzjV2Cq92jA.jpg"/>
-    </item>
-    <item>
-      <title>Rekordresultat for oljefondet</title>
-      <description><![CDATA[Oljefondet har steget med rundt 4.000 milliarder bare det siste året. 
-Samtidig er det debatt om oljefondsjefens SMS-dialog med Elon Musk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/654dd2e6-6dbf-4ae3-8b8e-ff073d3222a7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/654dd2e6-6dbf-4ae3-8b8e-ff073d3222a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 29 Jan 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RWhuaklcvMiGXeoUPrr41AVCHQRL2p61ivIE632bGy3g.jpg"/>
     </item>
   </channel>
 </rss>
