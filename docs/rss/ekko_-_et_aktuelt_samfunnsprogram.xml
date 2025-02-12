@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 12:51:49 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Feb 2025 13:30:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Feb 2025 10:33:20 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Ekko forklarer: Bricks</title>
+      <description><![CDATA[Målet er mindre vestlig dominans, men hvor samlet er de egentlig? Og hva betyr det for oss i Norge?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7a9e4766-dd3a-49e6-b7f3-18ad20c59d1f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7a9e4766-dd3a-49e6-b7f3-18ad20c59d1f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:21</itunes:duration>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/27qpeuqYvPvuKA8JMDE-9wP99BSL9QxgFFjiAGL6555A.jpg"/>
+    </item>
     <item>
       <title>Mikrotrening:  kort og smart</title>
       <description><![CDATA[Norske helsemyndigheter anbefaler oss å trene mye, men ny forskning viser at korte og intensive økter kan gi stor effekt]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>20:51</itunes:duration>
       <pubDate>Tue, 28 Jan 2025 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NbCIV1NU48t56x6Q0a6utAScvLOkgKMw6dw5_1jZ75Dg.jpg"/>
-    </item>
-    <item>
-      <title>Spør Ekko: Er KI en klimaversting?</title>
-      <description><![CDATA[Vi bruker stadig mer kunstig intelligens, men hva gjør det med miljøet? Ekspertene svarer på spørsmålene dine om KI og klima!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/71e0a9b6-2864-4684-9043-84bd53542239_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/71e0a9b6-2864-4684-9043-84bd53542239_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:45</itunes:duration>
-      <pubDate>Mon, 27 Jan 2025 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/T-zFTKZ7F453vXxR73XyhQI2PnunhALR-BQaIMi6PeLA.jpg"/>
     </item>
   </channel>
 </rss>
