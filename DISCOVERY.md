@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-02-13  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-02-06  
 - Podcast 'Radio Utslagsnes' is considered obsolete and will be ignored in the future (`radio_utslagsnes`)  
 ### 2025-02-05  
