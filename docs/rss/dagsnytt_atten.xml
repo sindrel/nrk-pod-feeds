@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 18:37:04 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Feb 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 13 Feb 2025 18:36:58 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Feb 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Bil kjørte inn i folkemengde i München</title>
+      <description><![CDATA[Dagen før den store sikkerhetskonferansen i München, kjørte en bil inn i en folkemengde i byen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1432812a-1227-45fd-b771-9293b26eecbc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1432812a-1227-45fd-b771-9293b26eecbc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 13 Feb 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0uscxlwMszs-m9QxNQZH1Qyd7V8suVwcLA-OIjbjC3pg.jpg"/>
+    </item>
     <item>
       <title>Enighet om ny IA-avtale</title>
       <description><![CDATA[Staten og partene i arbeidslivet har kommet til enighet om en ny avtale om inkluderende arbeidsliv for de neste fire årene.]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>58:55</itunes:duration>
       <pubDate>Fri, 31 Jan 2025 19:25:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/VgAlItgbjuD_sKllQUao_QH7Yy2U4JrOX7mksx72oi8Q.jpg"/>
-    </item>
-    <item>
-      <title>Senterpartiet går ut av regjeringen</title>
-      <description><![CDATA[Både Støre og Vedum stiller i Dagsnytt 18 etter regjeringsbruddet.
-En ren Ap-regjering er først klar neste uke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c460bf5f-a8ee-4117-8cbc-45843ba217df_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c460bf5f-a8ee-4117-8cbc-45843ba217df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:53</itunes:duration>
-      <pubDate>Thu, 30 Jan 2025 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TmGyj6uRfVf8t3oMIYvx6wvbbV44CoUwgyzjV2Cq92jA.jpg"/>
     </item>
   </channel>
 </rss>
