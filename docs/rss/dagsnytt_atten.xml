@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 13 Feb 2025 18:36:58 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Feb 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 14 Feb 2025 18:35:46 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Feb 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vance kritiserer Europa</title>
+      <description><![CDATA[Visepresidenten gikk hardt ut mot NATO-allierte under sikkerhetskonferansen i München. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0ff05d2b-1783-4cc4-a5cb-293ec1f0a2ef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0ff05d2b-1783-4cc4-a5cb-293ec1f0a2ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 14 Feb 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Mz7xkx-ZNLSmpnrmlyqNdQefVROoYEMXBFh8vBbwt-pw.jpg"/>
+    </item>
     <item>
       <title>Bil kjørte inn i folkemengde i München</title>
       <description><![CDATA[Dagen før den store sikkerhetskonferansen i München, kjørte en bil inn i en folkemengde i byen.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 03 Feb 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/n0OWOZIHkboZaZnHK-8fbw8dNdN1JbGkX0d-canULwxg.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen vil innføre fastpris på strøm</title>
-      <description><![CDATA[Et knapt døgn etter at Senterpartiet forlot regjeringskontorene presenterte Arbeiderpartiet sin nye strømplan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e88cafdb-7ac8-462c-bd87-c8d128b5a2fd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e88cafdb-7ac8-462c-bd87-c8d128b5a2fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:55</itunes:duration>
-      <pubDate>Fri, 31 Jan 2025 19:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VgAlItgbjuD_sKllQUao_QH7Yy2U4JrOX7mksx72oi8Q.jpg"/>
     </item>
   </channel>
 </rss>
