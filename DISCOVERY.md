@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-02-15  
+- Added podcast 'Nødsamtaler' (`noedsamtaler`)  
 ### 2025-02-13  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-02-06  
