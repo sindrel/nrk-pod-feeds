@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 1 siste fra Nødsamtaler</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Nødsamtaler. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/noedsamtaler for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <lastBuildDate>Sat, 15 Feb 2025 02:54:03 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg.jpg"/>
+    <item>
+      <title>"Nødsamtaler" kommer 19. februar</title>
+      <description><![CDATA[Hvert sekund teller når Lea på 113 hjelper mennesker i nød. Men det er vanskelig å holde hodet kaldt når ens eget liv blir snudd opp ned.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/noedsamtaler/ab36b118-1fe4-4f26-b196-27dfbc959a5a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/ab36b118-1fe4-4f26-b196-27dfbc959a5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:34</itunes:duration>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg.jpg"/>
+    </item>
+  </channel>
+</rss>
