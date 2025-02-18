@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Tyrann</title>
+    <title>De 3 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 05:31:36 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Feb 2025 05:32:18 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -22,7 +22,7 @@ Francois & Jean-Claude Duvalier; Erin Condit
 Haiti: A Shattered Nation; Elizabeth Abbott 
 Written in Blood: Robert Debs Heinl 
 Third-World Folk Beliefs: Haiti Medical Anthropology: Bryant C. Freeman 
-Dominican Republic & Haiti country studies: Helen Chapin Metz (red]]></description>
+Dominican Republic & Haiti country studies: Helen Chapin Metz (red)]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/8dabbbff-87bd-4673-9d3a-9bf2f85666b0_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/tyrann/8dabbbff-87bd-4673-9d3a-9bf2f85666b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:22</itunes:duration>
@@ -36,6 +36,15 @@ Dominican Republic & Haiti country studies: Helen Chapin Metz (red]]></descripti
       <enclosure url="https://podkast.nrk.no/fil/tyrann/25159458-9958-4ec6-a6eb-9fd40e6bdbda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:54</itunes:duration>
       <pubDate>Tue, 11 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QCWgbUDXZQ3sQqcdnfv-SATspwZx9KNHlzMRcWDsjNTQ.jpg"/>
+    </item>
+    <item>
+      <title>Papa Doc (3:4)</title>
+      <description><![CDATA[Papa Doc kan ikke drepes! Det påstår han selv. Han bygger opp et image som "voodoo- gud" som hersker over liv og død.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/6e5049a4-910c-452c-a02a-2602509fc1e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/6e5049a4-910c-452c-a02a-2602509fc1e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:16</itunes:duration>
+      <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QCWgbUDXZQ3sQqcdnfv-SATspwZx9KNHlzMRcWDsjNTQ.jpg"/>
     </item>
   </channel>

@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 05:32:45 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Feb 2025 05:32:03 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Drømmer - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[- Drømmer lar seg ikke styre, heldigvis, sier Claes Krogsgaard Ericsson]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/6f7e1bba-491b-40a3-8793-3afe9e8f3e66_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/6f7e1bba-491b-40a3-8793-3afe9e8f3e66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:44</itunes:duration>
+      <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jdvOTQMc_GhcCT1cyw9-QAUDz1j2i98enJ9kyAmr45WQ.jpg"/>
+    </item>
     <item>
       <title>Mannen med ljåen - med Elin Sofye Rabbevåg</title>
       <description><![CDATA[Tenk deg at et bilde av deg henger på en vegg om ett hundre år, sier musiker Elin Sofye Rabbevåg.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>02:43</itunes:duration>
       <pubDate>Tue, 28 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/X9V512lrosJHs4nS-m1TFw7qiS8G76_4LGPaCU-l42Og.jpg"/>
-    </item>
-    <item>
-      <title>Den som ler sist-  med Jon Niklas Rønning</title>
-      <description><![CDATA[Artisten John Denver var visst ikke kul nok til aksjonen "We are the world". De skulle bare visst, forteller Jon Niklas Rønning]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4a1c739c-7f0c-4067-a591-ae0f6bf31f7f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4a1c739c-7f0c-4067-a591-ae0f6bf31f7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:12</itunes:duration>
-      <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
     </item>
   </channel>
 </rss>
