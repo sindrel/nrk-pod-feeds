@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 18:35:33 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Feb 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Feb 2025 18:37:27 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Feb 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>USA og Russland møttes om Ukraina</title>
+      <description><![CDATA[USA og Russland er enig om å samarbeide om felles geopolitiske interesser og historiske økonomiske investeringsmuligheter hvis det blir slutt på krigen i Ukraina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/766b57f0-75f9-419b-b140-11924c8f0bc1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/766b57f0-75f9-419b-b140-11924c8f0bc1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 18 Feb 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tqoaoT2Diju7ZdT25amEjASpVKuAbmD066pZIJup8NUg.jpg"/>
+    </item>
     <item>
       <title>Europeisk toppmøte i Paris</title>
       <description><![CDATA[Europeiske ledere samles til hastemøte om Ukraina og Europas sikkerhet.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:57</itunes:duration>
       <pubDate>Wed, 05 Feb 2025 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/F7RIEE25aVhy0OyW--hwawd1H5AJagNjb69Dhsx4Dy-A.jpg"/>
-    </item>
-    <item>
-      <title>Støres nye regjering</title>
-      <description><![CDATA[Statsminister Støre presenterte sin nye regjering i dag. Jens Stoltenberg gjør comeback i norsk politikk og blir ny finansminister.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/236bed9a-23df-4beb-ba8f-c653caf4b1cd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/236bed9a-23df-4beb-ba8f-c653caf4b1cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:56</itunes:duration>
-      <pubDate>Tue, 04 Feb 2025 21:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XGuGIa4q1PUfSTaXE8219w2XSA0huLsRUMFR_EzG4gog.jpg"/>
     </item>
   </channel>
 </rss>
