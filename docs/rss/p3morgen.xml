@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 11:25:17 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Feb 2025 12:20:00 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Feb 2025 10:34:12 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Feb 2025 11:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Emilie Nereng fylleringte samboeren</title>
+      <description><![CDATA[Emilie Voe Nerengs samboer forteller om telefonsamtalen etter vinmaratonet i Bordeaux.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6185cc99-5515-4373-ab98-b68b419b47e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6185cc99-5515-4373-ab98-b68b419b47e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:04</itunes:duration>
+      <pubDate>Wed, 19 Feb 2025 11:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RzZxOYo8jsC1D6DVDANr9w3dDF-w280SaBXOsFsniMbg.jpg"/>
+    </item>
     <item>
       <title>«Pølsa» får nok Hawk Tuah!</title>
       <description><![CDATA[Vi tester om Øystein «Pølsa» Pettersen har plukket opp Gen Z-språket etter å ha trent seks tenåringer i serien «Team Pølsa».]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>50:00</itunes:duration>
       <pubDate>Thu, 06 Feb 2025 12:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3cjNCNybYOTfgOUfLz0ViAHdNV70yIXuNxGEzHNarCHw.jpg"/>
-    </item>
-    <item>
-      <title>Emilie Mehl leser vitser</title>
-      <description><![CDATA[Etter flere år med alvor som justisminister, tester vi om Emilie Enger Mehl fortsatt kan tøyse med en runde vitser!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2b2b0f30-a1f6-4e53-8987-240760e757af_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2b2b0f30-a1f6-4e53-8987-240760e757af_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:51</itunes:duration>
-      <pubDate>Wed, 05 Feb 2025 11:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LWcCJ3X45RTaCLGeNDWGLAjA1-oU0E7561ieVzlMF04w.jpg"/>
     </item>
   </channel>
 </rss>
