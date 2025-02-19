@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 05:32:03 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Feb 2025 05:31:04 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Haikeren - med Gunn Marit Nisja</title>
+      <description><![CDATA[Å ta på en haiker kan være skummelt og lurt. Det har forfatter Gunn Marit Nisja erfart]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0705660c-0c1a-4e94-aa3d-556a8a63ba2b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0705660c-0c1a-4e94-aa3d-556a8a63ba2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:03</itunes:duration>
+      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
+    </item>
     <item>
       <title>Drømmer - med Claes Krogsgaard Ericsson</title>
       <description><![CDATA[- Drømmer lar seg ikke styre, heldigvis, sier Claes Krogsgaard Ericsson]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:59</itunes:duration>
       <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xkcLNcgLwZ-OS91yoe8wJQmBeyptuZCZHntMwM1o8-ug.jpg"/>
-    </item>
-    <item>
-      <title>Til evig tid - med Solveig Johanne Grønstøl</title>
-      <description><![CDATA[Forfattar Solveig Johanne Grønstøl har eit fjell  ho er glad i. Fjellet er for ho noke fast og stabilt i ei omskifteleg verd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/f1145b6f-2c70-4906-88bd-975ffd631d62_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/f1145b6f-2c70-4906-88bd-975ffd631d62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:43</itunes:duration>
-      <pubDate>Tue, 28 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X9V512lrosJHs4nS-m1TFw7qiS8G76_4LGPaCU-l42Og.jpg"/>
     </item>
   </channel>
 </rss>
