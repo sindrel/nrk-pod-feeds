@@ -1,42 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 23 Jan 2025 05:30:39 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jan 2025 06:01:00 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Feb 2025 12:50:13 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Feb 2025 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer: Prinsen av Gautefall</title>
-      <description><![CDATA[En velkledd mann med store planer dukker opp ei lita bygd i Telemark. Alle tror han er kongelig, og den lokale banken kaster penger etter ham.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/3e894bf9-fa3e-4466-9b2a-72e28c59744f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/3e894bf9-fa3e-4466-9b2a-72e28c59744f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <title>Smakebit: En morder løs i Tistedal</title>
+      <description><![CDATA[En morder sprer frykt i ei fredelig lita bygd i Østfold. Flere mennesker blir funnet drept på brutalt vis, og politiet har få spor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/a54099c4-1ab6-48b7-81cd-0158b1c67b6e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/a54099c4-1ab6-48b7-81cd-0158b1c67b6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:32</itunes:duration>
-      <pubDate>Wed, 22 Jan 2025 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vYTBkKWgEZ9yUYJi2XchFgS7D6KWTq3Po5aLD4bHG1Dw.jpg"/>
-    </item>
-    <item>
-      <title>Gull og grønne skoger (1:2)</title>
-      <description><![CDATA[Pengene strømmer fra Telemark til Singapore.  Alle vil samarbeide med den arabiske forretningsmannen, men ingen vet helt hvor pengene blir av.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/66c62aa9-c6c8-4de9-b407-79ea5e96a6f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/66c62aa9-c6c8-4de9-b407-79ea5e96a6f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:48</itunes:duration>
-      <pubDate>Thu, 23 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vYTBkKWgEZ9yUYJi2XchFgS7D6KWTq3Po5aLD4bHG1Dw.jpg"/>
-    </item>
-    <item>
-      <title>Kameleonen (2:2)</title>
-      <description><![CDATA[Uroen stiger i den lokale banken. De har lånt ut flere hundre millioner til den velkledde «prinsen», men hvem er han – egentlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/f760706f-5cea-42e1-832a-19f7a76d5742_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/f760706f-5cea-42e1-832a-19f7a76d5742_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:52</itunes:duration>
-      <pubDate>Thu, 23 Jan 2025 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vYTBkKWgEZ9yUYJi2XchFgS7D6KWTq3Po5aLD4bHG1Dw.jpg"/>
+      <pubDate>Wed, 19 Feb 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA.jpg"/>
     </item>
   </channel>
 </rss>
