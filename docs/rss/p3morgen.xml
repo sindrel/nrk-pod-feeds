@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Feb 2025 10:34:12 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Feb 2025 11:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Feb 2025 13:33:02 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Feb 2025 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Arin rørt til tårer</title>
+      <description><![CDATA[Vi diskuterer hva som er den beste lukten og historien om en forsinket unnskyldning får Arin til å gråte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/61b4d47e-bc24-4819-9483-ae586cc63ab4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/61b4d47e-bc24-4819-9483-ae586cc63ab4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:38</itunes:duration>
+      <pubDate>Thu, 20 Feb 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    </item>
     <item>
       <title>Emilie Nereng fylleringte samboeren</title>
       <description><![CDATA[Emilie Voe Nerengs samboer forteller om telefonsamtalen etter vinmaratonet i Bordeaux.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>54:06</itunes:duration>
       <pubDate>Fri, 07 Feb 2025 10:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JpwC6fxlb0wj_8OPAlkICwDYhkKvrPWP_h3NBwx85IWg.jpg"/>
-    </item>
-    <item>
-      <title>Arin har fått rumpe-dilla</title>
-      <description><![CDATA[Arin lar seg fascinere av enkelte rumper, og vi feirer Samenes nasjonaldag sammen med KEiiNO!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a651cb1f-df76-460c-a231-b2e1f64b3885_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a651cb1f-df76-460c-a231-b2e1f64b3885_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:00</itunes:duration>
-      <pubDate>Thu, 06 Feb 2025 12:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3cjNCNybYOTfgOUfLz0ViAHdNV70yIXuNxGEzHNarCHw.jpg"/>
     </item>
   </channel>
 </rss>
