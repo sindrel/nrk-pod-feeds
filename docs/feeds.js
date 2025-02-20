@@ -569,7 +569,7 @@ const feeds = [
     "id": "klassequizen",
     "title": "De 10 siste fra Klassequizen",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "klassikere_fra_p3-arkivet",
