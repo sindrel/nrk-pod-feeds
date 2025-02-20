@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Feb 2025 18:36:03 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Feb 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Feb 2025 18:37:13 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Feb 2025 19:25:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Zelenskyj har møtt USAs spesialutsending</title>
+      <description><![CDATA[Ukrainas president Volodymyr Zelenskyj og USAs utsending Keith Kellogg skulle holde en pressekonferanse. Den er nå avlyst.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3ae08995-161f-4374-8303-ed30b21f18b9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3ae08995-161f-4374-8303-ed30b21f18b9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:52</itunes:duration>
+      <pubDate>Thu, 20 Feb 2025 19:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6R77mIa5L6m1eht8DndETQyK_e7lneDYhp2kVBHPxzuw.jpg"/>
+    </item>
     <item>
       <title>Nytt Ukraina-møte i Paris</title>
       <description><![CDATA[Frankrikes president Macron holder nytt møte med statsledere om Ukraina.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 07 Feb 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Hp5Uaj-YBOo2zKnve-6iSQuEDqBk1LJQJZYchnRdJLwg.jpg"/>
-    </item>
-    <item>
-      <title>- Norge må ta imot Gaza-flyktninger</title>
-      <description><![CDATA[Israel mener vi er hyklersk, hvis ikke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/48bd26dc-5665-4f30-aa48-634026d1cff6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/48bd26dc-5665-4f30-aa48-634026d1cff6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 06 Feb 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5tokGNpwYYGrCRTCCCMl0AdomrlgvMZNYn-vJvwPHobg.jpg"/>
     </item>
   </channel>
 </rss>
