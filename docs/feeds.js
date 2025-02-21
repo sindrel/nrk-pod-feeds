@@ -563,7 +563,7 @@ const feeds = [
     "id": "klassenraadet",
     "title": "De 10 siste fra Klassen-rådet",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "klassequizen",
