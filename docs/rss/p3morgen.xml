@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 13:33:02 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Feb 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Feb 2025 11:26:44 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Feb 2025 11:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Er det mye fising på Kompani?</title>
+      <description><![CDATA[Tale Torjussen og Ole Henry Snildalsli forteller hvordan det er å bo så tett på hverandre i Kompani Lauritzen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8757b4f7-c440-4445-818e-250f984149a2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8757b4f7-c440-4445-818e-250f984149a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Fri, 21 Feb 2025 11:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UVKRMECm5POM79M7NG9YIwtQz0du_OBYlGVX4oAMxGsA.jpg"/>
+    </item>
     <item>
       <title>Arin rørt til tårer</title>
       <description><![CDATA[Vi diskuterer hva som er den beste lukten og historien om en forsinket unnskyldning får Arin til å gråte.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>52:09</itunes:duration>
       <pubDate>Mon, 10 Feb 2025 12:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Z4nv08t7dnqwgLp-7JJYagP072rprFjuyvati3VNu26w.jpg"/>
-    </item>
-    <item>
-      <title>Er Olli Wermskog redd for å dø?</title>
-      <description><![CDATA[Olli og Abu svarer på alt du lurer på om «Kongen Befaler». Har iPadden til Olli noen funksjon? Og har de HMS-ansvarlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a576052f-e586-4e12-9930-9447f33e291e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a576052f-e586-4e12-9930-9447f33e291e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:06</itunes:duration>
-      <pubDate>Fri, 07 Feb 2025 10:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JpwC6fxlb0wj_8OPAlkICwDYhkKvrPWP_h3NBwx85IWg.jpg"/>
     </item>
   </channel>
 </rss>
