@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 16 Feb 2025 05:30:40 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 23 Feb 2025 05:30:35 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Snorre Monsson</title>
+      <description><![CDATA[Snorre og Else om sinne, romantikk og mote]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/44723dfd-0a2e-4b3d-b357-04748e043831_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/44723dfd-0a2e-4b3d-b357-04748e043831_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:30</itunes:duration>
+      <pubDate>Sun, 23 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5gyfWT411Z5q3Z524IIv5ArIuKN8ORFABXXytXcZFdjg.jpg"/>
+    </item>
     <item>
       <title>Else drar på kino med: Dag Johan Haugerud</title>
       <description><![CDATA[Filmregissør Dag Johan Haugerud om trilogien «Sex», «Drømmer» og «Kjærlighet»]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>14:41</itunes:duration>
       <pubDate>Sun, 22 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OFGDFMHz7o1h1GJ-7dU1UQB0JALeysBROe5UfipkGhNQ.jpg"/>
-    </item>
-    <item>
-      <title>Secret Santa: Javad El Bakali (a.k.a: Utlending.memes)</title>
-      <description><![CDATA[Javad har røket ut av «24-stjernes julekalender», men dukker opp som Secret Santa hos Else.
-Han skal feire jul for første gang med kjæresten, han har skrevet ny bok... og vi tester ferdig-rømmegrøt som julemat!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/da4e035a-3f50-49fe-af26-b70e8f03ab7c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/da4e035a-3f50-49fe-af26-b70e8f03ab7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:47</itunes:duration>
-      <pubDate>Sun, 15 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WSWTimOPBvfjs2ahqn-D_gjOTdl9QtK2olEd9SdtSKjA.jpg"/>
     </item>
   </channel>
 </rss>
