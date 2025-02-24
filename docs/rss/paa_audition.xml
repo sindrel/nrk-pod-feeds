@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra På audition</title>
+    <title>De 6 siste fra På audition</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten På audition. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/paa_audition for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten På audition. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/paa_audition for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 05:32:58 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 24 Feb 2025 05:31:45 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
+    <item>
+      <title>Tara Lina Shahin</title>
+      <description><![CDATA[Ta godt imot kandidat seks. En episode med promping som rød tråd!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/c9e3a241-c19f-433d-af7a-fc1f10ab3e14_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/c9e3a241-c19f-433d-af7a-fc1f10ab3e14_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:38</itunes:duration>
+      <pubDate>Mon, 24 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3JOsz99xow4rxIt6srNDuArUNz8P9JVX8UFb2z7-LybA.jpg"/>
+    </item>
     <item>
       <title>Kristoffer Olsen</title>
       <description><![CDATA[Kandidat fem kommer inn med skyhøy selvtillit. En audition med strøm, analkløe og dødsangst i fokus!]]></description>
