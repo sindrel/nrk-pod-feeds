@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 24 Feb 2025 12:53:48 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Feb 2025 12:45:00 +0100</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2025 13:33:51 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Feb 2025 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Utforsker William Heimdals hjem</title>
+      <description><![CDATA[Henning besøker kunstner William Heimdal for å finne ut om han lever et gammeldags eller moderne liv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/76382cab-609b-4c80-aa05-3137942461d6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/76382cab-609b-4c80-aa05-3137942461d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:30</itunes:duration>
+      <pubDate>Tue, 25 Feb 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k3Wx41rwKLOT34EADkv17whDEPjOh9NYL6lyoHMUGU5g.jpg"/>
+    </item>
     <item>
       <title>Fra «Dødsenglene» til sexklubb</title>
       <description><![CDATA[Kadafi Zaman og Janne Amble kom tett på alt fra drapsmenn til swingers i sesong 5 av «Norge bak Fasaden».]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>53:29</itunes:duration>
       <pubDate>Wed, 12 Feb 2025 11:50:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nGkaR61PEB0omxr2naM-9AXJHNhGrCr_AeWAxLkeakTQ.jpg"/>
-    </item>
-    <item>
-      <title>Jon Øigarden ba om hoggtenner</title>
-      <description><![CDATA[Yosef er tilbake med en ny sesong av NRK-serien Flus, og denne gangen med Jon Øigarden på laget.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a7846f4d-6500-472c-99a6-f84e2560d602_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a7846f4d-6500-472c-99a6-f84e2560d602_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:22</itunes:duration>
-      <pubDate>Tue, 11 Feb 2025 12:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SNx_67YfO-WhbRgI1-l6KQKqDKYayDXvFakBLkXIPdGg.jpg"/>
     </item>
   </channel>
 </rss>
