@@ -1,16 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Bibelen</title>
+    <title>De 10 siste fra Bibelen</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Bibelen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bibelen for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Bibelen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bibelen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Feb 2025 05:30:56 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Feb 2025 05:31:16 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
+    <item>
+      <title>Josef i Egypt (10:40)</title>
+      <description><![CDATA[Men lillebror var ikke død – Han redder alles liv! Likevel blir det etter hvert farlig dårlig stemning.
+Flere episoder kommer tidlig høst 2025.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/f6554bf8-6a5b-45df-8186-3e64226ed844_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/f6554bf8-6a5b-45df-8186-3e64226ed844_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:08</itunes:duration>
+      <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4sWUvw9MwUOvDPZjt7hoTgRsKif0bpkn4YRHJU9WavXQ.jpg"/>
+    </item>
     <item>
       <title>Josef i brønnen (9:40)</title>
       <description><![CDATA[En haug sjalu brødre kvitter seg med farens favorittsønn. Men han gjør hemmelig kometkarriere.]]></description>
