@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-02-27  
+- Updated podcast 'Hævvi' (`haevvi`)  
 ### 2025-02-21  
 - Updated podcast 'Klassen-rådet' (`klassenraadet`)  
 ### 2025-02-20  
