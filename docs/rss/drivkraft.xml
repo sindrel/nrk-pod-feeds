@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 14:32:41 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Feb 2025 14:47:00 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Feb 2025 14:32:47 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Feb 2025 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Bjarte Tjøstheim</title>
+      <description><![CDATA[- Jeg er mest kristen på morgenen, men ender opp som ateist etter et par glass på pubben, sier komikeren, radioprogramlederen og prestesønnen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1a3c1726-b7bc-4340-b643-d1aa0ec64195_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1a3c1726-b7bc-4340-b643-d1aa0ec64195_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:54</itunes:duration>
+      <pubDate>Thu, 27 Feb 2025 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DnD1wtTb0NrmlveYp7Fc2gG1eywMQSdEhljM5zzSdRIA.jpg"/>
+    </item>
     <item>
       <title>Hanne Skartveit</title>
       <description><![CDATA[– Det kan virke selvopptatt, men det jeg mener er viktig, det må jeg skrive om, sier VG-redaktøren. Så får det bare bli kjeft etterpå, da.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Tue, 11 Feb 2025 14:15:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/L5neM8LG8kd5i_euNBlYXQeJRHBqSbDs7PxSOrLZmWRQ.jpg"/>
-    </item>
-    <item>
-      <title>Snorre Monsson</title>
-      <description><![CDATA[- Gauteshow ble en suksess fordi vi var gode på å være dumme, sier komikeren]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/37d14f9f-2939-485d-81f1-786a9ee9e8ef_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/37d14f9f-2939-485d-81f1-786a9ee9e8ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:09</itunes:duration>
-      <pubDate>Mon, 10 Feb 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pQwnCauQSP_IPtUo_Q8PZw5-4rvfF02_1l3V-IpRZ1XQ.jpg"/>
     </item>
   </channel>
 </rss>
