@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 13:32:50 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Feb 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Feb 2025 13:33:57 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Feb 2025 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>The Brutalist: Svimlende ambisjoner</title>
+      <description><![CDATA[10 ganger Oscar-nominerte «The Brutalist» er et stort og mektig drama som gjør inntrykk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/2fe17513-1e1b-4385-8262-34b3e8b647d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/2fe17513-1e1b-4385-8262-34b3e8b647d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:15</itunes:duration>
+      <pubDate>Thu, 27 Feb 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1EK9cdVrg-ap2oWVjX2MTA3yrm5kqG1T8UVWfHd9mq9g.jpg"/>
+    </item>
     <item>
       <title>The White Lotus S3: Djevelsk god satire</title>
       <description><![CDATA[Det er ren TV-luksus å bli servert nok en saftig runde med «The White Lotus» på Max. Sigurd triller terningkast 5!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>39:51</itunes:duration>
       <pubDate>Thu, 26 Dec 2024 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/rcy1UaiUIShSXC1oLz_vmgOubqcbRjs1ZjIxQsUc2V8g.jpg"/>
-    </item>
-    <item>
-      <title>2024: Årets beste serier!</title>
-      <description><![CDATA[Hvilke serier har du sett i år? Sigurd og Marte kårer årets beste! Les hele topp 10-lista på P3.no.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/40cd8129-5938-4f33-8527-ede9af3baffe_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/40cd8129-5938-4f33-8527-ede9af3baffe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:18</itunes:duration>
-      <pubDate>Thu, 19 Dec 2024 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QGxFxBhn0L-BCCSr86bY0gh32VolMHPZpm4q5VjVG1TQ.jpg"/>
     </item>
   </channel>
 </rss>
