@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 18:38:34 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Feb 2025 19:25:00 +0100</pubDate>
+    <lastBuildDate>Fri, 28 Feb 2025 18:37:46 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Feb 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Trump møter Zeleskyj</title>
+      <description><![CDATA[USAs president møter nå Ukrainas president  Volodymyr Zelenskyj i Det hvite hus.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/843a48c2-5422-4281-b04b-839e86807643_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/843a48c2-5422-4281-b04b-839e86807643_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:52</itunes:duration>
+      <pubDate>Fri, 28 Feb 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HeACEb7osxjhBXGcDgioDgujFW4l0ApxpspWkwdTYX_w.jpg"/>
+    </item>
     <item>
       <title>Norge har det høyeste sykefraværet på 16 år</title>
       <description><![CDATA[Økningen er liten, men den høyeste i Europa.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Mon, 17 Feb 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dZOYrKttMK2ZTUQnafcFtwVfJXSgKo3m6ofWLYkhW8WA.jpg"/>
-    </item>
-    <item>
-      <title>Vance kritiserer Europa</title>
-      <description><![CDATA[Visepresidenten gikk hardt ut mot NATO-allierte under sikkerhetskonferansen i München. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0ff05d2b-1783-4cc4-a5cb-293ec1f0a2ef_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0ff05d2b-1783-4cc4-a5cb-293ec1f0a2ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 14 Feb 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Mz7xkx-ZNLSmpnrmlyqNdQefVROoYEMXBFh8vBbwt-pw.jpg"/>
     </item>
   </channel>
 </rss>
