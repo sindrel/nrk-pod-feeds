@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 28 Feb 2025 05:32:44 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 01 Mar 2025 13:29:55 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Mar 2025 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>Krangelen i Det hvite hus</title>
+      <description><![CDATA[En måpende verden fulgte med da president Zelenskyj ble skjelt ut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/68ba15e9-d2f8-4f16-9ad7-08715926dde7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/68ba15e9-d2f8-4f16-9ad7-08715926dde7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:24</itunes:duration>
+      <pubDate>Sat, 01 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eWpEj5aLjNXGxxvmHTVnywzo9WGfSd0EycKlRc_aJrKA.jpg"/>
+    </item>
     <item>
       <title>Dette er mineralavtalen</title>
       <description><![CDATA[Ukraina har sagt ja til å dele naturressursene sine med USA. 
@@ -93,15 +102,6 @@ Nå samler de seg rundt Zelenskyj]]></description>
       <itunes:duration>17:34</itunes:duration>
       <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XzZFVxxopvSEBUjGrbT1aAHFx9XeeUK08iZnoQqWFhnA.jpg"/>
-    </item>
-    <item>
-      <title>Svalbard på menyen i Moskva</title>
-      <description><![CDATA[Dersom Trump skal ha Grønland burde Putin ha Svalbard er tankegangen blant noen russere. Det vil være et gigantisk strategisk mageplask for Russland å gjøre det, men det kan skje mener ekspertene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/440c441d-ade8-4663-8d08-910c5a214901_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/440c441d-ade8-4663-8d08-910c5a214901_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:40</itunes:duration>
-      <pubDate>Fri, 31 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/av3eK5nlkjQ8W8aa3e1l_gmLH8DIBBCr__9C-z3d3Nfg.jpg"/>
     </item>
   </channel>
 </rss>
