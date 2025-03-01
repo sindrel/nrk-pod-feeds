@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-03-01  
+- Added podcast 'Kjapt oppdatert' (`kjapt_oppdatert`)  
 ### 2025-02-27  
 - Updated podcast 'Hævvi' (`haevvi`)  
 ### 2025-02-21  
