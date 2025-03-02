@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-03-02  
+- Updated podcast 'Berrum & Beyer snakker om greier' (`berrum_beyer_snakker_om_greier`)  
 ### 2025-03-01  
 - Added podcast 'Kjapt oppdatert' (`kjapt_oppdatert`)  
 ### 2025-02-27  
