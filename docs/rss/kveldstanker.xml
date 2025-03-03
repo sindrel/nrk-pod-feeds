@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 05:31:22 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 03 Mar 2025 05:31:55 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Gi aldri opp - med Francine Mbanza Jensen</title>
+      <description><![CDATA[Ikke lytt til dem som sier du ikke vil nå drømmene dine, råder Francine Mbanza Jensen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/5b43b838-f4b8-42d7-bc2d-ec39d1b36cf2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/5b43b838-f4b8-42d7-bc2d-ec39d1b36cf2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:38</itunes:duration>
+      <pubDate>Mon, 03 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ha8Oozr6v3a7Nn91JlrEsg4Xuhz6dIErnylNQUU45Q8w.jpg"/>
+    </item>
     <item>
       <title>Ta plass - med Ingvild Hegge Eriksen</title>
       <description><![CDATA[Vi mennesker ser forskjellige ut. Det må vi ta på alvor, mener Ingvild Hegge Eriksen.  Hun er en litt over snittet høy forfatter.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:12</itunes:duration>
       <pubDate>Mon, 10 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2oRuEQoDkFvKAMZJtnOqqggP0rhGsmIp1oyToAHeYXFQ.jpg"/>
-    </item>
-    <item>
-      <title>Kloke ord - med Gunn Marit Nisja</title>
-      <description><![CDATA[Du er fin som du er, sa en klok frøken til forfatter Gunn Marit Nisja en gang. Frøkna var 10 år gammel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/c3eb26a7-1238-4310-8f54-f99d3923e02b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/c3eb26a7-1238-4310-8f54-f99d3923e02b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:28</itunes:duration>
-      <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>
