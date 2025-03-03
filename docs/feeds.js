@@ -551,7 +551,7 @@ const feeds = [
     "id": "kjapt_oppdatert",
     "title": "De 10 siste fra Kjapt oppdatert",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kjente_boeker_paa_4_minutter",
