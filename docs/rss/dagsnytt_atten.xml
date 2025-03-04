@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 03 Mar 2025 18:35:56 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Mar 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 04 Mar 2025 18:39:22 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Mar 2025 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>USA kutter våpenstøtte til Ukraina</title>
+      <description><![CDATA[Store konsekvenser for Ukraina og Europa etter at USA nå stanser den militære støtten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/10b58d0a-68c8-4aee-b4e0-d39cc1c3a699_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/10b58d0a-68c8-4aee-b4e0-d39cc1c3a699_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:54</itunes:duration>
+      <pubDate>Tue, 04 Mar 2025 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6iuU0YrLDMEZp3dIjwhyzAmc5y6MNB60xPGrDH070_mQ.jpg"/>
+    </item>
     <item>
       <title>Mener Norge må gi mer til Ukraina</title>
       <description><![CDATA[Dansk redaktør mener det er forkastelig at Norge gir så lite til Ukraina.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 19 Feb 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dZOYrKttMK2ZTUQnafcFtwVfJXSgKo3m6ofWLYkhW8WA.jpg"/>
-    </item>
-    <item>
-      <title>USA og Russland møttes om Ukraina</title>
-      <description><![CDATA[USA og Russland er enig om å samarbeide om felles geopolitiske interesser og historiske økonomiske investeringsmuligheter hvis det blir slutt på krigen i Ukraina.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/766b57f0-75f9-419b-b140-11924c8f0bc1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/766b57f0-75f9-419b-b140-11924c8f0bc1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 18 Feb 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tqoaoT2Diju7ZdT25amEjASpVKuAbmD066pZIJup8NUg.jpg"/>
     </item>
   </channel>
 </rss>
