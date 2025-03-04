@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 03 Mar 2025 12:53:31 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Mar 2025 12:50:00 +0100</pubDate>
+    <lastBuildDate>Tue, 04 Mar 2025 12:53:28 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Mar 2025 12:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Arins dusj har sprengt</title>
+      <description><![CDATA[Arin har hatt en dramatisk morgen og Thea Sofie forteller om kvalmende scener i «Den Stygge Stesøsteren».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bf2e38b9-05a7-4ee0-a9a1-72d78c97042f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bf2e38b9-05a7-4ee0-a9a1-72d78c97042f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:25</itunes:duration>
+      <pubDate>Tue, 04 Mar 2025 12:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VBzYszzXpKX9mHQ-cbNUMwpyH7Vt_RzMPA8ng20c3dpA.jpg"/>
+    </item>
     <item>
       <title>Har Andreas Wahl blitt prepper?</title>
       <description><![CDATA[Andreas Wahl gir svar på om vi bør frykte katastrofer, og hvordan vi best forbereder oss.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>56:04</itunes:duration>
       <pubDate>Wed, 19 Feb 2025 11:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RzZxOYo8jsC1D6DVDANr9w3dDF-w280SaBXOsFsniMbg.jpg"/>
-    </item>
-    <item>
-      <title>«Pølsa» får nok Hawk Tuah!</title>
-      <description><![CDATA[Vi tester om Øystein «Pølsa» Pettersen har plukket opp Gen Z-språket etter å ha trent seks tenåringer i serien «Team Pølsa».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/99ce6804-fc8a-43f5-b84d-d5c900c05c5e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/99ce6804-fc8a-43f5-b84d-d5c900c05c5e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:09</itunes:duration>
-      <pubDate>Tue, 18 Feb 2025 12:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EpP-hXo8BzK7l7b-QpTwWgiPDOslzi8hrOJ0YewNA9pg.jpg"/>
     </item>
   </channel>
 </rss>
