@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 06:38:33 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Mar 2025 05:32:34 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
+    <item>
+      <title>Hkeem på besøk</title>
+      <description><![CDATA[Hkeem om deltagelse på boksen, ny låt og hatkommentarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/22d359dd-10db-4613-afe3-6acf84dc17a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/22d359dd-10db-4613-afe3-6acf84dc17a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:12</itunes:duration>
+      <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aqB2kIoeiSu8hEcAcTnCLQLAZ-xK8SUpfR5adcGtPBFw.jpg"/>
+    </item>
     <item>
       <title>Utroskap og avskaffe monarkiet</title>
       <description><![CDATA[Gutta diskuterer det virale klippet "Montoya por favor". Mo vil starte et nytt politisk parti som visstnok skal gjøre Norge bedre.]]></description>
@@ -91,16 +100,6 @@
       <itunes:duration>38:37</itunes:duration>
       <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/rUJ614_pXXVNjPXw4-K--w3tV_DiqW5sKfwvP5r0P73A.jpg"/>
-    </item>
-    <item>
-      <title>– Den er dritdyr</title>
-      <description><![CDATA[Hør hva som skjedde da Mo glemte Mac-en på bussen.
-En blanding av stress, panikk og noen lærerike øyeblikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/71ce38ad-4776-4718-880b-af63551bac6a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/71ce38ad-4776-4718-880b-af63551bac6a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:32</itunes:duration>
-      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
     </item>
   </channel>
 </rss>

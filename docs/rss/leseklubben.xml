@@ -1,24 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Leseklubben</title>
+    <title>De 3 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 03 Mar 2025 14:33:13 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Mar 2025 15:06:00 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Mar 2025 05:32:25 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Mar 2025 06:04:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     <item>
-      <title>Kommer snart: Leseklubben: «Genanse og verdighet» med Atle Antonsen</title>
-      <description><![CDATA[Onsdag 5. mars sparker Leseklubben i gang igjen med «Genanse og verdighet» av Dag Solstad.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6455af90-2ee0-4585-97fa-ec547fb40cdf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6455af90-2ee0-4585-97fa-ec547fb40cdf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:28</itunes:duration>
-      <pubDate>Mon, 03 Mar 2025 15:06:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
+      <title>Genanse og verdighet (1:15)</title>
+      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bf560db5-601f-4803-9ef0-e128d044f4e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bf560db5-601f-4803-9ef0-e128d044f4e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:50</itunes:duration>
+      <pubDate>Wed, 05 Mar 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
+    </item>
+    <item>
+      <title>Genanse og verdighet (2:15)</title>
+      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/35a542cc-cfad-40ac-ab5c-d17d8c972d1f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/35a542cc-cfad-40ac-ab5c-d17d8c972d1f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:48</itunes:duration>
+      <pubDate>Wed, 05 Mar 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
+    </item>
+    <item>
+      <title>Genanse og verdighet (3:15)</title>
+      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b9e17dbd-9e97-477d-b9c6-fa23152a09e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b9e17dbd-9e97-477d-b9c6-fa23152a09e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:30</itunes:duration>
+      <pubDate>Wed, 05 Mar 2025 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
     </item>
   </channel>
 </rss>
