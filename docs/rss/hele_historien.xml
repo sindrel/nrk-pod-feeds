@@ -1,51 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 05:31:12 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Feb 2025 06:04:00 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Mar 2025 12:53:35 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Mar 2025 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Smakebit: En morder løs i Tistedal</title>
-      <description><![CDATA[En morder sprer frykt i ei fredelig lita bygd i Østfold. Flere mennesker blir funnet drept på brutalt vis, og politiet har få spor.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/a54099c4-1ab6-48b7-81cd-0158b1c67b6e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/a54099c4-1ab6-48b7-81cd-0158b1c67b6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32</itunes:duration>
-      <pubDate>Wed, 19 Feb 2025 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA.jpg"/>
-    </item>
-    <item>
-      <title>Dobbeltdrapet (1:3)</title>
-      <description><![CDATA[Et eldre søskenpar blir funnet drept i sitt eget hjem. Naboene beskriver dem som vennlige og hjelpsomme. Hvem kan stå bak?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/0745f216-6058-4b6e-9f7a-14f89449b6c6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/0745f216-6058-4b6e-9f7a-14f89449b6c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:33</itunes:duration>
-      <pubDate>Thu, 20 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA.jpg"/>
-    </item>
-    <item>
-      <title>Frykten sprer seg (2:3)</title>
-      <description><![CDATA[En mann forsvinner sporløst fra huset sitt i Tistedal. En annen blir funnet i sin egen bil, skutt i nakken på kloss hold.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/be690fb3-8cf9-4ded-9f07-b537d625c5e2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/be690fb3-8cf9-4ded-9f07-b537d625c5e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:49</itunes:duration>
-      <pubDate>Thu, 20 Feb 2025 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA.jpg"/>
-    </item>
-    <item>
-      <title>Den mystiske naboen (3:3)</title>
-      <description><![CDATA[Tre drepte, én sporløst forsvunnet og et bankran. Politiet har få spor og dårlig tid. Hvem er det som herjer i Tistedal?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/12611b78-9caa-48e4-b53a-4aec686f7768_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/12611b78-9caa-48e4-b53a-4aec686f7768_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:34</itunes:duration>
-      <pubDate>Thu, 20 Feb 2025 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9qgz8EJq7r01ao2Fmh7XGQ4d2xn-HdipWB6ai08Lh2nA.jpg"/>
+      <title>I NRK Radio: Da Norge stengte ned</title>
+      <description><![CDATA[Da korononaviruset når Norge i 2020 utløser det de mest drastiske tiltakene i fredstid noensinne – hele landet lukker ned.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/c28be38b-1b68-4731-9657-2589e131a512_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/c28be38b-1b68-4731-9657-2589e131a512_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29</itunes:duration>
+      <pubDate>Wed, 05 Mar 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rnEteIf4nOA32RneyoBPQwrAWU1u6gVS_SSAapdOU9Xw.jpg"/>
     </item>
   </channel>
 </rss>
