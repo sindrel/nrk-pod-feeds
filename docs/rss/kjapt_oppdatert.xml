@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Kjapt oppdatert</title>
+    <title>De 4 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Mar 2025 05:32:21 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Mar 2025 05:32:02 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Mar 2025 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Stengde vegar, utsett ski-VM og Nammo-våpen i Gaza</title>
+      <description><![CDATA[Folk er evakuerte og isolerte på grunn av uvêr, noko som òg påverkar ski-VM. Våpen frå Nammo er funnen i Gaza, og USA trugar Hamas. Fleire statsleiarar skal møtast til eit ekstraordinært EU-toppmøte i Brussel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/55e6e315-266e-4c61-a1cf-643d03dfb61d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/55e6e315-266e-4c61-a1cf-643d03dfb61d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:26</itunes:duration>
+      <pubDate>Thu, 06 Mar 2025 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    </item>
     <item>
       <title>Kasta ut av Kongressen, farevarsel i Sør-Noreg og ny song frå Doechii</title>
       <description><![CDATA[Det var både jubel og protestar då Donald Trump talte i Kongressen. Forskarar seier at Noreg bør sjå seg om etter andre allierte enn USA. Meteorologar og NVE åtvarar om store mengder nedbør. Og Doechii har komme med ny låt.]]></description>
