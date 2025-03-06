@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Mar 2025 13:34:24 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Mar 2025 14:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Mar 2025 14:33:45 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Mar 2025 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Kurdere elsker Kurt Nilsen!</title>
+      <description><![CDATA[Jonas har gjort research for Arin, og Ulrikke Brandstorp er gravid, pusser opp og klar for ny sesong av «Bakemesterskapet».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b2aee430-32c5-4f4a-8a56-94a354f76fac_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b2aee430-32c5-4f4a-8a56-94a354f76fac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:04</itunes:duration>
+      <pubDate>Thu, 06 Mar 2025 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NkRBCGHmrFVmSxOVuQ0IyAAywUVIMPWUk58Glce0T_jA.jpg"/>
+    </item>
     <item>
       <title>Hvite gutter har blitt politi</title>
       <description><![CDATA[Torjus Tveiten og Johannes Roaldsen Fürst er på besøk for å prate om «Bausjen», premierefest med politiet og en siste prank.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>57:15</itunes:duration>
       <pubDate>Fri, 21 Feb 2025 11:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/UVKRMECm5POM79M7NG9YIwtQz0du_OBYlGVX4oAMxGsA.jpg"/>
-    </item>
-    <item>
-      <title>Arin rørt til tårer</title>
-      <description><![CDATA[Vi diskuterer hva som er den beste lukten og historien om en forsinket unnskyldning får Arin til å gråte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/61b4d47e-bc24-4819-9483-ae586cc63ab4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/61b4d47e-bc24-4819-9483-ae586cc63ab4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:38</itunes:duration>
-      <pubDate>Thu, 20 Feb 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
     </item>
   </channel>
 </rss>
