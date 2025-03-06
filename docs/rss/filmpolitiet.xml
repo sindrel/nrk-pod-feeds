@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 13:33:57 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Feb 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Mar 2025 13:34:23 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Mar 2025 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>Den stygge stesøsteren: Blodig og lekkert eventyr</title>
+      <description><![CDATA[«Den stygge stesøsteren» er en ny vri på Askepott-fortellingen, som på ingen måte er en barnefilm!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/88aab304-056a-4af4-b070-6a9377b22082_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/88aab304-056a-4af4-b070-6a9377b22082_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:42</itunes:duration>
+      <pubDate>Thu, 06 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RaYMQy_p1w_ku3w9pxlSqgXhAN-lEJOgeYHC_qULnAKw.jpg"/>
+    </item>
     <item>
       <title>The Brutalist: Svimlende ambisjoner</title>
       <description><![CDATA[10 ganger Oscar-nominerte «The Brutalist» er et stort og mektig drama som gjør inntrykk.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>28:24</itunes:duration>
       <pubDate>Thu, 02 Jan 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/-pdQWee2JR-EFlmHG23lmwLVXt4Ap33-QTPZcY0CRQgg.jpg"/>
-    </item>
-    <item>
-      <title>2024: Årets beste filmer!</title>
-      <description><![CDATA[Birger kårer sine favoritter fra året, og på toppen troner en norsk film! Les hele topp 10-lista på P3.no!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/1834c913-6351-4ad4-9f8c-84f56e45859b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/1834c913-6351-4ad4-9f8c-84f56e45859b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:51</itunes:duration>
-      <pubDate>Thu, 26 Dec 2024 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rcy1UaiUIShSXC1oLz_vmgOubqcbRjs1ZjIxQsUc2V8g.jpg"/>
     </item>
   </channel>
 </rss>
