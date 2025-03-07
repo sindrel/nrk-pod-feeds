@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Mar 2025 14:33:45 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Mar 2025 15:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 07 Mar 2025 12:52:54 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Mar 2025 13:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Snorre Monsson tester på dama</title>
+      <description><![CDATA[Henning utfordrer Jonas til å droppe snusen, og Snorre Monsson deler hva slags sketsjer han synes det er ubehagelig å spille inn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4cec6911-12ce-461b-883b-22018381f5ee_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4cec6911-12ce-461b-883b-22018381f5ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:07</itunes:duration>
+      <pubDate>Fri, 07 Mar 2025 13:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_iOFf7R8MJqt2IcglNXOLAlKKG_FHVYb_rN_8r6JAnKQ.jpg"/>
+    </item>
     <item>
       <title>Kurdere elsker Kurt Nilsen!</title>
       <description><![CDATA[Jonas har gjort research for Arin, og Ulrikke Brandstorp er gravid, pusser opp og klar for ny sesong av «Bakemesterskapet».]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>54:33</itunes:duration>
       <pubDate>Mon, 24 Feb 2025 12:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/d7k3QrzMRiUdC6XkwA4vAAZq4blJdgtkGcj1HtarRJJw.jpg"/>
-    </item>
-    <item>
-      <title>Er det mye fising på Kompani?</title>
-      <description><![CDATA[Tale Torjussen og Ole Henry Snildalsli forteller hvordan det er å bo så tett på hverandre i Kompani Lauritzen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8757b4f7-c440-4445-818e-250f984149a2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8757b4f7-c440-4445-818e-250f984149a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Fri, 21 Feb 2025 11:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UVKRMECm5POM79M7NG9YIwtQz0du_OBYlGVX4oAMxGsA.jpg"/>
     </item>
   </channel>
 </rss>
