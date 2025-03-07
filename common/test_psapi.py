@@ -65,12 +65,12 @@ def test_get_episode_manifest():
     assert "url" in manifest["playable"]["assets"][0]
 
 def test_get_latest_podcast_season():
-    podcast_id = "kongerekka"
+    podcast_id = "friminutt_med_herman_og_mikkel"
 
     metadata = psapi.get_podcast_metadata(podcast_id)
     latest_season = metadata["_links"]["seasons"][0]["name"]
 
-    assert latest_season == "2023"
+    assert latest_season == "202111"
 
 def test_get_podcast_episodes_by_season():
     podcast_id = "kongerekka"
