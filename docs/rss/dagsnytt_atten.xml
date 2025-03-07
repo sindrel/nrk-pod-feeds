@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 06 Mar 2025 18:38:16 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Mar 2025 19:20:00 +0100</pubDate>
+    <lastBuildDate>Fri, 07 Mar 2025 18:37:24 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Mar 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Strid om Stoltenbergs skattekommisjon</title>
+      <description><![CDATA[Finansministeren håper fortsatt på en ny skattekommisjon, til tross for at de fleste partiene på Stortinget avviser ham.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ba6e0c70-d704-4888-a979-f1b18666e972_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ba6e0c70-d704-4888-a979-f1b18666e972_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 07 Mar 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Om9ZqFZcH3nBlSsgzT5S2gS45ayofTsvLACoU7EzsGBA.jpg"/>
+    </item>
     <item>
       <title>Norge øker Ukraina-støtten til 85 milliarder kroner</title>
       <description><![CDATA[Partiene på Stortinget er enige om å mer enn doble støtten til Ukraina i 2025.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Mon, 24 Feb 2025 19:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/cXynMDvmqAdedaHI2ZSLeggzt02B7OKwB4bLvtzY2HXA.jpg"/>
-    </item>
-    <item>
-      <title>Toner ned språkbruken</title>
-      <description><![CDATA[USAs utsending til Ukraina kaller i dag Zelenskyj en modig leder.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2576c99a-11c1-4528-8e4a-a15684828f3e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2576c99a-11c1-4528-8e4a-a15684828f3e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:48</itunes:duration>
-      <pubDate>Fri, 21 Feb 2025 19:33:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Yr5eUnAEKbdz56WcZdXngQzO0O4qJE3mq2DvT9ozQNCg.jpg"/>
     </item>
   </channel>
 </rss>
