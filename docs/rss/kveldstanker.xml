@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Mar 2025 05:32:24 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 10 Mar 2025 05:27:43 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Firkløvar - med Solveig Johanne Grønstøl</title>
+      <description><![CDATA[Er du ein sånn som finn firkløvar, undrar Solveig Johanne Grønstøl]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/84c0bc30-ebf1-49e5-9395-aa9794cf6bde_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/84c0bc30-ebf1-49e5-9395-aa9794cf6bde_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:32</itunes:duration>
+      <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X9V512lrosJHs4nS-m1TFw7qiS8G76_4LGPaCU-l42Og.jpg"/>
+    </item>
     <item>
       <title>Den lille løsningen - med Gunn Marit Nisja</title>
       <description><![CDATA[Av og til må vi finne den lille løsningen på store problemer,  mener forfatter Gunn Marit Nisja]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:32</itunes:duration>
       <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
-    </item>
-    <item>
-      <title>Klem - med Tore Thommassen</title>
-      <description><![CDATA[- Jeg er ingen klemmer, sier visesanger Tore Thomassen. Men det finnes øyeblikk der han bare må godta en skikkelig bamseklem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1a6f65bb-00ba-4d1b-bb2a-827ce6dbb5a3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1a6f65bb-00ba-4d1b-bb2a-827ce6dbb5a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:25</itunes:duration>
-      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/v9C7f3Goh3sUCMPaEKUMegrZO2odb6kjE0q023bGBytg.jpg"/>
     </item>
   </channel>
 </rss>
