@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 07 Mar 2025 12:52:54 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Mar 2025 13:15:00 +0100</pubDate>
+    <lastBuildDate>Mon, 10 Mar 2025 14:34:16 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Mar 2025 14:40:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Jonas og Hennings livsstilsendring</title>
+      <description><![CDATA[Helseminister Jan Christian Vestre innvier Jonas og Hennings nikotinstopp – og deler hva han selv må slutte med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/38284776-5780-4241-88ed-b3904a62d058_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/38284776-5780-4241-88ed-b3904a62d058_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:15</itunes:duration>
+      <pubDate>Mon, 10 Mar 2025 14:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CYHFMXQFxMivPv2T-PKjLQ1txZz-HzNtqJEBZKohfTfg.jpg"/>
+    </item>
     <item>
       <title>Snorre Monsson tester på dama</title>
       <description><![CDATA[Henning utfordrer Jonas til å droppe snusen, og Snorre Monsson deler hva slags sketsjer han synes det er ubehagelig å spille inn.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>52:30</itunes:duration>
       <pubDate>Tue, 25 Feb 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/k3Wx41rwKLOT34EADkv17whDEPjOh9NYL6lyoHMUGU5g.jpg"/>
-    </item>
-    <item>
-      <title>Fra «Dødsenglene» til sexklubb</title>
-      <description><![CDATA[Kadafi Zaman og Janne Amble kom tett på alt fra drapsmenn til swingers i sesong 5 av «Norge bak Fasaden».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8548cfe3-c16d-4849-a8b1-a640362b3a1d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8548cfe3-c16d-4849-a8b1-a640362b3a1d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:33</itunes:duration>
-      <pubDate>Mon, 24 Feb 2025 12:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/d7k3QrzMRiUdC6XkwA4vAAZq4blJdgtkGcj1HtarRJJw.jpg"/>
     </item>
   </channel>
 </rss>
