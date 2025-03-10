@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 07 Mar 2025 18:37:24 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Mar 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 10 Mar 2025 18:37:07 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Mar 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Suspenderes etter VM-juks</title>
+      <description><![CDATA[Magnus Brevig og Adrian Livelten er suspendert fra jobbene sine i Norges Skiforbund.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f76a4c23-58d3-4133-b247-790858972fe0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f76a4c23-58d3-4133-b247-790858972fe0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 10 Mar 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hWKjIFeTxZmCcPc6acPewwjGK1sVyY8cXvoxyMt3Xvtg.jpg"/>
+    </item>
     <item>
       <title>Strid om Stoltenbergs skattekommisjon</title>
       <description><![CDATA[Finansministeren håper fortsatt på en ny skattekommisjon, til tross for at de fleste partiene på Stortinget avviser ham.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 25 Feb 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JMbULzi1OtsDE4j7cHStQAy8LQgvcI3ORE-BOd351SPA.jpg"/>
-    </item>
-    <item>
-      <title>Toppmøte i Kyiv på treårsdagen for invasjonen av Ukraina</title>
-      <description><![CDATA[– EU vil samarbeide tettere med Norge om Ukraina, sier statsminister Jonas Gahr Støre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ae9a0c45-f326-4902-8b08-541b22005459_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ae9a0c45-f326-4902-8b08-541b22005459_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Mon, 24 Feb 2025 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cXynMDvmqAdedaHI2ZSLeggzt02B7OKwB4bLvtzY2HXA.jpg"/>
     </item>
   </channel>
 </rss>
