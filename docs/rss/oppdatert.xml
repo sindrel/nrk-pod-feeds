@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 07 Mar 2025 05:32:01 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Mar 2025 05:59:00 +0100</pubDate>
+    <lastBuildDate>Mon, 10 Mar 2025 04:28:56 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Mar 2025 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Gutten med spikerbomba (4:5)</title>
+      <description><![CDATA[Gutten er sporløst borte, men så får vi et tips.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/7e2568cf-a25d-46db-93fe-3cbb2315042a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/7e2568cf-a25d-46db-93fe-3cbb2315042a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:49</itunes:duration>
+      <pubDate>Mon, 10 Mar 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ANH6O1NbTv9MUtd41TWOwghC165mn2jw18q53ZQJuCgQ.jpg"/>
+    </item>
     <item>
       <title>Løy om hjernekreft: Ble helseinfluenser</title>
       <description><![CDATA[Belle Gibson lurte en hel verden med sin alternative kreftkur. I dag bugner det av liknende helseråd på nett.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>19:54</itunes:duration>
       <pubDate>Thu, 27 Feb 2025 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ujbAW1piy90Odq-PRuThmQNxKVpsPjLvTjJdcO_8Zs0A.jpg"/>
-    </item>
-    <item>
-      <title>Satsa på YouTube: Slik endra han hele landsbyen</title>
-      <description><![CDATA[På få år endret alt seg i landsbyen Tulsi. Nå er de Indias YouTube-hovedstad.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b5c206cc-1cea-4541-b37f-7fdbd17c035b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b5c206cc-1cea-4541-b37f-7fdbd17c035b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:14</itunes:duration>
-      <pubDate>Wed, 26 Feb 2025 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hVfmPUaDRLDg4OxvgbfhywRhBoCjTHz8m1TI1jpgvyKQ.jpg"/>
     </item>
   </channel>
 </rss>
