@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 05:27:43 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 11 Mar 2025 05:31:45 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Solveig - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[En feilvurdering er egentlig en sjanse til å skaffe seg innsikt, hevder Claes Krogsgaard Ericsson.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d1d4d47a-9d5a-4b97-8b22-97236cfce3b2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d1d4d47a-9d5a-4b97-8b22-97236cfce3b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:16</itunes:duration>
+      <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jdvOTQMc_GhcCT1cyw9-QAUDz1j2i98enJ9kyAmr45WQ.jpg"/>
+    </item>
     <item>
       <title>Firkløvar - med Solveig Johanne Grønstøl</title>
       <description><![CDATA[Er du ein sånn som finn firkløvar, undrar Solveig Johanne Grønstøl]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>03:44</itunes:duration>
       <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jdvOTQMc_GhcCT1cyw9-QAUDz1j2i98enJ9kyAmr45WQ.jpg"/>
-    </item>
-    <item>
-      <title>Mannen med ljåen - med Elin Sofye Rabbevåg</title>
-      <description><![CDATA[Tenk deg at et bilde av deg henger på en vegg om ett hundre år, sier musiker Elin Sofye Rabbevåg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/2be0b37f-4c4f-4230-91f5-aa0decf3cb81_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/2be0b37f-4c4f-4230-91f5-aa0decf3cb81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:32</itunes:duration>
-      <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
     </item>
   </channel>
 </rss>
