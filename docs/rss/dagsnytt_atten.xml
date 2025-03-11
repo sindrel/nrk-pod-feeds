@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 18:37:07 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Mar 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 11 Mar 2025 18:40:20 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Mar 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ny politisk meningsmåling</title>
+      <description><![CDATA[En ny meningsmåling som Norstat har gjort for NRK og Dagbladet presenteres tirsdag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3342c53d-08bd-4a35-b478-eb176f3554d6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3342c53d-08bd-4a35-b478-eb176f3554d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Tue, 11 Mar 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Nwq9QCjGKoTcx5QWeUXz2QW4a43AoYxnojL7yaiXUnBQ.jpg"/>
+    </item>
     <item>
       <title>Suspenderes etter VM-juks</title>
       <description><![CDATA[Magnus Brevig og Adrian Livelten er suspendert fra jobbene sine i Norges Skiforbund.]]></description>
@@ -91,17 +100,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 26 Feb 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BTcQYz7EKqNkvv1wMjKeBgrgo8excYWXLxgN0DH2z0VA.jpg"/>
-    </item>
-    <item>
-      <title>USA og Russland stemte sammen i FN</title>
-      <description><![CDATA[USA fikk støtte av Russland i sitt FN-forslag om en rask slutt på Ukraina-krigen.
-
-- Historiens dom vil være hard, sier USA-kjenner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eeac5765-043a-4498-a550-71a7ddfc6d68_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eeac5765-043a-4498-a550-71a7ddfc6d68_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 25 Feb 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JMbULzi1OtsDE4j7cHStQAy8LQgvcI3ORE-BOd351SPA.jpg"/>
     </item>
   </channel>
 </rss>
