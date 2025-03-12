@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 18:40:20 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Mar 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Mar 2025 18:40:16 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Mar 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Forfang og Lindvik utestengt av FIS</title>
+      <description><![CDATA[Det skjer samme dag som flere tidligere norske hoppere innrømmer juks da de var aktive.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7d73d7d2-78da-4cdf-a9d5-c98e5820eb3f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7d73d7d2-78da-4cdf-a9d5-c98e5820eb3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 12 Mar 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R8XYLtk8rf47fAoD1S3u9QdFX_-8tQH9WV7V7wh1NguA.jpg"/>
+    </item>
     <item>
       <title>Ny politisk meningsmåling</title>
       <description><![CDATA[En ny meningsmåling som Norstat har gjort for NRK og Dagbladet presenteres tirsdag.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:48</itunes:duration>
       <pubDate>Thu, 27 Feb 2025 19:25:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9z6fiFSG1fUiBVN-ldMTMgHmT--A4cFfaSLI_POHf74A.jpg"/>
-    </item>
-    <item>
-      <title>Trump vil omgjøre Gaza til et paradis</title>
-      <description><![CDATA[En ny KI-video publisert av Donald Trump viser hvordan presidenten skal omgjøre Gaza-stripen fra å være en utbombet ruin til å bli et paradis.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bda547a7-b006-4145-97e1-7f404ac9c09f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bda547a7-b006-4145-97e1-7f404ac9c09f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 26 Feb 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BTcQYz7EKqNkvv1wMjKeBgrgo8excYWXLxgN0DH2z0VA.jpg"/>
     </item>
   </channel>
 </rss>
