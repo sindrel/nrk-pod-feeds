@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Siesta</title>
+    <title>De 3 siste fra Siesta</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Siesta. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/siesta for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Siesta. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/siesta for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 15:32:46 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Mar 2025 15:33:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Mar 2025 13:35:45 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Vi sprenger en grisetarm!</title>
+      <description><![CDATA[Daniel er euforisk over ny låt, vi har premiere på spalten «smalltalk» og Anna og Markus konkurrerer i hvem som er best til å etterligne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/89a3abc7-eb58-4f0d-9a0a-95f0646e4976_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/89a3abc7-eb58-4f0d-9a0a-95f0646e4976_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:31</itunes:duration>
+      <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Kan vasking bli sensuelt?</title>
       <description><![CDATA[Daniel har fått manne-bukett, Markus skal være sensuell og vi tester den nye spalten «det går bra om daaan»!]]></description>
