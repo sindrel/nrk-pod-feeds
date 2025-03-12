@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 05 Mar 2025 05:32:34 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Mar 2025 05:32:01 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
+    <item>
+      <title>Fasting og Ramadan</title>
+      <description><![CDATA[–Kan du ikke drikke vann engang? Mo får mange dumme spørsmål om Ramadan. 
+Det blir ny runde med verdt det eller ikke?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/fd4f8069-e7eb-431b-be14-727a4e78d2cf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/fd4f8069-e7eb-431b-be14-727a4e78d2cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:43</itunes:duration>
+      <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
+    </item>
     <item>
       <title>Hkeem på besøk</title>
       <description><![CDATA[Hkeem om deltagelse på boksen, ny låt og hatkommentarer.]]></description>
@@ -91,15 +101,6 @@
       <itunes:duration>28:54</itunes:duration>
       <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
-    </item>
-    <item>
-      <title>Vollan-tvillingene er gjester</title>
-      <description><![CDATA[Vollan tvillingene er internasjonale modeller.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/f84de954-acbb-48d9-a0fc-cb5279483dcc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f84de954-acbb-48d9-a0fc-cb5279483dcc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:37</itunes:duration>
-      <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rUJ614_pXXVNjPXw4-K--w3tV_DiqW5sKfwvP5r0P73A.jpg"/>
     </item>
   </channel>
 </rss>

@@ -1,22 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Kjapt oppdatert</title>
+    <title>De 8 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 05:31:42 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Mar 2025 05:59:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Mar 2025 05:31:51 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Mar 2025 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
     <item>
+      <title>Fem år siden pandemien, nye angrep mot Ukraina og stranda astronauter får endelig reise hjem</title>
+      <description><![CDATA[Det er fem år siden nedstenginga av Norge, og helsetoppene sier at de kunne ha gjort ting annerledes. Russland har angrepet Ukraina i natt, bare noen timer etter et våpenhvileforslag. Demokratene vant valget på Grønland, noe flere synes var overraskende. Og to stranda astronauter får endelig reise hjem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f9da8fb9-b449-414b-90bc-e03061e7bdb4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f9da8fb9-b449-414b-90bc-e03061e7bdb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:46</itunes:duration>
+      <pubDate>Wed, 12 Mar 2025 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    </item>
+    <item>
       <title>Fredsforhandlinger mellom Ukraina og USA, Filippinenes ekspresident er arrestert og valget i Grønland</title>
-      <description><![CDATA[Ukraina og USA starter fredsforhandlinger i Saudi-Arabia i dag. Filippinenes tidligere president er arrestert og mistenkt for forbrytelser mot menneskeheten. Det er valg i Grønland, og flere ønsker uavhengighet. Og kan vi endelig forstå hva dyrene sier til oss?]]></description>
+      <description><![CDATA[Ukraina og USA starter fredsforhandlinger i Saudi-Arabia i dag. Filippinenes tidligere president er arrestert og mistenkt for forbrytelser mot menneskeheten. Det er valg i Grønland, og flere ønsker uavhengighet. Og kan vi endelig forstå hva dyrene sier til oss? OBS: I en tidligere versjon av denne episoden sa vi at resultatet av valget i Grønland blir klart i dag. Det blir nok heller klart utover natta til i morgen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a25b7286-0cf0-4fb6-bcc2-386941296f21_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a25b7286-0cf0-4fb6-bcc2-386941296f21_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:01</itunes:duration>
+      <itunes:duration>05:56</itunes:duration>
       <pubDate>Tue, 11 Mar 2025 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
     </item>
