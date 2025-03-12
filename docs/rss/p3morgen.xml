@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 11:26:52 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Mar 2025 11:40:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Mar 2025 11:26:21 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Mar 2025 11:50:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Oskar Westerlin er verpesjuk</title>
+      <description><![CDATA[Oskar Westerlin forteller om tiden på «Spillet», og vi prøver å få fram en litt mykere side av ham.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d671f0da-a90f-44b5-ab0d-f0531447aa3f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d671f0da-a90f-44b5-ab0d-f0531447aa3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:06</itunes:duration>
+      <pubDate>Wed, 12 Mar 2025 11:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/g5NR_tswcu2U4C0Z0OecDA4b525HUBDhbtPMGsC9nxOA.jpg"/>
+    </item>
     <item>
       <title>Fikk kjeft for cannabis-prank</title>
       <description><![CDATA[Mathea Josefsen og Arman Surizehi er med i «Humoretaten» og forteller hvordan det gikk da de filmet en skjult kamera-sketsj.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>51:54</itunes:duration>
       <pubDate>Thu, 27 Feb 2025 12:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NIoq36oOmSr3hICGDCeNCAENKkQm7cX6E9zsx9d74xjQ.jpg"/>
-    </item>
-    <item>
-      <title>Fabian skal ligge for første gang</title>
-      <description><![CDATA[Vi snakker med Fabian, som i dokumentarserien «Fabian skal ligge» tar steget ut av komfortsonen og inn i datingverdenen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c2ad4755-d24a-4560-a0bc-9d24f9c9f046_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c2ad4755-d24a-4560-a0bc-9d24f9c9f046_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:42</itunes:duration>
-      <pubDate>Wed, 26 Feb 2025 15:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JGwi10I1-XXsHJzUypDoQw796KQ6gEW3kBECqLaJQEGQ.jpg"/>
     </item>
   </channel>
 </rss>
