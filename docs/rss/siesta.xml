@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Siesta</title>
+    <title>De 4 siste fra Siesta</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Siesta. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/siesta for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Siesta. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/siesta for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 13:35:45 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 13 Mar 2025 14:33:46 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Matskammen lenge leve</title>
+      <description><![CDATA[Markus hadde ubehagelig kafe-opplevelse, Anna får motstand på valg av is og de to korpulente herrene skammer seg over vente-sjokoladen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/23d72ca5-9dba-4f59-aa46-0d74c85413ea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/23d72ca5-9dba-4f59-aa46-0d74c85413ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:36</itunes:duration>
+      <pubDate>Thu, 13 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Vi sprenger en grisetarm!</title>
       <description><![CDATA[Daniel er euforisk over ny låt, vi har premiere på spalten «smalltalk» og Anna og Markus konkurrerer i hvem som er best til å etterligne.]]></description>

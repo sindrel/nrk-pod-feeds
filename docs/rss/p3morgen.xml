@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 11:26:21 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Mar 2025 11:50:00 +0100</pubDate>
+    <lastBuildDate>Thu, 13 Mar 2025 14:33:43 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Mar 2025 14:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Ronny og Markus mimrer til 2014</title>
+      <description><![CDATA[Vi tester om Ronny Brede Aase og Markus Neby husker hva de sa da de var programledere for P3morgen tilbake i 2014.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7a0bc4f4-2c3b-45d4-af46-6bf1cc326272_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7a0bc4f4-2c3b-45d4-af46-6bf1cc326272_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:04</itunes:duration>
+      <pubDate>Thu, 13 Mar 2025 14:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vj5U9kFzYyE1hZqZwRkDNAPEBwlwDNGfWRC4qzZEeFbQ.jpg"/>
+    </item>
     <item>
       <title>Oskar Westerlin er verpesjuk</title>
       <description><![CDATA[Oskar Westerlin forteller om tiden på «Spillet», og vi prøver å få fram en litt mykere side av ham.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>46:07</itunes:duration>
       <pubDate>Fri, 28 Feb 2025 11:40:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
-    </item>
-    <item>
-      <title>Jonas straffes for forsovelse</title>
-      <description><![CDATA[Vi finner en passende straff for forsovelse, og Mathilde Storm deler hvordan man forbereder seg til rollen som sædcelle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e1902f12-97d9-4361-9a4b-abdbc2c9c8d7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e1902f12-97d9-4361-9a4b-abdbc2c9c8d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:54</itunes:duration>
-      <pubDate>Thu, 27 Feb 2025 12:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NIoq36oOmSr3hICGDCeNCAENKkQm7cX6E9zsx9d74xjQ.jpg"/>
     </item>
   </channel>
 </rss>
