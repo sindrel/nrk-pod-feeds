@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 18:40:16 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Mar 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 13 Mar 2025 18:38:54 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Mar 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ytterligere tre hoppere suspendert</title>
+      <description><![CDATA[Granskningen til FIS viser at samtlige hoppdresser til herrelandslaget er manipulert med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/695e6015-ed47-4afb-9670-b50c5ef59cda_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/695e6015-ed47-4afb-9670-b50c5ef59cda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 13 Mar 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hcWJ92vOKVKboTAlU8sQgw8F9mgvq82w_54mlYPFG0lA.jpg"/>
+    </item>
     <item>
       <title>Forfang og Lindvik utestengt av FIS</title>
       <description><![CDATA[Det skjer samme dag som flere tidligere norske hoppere innrømmer juks da de var aktive.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>58:52</itunes:duration>
       <pubDate>Fri, 28 Feb 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HeACEb7osxjhBXGcDgioDgujFW4l0ApxpspWkwdTYX_w.jpg"/>
-    </item>
-    <item>
-      <title>Norge har det høyeste sykefraværet på 16 år</title>
-      <description><![CDATA[Økningen er liten, men den høyeste i Europa.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ea188226-4593-4506-83f9-84098e13620d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ea188226-4593-4506-83f9-84098e13620d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:48</itunes:duration>
-      <pubDate>Thu, 27 Feb 2025 19:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9z6fiFSG1fUiBVN-ldMTMgHmT--A4cFfaSLI_POHf74A.jpg"/>
     </item>
   </channel>
 </rss>
