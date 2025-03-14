@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-03-14  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-03-11  
 - Added podcast 'Siesta' (`siesta`)  
 ### 2025-03-08  
