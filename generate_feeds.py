@@ -38,7 +38,8 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         website=web_url,
         image=image,
         withhold_from_itunes=True,
-        explicit=False
+        explicit=False,
+        language="no"
     )
 
     if season == "LATEST_SEASON":
