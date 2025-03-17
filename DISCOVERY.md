@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-03-17  
+- Updated podcast 'Monsens univers' (`monsens_univers`)  
 ### 2025-03-14  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-03-11  
