@@ -849,7 +849,7 @@ const feeds = [
     "id": "monsens_univers",
     "title": "De 10 siste fra Monsens univers",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "museum",
