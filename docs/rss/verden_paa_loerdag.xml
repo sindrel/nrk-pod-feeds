@@ -6,18 +6,27 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Urix. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/verden_paa_loerdag for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Mar 2025 14:33:52 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Mar 2025 15:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 04:34:32 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
     <item>
+      <title>Kan Trump og Putin avgjøre Ukrainas skjebne?</title>
+      <description><![CDATA[En telefonsamtale kan bestemme hva som skjer med Ukraina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/006bc37d-185c-4b01-842f-de223460bbb4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/006bc37d-185c-4b01-842f-de223460bbb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:05</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7DwxZkSCtvrnfDH9V4XXhwdJ6tfDCH3wxr4D6dAEaejg.jpg"/>
+    </item>
+    <item>
       <title>Ivan betaler for Russlands krig</title>
-      <description><![CDATA[Den russiske bonden gir fem prosent av overskuddet sitt til krigen i Ukraina. Myndighetene sier det er frivillig.]]></description>
+      <description><![CDATA[Den russiske bonden gir fem prosent av overskuddet sitt til krigen i Ukraina. Myndighetene sier det er frivillig å betale.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/bea9b5ec-1b10-497b-8b3d-28c96e48d9b1_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/bea9b5ec-1b10-497b-8b3d-28c96e48d9b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:18</itunes:duration>
+      <itunes:duration>11:19</itunes:duration>
       <pubDate>Thu, 13 Mar 2025 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Cx7GDvxIL6UrnFbeGkMsDQ5G7OFFJH6SZpd2-zmlbZlQ.jpg"/>
     </item>
@@ -95,15 +104,6 @@ Nå samler de seg rundt Zelenskyj]]></description>
       <itunes:duration>11:56</itunes:duration>
       <pubDate>Fri, 14 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/u20Gs0uMbWdfZolptG28NQ8_0rZVpTsijZLRX6QHtdbQ.jpg"/>
-    </item>
-    <item>
-      <title>Slik vil verden svare Trump</title>
-      <description><![CDATA[President Trump er glad i straffetoll - nå truer en verdensomspennende handelskrig]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/9289a0f5-0636-4a0a-97d9-dfd8b65ae7f6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/9289a0f5-0636-4a0a-97d9-dfd8b65ae7f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:57</itunes:duration>
-      <pubDate>Mon, 10 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/58xNcnRey9VH4P-XxbfX3wuMexh4tQ61lCc-VsTcesQQ.jpg"/>
     </item>
   </channel>
 </rss>
