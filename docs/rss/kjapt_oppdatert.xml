@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Mar 2025 05:32:06 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Mar 2025 05:59:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 05:32:15 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Israelske angrep i Gaza, skudd på Stovner t-banestasjon og iHeartRadio Awards</title>
+      <description><![CDATA[Israel har utført flere luftangrep inne på Gaza i natt, og Hamas mener dette betyr at våpenhvilen er brutt. I Oslo har to tenåringer blitt pågrepet for å ha skutt en gutt, i det politiet tror er et oppgjør. Russland og USA gjør seg klare til å snakke om en mulig våpenhvile i Ukraina. Og flere artister har fått priser under iHeartRadio Awards i natt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f522f587-e82e-45e9-8d32-7ed085bac80e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f522f587-e82e-45e9-8d32-7ed085bac80e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:06</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    </item>
     <item>
       <title>EU-konferanse om Syria, folk vil styrke forsvaret og hvordan gikk det med partysvenskene?</title>
       <description><![CDATA[EU skal ha en konferanse om Syria i dag, og det skjer etter voldelige sammenstøt mellom flere grupper forrige helg. Meningsmålinger viser at Donald Trump gjør det bra i USA, og at nordmenn vil styrke forsvaret, så lenge det ikke går utover velferden. Menn skammer seg litt over at de vil fikse på utseende, og ny forskning har sett på hvordan det egentlig gikk med partysvenskene som kom til Norge for å jobbe.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/585d246f-1d18-45f3-b5ea-8b3ea67426de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:28</itunes:duration>
       <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
-    </item>
-    <item>
-      <title>USA pausar militærhjelp, Canada vil ta hemn og fleire gullsjansar i Ski-VM</title>
-      <description><![CDATA[USA pausar militærhjelpa til Ukraina. Canada vil hemne seg mot USA sin straffetoll. Terrordømde Philip Manshaus får ei ny rettssak til hausten. Noreg kan ta fleire gull i Ski-VM i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/eab9eed2-e9d6-4236-836d-2c9f3654971d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/eab9eed2-e9d6-4236-836d-2c9f3654971d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:47</itunes:duration>
-      <pubDate>Tue, 04 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
     </item>
   </channel>

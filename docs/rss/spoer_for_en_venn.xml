@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Spør for en venn. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/spoer_for_en_venn for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Mar 2025 05:31:57 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 05:32:30 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQ522tN3q9uHRw6AQ_WPt-ew.jpg"/>
+    <item>
+      <title>SFEV bloating og nakendag</title>
+      <description><![CDATA[Gjengen har testa TikTok-trend mot "bloating", og Jesper er frelst! Gutt (16) syns det er deilig å være naken, men har det noen helsefordeler?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spoer_for_en_venn/86a99cea-1f0b-4c6c-b842-5bd5ec169e04_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spoer_for_en_venn/86a99cea-1f0b-4c6c-b842-5bd5ec169e04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:43</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQ522tN3q9uHRw6AQ_WPt-ew.jpg"/>
+    </item>
     <item>
       <title>Full busk og protein, protein, protein</title>
       <description><![CDATA[Hvor vanlig er det å barbere tissen, og er det noen fordeler med å ha full busk? Lege Mari tester proteinkunnskapene til resten av gjengen, som får noen overraskelser.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/spoer_for_en_venn/bfb37e07-52f8-4b35-a284-aedc8fe65519_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:30</itunes:duration>
       <pubDate>Tue, 14 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQ522tN3q9uHRw6AQ_WPt-ew.jpg"/>
-    </item>
-    <item>
-      <title>Lite testosteron og masse vann</title>
-      <description><![CDATA[Kan man øke testosteronnivået naturlig? Jesper har testa sitt nivå, og gjengen har levd under et strengt hydreringsregime.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spoer_for_en_venn/94863d6c-2f31-4997-97e7-9d5cefc3c26c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spoer_for_en_venn/94863d6c-2f31-4997-97e7-9d5cefc3c26c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:08</itunes:duration>
-      <pubDate>Tue, 07 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQ522tN3q9uHRw6AQ_WPt-ew.jpg"/>
     </item>
   </channel>

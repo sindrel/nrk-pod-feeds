@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kveldstanker. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kveldstanker for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Mar 2025 05:32:10 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 05:32:18 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Snø - med Francine Mbanza Jensen</title>
+      <description><![CDATA[Hvordan smaker en drøm? spør Francine Mbanza Jensen. Hun har en som smaker snøfnugg. Francine leder selskapet Unity Spark.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/bf6f5c09-af0c-4d77-bddd-6eec57f160c7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bf6f5c09-af0c-4d77-bddd-6eec57f160c7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:43</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ha8Oozr6v3a7Nn91JlrEsg4Xuhz6dIErnylNQUU45Q8w.jpg"/>
+    </item>
     <item>
       <title>Tro på meg - med Noman Mubashir</title>
       <description><![CDATA[At noen tror på deg kan bety alt når du er barn, forteller forfatter Noman Mubashir]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:47</itunes:duration>
       <pubDate>Tue, 25 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2oRuEQoDkFvKAMZJtnOqqggP0rhGsmIp1oyToAHeYXFQ.jpg"/>
-    </item>
-    <item>
-      <title>Ta av deg på beina - med Lindis Hurum</title>
-      <description><![CDATA[- Ingen land er "bare" en krise, ingen person er bare et offer, sier Lindis Hurum i Leger uten Grenser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0b8f88d4-faf1-4119-a98b-631ddf8d3ed0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0b8f88d4-faf1-4119-a98b-631ddf8d3ed0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:12</itunes:duration>
-      <pubDate>Mon, 24 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yLGK1E51qefkaNyhzptGrA0vxQGtbKFqcFI77ig7udvg.jpg"/>
     </item>
   </channel>
 </rss>

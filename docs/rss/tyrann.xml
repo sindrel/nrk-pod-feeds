@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Tyrann</title>
+    <title>De 3 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Mar 2025 05:31:59 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 05:32:32 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -38,6 +38,15 @@ Pilger, John: Death of a Nation: The East Timor Conspiracy.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/tyrann/b8e65765-e52a-4506-be1c-509e24edcd7a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:09</itunes:duration>
       <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Z2P-NsjX8l3lA-hrtQMgJAB_DxQ-6cHM3UYLtQPHsSYw.jpg"/>
+    </item>
+    <item>
+      <title>SUHARTO (3:4)</title>
+      <description><![CDATA[Frykten for kommunistene har holdt Suhartos diktatormaskin i gang. Nå følger en blodig jakt på kommunister i nabolandet Øst-Timor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/dc177bf4-fbc8-4680-9989-ff057167edef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/dc177bf4-fbc8-4680-9989-ff057167edef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:03</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Z2P-NsjX8l3lA-hrtQMgJAB_DxQ-6cHM3UYLtQPHsSYw.jpg"/>
     </item>
   </channel>

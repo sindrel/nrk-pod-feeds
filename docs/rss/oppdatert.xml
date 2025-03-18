@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Mar 2025 04:34:32 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Mar 2025 05:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 05:32:26 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Idyll på sosiale medier: Så ble Janne (29) drept</title>
+      <description><![CDATA[Etter ti år sammen, endte forholdet mellom nordmannen og finnen i tragedie. Hva skjedde?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f8d2657a-b923-4fa9-8c32-5163ddfa6b4e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f8d2657a-b923-4fa9-8c32-5163ddfa6b4e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:25</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SH7rLwg7eOButgH6oF3lmgwBTJ7ey92HkcfDF0PqYDiw.jpg"/>
+    </item>
     <item>
       <title>Gutten med spikerbomba (5:5)</title>
       <description><![CDATA[Etter at gutten har vært sporløst borte i flere år, står vi plutselig ansikt til ansikt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>17:29</itunes:duration>
       <pubDate>Mon, 10 Mar 2025 04:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7_fmXGnYi3vNOqdgcCCyRwzh3EkVKkPTUdDvhvC2wRVQ.jpg"/>
-    </item>
-    <item>
-      <title>Løy om hjernekreft: Ble helseinfluenser</title>
-      <description><![CDATA[Belle Gibson lurte en hel verden med sin alternative kreftkur. I dag bugner det av liknende helseråd på nett.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/27d72335-8228-4233-aaaa-85664632dc25_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/27d72335-8228-4233-aaaa-85664632dc25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:35</itunes:duration>
-      <pubDate>Fri, 07 Mar 2025 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PXGVRvwYm7jEei-E_ds_WQ6p2jzmKgTSTZBNTAw4qvew.jpg"/>
     </item>
   </channel>
 </rss>
