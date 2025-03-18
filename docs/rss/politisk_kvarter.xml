@@ -6,12 +6,22 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Politisk kvarter. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/politisk_kvarter for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Mar 2025 07:28:56 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Mar 2025 08:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 07:29:31 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Skattekutt for fred</title>
+      <description><![CDATA[Det er farlig for forsvarsevnen at så mange med formuer flytter utenlands, hevder Sylvi Listhaug (Frp).
+Men Jonas Gahr Støre (Ap) tror ikke Frps store skattekutt vil bidra til å gjøre Norge tryggere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/98f76383-05b1-4c9d-952b-78a2ba5398c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/98f76383-05b1-4c9d-952b-78a2ba5398c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EnyqiPkgMrx14evS2iMsMQYjUbav9Q2Scc1poAHtTzAg.jpg"/>
+    </item>
     <item>
       <title>Kommunekutt og klasseangrep</title>
       <description><![CDATA[I Oslo flytter det borgerlige byrådet 83 millioner kroner fra øst til vest i et presset kommunebudsjett. Rødt roper klasseangrep.
@@ -96,15 +106,6 @@ En grov feilslutning, mener AUF-lederen.]]></description>
       <itunes:duration>15:11</itunes:duration>
       <pubDate>Wed, 05 Mar 2025 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JPOEf1kOE-oO-j6l43YCGAkU_dYrPqDHqCXYXv9LFfeA.jpg"/>
-    </item>
-    <item>
-      <title>For små forsvarskontrakter</title>
-      <description><![CDATA[Forsvarsindustrien sier de mangler store og lange nok kontrakter til å bygge opp norske ammunisjons og utstyrslagre.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/df60066a-216f-4e3a-b8b0-c7766d293104_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/df60066a-216f-4e3a-b8b0-c7766d293104_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:05</itunes:duration>
-      <pubDate>Tue, 04 Mar 2025 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EBEaBkusRV6d881OpT_SrAWflOqL8IqULD5LY0kLqc-A.jpg"/>
     </item>
   </channel>
 </rss>
