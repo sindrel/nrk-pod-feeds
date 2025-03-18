@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Debatten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/debatten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Mar 2025 22:31:30 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Mar 2025 22:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 22:32:12 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 22:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw.jpg"/>
+    <item>
+      <title>Er du klar for farene som truer?</title>
+      <description><![CDATA[Vannet forsvinner, strømmen er borte og bomberommene er fulle. Hvor beredt er du for et verstefallsscenario?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/0c0dcad7-b94a-426d-94bb-a3029e1ea38b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/0c0dcad7-b94a-426d-94bb-a3029e1ea38b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:42</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 22:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw.jpg"/>
+    </item>
     <item>
       <title>Skandalene ryster hoppsporten</title>
       <description><![CDATA[De innrømmer juks både nå og tidligere. Men hvem har ansvaret for at hoppsporten er i fritt fall?]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/fe7415ef-285c-480e-b481-ff2478c84671_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:03</itunes:duration>
       <pubDate>Thu, 13 Feb 2025 22:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw.jpg"/>
-    </item>
-    <item>
-      <title>Spørsmålet som satte sinnene i kok</title>
-      <description><![CDATA[Debatten spurte barne- og familieministeren hvordan det stod til med barnevaktsituasjonen. Så tok det fyr.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/3bb2a192-e00f-4ed1-8946-235426daaace_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/3bb2a192-e00f-4ed1-8946-235426daaace_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:15</itunes:duration>
-      <pubDate>Tue, 11 Feb 2025 22:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xO4Cy2Zv-44ycXHvKZ5vRQ_cDoRn-riGpwsvM-vZ52lw.jpg"/>
     </item>
   </channel>
