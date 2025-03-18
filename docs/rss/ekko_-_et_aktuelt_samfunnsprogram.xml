@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Mar 2025 14:33:09 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Mar 2025 14:30:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 13:36:18 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Kampen om Panamakanalen</title>
+      <description><![CDATA[Frå amerikansk imperialisme til dagens stormaktsspill: Kva betyr Panamakanalen no og kan Trump ta den tilbake?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/321de65d-8579-4ca7-a44b-79a8307bf26d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/321de65d-8579-4ca7-a44b-79a8307bf26d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:48</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NxVZv1ITbiW7SGYFaZYi-wq3NPNr7IaSIr_XArP3e4gQ.jpg"/>
+    </item>
     <item>
       <title>Spør Ekko: Skattemeldinga</title>
       <description><![CDATA[Veger du deg for å sjå på skattemeldinga? Du er ikkje åleine. Hallgeir Kvaldsheim og Lene Marie Ringså forklarer kva du skal sjå etter – og korleis du kan unngå ein skattesmell.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:54</itunes:duration>
       <pubDate>Wed, 05 Mar 2025 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pg-vfpd8O0Uunjmutq5MiQTjIvU1hiuGV8ZP2lGvbq1g.jpg"/>
-    </item>
-    <item>
-      <title>Drapsvåpen du kan lage hjemme</title>
-      <description><![CDATA[Spøkelsesvåpen er 3D-printede våpen som ikke kan spores – laget hjemme, brukt hvor som helst. Hvordan stopper vi en trussel som er usynlig for loven?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/efba3c01-ad7d-4407-bddd-39150eb032dd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/efba3c01-ad7d-4407-bddd-39150eb032dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:01</itunes:duration>
-      <pubDate>Tue, 04 Mar 2025 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/loYsaGRGAN1NkMzDeuLHnghGjawUVEtwcWpZuzbgO9iQ.jpg"/>
     </item>
   </channel>
 </rss>
