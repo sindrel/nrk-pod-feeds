@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Drivkraft. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/drivkraft for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Mar 2025 15:32:28 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Mar 2025 13:35:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 12:55:09 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Oddgeir Bruaset</title>
+      <description><![CDATA[Skaperen av "Der ingen skulle tru at nokon kunne bu" drømte om å slå seg ned i ei fjellbygd. I stedet bor han 10 minutter unna et av Norges største kjøpesentre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5ff8a357-c7c7-4f1c-9bfb-0b3ca2cd1f42_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5ff8a357-c7c7-4f1c-9bfb-0b3ca2cd1f42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:49</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/twnBLEbzdlyn7ogSFtPW1geFSIhZoX8RXUZGeF9oHX_A.jpg"/>
+    </item>
     <item>
       <title>Sofia Tjelta Sydness</title>
       <description><![CDATA[- På ungdomsskolen hadde jeg bart og monobryn, sier stjerneskuddet som har fått rolle i Ruben Östlunds nye film.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:48</itunes:duration>
       <pubDate>Thu, 20 Feb 2025 13:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/z8RFh5N7wFga5NmNdSln1g5JH3JL1qV9RY5hiStSs66Q.jpg"/>
-    </item>
-    <item>
-      <title>Misgina Ghebremeskel</title>
-      <description><![CDATA[En søppelsekk med klær var alt han hadde med seg da han flyttet til Oslo. I dag omsetter utelivsgründeren for millioner og har 100 ansatte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0903d233-c33e-4d20-aa4d-78891ef8e987_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0903d233-c33e-4d20-aa4d-78891ef8e987_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:13</itunes:duration>
-      <pubDate>Wed, 19 Feb 2025 13:50:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iGTjcDqo-912gQmDfkERyAQ2z5II3zxhfOLLDVRTdr0Q.jpg"/>
     </item>
   </channel>
 </rss>
