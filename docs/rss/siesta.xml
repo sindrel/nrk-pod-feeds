@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Siesta</title>
+    <title>De 8 siste fra Siesta</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Siesta. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/siesta for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Siesta. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/siesta for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Mar 2025 14:34:13 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Mar 2025 12:55:13 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Pølsenes herrer</title>
+      <description><![CDATA[Fetteren til Markus kommer innom som reporter, Daniel er skuffet over dansk pølse og Anna har med to klipp fra bolle-verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/aa4704a7-bfa9-4c58-89e5-540efe076f41_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/aa4704a7-bfa9-4c58-89e5-540efe076f41_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:32</itunes:duration>
+      <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Hva i helsikke er en delebil?</title>
       <description><![CDATA[Markus konfronterer Daniel, Anna har funnet overmannen til Markus og hvem har mest rett til å kalle barnet sitt etter Flåklypa?]]></description>

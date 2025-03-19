@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Etikketaten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/etikketaten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Mar 2025 12:54:30 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Mar 2025 13:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Mar 2025 12:55:01 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Mar 2025 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    <item>
+      <title>Historia gjentar seg, kvifor lærer me ikkje?</title>
+      <description><![CDATA[Demokratiet vaklar over store deler av verda, og fascisme og høgreekstremisme står sterkare enn på lenge. Kvifor lærer vi ikkje av historia, når vi veit at den gjentar seg? Og ein lyttar spør: Kvifor handlar eg annleis enn det eg veit er godt? I panelet er politisk redaktør i E24 Torbjørn Røe Isaksen, AUF-leder Gaute Skjervø og filosof Ragnhild Folkestad. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/8c72abb3-94bd-4d44-b756-c73a655e9c14_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/8c72abb3-94bd-4d44-b756-c73a655e9c14_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Wed, 19 Mar 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
     <item>
       <title>Kvinner i usexy klær</title>
       <description><![CDATA[Bør kvinner kle seg meir sexy enn menn? Skal ein prioritere jobb eller fritid når ein er utbrent? Og kva er eigentleg bullshit-jobbar? I panelet er komikar Martha Leivestad, TV-produsent Sarah Natasha Melbye og filosof Heine Holmen. Programleiar er Kjersti Anderdal Bakken.]]></description>
@@ -92,18 +101,6 @@
       <itunes:duration>19:01</itunes:duration>
       <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/8w8Lv5KpEX4kmZ7wYh8NfArlL_dYWLl0dHW4EPqCc90g.jpg"/>
-    </item>
-    <item>
-      <title>Tabu: Alkoholavhengig</title>
-      <description><![CDATA[Politikar Mímir Kristjánsson, artist Magnus Børmark og filosof Ragnhild Folkestad er gjester. Dei diskuterer lyttarspørsmålet om frykta for fulle foreldre, og om kvifor det er så vanskeleg å prate om alkoholproblem i dag.
-
-
-Emneord: Alkoholavhengighet, alkoholisme, bryllup, bryllaup, drikking, drikkekultur, alkoholproblem]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/fca91854-1a73-46a8-a1ce-f5b781717dc2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/etikketaten/fca91854-1a73-46a8-a1ce-f5b781717dc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:07</itunes:duration>
-      <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UVw3sttoIf1-qWuam6ZOSwgpVM4_Su7pt3kEC06oeZtA.jpg"/>
     </item>
   </channel>
 </rss>
