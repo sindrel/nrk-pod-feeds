@@ -6,15 +6,42 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kompass. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kompass for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Mar 2025 09:32:07 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Mar 2025 12:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Mar 2025 10:35:45 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"/>
     <item>
+      <title>Mitt indre kompass: Bjørn Stærk</title>
+      <description><![CDATA[Han har gått frå  FrP til MDG og frå religiøs til ikkje-truande. Samfunnsdebattant og forfattar Bjørn Stærk har verkeleg vore på mange reiser i livet. Og smak på dette ordet han bruker: forklaringsdybdeillusjonen. Kva menier han med det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/0b2baeba-2aaa-408a-99e9-fa2eea0da5b5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/0b2baeba-2aaa-408a-99e9-fa2eea0da5b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:20</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bk510rhwlAz6M0MsnmhHbQOv-2KC-d_swfoZtJL_Svcg.jpg"/>
+    </item>
+    <item>
+      <title>Mitt indre kompass: Mimmi Tamba</title>
+      <description><![CDATA[Ho er skodespelar, komponist og musiker og kjendt frå Stjernekamp og nyleg som Elsa i Frost på Det Norske Teateret. Mimmi Tamba trur mellom anna på sjelevandring og urskriket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/8392e479-5c2a-4a02-9942-bd8ed725c111_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/8392e479-5c2a-4a02-9942-bd8ed725c111_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:04</itunes:duration>
+      <pubDate>Tue, 11 Mar 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qZa9pRLCGYoLD7SswiPsuQhvqOK3KCnQtlimc-h-Jd_g.jpg"/>
+    </item>
+    <item>
+      <title>Korleis snakkar norske politikarar om fødselstala?</title>
+      <description><![CDATA[Då statsminister Erna Solberg ba nordmenn lage fleire barn i 2019 fekk ho ganske mykje kritikk. Korleis er fødselstala blitt snakka om sidan vi for fyrste gong fekk færre barn på slutten av 1960-talet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/3837435a-12ac-460f-be53-633e184588a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/3837435a-12ac-460f-be53-633e184588a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:54</itunes:duration>
+      <pubDate>Tue, 11 Mar 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZnR7KqKp8rcNPvmE-NC5vQ36ELF9_ejFhx-lS_mleHsQ.jpg"/>
+    </item>
+    <item>
       <title>Kvifor har Elon Musk så mange barn?</title>
-      <description><![CDATA[Både Elon Musk, visepresident i USA J.D. Vance og Donald Trump vert kalla pronatalister. Kva er eigentlig denne ideologien?]]></description>
+      <description><![CDATA[Både Elon Musk,  Donald Trump og visepresident J.D. Vance vert kalla pronatalister. Kva er eigentlig denne ideologien?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/13880cf8-a357-4cc5-8889-b3af48849b00_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kompass/13880cf8-a357-4cc5-8889-b3af48849b00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>17:33</itunes:duration>
@@ -74,33 +101,6 @@
       <itunes:duration>28:13</itunes:duration>
       <pubDate>Tue, 25 Feb 2025 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/g5zQUk0B5bDDGEwyFwRoqwFT_rN5cWT2Qd_MW-yW3Nfw.jpg"/>
-    </item>
-    <item>
-      <title>Aviskommentatorar: - Slik koplar vi ut i urolege tider</title>
-      <description><![CDATA[Kompass sitt livssynspanel diskuterer korleis ein kan halde ut eit tøft nyheitsbilete. Med Maja Sojtaric (Nordlys), Berit Ålborg (Vårt Land) og Sofie Braut (Dagen).]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/3c3010d7-d43a-4dfd-9bac-ecacb5819852_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kompass/3c3010d7-d43a-4dfd-9bac-ecacb5819852_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:11</itunes:duration>
-      <pubDate>Thu, 20 Feb 2025 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HzgfauMEXf-Ws0KltuQvDA7p6DRSrMeVbvFxeaKiht4w.jpg"/>
-    </item>
-    <item>
-      <title>Kvifor er livet på bygda så populært på tv?</title>
-      <description><![CDATA[Draumen om bygda er sterk hos mange, men dei færraste flytter faktisk. Kva fortel det om oss i Noreg?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/ed483ab9-7426-4578-978a-4628e58b3584_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kompass/ed483ab9-7426-4578-978a-4628e58b3584_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:32</itunes:duration>
-      <pubDate>Mon, 17 Feb 2025 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TAr1dwnjyXERP_wna1s6ZwK5h_gnz79mcJgJWyPy16bw.jpg"/>
-    </item>
-    <item>
-      <title>Mitt indre kompass : Tor-Håkon Gabriel Håvardsen</title>
-      <description><![CDATA[Det første møtet med døden var gjennom Spøkelset Casper på barne-tv. No jobbar han i gravferdsbyrå og trur på spøkelse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/02f158e5-1f2d-4b6c-8b59-6a367a847b64_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kompass/02f158e5-1f2d-4b6c-8b59-6a367a847b64_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:49</itunes:duration>
-      <pubDate>Tue, 11 Feb 2025 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/H4e8YRxiaBtcJL-aupBXlgG9e5zB3x_5U-Ddq5l8NXnQ.jpg"/>
     </item>
   </channel>
 </rss>
