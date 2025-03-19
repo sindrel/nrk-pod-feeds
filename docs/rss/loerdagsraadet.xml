@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Lørdagsrådet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/loerdagsraadet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 15 Mar 2025 14:30:20 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Mar 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Mar 2025 15:32:34 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Mar 2025 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>«For vagt råd!» sier Leander!</title>
+      <description><![CDATA[Vi deler ut billetter og snakker om «landsforræderi»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ae04d88f-706f-4861-8bcb-0a676780e017_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ae04d88f-706f-4861-8bcb-0a676780e017_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:45</itunes:duration>
+      <pubDate>Wed, 19 Mar 2025 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
     <item>
       <title>Pernille Sørensen / Galvan Mehidi / Jakob Oftebro</title>
       <description><![CDATA[TILBAKEMELDING: Hva skjer med snøfreseren? / PROBLEMER: Tom i forholdet / Rettsak for ræl fra Internett / Hva er et barn? / Føler jeg BØR ta mer initiativ / Elevene fortjener premie / Jeg har dårlig råd / Bilsvindel, narkotika, fengsel? / Æsj, vinterdepresjon]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>12:15</itunes:duration>
       <pubDate>Wed, 12 Feb 2025 18:18:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
-    </item>
-    <item>
-      <title>Martin Lepperød / Linnéa Myhre / Jon Ranes</title>
-      <description><![CDATA[TILBAKEMELDING: Inkludering i forhold / PROBLEMER: Å være pårørende etter et brudd / Dyre håndklær til besvær / Uetisk å servere mat fra søpla? / Hvordan kan vi redde studiemiljøet? / Trygghet i intimitet / Best right swipe ever-koppen / Hvem skal betale for den påkjørte hunden? / Dilemma: Snill eller stimulerende? / Kollektivtransportbetraktinger]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/aa6cd392-8fb9-4cdb-aca4-8d92ed71a050_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/aa6cd392-8fb9-4cdb-aca4-8d92ed71a050_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:08:01</itunes:duration>
-      <pubDate>Sat, 08 Feb 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7gr83D6y-Rs1tBVu034DegkjHmVPw4mSu5fy9zyR5zqA.jpg"/>
     </item>
   </channel>
 </rss>
