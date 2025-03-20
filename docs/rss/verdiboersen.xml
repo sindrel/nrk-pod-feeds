@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Verdibørsen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/verdiboersen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Feb 2025 12:52:15 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Feb 2025 13:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Mar 2025 12:54:12 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Mar 2025 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Hvem er du når krigen kommer?</title>
+      <description><![CDATA[Holder ikke bare med vann og hermetikk. Du må og forberede deg mentalt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/88ce994a-3e40-4bcd-b45c-aa6537132a1a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/88ce994a-3e40-4bcd-b45c-aa6537132a1a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:38</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    </item>
     <item>
       <title>USA skifter side</title>
       <description><![CDATA[Russerne jubler, mens alarmklokkene går i Europa. Hva slags verden venter oss?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>43:52</itunes:duration>
       <pubDate>Fri, 31 Jan 2025 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zuVytiCzH7px8k-DOvAsxAVuuF-g36CKcZAQekZaACbg.jpg"/>
-    </item>
-    <item>
-      <title>Hva er trumpismen?</title>
-      <description><![CDATA[Er det en ideologi? Eller personkult?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/acc45067-b20d-45ef-a479-58d2415649de_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/acc45067-b20d-45ef-a479-58d2415649de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:17</itunes:duration>
-      <pubDate>Sat, 25 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wkoIR-dMyn-cJfFoUZkmgAlrzwDiH8p2OPMI9u_LDt9w.jpg"/>
     </item>
   </channel>
 </rss>
