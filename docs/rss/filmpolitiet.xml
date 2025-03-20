@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Filmpolitiets podkast . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/filmpolitiet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Mar 2025 13:35:26 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Mar 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Mar 2025 13:34:55 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Mar 2025 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>The Residence: Festlig kosekrim i Det hvite hus</title>
+      <description><![CDATA[Uzo Adubas komiske talent kommer virkelig til sin rett som detektiv Cordelia Cupp i «The Residence».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a54d9205-abde-4fb7-9b63-5550129a4fb9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a54d9205-abde-4fb7-9b63-5550129a4fb9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:11</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L5vpS0GbFrecisOUjJPWmwpb8Gn07JSZBEwvgdEtKL1g.jpg"/>
+    </item>
     <item>
       <title>The Wheel of Time S3: Bedre enn noensinne!</title>
       <description><![CDATA[Fantasystorserien på Prime Video er ute med sin beste sesong til nå, men Marte har fortsatt ting å plukke på.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>27:42</itunes:duration>
       <pubDate>Thu, 16 Jan 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ozTwu0bk2j803tqNOrWNSA6enswQogsWESEJ2MhhSU1A.jpg"/>
-    </item>
-    <item>
-      <title>2025: Seriene vi gleder oss til!</title>
-      <description><![CDATA[Serieåret 2025 er i gang, og strømmetjenestene står klare til å servere drøssevis av nye serier og sesonger til norske skjermer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/44bb363d-8cac-439e-b001-bd26e04de65e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/44bb363d-8cac-439e-b001-bd26e04de65e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:48</itunes:duration>
-      <pubDate>Thu, 09 Jan 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sfDEDUuPl5qJzXaT1B9l_AsXemys0PVueSdfJ_y6Rztw.jpg"/>
     </item>
   </channel>
 </rss>
