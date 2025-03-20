@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kommentert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kommentert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Mar 2025 14:33:35 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Mar 2025 15:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Mar 2025 14:35:08 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Mar 2025 14:39:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Dyrtiden over. Men merker du det?</title>
+      <description><![CDATA[Merker du at du har fått bedre råd? Dyrtiden er nå historie. Zelenskyj i Norge, hvorfor er han det? Og Høyre har fått nytt slagord, og en mulig ny lederkandidat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d93a9ce8-6680-4ff7-9ad3-9addbf0452d8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d93a9ce8-6680-4ff7-9ad3-9addbf0452d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:51</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 14:39:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FTRVsD9Ke13R3_soygxqawG3Ymkw714j0fMkjUS7MHBA.jpg"/>
+    </item>
     <item>
       <title>Trump &amp; Musk: Er det noe system her?</title>
       <description><![CDATA[Elon Musk og Donald Trump lager mye støy, men er det noe system bak der? Og økende interesse for norsk EU-medlemskap.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>21:01</itunes:duration>
       <pubDate>Tue, 28 Jan 2025 13:21:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wJFNFIpbR-JthtTSZlOzRAjGpwogTqQKvGR8yV4stkaQ.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringskrise: Kan Senterpartiet trekke seg?</title>
-      <description><![CDATA[Full splid mellom Arbeiderpartiet og Senterpartiet, nå er det ekte krise i regjering. Og Donald Trump med tidenes KI-satsing. Full fres i amerikansk økonomi.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/220c3d22-0864-48e6-8b3f-389a3eae86ec_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/220c3d22-0864-48e6-8b3f-389a3eae86ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:06</itunes:duration>
-      <pubDate>Wed, 22 Jan 2025 16:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aW8PhdpF9G5KCdgxuip-NAHeTkwj5HoAPmKZIffa4n_Q.jpg"/>
     </item>
   </channel>
 </rss>
