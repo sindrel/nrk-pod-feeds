@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Mar 2025 18:40:18 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Mar 2025 19:10:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Mar 2025 18:39:18 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Mar 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Zelenskyj i Norge</title>
+      <description><![CDATA[Ukrainas president sier han ikke tror at Russland kommer til å gå med på våpenhvile.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b927c5db-5277-47bd-ab32-4b8eef872f32_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b927c5db-5277-47bd-ab32-4b8eef872f32_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YxEFfk15ro8qigfxQJyaJwMhdkCKiSKSp4VhlgSZmzvQ.jpg"/>
+    </item>
     <item>
       <title>Trump og Zelenskyj har snakket sammen</title>
       <description><![CDATA[Trump og Zelenskyj hadde en «veldig god» telefonsamtale, ifølge Trump.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 07 Mar 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Om9ZqFZcH3nBlSsgzT5S2gS45ayofTsvLACoU7EzsGBA.jpg"/>
-    </item>
-    <item>
-      <title>Norge øker Ukraina-støtten til 85 milliarder kroner</title>
-      <description><![CDATA[Partiene på Stortinget er enige om å mer enn doble støtten til Ukraina i 2025.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f74fed05-f23d-4e2d-8c00-5c7a6ce557a5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f74fed05-f23d-4e2d-8c00-5c7a6ce557a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 06 Mar 2025 19:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/b64hEKbq6M391NIOZDKzfwQ5AiY1MFx4x7rLarqDQiSQ.jpg"/>
     </item>
   </channel>
 </rss>
