@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Lindmo og Co. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/lindmo_og_co for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Mar 2025 05:31:37 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Mar 2025 05:32:10 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
+    <item>
+      <title>Gledespike i krepp</title>
+      <description><![CDATA[Om Annes liv som au pair, Runes teatermaraton og Halvors alter ego.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ee649283-4dfd-48fc-933e-f9edf6b2b793_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ee649283-4dfd-48fc-933e-f9edf6b2b793_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:35</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
+    </item>
     <item>
       <title>Idiotisk kvarter</title>
       <description><![CDATA[Anne har kastet klærne, Halvor har gamblet og Rune er irritert på "gym bros" på treningssenteret.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/b93711b7-8624-4baa-afb7-61f1e9e34e9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:30</itunes:duration>
       <pubDate>Thu, 16 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
-    </item>
-    <item>
-      <title>Født i feil fjes</title>
-      <description><![CDATA[Om trøsteflesk, kondomer i posten og dannelsesreiser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/e3c672a5-c1e9-4c80-856e-2a48675d4359_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/e3c672a5-c1e9-4c80-856e-2a48675d4359_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:48</itunes:duration>
-      <pubDate>Thu, 09 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
     </item>
   </channel>

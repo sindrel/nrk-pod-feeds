@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Vittig. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/vittig for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Mar 2025 05:32:01 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Mar 2025 05:32:34 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    <item>
+      <title>Noe av det tristeste jeg har vært med på</title>
+      <description><![CDATA[Maria har hatt et nedrig besøk hos kiropraktor og Ingrid finner morsomme måter å feire på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/6f0dd93e-f482-4a5d-9247-7638c0ed206f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/6f0dd93e-f482-4a5d-9247-7638c0ed206f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:52</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
     <item>
       <title>Befølt i Bergen på 8. mars</title>
       <description><![CDATA[Ingrid er blitt frelst av Pølsa og Maria har fått rare komplimenter.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/vittig/cdc80a01-d0b0-47c6-8579-6ee61860872d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:06</itunes:duration>
       <pubDate>Thu, 16 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
-    </item>
-    <item>
-      <title>Rumpelåsegrep er det beste</title>
-      <description><![CDATA[Ingrid vil se mer av Maurstad-reality og Maria har opplevd låsegrep live for første gang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/8b5a475e-1fef-4e50-80ff-7d87143c9da6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/vittig/8b5a475e-1fef-4e50-80ff-7d87143c9da6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:56</itunes:duration>
-      <pubDate>Thu, 09 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
     </item>
   </channel>
