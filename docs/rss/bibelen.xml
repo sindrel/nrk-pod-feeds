@@ -6,16 +6,25 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Bibelen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bibelen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Feb 2025 05:31:16 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Mar 2025 14:32:28 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Mar 2025 14:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
     <item>
+      <title>Flere episoder kommer 13.august</title>
+      <description><![CDATA[Nye episoder av podkasten Bibelen kommer onsdag 13.08 2025]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/04329ac9-0b85-4adb-a1c5-1826c647d5f2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/04329ac9-0b85-4adb-a1c5-1826c647d5f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:49</itunes:duration>
+      <pubDate>Fri, 21 Mar 2025 14:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
+    </item>
+    <item>
       <title>Josef i Egypt (10:40)</title>
       <description><![CDATA[Men lillebror var ikke død – Han redder alles liv! Likevel blir det etter hvert farlig dårlig stemning.
-Flere episoder kommer tidlig høst 2025.]]></description>
+FLERE EPISODER KOMMER 13.08 2025.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/f6554bf8-6a5b-45df-8186-3e64226ed844_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bibelen/f6554bf8-6a5b-45df-8186-3e64226ed844_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:08</itunes:duration>
@@ -93,15 +102,6 @@ Flere episoder kommer tidlig høst 2025.]]></description>
       <itunes:duration>16:39</itunes:duration>
       <pubDate>Wed, 01 Jan 2025 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/E-uc252NwP8_dKw4ACuuHw0SAZZ8Vrx8ra4pXfE3fE9w.jpg"/>
-    </item>
-    <item>
-      <title>Skapelsen (1:40)</title>
-      <description><![CDATA[Tidenes mest kjente arbeidsuke!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/de6d1d4b-926e-45e4-829a-4f9d9b199e26_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bibelen/de6d1d4b-926e-45e4-829a-4f9d9b199e26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:53</itunes:duration>
-      <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pOwKkH6b92nT2qyiWG3CpgpMi3nLd8fLlPNyJsoI1J2Q.jpg"/>
     </item>
   </channel>
 </rss>
