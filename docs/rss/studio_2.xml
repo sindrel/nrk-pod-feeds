@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Studio 2. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/studio_2 for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Mar 2025 17:28:10 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Mar 2025 18:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Mar 2025 17:30:40 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    <item>
+      <title>Platedate med Silje Salomonsen og Arild Østin Ommundsen</title>
+      <description><![CDATA[I snart 30 år har samarbeidspartnerne og ekteparet Silje Salomonsen og Arild Østin Ommundsen laget film sammen og nå ruller den nye filmen "Alt skal bort" på kino. Men kan de fortsatt overraske og røre hverandre med musikk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/fff76012-c859-41b0-85c7-79df5598050b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/fff76012-c859-41b0-85c7-79df5598050b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:45</itunes:duration>
+      <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MRNP2BCLYuBjg7qQ9ann5wdsTgmVqTluvijr-mp7WqdA.jpg"/>
+    </item>
     <item>
       <title>Platedate med Christine Dancke og Kristoffer Olsen</title>
       <description><![CDATA[De går på magefølelsen og er opptatt av balanse og å løfte artistene, men hva syns de om hverandres musikksmak? Hør stjernekamp-dommerne Christine Dancke og Kristoffer Olsen i Platedate.]]></description>
@@ -93,15 +102,6 @@ Lea Myren spiller i premiereklare "Den Stygge Stesøsteren".]]></description>
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Fri, 10 Jan 2025 18:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JHMkpw6YIGKPQ268gBWUkQgnBRm4E6x_ri4K3QJtvLbg.jpg"/>
-    </item>
-    <item>
-      <title>Platedate med Åse Marit Befring og Simen Ekern</title>
-      <description><![CDATA[Utenriksjournalistene  kjenner ofte nyhetspulsen slå, også når de har fri. Men i Platedate får Simen Ekern  og Åse Marit Befring tid til å mimre om musikalske oppvåkning, avsløre hva som får dem ut på dansegulvet, og utveksle korrespondentrelatert musikk, før det igjen skal handle om krig i Midt - Østen, og europeisk politikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/2b3213f9-56a4-43d1-8a14-d586b24f244e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/2b3213f9-56a4-43d1-8a14-d586b24f244e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:08</itunes:duration>
-      <pubDate>Fri, 03 Jan 2025 18:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eK_kHNkbXXLEJA-Firb8YQ1jK6YFCNSgRVw6EvDvREdQ.jpg"/>
     </item>
   </channel>
 </rss>
