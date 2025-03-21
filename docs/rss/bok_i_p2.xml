@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Åpen bok. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bok_i_p2 for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Mar 2025 05:31:17 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Mar 2025 05:31:54 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Vårdikt om pupper som ler</title>
+      <description><![CDATA[Joakim Kjørsvik er kjent for å knipse poetiske hverdagsbilder med pennen. Nå er han aktuell med haiku-dikt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/38577dbd-05b3-4b55-bfd7-f68268304989_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/38577dbd-05b3-4b55-bfd7-f68268304989_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Fri, 21 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hwT3ZXS8MnnMmSqvgIeiNAdDlLJFUwHtVsO9gqAwkSzw.jpg"/>
+    </item>
     <item>
       <title>- Gøy å skrive om psykologer som klikker!</title>
       <description><![CDATA[Psykologene Lars Dehli og Kjersti Halvorsen har skrevet romaner om grenseoverskridende terapi -  om en bedrager og en KI-psykolog. Vi diskuterer deres bøker "Illegal praksis" og "Superbruker".]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>55:18</itunes:duration>
       <pubDate>Fri, 24 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_4IjNnK4J7lumEMtDvyp6QpLjk2bJirL5WC8hE6c5Qwg.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Jo Nesbø</title>
-      <description><![CDATA[Krimforfatter Jo Nesbø sier han blir mer skremt av fiksjon enn virkelighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/72913059-e325-446b-b1c8-7f3de93b3f6b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/72913059-e325-446b-b1c8-7f3de93b3f6b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:29</itunes:duration>
-      <pubDate>Thu, 16 Jan 2025 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kjmpSN2dkT0bw1HnB5V0Aw0aiQfhEocKOOGkKfmHtUDA.jpg"/>
     </item>
   </channel>
 </rss>

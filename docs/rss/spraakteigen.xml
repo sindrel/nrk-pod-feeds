@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Språksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/spraakteigen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Mar 2025 05:31:36 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Mar 2025 05:32:12 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    <item>
+      <title>Russ, pollen, -veis og -onn</title>
+      <description><![CDATA[Russ, pollen, -veis, -onn og flere ord fra våren forklares, og vår, hvor kommer det fra? Del - kort med veldig intrikat ord!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/fa0d2d13-3c24-4d47-8c87-4480362d1533_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/fa0d2d13-3c24-4d47-8c87-4480362d1533_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:08</itunes:duration>
+      <pubDate>Fri, 21 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egg9otF-xq2gL1JlPjGwqVHg.jpg"/>
+    </item>
     <item>
       <title>Kompromiss på eget premiss</title>
       <description><![CDATA[Er det positivt å være ful? Det finnes flere svar.  Uttales kompromiss med eller uten s? Bokmål og riksmål, hva er forskjellen?]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/spraakteigen/019102af-192a-421b-b6f8-bcc0cbf01a99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:28</itunes:duration>
       <pubDate>Fri, 17 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg8o-3z347I9n1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>Til pers fortere enn svint</title>
-      <description><![CDATA[Går vinteren trådt eller trått? En kan søke både ly og le, men hva er forskjellen? Og hvor fort er svint?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/23f095f7-37eb-4238-aec1-c75995f997db_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/23f095f7-37eb-4238-aec1-c75995f997db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:23</itunes:duration>
-      <pubDate>Fri, 10 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg8o-3z347I9n1JlPjGwqVHg.jpg"/>
     </item>
   </channel>
