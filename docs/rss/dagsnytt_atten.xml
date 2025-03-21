@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Mar 2025 18:39:18 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Mar 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Mar 2025 18:39:02 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Mar 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Høyre vil ha generell bevæpning</title>
+      <description><![CDATA[Høyres landsmøte sier ja til generell bevæpning av politiet. Mangler bare ett mandat for flertall på Stortinget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5f8f653c-f980-4b57-af3a-2f2f11e72f75_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5f8f653c-f980-4b57-af3a-2f2f11e72f75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Fri, 21 Mar 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NR7Bp05MtL7A02ggZAGCggnW39KpqTP6yXmWpbHLis1Q.jpg"/>
+    </item>
     <item>
       <title>Zelenskyj i Norge</title>
       <description><![CDATA[Ukrainas president sier han ikke tror at Russland kommer til å gå med på våpenhvile.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 10 Mar 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hWKjIFeTxZmCcPc6acPewwjGK1sVyY8cXvoxyMt3Xvtg.jpg"/>
-    </item>
-    <item>
-      <title>Strid om Stoltenbergs skattekommisjon</title>
-      <description><![CDATA[Finansministeren håper fortsatt på en ny skattekommisjon, til tross for at de fleste partiene på Stortinget avviser ham.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ba6e0c70-d704-4888-a979-f1b18666e972_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ba6e0c70-d704-4888-a979-f1b18666e972_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 07 Mar 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Om9ZqFZcH3nBlSsgzT5S2gS45ayofTsvLACoU7EzsGBA.jpg"/>
     </item>
   </channel>
 </rss>
