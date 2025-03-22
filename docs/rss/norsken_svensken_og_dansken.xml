@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Norsken, svensken og dansken. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/norsken_svensken_og_dansken for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 15 Mar 2025 05:30:50 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 22 Mar 2025 05:31:55 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    <item>
+      <title>Vi menn</title>
+      <description><![CDATA[Venstresidemannen må finne seg selv, næringslivsmannen bør drive med idrett, og forfatter Dag Solstad er død – men hverdagsheltene hans lever videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/41a308fa-cf7d-49b2-9807-ef466f951fb5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/41a308fa-cf7d-49b2-9807-ef466f951fb5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 22 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NE__3hPIp9o7Ixf1GrmnEwdp8495nsjM1LALHajiwuQQ.jpg"/>
+    </item>
     <item>
       <title>Juksemaker, pipelort</title>
       <description><![CDATA[Fem år etter korona slikker vi fremdeles sår, politisk snøskred på Grønland, og kan ikke alt like godt bare være lov i idretten? ]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/75bad67d-6990-4f1b-b317-8b8fc73bf805_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 18 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
-    </item>
-    <item>
-      <title>Farvel Grønland?</title>
-      <description><![CDATA[Trumps blikk på Grønland skaper stor uro i Danmark, høyrebølgen slår innover våre land, og «svenske tilstander» er årets nyord - for svenskene!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c8bece26-1a18-4bb8-bffc-19e6da8aabc3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c8bece26-1a18-4bb8-bffc-19e6da8aabc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 11 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
     </item>
   </channel>
