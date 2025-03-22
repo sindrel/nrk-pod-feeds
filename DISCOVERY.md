@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-03-22  
+- Updated podcast 'Kjente bøker på 4 minutter' (`kjente_boeker_paa_4_minutter`)  
 ### 2025-03-17  
 - Updated podcast 'Monsens univers' (`monsens_univers`)  
 ### 2025-03-14  
