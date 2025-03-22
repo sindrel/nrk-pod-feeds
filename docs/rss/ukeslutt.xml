@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ukeslutt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ukeslutt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 15 Mar 2025 15:27:50 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Mar 2025 15:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 22 Mar 2025 14:30:38 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Mar 2025 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Valp eller ikke valp?</title>
+      <description><![CDATA[Hundeeiere og oppdrettere ender stadig i konflikt rundt avtaler om avl av valper. Nylig ble en hund dømt til paring.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/b4c53a38-e9af-4026-a877-523466c5ed75_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/b4c53a38-e9af-4026-a877-523466c5ed75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:45</itunes:duration>
+      <pubDate>Sat, 22 Mar 2025 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MJDjJJJ6PpWl7Wr96wC-_wZG8PBRaTQpLDKVnzbk15Ow.jpg"/>
+    </item>
     <item>
       <title>Rosabloggernes storhetstid</title>
       <description><![CDATA[Blogg.no var stedet som skapte Norges største influensere, og ble et av landets største internetteventyr. Historien får du i Ukeslutt.
@@ -95,15 +104,6 @@ I tillegg skal vi innom våpenhvile og gisselutveksling i Gaza, mobiltelefoner t
       <itunes:duration>01:04:03</itunes:duration>
       <pubDate>Sat, 18 Jan 2025 14:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Z9fqPtrd0bj-5Elp9p2kRAiIW6LGi-x6JITK4yKGqdUw.jpg"/>
-    </item>
-    <item>
-      <title>Öde elsker vinteren</title>
-      <description><![CDATA[Mens mange har slitt med snømåking, seine busser og uframkommelige fortau, er vinteren Öde Nerdrums beste tid. Kan han lære oss noe om hvordan vi bør takle vinteren?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/609cd5f9-85c9-4cb8-9abf-43f9c053e3a5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/609cd5f9-85c9-4cb8-9abf-43f9c053e3a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Sat, 11 Jan 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XGk8WEAdTF1FSb8Hbid8VAl6GVM-lrQcpHIQjIyV3gMg.jpg"/>
     </item>
   </channel>
 </rss>
