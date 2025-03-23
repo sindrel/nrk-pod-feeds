@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-03-23  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-03-22  
 - Podcast 'Dømt' is considered obsolete and will be ignored in the future (`doemt`)  
 - Podcast 'Rød løype' is considered obsolete and will be ignored in the future (`roed_loeype`)  
