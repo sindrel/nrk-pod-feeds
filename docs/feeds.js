@@ -61,7 +61,7 @@ const feeds = [
     "id": "bakrommet",
     "title": "De 10 siste fra Bakrommet",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "baksnakk",
