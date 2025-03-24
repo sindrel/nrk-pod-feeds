@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 21 Mar 2025 18:39:02 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Mar 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 24 Mar 2025 18:40:55 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Mar 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ingebrigtsen-rettssaken startet i dag</title>
+      <description><![CDATA[Gjert Ingebrigtsen erkjenner ikke straffskyld i saken hvor han er tiltalt for mishandling av to av sine barn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3205f966-cf46-4b92-b48b-18ef8a1a7749_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3205f966-cf46-4b92-b48b-18ef8a1a7749_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Mon, 24 Mar 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mItRcj54CjMuYx1uRh_J1QuhoOBDB2jVWq6TBR_h6oug.jpg"/>
+    </item>
     <item>
       <title>Høyre vil ha generell bevæpning</title>
       <description><![CDATA[Høyres landsmøte sier ja til generell bevæpning av politiet. Mangler bare ett mandat for flertall på Stortinget.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:55</itunes:duration>
       <pubDate>Tue, 11 Mar 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Nwq9QCjGKoTcx5QWeUXz2QW4a43AoYxnojL7yaiXUnBQ.jpg"/>
-    </item>
-    <item>
-      <title>Suspenderes etter VM-juks</title>
-      <description><![CDATA[Magnus Brevig og Adrian Livelten er suspendert fra jobbene sine i Norges Skiforbund.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f76a4c23-58d3-4133-b247-790858972fe0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f76a4c23-58d3-4133-b247-790858972fe0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 10 Mar 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hWKjIFeTxZmCcPc6acPewwjGK1sVyY8cXvoxyMt3Xvtg.jpg"/>
     </item>
   </channel>
 </rss>
