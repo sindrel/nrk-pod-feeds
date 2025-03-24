@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Trygdekontoret. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/trygdekontoret for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Mar 2025 05:32:23 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 24 Mar 2025 05:32:30 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Effektiv altruisme</title>
+      <description><![CDATA[Hvorfor er vitaminer og myggnett den mest effektive bistanden? Eirik Mofoss om hvordan enkle løsninger kan redde hundretusener av liv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/48ad7953-a829-432b-ab2f-df1ebd164c35_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/48ad7953-a829-432b-ab2f-df1ebd164c35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:59</itunes:duration>
+      <pubDate>Mon, 24 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5BJtMnBVYZiZRbukmU5zSwrdTRW4eCihP84PkazTc4CQ.jpg"/>
+    </item>
     <item>
       <title>Gift med fienden</title>
       <description><![CDATA[Skamklipt, sendt ut av Norge og fikk ikke komme hjem. Ingerid Hagen forteller om jentene som giftet seg med fienden.]]></description>
@@ -93,15 +102,6 @@ Tall fra en 40-årig helseundersøkelse gir ikke bare mål på kroppens tilstand
       <itunes:duration>01:02:01</itunes:duration>
       <pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/N6hrd-PPzkB38mTwwydj1wsobNPhqj_prEgLTsb6sD2A.jpg"/>
-    </item>
-    <item>
-      <title>Politi og kokain</title>
-      <description><![CDATA[Ronny René Raveen var politi og rusavhengig. Og så ble han tatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/b4b09062-aecf-442e-b0bd-d77e102cc66a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/b4b09062-aecf-442e-b0bd-d77e102cc66a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:20:05</itunes:duration>
-      <pubDate>Mon, 13 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tw7kW6p7zfDLskhuiRb2BAW55DkJ4nRsjGyzfV67-WWw.jpg"/>
     </item>
   </channel>
 </rss>
