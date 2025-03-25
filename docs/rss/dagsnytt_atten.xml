@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Mar 2025 18:40:55 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Mar 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 25 Mar 2025 18:40:00 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Mar 2025 19:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Jakob Ingebrigtsen forklarer seg</title>
+      <description><![CDATA[Sier faren drev med vold og manipulasjon gjennom oppveksten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/efcc93df-933a-4eaa-9bc0-a4aee238255e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/efcc93df-933a-4eaa-9bc0-a4aee238255e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:38</itunes:duration>
+      <pubDate>Tue, 25 Mar 2025 19:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u0Ez68QV4kIdJ9Wnl853Uw0HB_JRs69IKv268Jp8dTyA.jpg"/>
+    </item>
     <item>
       <title>Ingebrigtsen-rettssaken startet i dag</title>
       <description><![CDATA[Gjert Ingebrigtsen erkjenner ikke straffskyld i saken hvor han er tiltalt for mishandling av to av sine barn.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 12 Mar 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/R8XYLtk8rf47fAoD1S3u9QdFX_-8tQH9WV7V7wh1NguA.jpg"/>
-    </item>
-    <item>
-      <title>Ny politisk meningsmåling</title>
-      <description><![CDATA[En ny meningsmåling som Norstat har gjort for NRK og Dagbladet presenteres tirsdag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3342c53d-08bd-4a35-b478-eb176f3554d6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3342c53d-08bd-4a35-b478-eb176f3554d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:55</itunes:duration>
-      <pubDate>Tue, 11 Mar 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Nwq9QCjGKoTcx5QWeUXz2QW4a43AoYxnojL7yaiXUnBQ.jpg"/>
     </item>
   </channel>
 </rss>
