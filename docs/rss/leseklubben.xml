@@ -1,106 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Leseklubben</title>
+    <title>De 4 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Mar 2025 05:31:57 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Mar 2025 06:05:00 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Mar 2025 05:32:30 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Mar 2025 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     <item>
-      <title>Genanse og verdighet (1:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bf560db5-601f-4803-9ef0-e128d044f4e4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bf560db5-601f-4803-9ef0-e128d044f4e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:25</itunes:duration>
-      <pubDate>Wed, 05 Mar 2025 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
+      <title>Dag Solstads beste bok (1:6)</title>
+      <description><![CDATA[– Han er ikke akkurat en rev på å sette punktum, sier Atle Antonsen når Leseklubben går løs på 90-tallets beste roman. Etter denne episoden kan du lese til s. 41 eller høre lydboka del 1, 2 og 3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/073d7aa7-0211-4a33-b7e7-3563aefe489c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/073d7aa7-0211-4a33-b7e7-3563aefe489c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:04</itunes:duration>
+      <pubDate>Wed, 05 Mar 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
     </item>
     <item>
-      <title>Genanse og verdighet (2:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/35a542cc-cfad-40ac-ab5c-d17d8c972d1f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/35a542cc-cfad-40ac-ab5c-d17d8c972d1f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:48</itunes:duration>
-      <pubDate>Wed, 05 Mar 2025 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
+      <title>Bananas med paraplyer (2:6)</title>
+      <description><![CDATA[Hovedpersonen Elias Rukla går bananas med paraply i boka. Nå vil Atle og Christine gjøre det samme. Etter denne episoden kan du lese fra s. 41 til 66 eller høre lydboka del 4, 5 og 6.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2d2a36da-8424-4f8f-b7e1-2b36c7139773_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2d2a36da-8424-4f8f-b7e1-2b36c7139773_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:16</itunes:duration>
+      <pubDate>Wed, 12 Mar 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
     </item>
     <item>
-      <title>Genanse og verdighet (3:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b9e17dbd-9e97-477d-b9c6-fa23152a09e6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b9e17dbd-9e97-477d-b9c6-fa23152a09e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:14</itunes:duration>
-      <pubDate>Wed, 05 Mar 2025 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
+      <title>Dag Solstad er død (3:6)</title>
+      <description><![CDATA[Mens Leseklubben er midt i boken hans får de den triste nyheten: Dag Solstad er død. Etter denne episoden kan du lese fra s. 66 til 91 eller høre lydboka del 7, 8 og 9.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/47746ce2-a92b-4c3e-aac3-0825b766d4a2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/47746ce2-a92b-4c3e-aac3-0825b766d4a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:47</itunes:duration>
+      <pubDate>Wed, 19 Mar 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
     </item>
     <item>
-      <title>Genanse og verdighet (4:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/76ce99a7-8ac0-40ca-94e1-3f7b8699d86b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/76ce99a7-8ac0-40ca-94e1-3f7b8699d86b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:41</itunes:duration>
-      <pubDate>Wed, 12 Mar 2025 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
-    </item>
-    <item>
-      <title>Genanse og verdighet (5:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b28485d5-f8bc-43ee-9727-b469a224c16a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b28485d5-f8bc-43ee-9727-b469a224c16a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:20</itunes:duration>
-      <pubDate>Wed, 12 Mar 2025 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
-    </item>
-    <item>
-      <title>Genanse og verdighet (6:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/350d818d-f255-48ae-95e5-1e399aee4226_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/350d818d-f255-48ae-95e5-1e399aee4226_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:45</itunes:duration>
-      <pubDate>Wed, 12 Mar 2025 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
-    </item>
-    <item>
-      <title>Genanse og verdighet (7:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/54b58984-e7f3-43d9-bd60-71f34a8f48aa_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/54b58984-e7f3-43d9-bd60-71f34a8f48aa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:36</itunes:duration>
-      <pubDate>Wed, 19 Mar 2025 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
-    </item>
-    <item>
-      <title>Genanse og verdighet (8:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/beeee18b-26dc-476f-a6cb-e6ebc69039bf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/beeee18b-26dc-476f-a6cb-e6ebc69039bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:41</itunes:duration>
-      <pubDate>Wed, 19 Mar 2025 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
-    </item>
-    <item>
-      <title>Genanse og verdighet (9:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/fa8e4adb-f7ac-4b5c-ac91-19f1d1fc201e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/fa8e4adb-f7ac-4b5c-ac91-19f1d1fc201e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:20</itunes:duration>
-      <pubDate>Wed, 19 Mar 2025 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
-    </item>
-    <item>
-      <title>Genanse og verdighet (10:15)</title>
-      <description><![CDATA[Lydboka «Genanse og verdighet» av Dag Solstad lest av Kai Remlov.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bb362474-4c05-4224-b695-9a3624efe2c4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bb362474-4c05-4224-b695-9a3624efe2c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:44</itunes:duration>
-      <pubDate>Wed, 19 Mar 2025 06:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
+      <title>Mysteriet Eva Linde (4:6)</title>
+      <description><![CDATA[Atle Antonsen mener «ubeskrivelig vakre» Eva Linde minner om Maria Bonnevie, mens Kristoffer er helt hengt opp i Kant og Marx.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5b5e1418-1910-4319-947d-5460b657d3d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5b5e1418-1910-4319-947d-5460b657d3d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:06</itunes:duration>
+      <pubDate>Wed, 26 Mar 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
     </item>
   </channel>
 </rss>

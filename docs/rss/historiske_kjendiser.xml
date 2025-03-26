@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Mar 2025 05:31:50 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Mar 2025 05:32:27 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Sokrates - filosofiens far</title>
+      <description><![CDATA[Den greske filosofen ble dømt til døden for å tenke fritt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/c64e505a-eace-4e6d-8035-d21fed9cdc8d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/c64e505a-eace-4e6d-8035-d21fed9cdc8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:57</itunes:duration>
+      <pubDate>Wed, 26 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ElYC29eV4I12xC9f6dKbwQCH34qjolItahZsRsIrGKaQ.jpg"/>
+    </item>
     <item>
       <title>Anne Boleyn – halshugget dronning</title>
       <description><![CDATA[Dronningen som ble fratatt kronen og hodet av den engelske kongen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:49</itunes:duration>
       <pubDate>Wed, 11 Sep 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MM6Xh5naZN5cEpBSwomeMwfe-vG5vocGWZNuQo4rqEWw.jpg"/>
-    </item>
-    <item>
-      <title>Napoleon Bonaparte Del 1</title>
-      <description><![CDATA[Korsikaneren klatret i gradene og kronet seg selv til keiser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/830f0423-35bc-4473-bf28-e871030d43cf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/830f0423-35bc-4473-bf28-e871030d43cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:55</itunes:duration>
-      <pubDate>Wed, 04 Sep 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pH_bwm7ZsD6RahN4CWapPQFTnjcF7KUBbo3SiQ_ikVqQ.jpg"/>
     </item>
   </channel>
 </rss>
