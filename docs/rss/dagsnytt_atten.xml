@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Mar 2025 18:40:00 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Mar 2025 19:30:00 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Mar 2025 19:25:09 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Mar 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Lillesøsteren i Ingebrigtsen-familien i retten i dag</title>
+      <description><![CDATA[Fortalte om en oppvekst som var uforutsigbar og med mye frykt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/faeef477-db74-4b71-bc05-36cffb0d9a4b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/faeef477-db74-4b71-bc05-36cffb0d9a4b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 26 Mar 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N16KiIn3Uc1vNRAVmk-z0w2iwainI7Z_tr_tVoAUyf6w.jpg"/>
+    </item>
     <item>
       <title>Jakob Ingebrigtsen forklarer seg</title>
       <description><![CDATA[Sier faren drev med vold og manipulasjon gjennom oppveksten.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 13 Mar 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hcWJ92vOKVKboTAlU8sQgw8F9mgvq82w_54mlYPFG0lA.jpg"/>
-    </item>
-    <item>
-      <title>Forfang og Lindvik utestengt av FIS</title>
-      <description><![CDATA[Det skjer samme dag som flere tidligere norske hoppere innrømmer juks da de var aktive.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7d73d7d2-78da-4cdf-a9d5-c98e5820eb3f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7d73d7d2-78da-4cdf-a9d5-c98e5820eb3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 12 Mar 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/R8XYLtk8rf47fAoD1S3u9QdFX_-8tQH9WV7V7wh1NguA.jpg"/>
     </item>
   </channel>
 </rss>
