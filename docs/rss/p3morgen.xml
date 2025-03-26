@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Mar 2025 12:54:53 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Mar 2025 13:05:00 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Mar 2025 10:35:41 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Mar 2025 10:40:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Arin tar et oppgjør med Henning</title>
+      <description><![CDATA[Henning har glemt noe viktig, og Arin tar saken i egne hender for å ordne opp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/0152852b-9af6-46fe-b92e-3602afdd2a65_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/0152852b-9af6-46fe-b92e-3602afdd2a65_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:52</itunes:duration>
+      <pubDate>Wed, 26 Mar 2025 10:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    </item>
     <item>
       <title>Henning snoker hjemme hos Arin</title>
       <description><![CDATA[Henning reagerer på at Arin ikke eier en ostehøvel og drar hjem til henne for å se hva annet som mangler.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>54:04</itunes:duration>
       <pubDate>Thu, 13 Mar 2025 14:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vj5U9kFzYyE1hZqZwRkDNAPEBwlwDNGfWRC4qzZEeFbQ.jpg"/>
-    </item>
-    <item>
-      <title>Oskar Westerlin er verpesjuk</title>
-      <description><![CDATA[Oskar Westerlin forteller om tiden på «Spillet», og vi prøver å få fram en litt mykere side av ham.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d671f0da-a90f-44b5-ab0d-f0531447aa3f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d671f0da-a90f-44b5-ab0d-f0531447aa3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:06</itunes:duration>
-      <pubDate>Wed, 12 Mar 2025 11:50:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/g5NR_tswcu2U4C0Z0OecDA4b525HUBDhbtPMGsC9nxOA.jpg"/>
     </item>
   </channel>
 </rss>
