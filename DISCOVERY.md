@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-03-26  
+- Added podcast 'Lev vel' (`lev_vel`)  
 ### 2025-03-23  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-03-22  
