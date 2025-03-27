@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 23 Mar 2025 05:30:49 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 11:26:26 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Mar 2025 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
     <item>
+      <title>Transkrigen</title>
+      <description><![CDATA[- Trans, kjønn og kultur er et betent tema, sier psykiater, Og tonen blir stadig tøffere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/885bd01a-e8b4-409f-a737-6ac607a4d1a0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/885bd01a-e8b4-409f-a737-6ac607a4d1a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:15</itunes:duration>
+      <pubDate>Thu, 27 Mar 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    </item>
+    <item>
       <title>Bør vi bli venn med KI?</title>
-      <description><![CDATA[Hva risikere vi når slipper inn kunstige venner?]]></description>
+      <description><![CDATA[Hva risikerer vi, når vi slipper inn kunstige venner?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/cedbdfa4-3e52-436c-b323-18745dd2e4db_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cedbdfa4-3e52-436c-b323-18745dd2e4db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:58</itunes:duration>
@@ -92,15 +101,6 @@
       <itunes:duration>12:53</itunes:duration>
       <pubDate>Wed, 05 Feb 2025 15:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nHqQQ-Xno0RClzTC3EZfrwIfA8duWlrHyhhh4uqG3wLg.jpg"/>
-    </item>
-    <item>
-      <title>Hvem blir ensomme?</title>
-      <description><![CDATA[Vi snakker om ensomhet og myter om ensomhet. Er det sant at ensomheten øker?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/fbfa57af-fb05-45d9-90f8-8f384598022d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/fbfa57af-fb05-45d9-90f8-8f384598022d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:51</itunes:duration>
-      <pubDate>Sat, 01 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FpiyHIzirRldaVNBeszL9gUdlS5G171GrzMR1vNL2NTw.jpg"/>
     </item>
   </channel>
 </rss>
