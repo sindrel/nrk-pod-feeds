@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Mar 2025 05:31:50 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 05:32:28 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Mar 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Maler William Heimdal</title>
+      <description><![CDATA[«Det er som å spy», sier kunstneren når han snakker om det å male. Det er rett og slett ikke mulig for ham å la være.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/7ea2b3c7-8dc1-4b30-8ea1-251575be48f9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/7ea2b3c7-8dc1-4b30-8ea1-251575be48f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:29:50</itunes:duration>
+      <pubDate>Thu, 27 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NbySSZ_sNb-sGdxHJbJoHwIUMXo0WstGVYFIG3WhmLlA.jpg"/>
+    </item>
     <item>
       <title>Partileder Else Kåss Furuseth</title>
       <description><![CDATA[Erlend har planer om å grille den ferske politiske lederen. Men siden Ensomhetspartiet ikke har et partiprogram, må det lages først.]]></description>
@@ -93,15 +102,6 @@ Denne episoden ble spilt inn 04.februar.]]></description>
       <itunes:duration>01:23:52</itunes:duration>
       <pubDate>Thu, 21 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HwHL26teyHQwyNY77u7L9g5ZrwreaUSBlxmI4qpASkCw.jpg"/>
-    </item>
-    <item>
-      <title>Isalill Kolpus fra Nytt på nytt</title>
-      <description><![CDATA[«Hvorfor er russiske barn så sjuuuukt flinke til å tegne?» Isalill er fra grensebyen Kirkenes og har har sett dem i aksjon.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/c24d0022-0308-4bf6-b5b8-402d7fb7badb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/c24d0022-0308-4bf6-b5b8-402d7fb7badb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:16:21</itunes:duration>
-      <pubDate>Thu, 07 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vCKu92t8TjlpApXmQNL-dQuX03gRCUPBgd3XWkIWjA1A.jpg"/>
     </item>
   </channel>
 </rss>
