@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Mar 2025 13:34:55 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Mar 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 13:37:02 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Mar 2025 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>Adolescence: Opprivende krimkunst</title>
+      <description><![CDATA[Terningkast 6 til Netflix-serien «Adolescence»! Et kruttsterkt krimdrama med imponerende formgrep og gnistrende godt skuespill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/41f87144-d4b9-4c9e-8923-95faa7998778_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/41f87144-d4b9-4c9e-8923-95faa7998778_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:52</itunes:duration>
+      <pubDate>Thu, 27 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y2y0uFaxZ0KV9f8VscUR-QP4IP3RXvLKK7NPJ-UI_BVQ.jpg"/>
+    </item>
     <item>
       <title>The Residence: Festlig kosekrim i Det hvite hus</title>
       <description><![CDATA[Uzo Adubas komiske talent kommer virkelig til sin rett som detektiv Cordelia Cupp i «The Residence».]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>23:10</itunes:duration>
       <pubDate>Thu, 23 Jan 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/U1GeRcg5zYBfnC7Br1132g798MmaYuIP4VDiSXLHINhQ.jpg"/>
-    </item>
-    <item>
-      <title>2025: filmene vi gleder oss til!</title>
-      <description><![CDATA[Birger tar oss med gjennom hvilke filmer han har størst tro på i det kommende kinoåret!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/6f433d25-dfdd-496b-a33a-11ea42179bc3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/6f433d25-dfdd-496b-a33a-11ea42179bc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:42</itunes:duration>
-      <pubDate>Thu, 16 Jan 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ozTwu0bk2j803tqNOrWNSA6enswQogsWESEJ2MhhSU1A.jpg"/>
     </item>
   </channel>
 </rss>
