@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Fredagspanelet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fredagspanelet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Mar 2025 08:34:30 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Mar 2025 08:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 28 Mar 2025 08:36:19 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Mar 2025 09:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>TikTok, pressenekt og telefonsamtaler på bussen</title>
+      <description><![CDATA[I panelet er komiker Ahmed Mamow,  administrerende direktør i forleggerforeningen, Trine Skei Grande og spareøkonom og influenser, Kornelia Minsaas.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/db891395-3054-4eca-935c-c827e7fd0cdc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/db891395-3054-4eca-935c-c827e7fd0cdc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:47</itunes:duration>
+      <pubDate>Fri, 28 Mar 2025 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Juks, lesing og Wicked</title>
       <description><![CDATA[Panelet: Naomi Oseki - tiktoker og samfunnsdebattant, Cathrine Sandnes - forlagsredaktør og Karl-Fredrik Tangen - førstelektor Institutt for markedsføring, Høyskolen Kristiania.
@@ -122,17 +131,6 @@ Vil dere stole på kunstig intelligens fra Kina? Har Netflix fått for mye makt 
       <itunes:duration>12:37</itunes:duration>
       <pubDate>Fri, 17 Jan 2025 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mLjE9ZYNDPv6NS-OFJR4rQW01bGMYHgCHejOopxNqh7Q.jpg"/>
-    </item>
-    <item>
-      <title>Seigmannporno, KI-musikk og Meta</title>
-      <description><![CDATA[Ingrid Røynesdal - direktør ved Nasjonalmuseet, Arne Berggren - forfattar og tv-produsent og Audun Molde  - musikkvitar og førstelektor ved Høgskulen Kristiania.
-
-Misforstod vi laban-reklama? KI-musikk på NRK Urørt, speler det noko rolle så lenge folk har glede av musikken? Meta dropper faktasjekk, kjem det til å gå ad undas der no?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/3df798a4-c118-4fa4-9002-f34cd3ddf6a9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/3df798a4-c118-4fa4-9002-f34cd3ddf6a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:27</itunes:duration>
-      <pubDate>Fri, 10 Jan 2025 08:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>
 </rss>
