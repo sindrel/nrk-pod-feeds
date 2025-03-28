@@ -1513,7 +1513,7 @@ const feeds = [
     "id": "utakt",
     "title": "De 10 siste fra Utakt",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "valg",
