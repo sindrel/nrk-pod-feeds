@@ -915,7 +915,7 @@ const feeds = [
     "id": "noedsamtaler",
     "title": "De 10 siste fra Nødsamtaler",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "nokke_for_seg_sjoel",
