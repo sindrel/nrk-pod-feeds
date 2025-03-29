@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-03-29  
+- Added podcast 'Ding-dong, du er død!' (`ding_dong_du_er_doed`)  
 ### 2025-03-28  
 - Updated podcast 'Nødsamtaler' (`noedsamtaler`)  
 ### 2025-03-28  
