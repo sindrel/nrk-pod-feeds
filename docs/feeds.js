@@ -196,6 +196,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "ding_dong_du_er_doed",
+    "title": "De 10 siste fra Ding-dong, du er død!",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "dlla_ja_dalloj",
     "title": "De 10 siste fra Dálla ja dalloj",
     "season": null,
