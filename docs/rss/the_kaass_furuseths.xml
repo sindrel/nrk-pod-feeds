@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 23 Mar 2025 05:30:44 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 30 Mar 2025 04:35:17 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Mar 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Else besøker: Cathrine Frost</title>
+      <description><![CDATA[Else og Cathrine Frost dykker ned i filosofiske tanker om skapelsen av liv. Forestillingen «Lykke til, Cathrine Frost» reiser Norge rundt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/b0ec699c-e130-4b6d-b306-62378022dab1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/b0ec699c-e130-4b6d-b306-62378022dab1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:22</itunes:duration>
+      <pubDate>Sun, 30 Mar 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Isvt9ISn8mLO_vRNF-hsIQA3kxo6CIS7p0d8Xf2fRS_g.jpg"/>
+    </item>
     <item>
       <title>Else går tur med: Jonas Gahr Støre</title>
       <description><![CDATA[Statsministeren og Else tar en tur rundt Sognsvann i Oslo.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>54:16</itunes:duration>
       <pubDate>Sun, 26 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fIvpe6-iR8bUVoMmYq7fLA3FWPHoV1UGIToGGk_hRFNQ.jpg"/>
-    </item>
-    <item>
-      <title>Else besøker: David Mokel</title>
-      <description><![CDATA[David Mokel om Humoretaten, hvordan han fant publikummet sitt under covid og hotellvaner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/c8ae75e3-a272-4026-8a1d-6c7c19f67c33_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c8ae75e3-a272-4026-8a1d-6c7c19f67c33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:32</itunes:duration>
-      <pubDate>Sun, 19 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kEwRhEc_0SH6kn25fljr5ANAUBhmOQGSNc36vyabH_-A.jpg"/>
     </item>
   </channel>
 </rss>
