@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Mar 2025 05:33:34 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 31 Mar 2025 04:35:13 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>En kopp kaffe - med Gunn Marit Nisja</title>
+      <description><![CDATA[Gi barna kaffe og rakfisk, sier forfatter Gunn Marit Nisja. Det kan gjøre underverker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4f15eedf-f897-40eb-b00d-01f89b23368a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4f15eedf-f897-40eb-b00d-01f89b23368a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:49</itunes:duration>
+      <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
+    </item>
     <item>
       <title>Venn eller fiende - med Felix Baldauf</title>
       <description><![CDATA[Det du forteller deg selv, tror du på, advarer toppidrettsutøver Felix Baldauf.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:08</itunes:duration>
       <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
-    </item>
-    <item>
-      <title>Pusterom - med Elin Sofye Rabbevåg</title>
-      <description><![CDATA[Sett på favorittmusikken din - høyt, råder musikkterapeut Elin Sofye Rabbevåg]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/cb2cb483-b564-4990-9af1-b22fb0d970a8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/cb2cb483-b564-4990-9af1-b22fb0d970a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:19</itunes:duration>
-      <pubDate>Tue, 04 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
     </item>
   </channel>
 </rss>

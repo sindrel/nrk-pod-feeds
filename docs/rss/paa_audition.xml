@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Mar 2025 05:32:25 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 31 Mar 2025 04:35:25 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
+    <item>
+      <title>Ulrikke Brandstorp</title>
+      <description><![CDATA[Sarpsborg, Sabrina Carpenter og hunder – hva mer kan man ønske seg? Ta godt imot kandidat nummer 11!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/1ee50168-fabe-4a9a-9035-99d72c1d63d7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/1ee50168-fabe-4a9a-9035-99d72c1d63d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:28</itunes:duration>
+      <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XkuMnGOFll4Ru8qe1y4cUAMNb8a5hG0wTqWFQSNdk0fg.jpg"/>
+    </item>
     <item>
       <title>Ole Soo</title>
       <description><![CDATA[Han tenker alltid på mat, han er stolt el-sparkesyklist og han er vår kandidat nummer 10!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:01:06</itunes:duration>
       <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/czN6kxpmLPoFPod9FjvcCAfsuCLq6AQmBliKNJxGxbJw.jpg"/>
-    </item>
-    <item>
-      <title>Morten Ramm</title>
-      <description><![CDATA[Førstemann ut er Morten Ramm. Adelina vil inn under huden: har han egenskaper hun leter etter – eller noen hun absolutt ikke vil ha?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/10cb16b9-3430-414f-badf-f8f5aefd6170_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/paa_audition/10cb16b9-3430-414f-badf-f8f5aefd6170_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:54</itunes:duration>
-      <pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/So5oz0e3wLJNWzYQOFx6GAn3jlERWIYJys17NRh0Om2w.jpg"/>
     </item>
   </channel>
 </rss>
