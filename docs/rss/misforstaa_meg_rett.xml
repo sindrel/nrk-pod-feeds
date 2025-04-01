@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Misforstå meg rett</title>
+    <title>De 10 siste fra Misforstå meg rett</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Misforstå meg rett. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/misforstaa_meg_rett for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Misforstå meg rett. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/misforstaa_meg_rett for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Mar 2025 05:33:41 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Mar 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 01 Apr 2025 04:37:50 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    <item>
+      <title>Galvan vil drepe for å få hår</title>
+      <description><![CDATA[Hva er naturlig skjønnhet? Martha og Galvan tar et dykk ned i et av samfunnets mørke hull]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/32998835-36ae-4f43-9458-015c36a4df76_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/32998835-36ae-4f43-9458-015c36a4df76_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:12</itunes:duration>
+      <pubDate>Tue, 01 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    </item>
     <item>
       <title>Galvan ble anmeldt for tyveri</title>
       <description><![CDATA[Har nordmenn en iboende lyst til å være kriminell? Martha og Galvan diskuterer om vi skulle hatt en dag i året hvor alt er lov.]]></description>
@@ -19,7 +28,7 @@
       <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/b88ab250-0ab2-48d6-9bbe-73d3452577d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:12</itunes:duration>
       <pubDate>Tue, 25 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zyo3T4w17a3RtgcequLm7A0XSg_fitH71gptMLHHmFXA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
     </item>
     <item>
       <title>Ungdomsskolen suger</title>
@@ -28,7 +37,7 @@
       <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/4a49b831-1884-4497-a220-405b56af3be2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:32</itunes:duration>
       <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zyo3T4w17a3RtgcequLm7A0XSg_fitH71gptMLHHmFXA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
     </item>
     <item>
       <title>Ski er dritkjedelig</title>
@@ -46,7 +55,7 @@
       <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/b9075681-1d6b-4e95-a362-f9774f9f2b0a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:51</itunes:duration>
       <pubDate>Tue, 04 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zyo3T4w17a3RtgcequLm7A0XSg_fitH71gptMLHHmFXA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
     </item>
     <item>
       <title>Avholds er kjedelig</title>

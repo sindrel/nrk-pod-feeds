@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 31 Mar 2025 04:35:13 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Apr 2025 04:37:42 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>High five - med Janne Rønningen</title>
+      <description><![CDATA[Hei du, som alltid gjør det lille ekstra. Spar bittelitt litt på kreftene dine, råder komiker Janne Rønningen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/7f651732-7e76-40e7-a66e-1e48ad97cbdb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/7f651732-7e76-40e7-a66e-1e48ad97cbdb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:31</itunes:duration>
+      <pubDate>Tue, 01 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qd4mSgc2z6LG-L2ezTW_lQxIh0lJw4him8QhDO9U2-Hw.jpg"/>
+    </item>
     <item>
       <title>En kopp kaffe - med Gunn Marit Nisja</title>
       <description><![CDATA[Gi barna kaffe og rakfisk, sier forfatter Gunn Marit Nisja. Det kan gjøre underverker.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:32</itunes:duration>
       <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/X9V512lrosJHs4nS-m1TFw7qiS8G76_4LGPaCU-l42Og.jpg"/>
-    </item>
-    <item>
-      <title>Den lille løsningen - med Gunn Marit Nisja</title>
-      <description><![CDATA[Av og til må vi finne den lille løsningen på store problemer,  mener forfatter Gunn Marit Nisja]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/7e89b4a1-e5db-4adf-ad4e-73af1114b617_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/7e89b4a1-e5db-4adf-ad4e-73af1114b617_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:08</itunes:duration>
-      <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>
