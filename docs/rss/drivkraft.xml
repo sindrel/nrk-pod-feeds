@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 31 Mar 2025 12:56:14 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Mar 2025 13:45:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Apr 2025 12:57:01 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Apr 2025 14:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Martin Lepperød</title>
+      <description><![CDATA[Komikeren ville heller hengt i kjøttkroker enn å være med på Spillet en gang til]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d49218be-07af-423e-adea-c3e9ffa13fce_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d49218be-07af-423e-adea-c3e9ffa13fce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Tue, 01 Apr 2025 14:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fIMYscSYFDhc9y2u5vYFngkX1DaFsiI6Z1qgg-Asc4Nw.jpg"/>
+    </item>
     <item>
       <title>Bahare Viken</title>
       <description><![CDATA[Bahare Viken slet med spiseforstyrrelser. - Det startet med at jeg gikk ned i vekt på grunn av en ørebetennelse.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>54:42</itunes:duration>
       <pubDate>Mon, 17 Mar 2025 13:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/a_Eo5BbXzstAMim5VuNnrgFHTvEkqicKwfet7eU-c3aQ.jpg"/>
-    </item>
-    <item>
-      <title>Stian Blipp</title>
-      <description><![CDATA[Entertaineren er alle gamingpappaers ansikt utad: - Veldig mange kommer til meg for råd om hvordan de skal få lov til å game av kjæresten sin.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d248e631-9955-4c99-99e1-e4e51c2453ea_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d248e631-9955-4c99-99e1-e4e51c2453ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:22</itunes:duration>
-      <pubDate>Thu, 13 Mar 2025 13:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/a-2wm3BMrSjS9dzFoQMg9wdHuFt9D-M-LpNl9jEJWXqQ.jpg"/>
     </item>
   </channel>
 </rss>
