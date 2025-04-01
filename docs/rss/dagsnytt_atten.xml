@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 31 Mar 2025 18:40:41 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Mar 2025 19:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Apr 2025 17:31:25 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Apr 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vil forby uassisterte hjemmefødsler</title>
+      <description><![CDATA[Uassisterte hjemmefødsler har fått mye oppmerksomhet den siste tiden. Nå vil lege gjøre det ulovlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d0fa8f51-8bdb-4585-93ac-7aac6f199d30_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d0fa8f51-8bdb-4585-93ac-7aac6f199d30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 01 Apr 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hUOkHiuJfm7NkBL-VdT7hwbW6TuGRZUAWlXWy0e-FX4w.jpg"/>
+    </item>
     <item>
       <title>Gjert Ingebrigtsen forklarte seg i dag</title>
       <description><![CDATA[Preget Gjert Ingebrigtsen forklarte seg i retten i dag, benektet vold og trusler mot egne barn.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Wed, 19 Mar 2025 19:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ByT5SD8Uh8CQgrg2h930gAK0OWQaQ_ENOqZjXJIRIP3Q.jpg"/>
-    </item>
-    <item>
-      <title>Samtalen mellom Putin og Trump er over</title>
-      <description><![CDATA[Spørsmålet er om det blir en våpenhvile mellom Russland og Ukraina.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5c68aa3d-091e-40a8-832f-19e8ec000690_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5c68aa3d-091e-40a8-832f-19e8ec000690_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:43</itunes:duration>
-      <pubDate>Tue, 18 Mar 2025 19:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xYh9R2g_Q3bfzFSz4Jrg-wzbwK2RPPP7gVDb9LYjqgkA.jpg"/>
     </item>
   </channel>
 </rss>
