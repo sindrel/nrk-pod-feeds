@@ -1,43 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 06 Feb 2025 05:33:15 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Feb 2025 06:02:00 +0100</pubDate>
+    <lastBuildDate>Thu, 03 Apr 2025 03:07:39 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Apr 2025 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Kommer i NRK Radio: Drømmenesa</title>
-      <description><![CDATA[Jenny ville fikse nesa hos en kirurg - når hun ser seg i speilet  etter operasjonen får hun sjokk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/9ccc0672-41b5-4e83-9513-1fbc78b824d3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9ccc0672-41b5-4e83-9513-1fbc78b824d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30</itunes:duration>
-      <pubDate>Wed, 05 Feb 2025 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xEEgZtG9HV7dFCIoRd495gV4ZMJH6iVdSBMiO3dc1VJg.jpg"/>
-    </item>
-    <item>
-      <title>Sjokket i speilet (1:2)</title>
-      <description><![CDATA[Jenny tar et stort valg hun kommer til å angre på. Hun ville fikse nesa si, men så går det helt galt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/48380c6f-48a4-427f-bad5-3f02eab96512_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/48380c6f-48a4-427f-bad5-3f02eab96512_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:09</itunes:duration>
-      <pubDate>Thu, 06 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xEEgZtG9HV7dFCIoRd495gV4ZMJH6iVdSBMiO3dc1VJg.jpg"/>
-    </item>
-    <item>
-      <title>Operasjon "Ny nese" (2:2)</title>
-      <description><![CDATA[Etter tre neseoperasjoner oppdager Jenny at det ikke bare er hun som er uheldig, Det er mange der ute som har fått ødelagt nesa.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/678af2a2-e556-4997-815f-ea729beb17b3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/678af2a2-e556-4997-815f-ea729beb17b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:59</itunes:duration>
-      <pubDate>Thu, 06 Feb 2025 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xEEgZtG9HV7dFCIoRd495gV4ZMJH6iVdSBMiO3dc1VJg.jpg"/>
+      <title>Smakebit: Gutten med hemmeligheten</title>
+      <description><![CDATA[Lars er bare 12 år når en nabomamma innleder et seksuelt forhold til ham. Det skal prege resten av livet hans.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f046433e-69cf-4933-90ac-a8ebfbd5cdff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f046433e-69cf-4933-90ac-a8ebfbd5cdff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:33</itunes:duration>
+      <pubDate>Wed, 02 Apr 2025 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JN_yBpRVCmFGRsEyzskEAwRwsNURMxC-bDLtMXmFnoug.jpg"/>
     </item>
   </channel>
 </rss>

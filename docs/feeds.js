@@ -435,7 +435,7 @@ const feeds = [
     "id": "heia_fotball",
     "title": "De 10 siste fra Heia Fotball",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "hele_historien",
@@ -1093,7 +1093,7 @@ const feeds = [
     "id": "radiodokumentaren",
     "title": "De 10 siste fra Historier fra virkeligheten",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "radiolegen",
