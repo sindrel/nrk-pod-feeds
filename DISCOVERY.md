@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2025-04-03  
+- Podcast 'Hvordan møttes dere? ' is considered obsolete and will be ignored in the future (`hvordan_moettes_dere_`)  
+### 2025-04-03  
 - Updated podcast 'Heia Fotball' (`heia_fotball`)  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2025-03-29  
