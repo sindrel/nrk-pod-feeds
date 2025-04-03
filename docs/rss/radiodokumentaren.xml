@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Historier fra virkeligheten</title>
+    <title>De 3 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Apr 2025 03:07:39 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Apr 2025 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Apr 2025 04:37:22 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Apr 2025 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
@@ -19,6 +19,24 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f046433e-69cf-4933-90ac-a8ebfbd5cdff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:33</itunes:duration>
       <pubDate>Wed, 02 Apr 2025 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JN_yBpRVCmFGRsEyzskEAwRwsNURMxC-bDLtMXmFnoug.jpg"/>
+    </item>
+    <item>
+      <title>Over en grense (1:2)</title>
+      <description><![CDATA[Lars har sex med moren til lekekameraten, og får større og større problemer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f7f4058a-6e8d-4090-af73-43c6f80943d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f7f4058a-6e8d-4090-af73-43c6f80943d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:17</itunes:duration>
+      <pubDate>Thu, 03 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JN_yBpRVCmFGRsEyzskEAwRwsNURMxC-bDLtMXmFnoug.jpg"/>
+    </item>
+    <item>
+      <title>Alt rakner (2:2)</title>
+      <description><![CDATA[Når hemmeligheten sprekker har Lars og den voksne nabokvinnen hver sin versjon. Retten feller en dom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/c7728e0d-7377-4e24-9281-18db2a0e9f15_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/c7728e0d-7377-4e24-9281-18db2a0e9f15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:43</itunes:duration>
+      <pubDate>Thu, 03 Apr 2025 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JN_yBpRVCmFGRsEyzskEAwRwsNURMxC-bDLtMXmFnoug.jpg"/>
     </item>
   </channel>
