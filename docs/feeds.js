@@ -435,7 +435,7 @@ const feeds = [
     "id": "heia_fotball",
     "title": "De 10 siste fra Heia Fotball",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hele_historien",
