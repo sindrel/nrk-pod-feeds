@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Apr 2025 11:28:07 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Apr 2025 13:20:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Apr 2025 11:27:16 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Apr 2025 12:52:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Feilhørte sangtekster</title>
+      <description><![CDATA[I dag bruker vi god tid på å meske oss i feilhørte sangtekster. Hva sier egentlig Sondre Justad, og hvorfor synger Imagine Dragons dette?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e32e7087-7fb6-466a-a210-0b83e3402659_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e32e7087-7fb6-466a-a210-0b83e3402659_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:32</itunes:duration>
+      <pubDate>Fri, 04 Apr 2025 12:52:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    </item>
     <item>
       <title>Linnea Myhre gir motivasjonstale</title>
       <description><![CDATA[Linnea Myhre undersøker hvordan man kan leve smartere i podkasten «Lev Vel» og hjelper oss med motivasjonen i Sluttaklubben.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>45:09</itunes:duration>
       <pubDate>Mon, 24 Mar 2025 12:25:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WFB-ZfdnS1eJMReM-e9ptQeb6Dkwe8LmXi8K0cH-4ovg.jpg"/>
-    </item>
-    <item>
-      <title>Avslører Ødegaards babynavn</title>
-      <description><![CDATA[Gunnhild Toldnes svarer på om Norge har VM-sjans og viser oss hva som kreves for å være en ekte fotballsupporter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ecd6dffa-cfd2-4653-bafa-ce854c675b2d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ecd6dffa-cfd2-4653-bafa-ce854c675b2d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:13</itunes:duration>
-      <pubDate>Fri, 21 Mar 2025 12:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NLv9Aq10C5hC24nHZ89c0QKB2OJ7KS1CKNNgX0vdLBwA.jpg"/>
     </item>
   </channel>
 </rss>
