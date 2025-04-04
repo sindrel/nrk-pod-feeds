@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Mar 2025 04:35:20 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Mar 2025 05:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 04 Apr 2025 03:07:30 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Apr 2025 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
+    <item>
+      <title>Løpeprogram</title>
+      <description><![CDATA[Anders gir Silje og Emil løpeprogram de kan følge frem mot Oslo halvmaraton. 
+Emil har skøytet 100 km på skiene til Petter Northug, mens Silje har satt seg nytt overordnet mål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/405e1d8c-d8ed-4eb4-8601-7f7cb440dcea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/405e1d8c-d8ed-4eb4-8601-7f7cb440dcea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:43</itunes:duration>
+      <pubDate>Fri, 04 Apr 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nnE6SOGNr9KoirYjkEcncwex9Lw8I9eiF1z-Rr8Lm4-A.jpg"/>
+    </item>
     <item>
       <title>Mål for halvmaraton</title>
       <description><![CDATA[Halvmaraton skal løpes, men hva blir målet? Emil overrasker Silje med invitasjon.]]></description>
@@ -95,15 +105,6 @@ Og hvordan er det egentlig å bo med en som er like oppslukt av langrenn som Emi
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/43c0e357-fe48-405d-bcab-af3adf40ada1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:27</itunes:duration>
       <pubDate>Wed, 05 Mar 2025 17:55:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wi2kPDlluw5xV0N85r2YBwOZ2PfRBrukOiRTQ44Parhg.jpg"/>
-    </item>
-    <item>
-      <title>Rubbski er dagens ord</title>
-      <description><![CDATA[Alt om dagens store tema: rubbski. Silje har løpt i fint vær - Emil begynner å bli lei økter med Johnsrud Sundby over skulderen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/163f2392-7499-4223-b95e-8a68a6da587e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skiklubben/163f2392-7499-4223-b95e-8a68a6da587e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:45</itunes:duration>
-      <pubDate>Tue, 04 Mar 2025 19:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wi2kPDlluw5xV0N85r2YBwOZ2PfRBrukOiRTQ44Parhg.jpg"/>
     </item>
   </channel>
