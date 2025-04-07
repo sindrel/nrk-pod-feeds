@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Apr 2025 11:27:16 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Apr 2025 12:52:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Apr 2025 13:39:45 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Apr 2025 15:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Arin lurte daten</title>
+      <description><![CDATA[Arin ble tvunget til å lyve på date, og Henriette Steenstrup og Trond Fausa Aurvåg forteller hvordan de møtte sin ektefelle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7c13007d-0be4-4377-a7e6-fe6bb5d6816e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7c13007d-0be4-4377-a7e6-fe6bb5d6816e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:31</itunes:duration>
+      <pubDate>Mon, 07 Apr 2025 15:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0yaS7koeFGgvo_nxQ5tg0A7oUjHMDL14x3B3KeYHKyGA.jpg"/>
+    </item>
     <item>
       <title>Feilhørte sangtekster</title>
       <description><![CDATA[I dag bruker vi god tid på å meske oss i feilhørte sangtekster. Hva sier egentlig Sondre Justad, og hvorfor synger Imagine Dragons dette?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>51:11</itunes:duration>
       <pubDate>Tue, 25 Mar 2025 13:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/LC6ad1V--2EMqvC7t7l0RQatFiuVgKkwN5-FvAkgk4uQ.jpg"/>
-    </item>
-    <item>
-      <title>– Hellstrøm er overraskende koselig</title>
-      <description><![CDATA[Klarer Vita Mashadi og Christopher Robin Omdahl å skille Eyvind Hellstrøm fra parodiene etter «Kokkeskolen»?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f325b321-6e26-4e71-8b10-558b162b3586_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f325b321-6e26-4e71-8b10-558b162b3586_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:09</itunes:duration>
-      <pubDate>Mon, 24 Mar 2025 12:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WFB-ZfdnS1eJMReM-e9ptQeb6Dkwe8LmXi8K0cH-4ovg.jpg"/>
     </item>
   </channel>
 </rss>
