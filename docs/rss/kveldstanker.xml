@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 01 Apr 2025 04:37:42 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Apr 2025 04:35:18 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Vår - med Solveig Johanne Grønstøl</title>
+      <description><![CDATA[Kan ein eigentleg gle seg for tidleg til våren? undrar forfattar Solveig Johanne Grønstøl]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/2c3cafbd-2e0f-448f-a183-cdd495c6cf5b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/2c3cafbd-2e0f-448f-a183-cdd495c6cf5b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:57</itunes:duration>
+      <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MFkAGpuU6xKllBoImcYQiw0MBjwueSx3sOUWfEkgH8WA.jpg"/>
+    </item>
     <item>
       <title>High five - med Janne Rønningen</title>
       <description><![CDATA[Hei du, som alltid gjør det lille ekstra. Spar bittelitt litt på kreftene dine, råder komiker Janne Rønningen]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:16</itunes:duration>
       <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jdvOTQMc_GhcCT1cyw9-QAUDz1j2i98enJ9kyAmr45WQ.jpg"/>
-    </item>
-    <item>
-      <title>Firkløvar - med Solveig Johanne Grønstøl</title>
-      <description><![CDATA[Er du ein sånn som finn firkløvar, undrar Solveig Johanne Grønstøl]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/84c0bc30-ebf1-49e5-9395-aa9794cf6bde_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/84c0bc30-ebf1-49e5-9395-aa9794cf6bde_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:32</itunes:duration>
-      <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X9V512lrosJHs4nS-m1TFw7qiS8G76_4LGPaCU-l42Og.jpg"/>
     </item>
   </channel>
 </rss>
