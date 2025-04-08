@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Apr 2025 04:35:18 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Apr 2025 04:36:19 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Torsk - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[Noen ganger er det godt at man blir voksen, sier skuespiller Claes Krogsgaard Ericsson]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d98a6621-6a2f-469d-befe-832dea60d44f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d98a6621-6a2f-469d-befe-832dea60d44f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:42</itunes:duration>
+      <pubDate>Tue, 08 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jdvOTQMc_GhcCT1cyw9-QAUDz1j2i98enJ9kyAmr45WQ.jpg"/>
+    </item>
     <item>
       <title>Vår - med Solveig Johanne Grønstøl</title>
       <description><![CDATA[Kan ein eigentleg gle seg for tidleg til våren? undrar forfattar Solveig Johanne Grønstøl]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:11</itunes:duration>
       <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eHGuJV_i7N6QpzBZpvGZnAJqanMHT-LGWHGbjst83fdg.jpg"/>
-    </item>
-    <item>
-      <title>Solveig - med Claes Krogsgaard Ericsson</title>
-      <description><![CDATA[En feilvurdering er egentlig en sjanse til å skaffe seg innsikt, hevder Claes Krogsgaard Ericsson.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d1d4d47a-9d5a-4b97-8b22-97236cfce3b2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d1d4d47a-9d5a-4b97-8b22-97236cfce3b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jdvOTQMc_GhcCT1cyw9-QAUDz1j2i98enJ9kyAmr45WQ.jpg"/>
     </item>
   </channel>
 </rss>
