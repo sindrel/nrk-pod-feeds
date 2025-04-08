@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Apr 2025 13:39:45 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Apr 2025 15:20:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Apr 2025 14:36:07 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Tar Arin i løgn</title>
+      <description><![CDATA[Isalill fra Nytt på Nytt tar med vitser som ikke fikk plass på tv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/db2786e7-bf05-42e8-9585-cb9d2bd2fbcc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/db2786e7-bf05-42e8-9585-cb9d2bd2fbcc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:44</itunes:duration>
+      <pubDate>Tue, 08 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-GDNQtjJzCZicQFkEuY3Cg_L-fzT9GjhoQO-c3bFZzcw.jpg"/>
+    </item>
     <item>
       <title>Arin lurte daten</title>
       <description><![CDATA[Arin ble tvunget til å lyve på date, og Henriette Steenstrup og Trond Fausa Aurvåg forteller hvordan de møtte sin ektefelle.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>48:52</itunes:duration>
       <pubDate>Wed, 26 Mar 2025 10:40:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
-    </item>
-    <item>
-      <title>Henning snoker hjemme hos Arin</title>
-      <description><![CDATA[Henning reagerer på at Arin ikke eier en ostehøvel og drar hjem til henne for å se hva annet som mangler.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/0ba38805-8ec4-421b-9907-c25e5b4849fd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/0ba38805-8ec4-421b-9907-c25e5b4849fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:11</itunes:duration>
-      <pubDate>Tue, 25 Mar 2025 13:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LC6ad1V--2EMqvC7t7l0RQatFiuVgKkwN5-FvAkgk4uQ.jpg"/>
     </item>
   </channel>
 </rss>
