@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 08 Apr 2025 18:41:04 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Apr 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Apr 2025 17:31:56 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Apr 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kina svarer på USA-toll</title>
+      <description><![CDATA[Torsdag øker Kina tollsatsen på amerikanske varer til 84 prosent.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/858eb17b-2f62-4574-b324-6590dc284c7f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/858eb17b-2f62-4574-b324-6590dc284c7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 09 Apr 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f7uq__JLYvoGU_b-qCZoLwqzIx_SD9d3Tq0gMDovZfVw.jpg"/>
+    </item>
     <item>
       <title>Ny politisk meningsmåling</title>
       <description><![CDATA[En ny meningsmåling som Norstat har utført for NRK, Dagbladet og Vårt Land presenteres tirsdag.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 27 Mar 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oy-0XpyjLPsqI4YCJkDmogVWwOynsIm_lSQQR_wejNew.jpg"/>
-    </item>
-    <item>
-      <title>Lillesøsteren i Ingebrigtsen-familien i retten i dag</title>
-      <description><![CDATA[Fortalte om en oppvekst som var uforutsigbar og med mye frykt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/faeef477-db74-4b71-bc05-36cffb0d9a4b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/faeef477-db74-4b71-bc05-36cffb0d9a4b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 26 Mar 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/N16KiIn3Uc1vNRAVmk-z0w2iwainI7Z_tr_tVoAUyf6w.jpg"/>
     </item>
   </channel>
 </rss>
