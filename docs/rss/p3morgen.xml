@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Apr 2025 14:37:19 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Apr 2025 15:32:40 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Trygve Bennetsen konfronterer NRK</title>
+      <description><![CDATA[Trygve Bennetsen har en høne å plukke med NRK! Vi lar han konfrontere synderen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ca9c5dba-278f-4e68-b557-2c62d740e091_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ca9c5dba-278f-4e68-b557-2c62d740e091_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:51</itunes:duration>
+      <pubDate>Thu, 10 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IHnp2_oCT5U0wax8lZNWBANf3tc_ni9vWl0Gy1n1EKtg.jpg"/>
+    </item>
     <item>
       <title>Morten Thoresen blir norsklærer</title>
       <description><![CDATA[Har Morten Thoresen fått litt for mange slag i hodet? Det mener han selv, men vi elsker alt det rare han sier i «Kompani Lauritzen»]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>50:47</itunes:duration>
       <pubDate>Fri, 28 Mar 2025 15:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dtHeuI8nZttunU3pHtC0TwAiPu2k7A9mgfPXfBaX3qfA.jpg"/>
-    </item>
-    <item>
-      <title>Henning nektet å gå med bukser</title>
-      <description><![CDATA[Vi mimrer tilbake til gamle bangers og og de tingene som ga oss mareritt som barn!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/266d913d-bb03-42cb-8bc6-2fb6702fd00d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/266d913d-bb03-42cb-8bc6-2fb6702fd00d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:56</itunes:duration>
-      <pubDate>Thu, 27 Mar 2025 12:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
     </item>
   </channel>
 </rss>
