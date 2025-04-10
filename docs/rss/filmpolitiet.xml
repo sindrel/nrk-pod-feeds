@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Apr 2025 12:56:02 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Apr 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Apr 2025 12:56:43 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Apr 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>Årets påskekrim - fra best til verst!</title>
+      <description><![CDATA[Filmpolitiets store guide til krimpåsken er her. Du får dommen over ALL påskekrimmen på norske TV-skjermer og strømmetjenester.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a334e018-5ffc-4335-97a5-af3677afacb1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a334e018-5ffc-4335-97a5-af3677afacb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:25</itunes:duration>
+      <pubDate>Thu, 10 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1p3SChtdVjvcXbxbGMdVSA0cI5DD5gP3i4wWN9xLXYMQ.jpg"/>
+    </item>
     <item>
       <title>Bosch: Legacy: TV-rutas tøffeste krimhelt</title>
       <description><![CDATA[Ti år med storbykrim fra Los Angeles er over! Sigurd triller terningkast 5 til den siste sesongen av «Bosch».]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>25:44</itunes:duration>
       <pubDate>Thu, 06 Feb 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OKpcFoepDt9YGBPshGnDxAPTxUlO7LcdquKZ3YIyunpg.jpg"/>
-    </item>
-    <item>
-      <title>Emilia Pérez: Aldri sett noe lignende</title>
-      <description><![CDATA[Med 13 Oscar-nominasjoner kan det tyde på at «Emelia Pérez» er en helt spesiell film, men er den en innertier?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/b194202f-4476-422c-8502-1dc5c61b2c30_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/b194202f-4476-422c-8502-1dc5c61b2c30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:32</itunes:duration>
-      <pubDate>Thu, 30 Jan 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/46QPvba8mhDOE9joqIOXHgKb9bJc1zeFs64zSXnthO0w.jpg"/>
     </item>
   </channel>
 </rss>
