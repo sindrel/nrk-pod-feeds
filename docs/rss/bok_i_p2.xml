@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Apr 2025 04:34:30 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Apr 2025 04:36:42 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>En verden uten menn</title>
+      <description><![CDATA[Maren Uthaug utforsker livet i en verden der menn kun er sexobjekter og avlsdyr.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/cae92670-1bb8-4a87-bd75-f6b7ac78a700_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/cae92670-1bb8-4a87-bd75-f6b7ac78a700_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:31</itunes:duration>
+      <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sheZvJj6D1YuUtvdoKln_AN94BnH-nkHbhJfwi7rHNEQ.jpg"/>
+    </item>
     <item>
       <title>Å våge å bli hørt</title>
       <description><![CDATA[Erik Eikehaug pusher romankarakterene sine til å være modigere enn ham selv.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:35</itunes:duration>
       <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pzQ6T0FOrpZiP_Fz0oCBAgYc-sM03ujfbM4K7IgbOIlA.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Karl Ove Knausgård</title>
-      <description><![CDATA[«Arendal» er nominert til Lytternes romanpris. Karl Ove Knausgård forteller i samtale med Drivkraft-programleder Vegard Larsen om barndomsminner fra byen i minus tjue.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/21a3c6d6-e4e1-41c6-bd8f-345695886488_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/21a3c6d6-e4e1-41c6-bd8f-345695886488_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nVh0nSTBapZ2O7J92HrWmAEi5bGVzDuBFYC-Jf1Tyo_A.jpg"/>
     </item>
   </channel>
 </rss>

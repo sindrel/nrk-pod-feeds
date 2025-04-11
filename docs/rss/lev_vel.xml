@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Apr 2025 04:35:23 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Apr 2025 04:36:50 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Fem tips til å huske ting</title>
+      <description><![CDATA[Sliter du med å huske ting du har lært? Linnéa gir deg fem tips til hvordan du kan huske alt du ikke vil glemme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/0df6cfb8-d969-424f-96f0-89e6c2ec5cf8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0df6cfb8-d969-424f-96f0-89e6c2ec5cf8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:10</itunes:duration>
+      <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
+    </item>
     <item>
       <title>Lurer pulsklokka deg?</title>
       <description><![CDATA[Når er stress farlig? Og kan man bruke stress til sin fordel? Stressforsker Henrik Børsting Jacobsen svarer Linnéa Myhre.]]></description>
@@ -38,15 +47,6 @@
       <itunes:duration>06:51</itunes:duration>
       <pubDate>Wed, 02 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
-    </item>
-    <item>
-      <title>Ny podkast 2. april</title>
-      <description><![CDATA[Har du også gått deg vill i jungelen av helse- og livsstilsråd? Bli med Linnéa Myhre og finn veien med kunnskapsrike gjester.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/f7f540da-9382-4594-831d-f579e177c4ad_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/f7f540da-9382-4594-831d-f579e177c4ad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:41</itunes:duration>
-      <pubDate>Wed, 26 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
 </rss>
