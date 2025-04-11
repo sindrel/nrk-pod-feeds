@@ -199,7 +199,7 @@ const feeds = [
     "id": "ding_dong_du_er_doed",
     "title": "De 10 siste fra Ding-dong, du er død!",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "dlla_ja_dalloj",
@@ -303,7 +303,7 @@ const feeds = [
     "id": "fantus_og_lydene",
     "title": "De 10 siste fra Fantus og lydene",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "feriestemning",

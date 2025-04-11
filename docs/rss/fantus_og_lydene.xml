@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 6 episodene fra podkasten Fantus og lydene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantus_og_lydene for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Dec 2024 05:33:48 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Dec 2024 06:06:00 +0100</pubDate>
+    <lastBuildDate>Fri, 11 Apr 2025 06:41:41 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Apr 2025 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    <item>
+      <title>Jungelen</title>
+      <description><![CDATA[Kan du brøle like høyt som en løve? Eller trampe like hardt som en elefant?  Fantus drar til jungelen, bli med du også!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantus_og_lydene/39126837-20dd-4b5f-9e54-fbdf096dfc30_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/39126837-20dd-4b5f-9e54-fbdf096dfc30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:21</itunes:duration>
+      <pubDate>Fri, 11 Apr 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    </item>
     <item>
       <title>Fjøset</title>
       <description><![CDATA[Hører du forskjell på en sau og et lam? Og hva sier ei stor ku? Fantus besøker fjøset.]]></description>
@@ -55,15 +64,6 @@
       <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/e8355c3b-dd2f-427d-b0fa-bef559277a41_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>09:44</itunes:duration>
       <pubDate>Fri, 13 Dec 2024 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
-    </item>
-    <item>
-      <title>Ny podkast: Fantus og lydene</title>
-      <description><![CDATA[Bli med Fantus og lek med alle de rare lydene som finnes i fjøset, barnehagen, skogen, på badet, og bussholdeplassen. En smakebit av ny podkast for de aller, aller minste i NRK Radio.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantus_og_lydene/33fc184e-d357-478b-8604-5bae8dc78f5c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/33fc184e-d357-478b-8604-5bae8dc78f5c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:12</itunes:duration>
-      <pubDate>Fri, 06 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
     </item>
   </channel>
