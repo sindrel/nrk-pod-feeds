@@ -876,6 +876,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "musikk_fra_nrk_super",
+    "title": "De 10 siste fra Musikk fra NRK Super",
+    "season": "LATEST_SEASON",
+    "enabled": true
+  },
+  {
     "id": "musikkrommet",
     "title": "De 10 siste fra Musikkrommet",
     "season": null,
