@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Apr 2025 04:35:30 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Apr 2025 04:35:11 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
+    <item>
+      <title>Hilde Skaar</title>
+      <description><![CDATA[13. kandidat på audition er popstjerne og dialektikon, Hilde Skaar!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/3993cb0b-3999-4164-a00f-4ba742290505_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/3993cb0b-3999-4164-a00f-4ba742290505_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:23</itunes:duration>
+      <pubDate>Mon, 14 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lz5hlWukPUXzB4JnWJHa6wrj8Kr6aFxoU56yItWe7g4A.jpg"/>
+    </item>
     <item>
       <title>Steinar Sagen</title>
       <description><![CDATA[Tatoveringer vi angrer på, pantemillionærer og en Steinar-avstemning. Ta godt imot den 12. kandidat!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>38:13</itunes:duration>
       <pubDate>Mon, 10 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3LFkCyJKyWGyR7Z6T7AzpAkRxxeONuKEvqHT4ajlLcqQ.jpg"/>
-    </item>
-    <item>
-      <title>Nora Svenningsen</title>
-      <description><![CDATA[Tredje kandidat! Det blir kaklemaraton når Nora Svenningsen og Adelina gjennomfører audition!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/198028da-191d-4da7-bbde-caffc1313774_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/paa_audition/198028da-191d-4da7-bbde-caffc1313774_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:12</itunes:duration>
-      <pubDate>Mon, 03 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/q7QZPqUwRmtTStnLOinYgAIfFQLFVmkMncuBqiCtF4aw.jpg"/>
     </item>
   </channel>
 </rss>
