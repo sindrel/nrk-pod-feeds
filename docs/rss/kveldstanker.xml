@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Apr 2025 04:35:00 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Apr 2025 04:35:39 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Hei - med Felix Baldauf</title>
+      <description><![CDATA[Har vi slutta å hilse på fremmede? undrer bryteren Felix Baldauf]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e256964e-c9a5-424f-ae80-45b81816e758_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e256964e-c9a5-424f-ae80-45b81816e758_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:09</itunes:duration>
+      <pubDate>Tue, 15 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N1rX01BJsmA3TJiWE1xnIAoJfg3LjWrn27_CZadxA4Dg.jpg"/>
+    </item>
     <item>
       <title>Robot - med Elin Sofye Rabbevåg</title>
       <description><![CDATA[Perfekt, eller ekte? Musiker Elin Sofye Rabbevåg er ikke i tvil om hva hun ønsker seg i musikken.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:43</itunes:duration>
       <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ha8Oozr6v3a7Nn91JlrEsg4Xuhz6dIErnylNQUU45Q8w.jpg"/>
-    </item>
-    <item>
-      <title>Tro på meg - med Noman Mubashir</title>
-      <description><![CDATA[At noen tror på deg kan bety alt når du er barn, forteller forfatter Noman Mubashir]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a83be9f3-75b6-45ba-bd52-b6cd4e575c9a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a83be9f3-75b6-45ba-bd52-b6cd4e575c9a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:59</itunes:duration>
-      <pubDate>Mon, 17 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FbPbQQYmB0Pmd5I4_EHSlwTbNENU4xZ7XNOtUdGSjr4g.jpg"/>
     </item>
   </channel>
 </rss>
