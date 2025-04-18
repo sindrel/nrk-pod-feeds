@@ -813,7 +813,9 @@ const feeds = [
     "id": "mias_gym",
     "title": "De 10 siste fra Mias gym",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "millionaerhjerne",
