@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-04-18  
+- Podcast 'Mias gym' is considered obsolete and will be ignored in the future (`mias_gym`)  
 ### 2025-04-12  
 - Added podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
 ### 2025-04-11  
