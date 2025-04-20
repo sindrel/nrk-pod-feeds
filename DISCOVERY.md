@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-04-20  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-04-18  
 - Podcast 'Mias gym' is considered obsolete and will be ignored in the future (`mias_gym`)  
 ### 2025-04-12  
