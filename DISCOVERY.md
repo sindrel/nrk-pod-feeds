@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-04-21  
+- Updated podcast 'Bibelen' (`bibelen`)  
 ### 2025-04-20  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-04-18  
