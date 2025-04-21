@@ -79,7 +79,7 @@ const feeds = [
     "id": "bibelen",
     "title": "De 10 siste fra Bibelen",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "billis_og_bollos",
