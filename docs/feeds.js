@@ -423,7 +423,7 @@ const feeds = [
     "id": "haevvi",
     "title": "De 10 siste fra Hævvi",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hei_nabo",

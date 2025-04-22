@@ -6,12 +6,21 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hævvi. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/haevvi for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Jan 2025 05:30:13 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jan 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 22 Apr 2025 06:42:02 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
+    <item>
+      <title>Maajja-Krihke Bransfjell - vælnjoevoete</title>
+      <description><![CDATA[Maajja-Krihke Bransfjell voestes guessie Hævvisne. Jonna jïh Maajja-Krihke vælnjoevoeten jïh gïeriesvoeten bijre soptsetien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/e82ed956-3974-4653-a55a-e8f302430391_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/haevvi/e82ed956-3974-4653-a55a-e8f302430391_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:16</itunes:duration>
+      <pubDate>Tue, 22 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/19eNg1tCVDfp2bxu2KyTxgihqWZiAXj4ezcTs9Ydsm9Q.jpg"/>
+    </item>
     <item>
       <title>Hævvi gïeleteknologijekonferansesne (LIVE)</title>
       <description><![CDATA[Hævvi åssjalommine saemien KI:n bïjre stååkede jïh akten biejjien maehtedh ræhpaslaakan sov «dejting»-jieleden bïjre dïsse soptsestidh.]]></description>
@@ -92,15 +101,6 @@
       <enclosure url="https://podkast.nrk.no/fil/haevvi/034349b7-7023-45e4-8967-9e3120d27070_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:46</itunes:duration>
       <pubDate>Tue, 19 Nov 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
-    </item>
-    <item>
-      <title>«Lapp» jïh «papp»?</title>
-      <description><![CDATA[Nellyn lea filmeraerie, Jonna Staaloe-baalhkam vadta jïh ektesne dah guaktah orre nommem laedtide hæhtadægan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/haevvi/199a6f83-f290-41b5-a6e7-c9e20c9b9afb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/haevvi/199a6f83-f290-41b5-a6e7-c9e20c9b9afb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:37</itunes:duration>
-      <pubDate>Tue, 12 Nov 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ.jpg"/>
     </item>
   </channel>
