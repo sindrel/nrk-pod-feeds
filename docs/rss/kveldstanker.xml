@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Apr 2025 04:35:39 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Apr 2025 04:36:31 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Flybilletten - med Daniel Getaneh Hatland</title>
+      <description><![CDATA[I et fotoalbum har Daniel Getaneh Hatland tatt vare på det mest verdifulle han eier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/ce153f7e-e58e-4385-a47d-fd8d53d8f868_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ce153f7e-e58e-4385-a47d-fd8d53d8f868_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:49</itunes:duration>
+      <pubDate>Tue, 22 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Pxdg6y6oRkZ5KD3ed3RTlw49iVIm62EO-GM6byg7n8bQ.jpg"/>
+    </item>
     <item>
       <title>Hei - med Felix Baldauf</title>
       <description><![CDATA[Har vi slutta å hilse på fremmede? undrer bryteren Felix Baldauf]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:10</itunes:duration>
       <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
-    </item>
-    <item>
-      <title>Snø - med Francine Mbanza Jensen</title>
-      <description><![CDATA[Hvordan smaker en drøm? spør Francine Mbanza Jensen. Hun har en som smaker snøfnugg. Francine leder selskapet Unity Spark.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/bf6f5c09-af0c-4d77-bddd-6eec57f160c7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bf6f5c09-af0c-4d77-bddd-6eec57f160c7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:43</itunes:duration>
-      <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ha8Oozr6v3a7Nn91JlrEsg4Xuhz6dIErnylNQUU45Q8w.jpg"/>
     </item>
   </channel>
 </rss>
