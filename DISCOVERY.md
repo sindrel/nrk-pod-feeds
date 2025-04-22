@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-04-22  
+- Updated podcast 'Hævvi' (`haevvi`)  
 ### 2025-04-21  
 - Updated podcast 'Bibelen' (`bibelen`)  
 ### 2025-04-20  
