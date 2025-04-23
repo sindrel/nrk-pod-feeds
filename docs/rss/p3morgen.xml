@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Apr 2025 11:28:33 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Apr 2025 13:15:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Apr 2025 09:32:51 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Apr 2025 10:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Jonas dro alene på restaurant</title>
+      <description><![CDATA[Vi diskuterer hvilke aktiviteter som kan gjøres alene og Arin har oppdaget en ny form for terapi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/61950b37-fadd-4bf6-a3f7-bf2ceaee7fc2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/61950b37-fadd-4bf6-a3f7-bf2ceaee7fc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:00</itunes:duration>
+      <pubDate>Wed, 23 Apr 2025 10:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
+    </item>
     <item>
       <title>Arin må snakke litt om Paven!</title>
       <description><![CDATA[Arin trenger en debrief etter nyheten om at Pave Frans er død, mens Jonas er fullstendig oppslukt i en ny låt!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>55:31</itunes:duration>
       <pubDate>Mon, 07 Apr 2025 15:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0yaS7koeFGgvo_nxQ5tg0A7oUjHMDL14x3B3KeYHKyGA.jpg"/>
-    </item>
-    <item>
-      <title>Feilhørte sangtekster</title>
-      <description><![CDATA[I dag bruker vi god tid på å meske oss i feilhørte sangtekster. Hva sier egentlig Sondre Justad, og hvorfor synger Imagine Dragons dette?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e32e7087-7fb6-466a-a210-0b83e3402659_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e32e7087-7fb6-466a-a210-0b83e3402659_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:32</itunes:duration>
-      <pubDate>Fri, 04 Apr 2025 12:52:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
     </item>
   </channel>
 </rss>
