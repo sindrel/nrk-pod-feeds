@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 16 Apr 2025 04:35:37 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Apr 2025 04:36:37 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Saladin - seirende sultan</title>
+      <description><![CDATA[Den muslimske verdens mektigste leder sto imot korsfarerne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/4ff538c7-3000-4ccc-b842-5071d9384437_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/4ff538c7-3000-4ccc-b842-5071d9384437_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Wed, 23 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hufpWPak01cKxyBevtEU-gHPVBRl6bCkhqnWt_o_MLHA.jpg"/>
+    </item>
     <item>
       <title>Anne Frank – krigens vitne</title>
       <description><![CDATA[Anne Frank ble forfulgt av nazistene fordi hun var jøde. Hun skrev dagbok mens hun levde i skjul under andre verdenskrig.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:43</itunes:duration>
       <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y_j2Ht5YYOlmwuZQw9DwqQE-pYyFcgLz0pEJYcaC3qlw.jpg"/>
-    </item>
-    <item>
-      <title>Katarina av Medici – blodtørstig enkedronning</title>
-      <description><![CDATA[Den sorte dronningen bestilte drap på sine verste fiender]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d99f8825-eb87-476e-ba90-a031d5c2a39e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d99f8825-eb87-476e-ba90-a031d5c2a39e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:27</itunes:duration>
-      <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QRnusIhcAFI6T8dassFbxQim03ZSak6_72yqWQkERcjQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -1,70 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Leseklubben</title>
+    <title>De 2 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Apr 2025 04:35:22 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Apr 2025 06:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Apr 2025 04:36:42 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Apr 2025 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
     <item>
-      <title>Dag Solstads beste bok (1:6)</title>
-      <description><![CDATA[– Han er ikke akkurat en rev på å sette punktum, sier Atle Antonsen når Leseklubben går løs på 90-tallets beste roman. Etter denne episoden kan du lese til s. 41 eller høre lydboka del 1, 2 og 3.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/073d7aa7-0211-4a33-b7e7-3563aefe489c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/073d7aa7-0211-4a33-b7e7-3563aefe489c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:04</itunes:duration>
-      <pubDate>Wed, 05 Mar 2025 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
+      <title>Stolthet og fordom (Kap. 1-3)</title>
+      <description><![CDATA[Lydboka er lest av Bodil Vidnes-Kopperud. Når du har hørt kapittel en til seks, kan du høre Leseklubben episode to.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/cff4dcf9-a3ba-4834-8641-bbb7f160950c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/cff4dcf9-a3ba-4834-8641-bbb7f160950c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:37</itunes:duration>
+      <pubDate>Wed, 23 Apr 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6lP5xjZ8VFtXSC44If23ygO5t_gMzbU-hsyi4GieG-VQ.jpg"/>
     </item>
     <item>
-      <title>Bananas med paraplyer (2:6)</title>
-      <description><![CDATA[Hovedpersonen Elias Rukla går bananas med paraply i boka. Nå vil Atle og Christine gjøre det samme. Etter denne episoden kan du lese fra s. 41 til 66 eller høre lydboka del 4, 5 og 6.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2d2a36da-8424-4f8f-b7e1-2b36c7139773_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2d2a36da-8424-4f8f-b7e1-2b36c7139773_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:16</itunes:duration>
-      <pubDate>Wed, 12 Mar 2025 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
-    </item>
-    <item>
-      <title>Dag Solstad er død (3:6)</title>
-      <description><![CDATA[Mens Leseklubben er midt i boken hans får de den triste nyheten: Dag Solstad er død. Etter denne episoden kan du lese fra s. 66 til 91 eller høre lydboka del 7, 8 og 9.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/47746ce2-a92b-4c3e-aac3-0825b766d4a2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/47746ce2-a92b-4c3e-aac3-0825b766d4a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:47</itunes:duration>
-      <pubDate>Wed, 19 Mar 2025 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
-    </item>
-    <item>
-      <title>Mysteriet Eva Linde (4:6)</title>
-      <description><![CDATA[Atle Antonsen mener «ubeskrivelig vakre» Eva Linde minner om Maria Bonnevie, mens Kristoffer er helt hengt opp i Kant og Marx.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5b5e1418-1910-4319-947d-5460b657d3d5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5b5e1418-1910-4319-947d-5460b657d3d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:06</itunes:duration>
-      <pubDate>Wed, 26 Mar 2025 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
-    </item>
-    <item>
-      <title>Klubbrekrutt, ikke gi opp! (5:6)</title>
-      <description><![CDATA[– Det er lov å gi seg, men er det virkelig den personen du vil være? spør Kristoffer i kamptale til lytter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6b3f57cc-a771-4977-920e-c08c7dbfd791_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6b3f57cc-a771-4977-920e-c08c7dbfd791_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:34</itunes:duration>
-      <pubDate>Wed, 02 Apr 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
-    </item>
-    <item>
-      <title>– Føkk deg, Elias!</title>
-      <description><![CDATA[Det har vært mye manneprat i boka. Men Christine har et hemmelig våpen: Jenny Skavlan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/c40fc256-473f-4a1c-bb20-e1e4cecb710d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/c40fc256-473f-4a1c-bb20-e1e4cecb710d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:46</itunes:duration>
-      <pubDate>Wed, 09 Apr 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfFUWwx3J73jqXONOUa27QLEO8Wn4Hvg6tto1DrvxonA.jpg"/>
+      <title>Stolthet og fordom (Kap. 4-6)</title>
+      <description><![CDATA[Lydboka er lest av Bodil Vidnes-Kopperud. Når du har hørt kapittel en til seks, kan du høre Leseklubben episode to.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/80fae900-91ae-4a36-b76a-fdce8403e3c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/80fae900-91ae-4a36-b76a-fdce8403e3c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:19</itunes:duration>
+      <pubDate>Wed, 23 Apr 2025 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6lP5xjZ8VFtXSC44If23ygO5t_gMzbU-hsyi4GieG-VQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Apr 2025 04:36:31 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Apr 2025 04:36:41 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Evnerik - med Janne Rønningen</title>
+      <description><![CDATA[Kan jeg ha vært et evnerikt barn? undret komiker Janne Rønningen på, etter et møte med eksperter i barnepsykologi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/280bb084-feba-4355-a2c4-98ddf2557175_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/280bb084-feba-4355-a2c4-98ddf2557175_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:42</itunes:duration>
+      <pubDate>Wed, 23 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qd4mSgc2z6LG-L2ezTW_lQxIh0lJw4him8QhDO9U2-Hw.jpg"/>
+    </item>
     <item>
       <title>Flybilletten - med Daniel Getaneh Hatland</title>
       <description><![CDATA[I et fotoalbum har Daniel Getaneh Hatland tatt vare på det mest verdifulle han eier.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>04:00</itunes:duration>
       <pubDate>Mon, 24 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZzEZdgqTenfj1A9tBh5UlAo_s5j1TwrJsJVIMeMYKkDg.jpg"/>
-    </item>
-    <item>
-      <title>Tidløs teori- med Elin Sofye Rabbevåg</title>
-      <description><![CDATA[Nøysomhet er et kjedelig ord, men det er egentlig ganske kult, syns musiker og terapeut Elin Sofye Rabbevåg]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a406d3b4-9afa-40ac-a2b3-b9fe251238fe_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a406d3b4-9afa-40ac-a2b3-b9fe251238fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:10</itunes:duration>
-      <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
     </item>
   </channel>
 </rss>
