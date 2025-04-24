@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Apr 2025 04:36:38 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Apr 2025 04:36:28 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
+    <item>
+      <title>Beiler med beret</title>
+      <description><![CDATA[Anne har fått en hilsen fra fortiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/5ff54dcb-e6ac-49bd-81fe-e4d3164c5314_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/5ff54dcb-e6ac-49bd-81fe-e4d3164c5314_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:47</itunes:duration>
+      <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
+    </item>
     <item>
       <title>Skrukkete orakel</title>
       <description><![CDATA[Om folkehøgskoler, hovne morratryner og påsketradisjoner.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/3772d129-b1cc-43f5-b0af-1e7de744a6c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:18</itunes:duration>
       <pubDate>Thu, 20 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
-    </item>
-    <item>
-      <title>Tissetut</title>
-      <description><![CDATA[Om penismisunnelse, flyskrekk og billige bårebuketter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/b45cc478-111a-4241-9294-0f0e68d74b68_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/b45cc478-111a-4241-9294-0f0e68d74b68_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:33</itunes:duration>
-      <pubDate>Thu, 13 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/I4Uv3iiFYbFfDZ7RbE8HAABooo-ITxncU6Tbq26l315g.jpg"/>
     </item>
   </channel>
