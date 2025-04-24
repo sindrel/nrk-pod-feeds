@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Apr 2025 12:57:37 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Apr 2025 14:07:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Apr 2025 12:57:53 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Apr 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Carina Dahl</title>
+      <description><![CDATA[- Å være "best på fest" handler ikke om å drikke mest, sier musikeren, som har vunnet Spellemann i kategorien "festmusikk".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d65c82a6-8dc2-46b4-95e2-cc0ef6509841_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d65c82a6-8dc2-46b4-95e2-cc0ef6509841_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Thu, 24 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GssIOay_2gpQAIBo9iY7YArJyEa7Ao-GnAWXIs5ISBRQ.jpg"/>
+    </item>
     <item>
       <title>William Heimdal</title>
       <description><![CDATA[- Jeg har døgnrytmen til en vampyr, sier den selvlærte kunstmaleren William Heimdal.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:45</itunes:duration>
       <pubDate>Thu, 27 Mar 2025 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mL-IwnuKLzD-LKsFsyDrLg_wFAof6ssODx9OBGDhmQbw.jpg"/>
-    </item>
-    <item>
-      <title>Ezinne Okparaebo</title>
-      <description><![CDATA[- Festing på Ammerudklubben kunne blitt slutten på idrettskarrieren, sier Ezinne Okparaebo, norgesmester i sprint.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d34d1032-1f58-4cdd-ab8b-dbcca9e2d886_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d34d1032-1f58-4cdd-ab8b-dbcca9e2d886_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:14</itunes:duration>
-      <pubDate>Wed, 26 Mar 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mOTfr0NoZM6j187NLF6D9AjW572iuGmgdTmcn2esG08A.jpg"/>
     </item>
   </channel>
 </rss>
