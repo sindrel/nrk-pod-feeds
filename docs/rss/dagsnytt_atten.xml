@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Apr 2025 17:30:16 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Apr 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Apr 2025 17:30:44 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Apr 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>USA og Russland møttes for fredsforhandlinger</title>
+      <description><![CDATA[USAs spesialutsending Steve Witkoff møtte Russlands president Vladimir Putin på fredag for fredsforhandlinger om Ukraina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/be3dc3b1-701d-4db6-8b95-42a1f5a5dfcc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/be3dc3b1-701d-4db6-8b95-42a1f5a5dfcc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 25 Apr 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_INYNnrUNEmDdyEAyy-LugRZWL5jIjPAoy1f6tWjhP_Q.jpg"/>
+    </item>
     <item>
       <title>Støre og Stoltenberg møter Trump</title>
       <description><![CDATA[Tema for møte i Det ovale kontor i dag er toll og sikkerhetspolitikk.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 08 Apr 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/opGhgQWOJwY0mUYDcSbtvA7tOZWy2tVRJpeqUo_oC_uw.jpg"/>
-    </item>
-    <item>
-      <title>EU-lederen: – Norge vil alltid være på innsiden</title>
-      <description><![CDATA[Statsministeren møtte Ursula van der Leyen i Brussel i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7385c9e5-0972-4cf2-8b34-1e0dd70269c0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7385c9e5-0972-4cf2-8b34-1e0dd70269c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 07 Apr 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y0kLiwp0hFqDm_VLPBhysQKwZj80iR2ENe2lKXP2iz-w.jpg"/>
     </item>
   </channel>
 </rss>
