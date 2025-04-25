@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Apr 2025 04:36:42 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Apr 2025 08:39:02 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>– Hver roman blir min siste!</title>
+      <description><![CDATA[Det er nemlig ikke ufarlig å skrive. Sara Stridsberg, en Nordens største forfattere, ble lam fra nakken og ned etter bok om partert kvinne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/73d03714-76d7-42ca-8b7f-90475bec2bc1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/73d03714-76d7-42ca-8b7f-90475bec2bc1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:29</itunes:duration>
+      <pubDate>Fri, 25 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/d29iiW_CZyjmetokieBP2QXP5-9xACz_MqL5iXBry_yQ.jpg"/>
+    </item>
     <item>
       <title>En verden uten menn</title>
       <description><![CDATA[Maren Uthaug utforsker livet i en verden der menn kun er sexobjekter og avlsdyr.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Thu, 20 Feb 2025 15:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mCqnCqHtIlrIaIV0aluxhQ6F8_kK4kDWnoegV9bPnzug.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Kyrre Andreassen</title>
-      <description><![CDATA[«Ikke mennesker jeg kan regne med» er nominert til Lytternes romanpris. Forfatter Kyrre Andreassen har toppet utlånslistene på norske biblioteker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/02c72abd-2082-4d3d-ba89-79df135f0c5c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/02c72abd-2082-4d3d-ba89-79df135f0c5c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:35</itunes:duration>
-      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pzQ6T0FOrpZiP_Fz0oCBAgYc-sM03ujfbM4K7IgbOIlA.jpg"/>
     </item>
   </channel>
 </rss>
