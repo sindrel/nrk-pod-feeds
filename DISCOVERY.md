@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-04-26  
+- Added podcast 'Kaffipraatti' (`kaffipraati`)  
 ### 2025-04-22  
 - Updated podcast 'Hævvi' (`haevvi`)  
 ### 2025-04-21  
