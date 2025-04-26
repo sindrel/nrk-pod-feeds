@@ -534,6 +534,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "kaffipraati",
+    "title": "De 10 siste fra Kaffipraatti",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "karakter",
     "title": "De 10 siste fra Dynga",
     "season": null,
