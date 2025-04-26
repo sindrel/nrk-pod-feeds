@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Kaffipraatti</title>
+    <title>De 7 siste fra Kaffipraatti</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Kaffipraatti. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kaffipraati for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Kaffipraatti. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kaffipraati for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 26 Apr 2025 03:08:02 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Apr 2025 09:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 26 Apr 2025 04:35:42 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Apr 2025 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3UWYhbqDOi-NuTyFWhae_QkSrB-ceQLSg_0eONVeSwNg.jpg"/>
     <item>
@@ -20,6 +20,60 @@
       <itunes:duration>00:42</itunes:duration>
       <pubDate>Fri, 25 Apr 2025 09:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3UWYhbqDOi-NuTyFWhae_QkSrB-ceQLSg_0eONVeSwNg.jpg"/>
+    </item>
+    <item>
+      <title>Må ikke tildekkes</title>
+      <description><![CDATA[«Ei saa peittää» – eller «må ikke tildekkes», er noe mange har lest på ovnen på do. Katriina Pedersen forklarer hvorfor det betyr noe mer for kvenene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kaffipraati/10d6b762-a149-4869-9579-486809a365ea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/10d6b762-a149-4869-9579-486809a365ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:26</itunes:duration>
+      <pubDate>Sat, 26 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eFowVcHBNOSHwZCwlaFiFwNdvBs1ajy_-MG8KqDuvGww.jpg"/>
+    </item>
+    <item>
+      <title>Badstudampens hemmeligheter</title>
+      <description><![CDATA[«Löyly» er dampen fra badstueovnen når du kaster vann på den. Noora Marie Ollila Sandmo forklarer hvorfor det er så viktig i kvensk kultur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kaffipraati/b802142a-3d01-4035-a2c1-9437cea20f63_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/b802142a-3d01-4035-a2c1-9437cea20f63_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:50</itunes:duration>
+      <pubDate>Sat, 26 Apr 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bpZiBsxlY4II4YyBYTcQ9wSxywlsI5XeCQQ8SiXNImdA.jpg"/>
+    </item>
+    <item>
+      <title>Vil du ha ost i kaffen?</title>
+      <description><![CDATA[Nå er det «trendy» å spise protein, særlig når du trener. Men Anna-Kaisa Räisänen kan fortelle at kvenene begynte med dette for flere hundre år siden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kaffipraati/ffb85ada-9207-4df3-b0c5-bad98fabd8e7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/ffb85ada-9207-4df3-b0c5-bad98fabd8e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:47</itunes:duration>
+      <pubDate>Sat, 26 Apr 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T4Xyaf_Jvjg6wjUF9wPT1wJUn4vQ_wTvl6v4345ZFMnQ.jpg"/>
+    </item>
+    <item>
+      <title>Finn din indre kven</title>
+      <description><![CDATA[«Sisu» beskriver kvener og finners indre utholdenhet og viljestyrke. Men er det bare de som har det? Vi spør Nils-Einar Ørnebakk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kaffipraati/e63f0732-1b06-416a-abb9-d5005ce0519b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/e63f0732-1b06-416a-abb9-d5005ce0519b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:49</itunes:duration>
+      <pubDate>Sat, 26 Apr 2025 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K3AsYsMjzPsMKuDlPr3jngkmtmab7oVmGYkl4k5oik9w.jpg"/>
+    </item>
+    <item>
+      <title>Hjertespråk</title>
+      <description><![CDATA[Kan et språk åpne hjertet til følelser som vi ikke klarer å forklare på annet vis? Merethe Eidstø forteller om hva hjertespråket har gjort for henne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kaffipraati/b72aa280-9cca-4d65-a6e9-696ad1ec377a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/b72aa280-9cca-4d65-a6e9-696ad1ec377a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:19</itunes:duration>
+      <pubDate>Sat, 26 Apr 2025 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Pbr7Fax8nARO81q15vHWjAPokiLyJRh5df7LzWWn1xNQ.jpg"/>
+    </item>
+    <item>
+      <title>Den kvenske våren</title>
+      <description><![CDATA[De siste årene har kvensk språk og kultur blomstret som et vakkert landskap etter vinteren. Men Aili Eriksen synes våren har vært lang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kaffipraati/6f027335-86c4-4387-932d-159d13496be9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/6f027335-86c4-4387-932d-159d13496be9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:18</itunes:duration>
+      <pubDate>Sat, 26 Apr 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cdO3meOweo5v9M7CiFltsg7ETUqqcvTu8PzJChULGlOg.jpg"/>
     </item>
   </channel>
 </rss>
