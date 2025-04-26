@@ -453,7 +453,9 @@ const feeds = [
     "id": "hoera",
     "title": "De 10 siste fra Hør'a",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "hos_peder",
