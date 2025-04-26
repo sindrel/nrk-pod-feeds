@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2025-04-26  
+- Podcast 'Hør'a' is considered obsolete and will be ignored in the future (`hoera`)  
+### 2025-04-26  
 - Added podcast 'Kaffipraatti' (`kaffipraati`)  
 ### 2025-04-22  
 - Updated podcast 'Hævvi' (`haevvi`)  
