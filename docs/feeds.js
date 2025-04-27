@@ -316,7 +316,7 @@ const feeds = [
   {
     "id": "filmpolitiet",
     "title": "De 10 siste fra Filmpolitiet",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": true
   },
   {
