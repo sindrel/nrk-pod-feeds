@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-04-27  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-04-26  
 - Podcast 'Hør'a' is considered obsolete and will be ignored in the future (`hoera`)  
 ### 2025-04-26  
