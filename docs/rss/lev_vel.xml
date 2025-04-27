@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Lev vel</title>
+    <title>De 9 siste fra Lev vel</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Lev vel. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/lev_vel for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Lev vel. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/lev_vel for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Apr 2025 04:36:44 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 27 Apr 2025 04:34:24 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Koffeinpausen starter i morgen</title>
+      <description><![CDATA[En påminner om at i morgen, 28. april, starter Linnéa og Olivers koffeinpause. Bli med og lev to uker uten koffein!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/ded2efb2-932a-4efe-b938-a6d86a6fb6e0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/ded2efb2-932a-4efe-b938-a6d86a6fb6e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:52</itunes:duration>
+      <pubDate>Sun, 27 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
+    </item>
     <item>
       <title>Det alle bør vite om syklusen</title>
       <description><![CDATA[Når er det mer enn bare PMS? Og hvorfor tyr mange til godteskåla før mensen? Kvinnehelse-spesialist Guri Majak svarer.]]></description>
