@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Apr 2025 04:36:41 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Apr 2025 04:38:34 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Porten - med Solveig Johanne Grønstøl</title>
+      <description><![CDATA[Ikkje gløym at skrot for deg kan vere ein skatt for andre,  fortel forfattar Solveig Johanne Grønstøl]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e38e3c04-db89-455e-863c-cd157d45734c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e38e3c04-db89-455e-863c-cd157d45734c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:46</itunes:duration>
+      <pubDate>Mon, 28 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MFkAGpuU6xKllBoImcYQiw0MBjwueSx3sOUWfEkgH8WA.jpg"/>
+    </item>
     <item>
       <title>Evnerik - med Janne Rønningen</title>
       <description><![CDATA[Kan jeg ha vært et evnerikt barn? undret komiker Janne Rønningen på, etter et møte med eksperter i barnepsykologi.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:01</itunes:duration>
       <pubDate>Tue, 25 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/N1rX01BJsmA3TJiWE1xnIAoJfg3LjWrn27_CZadxA4Dg.jpg"/>
-    </item>
-    <item>
-      <title>Navnet mitt - med Lia Ciobanu Andresen</title>
-      <description><![CDATA[Tillit er Norges viktigste ressurs, hevder Lia Ciobanu Andresen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e9515e94-b529-4921-9e22-b69abca48818_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e9515e94-b529-4921-9e22-b69abca48818_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:00</itunes:duration>
-      <pubDate>Mon, 24 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZzEZdgqTenfj1A9tBh5UlAo_s5j1TwrJsJVIMeMYKkDg.jpg"/>
     </item>
   </channel>
 </rss>
