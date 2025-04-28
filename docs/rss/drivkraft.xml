@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Apr 2025 12:57:53 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Apr 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Apr 2025 10:18:06 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Apr 2025 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Marit Moum Aune</title>
+      <description><![CDATA[- Nasjonen trenger kultureliten, sier den påtroppende sjefen for Nationaltheateret]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f322287d-4692-40c6-9448-2a9204a65087_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f322287d-4692-40c6-9448-2a9204a65087_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:59</itunes:duration>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qAWdJYKWrNAu34LUVr3kbw7Ag7LYOeQ9yb8dldCZK2vQ.jpg"/>
+    </item>
     <item>
       <title>Carina Dahl</title>
       <description><![CDATA[- Å være "best på fest" handler ikke om å drikke mest, sier musikeren, som har vunnet Spellemann i kategorien "festmusikk".]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Mon, 31 Mar 2025 13:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5biezWikfiQZCtB6izyU1QErLYgVj9k-rdcqvwLqJqNw.jpg"/>
-    </item>
-    <item>
-      <title>Rolf Stavnem</title>
-      <description><![CDATA[- Jeg er en kommersiell fyr, sier kunsthandleren som har solgt bakte poteter på torget i Skien og sexleketøy på nett. Nå driver han galleri Fineart, som omsetter kunst for millioner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6c361ee1-534f-4c5a-901d-5e4037f57057_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6c361ee1-534f-4c5a-901d-5e4037f57057_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:45</itunes:duration>
-      <pubDate>Thu, 27 Mar 2025 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mL-IwnuKLzD-LKsFsyDrLg_wFAof6ssODx9OBGDhmQbw.jpg"/>
     </item>
   </channel>
 </rss>
