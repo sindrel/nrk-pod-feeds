@@ -1,34 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Apr 2025 04:35:34 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Apr 2025 13:10:14 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Apr 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer i NRK Radio:  Veibomben</title>
-      <description><![CDATA[To kamerater har oppfylt drømmen om å tjenestegjøre sammen i Afghanistan. Så smeller det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/fd8efe9f-ed3e-4766-8f0d-3e67b05532d9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/fd8efe9f-ed3e-4766-8f0d-3e67b05532d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30</itunes:duration>
-      <pubDate>Mon, 14 Apr 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LYgX6NiK7zfeU_ZTFRzfCQYVup3x7tYJ18vWDu2djiuA.jpg"/>
-    </item>
-    <item>
-      <title>Veibomben</title>
-      <description><![CDATA[Høsten 2007 er to norske kamerater på oppdrag i Afghanistan, da en bombe eksploderer under bilen deres. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/5d79ddcd-faaf-4568-b93d-bc25134faf1e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/5d79ddcd-faaf-4568-b93d-bc25134faf1e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:08</itunes:duration>
-      <pubDate>Tue, 15 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LYgX6NiK7zfeU_ZTFRzfCQYVup3x7tYJ18vWDu2djiuA.jpg"/>
+      <title>Kommer: Flukten fra asylet</title>
+      <description><![CDATA[Isolasjon, tvang og terror – ved Reitgjerdet sykehus lever Norges farligste psykisk syke som i en skrekkfilm. Helt til en av dem rømmer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/765bee9d-b59a-4eb1-b270-51fd18af45f2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/765bee9d-b59a-4eb1-b270-51fd18af45f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:32</itunes:duration>
+      <pubDate>Mon, 28 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ovG2h1fAmu9Wqrt4BkCMOgqxAH2yUaAAupvaFzkpJ3wg.jpg"/>
     </item>
   </channel>
 </rss>
