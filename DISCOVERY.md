@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-04-28  
+- Updated podcast 'Filmpolitiets podkast ' (`filmpolitiet`)  
 ### 2025-04-27  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-04-26  
