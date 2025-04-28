@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 25 Apr 2025 17:30:44 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Apr 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Apr 2025 17:30:49 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Apr 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Massivt strømbrudd i Sør-Europa</title>
+      <description><![CDATA[Millioner av mennesker rammet i Spania og Portugal - ekstreme temperatursvingninger skal være årsaken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f849f95b-199f-4e90-b554-caa325465b3b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f849f95b-199f-4e90-b554-caa325465b3b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 28 Apr 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GN-C-ODk5J-esOCOCVoDaQxSXjeV8cD_xmCU65sftAnQ.jpg"/>
+    </item>
     <item>
       <title>USA og Russland møttes for fredsforhandlinger</title>
       <description><![CDATA[USAs spesialutsending Steve Witkoff møtte Russlands president Vladimir Putin på fredag for fredsforhandlinger om Ukraina.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 09 Apr 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/f7uq__JLYvoGU_b-qCZoLwqzIx_SD9d3Tq0gMDovZfVw.jpg"/>
-    </item>
-    <item>
-      <title>Ny politisk meningsmåling</title>
-      <description><![CDATA[En ny meningsmåling som Norstat har utført for NRK, Dagbladet og Vårt Land presenteres tirsdag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4e140a00-4675-4848-8493-f0cd244092c2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4e140a00-4675-4848-8493-f0cd244092c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 08 Apr 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/opGhgQWOJwY0mUYDcSbtvA7tOZWy2tVRJpeqUo_oC_uw.jpg"/>
     </item>
   </channel>
 </rss>
