@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Tyrann</title>
+    <title>De 2 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Apr 2025 13:10:28 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Apr 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Apr 2025 04:35:20 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -19,6 +19,23 @@
       <enclosure url="https://podkast.nrk.no/fil/tyrann/33903da8-4b7e-4f3e-bac4-29b27c90f91e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:39</itunes:duration>
       <pubDate>Mon, 28 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA.jpg"/>
+    </item>
+    <item>
+      <title>Lenin (1:5)</title>
+      <description><![CDATA[Lille Vladimir er egentlig bare en asosial tenåringsnerd. Men når storebroren hans blir hengt, sverger gutten hevn over tsaren!
+
+Kilder:  
+'Lenin' av Kurt Jacobsen 
+'Lenin - En revolutionær fundamentalist' av Niels Erik Rosenfeldt 
+'Lenin - The Dictator' av Victor Sebestyen 
+'History's Greatest Heist - The Looting of Russia by the Bolscheviks' av Sean McMeekin 
+'Immortalization Commission - The Strange Quest to Cheat Death' afvJohn Gray 
+'Lenin Lives!' av Nina Tumarkin]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/938442fc-5dfd-4ca5-90f3-b4b93d0c3bc7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/938442fc-5dfd-4ca5-90f3-b4b93d0c3bc7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:21</itunes:duration>
+      <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA.jpg"/>
     </item>
   </channel>

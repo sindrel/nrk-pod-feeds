@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Hele historien</title>
+    <title>De 3 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Apr 2025 13:10:14 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Apr 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Apr 2025 04:34:51 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Apr 2025 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
@@ -19,6 +19,24 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/765bee9d-b59a-4eb1-b270-51fd18af45f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:32</itunes:duration>
       <pubDate>Mon, 28 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ovG2h1fAmu9Wqrt4BkCMOgqxAH2yUaAAupvaFzkpJ3wg.jpg"/>
+    </item>
+    <item>
+      <title>Fastspente pasienter (1:2)</title>
+      <description><![CDATA[Ryktene går om at livet ved asylet er et helvete. En lege reagerer og klekker ut en vill plan – sammen med en av de innlagte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/f3aee6f6-4cdb-4899-8645-4c73ec7eaae9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/f3aee6f6-4cdb-4899-8645-4c73ec7eaae9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:14</itunes:duration>
+      <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ovG2h1fAmu9Wqrt4BkCMOgqxAH2yUaAAupvaFzkpJ3wg.jpg"/>
+    </item>
+    <item>
+      <title>På rømmen (2:2)</title>
+      <description><![CDATA[Når en av de farligste pasientene rømmer, slår asylets fasade sprekker. For ut kommer også grusomme beskrivelser av ren tortur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/9bd8f643-4984-4d57-b2c8-ec9997069caf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/9bd8f643-4984-4d57-b2c8-ec9997069caf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:05</itunes:duration>
+      <pubDate>Tue, 29 Apr 2025 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ovG2h1fAmu9Wqrt4BkCMOgqxAH2yUaAAupvaFzkpJ3wg.jpg"/>
     </item>
   </channel>
