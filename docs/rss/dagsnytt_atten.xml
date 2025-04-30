@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 29 Apr 2025 17:31:51 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Apr 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Apr 2025 18:41:38 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Apr 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Eggum trekker seg</title>
+      <description><![CDATA[Jørn Eggum trekker kandidaturet sitt som LO-leder, men ønsker å fortsette som leder i Fellesforbundet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/35dd81b9-e9d9-46dd-96ca-3025d045db53_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/35dd81b9-e9d9-46dd-96ca-3025d045db53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 30 Apr 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yaOvsB8Hbs33gOKOSqw0iABvBaXJYYragvOxCTlYiZtA.jpg"/>
+    </item>
     <item>
       <title>LO-topp i hardt vær</title>
       <description><![CDATA[Kan Jørn Eggum fortsatt bli ny LO-leder etter avsløring om hemmelig forhold til tillitsvalgt på et lavere nivå?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:54</itunes:duration>
       <pubDate>Fri, 11 Apr 2025 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6qmp69c0tGxH8vxsr8R2dg-G8pdXZCYTVSFEPA4SgScQ.jpg"/>
-    </item>
-    <item>
-      <title>Klima- og miljøministeren la frem ny klimamelding</title>
-      <description><![CDATA[Regjeringen vil kutte minimum 70 prosent av utslippene innen 2035.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8a973b20-b1a3-40e3-80f5-4917bbb855b7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8a973b20-b1a3-40e3-80f5-4917bbb855b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 10 Apr 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-UXfcBP_6Mqad68MTzmvLw5Zo3DqntG38fRoUmh0QgLw.jpg"/>
     </item>
   </channel>
 </rss>
