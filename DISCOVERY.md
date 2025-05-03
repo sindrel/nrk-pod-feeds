@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-05-03  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2025-04-28  
 - Updated podcast 'Filmpolitiets podkast ' (`filmpolitiet`)  
 ### 2025-04-27  
