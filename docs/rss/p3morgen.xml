@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 May 2025 12:56:08 +0000</lastBuildDate>
-    <pubDate>Fri, 02 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 May 2025 14:37:08 +0000</lastBuildDate>
+    <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>«Stjernekamp» i podkastversjon</title>
+      <description><![CDATA[«Stjernekamp»-vinner Kim Wigaard prøver seg i ulike podkast-sjangre, og vi koser oss med ikoniske låter fra Kommune-Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4b20cabb-cf3c-41a6-ade7-7578ba1fbf8f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4b20cabb-cf3c-41a6-ade7-7578ba1fbf8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:38</itunes:duration>
+      <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gXOvdfq3GujexYhpX8hJfgtFMgG5o-WE-iQ07MXThrkg.jpg"/>
+    </item>
     <item>
       <title>Sebastian Solberg er overraska</title>
       <description><![CDATA[Singellivet har ikke blitt helt sånn som Sebastian Solberg forestilte seg. Ennå.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>41:05</itunes:duration>
       <pubDate>Wed, 16 Apr 2025 10:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NnubQ5SipEfC0pnbqWMm6w8kebd46qC6YM3OKE23s6DA.jpg"/>
-    </item>
-    <item>
-      <title>Fylla- eller brettspillpåske?</title>
-      <description><![CDATA[Hvilken type påske er best? Og hva er det Henning ikke kan få nok av?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/27c1239b-2c41-46e7-97f9-1accb30e612e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/27c1239b-2c41-46e7-97f9-1accb30e612e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:01</itunes:duration>
-      <pubDate>Tue, 15 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
     </item>
   </channel>
 </rss>
