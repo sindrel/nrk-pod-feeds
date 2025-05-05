@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 29 Apr 2025 04:34:57 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 May 2025 04:38:33 +0000</lastBuildDate>
+    <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Elvis - med Helga Samset</title>
+      <description><![CDATA[Det finnast anger ein berre må leve med, fortel forfattar Helga Samset]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/22b6bad2-ec13-4feb-9543-354b73a5ff00_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/22b6bad2-ec13-4feb-9543-354b73a5ff00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:52</itunes:duration>
+      <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6kOiuogu6Jl4fp0dJTfU5w-87QpRAE1po8ylg4xPNuLQ.jpg"/>
+    </item>
     <item>
       <title>Naboer - med Noman Mubashir</title>
       <description><![CDATA[Vær snill med naboen din, for verden er mye mindre enn du tror, forteller Noman Mubashir.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:31</itunes:duration>
       <pubDate>Tue, 01 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qd4mSgc2z6LG-L2ezTW_lQxIh0lJw4him8QhDO9U2-Hw.jpg"/>
-    </item>
-    <item>
-      <title>En kopp kaffe - med Gunn Marit Nisja</title>
-      <description><![CDATA[Gi barna kaffe og rakfisk, sier forfatter Gunn Marit Nisja. Det kan gjøre underverker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4f15eedf-f897-40eb-b00d-01f89b23368a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4f15eedf-f897-40eb-b00d-01f89b23368a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:49</itunes:duration>
-      <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>
