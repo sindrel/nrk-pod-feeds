@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 May 2025 12:58:14 +0000</lastBuildDate>
-    <pubDate>Mon, 05 May 2025 14:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 May 2025 12:59:20 +0000</lastBuildDate>
+    <pubDate>Tue, 06 May 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Rolf Løvland</title>
+      <description><![CDATA[Han har skrevet verdens mest covrede sang. Og deltatt i Melodi Grand Prix ni ganger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/04682b13-3739-440e-96e9-6e0ebc25be73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/04682b13-3739-440e-96e9-6e0ebc25be73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:41</itunes:duration>
+      <pubDate>Tue, 06 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fHdO819a7kgOGQN8g-Ln5QUejQzUi78b07KS5mIrdSmQ.jpg"/>
+    </item>
     <item>
       <title>Ida Kathrine Gravensteen</title>
       <description><![CDATA[- Jeg er en detektiv, sier rettsmedisineren, som bistår politiet i drapssaker]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>52:55</itunes:duration>
       <pubDate>Mon, 07 Apr 2025 13:52:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8xBUKzi2YoK2lw5YogjKaQKcgXpl921wl-RsLkaEI73w.jpg"/>
-    </item>
-    <item>
-      <title>Elli Rhiannon Müller Osborne</title>
-      <description><![CDATA[– Jeg lekte mye alene som barn. Nå får jeg lov til å leke foran kamera. Word! Skuespilleren fra Rekviem for Selina fikk en aha-opplevelse i studio.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ff98431e-8a28-4936-8389-d652b9d07ce0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ff98431e-8a28-4936-8389-d652b9d07ce0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:56</itunes:duration>
-      <pubDate>Thu, 03 Apr 2025 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/asKJOes2XBPSNcnHUydlUAL7OAMpquUw9WTeexKap_Rg.jpg"/>
     </item>
   </channel>
 </rss>
