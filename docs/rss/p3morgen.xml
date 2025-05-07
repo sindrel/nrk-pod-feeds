@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 May 2025 12:59:31 +0000</lastBuildDate>
-    <pubDate>Tue, 06 May 2025 14:45:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 May 2025 13:00:30 +0000</lastBuildDate>
+    <pubDate>Wed, 07 May 2025 14:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Henning har en høne å plukke</title>
+      <description><![CDATA[Henning hang seg opp i noe Arin sa til Einar Tørnquist, mens Jonas lar seg irritere av uttalelsene til en fransk innflytter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/aa71b7c3-d771-4d78-956b-504c5b387413_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/aa71b7c3-d771-4d78-956b-504c5b387413_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:59</itunes:duration>
+      <pubDate>Wed, 07 May 2025 14:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
+    </item>
     <item>
       <title>Einar Tørnquist fikk drone på kroken</title>
       <description><![CDATA[Einar Tørnquist har vært på fisketur med VGTV, og vi tester hans kunnskaper i en fiskequiz!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>47:00</itunes:duration>
       <pubDate>Wed, 23 Apr 2025 10:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
-    </item>
-    <item>
-      <title>Arin må snakke litt om Paven!</title>
-      <description><![CDATA[Arin trenger en debrief etter nyheten om at Pave Frans er død, mens Jonas er fullstendig oppslukt i en ny låt!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/beae6747-ed18-4212-92e8-29ae08937ded_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/beae6747-ed18-4212-92e8-29ae08937ded_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:15</itunes:duration>
-      <pubDate>Tue, 22 Apr 2025 13:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PhVh4bVk6tGxCmQQh0gZTQBYr3J8hvBja6TJVsCV0Fkw.jpg"/>
     </item>
   </channel>
 </rss>
