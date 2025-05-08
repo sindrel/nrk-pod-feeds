@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 May 2025 06:43:33 +0000</lastBuildDate>
-    <pubDate>Wed, 07 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 May 2025 10:38:29 +0000</lastBuildDate>
+    <pubDate>Thu, 08 May 2025 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Ti dager uten koffein</title>
+      <description><![CDATA[Linnéa forteller om hvordan helgen har gått og svarer på lytternes opplevelser i innboksen. Bare fire dager igjen...]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/2939c8d2-778c-4496-89b2-174d07df48df_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/2939c8d2-778c-4496-89b2-174d07df48df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:29</itunes:duration>
+      <pubDate>Thu, 08 May 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
+    </item>
     <item>
       <title>Hvor vanlig er kokain?</title>
       <description><![CDATA[Alt du må vite om kokain, cannabis og MDMA. Rusforsker Thomas Claussen forklarer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:01:01</itunes:duration>
       <pubDate>Wed, 16 Apr 2025 07:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Fem tips til å huske ting</title>
-      <description><![CDATA[Sliter du med å huske ting du har lært? Linnéa gir deg fem tips til hvordan du kan huske alt du ikke vil glemme.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/0df6cfb8-d969-424f-96f0-89e6c2ec5cf8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0df6cfb8-d969-424f-96f0-89e6c2ec5cf8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:10</itunes:duration>
-      <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
     </item>
   </channel>
 </rss>
