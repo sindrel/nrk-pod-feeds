@@ -315,9 +315,10 @@ const feeds = [
   },
   {
     "id": "filmpolitiet",
-    "title": "De 10 siste fra Filmpolitiets podkast ",
-    "season": "LATEST_SEASON",
-    "enabled": true
+    "title": "De 10 siste fra Filmpolitiets podkast",
+    "season": null,
+    "enabled": true,
+    "ignore": true
   },
   {
     "id": "forstaa_norge",
