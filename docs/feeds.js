@@ -199,7 +199,7 @@ const feeds = [
     "id": "ding_dong_du_er_doed",
     "title": "De 10 siste fra Ding-dong, du er død!",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "dlla_ja_dalloj",
@@ -303,7 +303,7 @@ const feeds = [
     "id": "fantus_og_lydene",
     "title": "De 10 siste fra Fantus og lydene",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "feriestemning",
@@ -890,7 +890,7 @@ const feeds = [
     "id": "musikk_fra_nrk_super",
     "title": "De 10 siste fra Musikk fra NRK Super",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "musikkrommet",
