@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2025-05-11  
+- Updated podcast 'Ding-dong, du er død!' (`ding_dong_du_er_doed`)  
+- Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
+- Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
 ### 2025-05-10  
 - Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2025-05-08  
