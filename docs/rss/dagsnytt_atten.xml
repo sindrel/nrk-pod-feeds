@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 May 2025 18:41:28 +0000</lastBuildDate>
-    <pubDate>Fri, 09 May 2025 19:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 May 2025 17:32:13 +0000</lastBuildDate>
+    <pubDate>Mon, 12 May 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vil ha tobakksfri snus</title>
+      <description><![CDATA[Flere vil ha den hvite snusen til Norge]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/88963e31-1580-4e9a-a637-1737ce910bd4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/88963e31-1580-4e9a-a637-1737ce910bd4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 12 May 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cbugFkmNgvLEpvh_6KR7OwEXIzPCuys-Dz6ggAO2-B-A.jpg"/>
+    </item>
     <item>
       <title>LO-lederen vil samle venstresiden</title>
       <description><![CDATA[Kine Asper Vistnes vil «gruse høyresiden», men er uenig med egen organisasjon om Israel-boikott.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 28 Apr 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GN-C-ODk5J-esOCOCVoDaQxSXjeV8cD_xmCU65sftAnQ.jpg"/>
-    </item>
-    <item>
-      <title>USA og Russland møttes for fredsforhandlinger</title>
-      <description><![CDATA[USAs spesialutsending Steve Witkoff møtte Russlands president Vladimir Putin på fredag for fredsforhandlinger om Ukraina.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/be3dc3b1-701d-4db6-8b95-42a1f5a5dfcc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/be3dc3b1-701d-4db6-8b95-42a1f5a5dfcc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 25 Apr 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_INYNnrUNEmDdyEAyy-LugRZWL5jIjPAoy1f6tWjhP_Q.jpg"/>
     </item>
   </channel>
 </rss>
