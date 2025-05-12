@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 May 2025 04:38:43 +0000</lastBuildDate>
-    <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 May 2025 04:39:25 +0000</lastBuildDate>
+    <pubDate>Mon, 12 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
+    <item>
+      <title>Oral Bee</title>
+      <description><![CDATA[Hvem er denne karen med solbriller og lue på? Det er kandidat nummer 17 i rekka, selveste Oral Bee!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/db3139ac-0736-43bb-8055-507571f7fd30_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/db3139ac-0736-43bb-8055-507571f7fd30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:11</itunes:duration>
+      <pubDate>Mon, 12 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MFtLbanncKKNiluSBuDgNAT5SumJkG7Uw22Zxb8GQb0g.jpg"/>
+    </item>
     <item>
       <title>Christian Mikkelsen</title>
       <description><![CDATA[Kandidat 16 er hele Norges nasjonalskatt; Christian Mikkelsen!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>41:25</itunes:duration>
       <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/UQ_jkmKo1Z3plepGRgUJ2gbhzbJerHS3dVc4MdL8Fw-w.jpg"/>
-    </item>
-    <item>
-      <title>Jon Almaas</title>
-      <description><![CDATA[Hele Norges Jon Almaas skal endelig prøve seg som programleder i podkastverdenen – og har mye på hjertet!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/db59e718-eb27-49ac-8515-da8339389195_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/paa_audition/db59e718-eb27-49ac-8515-da8339389195_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:39</itunes:duration>
-      <pubDate>Mon, 03 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3tWC1WrrXUBWws9On1KR8wq_vqksDKeARWDjfoWTDgHw.jpg"/>
     </item>
   </channel>
 </rss>
