@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 12 May 2025 13:43:34 +0000</lastBuildDate>
-    <pubDate>Mon, 12 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 May 2025 13:44:30 +0000</lastBuildDate>
+    <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Tyr fullfører Wikipedia-siden</title>
+      <description><![CDATA[Er Tyr egentlig trønder? Rapperen er ute med ny musikk, og vi hjelper ham med å fullføre Wikipedia-siden sin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/0001c942-ef85-43a9-a414-cb10eb88b433_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/0001c942-ef85-43a9-a414-cb10eb88b433_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:47</itunes:duration>
+      <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7Es_MxD0rixlImYHByAgvQ_OnPb4B6dOrjKiE3V-DGzg.jpg"/>
+    </item>
     <item>
       <title>Henning ber om røyketillatelse</title>
       <description><![CDATA[Én sigg på 17. mai må da være greit? Henning ber om dispensasjon fra Sluttaklubben.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>48:46</itunes:duration>
       <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IccCCXVBmOHjkVYv63jMDgKGXkR34YVnAWwjlCe_IDgQ.jpg"/>
-    </item>
-    <item>
-      <title>Gjør «SKAM» på svensk</title>
-      <description><![CDATA[Jakob Oftebro er aktuell i rollen som svensk forretningsmann-legende Jan Stenbeck, og vi tester svensken hans. Og dansken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d58134f6-95a6-4ba3-aa8c-43a7e8aee9f7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d58134f6-95a6-4ba3-aa8c-43a7e8aee9f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:46</itunes:duration>
-      <pubDate>Mon, 28 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/s6x-ycEC5upinkm0LqMpewaw9RXOhzoSaleFY5AnvDJw.jpg"/>
     </item>
   </channel>
 </rss>
