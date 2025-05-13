@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Tyrann</title>
+    <title>De 3 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 May 2025 04:36:38 +0000</lastBuildDate>
-    <pubDate>Tue, 06 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 May 2025 04:38:51 +0000</lastBuildDate>
+    <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -36,6 +36,15 @@ Kilder:
       <enclosure url="https://podkast.nrk.no/fil/tyrann/7d8101d7-3e54-44ea-96d5-bebede723c35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:43</itunes:duration>
       <pubDate>Tue, 06 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA.jpg"/>
+    </item>
+    <item>
+      <title>Lenin (3:5)</title>
+      <description><![CDATA[1917 er det vanvittige revolusjonsåret da Lenins og Russlands skjebner ristes sammen, og ingenting blir noensinne det samme igjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/80664c4a-0e78-4a46-8956-636dd7689a5c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/80664c4a-0e78-4a46-8956-636dd7689a5c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:06</itunes:duration>
+      <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 12 May 2025 04:39:13 +0000</lastBuildDate>
-    <pubDate>Mon, 12 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 May 2025 04:38:37 +0000</lastBuildDate>
+    <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Løgn - med Janne Rønningen</title>
+      <description><![CDATA[Kan man lære noe av løgner man forteller som barn? undrer komiker Janne Rønningen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/94ec0dd4-98f5-45e6-82ef-6f070c0d2a62_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/94ec0dd4-98f5-45e6-82ef-6f070c0d2a62_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:40</itunes:duration>
+      <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qd4mSgc2z6LG-L2ezTW_lQxIh0lJw4him8QhDO9U2-Hw.jpg"/>
+    </item>
     <item>
       <title>Fattig - med Lia Ciobanu Andresen</title>
       <description><![CDATA[Fattigdom kan forme liv, men den bestemmer ikke hvem du er, sier Lia Ciobanu Andresen fra Moldova.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:42</itunes:duration>
       <pubDate>Tue, 08 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jdvOTQMc_GhcCT1cyw9-QAUDz1j2i98enJ9kyAmr45WQ.jpg"/>
-    </item>
-    <item>
-      <title>Vår - med Solveig Johanne Grønstøl</title>
-      <description><![CDATA[Kan ein eigentleg gle seg for tidleg til våren? undrar forfattar Solveig Johanne Grønstøl]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/2c3cafbd-2e0f-448f-a183-cdd495c6cf5b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/2c3cafbd-2e0f-448f-a183-cdd495c6cf5b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:57</itunes:duration>
-      <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MFkAGpuU6xKllBoImcYQiw0MBjwueSx3sOUWfEkgH8WA.jpg"/>
     </item>
   </channel>
 </rss>
