@@ -196,6 +196,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "din_venn_nora",
+    "title": "De 10 siste fra Din venn, Nora",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "ding_dong_du_er_doed",
     "title": "De 10 siste fra Ding-dong, du er død!",
     "season": null,
