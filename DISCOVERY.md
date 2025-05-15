@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-05-15  
+- Added podcast 'Din venn, Nora' (`din_venn_nora`)  
 ### 2025-05-11  
 - Updated podcast 'Ding-dong, du er død!' (`ding_dong_du_er_doed`)  
 - Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
