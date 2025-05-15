@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 May 2025 17:32:45 +0000</lastBuildDate>
-    <pubDate>Wed, 14 May 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 May 2025 17:31:38 +0000</lastBuildDate>
+    <pubDate>Thu, 15 May 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringen la fram revidert nasjonalbudsjett</title>
+      <description><![CDATA[Vi kan se langt etter lavere rente, mener opposisjonen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/43987716-351b-4246-b7c7-9d408b3f82a2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/43987716-351b-4246-b7c7-9d408b3f82a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 15 May 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aaPLFRL2Ls44Ykbj4aDnrACsZpLfGFqO3VAkVlGAwrLg.jpg"/>
+    </item>
     <item>
       <title>Ba om frifinnelse av Gjert Ingebrigtsen</title>
       <description><![CDATA[Forsvarsadvokat Elden la frem sin sluttprosedyre i straffesaken mot Gjert Ingebrigtsen i dag.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 02 May 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RgRu1S57SPYZtflycFOPKwzrtFPfNWnt6B_dsMnnlcBg.jpg"/>
-    </item>
-    <item>
-      <title>Eggum trekker seg</title>
-      <description><![CDATA[Jørn Eggum trekker kandidaturet sitt som LO-leder, men ønsker å fortsette som leder i Fellesforbundet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/35dd81b9-e9d9-46dd-96ca-3025d045db53_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/35dd81b9-e9d9-46dd-96ca-3025d045db53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 30 Apr 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yaOvsB8Hbs33gOKOSqw0iABvBaXJYYragvOxCTlYiZtA.jpg"/>
     </item>
   </channel>
 </rss>
