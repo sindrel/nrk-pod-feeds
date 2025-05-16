@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 May 2025 04:38:02 +0000</lastBuildDate>
-    <pubDate>Wed, 14 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 May 2025 04:39:05 +0000</lastBuildDate>
+    <pubDate>Fri, 16 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Koffein og trening</title>
+      <description><![CDATA[BONUS: Hva slags effekt får du av energidrikk eller pre-workout på trening? Hans Kristian Stadheim svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/8c5dca01-fb23-4f06-be9e-64ff9cb080e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/8c5dca01-fb23-4f06-be9e-64ff9cb080e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:03</itunes:duration>
+      <pubDate>Fri, 16 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
+    </item>
     <item>
       <title>Når penger gjør deg redd</title>
       <description><![CDATA[Hvorfor er det så vanskelig å snakke om penger? Samfunnspsykolog Ingvild Stjernen Tisløv svarer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:07:11</itunes:duration>
       <pubDate>Wed, 23 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>To uker uten koffein</title>
-      <description><![CDATA[Linnéa og TikTok-stjerne Oliver Bergset bestemmer seg for å leve uten koffein i to uker. Tar du utfordringa? Vi starter 28. april!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/53f2578e-0334-42e6-8437-7930a28aa424_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/53f2578e-0334-42e6-8437-7930a28aa424_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:36</itunes:duration>
-      <pubDate>Mon, 21 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
     </item>
   </channel>
 </rss>

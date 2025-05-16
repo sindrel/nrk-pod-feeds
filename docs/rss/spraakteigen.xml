@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 May 2025 04:38:26 +0000</lastBuildDate>
-    <pubDate>Fri, 09 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 May 2025 04:39:17 +0000</lastBuildDate>
+    <pubDate>Fri, 16 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    <item>
+      <title>Riglevoren jordklump</title>
+      <description><![CDATA[Norsk, dansk og finsk, men hva med sversk?  Hvor kommer d-en fra i Bergens Tidende? Finnes det ord som rimer på pølse?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/80f0bf86-8b70-4b7d-b526-4683febf01f8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/80f0bf86-8b70-4b7d-b526-4683febf01f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Fri, 16 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    </item>
     <item>
       <title>En pert og en ekspert</title>
       <description><![CDATA[Er en ekspert en tidligere pert? Tank, cap og bit, eller tanks, caps og bits? Hvorfor sier vi "misforstå meg rett"?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:53</itunes:duration>
       <pubDate>Fri, 28 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>Vi er gravide!</title>
-      <description><![CDATA[Vi har håndkle til mye mer enn hender. Er det fullstendig anarki i Fauske-dialekta? Og er en kampestein stor eller liten?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/5770bce7-d372-4d6b-ab32-4593a1a50d53_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/5770bce7-d372-4d6b-ab32-4593a1a50d53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:33</itunes:duration>
-      <pubDate>Fri, 21 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg8o-3z347I9n1JlPjGwqVHg.jpg"/>
     </item>
   </channel>
 </rss>
