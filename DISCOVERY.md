@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-05-16  
+- Updated podcast 'Luođis luohtái' (`luois_luohti`)  
 ### 2025-05-15  
 - Added podcast 'Din venn, Nora' (`din_venn_nora`)  
 ### 2025-05-11  
