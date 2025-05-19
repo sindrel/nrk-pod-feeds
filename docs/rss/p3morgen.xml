@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 May 2025 13:41:12 +0000</lastBuildDate>
-    <pubDate>Fri, 16 May 2025 15:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 May 2025 13:00:39 +0000</lastBuildDate>
+    <pubDate>Mon, 19 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>«Pikk eller pung» på radio</title>
+      <description><![CDATA[TV2-reporter Kristoffer Torpe har aldri opplevd guttastemning før. Vi hjelper ham litt på vei!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c4ff454a-1d17-43a2-963b-0d4a131958c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c4ff454a-1d17-43a2-963b-0d4a131958c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:18</itunes:duration>
+      <pubDate>Mon, 19 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9qjXfGUly5pDKiptSyhNcwYfnRjk0zN-Hm5Z96EBwTWg.jpg"/>
+    </item>
     <item>
       <title>Synne Vo følte seg lurt</title>
       <description><![CDATA[Synne Vo mener at dialekt har mye å si for om hun stoler på folk eller ikke.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>51:04</itunes:duration>
       <pubDate>Tue, 06 May 2025 14:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/v6J2g2VnE-cL7fMTtdccSQlUNPGxVmDtjjMBI7E6wzPg.jpg"/>
-    </item>
-    <item>
-      <title>«Stjernekamp» i podkastversjon</title>
-      <description><![CDATA[«Stjernekamp»-vinner Kim Wigaard prøver seg i ulike podkast-sjangre, og vi koser oss med ikoniske låter fra Kommune-Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4b20cabb-cf3c-41a6-ade7-7578ba1fbf8f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4b20cabb-cf3c-41a6-ade7-7578ba1fbf8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:38</itunes:duration>
-      <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gXOvdfq3GujexYhpX8hJfgtFMgG5o-WE-iQ07MXThrkg.jpg"/>
     </item>
   </channel>
 </rss>
