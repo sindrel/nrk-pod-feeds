@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 12 May 2025 04:39:25 +0000</lastBuildDate>
-    <pubDate>Mon, 12 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 May 2025 04:42:28 +0000</lastBuildDate>
+    <pubDate>Mon, 19 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
+    <item>
+      <title>Caroline Johansen</title>
+      <description><![CDATA[Fra permisjon til audition, ta godt imot kandidat nummer 18; Caroline Johansen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/373f8c3b-c2b8-4efa-84c4-e6c2e768e503_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/373f8c3b-c2b8-4efa-84c4-e6c2e768e503_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:34</itunes:duration>
+      <pubDate>Mon, 19 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0J2iZN5OIXk_f0BUYOQHMgGyW7apUXNxDoS9ei86p_rQ.jpg"/>
+    </item>
     <item>
       <title>Oral Bee</title>
       <description><![CDATA[Hvem er denne karen med solbriller og lue på? Det er kandidat nummer 17 i rekka, selveste Oral Bee!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>51:46</itunes:duration>
       <pubDate>Mon, 17 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wt1HRCwfIUArSBC6o_IbNgfPCL6HXhQiHlj75FjRNiyw.jpg"/>
-    </item>
-    <item>
-      <title>Marlene Stavrum</title>
-      <description><![CDATA[Marlene og Adelina diskuterer ny sminketrend, cottage cheese og gjør stand-up]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/c40bc39b-f934-44c6-a366-c874fd79ca9a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/paa_audition/c40bc39b-f934-44c6-a366-c874fd79ca9a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:25</itunes:duration>
-      <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UQ_jkmKo1Z3plepGRgUJ2gbhzbJerHS3dVc4MdL8Fw-w.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 13 May 2025 04:38:37 +0000</lastBuildDate>
-    <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 May 2025 04:42:21 +0000</lastBuildDate>
+    <pubDate>Mon, 19 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Annerledes - med Felix Baldauf</title>
+      <description><![CDATA[Finn friplassen din, sier bryteren Felix Baldauf.Der kan du finne trygghet, mestring og tilhørighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/069f0da6-88db-4a33-8535-54124c4d02ef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/069f0da6-88db-4a33-8535-54124c4d02ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:55</itunes:duration>
+      <pubDate>Mon, 19 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N1rX01BJsmA3TJiWE1xnIAoJfg3LjWrn27_CZadxA4Dg.jpg"/>
+    </item>
     <item>
       <title>Løgn - med Janne Rønningen</title>
       <description><![CDATA[Kan man lære noe av løgner man forteller som barn? undrer komiker Janne Rønningen]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:09</itunes:duration>
       <pubDate>Mon, 14 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
-    </item>
-    <item>
-      <title>Torsk - med Claes Krogsgaard Ericsson</title>
-      <description><![CDATA[Noen ganger er det godt at man blir voksen, sier skuespiller Claes Krogsgaard Ericsson]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d98a6621-6a2f-469d-befe-832dea60d44f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d98a6621-6a2f-469d-befe-832dea60d44f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:42</itunes:duration>
-      <pubDate>Tue, 08 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jdvOTQMc_GhcCT1cyw9-QAUDz1j2i98enJ9kyAmr45WQ.jpg"/>
     </item>
   </channel>
 </rss>
