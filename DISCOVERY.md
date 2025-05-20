@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-05-20  
+- Updated podcast 'The Kåss Furuseths' (`the_kaass_furuseths`)  
 ### 2025-05-16  
 - Updated podcast 'Luođis luohtái' (`luois_luohti`)  
 ### 2025-05-15  
