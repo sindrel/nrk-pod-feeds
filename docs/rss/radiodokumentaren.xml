@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Historier fra virkeligheten</title>
+    <title>De 6 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 May 2025 10:39:11 +0000</lastBuildDate>
-    <pubDate>Wed, 21 May 2025 12:25:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 May 2025 04:39:47 +0000</lastBuildDate>
+    <pubDate>Thu, 22 May 2025 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
@@ -19,6 +19,56 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/e7622de9-3fbb-4dda-83f8-a692c14ee727_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:29</itunes:duration>
       <pubDate>Wed, 21 May 2025 12:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_pqICXYtw5V9lSgXqsQyLwVFBlsq0K2LwGJPMVdTOGrA.jpg"/>
+    </item>
+    <item>
+      <title>En mystisk skikkelse (1:5)</title>
+      <description><![CDATA[Et lukket miljø av menn vil gjøre brutale endringer på kroppen sin. Hvem er denne frontfiguren deres – «Evnukkmakeren»? 
+Advarsel: Sterke scener.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f14d1bde-7936-4544-98ba-d83ac9006d79_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f14d1bde-7936-4544-98ba-d83ac9006d79_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:51</itunes:duration>
+      <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_pqICXYtw5V9lSgXqsQyLwVFBlsq0K2LwGJPMVdTOGrA.jpg"/>
+    </item>
+    <item>
+      <title>Hemmeligheten under senga (2:5)</title>
+      <description><![CDATA[På et gutterom hjemme i Drammen oppdager unge Marius noe som ingen må få vite om.  
+Advarsel: Sterke scener.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/dd332f79-9c97-4a75-8e47-96fea7240ce2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/dd332f79-9c97-4a75-8e47-96fea7240ce2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:08</itunes:duration>
+      <pubDate>Thu, 22 May 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_pqICXYtw5V9lSgXqsQyLwVFBlsq0K2LwGJPMVdTOGrA.jpg"/>
+    </item>
+    <item>
+      <title>Hjelper eller slakter? (3:5)</title>
+      <description><![CDATA[Utstyrt med den røde kjøkkenkniven skaper «Evnukkmakeren» en blodig internett-business. Men ting kommer ut av kontroll. 
+Advarsel: Sterke scener.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a9c7ac28-373e-4def-a3af-18f1e0ee7481_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a9c7ac28-373e-4def-a3af-18f1e0ee7481_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:16</itunes:duration>
+      <pubDate>Thu, 22 May 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_pqICXYtw5V9lSgXqsQyLwVFBlsq0K2LwGJPMVdTOGrA.jpg"/>
+    </item>
+    <item>
+      <title>Alarmen går (4:5)</title>
+      <description><![CDATA[En ny evnukk blir til, denne gang med oksetang. Det skal få dramatiske konsekvenser.  
+Advarsel: Sterke scener.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a67b7c41-9f52-4f80-94fa-37f425a510b7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a67b7c41-9f52-4f80-94fa-37f425a510b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:04</itunes:duration>
+      <pubDate>Thu, 22 May 2025 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_pqICXYtw5V9lSgXqsQyLwVFBlsq0K2LwGJPMVdTOGrA.jpg"/>
+    </item>
+    <item>
+      <title>Oppgjørets time (5:5)</title>
+      <description><![CDATA[Politiet raider harddisker og frysebokser – og gjør grufulle funn.
+Advarsel: Sterke scener.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/e4d7eeb2-ba16-4ba2-b248-41ace8797666_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/e4d7eeb2-ba16-4ba2-b248-41ace8797666_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:49</itunes:duration>
+      <pubDate>Thu, 22 May 2025 06:04:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_pqICXYtw5V9lSgXqsQyLwVFBlsq0K2LwGJPMVdTOGrA.jpg"/>
     </item>
   </channel>
