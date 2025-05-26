@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 May 2025 04:38:28 +0000</lastBuildDate>
-    <pubDate>Tue, 20 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 May 2025 04:41:54 +0000</lastBuildDate>
+    <pubDate>Mon, 26 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Tapte år - med Gunn Marit Nisja</title>
+      <description><![CDATA[Jeg har mista 15 år av livet mitt, forteller forfatter Gunn Marit Nisja.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/74d26ca0-cbfd-40e5-b161-818c4228c825_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/74d26ca0-cbfd-40e5-b161-818c4228c825_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:08</itunes:duration>
+      <pubDate>Mon, 26 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
+    </item>
     <item>
       <title>Tannlegen - med Hannah Faizan Jensen</title>
       <description><![CDATA[I norsk språk er det bare noen bokstaver mellom full panikk og en helt vanlig tirsdag, forteller Hannah Fanzai Jensen]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:49</itunes:duration>
       <pubDate>Tue, 22 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Pxdg6y6oRkZ5KD3ed3RTlw49iVIm62EO-GM6byg7n8bQ.jpg"/>
-    </item>
-    <item>
-      <title>Hei - med Felix Baldauf</title>
-      <description><![CDATA[Har vi slutta å hilse på fremmede? undrer bryteren Felix Baldauf]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e256964e-c9a5-424f-ae80-45b81816e758_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e256964e-c9a5-424f-ae80-45b81816e758_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:09</itunes:duration>
-      <pubDate>Tue, 15 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/N1rX01BJsmA3TJiWE1xnIAoJfg3LjWrn27_CZadxA4Dg.jpg"/>
     </item>
   </channel>
 </rss>
