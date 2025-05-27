@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 May 2025 04:41:54 +0000</lastBuildDate>
-    <pubDate>Mon, 26 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 27 May 2025 04:41:22 +0000</lastBuildDate>
+    <pubDate>Tue, 27 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Dagbok - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[Jeg har alltid savnet å skrive dagbok, forteller skuespiller Claes Krogsgaard Ericsson]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/f279a6b7-b19d-41af-bb48-706349fee0a4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/f279a6b7-b19d-41af-bb48-706349fee0a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:32</itunes:duration>
+      <pubDate>Tue, 27 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
+    </item>
     <item>
       <title>Tapte år - med Gunn Marit Nisja</title>
       <description><![CDATA[Jeg har mista 15 år av livet mitt, forteller forfatter Gunn Marit Nisja.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>04:42</itunes:duration>
       <pubDate>Wed, 23 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qd4mSgc2z6LG-L2ezTW_lQxIh0lJw4him8QhDO9U2-Hw.jpg"/>
-    </item>
-    <item>
-      <title>Flybilletten - med Daniel Getaneh Hatland</title>
-      <description><![CDATA[I et fotoalbum har Daniel Getaneh Hatland tatt vare på det mest verdifulle han eier.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/ce153f7e-e58e-4385-a47d-fd8d53d8f868_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ce153f7e-e58e-4385-a47d-fd8d53d8f868_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:49</itunes:duration>
-      <pubDate>Tue, 22 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Pxdg6y6oRkZ5KD3ed3RTlw49iVIm62EO-GM6byg7n8bQ.jpg"/>
     </item>
   </channel>
 </rss>
