@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 May 2025 10:38:24 +0000</lastBuildDate>
-    <pubDate>Fri, 23 May 2025 12:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 28 May 2025 04:39:49 +0000</lastBuildDate>
+    <pubDate>Wed, 28 May 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Du føler mer enn du tror</title>
+      <description><![CDATA[Blir du sint når du egentlig er såret? Psykolog Aksel Inge Sinding forklarer hvordan du kan forstå egne følelser – og partnerens.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/95941a9a-67be-4d81-a4b2-6e89ced4adb0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/95941a9a-67be-4d81-a4b2-6e89ced4adb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:11:13</itunes:duration>
+      <pubDate>Wed, 28 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>– Jeg sprakk</title>
       <description><![CDATA[Linnéa drakk sin første energidrikk i dag. Og hvordan har det gått med PMSen?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>44:32</itunes:duration>
       <pubDate>Wed, 30 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Første dag uten koffein</title>
-      <description><![CDATA[Oliver angrer på at han ble med på koffeinpausen, og Linnéa har grått. Vi går også gjennom innboksen fra lytterne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a9ba9c25-74cc-47c5-ade9-d48caf257148_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a9ba9c25-74cc-47c5-ade9-d48caf257148_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:02</itunes:duration>
-      <pubDate>Tue, 29 Apr 2025 11:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
     </item>
   </channel>
 </rss>
