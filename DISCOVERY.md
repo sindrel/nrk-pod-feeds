@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-05-29  
+- Updated podcast 'Luođis luohtái' (`luois_luohti`)  
 ### 2025-05-26  
 - Updated podcast 'Kaffipraatti' (`kaffipraati`)  
 ### 2025-05-20  
