@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 May 2025 17:32:30 +0000</lastBuildDate>
-    <pubDate>Wed, 28 May 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 17:32:06 +0000</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Nytt forslag til våpenhvile i Gaza</title>
+      <description><![CDATA[Hamas sa nei til et våpenhvileforslag i går kveld.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ac80ce53-dc04-44de-91d2-992f8b83de69_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ac80ce53-dc04-44de-91d2-992f8b83de69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 30 May 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r0mtaZXTK8ks__Qk1-eQkA144TBjza6eZEvH6vHKdqMQ.jpg"/>
+    </item>
     <item>
       <title>Nødhjelpskaos i Gaza</title>
       <description><![CDATA[Tirsdag ble én drept og nesten 50 personer såret da det brøt ut kaos ved en av nødhjelpssentralene.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>58:44</itunes:duration>
       <pubDate>Fri, 16 May 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UuhndeR4czEdiNuy22gi1gGhoRBvejTE3r4Cj-ZCydCA.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen la fram revidert nasjonalbudsjett</title>
-      <description><![CDATA[Vi kan se langt etter lavere rente, mener opposisjonen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/43987716-351b-4246-b7c7-9d408b3f82a2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/43987716-351b-4246-b7c7-9d408b3f82a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 15 May 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aaPLFRL2Ls44Ykbj4aDnrACsZpLfGFqO3VAkVlGAwrLg.jpg"/>
     </item>
   </channel>
 </rss>
