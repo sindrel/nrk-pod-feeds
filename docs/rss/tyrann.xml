@@ -1,69 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Tyrann</title>
+    <title>De 1 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 27 May 2025 04:41:40 +0000</lastBuildDate>
-    <pubDate>Tue, 27 May 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 13:00:51 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Lenin (1:5)</title>
-      <description><![CDATA[Lille Vladimir er egentlig bare en asosial tenåringsnerd. Men når storebroren hans blir hengt, sverger gutten hevn over tsaren!
-
-Kilder:  
-'Lenin' av Kurt Jacobsen 
-'Lenin - En revolutionær fundamentalist' av Niels Erik Rosenfeldt 
-'Lenin - The Dictator' av Victor Sebestyen 
-'History's Greatest Heist - The Looting of Russia by the Bolscheviks' av Sean McMeekin 
-'Immortalization Commission - The Strange Quest to Cheat Death' av John Gray 
-'Lenin Lives!' av Nina Tumarkin]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/938442fc-5dfd-4ca5-90f3-b4b93d0c3bc7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/938442fc-5dfd-4ca5-90f3-b4b93d0c3bc7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:21</itunes:duration>
-      <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA.jpg"/>
-    </item>
-    <item>
-      <title>Lenin (2:5)</title>
-      <description><![CDATA[Lenin vil styrte tsaren og starte revolusjon i Russland. Men hver gang muligheten byr seg, sitter han tusenvis av kilometer unna.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/7d8101d7-3e54-44ea-96d5-bebede723c35_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/7d8101d7-3e54-44ea-96d5-bebede723c35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:43</itunes:duration>
-      <pubDate>Tue, 06 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA.jpg"/>
-    </item>
-    <item>
-      <title>Lenin (3:5)</title>
-      <description><![CDATA[1917 er det vanvittige revolusjonsåret da Lenins og Russlands skjebner ristes sammen, og ingenting blir noensinne det samme igjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/80664c4a-0e78-4a46-8956-636dd7689a5c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/80664c4a-0e78-4a46-8956-636dd7689a5c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:06</itunes:duration>
-      <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA.jpg"/>
-    </item>
-    <item>
-      <title>Lenin (4:5)</title>
-      <description><![CDATA[For Lenin er politikk også lik vold. Overfor politiske motstandere, rikfolk og adel, og ikke minst overfor tsaren og hans familie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/2601aed2-ad19-4f74-a23d-a46d14ca2f14_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/2601aed2-ad19-4f74-a23d-a46d14ca2f14_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:23</itunes:duration>
-      <pubDate>Tue, 20 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA.jpg"/>
-    </item>
-    <item>
-      <title>Lenin (5:5)</title>
-      <description><![CDATA[Lenin er svært syk. Han vant makta, nå vil han bare dø. Men Stalin tillater ikke det, og Lenins og landets lidelser dras ut i tid.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/8b3322a1-c345-44b5-a128-a941a813b600_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/8b3322a1-c345-44b5-a128-a941a813b600_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:25</itunes:duration>
-      <pubDate>Tue, 27 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA.jpg"/>
+      <title>Pinochet</title>
+      <description><![CDATA[Etter 40 års tjeneste gikk Pinochet fra pliktoppfyllende militær til rabiat tyrann på tre små uker. Hør hans historie fra 3. juni!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/260d8098-acfd-4b6b-b130-9400e40409db_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/260d8098-acfd-4b6b-b130-9400e40409db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:36</itunes:duration>
+      <pubDate>Mon, 02 Jun 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nwIg_fF50IbohUY8zrFiAgnYFHc5u-1MRe0sBCaEPmxw.jpg"/>
     </item>
   </channel>
 </rss>

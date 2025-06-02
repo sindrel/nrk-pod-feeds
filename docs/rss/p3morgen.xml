@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 May 2025 08:40:30 +0000</lastBuildDate>
-    <pubDate>Fri, 30 May 2025 10:05:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 13:00:45 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>St. Sunniva svarer seg selv</title>
+      <description><![CDATA[St. Sunniva er kjent for sine direkte spørsmål. Hva skjer når hun må svare på dem selv?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6388d591-acd8-4f8b-9f14-56e7750d63fa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6388d591-acd8-4f8b-9f14-56e7750d63fa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:26</itunes:duration>
+      <pubDate>Mon, 02 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZCd_EoRlJzg5qEk9FJRBXw4I3W2CPGxMa3kFpfYr4xMg.jpg"/>
+    </item>
     <item>
       <title>Ramón fikk et ultimatum</title>
       <description><![CDATA[Ramón har endelig sluppet låten «SKJORTE & SLIPS» og forteller om hvorfor han valgte å slutte å snuse.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>51:18</itunes:duration>
       <pubDate>Mon, 19 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9qjXfGUly5pDKiptSyhNcwYfnRjk0zN-Hm5Z96EBwTWg.jpg"/>
-    </item>
-    <item>
-      <title>Synne Vo følte seg lurt</title>
-      <description><![CDATA[Synne Vo mener at dialekt har mye å si for om hun stoler på folk eller ikke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e6f49386-b0a6-4ee4-8130-efdbdc6cb213_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e6f49386-b0a6-4ee4-8130-efdbdc6cb213_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:44</itunes:duration>
-      <pubDate>Fri, 16 May 2025 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9k0kGZ2pgKWfsTxLNWUpDw62DRBeZBdFBea3xLhniJNA.jpg"/>
     </item>
   </channel>
 </rss>
