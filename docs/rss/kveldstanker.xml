@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Jun 2025 04:44:26 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 04:42:19 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Gullsmykket - med Elin Sofye Rabbevåg</title>
+      <description><![CDATA[Sorg er prisen for kjærlighet, sier musiker Elin Sofye Rabbevåg]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/79fa71b3-f197-4735-bc60-66f69dbd0b26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/79fa71b3-f197-4735-bc60-66f69dbd0b26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:38</itunes:duration>
+      <pubDate>Tue, 03 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
+    </item>
     <item>
       <title>Malerkosten - med Francine Mbanza Jensen</title>
       <description><![CDATA[En malerkost fikk Francine Mbanza Jensen ut av ensomheten.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>04:20</itunes:duration>
       <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FbPbQQYmB0Pmd5I4_EHSlwTbNENU4xZ7XNOtUdGSjr4g.jpg"/>
-    </item>
-    <item>
-      <title>Porten - med Solveig Johanne Grønstøl</title>
-      <description><![CDATA[Ikkje gløym at skrot for deg kan vere ein skatt for andre,  fortel forfattar Solveig Johanne Grønstøl]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e38e3c04-db89-455e-863c-cd157d45734c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e38e3c04-db89-455e-863c-cd157d45734c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:46</itunes:duration>
-      <pubDate>Mon, 28 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MFkAGpuU6xKllBoImcYQiw0MBjwueSx3sOUWfEkgH8WA.jpg"/>
     </item>
   </channel>
 </rss>
