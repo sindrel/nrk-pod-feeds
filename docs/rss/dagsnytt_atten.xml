@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Jun 2025 17:33:09 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Jun 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 17:33:58 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Millionunderskudd etter Ski-VM i Trondheim</title>
+      <description><![CDATA[Ski-VM skulle gi 20 millioner kroner i overskudd, men gå i stedet over 30 millioner kroner i underskudd. 
+I dag var det krisemøte i VM-byen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7090d41d-6974-4162-8879-064724a49a3c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7090d41d-6974-4162-8879-064724a49a3c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 03 Jun 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3lZWPS-z64mMveMaC0RXcQEqTODbu1oipQ_PmRtqLVAw.jpg"/>
+    </item>
     <item>
       <title>Flertall for ny rusreform</title>
       <description><![CDATA[Narkotika skal fortsatt være forbudt, men i mindre alvorlige saker blir straffen en bot.]]></description>
@@ -93,15 +103,6 @@
       <itunes:duration>59:04</itunes:duration>
       <pubDate>Tue, 20 May 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rxtJ6OAHQb9mYyKODD5exQW8KhTcscyE3nVDbvjmwlEg.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen la frem nye dagligvaretiltak</title>
-      <description><![CDATA[Regjeringens tiltak for å bedre konkurransen i dagligvarebransjen har møtt hard kritikk fra bransjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/80084e1e-a8ed-453d-bdfc-3e9749748f0c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/80084e1e-a8ed-453d-bdfc-3e9749748f0c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 19 May 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QtDbJ8345B4BrkIW5txesg2VQoq8Hm2e5sRQS1U5dKbw.jpg"/>
     </item>
   </channel>
 </rss>
