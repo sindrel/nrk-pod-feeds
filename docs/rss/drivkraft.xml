@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 May 2025 11:28:22 +0000</lastBuildDate>
-    <pubDate>Wed, 28 May 2025 13:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 13:01:36 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 13:32:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Sindre Heyerdahl</title>
+      <description><![CDATA[- Mange menn er flinkere til å snakke om penger enn følelser, sier økonomikommentatoren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e550bcae-537f-4809-9358-797fb878f90b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e550bcae-537f-4809-9358-797fb878f90b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Tue, 03 Jun 2025 13:32:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kBYsIw8Bhth2A338WJIuvwpw02Vz4OUFxKKpcxWbr9JQ.jpg"/>
+    </item>
     <item>
       <title>Sigrid Bratlie</title>
       <description><![CDATA[– Alle som er skåsikre tar feil, sier forskeren som tror covid-viruset ble til i Wuhan-laboratorium. Hun håper hun tar feil.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Tue, 13 May 2025 13:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PGs_9cki-AN-aE6M-J_cAg7TRqtGohTkRtItbDB1PSEA.jpg"/>
-    </item>
-    <item>
-      <title>Thor Hushovd</title>
-      <description><![CDATA[- Jeg presset meg så hardt at jeg tisset blod, forteller tidligere verdensmester i sykling.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/916a0f88-434b-4690-b88a-5ec70347c5a2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/916a0f88-434b-4690-b88a-5ec70347c5a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:18</itunes:duration>
-      <pubDate>Mon, 12 May 2025 11:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wOAYGFNdPlrO1QJgsb51DQ4emTqIBQXL1dr1D7-X-lIg.jpg"/>
     </item>
   </channel>
 </rss>
