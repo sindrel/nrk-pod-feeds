@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-06-06  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2025-05-30  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2025-05-29  
