@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Jun 2025 11:28:43 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Jun 2025 13:15:00 +0200</pubDate>
+    <lastBuildDate>Fri, 06 Jun 2025 11:28:35 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Jun 2025 13:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Kan vi oppfylle Marens drøm?</title>
+      <description><![CDATA[Maren drømmer om å spille fløyte med Hans Zimmer og hans musikere, og vi gjør det vi kan for å få det til!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2f3742fb-b532-4668-917e-85e301922fba_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2f3742fb-b532-4668-917e-85e301922fba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:18</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 13:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
+    </item>
     <item>
       <title>Jon Martin legger ned veto</title>
       <description><![CDATA[Jon Martin Henriksen er klar med femte sesong av «Spårtsløpet», og får denne gangen slippe de vonde oppgavene.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>47:48</itunes:duration>
       <pubDate>Fri, 23 May 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BDqEE_j8pX84MZm827CL4wQnvcO9pvzPSKchdMgsl-SA.jpg"/>
-    </item>
-    <item>
-      <title>Jonas får en «reality check»</title>
-      <description><![CDATA[Jonas hadde gledet seg til lounge-luksus på flyplassen, men realiteten levde ikke opp til forventningene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cd340db5-ff3a-4eba-b28a-899337f3ffa5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cd340db5-ff3a-4eba-b28a-899337f3ffa5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:11</itunes:duration>
-      <pubDate>Thu, 22 May 2025 13:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
     </item>
   </channel>
 </rss>
