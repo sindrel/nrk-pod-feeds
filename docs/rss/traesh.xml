@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Jun 2025 04:43:15 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 09 Jun 2025 04:45:17 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gZGZqMFqYK49hfIVXYhzGRQ.jpg"/>
+    <item>
+      <title>God pinse!</title>
+      <description><![CDATA[Hallo i pinsen! Vi kommer tilbake i morgen<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/f3b4411a-5d18-47aa-8252-2fc0f33729b3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/f3b4411a-5d18-47aa-8252-2fc0f33729b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:28</itunes:duration>
+      <pubDate>Mon, 09 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
     <item>
       <title>Ruben: Kjendisbadevann til salgs</title>
       <description><![CDATA[Sydney Sweeney selger badevannet sitt til fans, Miley Cyrus har sluppet nytt album, og vi tar et dypdykk i historien bak PRIDE-bevegelsen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>44:19</itunes:duration>
       <pubDate>Thu, 08 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/wGzDEdcPl9cFcR7JNU0klQwj7w2GkiAbn1W46ajF-CxQ.jpg"/>
-    </item>
-    <item>
-      <title>Gaga-rekord og Euphoria-drypp</title>
-      <description><![CDATA[Lady Gaga har opptrådd for 2,1 millioner (!)  mennesker i Brasil, og innspillingen av Euphoria sesong tre er endelig i gang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/599eb39d-b4be-4d99-a31e-b2512bc3ab26_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/traesh/599eb39d-b4be-4d99-a31e-b2512bc3ab26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:28</itunes:duration>
-      <pubDate>Mon, 05 May 2025 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
     </item>
   </channel>
 </rss>

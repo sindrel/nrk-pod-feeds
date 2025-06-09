@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Jun 2025 04:44:34 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 09 Jun 2025 04:45:12 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
+    <item>
+      <title>Henning Bang</title>
+      <description><![CDATA[Komiker og P3morgen-programleder Henning Bang er nestemann ut i rekka - kandidat nummer 22 er på plass!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/b5c826a9-eadd-4586-976e-b9dbfda154f4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/b5c826a9-eadd-4586-976e-b9dbfda154f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:27</itunes:duration>
+      <pubDate>Mon, 09 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pO6NCRdgxn7NHHNrr7lfBgtwvxG9BmzU-6kem8iJHYig.jpg"/>
+    </item>
     <item>
       <title>Mathea Stensæth Josefsen</title>
       <description><![CDATA[Det er tid for kandidat nummer 21, ta godt imot superstjerna fra Humoretaten; Mathea Stensæth Josefsen!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>50:31</itunes:duration>
       <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/OtGjYKg8NaLD_p2DBs6e0grzA3TbneOuE4LXrP0j_OlQ.jpg"/>
-    </item>
-    <item>
-      <title>Ulrikke Brandstorp</title>
-      <description><![CDATA[Sarpsborg, Sabrina Carpenter og hunder – hva mer kan man ønske seg? Ta godt imot kandidat nummer 11!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/1ee50168-fabe-4a9a-9035-99d72c1d63d7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/paa_audition/1ee50168-fabe-4a9a-9035-99d72c1d63d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:28</itunes:duration>
-      <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XkuMnGOFll4Ru8qe1y4cUAMNb8a5hG0wTqWFQSNdk0fg.jpg"/>
     </item>
   </channel>
 </rss>
