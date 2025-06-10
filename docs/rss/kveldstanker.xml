@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Jun 2025 04:42:19 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 04:42:57 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Mormor - med Gunn Marit Nisja</title>
+      <description><![CDATA[Veien gjennom livet blir aldri slik du hadde tenkt, sier forfatter Gunn Marit Nisja]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4fbad69a-03c8-4c95-b94a-60ea301e20db_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4fbad69a-03c8-4c95-b94a-60ea301e20db_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:14</itunes:duration>
+      <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
+    </item>
     <item>
       <title>Gullsmykket - med Elin Sofye Rabbevåg</title>
       <description><![CDATA[Sorg er prisen for kjærlighet, sier musiker Elin Sofye Rabbevåg]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:19</itunes:duration>
       <pubDate>Tue, 06 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6VVTzuvC1D93sS0gdcb9tg6B8uDHzhR3m5lt_Z-5aNxw.jpg"/>
-    </item>
-    <item>
-      <title>Naboer - med Noman Mubashir</title>
-      <description><![CDATA[Vær snill med naboen din, for verden er mye mindre enn du tror, forteller Noman Mubashir.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9003f5a9-a3ad-4a01-93bb-a29865c79e8e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9003f5a9-a3ad-4a01-93bb-a29865c79e8e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:20</itunes:duration>
-      <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FbPbQQYmB0Pmd5I4_EHSlwTbNENU4xZ7XNOtUdGSjr4g.jpg"/>
     </item>
   </channel>
 </rss>

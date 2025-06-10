@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Jun 2025 04:43:06 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 04:43:14 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    <item>
+      <title>Hjemme - Kristina Myhren</title>
+      <description><![CDATA[Man kan føle seg som en del av noe større, når man står i et kirkerom og tenner lys - et lys for noe, eller noen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/d7195c1f-3edc-4d74-81f7-e3438f31c824_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/d7195c1f-3edc-4d74-81f7-e3438f31c824_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:42</itunes:duration>
+      <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
+    </item>
     <item>
       <title>Viral pailabb</title>
       <description><![CDATA[Minus og minus blir pluss, også i språk. Stankelbein, jerangsmann og langskankamygg - ukjært barn har mange navn.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:25</itunes:duration>
       <pubDate>Fri, 28 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>Russ, pollen, -veis og -onn</title>
-      <description><![CDATA[Russ, pollen, -veis, -onn og flere ord fra våren forklares, og vår, hvor kommer det fra? Del - kort med veldig intrikat ord!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/fa0d2d13-3c24-4d47-8c87-4480362d1533_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/fa0d2d13-3c24-4d47-8c87-4480362d1533_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:08</itunes:duration>
-      <pubDate>Fri, 21 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egg9otF-xq2gL1JlPjGwqVHg.jpg"/>
     </item>
   </channel>
 </rss>
