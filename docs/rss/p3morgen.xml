@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Jun 2025 11:28:35 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Jun 2025 13:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 13:02:02 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Jonas bruker 30.000kr på lunsj</title>
+      <description><![CDATA[Silje Sandmæl er på besøk og har en tydelig idé om hvor Jonas bør starte for å få bedre kontroll på pengene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/41be923b-cdf4-4608-9d19-14b2af3fd552_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/41be923b-cdf4-4608-9d19-14b2af3fd552_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:16</itunes:duration>
+      <pubDate>Tue, 10 Jun 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VuKn9yd0EpHk6J6oaHYnkwX4ql7eArXicsuiV-hB9m5g.jpg"/>
+    </item>
     <item>
       <title>Kan vi oppfylle Marens drøm?</title>
       <description><![CDATA[Maren drømmer om å spille fløyte med Hans Zimmer og hans musikere, og vi gjør det vi kan for å få det til!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>41:55</itunes:duration>
       <pubDate>Mon, 26 May 2025 13:12:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
-    </item>
-    <item>
-      <title>Morten Ramm får tilsnakk</title>
-      <description><![CDATA[Morten Ramm tabbet seg ut i Henriettes bryllup, men lærer ikke av sine feil.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ea750d7b-902a-4063-af95-22020b416c96_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ea750d7b-902a-4063-af95-22020b416c96_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:48</itunes:duration>
-      <pubDate>Fri, 23 May 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BDqEE_j8pX84MZm827CL4wQnvcO9pvzPSKchdMgsl-SA.jpg"/>
     </item>
   </channel>
 </rss>
