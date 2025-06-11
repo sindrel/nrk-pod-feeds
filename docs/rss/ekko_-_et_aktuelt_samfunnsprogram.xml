@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Jun 2025 11:28:52 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Jun 2025 13:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 13:01:16 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 14:07:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Spør Ekko: Alt om hund</title>
+      <description><![CDATA[Kva skal til for eit lukkeleg hundeliv? Ekspertane svarer på dine spørsmål om alt frå kvalpebiting til nabobjeffing.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/354ffde1-1b6d-46c0-9b2d-1c38b76ed31a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/354ffde1-1b6d-46c0-9b2d-1c38b76ed31a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:41</itunes:duration>
+      <pubDate>Wed, 11 Jun 2025 14:07:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fta31KsTM-kjsTbh-WqbMAcvAaJEItWCYuhWoHYW_tUA.jpg"/>
+    </item>
     <item>
       <title>Våpen eller ikkje?</title>
       <description><![CDATA[Bevæpning av politiet har fått meir politisk støtte enn tidlegare. Kva kan dette bety for tryggleiken i samfunnet?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>43:57</itunes:duration>
       <pubDate>Thu, 22 May 2025 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/f3KzKpmX3uvxz2q2mHrdHgs_FhQrst1rsBopRdDWDuKQ.jpg"/>
-    </item>
-    <item>
-      <title>Spør Ekko: Hvordan dekke Gaza?</title>
-      <description><![CDATA[Tre erfarne pressefolk svarer på lytternes spørsmål om dekningen av krigen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5a60ef27-e89b-491c-8018-802b0d18513e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5a60ef27-e89b-491c-8018-802b0d18513e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:45</itunes:duration>
-      <pubDate>Wed, 21 May 2025 13:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6I2xd4rCh6XA4RwkoKw6yAloZqsnXNQPoU1SKlM6ZURw.jpg"/>
     </item>
   </channel>
 </rss>
