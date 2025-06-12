@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Historier fra virkeligheten</title>
+    <title>De 6 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Jun 2025 13:45:37 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 04:42:57 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
@@ -19,6 +19,51 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ba78c54c-4f74-45c6-b6aa-7a66ad107c69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:10</itunes:duration>
       <pubDate>Wed, 11 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oaH_sX7iwCnGM1blxcsihAAWxxOXBn7oJOl2O-yT7aGA.jpg"/>
+    </item>
+    <item>
+      <title>Lulesamen</title>
+      <description><![CDATA[En mann blir funnet skutt i hodet i en leiebil på Lørenskog. Joachim Førsund leter etter svar i de samiske områdene i Nordland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/d1e1566d-a21e-45c2-a139-0eacac3e70ae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d1e1566d-a21e-45c2-a139-0eacac3e70ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:40</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oaH_sX7iwCnGM1blxcsihAAWxxOXBn7oJOl2O-yT7aGA.jpg"/>
+    </item>
+    <item>
+      <title>En kriminell er født</title>
+      <description><![CDATA[Som 17-åring forsvinner Rune Cato inn i en verden få kjenner til. Makkeren hans i den kriminelle underverdenen forteller – for første gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/b5a56c66-d490-47c5-887f-0ca200eae9dd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/b5a56c66-d490-47c5-887f-0ca200eae9dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:47</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oaH_sX7iwCnGM1blxcsihAAWxxOXBn7oJOl2O-yT7aGA.jpg"/>
+    </item>
+    <item>
+      <title>Døden og kjærligheten</title>
+      <description><![CDATA[Rune Cato og broren hans starter motorsykkelklubb på Jessheim, men et brutalt drap forandrer livene deres for alltid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/3749fc88-1190-4c3d-8409-2d26e379eaa2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/3749fc88-1190-4c3d-8409-2d26e379eaa2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:47</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oaH_sX7iwCnGM1blxcsihAAWxxOXBn7oJOl2O-yT7aGA.jpg"/>
+    </item>
+    <item>
+      <title>Bombene i Ukraina</title>
+      <description><![CDATA[Russland invaderer Ukraina, og Rune Cato føler for første gang at hans kriminelle kompetanse kan brukes til noe viktig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/df38f10b-d948-4a08-a480-f6b3e07d3cb7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/df38f10b-d948-4a08-a480-f6b3e07d3cb7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:39</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oaH_sX7iwCnGM1blxcsihAAWxxOXBn7oJOl2O-yT7aGA.jpg"/>
+    </item>
+    <item>
+      <title>Fallen kriger</title>
+      <description><![CDATA[Rune Cato lever farlig som soldat, uten å ane at livet hans hjemme vil bli enda farligere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/5f1714a5-914a-4cf8-9629-a15fb08a888a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5f1714a5-914a-4cf8-9629-a15fb08a888a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:40</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 06:04:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oaH_sX7iwCnGM1blxcsihAAWxxOXBn7oJOl2O-yT7aGA.jpg"/>
     </item>
   </channel>
