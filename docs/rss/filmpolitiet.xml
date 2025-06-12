@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Jun 2025 13:00:16 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Jun 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 13:45:16 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>Studio Ghibli er 40 år!</title>
+      <description><![CDATA[Vi feirer det japanske animasjonsselskapet, og kommer med våre favoritter og tips til filmer du bør se.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/2f0ee9b7-027a-4766-af22-1876adc60ea6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/2f0ee9b7-027a-4766-af22-1876adc60ea6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:54</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wXqXHG2qnB0WzyZqBsJPoAQTRkTEuYnZJdg7m6iNHm9g.jpg"/>
+    </item>
     <item>
       <title>Karate Kid: Legends: Ikke akkurat legendarisk</title>
       <description><![CDATA[Ralph Macchio og Jackie Chan forenes som legender i ny «Karate Kid»-film, men Birger er ikke imponert.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:08:10</itunes:duration>
       <pubDate>Tue, 13 May 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x1m_716uoa8-yp_6jP_A7graqXAtS8cscJDRAZ2Wb1gQ.jpg"/>
-    </item>
-    <item>
-      <title>The Legend of Ochi: Vakreste eventyrfilm på lenge</title>
-      <description><![CDATA[Birger anmelder «The Legend of Ochi» til terningkast 5! En stilsikker eventyrfilm som spiller godt på vår fascinasjon for folklore med mørke stemninger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/27a86455-4584-4a45-ae5d-70745a7d6efa_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/27a86455-4584-4a45-ae5d-70745a7d6efa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:07</itunes:duration>
-      <pubDate>Thu, 08 May 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VigTTs7FQ2s_cwMXdyig6QuJ3ZNf6hbA57IbiHbHXWSg.jpg"/>
     </item>
   </channel>
 </rss>
