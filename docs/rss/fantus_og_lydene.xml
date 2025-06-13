@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Fantus og lydene</title>
+    <title>De 8 siste fra Fantus og lydene</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Fantus og lydene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantus_og_lydene for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Fantus og lydene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantus_og_lydene for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Apr 2025 06:41:41 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Apr 2025 06:02:00 +0200</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 06:45:47 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    <item>
+      <title>Korpset</title>
+      <description><![CDATA[Fantus hermer etter lydene fra korpset: både trompeten, tubaen og trommen. Bli med du også!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantus_og_lydene/4ec2bea2-e70d-4c09-877e-3f9e688370a0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/4ec2bea2-e70d-4c09-877e-3f9e688370a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:54</itunes:duration>
+      <pubDate>Fri, 13 Jun 2025 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    </item>
+    <item>
+      <title>Bondegården</title>
+      <description><![CDATA[Noen på bondegården sier mjau, noen grynter og andre kakler. Men hvem er det Fantus møter som roper kykeliky?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantus_og_lydene/604afadd-8854-4e01-b272-34624f5aeab8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/604afadd-8854-4e01-b272-34624f5aeab8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:35</itunes:duration>
+      <pubDate>Fri, 13 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"/>
+    </item>
     <item>
       <title>Jungelen</title>
       <description><![CDATA[Kan du brøle like høyt som en løve? Eller trampe like hardt som en elefant?  Fantus drar til jungelen, bli med du også!]]></description>
