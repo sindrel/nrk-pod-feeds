@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Jun 2025 13:45:28 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 13:43:29 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Jonas Benyoub i Hotel Cæsar</title>
+      <description><![CDATA[Artisten Jonas Benyoub er nominert til Heddaprisen for sin krevende rolle i «Da vi var yngre». Men han har flere roller på CV-en.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/fdf07f2a-4385-47fd-a666-83447a9f613e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/fdf07f2a-4385-47fd-a666-83447a9f613e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:23</itunes:duration>
+      <pubDate>Fri, 13 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Dt3zeIAzX0Sjxuv4w-dxcA-PCgDkjrQGDe6k--OISGSQ.jpg"/>
+    </item>
     <item>
       <title>Tigergutt var bakfulle på scenen</title>
       <description><![CDATA[Tigergutt avslører hva de har på raideren, og om det blir noe videre samarbeid med Erna Solberg.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>44:40</itunes:duration>
       <pubDate>Fri, 30 May 2025 10:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LtwN9ZffaVz-QCiXjBsPdQu1INtOaajPf050U3bgS82g.jpg"/>
-    </item>
-    <item>
-      <title>Backstage med Dagny</title>
-      <description><![CDATA[Dagny skal på turné med Justin Timberlake! Hun forteller om hvordan det er å varme opp for verdensstjerner – med eller uten egen «popemobil».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/14cbba17-0fbc-4491-9752-7b58706488c2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/14cbba17-0fbc-4491-9752-7b58706488c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:40</itunes:duration>
-      <pubDate>Wed, 28 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Hy-_tdXUyt1KS2hnDZYD2gkOaftjFpvuEyi5dfIo1_hw.jpg"/>
     </item>
   </channel>
 </rss>
