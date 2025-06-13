@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Jun 2025 18:43:13 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Jun 2025 18:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 18:43:35 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Israel angriper Iran</title>
+      <description><![CDATA[Israel har gjennomført massive angrep i et forsøk på å forhindre Iran i å utvikle atomvåpen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9e95ef3f-6e23-473e-8257-d6ec3b7a0a3a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9e95ef3f-6e23-473e-8257-d6ec3b7a0a3a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:53</itunes:duration>
+      <pubDate>Fri, 13 Jun 2025 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N1-Lnz3xjL59EMKWePDGywVs26CRe88Llv5Er0lxlZCg.jpg"/>
+    </item>
     <item>
       <title>Fly styrtet i India</title>
       <description><![CDATA[Fly har krasjet i boligfelt i India, lokalt politi melder om over 200 døde.]]></description>
@@ -93,15 +102,6 @@ I dag var det krisemøte i VM-byen]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 30 May 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r0mtaZXTK8ks__Qk1-eQkA144TBjza6eZEvH6vHKdqMQ.jpg"/>
-    </item>
-    <item>
-      <title>Nødhjelpskaos i Gaza</title>
-      <description><![CDATA[Tirsdag ble én drept og nesten 50 personer såret da det brøt ut kaos ved en av nødhjelpssentralene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d6f05b4a-430a-40f0-9208-21fdf5b862fd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d6f05b4a-430a-40f0-9208-21fdf5b862fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Wed, 28 May 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DZMF8shwSdVFx0A_PLi9oQoCYcVxgVbmTwe-eITE3v-A.jpg"/>
     </item>
   </channel>
 </rss>
