@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Jun 2025 10:39:54 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Jun 2025 12:15:00 +0200</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 04:43:07 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Sårbar og ubehagelig</title>
+      <description><![CDATA[Anne Oterholm utforsker eksistensiell ensomhet, og forsvarer gjerne sine usympatiske hovedpersoner. 
+Siste bok: «Avdrift»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/735202bb-5870-41e1-ad8b-ba1084b4e534_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/735202bb-5870-41e1-ad8b-ba1084b4e534_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:17</itunes:duration>
+      <pubDate>Fri, 13 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BRfvWWHng_7sz0-9eBolPQ5Yh09ttHZtc13dLuKIyvvQ.jpg"/>
+    </item>
     <item>
       <title>Live fra Lillehammer</title>
       <description><![CDATA[Mummi er 80 år og vi intervjuer Andrev Walden, Marit Eikemo og Jón Kalman Stefánsson fra Norsk litteraturfestival på Lillehammer.]]></description>
@@ -95,15 +105,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>57:31</itunes:duration>
       <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sheZvJj6D1YuUtvdoKln_AN94BnH-nkHbhJfwi7rHNEQ.jpg"/>
-    </item>
-    <item>
-      <title>Å våge å bli hørt</title>
-      <description><![CDATA[Erik Eikehaug pusher romankarakterene sine til å være modigere enn ham selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/41ba41dd-5c15-4ca9-a494-31e0609b9438_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/41ba41dd-5c15-4ca9-a494-31e0609b9438_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:43</itunes:duration>
-      <pubDate>Fri, 04 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zQLf1S9GLYYsFMH9DvvIfwFJGvaa8mQxqBxWe3uZ4yJg.jpg"/>
     </item>
   </channel>
 </rss>
