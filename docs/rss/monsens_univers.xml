@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Monsens univers</title>
+    <title>De 7 siste fra Monsens univers</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Monsens univers. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/monsens_univers for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Monsens univers. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/monsens_univers for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 15 Feb 2025 05:30:28 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Feb 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 06:41:40 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ.jpg"/>
+    <item>
+      <title>Fosterstilling i villmarka</title>
+      <description><![CDATA[Programleder og influenser Jørgine Vasstrand er bekymra for psykose på Canada-ekspedisjonen. Lars forteller om sin tøffeste tur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/f2c76450-15b9-4981-8556-34412f7a0cf4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/f2c76450-15b9-4981-8556-34412f7a0cf4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:33</itunes:duration>
+      <pubDate>Sat, 14 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VXrsyaIyp0KgCIDeaX95FgSwONhVAESUgfYsIfLkTh1A.jpg"/>
+    </item>
     <item>
       <title>Ekle, sinte, snille og ville hunder</title>
       <description><![CDATA[Maren Teien Rørvik ("Fra bølle til bestevenn") gir råd om hvordan bli kompis med bikkja. Lars forteller om hundeflokkene i Alaska.]]></description>
@@ -50,7 +59,7 @@
     </item>
     <item>
       <title>Hallusinasjoner i Himalaya</title>
-      <description><![CDATA["Du kaster bort livet ditt" sa de sykeste pasientene til sykepleieren Jannicke. Da dro hun til verdens vakreste fjell.
+      <description><![CDATA[– Du kaster bort livet ditt, sa de sykeste pasientene til sykepleieren Jannicke. Da dro hun til verdens vakreste fjell.
 
 (NRK opplyser: Jannicke Øien har jobbet/jobber for tiden som villmarks-guide, også med Lars Monsens firma som oppdragsgiver.)]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/2dae21e6-f290-40ca-a73e-8a587a10ea48_0_ID192MP3.mp3</guid>
