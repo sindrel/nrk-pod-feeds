@@ -34,4 +34,4 @@ jobs:
         with:
           commit_message: "chore(auto): Update podcast feed(s)"
           commit_author: Feed Updater <actions@github.com>
-          repository: ./docs/
+          file_pattern: docs/**/*
