@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Jun 2025 18:43:35 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Jun 2025 19:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Jun 2025 18:44:20 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Dømt for kroppskrenkelse</title>
+      <description><![CDATA[Gjert Ingebrigtsen ble dømt til 15 dagers fengsel for kroppskrenkelse mot datteren, men ble frikjent for mishandling.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/112a005b-6b72-4595-9d1a-cda683f402f5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/112a005b-6b72-4595-9d1a-cda683f402f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Mon, 16 Jun 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xv8pnevep1xot1dGFt1jAQvxRHAyfXAyb5g_mqBbcGtw.jpg"/>
+    </item>
     <item>
       <title>Israel angriper Iran</title>
       <description><![CDATA[Israel har gjennomført massive angrep i et forsøk på å forhindre Iran i å utvikle atomvåpen.]]></description>
@@ -93,15 +102,6 @@ I dag var det krisemøte i VM-byen]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 02 Jun 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/y05kMfP1O_tRqOn7jLMHown49_XNOuTQAxysXeXKDBqA.jpg"/>
-    </item>
-    <item>
-      <title>Nytt forslag til våpenhvile i Gaza</title>
-      <description><![CDATA[Hamas sa nei til et våpenhvileforslag i går kveld.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ac80ce53-dc04-44de-91d2-992f8b83de69_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ac80ce53-dc04-44de-91d2-992f8b83de69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 30 May 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r0mtaZXTK8ks__Qk1-eQkA144TBjza6eZEvH6vHKdqMQ.jpg"/>
     </item>
   </channel>
 </rss>
