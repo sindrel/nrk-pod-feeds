@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Jun 2025 04:45:12 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Jun 2025 04:46:27 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
+    <item>
+      <title>Markus Neby</title>
+      <description><![CDATA[Kandidat 23 er tøysefrans, musiker og programleder Markus Neby! Han har med seg en meget viktig person for NRK-systemet i Drømmespalten!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/bc9729c9-ee01-4381-9a0d-1e7d88030c30_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/bc9729c9-ee01-4381-9a0d-1e7d88030c30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:27</itunes:duration>
+      <pubDate>Mon, 16 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lqUfJwy_Nl_sGLKBjlH_oQiwLrfSW61ZVk7ApGm-xJvg.jpg"/>
+    </item>
     <item>
       <title>Henning Bang</title>
       <description><![CDATA[Komiker og P3morgen-programleder Henning Bang er nestemann ut i rekka - kandidat nummer 22 er på plass!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>49:23</itunes:duration>
       <pubDate>Mon, 14 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lz5hlWukPUXzB4JnWJHa6wrj8Kr6aFxoU56yItWe7g4A.jpg"/>
-    </item>
-    <item>
-      <title>Steinar Sagen</title>
-      <description><![CDATA[Tatoveringer vi angrer på, pantemillionærer og en Steinar-avstemning. Ta godt imot den 12. kandidat!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/474b0e47-c6c2-4043-b95f-4208fa78390f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/paa_audition/474b0e47-c6c2-4043-b95f-4208fa78390f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:31</itunes:duration>
-      <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OtGjYKg8NaLD_p2DBs6e0grzA3TbneOuE4LXrP0j_OlQ.jpg"/>
     </item>
   </channel>
 </rss>
