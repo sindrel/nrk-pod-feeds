@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-06-17  
+- Added podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2025-06-14  
 - Updated podcast 'Monsens univers' (`monsens_univers`)  
 ### 2025-06-13  
