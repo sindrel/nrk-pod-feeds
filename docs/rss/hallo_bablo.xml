@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 1 siste fra Hallo Bablo</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hallo Bablo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hallo_bablo for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Tue, 17 Jun 2025 03:56:37 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 13:20:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    <item>
+      <title>Hallo Bablo - ny podkast kommer 20.juni</title>
+      <description><![CDATA[Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart! 
+Hør gøyale, rare og ville historier i podkasten “Hallo Bablo” fra 20.juni i appen NRK Radio.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/8e9144b9-55c9-4ef1-9b43-7d4d536b5539_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/8e9144b9-55c9-4ef1-9b43-7d4d536b5539_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22</itunes:duration>
+      <pubDate>Mon, 16 Jun 2025 13:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    </item>
+  </channel>
+</rss>
