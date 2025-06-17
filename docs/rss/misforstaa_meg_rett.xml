@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Jun 2025 04:43:04 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 08:43:18 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    <item>
+      <title>Festivalsommer</title>
+      <description><![CDATA[Festivalsommeren er her. 
+Galvan elsker det, men Martha har traumer og nekter å delta på sommerens høydepunkter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/87b140d5-10b5-4f28-8496-5a4f7813d0ef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/87b140d5-10b5-4f28-8496-5a4f7813d0ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:13</itunes:duration>
+      <pubDate>Tue, 17 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
     <item>
       <title>Elsk meg!</title>
       <description><![CDATA[Martha og Galvan leter etter den store kjærligheten. Når skal de innse at de må finne seg selv først?]]></description>
@@ -93,15 +103,6 @@ Men er det bare Martha og Galvan som har blitt for gamle?]]></description>
       <itunes:duration>39:14</itunes:duration>
       <pubDate>Tue, 15 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
-    </item>
-    <item>
-      <title>Ballesjekk</title>
-      <description><![CDATA[Galvan har vært hos den deilige legen sin, Martha la sin egen bæsj i søpla, og hva er best av filmer og serier?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/98d21464-9ebf-4d74-96a3-f30b6d34cf70_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/98d21464-9ebf-4d74-96a3-f30b6d34cf70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:12</itunes:duration>
-      <pubDate>Tue, 08 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
     </item>
   </channel>
 </rss>
