@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Jun 2025 18:44:25 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Jun 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 19 Jun 2025 18:42:54 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Jun 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Overrasket med rentekutt</title>
+      <description><![CDATA[Norges Bank kutter renta med 0,25 prosentpoeng. Første rentekutt siden 2020.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/90051171-09f4-4cab-b1dc-34066b566d51_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/90051171-09f4-4cab-b1dc-34066b566d51_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Thu, 19 Jun 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xCr-uaeXukHwxEwFKlfb3QYPRHnTgAjcj_HKQhRGu8kw.jpg"/>
+    </item>
     <item>
       <title>Helsepersonell tør ikke si fra</title>
       <description><![CDATA[Helsepersonell opplever det som utrygt og nytteløst å si fra om feil, viser ny rapport.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 05 Jun 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5FTucljlw1ArixrJVsAx0A5-xdjnm_QPAXqIrT-yBvvA.jpg"/>
-    </item>
-    <item>
-      <title>Styrelederen for ski-VM vil rydde opp</title>
-      <description><![CDATA[Styrelederen  vil rydde opp etter at ski-VM går mot dundrende underskudd, men aner fortsatt ikke hvor stort underskuddet blir.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c8b1d382-eaf6-4bc1-a7d8-12e91d77bcf9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c8b1d382-eaf6-4bc1-a7d8-12e91d77bcf9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 04 Jun 2025 18:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZJgKYNwqcD_MPBHiLfIrDww7jfvvGS-M8yNl5gIX6y9Q.jpg"/>
     </item>
   </channel>
 </rss>
