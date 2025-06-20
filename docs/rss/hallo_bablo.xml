@@ -1,17 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Hallo Bablo</title>
+    <title>De 4 siste fra Hallo Bablo</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hallo Bablo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hallo_bablo for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Hallo Bablo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hallo_bablo for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Jun 2025 03:56:37 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Jun 2025 13:20:00 +0200</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 04:43:12 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Jun 2025 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    <item>
+      <title>Ja-dag</title>
+      <description><![CDATA[Even hikker så det høres ut som han sier «ja». For Lotte og Agate betyr det bare en ting: ja-dag!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/020ead2a-0897-4cbb-af2f-a584ff41cdce_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/020ead2a-0897-4cbb-af2f-a584ff41cdce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:38</itunes:duration>
+      <pubDate>Fri, 20 Jun 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    </item>
+    <item>
+      <title>Gros chili-smakeri</title>
+      <description><![CDATA[Gro lager hemmelig chili-smakeri på do. Flaks at Nils elsker chili. Eller, vent litt. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/a593cc0d-aca2-4b19-93c1-b74c2861bf7c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/a593cc0d-aca2-4b19-93c1-b74c2861bf7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:08</itunes:duration>
+      <pubDate>Fri, 20 Jun 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    </item>
+    <item>
+      <title>Oversvømmelse</title>
+      <description><![CDATA[Hvorfor fylles et basseng med vann midt i Bablo? Og er Even skylt ned i do? Tor og Agate jobber hardt for å unngå oversvømmelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/f429e845-a805-4bce-b3a3-9a14b93df8e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/f429e845-a805-4bce-b3a3-9a14b93df8e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:11</itunes:duration>
+      <pubDate>Fri, 20 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    </item>
     <item>
       <title>Hallo Bablo - ny podkast kommer 20.juni</title>
       <description><![CDATA[Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart! 
