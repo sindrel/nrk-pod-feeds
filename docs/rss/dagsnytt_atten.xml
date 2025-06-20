@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Jun 2025 18:42:54 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Jun 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 18:43:34 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Jun 2025 19:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Iran og Israel fortsetter med angrep</title>
+      <description><![CDATA[Sirene går i Israel etter flere rakettangrep fra Iran nå i ettermiddag. Ifølge Det israelske militæret har Iran avfyrt rundt 20 missiler mot landet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6d8cfde0-4bbd-45fc-bcbd-d8fa7e647f21_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6d8cfde0-4bbd-45fc-bcbd-d8fa7e647f21_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Fri, 20 Jun 2025 19:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Eul2sdse7l-DOsL3lkOvZgIBKOxRfr5n1YsJIm6u4aIg.jpg"/>
+    </item>
     <item>
       <title>Overrasket med rentekutt</title>
       <description><![CDATA[Norges Bank kutter renta med 0,25 prosentpoeng. Første rentekutt siden 2020.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 06 Jun 2025 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XX3EZLJf9ye40Sc27_mB8wkg9BIDg8CBKPuH3lLfiZuw.jpg"/>
-    </item>
-    <item>
-      <title>Vil ha Airbnb-skatt</title>
-      <description><![CDATA[Venstre i Oslo vil at også Airbnb-utleie skal skattlegges. I dag vedtok Stortinget å innføre turistskatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0a5321aa-c6b3-4be5-8e23-9686f8da85d6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0a5321aa-c6b3-4be5-8e23-9686f8da85d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 05 Jun 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5FTucljlw1ArixrJVsAx0A5-xdjnm_QPAXqIrT-yBvvA.jpg"/>
     </item>
   </channel>
 </rss>
