@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-06-21  
+- Added podcast 'Strid – de norske borgerkrigene' (`strid`)  
 ### 2025-06-18  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-06-17  
