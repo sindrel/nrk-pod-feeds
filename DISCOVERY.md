@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2025-06-21  
+- Podcast 'Hei, nabo' is considered obsolete and will be ignored in the future (`hei_nabo`)  
+### 2025-06-21  
 - Added podcast 'Strid – de norske borgerkrigene' (`strid`)  
 ### 2025-06-18  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  

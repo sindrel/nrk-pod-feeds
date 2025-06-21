@@ -442,7 +442,9 @@
         "id": "hei_nabo",
         "title": "De 10 siste fra Hei, nabo",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "heia_fotball",
