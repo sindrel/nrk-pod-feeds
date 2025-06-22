@@ -129,7 +129,9 @@
         "id": "brenner_deler_dikt",
         "title": "De 10 siste fra Brenner deler dikt",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "brillebjoerns_kvissvas",
@@ -1374,7 +1376,7 @@
         "id": "strid",
         "title": "De 10 siste fra Strid – de norske borgerkrigene",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "stroemwasenius",
