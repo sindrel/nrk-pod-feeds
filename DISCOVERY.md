@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-06-23  
+- Updated podcast 'Sommer i P2' (`sommer_i_p2`)  
 ### 2025-06-22  
 - Podcast 'Brenner deler dikt' is considered obsolete and will be ignored in the future (`brenner_deler_dikt`)  
 - Updated podcast 'Strid – de norske borgerkrigene' (`strid`)  
