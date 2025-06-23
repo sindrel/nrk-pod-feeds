@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Jun 2025 11:28:49 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Jun 2025 13:10:00 +0200</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 13:47:09 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Vi møter Kaptein Sabeltann!</title>
+      <description><![CDATA[Arin er stranda i Serbia, mens gutta har selveste Kaptein Sabeltann (eller Terje Formoe da) på besøk! Og Jonas får voksenkjeft :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a48ad3a7-6f7e-4ea0-ad3e-d6ab770d9eab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a48ad3a7-6f7e-4ea0-ad3e-d6ab770d9eab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:11</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jsGaHyYrDQ3GDIdTQTlBWATV7HQ1BFVz4oTDhOAAld4A.jpg"/>
+    </item>
     <item>
       <title>Kevin Lauren har trollet Norge</title>
       <description><![CDATA[Kevin Lauren kan clickbait og vi forsøker å lage peak radio med jentene fra PeakTV.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:00:16</itunes:duration>
       <pubDate>Tue, 10 Jun 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VuKn9yd0EpHk6J6oaHYnkwX4ql7eArXicsuiV-hB9m5g.jpg"/>
-    </item>
-    <item>
-      <title>Kan vi oppfylle Marens drøm?</title>
-      <description><![CDATA[Maren drømmer om å spille fløyte med Hans Zimmer og hans musikere, og vi gjør det vi kan for å få det til!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2f3742fb-b532-4668-917e-85e301922fba_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2f3742fb-b532-4668-917e-85e301922fba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:18</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 13:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
     </item>
   </channel>
 </rss>
