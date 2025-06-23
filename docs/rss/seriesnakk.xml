@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Seriesnakk</title>
+    <title>De 2 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Jun 2025 03:56:57 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Jun 2025 10:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 04:03:31 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/aP5YrPy3ULG8bhqM3UzHUwhNgJ3hN8iCyN-CiuOuzHPg.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
       <title>Smakebit: Seriesnakk: SKAM 10 år</title>
       <description><![CDATA[Torkil Risan fråtser i den ikoniske serien SKAM, og snakker med både de som lagde serien og de den har betydd mye for. Kommer mandag 23. juni.]]></description>
@@ -20,6 +20,15 @@
       <itunes:duration>01:02</itunes:duration>
       <pubDate>Tue, 17 Jun 2025 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ui_6ShmhCI413SoE_2hNpgifdhNyh6y2hKgLwD6HnvuA.jpg"/>
+    </item>
+    <item>
+      <title>– Hun har jo ingen venner (1:9) </title>
+      <description><![CDATA[Hvor mye av Lisa Teige er det i Eva? Lisa forteller om å kline på første opptaksdag, og Julie Andem røper hvorfor serien heter SKAM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/a0c97e96-80c7-4404-8e00-c3e9436cf6c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a0c97e96-80c7-4404-8e00-c3e9436cf6c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:49</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TM6oiB7qcfCBbzO-brXUTQsoYdMdo202bkTJRfHIrK0w.jpg"/>
     </item>
   </channel>
 </rss>
