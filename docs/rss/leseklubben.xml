@@ -1,154 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Leseklubben</title>
+    <title>De 2 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Jun 2025 10:39:47 +0000</lastBuildDate>
-    <pubDate>Wed, 28 May 2025 06:01:00 +0200</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 04:48:24 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 06:47:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/ff-ytBtp5cLR_6jvD3D2jg2BidM1RF7AtPgMDtimJftw.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>Vi åpner ballet (1:6)</title>
-      <description><![CDATA[Leseklubben hopper pladask inn i vårens vakreste kjærlighetseventyr, men er Mímir for stolt og fordomsfull mot boka?
-
-Leseoppskrift: Slik deler vi inn «Stolthet og fordom»:
-
-Leseklubben: Episode 1
-→ Les kapittel 1–6 i boka.
-Leseklubben: Episode 2
-→ Les kapittel 7–17 i boka.
-Leseklubben: Episode 3
-→ Les kapittel 18–34 i boka.
-Leseklubben: Episode 4
-→ Les kapittel 35–51 i boka.
-Leseklubben: Episode 5
-→ Les kapittel 52–61 i boka.
-Leseklubben: Episode 6]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b6ecda05-ffbd-476d-8f0a-278ebaff15f5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b6ecda05-ffbd-476d-8f0a-278ebaff15f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:46</itunes:duration>
-      <pubDate>Wed, 23 Apr 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yEoUhnxJBa6Z1g8O5HyvowPLiGOBH8jcHaszT7aqffZQ.jpg"/>
+      <title>Genanse og verdighet (1:15)</title>
+      <description><![CDATA[Lydboka er lest av Kai Remlov. Når du har hørt del 1, 2 og 3 kan du høre Leseklubben episode to.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2d460b8c-48f2-423a-afac-9c769675faa1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2d460b8c-48f2-423a-afac-9c769675faa1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:50</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
     </item>
     <item>
-      <title>Har Mr. Darcy lest «The Game»? (2:6)</title>
-      <description><![CDATA[Kristoffer rydder i søstrene, Mímir lurer på om de drikker på ball. Den spydige og frekke Mr. Bennet er en favoritt blant alle.
-
-Leseoppskrift: Slik deler vi inn «Stolthet og fordom»:
-
-Leseklubben: Episode 1
-→ Les kapittel 1–6 i boka.
-Leseklubben: Episode 2
-→ Les kapittel 7–17 i boka.
-Leseklubben: Episode 3
-→ Les kapittel 18–34 i boka.
-Leseklubben: Episode 4
-→ Les kapittel 35–51 i boka.
-Leseklubben: Episode 5
-→ Les kapittel 52–61 i boka.
-Leseklubben: Episode 6]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/788e4800-0297-4feb-992f-1b06d0d8c943_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/788e4800-0297-4feb-992f-1b06d0d8c943_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:47</itunes:duration>
-      <pubDate>Wed, 30 Apr 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yEoUhnxJBa6Z1g8O5HyvowPLiGOBH8jcHaszT7aqffZQ.jpg"/>
-    </item>
-    <item>
-      <title>Piketty og ponnitralla (3:6)</title>
-      <description><![CDATA[Mímir skriver e-post i 1800-talls stil og holder Piketty-foredrag. Kristoffer vil kjøre ponnitralle.
-
-Leseoppskrift: Slik deler vi inn «Stolthet og fordom»:
-
-Leseklubben: Episode 1
-→ Les kapittel 1–6 i boka.
-Leseklubben: Episode 2
-→ Les kapittel 7–17 i boka.
-Leseklubben: Episode 3
-→ Les kapittel 18–34 i boka.
-Leseklubben: Episode 4
-→ Les kapittel 35–51 i boka.
-Leseklubben: Episode 5
-→ Les kapittel 52–61 i boka.
-Leseklubben: Episode 6]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a68e7a3f-bb2e-4bdf-9dbc-05ce55848179_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a68e7a3f-bb2e-4bdf-9dbc-05ce55848179_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:44</itunes:duration>
-      <pubDate>Wed, 07 May 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yEoUhnxJBa6Z1g8O5HyvowPLiGOBH8jcHaszT7aqffZQ.jpg"/>
-    </item>
-    <item>
-      <title>Tre frierier og et giftemål (4:6)</title>
-      <description><![CDATA[Nå er det kaos i klubben! Håpløse frierier, «pick me»-jenter, Kirsten Giftekniv på speed og en irriterende «womansplainer».
-
-Leseoppskrift: Slik deler vi inn «Stolthet og fordom»:
-
-Leseklubben: Episode 1
-→ Les kapittel 1–6 i boka.
-Leseklubben: Episode 2
-→ Les kapittel 7–17 i boka.
-Leseklubben: Episode 3
-→ Les kapittel 18–34 i boka.
-Leseklubben: Episode 4
-→ Les kapittel 35–51 i boka.
-Leseklubben: Episode 5
-→ Les kapittel 52–61 i boka.
-Leseklubben: Episode 6]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2bd9111a-8fcd-4eb8-83ea-e12b31132800_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2bd9111a-8fcd-4eb8-83ea-e12b31132800_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:08</itunes:duration>
-      <pubDate>Wed, 14 May 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yEoUhnxJBa6Z1g8O5HyvowPLiGOBH8jcHaszT7aqffZQ.jpg"/>
-    </item>
-    <item>
-      <title>Arrangert ekteskap (5:6)</title>
-      <description><![CDATA[Et frekt brev fra «la baguette» aka Mr. Collins. Abu Hussain forteller om sitt arrangerte ekteskap.
-
-Leseoppskrift: Slik deler vi inn «Stolthet og fordom»:
-
-Leseklubben: Episode 1
-→ Les kapittel 1–6 i boka.
-Leseklubben: Episode 2
-→ Les kapittel 7–17 i boka.
-Leseklubben: Episode 3
-→ Les kapittel 18–34 i boka.
-Leseklubben: Episode 4
-→ Les kapittel 35–51 i boka.
-Leseklubben: Episode 5
-→ Les kapittel 52–61 i boka.
-Leseklubben: Episode 6]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/38664cfe-6c08-420a-a23d-73f8d8c551b7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/38664cfe-6c08-420a-a23d-73f8d8c551b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:18</itunes:duration>
-      <pubDate>Wed, 21 May 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yEoUhnxJBa6Z1g8O5HyvowPLiGOBH8jcHaszT7aqffZQ.jpg"/>
-    </item>
-    <item>
-      <title>Hvor mange ponnitraller får boka? (6:6)</title>
-      <description><![CDATA[Uenighet om slutten og en sjokkerende Colin Firth-avsløring! Og spennende nyheter om neste bok – og hvem vi skal lese med. 
-
-Leseoppskrift: Slik deler vi inn «Stolthet og fordom»:
-
-Leseklubben: Episode 1
-→ Les kapittel 1–6 i boka.
-Leseklubben: Episode 2
-→ Les kapittel 7–17 i boka.
-Leseklubben: Episode 3
-→ Les kapittel 18–34 i boka.
-Leseklubben: Episode 4
-→ Les kapittel 35–51 i boka.
-Leseklubben: Episode 5
-→ Les kapittel 52–61 i boka.
-Leseklubben: Episode 6]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5191facf-7b7c-43c3-ba7f-aad82fa40f09_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5191facf-7b7c-43c3-ba7f-aad82fa40f09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:57</itunes:duration>
-      <pubDate>Wed, 28 May 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yEoUhnxJBa6Z1g8O5HyvowPLiGOBH8jcHaszT7aqffZQ.jpg"/>
+      <title>Genanse og verdighet (2:15)</title>
+      <description><![CDATA[Lydboka er lest av Kai Remlov. Når du har hørt del 1, 2 og 3 kan du høre Leseklubben episode to.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/971cf410-fc9c-43e1-8454-a0f684c95795_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/971cf410-fc9c-43e1-8454-a0f684c95795_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:48</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:47:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aEIjz3QqSwd6CTM19P22Nw7k48vUSriat8G9uRkWzVcA.jpg"/>
     </item>
   </channel>
 </rss>
