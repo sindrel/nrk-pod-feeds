@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Jun 2025 17:34:40 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Jun 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 17:34:00 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Behov for ny skattereform</title>
+      <description><![CDATA[Det internasjonale pengefondet med fersk rapport om norsk økonomi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8e12c5bb-1858-440c-be9c-d8c1497b5cff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8e12c5bb-1858-440c-be9c-d8c1497b5cff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:03</itunes:duration>
+      <pubDate>Thu, 26 Jun 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gJ3WfGcAPk6snbiC54bXnweP4J_nJsRW335Wjnr44qXQ.jpg"/>
+    </item>
     <item>
       <title>Høyre lover skattekutt</title>
       <description><![CDATA[Erna Solberg vil gi 12 000 kroner i skattelette til folk i arbeid. ]]></description>
@@ -93,15 +102,6 @@ Trump sier han er skuffet og legger press på begge landene.]]></description>
       <itunes:duration>58:53</itunes:duration>
       <pubDate>Fri, 13 Jun 2025 19:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/N1-Lnz3xjL59EMKWePDGywVs26CRe88Llv5Er0lxlZCg.jpg"/>
-    </item>
-    <item>
-      <title>Fly styrtet i India</title>
-      <description><![CDATA[Fly har krasjet i boligfelt i India, lokalt politi melder om over 200 døde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8ccc5fab-daf0-4696-ac6b-cd1a67762631_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8ccc5fab-daf0-4696-ac6b-cd1a67762631_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 12 Jun 2025 18:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wSEXpzpDs4LQFGXc2q31BQNm3UZexdAu4Xh5Lj1zTGxg.jpg"/>
     </item>
   </channel>
 </rss>
