@@ -6,15 +6,42 @@
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Gamle greier. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/gamle_greier for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Aug 2024 04:31:08 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Aug 2024 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 06:46:26 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
     <item>
+      <title>En skeiv historie</title>
+      <description><![CDATA[I 1844 blir Simonette Vold anmeldt for seksuell omgang med tjenestepiken, Olava. Nå starter en absurd jakt på bevis og vitner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/767524b8-b5e0-4da3-b39f-5cb485ce1da9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/767524b8-b5e0-4da3-b39f-5cb485ce1da9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:54</itunes:duration>
+      <pubDate>Thu, 26 Jun 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
+    <item>
+      <title>Jakten på djevelens hjelper</title>
+      <description><![CDATA[Finnmark, 1691. Myndighetene mener Anders Poulsens samiske tromme er djevelsk. Nå må han kjempe en hard kamp for å renvaske seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/c7afb89c-eec9-489d-a658-532513d7aaaa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/c7afb89c-eec9-489d-a658-532513d7aaaa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:35</itunes:duration>
+      <pubDate>Thu, 26 Jun 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
+    <item>
+      <title>Den glemte katastrofen</title>
+      <description><![CDATA[Herman Wildenvey er bare 19 år og på vei mot et bedre liv i Amerika, når skipet han er ombord i, synker. Nå må Herman kjempe for livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/3aba8dd8-80bc-433b-91fd-b25f4a49b5f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/3aba8dd8-80bc-433b-91fd-b25f4a49b5f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:15</itunes:duration>
+      <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
+    <item>
       <title>Spiontragedien på Arnøya  (4:4)</title>
-      <description><![CDATA[Hvem hjalp nazistene under krigen? Året er 1951. Over hele landet stiller folk dette spørsmålet i rettssaker som skal stille folk til ansvar. Fiskeren Alf Jørgensen er sikker på at det er hans niese Betzy Nyvoll som angå han og familien til nazistene. I rettsoppgjøret kommer svaret, men det hele tar en uventet vending når det blir stilt spørsmål ved hans motivasjon under krigen.]]></description>
+      <description><![CDATA[Etter krigen må alle stå til ansvar for sine handlinger. Alf Jørgensen møter i retten og får endelig vite hvem som svek ham og anga familien.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/6e9bc690-5a69-414a-90fb-2718ec99b97c_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/gamle_greier/6e9bc690-5a69-414a-90fb-2718ec99b97c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:33</itunes:duration>
@@ -73,33 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/gamle_greier/ef484c86-a936-4811-8938-8cb9b8bf57dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:05</itunes:duration>
       <pubDate>Fri, 02 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
-    </item>
-    <item>
-      <title>Kongen som ikke ville krige</title>
-      <description><![CDATA[I 1261 får Norge en ny og uvanlig konge, som – ulikt kongene før ham,  ikke vil krige. Kong Magnus vil samle riket under én lov, men møter sterk motstand.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/225b6413-709d-4da3-96bd-a2947c1a81f9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/225b6413-709d-4da3-96bd-a2947c1a81f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:06</itunes:duration>
-      <pubDate>Wed, 24 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
-    </item>
-    <item>
-      <title>Hvem drepte lille Mary? (2:2)</title>
-      <description><![CDATA[Lille Marys livløse kropp blir funnet i en sekk i Oslofjorden, og seriekriminelle Ingvald Hansen blir pågrepet. Men har politiet tatt rett mann?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/fa21d852-f631-4a9b-9102-4e4eb188cda1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/fa21d852-f631-4a9b-9102-4e4eb188cda1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:50</itunes:duration>
-      <pubDate>Mon, 22 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
-    </item>
-    <item>
-      <title>Hvem drepte lille Mary? (1:2)</title>
-      <description><![CDATA[7 år gamle Mary går en iskald januarkveld ut for å kjøpe godteri – og forsvinner sporløst. En tidligere utuktsdømt havner snart i politiets søkelys.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/1b7f6f02-749c-4d1d-9e83-bbea9d9d8417_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/1b7f6f02-749c-4d1d-9e83-bbea9d9d8417_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:44</itunes:duration>
-      <pubDate>Fri, 19 Jul 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
     </item>
   </channel>
