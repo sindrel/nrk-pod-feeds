@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-06-27  
+- Updated podcast 'Debatten' (`debatten`)  
 ### 2025-06-26  
 - Updated podcast 'Gamle greier' (`gamle_greier`)  
 ### 2025-06-23  
