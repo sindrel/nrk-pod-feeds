@@ -1022,7 +1022,9 @@
         "id": "olgull",
         "title": "De 10 siste fra OL-gull",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "oppdatert",

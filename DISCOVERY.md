@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2025-06-28  
+- Podcast 'OL-gull' is considered obsolete and will be ignored in the future (`olgull`)  
+### 2025-06-28  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 - Updated podcast 'Luođis luohtái' (`luois_luohti`)  
 ### 2025-06-27  
