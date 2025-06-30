@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Jun 2025 04:03:30 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 04:02:44 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw.jpg"/>
+    <item>
+      <title>Adelina og Jon: Pilot!</title>
+      <description><![CDATA[Auditionrunden er over: Jon Almaas er vinneren. Og dette er vår pilot!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/c42bd904-6a3b-45a3-9a35-d7462c161f8a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/c42bd904-6a3b-45a3-9a35-d7462c161f8a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:23</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ls8ihdfdcb0SXjNHk9J2mg6C6KN59meCWTb-XHKiXqmA.jpg"/>
+    </item>
     <item>
       <title>Silje Nordnes</title>
       <description><![CDATA[Den aller siste kandidaten i rekka er nordlending, levekvinne og Maskorama-legende; Silje Nordnes!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>40:51</itunes:duration>
       <pubDate>Mon, 28 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TfoPj0CQHnFOqxKIKDcYQQ8dcCkUY_6TdHJARxIcG2BQ.jpg"/>
-    </item>
-    <item>
-      <title>Javad El Bakali</title>
-      <description><![CDATA[Morsom, snill, overraskende og fantasifull! 14. kandidat innehar alle disse kvalitetene! Javad El Bakali er kongen av «memes», men kan han være en god programleder?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/paa_audition/fea40347-f9cf-48d0-b24f-caa7e7cdc156_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/paa_audition/fea40347-f9cf-48d0-b24f-caa7e7cdc156_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:50</itunes:duration>
-      <pubDate>Mon, 21 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JjLO8tFGgrtaditVjhSnDA3mXgLEHxQTuoTBJdIeqtvg.jpg"/>
     </item>
   </channel>
 </rss>
