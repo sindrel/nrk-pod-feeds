@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 27 Jun 2025 18:43:24 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Jun 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 17:32:52 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Dømt til forvaring</title>
+      <description><![CDATA[Jan Helge Andersen dømmes til to års forvaring i Baneheia-saken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4fb76bf1-c351-4de3-bbe2-6be248f524b2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4fb76bf1-c351-4de3-bbe2-6be248f524b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/G7LcqUJNwhf9YwTPgT0peQFKH4WgkUrzhqBMWZD4D1Cg.jpg"/>
+    </item>
     <item>
       <title>Høiby siktet for 23 lovbrudd</title>
       <description><![CDATA[Politiet har avsluttet etterforskningen mot Marius Borg Høiby.]]></description>
@@ -93,15 +102,6 @@ Trump sier han er skuffet og legger press på begge landene.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 17 Jun 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_EFTLkb0gi-okFAPUkhuOgkH_Q807JQFyt3vPkqB0k3Q.jpg"/>
-    </item>
-    <item>
-      <title>Dømt for kroppskrenkelse</title>
-      <description><![CDATA[Gjert Ingebrigtsen ble dømt til 15 dagers fengsel for kroppskrenkelse mot datteren, men ble frikjent for mishandling.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/112a005b-6b72-4595-9d1a-cda683f402f5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/112a005b-6b72-4595-9d1a-cda683f402f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Mon, 16 Jun 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xv8pnevep1xot1dGFt1jAQvxRHAyfXAyb5g_mqBbcGtw.jpg"/>
     </item>
   </channel>
 </rss>
