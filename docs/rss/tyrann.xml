@@ -1,61 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Tyrann</title>
+    <title>De 1 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Jun 2025 04:45:04 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Jun 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2025 04:08:13 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Pinochet (1:4)</title>
-      <description><![CDATA[I 40 år jobber Pinochet lojalt for Chiles folkevalgte. Men plutselig snur generalen og begår et blodig kupp mot landets president.
-
-
-Kilder: 
-The Pinochet File - Peter Kornbluh 
-Politics of Torture - Hugh O'Shaughnessy 
-The Pinochet Affair - Roger Burbach 
-Sådan forvandlede Pinochet Chile til en rædselsstat - historienet.dk 
-Music and Torture in Chilean Detention Centers - Katia Chornik
-Kuppet i Chile og den danske venstrefløj - Morten Lassen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/d8670218-8207-40cd-87f9-245bf020d363_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/d8670218-8207-40cd-87f9-245bf020d363_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:09</itunes:duration>
-      <pubDate>Tue, 03 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nwIg_fF50IbohUY8zrFiAgnYFHc5u-1MRe0sBCaEPmxw.jpg"/>
-    </item>
-    <item>
-      <title>Pinochet (2:4)</title>
-      <description><![CDATA[Brutalt fikk Pinochet bombet seg til topps i Chile. For å få rensket ut all opposisjon, er absolutt alle tenkelige midler tillatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/eaa2f7c6-f58f-4f38-a016-5751dfb143f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/eaa2f7c6-f58f-4f38-a016-5751dfb143f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:56</itunes:duration>
-      <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nwIg_fF50IbohUY8zrFiAgnYFHc5u-1MRe0sBCaEPmxw.jpg"/>
-    </item>
-    <item>
-      <title>Pinochet (3:4)</title>
-      <description><![CDATA[Når Pinochet får overtenning presser USA på for å få dempet diktatorens blodtørst. Men klarer en tyrann gi fra seg makt frivillig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/bd306695-34e8-4689-8c16-44b8b28cefa3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/bd306695-34e8-4689-8c16-44b8b28cefa3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:08</itunes:duration>
-      <pubDate>Tue, 17 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nwIg_fF50IbohUY8zrFiAgnYFHc5u-1MRe0sBCaEPmxw.jpg"/>
-    </item>
-    <item>
-      <title>Pinochet (4:4)</title>
-      <description><![CDATA[Diktatorer og valg er en dårlig mix. Men etter at chilenerne har stemt ut Pinochet, får han støtte fra en gammel, mektig venninne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/7a4b8972-50b0-470d-904d-7dd369f6d665_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/7a4b8972-50b0-470d-904d-7dd369f6d665_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:10</itunes:duration>
-      <pubDate>Tue, 24 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nwIg_fF50IbohUY8zrFiAgnYFHc5u-1MRe0sBCaEPmxw.jpg"/>
+      <title>Hirohito</title>
+      <description><![CDATA[Selv Tyranner tar sommerferie. Så 23.august er vi tilbake med Japans keiser Hirohito som måtte atombombes ut av andre verdenskrig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/49080c2e-43f7-410a-93fd-f22104404e21_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/49080c2e-43f7-410a-93fd-f22104404e21_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:31</itunes:duration>
+      <pubDate>Tue, 01 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA.jpg"/>
     </item>
   </channel>
 </rss>
