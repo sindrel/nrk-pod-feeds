@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Jul 2025 04:47:31 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Jul 2025 04:46:01 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Ronny Brede Aase</title>
+      <description><![CDATA[Treng vi fortelje kva avgrensingar folk har? Nei, seier Ronny. Som barn fekk han sykle til han tryna. Det er han glad for.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3404f5cc-99dc-4c54-a371-a8c69ddfb53f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3404f5cc-99dc-4c54-a371-a8c69ddfb53f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:58</itunes:duration>
+      <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Q4_emM9akLPkovlND7NDHw39EFMnhW_haUIiebA_dqsQ.jpg"/>
+    </item>
     <item>
       <title>Kjetil Gilberg</title>
       <description><![CDATA[Pastoren liker ikke å krangle, men når han ser hvordan skeive blir behandlet i menigheten, tar han kampen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>40:31</itunes:duration>
       <pubDate>Mon, 23 Jun 2025 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-rodKfbZaIm6RdyA6FaJRgbwSFaqT9v_LX-uEBrLFCgQ.jpg"/>
-    </item>
-    <item>
-      <title>Gina Gylver</title>
-      <description><![CDATA[Hvis ikkje du, kven? Viss ikkje no, når? Ho tar saka i eigne hender når verda brenn. Sjølv når det verste som kunne skje, skjer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/aee4482f-a7be-437e-8a90-bd9f1969d1a7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/aee4482f-a7be-437e-8a90-bd9f1969d1a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:38</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9haqpqtDhwasaIZJ7mVCoA3zbZau7itloKc7iNiDuSYQ.jpg"/>
     </item>
   </channel>
 </rss>
