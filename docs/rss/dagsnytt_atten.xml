@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Jul 2025 18:42:27 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Jul 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Jul 2025 17:35:02 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Netanyahu i Det hvite hus</title>
+      <description><![CDATA[Israels statsminister er i Washington, der han skal diskutere en mulig våpenhvileavtale for Gaza med president Donald Trump.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2ea141d5-94c9-40bf-8781-41f9983820d0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2ea141d5-94c9-40bf-8781-41f9983820d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Mon, 07 Jul 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Cm60TebXwE44-KCqQxhLrADJV26vHf2FXu8PKTpShXUw.jpg"/>
+    </item>
     <item>
       <title>Trump har snakket med Zelenskyj</title>
       <description><![CDATA[Store russiske angrep mot Ukrainas hovedstad i natt]]></description>
@@ -93,15 +102,6 @@ Trump sier han er skuffet og legger press på begge landene.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 24 Jun 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YjBrjTl9zo_d_NKl8GziCwu9yjbteGfGS6Y8mrCg7DSw.jpg"/>
-    </item>
-    <item>
-      <title>Bekymring for storkrig i Midt-Østen</title>
-      <description><![CDATA[Nato-landene er uenige om USAs angrep på Iran er et folkerettsbrudd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/949e1813-d8e8-42a8-af2f-631619dcf145_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/949e1813-d8e8-42a8-af2f-631619dcf145_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QNo-VwOx5DDRyoc7vSN5WA_sjl1AjeRt0t66zCrtKwyQ.jpg"/>
     </item>
   </channel>
 </rss>
