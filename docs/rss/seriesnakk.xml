@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Seriesnakk</title>
+    <title>De 5 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Jul 2025 04:45:58 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Jul 2025 04:48:31 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
@@ -47,6 +47,15 @@
       <itunes:duration>39:25</itunes:duration>
       <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Q76QL7sImAfEnd22SPsXUgGUkwZhBDyN7VdibEFUI-_A.jpg"/>
+    </item>
+    <item>
+      <title>– Evnen til å ta noen med storm (5:9)</title>
+      <description><![CDATA[Carl Martin Eggesbø fikk spørsmål om han var «homo på ekte», og Henrik Holm deler om hvordan han fikk rollen som Even.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/ebf1100b-c130-4562-bbff-59219b9f443d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/ebf1100b-c130-4562-bbff-59219b9f443d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:51</itunes:duration>
+      <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bpnaRLSZrvQYwtCMidPU9wn0o0GSlNOta-xnKUFLNyhg.jpg"/>
     </item>
   </channel>
 </rss>
