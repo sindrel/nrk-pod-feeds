@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-07-07  
+- Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
 ### 2025-06-30  
 - Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
 ### 2025-06-28  
