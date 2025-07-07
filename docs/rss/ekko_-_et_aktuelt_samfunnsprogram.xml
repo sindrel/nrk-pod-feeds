@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 30 Jun 2025 10:40:51 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Jun 2025 12:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Jul 2025 04:03:02 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Den norske drømmen om Amerika</title>
+      <description><![CDATA[For 200 år siden reiste et skip med 52 nordmenn om bord til det nye landet i vest, noe som ble startskuddet for den norske utvandringen til Amerika.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/66134edb-45c9-4122-ac6c-a6fc9c815044_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/66134edb-45c9-4122-ac6c-a6fc9c815044_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:35</itunes:duration>
+      <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-1zR-psh9Eh4EIp3vdqO_gQ4M_C5n2G55OseRe-F_6TA.jpg"/>
+    </item>
     <item>
       <title>Blir MMA-kamper lovlig i Norge?</title>
       <description><![CDATA[Kampsporten MMA har blitt et globalt fenomen, men i Norge er det fortsatt forbudt å gå kamper. Men kan dette være i ferd med å snu?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:39</itunes:duration>
       <pubDate>Tue, 10 Jun 2025 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/b923nrZMEmHHUglqEUkmZgr1ySybHqcrkOGqVyrNCJRQ.jpg"/>
-    </item>
-    <item>
-      <title>Spør Ekko: Roboten som lege?</title>
-      <description><![CDATA[Korleis endrar kunstig intelligens helsevesenet vårt? Kva er fordelane og ulempene? Ekspertane svarer på dine spørsmål.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7a85361e-0bff-4857-9e39-503e49daca49_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7a85361e-0bff-4857-9e39-503e49daca49_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:05</itunes:duration>
-      <pubDate>Mon, 09 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yqvc1_ag7QdubKil3iMgiggZKaMQTSfIAqDsdF6xmvXg.jpg"/>
     </item>
   </channel>
 </rss>

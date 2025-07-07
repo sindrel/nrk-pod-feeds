@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 06 Jul 2025 04:02:59 +0000</lastBuildDate>
-    <pubDate>Sun, 06 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Jul 2025 04:03:17 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Fred Buljo</title>
+      <description><![CDATA[Før Eurovision var det utenkelig å joike på scenen. Nå vrenger han sjela si og ser for seg vidda mens han joiker for hele verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3ec8328c-9e5a-4942-b2d4-794680f0a1c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3ec8328c-9e5a-4942-b2d4-794680f0a1c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:02</itunes:duration>
+      <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yn3JHuMJwNHwROBW08fSrwk3JCJPws2PdYJ_5b9K3Nug.jpg"/>
+    </item>
     <item>
       <title>Christine Koht</title>
       <description><![CDATA[Ho trur ho lever til hausten, men er ikkje sikker. No vil Christine Koht gjere mest mogleg ut av augeblikka.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>28:56</itunes:duration>
       <pubDate>Mon, 23 Jun 2025 06:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xPguU80vAhYhYD5g096y5AFYNuhYaTHU6Pejz5WBqeow.jpg"/>
-    </item>
-    <item>
-      <title>Carl I. Hagen</title>
-      <description><![CDATA[Han drøymer om at døden skal kome brått og uventa ved talarstolen. No er han ferdig på Stortinget og ser tilbake på karrieren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/ad9a85c7-53ef-478e-b320-ae428875d354_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/ad9a85c7-53ef-478e-b320-ae428875d354_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:41</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vqmP1Q5LR4r6mFEQ9ws_sgiQXnDL1gf5ZVUh2XsLNkfg.jpg"/>
     </item>
   </channel>
 </rss>
