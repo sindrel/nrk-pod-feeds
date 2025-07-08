@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Jul 2025 04:03:17 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2025 04:44:44 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Amir Asgharnejad</title>
+      <description><![CDATA[Komikeren krasjet på sykkel og ble «Herr kunstmaler». Nå leter han etter livets honning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5cfcb159-9704-4549-951c-7bc0874d1109_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5cfcb159-9704-4549-951c-7bc0874d1109_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:58</itunes:duration>
+      <pubDate>Tue, 08 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DpRqF_5Fr5gIkoFHrjNsbwsynHWlfKvjU4hdBzbrvKsw.jpg"/>
+    </item>
     <item>
       <title>Fred Buljo</title>
       <description><![CDATA[Før Eurovision var det utenkelig å joike på scenen. Nå vrenger han sjela si og ser for seg vidda mens han joiker for hele verden.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>28:55</itunes:duration>
       <pubDate>Mon, 23 Jun 2025 06:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pczxidpGEaZGyRyuPb9XhQKKmc2YiuqE4SMIs6w-0XFQ.jpg"/>
-    </item>
-    <item>
-      <title>Ola Hoftun Lillelien</title>
-      <description><![CDATA[Da han kom ut som skeiv, var han den eneste blant mannlige toppidrettsutøvere i Norge. Hvorfor var det så vanskelig å være åpen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/48705f3e-4e74-46be-b674-b3d10a916f7f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/48705f3e-4e74-46be-b674-b3d10a916f7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:56</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xPguU80vAhYhYD5g096y5AFYNuhYaTHU6Pejz5WBqeow.jpg"/>
     </item>
   </channel>
 </rss>
