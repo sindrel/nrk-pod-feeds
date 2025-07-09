@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 08 Jul 2025 04:44:44 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Jul 2025 04:02:40 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Dag Sørås</title>
+      <description><![CDATA[Som ung elsket han Gud, og straffet seg selv når han syndet. Nå raljerer komikeren med alle religioner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/79d35749-ac3d-4c41-aa62-fd8401b521eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/79d35749-ac3d-4c41-aa62-fd8401b521eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:31</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Pm3_31PYY2saVDtGgpuDCQbQFQpXE7qYatFcyFJqwWjg.jpg"/>
+    </item>
     <item>
       <title>Amir Asgharnejad</title>
       <description><![CDATA[Komikeren krasjet på sykkel og ble «Herr kunstmaler». Nå leter han etter livets honning.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>29:57</itunes:duration>
       <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/O5s9tpDfwanXpckpD-8LAAC9OW0vCw5HzXs1ffbC5HBA.jpg"/>
-    </item>
-    <item>
-      <title>Henriette Steenstrup</title>
-      <description><![CDATA[Hun stupte ut i en klase med brennmaneter og lærte noe viktig om livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5339bd85-5a7e-477d-a9f6-89254223ce43_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5339bd85-5a7e-477d-a9f6-89254223ce43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:55</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pczxidpGEaZGyRyuPb9XhQKKmc2YiuqE4SMIs6w-0XFQ.jpg"/>
     </item>
   </channel>
 </rss>
