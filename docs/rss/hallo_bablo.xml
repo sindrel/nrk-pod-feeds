@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Hallo Bablo</title>
+    <title>De 7 siste fra Hallo Bablo</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Hallo Bablo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hallo_bablo for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Hallo Bablo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hallo_bablo for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Jul 2025 04:45:44 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Jul 2025 04:06:41 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    <item>
+      <title>Superlim</title>
+      <description><![CDATA[Å ta feil av superlim og leppepomade er IKKE lurt, Even. Lila må være voksen mann og Tor har limt seg fast i taket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/c2078400-4bbe-48cb-b85d-e0e685948d27_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/c2078400-4bbe-48cb-b85d-e0e685948d27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:31</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    </item>
     <item>
       <title>Dinosaur-mysteriet</title>
       <description><![CDATA[Lotte og Yared kommer til et Bablo fullt av digre fotavtrykk. Er de laget av et monster? En dinosaur? Eller noe helt annet?]]></description>
