@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Jul 2025 04:07:02 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 12 Jul 2025 04:01:44 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Kathrine Kinn</title>
+      <description><![CDATA[Fast bestemt på å klare seg selv, drar hun fra Oslo for å finne seg en gård.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/12105f93-46d6-482e-921d-f08bbc890c4a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/12105f93-46d6-482e-921d-f08bbc890c4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:53</itunes:duration>
+      <pubDate>Sat, 12 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1cwWiNj8wG2-o5qf4kVK0wp1Bto6wqndIBFU_HkyZrtQ.jpg"/>
+    </item>
     <item>
       <title>Robert Mood</title>
       <description><![CDATA[Som generalløytnant møtte han verdenskjente statsledere. Noen har skremt ham, og noen har inspirert ham. Hva er en god leder?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>37:08</itunes:duration>
       <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BDllF96oAPEuAMs7Hy5aRQTDUN2BxorpgW1JQ-P1-EXA.jpg"/>
-    </item>
-    <item>
-      <title>Olle Abstract</title>
-      <description><![CDATA[Ellevill festing tok brått slutt da DJ Olle «Abstract» fikk et møte med døden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e028d32e-06ec-411d-b447-ae5dd75f37a2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e028d32e-06ec-411d-b447-ae5dd75f37a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:11</itunes:duration>
-      <pubDate>Wed, 02 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yWiLu-o6VFZ1nKW9wBa49gVQqkbsP-vLDc61VKpNNrAA.jpg"/>
     </item>
   </channel>
 </rss>
