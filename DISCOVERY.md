@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-07-13  
+- Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
 ### 2025-07-12  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2025-07-10  
