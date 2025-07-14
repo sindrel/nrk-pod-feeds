@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Jul 2025 04:48:42 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 04:10:49 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Bonus: Derfor går du i forsvar</title>
+      <description><![CDATA[Aksel Inge Sinding forklarer hvorfor vi kan ha en tendens til å gå i forsvar når vi krangler med partneren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/8dc5932e-17d5-40ef-9fd9-4bed8295ad57_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/8dc5932e-17d5-40ef-9fd9-4bed8295ad57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:47</itunes:duration>
+      <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
     <item>
       <title>Forstå mannen bedre</title>
       <description><![CDATA[Har samfunnet, og ikke minst kvinner, for mange krav til menn i dag? Psykologspesialist Kim Edgar Karlsen svarer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>14:05</itunes:duration>
       <pubDate>Fri, 23 May 2025 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
-    </item>
-    <item>
-      <title>Alt om overgangsalderen</title>
-      <description><![CDATA[Hva betyr «perimenopause» og «postmenopause»? Lege Marianne Natvik forklarer overgangsalderen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/369ff0e9-fb12-4fa7-85e9-a150dbca4962_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/369ff0e9-fb12-4fa7-85e9-a150dbca4962_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:27:00</itunes:duration>
-      <pubDate>Wed, 21 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
 </rss>
