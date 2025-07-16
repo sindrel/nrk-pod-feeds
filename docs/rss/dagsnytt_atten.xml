@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Jul 2025 18:47:27 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Jul 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 17:38:33 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Israel har angrepet Damaskus</title>
+      <description><![CDATA[Angrepet skal være rettet mot både presidentpalasset og hovedkvarteret til det syriske militæret.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4966b346-9ecd-440f-a21c-3ea896a9dec8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4966b346-9ecd-440f-a21c-3ea896a9dec8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:26</itunes:duration>
+      <pubDate>Wed, 16 Jul 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NATCI8tahABPpfY_sDa1Twhu-6CY_C3Bg0vjQYSy31QQ.jpg"/>
+    </item>
     <item>
       <title>Rasutsatte Skarfjell overvåkes</title>
       <description><![CDATA[NVE overvåker nå en rasutsatt fjellside i Skarfjellet i frykt for kollaps.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 03 Jul 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y8WIPubNvO1FlhfTRMA1EQNcU9MLCC6rnKjt_xdHmE9g.jpg"/>
-    </item>
-    <item>
-      <title>Hevder våpenhvile nærmer seg i Gaza</title>
-      <description><![CDATA[Donald Trump sier at Israel har gått med på betingelser for å ferdigstille 60 dagers våpenhvile i Gaza.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bba74b0a-705f-4f87-b555-b401a6817295_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bba74b0a-705f-4f87-b555-b401a6817295_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:53</itunes:duration>
-      <pubDate>Wed, 02 Jul 2025 19:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2q8uyb1rDzeooPRMUToP7w4SXgIRUFTffoNvtLVyCjbA.jpg"/>
     </item>
   </channel>
 </rss>
