@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-07-16  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2025-07-13  
 - Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
 ### 2025-07-12  
