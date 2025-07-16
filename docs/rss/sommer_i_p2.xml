@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Jul 2025 04:07:53 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Jul 2025 06:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 04:06:48 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Eirik Krokås</title>
+      <description><![CDATA[Problemene kom brått den dagen komikeren tråkket i et jordvepsebol. Snikende problemer er verre å løpe fra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/454e23a6-bc27-4a54-b95e-7eb5c8317c1e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/454e23a6-bc27-4a54-b95e-7eb5c8317c1e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:26</itunes:duration>
+      <pubDate>Wed, 16 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/e9zU2JBHdmB9O3hlRQsxhAihrz_kVkdPRAyXn2EQvegw.jpg"/>
+    </item>
     <item>
       <title>Niillas Somby</title>
       <description><![CDATA[Aktivisten aksjonerte mot Alta-utbyggingen og ble Norges mest ettersøkte terrorist.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>39:58</itunes:duration>
       <pubDate>Tue, 08 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DpRqF_5Fr5gIkoFHrjNsbwsynHWlfKvjU4hdBzbrvKsw.jpg"/>
-    </item>
-    <item>
-      <title>Fred Buljo</title>
-      <description><![CDATA[Før Eurovision var det utenkelig å joike på scenen. Nå vrenger han sjela si og ser for seg vidda mens han joiker for hele verden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3ec8328c-9e5a-4942-b2d4-794680f0a1c5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3ec8328c-9e5a-4942-b2d4-794680f0a1c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:02</itunes:duration>
-      <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yn3JHuMJwNHwROBW08fSrwk3JCJPws2PdYJ_5b9K3Nug.jpg"/>
     </item>
   </channel>
 </rss>

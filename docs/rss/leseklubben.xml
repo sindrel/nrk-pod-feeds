@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Leseklubben</title>
+    <title>De 2 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Jul 2025 04:48:39 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Jul 2025 06:02:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 04:06:38 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
@@ -33,6 +33,29 @@ Leseklubben: Episode 6]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/db039ab6-f752-4131-973e-bb316834810e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:16</itunes:duration>
       <pubDate>Wed, 09 Jul 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/upzkO2zs_awDaN5ZE4il9gfxMW2Pe4k7BMWbVy0McnLw.jpg"/>
+    </item>
+    <item>
+      <title>Gøyalt dovendyr og blodrasist (2:6)</title>
+      <description><![CDATA[Amalie googler ord. Klubben elsker miss Baker og grøsser over Tom. Christine avslører at forfatteren stjal!
+
+Leseoppskrift: Slik deler vi inn «The Great Gatsby»:
+
+Leseklubben: Episode 1
+→ Les/hør kapittel 1 i boka.
+Leseklubben: Episode 2
+→ Les/hør kapittel 2 og 3 i boka.
+Leseklubben: Episode 3
+→ Les/hør kapittel 4 og 5 i boka.
+Leseklubben: Episode 4
+→ Les/hør kapittel 6 og 7 i boka.
+Leseklubben: Episode 5
+→ Les/hør kapittel 8 og 9 i boka.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/65cb3253-58e5-458f-9e7b-a7cdba483abf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/65cb3253-58e5-458f-9e7b-a7cdba483abf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:03</itunes:duration>
+      <pubDate>Wed, 16 Jul 2025 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/upzkO2zs_awDaN5ZE4il9gfxMW2Pe4k7BMWbVy0McnLw.jpg"/>
     </item>
   </channel>
