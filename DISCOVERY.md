@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-07-17  
+- Updated podcast 'Kveldstanker' (`kveldstanker`)  
 ### 2025-07-16  
 - Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2025-07-13  
