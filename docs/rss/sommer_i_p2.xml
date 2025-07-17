@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 16 Jul 2025 04:06:48 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Jul 2025 04:06:43 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Ingrid Storholmen</title>
+      <description><![CDATA[–  Det er farlig å leve, til slutt dør du av det. Hun fordypet seg i helsestatistikk og skrev roman om menneskene bak tallene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0a036b5b-6e5a-4ad9-8f01-be0ccfc06892_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0a036b5b-6e5a-4ad9-8f01-be0ccfc06892_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:08</itunes:duration>
+      <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DUHJi5aQJj2iCnRO_joyFgirKoZmP5QMg6E4ooFfBpnw.jpg"/>
+    </item>
     <item>
       <title>Eirik Krokås</title>
       <description><![CDATA[Problemene kom brått den dagen komikeren tråkket i et jordvepsebol. Snikende problemer er verre å løpe fra.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>26:31</itunes:duration>
       <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Pm3_31PYY2saVDtGgpuDCQbQFQpXE7qYatFcyFJqwWjg.jpg"/>
-    </item>
-    <item>
-      <title>Amir Asgharnejad</title>
-      <description><![CDATA[Komikeren krasjet på sykkel og ble «Herr kunstmaler». Nå leter han etter livets honning.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5cfcb159-9704-4549-951c-7bc0874d1109_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5cfcb159-9704-4549-951c-7bc0874d1109_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:58</itunes:duration>
-      <pubDate>Tue, 08 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DpRqF_5Fr5gIkoFHrjNsbwsynHWlfKvjU4hdBzbrvKsw.jpg"/>
     </item>
   </channel>
 </rss>
