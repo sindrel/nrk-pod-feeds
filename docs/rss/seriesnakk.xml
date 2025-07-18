@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Seriesnakk</title>
+    <title>De 9 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Jul 2025 04:10:56 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Jul 2025 04:08:12 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
@@ -83,6 +83,15 @@
       <itunes:duration>43:51</itunes:duration>
       <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/16HAjxirSWwl6Xt59KBWhgEWlwR5nBZu6z-5QWZlLBpQ.jpg"/>
+    </item>
+    <item>
+      <title>– Jeg får gåsehud! (9:9)</title>
+      <description><![CDATA[Sofia Srour gir oss perspektiv på religionsspørsmålene som blir tatt opp, og Tale Torjussen elsker den siste episoden av SKAM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/1f384a35-2bce-4a0f-9671-aa5f06c53d54_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/1f384a35-2bce-4a0f-9671-aa5f06c53d54_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:32</itunes:duration>
+      <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HfPPzL5oLw5cr8BMgQorpw8e4PLndUPJnXtRRWRIaPwA.jpg"/>
     </item>
   </channel>
 </rss>
