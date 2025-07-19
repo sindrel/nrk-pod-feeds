@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-07-19  
+- Updated podcast 'Kommentert' (`kommentert`)  
 ### 2025-07-18  
 - Updated podcast 'Kompass' (`kompass`)  
 ### 2025-07-17  
