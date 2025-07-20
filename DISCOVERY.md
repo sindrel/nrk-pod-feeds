@@ -1,5 +1,8 @@
 # Podcast Discovery Changelog  
 ### 2025-07-20  
+- Updated podcast 'Språksnakk' (`spraakteigen`)  
+- Updated podcast 'Åpen bok' (`bok_i_p2`)  
+### 2025-07-20  
 - Updated podcast 'Drivkraft' (`drivkraft`)  
 ### 2025-07-19  
 - Updated podcast 'Kommentert' (`kommentert`)  
