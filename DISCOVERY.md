@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-07-20  
+- Updated podcast 'Drivkraft' (`drivkraft`)  
 ### 2025-07-19  
 - Updated podcast 'Kommentert' (`kommentert`)  
 ### 2025-07-18  
