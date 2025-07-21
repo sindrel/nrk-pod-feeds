@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-07-21  
+- Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
 ### 2025-07-20  
 - Updated podcast 'Språksnakk' (`spraakteigen`)  
 - Updated podcast 'Åpen bok' (`bok_i_p2`)  
