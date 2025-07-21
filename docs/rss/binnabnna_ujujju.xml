@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Jul 2025 04:10:39 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 04:12:28 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ.jpg"/>
+    <item>
+      <title>Sarren - På blåbærtur</title>
+      <description><![CDATA[Ustibaš-guovttos vuolgiba čoaggit duhát sarrida - Binnabánnaš og Ujujju skal plukke tusen blåbær.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/binnabnna_ujujju/def28b65-2740-48d4-b727-d45147047158_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/def28b65-2740-48d4-b727-d45147047158_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:32</itunes:duration>
+      <pubDate>Mon, 21 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xt8PTO4tlQAdMPzP9n_joQywW-XPsOyV7dC2BVIhoeqg.jpg"/>
+    </item>
     <item>
       <title>Oarri - Ekornet</title>
       <description><![CDATA[Oarri skuviha Binnabánnaš guovtto Ujujjuin lusa - Ekornet lager kaos hos Binnabánnaš og Ujujju.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/31ce0d2e-afe1-4ace-beed-cda328329013_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:49</itunes:duration>
       <pubDate>Fri, 20 Dec 2024 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ.jpg"/>
-    </item>
-    <item>
-      <title>Bahta - Rumpa (3:8)</title>
-      <description><![CDATA[Binnabánnaža guovtto Ujujjuin  mielas lea somá earánastit ja buoskut hivssegis maid ieža leaba ráhkadan.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/binnabnna_ujujju/0a458a2e-4e01-45cf-b3a3-6717ed08bfeb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/0a458a2e-4e01-45cf-b3a3-6717ed08bfeb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:57</itunes:duration>
-      <pubDate>Fri, 20 Dec 2024 06:03:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ.jpg"/>
     </item>
   </channel>
