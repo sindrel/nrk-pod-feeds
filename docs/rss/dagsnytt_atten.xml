@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Jul 2025 17:37:54 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 18:46:59 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>EU forlanger forklaring</title>
+      <description><![CDATA[Ukrainere demonstrerer i gatene, og EU uttrykker dyp bekymring etter at Zelenskyj signerte en ny omstridt lov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ca4006b2-3a68-4daa-b5aa-697eb912fb32_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ca4006b2-3a68-4daa-b5aa-697eb912fb32_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:53</itunes:duration>
+      <pubDate>Wed, 23 Jul 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dyRupdxOgl3IU6l84R-sogngrjeRebORPW4z7QZjb4zQ.jpg"/>
+    </item>
     <item>
       <title>14 år siden terrorangrepet 22. juli</title>
       <description><![CDATA[I dag er det 14 år siden 77 mennesker ble drept i regjeringskvartalet og på Utøya.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Thu, 10 Jul 2025 19:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/AzBbJ80YkFBHVWSovRm-BgWy9P1OryEBPg2VXaTuTF2w.jpg"/>
-    </item>
-    <item>
-      <title>Rekordstort angrep i Ukraina</title>
-      <description><![CDATA[Russland angrep Ukraina med 728 droner og 13 raketter i natt. Det er det største angrepet i krigen til nå.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cbb912ad-ca9c-4595-827c-56b72ba6387e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cbb912ad-ca9c-4595-827c-56b72ba6387e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:52</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 19:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/a4jHw6HmGDqiR-2GlxDq4A-suTKTmQdnEQRAv1aaJ5_g.jpg"/>
     </item>
   </channel>
 </rss>
