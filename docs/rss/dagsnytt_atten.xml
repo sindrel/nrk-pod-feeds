@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Jul 2025 18:46:59 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Jul 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 17:36:50 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Arbeidsledigheten øker</title>
+      <description><![CDATA[Høyre mener regjeringen har gjort det vanskeligere å skape jobber i Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0fb72e95-fb5e-40f8-b51c-6b6257071007_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0fb72e95-fb5e-40f8-b51c-6b6257071007_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 24 Jul 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cRn_MQNwDC7i0voocIoytwesqKppymd8s93nZCO2misg.jpg"/>
+    </item>
     <item>
       <title>EU forlanger forklaring</title>
       <description><![CDATA[Ukrainere demonstrerer i gatene, og EU uttrykker dyp bekymring etter at Zelenskyj signerte en ny omstridt lov.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 11 Jul 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/t0RUADRb3Q2mWzboEjB-1As33WFFm7KAF_SYogHbKvyQ.jpg"/>
-    </item>
-    <item>
-      <title>Underskuddet i ski-VM</title>
-      <description><![CDATA[I dag la Trondheim frem sin versjon av hvorfor ski-VM gikk med millionunderskudd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/682d2861-1604-46de-aec5-7657dc5420f6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/682d2861-1604-46de-aec5-7657dc5420f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Thu, 10 Jul 2025 19:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AzBbJ80YkFBHVWSovRm-BgWy9P1OryEBPg2VXaTuTF2w.jpg"/>
     </item>
   </channel>
 </rss>
