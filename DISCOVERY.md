@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2025-07-26  
+- Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
+- Updated podcast 'Nittiatten' (`nittiatten`)  
 ### 2025-07-21  
 - Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
 ### 2025-07-20  
