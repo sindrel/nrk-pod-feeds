@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 26 Jul 2025 04:06:01 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 04:14:33 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Nils-Ingar Aadne</title>
+      <description><![CDATA[Da samboeren døde brått og uventet, stoppet alt opp. Han måtte aktivt velge livet for å klare å gå videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e2fe7aa0-632f-4dcc-a099-b26a23d365c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e2fe7aa0-632f-4dcc-a099-b26a23d365c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:58</itunes:duration>
+      <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/573mdCMxi2t6WDw8uxK-5QDMFNnXUy_rl1Ck1ibrQ12g.jpg"/>
+    </item>
     <item>
       <title>Amy Lightfoot</title>
       <description><![CDATA[På en liten holme, et sted der ingen skulle tro at noen kunne bo, strikker hun sjøvotter og lager vikingseil for hånd.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>31:26</itunes:duration>
       <pubDate>Wed, 16 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/e9zU2JBHdmB9O3hlRQsxhAihrz_kVkdPRAyXn2EQvegw.jpg"/>
-    </item>
-    <item>
-      <title>Niillas Somby</title>
-      <description><![CDATA[Aktivisten aksjonerte mot Alta-utbyggingen og ble Norges mest ettersøkte terrorist.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/1d5f372c-5c71-40b9-a847-3faff7f261a5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/1d5f372c-5c71-40b9-a847-3faff7f261a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:06</itunes:duration>
-      <pubDate>Tue, 15 Jul 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XM2y8TfES_0yjEsZmkbO-AUkrNpcQhdywDLGy9Hf_Zaw.jpg"/>
     </item>
   </channel>
 </rss>
