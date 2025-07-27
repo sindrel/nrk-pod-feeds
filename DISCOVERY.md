@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2025-07-27  
+- Updated podcast 'Siesta' (`siesta`)  
+- Updated podcast 'Spør for en venn' (`spoer_for_en_venn`)  
 ### 2025-07-26  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 - Updated podcast 'Nittiatten' (`nittiatten`)  
