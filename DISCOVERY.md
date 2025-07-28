@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2025-07-28  
+- Updated podcast 'Radio Mørch' (`radio_moerch`)  
+### 2025-07-28  
 - Updated podcast 'P3morgen' (`p3morgen`)  
 ### 2025-07-27  
 - Updated podcast 'Siesta' (`siesta`)  
