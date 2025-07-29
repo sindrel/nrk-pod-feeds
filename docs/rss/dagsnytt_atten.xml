@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Jul 2025 17:37:12 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Jul 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 17:40:14 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringen innfører fiskeriforbud i Oslofjorden</title>
+      <description><![CDATA[Tiltaket skal styrke fiskebestanden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1dcf65e9-d432-416d-bb47-52ff21d56e40_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1dcf65e9-d432-416d-bb47-52ff21d56e40_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 29 Jul 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0ZUo02ERN7C8xqPS1_hiFADxIP10VKzGMCqtrnUH_AXA.jpg"/>
+    </item>
     <item>
       <title>Barth Eide: – Verre enn helvete på jord</title>
       <description><![CDATA[Utenriksminister Espen Barth Eide deltar på FN-konferanse i New York om Palestina.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:26</itunes:duration>
       <pubDate>Wed, 16 Jul 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NATCI8tahABPpfY_sDa1Twhu-6CY_C3Bg0vjQYSy31QQ.jpg"/>
-    </item>
-    <item>
-      <title>Rasutsatte Skarfjell overvåkes</title>
-      <description><![CDATA[NVE overvåker nå en rasutsatt fjellside i Skarfjellet i frykt for kollaps.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ed263199-5add-44f4-af65-b0014a58e613_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ed263199-5add-44f4-af65-b0014a58e613_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:37</itunes:duration>
-      <pubDate>Tue, 15 Jul 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2-FndbZefb3wPnfQ2nDqnQezOUIrzUTHYfDM7laEus5g.jpg"/>
     </item>
   </channel>
 </rss>
