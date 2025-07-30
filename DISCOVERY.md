@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-07-30  
+- Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
 ### 2025-07-28  
 - Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2025-07-28  
