@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 29 Jul 2025 04:16:35 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 04:11:50 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>På tur med Urix: København</title>
+      <description><![CDATA[Hvorfor er pølsene i Danmark røde? Og hvorfor snakker NRKs utsendte pære dansk? Bli med Urix til København!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/c65275f0-2850-436c-b514-6a2b0ca3fbd1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/c65275f0-2850-436c-b514-6a2b0ca3fbd1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:36</itunes:duration>
+      <pubDate>Thu, 31 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TKEgLpYwPtoN8SG3U4erKw3JJCGjgAB5eA38Wdjn4tVA.jpg"/>
+    </item>
     <item>
       <title>Så palestinere bli drept i matkø</title>
       <description><![CDATA[En amerikansk soldat forteller om det han har sett i Gaza og varsler om krigsforbrytelser.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>12:15</itunes:duration>
       <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IMKkatJqiO0wu-s6mcy1-AYTMH7_ebfcdO4UMFIZD_zg.jpg"/>
-    </item>
-    <item>
-      <title>På tur med Urix: Kairo</title>
-      <description><![CDATA[Kairo er en by det er lett å hate. Men Zofia Paszkiewicz ble forelska i kaoset. Bli med Urix på tur i sommer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/3e371c1b-9430-46c9-8bd1-2c0af9a38d4f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/3e371c1b-9430-46c9-8bd1-2c0af9a38d4f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:18</itunes:duration>
-      <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oHgCDJ4DWJe7VqfoU_wD7QidJDS06mxzKt2ecvT9Cqhg.jpg"/>
     </item>
   </channel>
 </rss>
