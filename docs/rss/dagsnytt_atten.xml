@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 31 Jul 2025 17:37:17 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Jul 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 18:48:02 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Trumps toll</title>
+      <description><![CDATA[Norge fikk 15 prosent toll av Trump, men forhandlingene pågår fortsatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/218c4fea-4987-43ac-8a76-24c2b32411c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/218c4fea-4987-43ac-8a76-24c2b32411c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 01 Aug 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8be82baEeMHQyfwg7SkZiwQu8c7ZGJI38Aa6cQ3hYZ2g.jpg"/>
+    </item>
     <item>
       <title>Norge venter på USA</title>
       <description><![CDATA[Hvor høy blir Trumps tollsats?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 21 Jul 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/n6QG9JN-dbTB1iEMXWoYVwG53GejZaMcaoAdUFKXYM8Q.jpg"/>
-    </item>
-    <item>
-      <title>Nye EU-sanksjoner mot Russland</title>
-      <description><![CDATA[Kremls talsperson Dmitrij Peskov betegner sanksjonene som «ulovlige».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e714e534-bb41-4346-8ed6-800ecb73884c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e714e534-bb41-4346-8ed6-800ecb73884c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Fri, 18 Jul 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sqC8Bl1eqDXfxztm3b5XxwPpPg3APc-hmx83aA6W7xXQ.jpg"/>
     </item>
   </channel>
 </rss>
