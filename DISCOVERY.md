@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-08-02  
+- Updated podcast 'Verdibørsen' (`verdiboersen`)  
 ### 2025-07-31  
 - Updated podcast 'Tyrann' (`tyrann`)  
 ### 2025-07-30  
