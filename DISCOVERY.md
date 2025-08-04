@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2025-08-04  
+- Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
+- Updated podcast 'P3morgen' (`p3morgen`)  
+- Updated podcast 'Politisk kvarter' (`politisk_kvarter`)  
 ### 2025-08-03  
 - Updated podcast 'Politisk kvarter' (`politisk_kvarter`)  
 ### 2025-08-02  
