@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 04 Aug 2025 04:34:19 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 04:16:48 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Maud Angelica Behn</title>
+      <description><![CDATA[Da sorgen var på sitt verste etter farens død, begynte hun å brette origami-fugler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/449d8dfe-48d4-4c62-bb00-81385936578a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/449d8dfe-48d4-4c62-bb00-81385936578a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:40</itunes:duration>
+      <pubDate>Tue, 05 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PYux-bmyD-nCWIqk_hWvPQT-gc0kMuZIE1ITnEnPFxoQ.jpg"/>
+    </item>
     <item>
       <title>Hans Christian Holte</title>
       <description><![CDATA[Moren har betydd mye for hvilke valg Nav-direktøren tar. Det tydeligste rådet hun ga var at han aldri måtte bli sjef i Nav.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>33:48</itunes:duration>
       <pubDate>Fri, 25 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WpGVEHjJj1WGy-aQRL_nngfoUvOWN0v-oKDE0bc5nLYg.jpg"/>
-    </item>
-    <item>
-      <title>Thor Gotaas</title>
-      <description><![CDATA[Forfatteren trives best når han får snakke fritt om det som faller ham inn, uten manus. Her hyller han norsk sommer på 70-tallet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3682d8c2-8163-4cc6-8f25-3c427be4e7eb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3682d8c2-8163-4cc6-8f25-3c427be4e7eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:29</itunes:duration>
-      <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jR7DYNOEhju4p8BGt_wgQgl-e1sDPJ_owTEj9O6mt9aA.jpg"/>
     </item>
   </channel>
 </rss>
