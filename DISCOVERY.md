@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-08-06  
+- Podcast 'Reiseradioens sommerleker' is considered obsolete and will be ignored in the future (`reiseradioens_sommerleker`)  
 ### 2025-08-04  
 - Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
 - Updated podcast 'P3morgen' (`p3morgen`)  
