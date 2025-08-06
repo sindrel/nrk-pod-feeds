@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Leseklubben</title>
+    <title>De 9 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Jul 2025 04:12:46 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Jul 2025 06:03:00 +0200</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 04:14:02 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
@@ -171,6 +171,52 @@ Leseklubben: Episode 6]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/f48a8651-29a6-45e5-bc19-da4daacf2c2a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:44</itunes:duration>
       <pubDate>Wed, 30 Jul 2025 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fokQDahNqS8i7aEBH2zDogVKsWYOoi9c06nX6fqfVuZQ.jpg"/>
+    </item>
+    <item>
+      <title>«Den store Gatsby»  (8:9)</title>
+      <description><![CDATA[Lydboka er lest av Anderz Eide. Når du har hørt kapittel 8 og 9, kan du høre Leseklubben episode 6.
+
+Leseoppskrift: Slik deler vi inn «The Great Gatsby»:
+
+Leseklubben: Episode 1
+→ Les/hør kapittel 1 i boka.
+Leseklubben: Episode 2
+→ Les/hør kapittel 2 og 3 i boka.
+Leseklubben: Episode 3
+→ Les/hør kapittel 4 og 5 i boka.
+Leseklubben: Episode 4
+→ Les/hør kapittel 6 og 7 i boka.
+Leseklubben: Episode 5
+→ Les/hør kapittel 8 og 9 i boka.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/1b046e10-fd6e-4a41-8abe-a587da752dff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/1b046e10-fd6e-4a41-8abe-a587da752dff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:02</itunes:duration>
+      <pubDate>Wed, 06 Aug 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fokQDahNqS8i7aEBH2zDogVKsWYOoi9c06nX6fqfVuZQ.jpg"/>
+    </item>
+    <item>
+      <title>«Den store Gatsby» (9:9)</title>
+      <description><![CDATA[Lydboka er lest av Anderz Eide. Når du har hørt kapittel 8 og 9, kan du høre Leseklubben episode 6.
+
+Leseoppskrift: Slik deler vi inn «The Great Gatsby»:
+
+Leseklubben: Episode 1
+→ Les/hør kapittel 1 i boka.
+Leseklubben: Episode 2
+→ Les/hør kapittel 2 og 3 i boka.
+Leseklubben: Episode 3
+→ Les/hør kapittel 4 og 5 i boka.
+Leseklubben: Episode 4
+→ Les/hør kapittel 6 og 7 i boka.
+Leseklubben: Episode 5
+→ Les/hør kapittel 8 og 9 i boka.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/7de4a271-0a30-4358-8b85-f32199c64a23_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/7de4a271-0a30-4358-8b85-f32199c64a23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:26</itunes:duration>
+      <pubDate>Wed, 06 Aug 2025 06:03:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fokQDahNqS8i7aEBH2zDogVKsWYOoi9c06nX6fqfVuZQ.jpg"/>
     </item>
   </channel>
