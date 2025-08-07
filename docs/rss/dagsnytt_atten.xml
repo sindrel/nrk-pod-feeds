@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 06 Aug 2025 17:40:03 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 17:39:37 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vedum imøtegår kritikk om nærpoliti</title>
+      <description><![CDATA[Senterpartilederen bruker politistasjon midt i hovedstaden som argument for hvorfor det var viktig å opprette nærpolitistasjoner uten besøk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c6ca1e3c-3fb8-4847-8171-d2b5a0c29732_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c6ca1e3c-3fb8-4847-8171-d2b5a0c29732_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:57</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/B_6SB7b4j_TyV2Psp0B3BAMW2pVDryETrmj6Xvqt-Dmw.jpg"/>
+    </item>
     <item>
       <title>– Det er mitt ansvar</title>
       <description><![CDATA[Finansminister Jens Stoltenberg om Oljefondets investeringer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:10</itunes:duration>
       <pubDate>Fri, 25 Jul 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eYKedtPBvwS5630F1HPoTQQTMXMNPKXc_RpzVE0Gj8Jw.jpg"/>
-    </item>
-    <item>
-      <title>Arbeidsledigheten øker</title>
-      <description><![CDATA[Høyre mener regjeringen har gjort det vanskeligere å skape jobber i Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0fb72e95-fb5e-40f8-b51c-6b6257071007_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0fb72e95-fb5e-40f8-b51c-6b6257071007_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 24 Jul 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cRn_MQNwDC7i0voocIoytwesqKppymd8s93nZCO2misg.jpg"/>
     </item>
   </channel>
 </rss>
