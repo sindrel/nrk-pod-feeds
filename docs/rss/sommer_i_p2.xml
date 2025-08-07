@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 05 Aug 2025 04:16:48 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 04:13:54 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Sunniva Gylver</title>
+      <description><![CDATA[Da biskopen skjønte at mannen kom til å dø, måtte de elske hverandre og sørge på samme tid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/047f6fd6-0011-4d1f-8bc6-fbb3bd77ab04_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/047f6fd6-0011-4d1f-8bc6-fbb3bd77ab04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:51</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J_HjighbIPsToanlfbix4AtPLYelNenQfx_T0fGbRvRw.jpg"/>
+    </item>
     <item>
       <title>Maud Angelica Behn</title>
       <description><![CDATA[Da sorgen var på sitt verste etter farens død, begynte hun å brette origami-fugler.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>36:43</itunes:duration>
       <pubDate>Sat, 26 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y5pkpwReL5HAhb-7-Vm--QIo0L9OgA9fkNVIBWva1Y6w.jpg"/>
-    </item>
-    <item>
-      <title>Tinashe Williamson</title>
-      <description><![CDATA[Hun gjemte ansiktet i hetta for at ingen skulle se hudfargen hennes. Rasisme har gitt henne arr og sår som ikke vil gro.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/b484a419-c398-4d2c-91e0-6471fcb516e1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/b484a419-c398-4d2c-91e0-6471fcb516e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:48</itunes:duration>
-      <pubDate>Fri, 25 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WpGVEHjJj1WGy-aQRL_nngfoUvOWN0v-oKDE0bc5nLYg.jpg"/>
     </item>
   </channel>
 </rss>
