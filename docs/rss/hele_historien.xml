@@ -1,34 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 19 Jul 2025 04:45:05 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 10:42:41 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>I NRK Radio: Den store togsabotasjen</title>
-      <description><![CDATA[Under andre verdenskrig er malmtransporten i Orkanger det viktigste sabotasjemålet i Norge. Dit sendes Kompani Linge for å ødelegge jernbanen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/417419de-6fb6-402d-8d6f-a81b24cd464c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/417419de-6fb6-402d-8d6f-a81b24cd464c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:45</itunes:duration>
-      <pubDate>Fri, 18 Jul 2025 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Oj5NEjM1Z4pwGKhZm0kYNQ0JuXKUwB30wdk6JWxXZdOw.jpg"/>
-    </item>
-    <item>
-      <title>Den store togsabotasjen</title>
-      <description><![CDATA[Sabotører i Kompani Linge drar til Trøndelag for å sprenge togene på Thamshavnbanen. Hvis de ikke lykkes, blir hele bygda bomba i stykker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/f9fa5ff3-f5ba-49e6-ae2a-18b1fe8af3df_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/f9fa5ff3-f5ba-49e6-ae2a-18b1fe8af3df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:36</itunes:duration>
-      <pubDate>Sat, 19 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Oj5NEjM1Z4pwGKhZm0kYNQ0JuXKUwB30wdk6JWxXZdOw.jpg"/>
+      <title>I NRK Radio: Fanget i flammene</title>
+      <description><![CDATA[En desembernatt starter det som blir beskrevet som den verste dødsbrannen i Oslo siden krigen. Folk frykter at det går en pyroman løs.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/82559f03-ba62-4f35-8669-eb4786aa8dd7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/82559f03-ba62-4f35-8669-eb4786aa8dd7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:28</itunes:duration>
+      <pubDate>Fri, 08 Aug 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IP_j-jJncJe9XMHcEy2gIwfw2Pbf4r4UQkyEhmvlrc-w.jpg"/>
     </item>
   </channel>
 </rss>
