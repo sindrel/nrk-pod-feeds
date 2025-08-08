@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 07 Aug 2025 04:13:54 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 04:13:46 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Line Norman Hjorth</title>
+      <description><![CDATA[Hun skulle forsvare doktorgraden sin om det språklige spillet i rettsalen, men ble selv satt ut av spill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/d9daf9e2-de7c-452a-9035-f5ce59c61817_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/d9daf9e2-de7c-452a-9035-f5ce59c61817_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:22</itunes:duration>
+      <pubDate>Fri, 08 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ek30eUOgmL8zN20feF8QZQYTfMvg55FivzrBDjZH_Wgg.jpg"/>
+    </item>
     <item>
       <title>Sunniva Gylver</title>
       <description><![CDATA[Da biskopen skjønte at mannen kom til å dø, måtte de elske hverandre og sørge på samme tid.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>36:58</itunes:duration>
       <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/573mdCMxi2t6WDw8uxK-5QDMFNnXUy_rl1Ck1ibrQ12g.jpg"/>
-    </item>
-    <item>
-      <title>Amy Lightfoot</title>
-      <description><![CDATA[På en liten holme, et sted der ingen skulle tro at noen kunne bo, strikker hun sjøvotter og lager vikingseil for hånd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/4e43593a-0c0e-4a24-800b-a18bd4f7f824_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/4e43593a-0c0e-4a24-800b-a18bd4f7f824_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:43</itunes:duration>
-      <pubDate>Sat, 26 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y5pkpwReL5HAhb-7-Vm--QIo0L9OgA9fkNVIBWva1Y6w.jpg"/>
     </item>
   </channel>
 </rss>
