@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-08-09  
+- Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
 ### 2025-08-06  
 - Updated podcast 'På audition' (`paa_audition`)  
 ### 2025-08-06  
