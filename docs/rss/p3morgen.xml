@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 04 Aug 2025 06:56:19 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 10:42:36 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Jonas blir rapper</title>
+      <description><![CDATA[Henning trenger tips til toastmasterjobb, Arin har hatt en kort Shakespeare-karriere, og Jonas gjør ting han ikke kan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/369acb62-3a2c-44f3-848b-f00ef15662c1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/369acb62-3a2c-44f3-848b-f00ef15662c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Mon, 11 Aug 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PhVh4bVk6tGxCmQQh0gZTQBYr3J8hvBja6TJVsCV0Fkw.jpg"/>
+    </item>
     <item>
       <title>P3 fikser drømmen!</title>
       <description><![CDATA[I slutten av august starter en helt spesiell uke på NRK P3.  
@@ -102,15 +111,6 @@ Allerede nå kan du sende inn ønsker og drømmer til oss. Bare trykk på Send i
       <itunes:duration>56:46</itunes:duration>
       <pubDate>Wed, 18 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8K3Hk15aApcmy3GspwWGUA8h9OJrgGODrLEowKmnw8Lw.jpg"/>
-    </item>
-    <item>
-      <title>Henning blir dansk</title>
-      <description><![CDATA[Tiktoker Josefine Stoffel er halvt dansk og hjelper Henning med å forstå våre naboer bedre. Ej, hvor dejligt!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d8f67c9e-9d53-4872-812e-38074e5dd63a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d8f67c9e-9d53-4872-812e-38074e5dd63a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:54</itunes:duration>
-      <pubDate>Tue, 17 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cQJv-EfTRbH95Wu5e-UjyQ-sVWDXuuaJ9lWvatPtqqqQ.jpg"/>
     </item>
   </channel>
 </rss>
