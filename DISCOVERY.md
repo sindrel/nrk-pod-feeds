@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-08-12  
+- Updated podcast 'Siesta' (`siesta`)  
 ### 2025-08-10  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2025-08-09  
