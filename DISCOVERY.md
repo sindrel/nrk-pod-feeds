@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2025-08-12  
+- Podcast 'Burde vært pensum' is considered obsolete and will be ignored in the future (`burde_vaert_pensum`)  
+### 2025-08-12  
 - Updated podcast 'Siesta' (`siesta`)  
 ### 2025-08-10  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
