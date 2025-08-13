@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-08-13  
+- Updated podcast 'Kommentert' (`kommentert`)  
 ### 2025-08-12  
 - Podcast 'Burde vært pensum' is considered obsolete and will be ignored in the future (`burde_vaert_pensum`)  
 ### 2025-08-12  
