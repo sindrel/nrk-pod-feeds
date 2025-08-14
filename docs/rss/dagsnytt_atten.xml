@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 13 Aug 2025 17:30:08 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 18:46:25 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Tonje Brenna har kalt inn NAV-direktøren til krisemøte.</title>
+      <description><![CDATA[NAV har midlertidig stanset arbeidstiltak i flere regioner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f330965f-b68c-4fb6-8841-e56439fb2492_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f330965f-b68c-4fb6-8841-e56439fb2492_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:29</itunes:duration>
+      <pubDate>Thu, 14 Aug 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/syYW3pttaHwXrjJE9ffi2QBalLqwZ1ffgOk-xcW2etsQ.jpg"/>
+    </item>
     <item>
       <title>Politisk yatzy</title>
       <description><![CDATA[Terningkastene i partilederdebattene er fordummende, sier Kristin Clemet.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 01 Aug 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8be82baEeMHQyfwg7SkZiwQu8c7ZGJI38Aa6cQ3hYZ2g.jpg"/>
-    </item>
-    <item>
-      <title>Norge venter på USA</title>
-      <description><![CDATA[Hvor høy blir Trumps tollsats?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/21fa8a80-175e-480c-bac7-0df6411cd3f4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/21fa8a80-175e-480c-bac7-0df6411cd3f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 31 Jul 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/J2VOuoBh99Fo6t2XcEA-nAHVYOjZeFtkPt81GAKrR4Og.jpg"/>
     </item>
   </channel>
 </rss>
