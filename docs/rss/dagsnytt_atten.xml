@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 14 Aug 2025 18:46:25 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 18:45:52 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Trump og Putin</title>
+      <description><![CDATA[Klart for toppmøte i Alaska.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d1df443b-105a-4a30-a12b-55638620964f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d1df443b-105a-4a30-a12b-55638620964f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 15 Aug 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xf6YQlRmkopb7NZqwS_UbwfuwnioM1U8X0a6In0HM2WQ.jpg"/>
+    </item>
     <item>
       <title>Tonje Brenna har kalt inn NAV-direktøren til krisemøte.</title>
       <description><![CDATA[NAV har midlertidig stanset arbeidstiltak i flere regioner.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 04 Aug 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5lauyA4TrcuCLaY7uVhL7A_sux4BUqKeQVSXsKqKen_Q.jpg"/>
-    </item>
-    <item>
-      <title>Trumps toll</title>
-      <description><![CDATA[Norge fikk 15 prosent toll av Trump, men forhandlingene pågår fortsatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/218c4fea-4987-43ac-8a76-24c2b32411c0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/218c4fea-4987-43ac-8a76-24c2b32411c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 01 Aug 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8be82baEeMHQyfwg7SkZiwQu8c7ZGJI38Aa6cQ3hYZ2g.jpg"/>
     </item>
   </channel>
 </rss>
