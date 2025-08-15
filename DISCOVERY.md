@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2025-08-15  
+- Updated podcast 'Åpen bok' (`bok_i_p2`)  
+### 2025-08-15  
 - Updated podcast 'Debatten' (`debatten`)  
 ### 2025-08-14  
 - Updated podcast 'Bibelen' (`bibelen`)  
