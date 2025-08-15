@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-08-15  
+- Updated podcast 'Debatten' (`debatten`)  
 ### 2025-08-14  
 - Updated podcast 'Bibelen' (`bibelen`)  
 ### 2025-08-13  
