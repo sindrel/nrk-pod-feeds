@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 15 Aug 2025 12:59:37 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 14:50:00 +0200</pubDate>
+    <lastBuildDate>Sat, 16 Aug 2025 04:41:03 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Aug 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen</title>
+      <description><![CDATA[Jonas, Arin og Henning gir deg høydepunkter fra uka!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bbc92ff4-b329-421b-9c5e-127f8e37b6e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bbc92ff4-b329-421b-9c5e-127f8e37b6e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:46</itunes:duration>
+      <pubDate>Sat, 16 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9Pb8OB3iO4_Gj_qABQ__sAAgagrvLGO1bp0z4-QmWKag.jpg"/>
+    </item>
     <item>
       <title>Arin fikk prestasjonsangst</title>
       <description><![CDATA[Arin ble selvbevisst på fotballbanen, Jonas har knekt koden for den ultimate skatteordningen, og produsent Jenny gjorde upassende saker på IKEA.]]></description>
@@ -102,15 +111,6 @@ Allerede nå kan du sende inn ønsker og drømmer til oss. Bare trykk på Send i
       <itunes:duration>52:40</itunes:duration>
       <pubDate>Wed, 25 Jun 2025 13:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
-    </item>
-    <item>
-      <title>Møtte Jens Stoltenberg på mccern</title>
-      <description><![CDATA[Vi deler historier fra da vi møtte kjendiser og og Desken Brenner forteller hva som får dem til å le på bakrommet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b3d49ad1-e089-4771-b733-2e2eb5d3598b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b3d49ad1-e089-4771-b733-2e2eb5d3598b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:52</itunes:duration>
-      <pubDate>Tue, 24 Jun 2025 10:25:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZDIwBFe6DeX_rwaQPifs8wemEdDt9JrvKyDw_ASbzWBA.jpg"/>
     </item>
   </channel>
 </rss>
