@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-08-17  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-08-15  
 - Updated podcast 'Åpen bok' (`bok_i_p2`)  
 ### 2025-08-15  
