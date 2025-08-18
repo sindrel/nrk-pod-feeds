@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2025-08-18  
+- Updated podcast 'Kveldstanker' (`kveldstanker`)  
+- Updated podcast 'Monsens univers' (`monsens_univers`)  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2025-08-17  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-08-15  
