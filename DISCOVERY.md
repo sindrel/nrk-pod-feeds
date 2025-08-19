@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2025-08-19  
+- Updated podcast 'Drivkraft' (`drivkraft`)  
+- Updated podcast 'Tyrann' (`tyrann`)  
 ### 2025-08-18  
 - Updated podcast 'Kveldstanker' (`kveldstanker`)  
 - Updated podcast 'Monsens univers' (`monsens_univers`)  
