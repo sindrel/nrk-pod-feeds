@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 18 Aug 2025 06:49:44 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 04:37:26 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Taxi - med Elin Sofie Rabbevåg</title>
+      <description><![CDATA[Av og til dømmer vi folk før vi kjenner dem, forteller musiker Elin Sofye Rabbevåg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/6a3dffcd-5227-4b01-acb5-a0fb1ff62b2a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/6a3dffcd-5227-4b01-acb5-a0fb1ff62b2a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:02</itunes:duration>
+      <pubDate>Tue, 19 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
+    </item>
     <item>
       <title>Strand - med Endre Ruset</title>
       <description><![CDATA[Det må kunne gå an å gifte seg med ei strand, mener poeten Endre Ruset]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:08</itunes:duration>
       <pubDate>Mon, 26 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
-    </item>
-    <item>
-      <title>Tannlegen - med Hannah Faizan Jensen</title>
-      <description><![CDATA[I norsk språk er det bare noen bokstaver mellom full panikk og en helt vanlig tirsdag, forteller Hannah Fanzai Jensen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/49791cea-f42b-4fa0-99b6-818ef9b37340_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/49791cea-f42b-4fa0-99b6-818ef9b37340_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:56</itunes:duration>
-      <pubDate>Tue, 20 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ATJZ4hXoF2j3g24c4NCABQIriftNuGDJixbr2c_ORQ5w.jpg"/>
     </item>
   </channel>
 </rss>
