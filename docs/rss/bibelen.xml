@@ -8,14 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 14 Aug 2025 03:59:40 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 06:05:00 +0200</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 04:36:59 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
     <item>
+      <title>Moses og de ti plagene (12:40)</title>
+      <description><![CDATA[Fy farao så vanskelig det skulle være å komme seg av gårde fra Egypt, da!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/edc9df43-5f17-4721-af66-682f20402e13_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/edc9df43-5f17-4721-af66-682f20402e13_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:52</itunes:duration>
+      <pubDate>Wed, 20 Aug 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ACNAhy5cw_934CcGwgicigaVsJ-fVE3W7WzDzp69oYHQ.jpg"/>
+    </item>
+    <item>
       <title>Moses i sivet (11:40)</title>
-      <description><![CDATA[Moses redder livet i en kurv, men blir selv drapsmann.
-Så får han et viktig oppdrag.]]></description>
+      <description><![CDATA[Moses redder livet i en kurv, men blir selv drapsmann. Så får han et viktig oppdrag.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/b39b2e3b-d686-4ae9-97a7-5445c669b989_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bibelen/b39b2e3b-d686-4ae9-97a7-5445c669b989_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:48</itunes:duration>
@@ -94,15 +102,6 @@ FLERE EPISODER KOMMER 13.08 2025.]]></description>
       <itunes:duration>15:50</itunes:duration>
       <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YlY_t_JsD0lu9HoUMrqvfQrpNKnVt25jpqTTaRQgzoOQ.jpg"/>
-    </item>
-    <item>
-      <title>Syndefallet (2:40)</title>
-      <description><![CDATA[Hvor lenge var Adam i paradis?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/3d671549-6db9-4325-98da-0bd79f84c7b1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bibelen/3d671549-6db9-4325-98da-0bd79f84c7b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:39</itunes:duration>
-      <pubDate>Wed, 01 Jan 2025 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/E-uc252NwP8_dKw4ACuuHw0SAZZ8Vrx8ra4pXfE3fE9w.jpg"/>
     </item>
   </channel>
 </rss>
