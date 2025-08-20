@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2025-08-20  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
+- Updated podcast 'Kompass' (`kompass`)  
+- Updated podcast 'Verdibørsen' (`verdiboersen`)  
 ### 2025-08-19  
 - Updated podcast 'Drivkraft' (`drivkraft`)  
 - Updated podcast 'Tyrann' (`tyrann`)  
