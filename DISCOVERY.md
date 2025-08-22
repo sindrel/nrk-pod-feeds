@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-08-22  
+- Updated podcast 'Språksnakk' (`spraakteigen`)  
 ### 2025-08-20  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 - Updated podcast 'Kompass' (`kompass`)  
