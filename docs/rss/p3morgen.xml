@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 21 Aug 2025 14:35:48 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 16:14:00 +0200</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 11:27:37 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Jonas skal melde seg på MGP</title>
+      <description><![CDATA[Jonas har holdt en hemmelighet skjult i lang tid, og kan nå endelig avsløre den for oss.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/df208405-b43d-40a1-a084-05b43d10a105_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/df208405-b43d-40a1-a084-05b43d10a105_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Fri, 22 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA.jpg"/>
+    </item>
     <item>
       <title>Jonas tekster død slektning</title>
       <description><![CDATA[Arin snakker om gamle fremmedord hun vil hente frem igjen, og Jonas lurer på om bestefaren hans kan ha stått opp fra de døde.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Tue, 12 Aug 2025 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9Pb8OB3iO4_Gj_qABQ__sAAgagrvLGO1bp0z4-QmWKag.jpg"/>
-    </item>
-    <item>
-      <title>Jonas blir rapper</title>
-      <description><![CDATA[Henning trenger tips til toastmasterjobb, Arin har hatt en kort Shakespeare-karriere, og Jonas gjør ting han ikke kan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/369acb62-3a2c-44f3-848b-f00ef15662c1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/369acb62-3a2c-44f3-848b-f00ef15662c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Mon, 11 Aug 2025 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PhVh4bVk6tGxCmQQh0gZTQBYr3J8hvBja6TJVsCV0Fkw.jpg"/>
     </item>
   </channel>
 </rss>
