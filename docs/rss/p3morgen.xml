@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 22 Aug 2025 11:27:37 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 04:34:46 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen</title>
+      <description><![CDATA[Jonas har skjult en hemmelighet for gjengen, og vi tok en tur tilbake til barndommens TV-traumer med Kim fra «Skrimmel Skrammel».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a54492e4-1f36-4071-8492-e41f36b071f8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a54492e4-1f36-4071-8492-e41f36b071f8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:36</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ugk2laK8DWr2Yle4W57HQAxa4xI-w2INFW9GG5nKL_WA.jpg"/>
+    </item>
     <item>
       <title>Jonas skal melde seg på MGP</title>
       <description><![CDATA[Jonas har holdt en hemmelighet skjult i lang tid, og kan nå endelig avsløre den for oss.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Wed, 13 Aug 2025 11:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
-    </item>
-    <item>
-      <title>Arin blir flau av bodycount</title>
-      <description><![CDATA[Arin reagerer på NRK.no sin bruk av henne, og Jonis Josef forteller om da han introduserte Lars Monsen for et amerikansk publikum.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/dee53c5a-01c8-4090-bfd2-1df9d3baafd0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/dee53c5a-01c8-4090-bfd2-1df9d3baafd0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Tue, 12 Aug 2025 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9Pb8OB3iO4_Gj_qABQ__sAAgagrvLGO1bp0z4-QmWKag.jpg"/>
     </item>
   </channel>
 </rss>
