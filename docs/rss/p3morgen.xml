@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 23 Aug 2025 04:34:46 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 11:28:27 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 12:50:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/tpG3sYxkXPFUSa2rwDa7LweisVQGGiX8eaerAfBKltXA.jpg"/>
+    <item>
+      <title>Arin er lei grammatikkpolitiet</title>
+      <description><![CDATA[Henning har fått en helt spesiell gave av svigerforeldrene, og redaksjonen må rydde opp i en grammatikk-krangel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c2eeeb91-97c6-4ef9-aeeb-9197c69ef93d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c2eeeb91-97c6-4ef9-aeeb-9197c69ef93d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Mon, 25 Aug 2025 12:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen</title>
       <description><![CDATA[Jonas har skjult en hemmelighet for gjengen, og vi tok en tur tilbake til barndommens TV-traumer med Kim fra «Skrimmel Skrammel».]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Thu, 14 Aug 2025 12:12:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
-    </item>
-    <item>
-      <title>Henning avdekket svindelforsøk</title>
-      <description><![CDATA[Arin mimrer til barndommens skolestart, Henning er kritisk til selger på Finn.no og Jonas stusser over Oliver Bergset sine ordvalg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/db590820-c9f8-4650-9190-897685539f7c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/db590820-c9f8-4650-9190-897685539f7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Wed, 13 Aug 2025 11:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
     </item>
   </channel>
 </rss>
