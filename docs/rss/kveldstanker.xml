@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 19 Aug 2025 04:37:26 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 04:42:57 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Bringebær - med Francine Mbanza Jensen</title>
+      <description><![CDATA[Livet handler ikke om hvor du starter, men om de små øyeblikkene på veien, hevder Francine Manza Jensen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/76bdd874-fbeb-4002-9403-4612e86932c1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/76bdd874-fbeb-4002-9403-4612e86932c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:45</itunes:duration>
+      <pubDate>Mon, 25 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ha8Oozr6v3a7Nn91JlrEsg4Xuhz6dIErnylNQUU45Q8w.jpg"/>
+    </item>
     <item>
       <title>Taxi - med Elin Sofie Rabbevåg</title>
       <description><![CDATA[Av og til dømmer vi folk før vi kjenner dem, forteller musiker Elin Sofye Rabbevåg.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:32</itunes:duration>
       <pubDate>Tue, 27 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
-    </item>
-    <item>
-      <title>Tapte år - med Gunn Marit Nisja</title>
-      <description><![CDATA[Jeg har mista 15 år av livet mitt, forteller forfatter Gunn Marit Nisja.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/74d26ca0-cbfd-40e5-b161-818c4228c825_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/74d26ca0-cbfd-40e5-b161-818c4228c825_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:08</itunes:duration>
-      <pubDate>Mon, 26 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
     </item>
   </channel>
 </rss>
