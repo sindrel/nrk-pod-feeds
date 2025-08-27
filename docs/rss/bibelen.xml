@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 20 Aug 2025 04:36:59 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 06:05:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 04:35:02 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
+    <item>
+      <title>Moses og De ti bud (13:40)</title>
+      <description><![CDATA[Moses laster ned retningslinjer fra skyen. Men hvorfor blir han så illsint at han knuser dem etterpå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/cc7f70e2-21f4-4dbe-b7a6-63083dd88336_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/cc7f70e2-21f4-4dbe-b7a6-63083dd88336_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:56</itunes:duration>
+      <pubDate>Wed, 27 Aug 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EINJxfUm-YvBJhPUmfQEmAmU_i0krrR6p3ZT-Q7mYTPA.jpg"/>
+    </item>
     <item>
       <title>Moses og de ti plagene (12:40)</title>
       <description><![CDATA[Fy farao så vanskelig det skulle være å komme seg av gårde fra Egypt, da!]]></description>
@@ -93,15 +102,6 @@ FLERE EPISODER KOMMER 13.08 2025.]]></description>
       <itunes:duration>21:55</itunes:duration>
       <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wD4s8JpiDXkfZ4y1gEsbGwklKVKtvr8S2ZuwNtgy7LhA.jpg"/>
-    </item>
-    <item>
-      <title>Kain og Abel (3:40)</title>
-      <description><![CDATA[Lillebror funnet død i blodig åker. Storebror mangler alibi.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/4e394e64-6968-4ad0-8aed-9030efc7dab3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bibelen/4e394e64-6968-4ad0-8aed-9030efc7dab3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:50</itunes:duration>
-      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YlY_t_JsD0lu9HoUMrqvfQrpNKnVt25jpqTTaRQgzoOQ.jpg"/>
     </item>
   </channel>
 </rss>
