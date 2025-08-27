@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-08-27  
+- Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2025-08-22  
 - Updated podcast 'Språksnakk' (`spraakteigen`)  
 ### 2025-08-20  
