@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 30 Aug 2025 04:33:42 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 10:38:05 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 12:34:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hett på nakenspa!</title>
+      <description><![CDATA[Jonas fikk en festivalopplevelse utenom det vanlige, mens en annen i gjengen havnet på nakenspa … og gir oss ALLE detaljene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c379b540-261d-4cc2-b9b5-40261dacc287_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c379b540-261d-4cc2-b9b5-40261dacc287_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:00</itunes:duration>
+      <pubDate>Mon, 01 Sep 2025 12:34:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra «P3 fikser drømmen»</title>
       <description><![CDATA[Vi ser tilbake på uka som har gått, der lytterne har gjort små, store og rare drømmer til virkelighet.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Thu, 21 Aug 2025 16:14:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rhBvhD5H7mU1jBMgYToB5AcqTpcnfDVFQ5DYCiuLAn1w.jpg"/>
-    </item>
-    <item>
-      <title>Jonas har fått en idrettsskade</title>
-      <description><![CDATA[Jonas gruer seg til ukas sykkeløkt, fordi han får så vondt i skrukken og Arin forteller om da hun mistet bilen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/997cb29a-a705-4a15-bcb2-9aa705aa158b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/997cb29a-a705-4a15-bcb2-9aa705aa158b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Wed, 20 Aug 2025 13:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C10IwqJJFrzm7fa8iWAMewE59upgsyiKajczLA8SU51w.jpg"/>
     </item>
   </channel>
 </rss>
