@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Sep 2025 10:38:05 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 12:34:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 11:27:13 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 12:55:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
     <item>
-      <title>Hett på nakenspa!</title>
+      <title>Den store Lørenskog-debatten</title>
+      <description><![CDATA[Vi ringer til Lørenskog kommune for å avgjøre en diskusjon. Det ender ikke så bra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2f0fe2e5-f841-468a-8fe2-e5f841b68aca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2f0fe2e5-f841-468a-8fe2-e5f841b68aca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:21</itunes:duration>
+      <pubDate>Tue, 02 Sep 2025 12:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    </item>
+    <item>
+      <title>Hett på nakenspa</title>
       <description><![CDATA[Jonas fikk en festivalopplevelse utenom det vanlige, mens en annen i gjengen havnet på nakenspa … og gir oss ALLE detaljene.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c379b540-261d-4cc2-b9b5-40261dacc287_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/c379b540-261d-4cc2-b9b5-40261dacc287_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Fri, 22 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA.jpg"/>
-    </item>
-    <item>
-      <title>Jonas tekster død slektning</title>
-      <description><![CDATA[Arin snakker om gamle fremmedord hun vil hente frem igjen, og Jonas lurer på om bestefaren hans kan ha stått opp fra de døde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/178b7e7a-300f-42a4-8b7e-7a300f42a44a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/178b7e7a-300f-42a4-8b7e-7a300f42a44a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Thu, 21 Aug 2025 16:14:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rhBvhD5H7mU1jBMgYToB5AcqTpcnfDVFQ5DYCiuLAn1w.jpg"/>
     </item>
   </channel>
 </rss>
