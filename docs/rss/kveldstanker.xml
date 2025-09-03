@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 02 Sep 2025 04:36:37 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 04:34:20 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Orkideer - med Terri Senior</title>
+      <description><![CDATA[Tålmodighet ligger i min kultur, men ikke i min natur, forteller jamaicanske Terri Senior.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/bb8e5476-6bce-42b5-8e54-766bceb2b57b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bb8e5476-6bce-42b5-8e54-766bceb2b57b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:09</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yocQ3GR38SOVJEtULE2UdQf48T5qCKpQIizmaMdDxFSg.jpg"/>
+    </item>
     <item>
       <title>Uventa - med Ingvild Hegge Eriksen</title>
       <description><![CDATA[- Det er jo når du minst venter det at det uventa skjer, forteller Ingvild Hegge Eriksen, som lurte alle i "Jakten på kjærligheten".]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:14</itunes:duration>
       <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
-    </item>
-    <item>
-      <title>Gullsmykket - med Elin Sofye Rabbevåg</title>
-      <description><![CDATA[Sorg er prisen for kjærlighet, sier musiker Elin Sofye Rabbevåg]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/79fa71b3-f197-4735-bc60-66f69dbd0b26_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/79fa71b3-f197-4735-bc60-66f69dbd0b26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:38</itunes:duration>
-      <pubDate>Tue, 03 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
     </item>
   </channel>
 </rss>
