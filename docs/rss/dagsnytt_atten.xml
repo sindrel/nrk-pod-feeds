@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 02 Sep 2025 17:28:55 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 17:29:28 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kvinner må ta kjønnstest i Friidretts-VM</title>
+      <description><![CDATA[Alle utøvere i kvinneklassen i Friidretts-VM må ta en test for å bekrefte at de er biologiske kvinner. Dette er i strid med norsk lov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f5073340-7c4d-4427-8733-407c4de42750_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f5073340-7c4d-4427-8733-407c4de42750_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3NtNyB4SjoWfur4QTL70OwkF9naFIWtnYA0JySLI1Qqw.jpg"/>
+    </item>
     <item>
       <title>Rettssak mot Arfan Bhatti</title>
       <description><![CDATA[Forsvarer mener 25. juni-terroren ikke hadde Pride som mål, men var ment som hevn mot politiet.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Thu, 21 Aug 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gu9q26z0RZEKsw180hiNNg5jwc5aCHyiDHABMgW05gFg.jpg"/>
-    </item>
-    <item>
-      <title>Telenor delte sensitive persondata</title>
-      <description><![CDATA[Telenor utleverte sensitive persondata til militærjuntaen i Myanmar i lang tid etter kuppet i 2021.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/35e1f483-1450-4ceb-a1f4-831450bcebf8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/35e1f483-1450-4ceb-a1f4-831450bcebf8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 20 Aug 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6_-5MB5fIom4NB1juI5VcwDjAnfI3cDGaP9da0X3CEnw.jpg"/>
     </item>
   </channel>
 </rss>
