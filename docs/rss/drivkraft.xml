@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 02 Sep 2025 11:27:05 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 13:17:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 12:56:12 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 13:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Hilde Restad</title>
+      <description><![CDATA[– Det var tanks i gatene da jeg giftet meg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b5fa2806-bede-474e-ba28-06bedea74e57_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b5fa2806-bede-474e-ba28-06bedea74e57_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:21</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 13:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAW5UeV-wjKZHqzVbq-8xwHfHkYhe7c1xgzk9XZZaAAQ.jpg"/>
+    </item>
     <item>
       <title>Einar Nilsson</title>
       <description><![CDATA[Norges mest populære håndverker anbefaler urealistiske planer for oppussing.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:14</itunes:duration>
       <pubDate>Tue, 19 Aug 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2Qcnkdq7jlXZ-LqcBinWFQKt01gyAf3gpbUpoS0IOjCw.jpg"/>
-    </item>
-    <item>
-      <title>Frode Thuen</title>
-      <description><![CDATA[– Menn som viser mer tilstedeværelse får mer sex, ifølge samlivsterapeut Frode Thuen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/858a3c09-749b-4929-afee-eac10a86b968_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/858a3c09-749b-4929-afee-eac10a86b968_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:44</itunes:duration>
-      <pubDate>Mon, 18 Aug 2025 12:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/J6Z43UOPnAqgRLZGGFL_sAI0IHNvW3IW1hcihYaaiQqg.jpg"/>
     </item>
   </channel>
 </rss>
