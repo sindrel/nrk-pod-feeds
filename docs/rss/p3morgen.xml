@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Sep 2025 11:26:27 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 12:55:36 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
     <item>
@@ -18,8 +18,17 @@
       <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cc9ad2a5-9465-4fb3-9ad2-a594657fb30b_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/cc9ad2a5-9465-4fb3-9ad2-a594657fb30b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:18</itunes:duration>
-      <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
+      <pubDate>Fri, 05 Sep 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TjmfBoqg8L57rnVS-xG1KAFFMBemQii7zQhaAGexDsjA.jpg"/>
+    </item>
+    <item>
+      <title>– Menn klager mer enn kvinner</title>
+      <description><![CDATA[Henning har en testikkel-historie som strekker seg fra sykehus til revyscene, og Arin har fått noen tvilsomme MMA-venner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6fe36ff3-4fd3-4fc3-a36f-f34fd37fc33f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6fe36ff3-4fd3-4fc3-a36f-f34fd37fc33f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:58</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PhVh4bVk6tGxCmQQh0gZTQBYr3J8hvBja6TJVsCV0Fkw.jpg"/>
     </item>
     <item>
       <title>Syv døde prester og narkose-rage</title>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Wed, 27 Aug 2025 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
-    </item>
-    <item>
-      <title>– Hard som batong!</title>
-      <description><![CDATA[Arin innrømmer at hun hater en helt spesiell gjenstand og Jonas har et problem han trenger hjelp til å løse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7ccf1fa3-9ccb-46f4-8f1f-a39ccbe6f4f9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7ccf1fa3-9ccb-46f4-8f1f-a39ccbe6f4f9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Tue, 26 Aug 2025 13:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
     </item>
   </channel>
 </rss>
