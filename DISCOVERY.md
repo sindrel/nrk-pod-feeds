@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-09-05  
+- Podcast 'Musikkrommet' is considered obsolete and will be ignored in the future (`musikkrommet`)  
 ### 2025-08-27  
 - Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2025-08-22  
