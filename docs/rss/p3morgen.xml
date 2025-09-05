@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 04 Sep 2025 11:26:47 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 13:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 11:26:27 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen</title>
+      <description><![CDATA[Titten på hjørnet, Mgp Jr-tilbakeblikk, og en tøysete versjon av Erna Solberg er noe av det som står på høydepunkt-menyen denne uken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cc9ad2a5-9465-4fb3-9ad2-a594657fb30b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cc9ad2a5-9465-4fb3-9ad2-a594657fb30b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:18</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TjmfBoqg8L57rnVS-xG1KAFFMBemQii7zQhaAGexDsjA.jpg"/>
+    </item>
     <item>
       <title>Syv døde prester og narkose-rage</title>
       <description><![CDATA[Henning sper på historien om djevelens Tjongsfjord-besøk. Arin har fått en snill bot, og Jonas har vært på legevakta.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Tue, 26 Aug 2025 13:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
-    </item>
-    <item>
-      <title>Arin er lei grammatikkpolitiet</title>
-      <description><![CDATA[Henning har fått en helt spesiell gave av svigerforeldrene, og redaksjonen må rydde opp i en grammatikk-krangel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c2eeeb91-97c6-4ef9-aeeb-9197c69ef93d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c2eeeb91-97c6-4ef9-aeeb-9197c69ef93d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Mon, 25 Aug 2025 12:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>
