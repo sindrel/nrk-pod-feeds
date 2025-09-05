@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 29 Aug 2025 04:35:37 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 04:34:13 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Forfatterintervjuet med Kjersti Annesdatter Skomsvold</title>
+      <description><![CDATA[– Oldemor var ei heks! Likevel klarte Skomsvold å føle godhet for gamla mens hun skrev oldemorens historie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/e0770603-b0e0-4eae-b706-03b0e0ceae51_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/e0770603-b0e0-4eae-b706-03b0e0ceae51_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GDM4DSICwjKXNiCPjBqAwQdykoN3EcSB3ZG6ccnsA2FQ.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Erlend Loe</title>
       <description><![CDATA[Tander mister tissen i dusjen, på en tirsdag. Nå må Tander finne ut hvem han er, uten sin edleste del. Først legger han den i fryseren.
@@ -99,16 +108,6 @@ Siste bok: «Papirdukkene».]]></description>
       <itunes:duration>55:02</itunes:duration>
       <pubDate>Fri, 23 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/B6oe0C466u8spmQWfVlItgw8qxuPiDEUIePMBbegGFPw.jpg"/>
-    </item>
-    <item>
-      <title>Vil skrive hardt og ekte</title>
-      <description><![CDATA[Sarah Zahid trengte over ti år før hun klarte å skrive dikt om morens død.
-Siste bok: «Blodbank».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/963297ce-cc26-464f-b029-7559c5fc8fcd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/963297ce-cc26-464f-b029-7559c5fc8fcd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:09</itunes:duration>
-      <pubDate>Fri, 16 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-bp5latD6AGosr_e3__9JgVyj5yFmTIHkIT48N2ohhHQ.jpg"/>
     </item>
   </channel>
 </rss>
