@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 31 Aug 2025 04:34:16 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Aug 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 04:33:40 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Kroningen</title>
+      <description><![CDATA[Erling bruker alle triks i boka for å få has på kongen. Erling og Magnus gjør en avtale med kirken som skal få store konsekvenser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/37af3406-eae4-4021-a63f-b627fa371647_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/37af3406-eae4-4021-a63f-b627fa371647_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:46</itunes:duration>
+      <pubDate>Sun, 07 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Liket</title>
       <description><![CDATA[Kristin får en kjip oppgave, men snur den til sin fordel. Erling Skakke lager teater i Bergen, og får sønnen kronet til konge.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:49</itunes:duration>
       <pubDate>Sun, 06 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
-    </item>
-    <item>
-      <title>Partyprinsen</title>
-      <description><![CDATA[Partyprinsen Magnus prøver å vippe onkel Harald av pinnen. Og er kongen genial, eller splitter pine gal – eller begge deler?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/f46d14ee-ae1b-4d3a-9e1b-f41740b03538_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/f46d14ee-ae1b-4d3a-9e1b-f41740b03538_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:33</itunes:duration>
-      <pubDate>Sun, 29 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>
 </rss>
