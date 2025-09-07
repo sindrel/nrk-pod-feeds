@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-09-07  
+- Updated podcast 'Sommer i P2' (`sommer_i_p2`)  
 ### 2025-09-06  
 - Updated podcast 'Gamle greier' (`gamle_greier`)  
 ### 2025-09-05  
