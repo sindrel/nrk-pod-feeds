@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 04 Sep 2025 11:26:38 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 13:15:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 10:35:50 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 12:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Hva skjer med kaffeprisen?</title>
+      <description><![CDATA[Hvorfor blir kaffen stadig dyrere? Vi ser nærmere på klima, politikk og råvarebørs, og hva det betyr for din morgenkopp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d5b3350f-33e5-43ff-b335-0f33e573ff12_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d5b3350f-33e5-43ff-b335-0f33e573ff12_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:04</itunes:duration>
+      <pubDate>Mon, 08 Sep 2025 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uFzs7QPJnyns8V0zFanwhQWCgtRTkkcFPgheufGAng3w.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Har Trump blitt syk?</title>
       <description><![CDATA[Spekulasjonene går etter at Trump forsvant fra offentligheten. Er han alvorlig syk, eller rett og slett død?]]></description>
@@ -22,7 +31,7 @@
       <itunes:image href="https://gfx.nrk.no/Pnk7bLhd7xjMgwvUcOLD5QjJezEPY7MyYX2nuXGK3ZRg.jpg"/>
     </item>
     <item>
-      <title>Singellivets paradoks</title>
+      <title>Sjølvrealisering vs. parforhold</title>
       <description><![CDATA[Er det sjølvrealisering og individualisme som stikk kjeppar i hjula for kjærleiken?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/79c6a16f-ea98-490a-86a1-6fea98c90aab_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/79c6a16f-ea98-490a-86a1-6fea98c90aab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -92,15 +101,6 @@
       <itunes:duration>38:36</itunes:duration>
       <pubDate>Thu, 21 Aug 2025 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ghxdQUU13kAD3Yod552tRwDvY_JXP3zzwPjC1ROG8wOw.jpg"/>
-    </item>
-    <item>
-      <title>Spør Ekko: Hva skjer i Gaza?</title>
-      <description><![CDATA[Hva innebærer Israels plan om å tømme Gaza, og hva skjer med nødhjelpen til palestinerne? Ekspertene gir svar]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0528c6a3-95ad-4c7a-a8c6-a395ad7c7af6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0528c6a3-95ad-4c7a-a8c6-a395ad7c7af6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:24</itunes:duration>
-      <pubDate>Wed, 20 Aug 2025 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/38ZKzC3cgJVefEczB4vtvwdw0DfWUADWCeS_0b4d7-QA.jpg"/>
     </item>
   </channel>
 </rss>
