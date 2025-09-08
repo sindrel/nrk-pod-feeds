@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Sep 2025 04:42:14 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 04:35:36 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Finn Skårderud</title>
+      <description><![CDATA[Han mistet autorisasjonen som psykiater, kollapset på kontoret og ble lagt inn på lukket psykiatrisk avdeling med alvorlig depresjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/705c2481-af58-4f84-9c24-81af585f841b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/705c2481-af58-4f84-9c24-81af585f841b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:35</itunes:duration>
+      <pubDate>Mon, 08 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BjEl0kXTg9ntAWtElrA9WQzQDNIdGuMeY89k5KWpbkiQ.jpg"/>
+    </item>
     <item>
       <title>Mer Romerriket</title>
       <description><![CDATA[Vi prøvde å ta unna den enorme interessen for Romerriket, men klarte det ikke. Forfatter Magnus Helgerud gir oss mer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:16:44</itunes:duration>
       <pubDate>Mon, 12 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/z8LF8A5hwfbAgcorlRNw0wXnZPB12vcCq0F0yZWPmQhw.jpg"/>
-    </item>
-    <item>
-      <title>Dødshjelp</title>
-      <description><![CDATA[Er dødshjelp en slippery slope eller en menneskerett? Henrik Thune forteller om da sønnen Tobias døde. Professor Ole Martin Moen tar oss rett til kjernen i en av vår tids mest betente etiske debatter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/54ee10c3-9d87-4659-9fdc-04bfa80e857f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/54ee10c3-9d87-4659-9fdc-04bfa80e857f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:10</itunes:duration>
-      <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
     </item>
   </channel>
 </rss>
