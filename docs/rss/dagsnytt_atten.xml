@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Sep 2025 17:29:17 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 17:29:50 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Valgdagen 2025</title>
+      <description><![CDATA[Rekordmange forhåndsstemmer kan føre til at vi får vite mer om valgresultatet tidligere på kvelden enn ved tidligere valg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/593d54e3-226c-4aed-bd54-e3226c1aeddc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/593d54e3-226c-4aed-bd54-e3226c1aeddc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 08 Sep 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RNjbdl952jraMhAWfilccwORicjLdjphUbyixLveN-GQ.jpg"/>
+    </item>
     <item>
       <title>Fersk statsministermåling</title>
       <description><![CDATA[Dagsnytt 18 oppsummerer valget. En analyse viser at hetsen mot partilederne øker fram mot valget.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Tue, 26 Aug 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5cmf-FYvCGkR4uEVaI7EUQFFgkRQECAWXIDGP8upD1pQ.jpg"/>
-    </item>
-    <item>
-      <title>Drap på nattevakt granskes</title>
-      <description><![CDATA[Jeg var redd på jobb og derfor sluttet jeg, forteller sosionom.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0c991535-6bb1-43cd-9915-356bb1d3cdb8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0c991535-6bb1-43cd-9915-356bb1d3cdb8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 25 Aug 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/b5-xE1q2sr1aMxomUbqOMQHS5KNd2mXdu71l4CvKFJPQ.jpg"/>
     </item>
   </channel>
 </rss>
