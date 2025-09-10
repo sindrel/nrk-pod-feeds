@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 09 Sep 2025 11:27:31 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2025 11:25:37 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Svart magi og høye folk</title>
+      <description><![CDATA[Arin har oppdaget en bolledessert, Jonas tar opp høye folks problemer og ikke-problemer, og Henning har med litt svart magi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b548ac21-e212-4496-88ac-21e2129496c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b548ac21-e212-4496-88ac-21e2129496c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Trusepant og ukjent mellomnavn</title>
       <description><![CDATA[Å bare pante flasker er visst ikke så lett, og Arin avslører et litt spesielt mellomnavn. Og var alt bedre før, dvs. i 2020?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>40:35</itunes:duration>
       <pubDate>Sat, 30 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
-    </item>
-    <item>
-      <title>Alle lyver til Arin</title>
-      <description><![CDATA[Henning har vært på fancy restaurant, og gjengen mimrer tilbake til barndommen – med alle de gøyale «sertifikatene» man kunne få som liten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/89d737a3-f192-40a7-9737-a3f19210a7fd_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/89d737a3-f192-40a7-9737-a3f19210a7fd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Fri, 29 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
     </item>
   </channel>
 </rss>
