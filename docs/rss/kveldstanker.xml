@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 09 Sep 2025 04:34:53 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2025 04:32:54 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Livets spilleliste - Elie Sofye</title>
+      <description><![CDATA[Lag en spilleliste fra livet ditt, råder musikkterapeut Elin Sofye Rabbevåg]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0199c63e-7210-40c1-99c6-3e721010c12d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0199c63e-7210-40c1-99c6-3e721010c12d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:23</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
+    </item>
     <item>
       <title>Nynorsk - med Gautam Ghosh</title>
       <description><![CDATA[Kvifor valde dei meg, undra indiske Gautam Ghosh,  da Skatteetaten ba han hjelpe dei med nynorsken.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:36</itunes:duration>
       <pubDate>Mon, 16 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
-    </item>
-    <item>
-      <title>Usikker - med Janne Rønningen</title>
-      <description><![CDATA[Det hadde vært greit å vite hva folk egentlig mener, men sånn er det ikke alltid, sier komiker Janne Rønningen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/be716e21-619b-4a4a-a324-407989c0f72b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/be716e21-619b-4a4a-a324-407989c0f72b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:41</itunes:duration>
-      <pubDate>Wed, 11 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qd4mSgc2z6LG-L2ezTW_lQxIh0lJw4him8QhDO9U2-Hw.jpg"/>
     </item>
   </channel>
 </rss>
