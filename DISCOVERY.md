@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-09-10  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-09-08  
 - Updated podcast 'Nittiatten' (`nittiatten`)  
 ### 2025-09-07  
