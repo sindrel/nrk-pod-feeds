@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Sep 2025 11:25:37 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2025 11:25:14 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Golf er basert på flaks og sinne</title>
+      <description><![CDATA[Skal Henning la kjæresten vinne i minigolf? Hva skal Jonas ha på seg med storfint besøk? Og hvorfor kan Arin den svenske nasjonalsangen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bd0873e8-c0ef-484f-8873-e8c0ef084f96_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bd0873e8-c0ef-484f-8873-e8c0ef084f96_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:38</itunes:duration>
+      <pubDate>Thu, 11 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1eJULp2ECr4ymizsKKaaVgApsf-m3gBi7PmhSPwX1QVw.jpg"/>
+    </item>
     <item>
       <title>Svart magi og høye folk</title>
       <description><![CDATA[Arin har oppdaget en bolledessert, Jonas tar opp høye folks problemer og ikke-problemer, og Henning har med litt svart magi.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Mon, 01 Sep 2025 12:34:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra «P3 fikser drømmen»</title>
-      <description><![CDATA[Vi ser tilbake på uka som har gått, der lytterne har gjort små, store og rare drømmer til virkelighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/22c1ded7-cbe4-4ca5-81de-d7cbe47ca554_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/22c1ded7-cbe4-4ca5-81de-d7cbe47ca554_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:35</itunes:duration>
-      <pubDate>Sat, 30 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
     </item>
   </channel>
 </rss>
