@@ -744,7 +744,7 @@
         "id": "lindmo_og_co",
         "title": "De 10 siste fra Lindmo og Co",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "loensj_med_rune_nilson",
@@ -1412,7 +1412,9 @@
         "id": "supernytt_forklarer",
         "title": "De 10 siste fra Supernytt forklarer",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "supertroett",
