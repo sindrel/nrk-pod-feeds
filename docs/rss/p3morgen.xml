@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 11 Sep 2025 11:25:14 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2025 10:33:46 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Innelåst i bamsemaskin</title>
+      <description><![CDATA[Henning forteller om en ekkelt kåt etterfest han havna på, Arin må luktes på i studio, og Jonas skal på et show litt utenom det vanlige.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/83b3f494-27ce-4c4f-b3f4-9427ce7c4fee_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/83b3f494-27ce-4c4f-b3f4-9427ce7c4fee_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
+    </item>
     <item>
       <title>Golf er basert på flaks og sinne</title>
       <description><![CDATA[Skal Henning la kjæresten vinne i minigolf? Hva skal Jonas ha på seg med storfint besøk? Og hvorfor kan Arin den svenske nasjonalsangen?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>16:21</itunes:duration>
       <pubDate>Tue, 02 Sep 2025 12:55:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
-    </item>
-    <item>
-      <title>Hett på nakenspa</title>
-      <description><![CDATA[Jonas fikk en festivalopplevelse utenom det vanlige, mens en annen i gjengen havnet på nakenspa … og gir oss ALLE detaljene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c379b540-261d-4cc2-b9b5-40261dacc287_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c379b540-261d-4cc2-b9b5-40261dacc287_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Mon, 01 Sep 2025 12:34:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
