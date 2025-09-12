@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Sep 2025 04:34:13 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2025 04:32:51 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Forfatterintervuet med Anne Gunn Halvorsen</title>
+      <description><![CDATA[Hvor var prinsen i Toyota Corolla som skulle befri henne fra bygda? Men internett ble redningen, verden kom til henne!
+Nyeste bok: "Mitt internett: Då www kom til Noreg."]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/9048aa93-4769-4902-88aa-9347692902c7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/9048aa93-4769-4902-88aa-9347692902c7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QGE3WwMbqyfky5fxO3XVlwMYGxC3OxE9S955ueKSeXGw.jpg"/>
+    </item>
     <item>
       <title>Forfatterintervjuet med Kjersti Annesdatter Skomsvold</title>
       <description><![CDATA[– Oldemor var ei heks! Likevel klarte Skomsvold å føle godhet for gamla mens hun skrev oldemorens historie.]]></description>
@@ -98,16 +108,6 @@ Siste bok: «Menn som nesten elska meg - sju års lengt etter kjærleiken»]]></
       <itunes:duration>56:57</itunes:duration>
       <pubDate>Fri, 30 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GK7MM0bmHLA2j-4TisuVHwQQNoVzVnb-K711pFvqTeFA.jpg"/>
-    </item>
-    <item>
-      <title>Vil lure leserne</title>
-      <description><![CDATA[Krimdronning Eva Fretheim jobber litt som en tryllekunstner når hun skriver bøker.
-Siste bok: «Papirdukkene».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/ef802633-f76f-44ad-96dc-c00309e7bd64_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/ef802633-f76f-44ad-96dc-c00309e7bd64_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:02</itunes:duration>
-      <pubDate>Fri, 23 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/B6oe0C466u8spmQWfVlItgw8qxuPiDEUIePMBbegGFPw.jpg"/>
     </item>
   </channel>
 </rss>
