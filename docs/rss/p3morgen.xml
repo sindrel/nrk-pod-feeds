@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 12 Sep 2025 10:33:46 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 13 Sep 2025 04:32:18 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen</title>
+      <description><![CDATA[Denne uka fyrer Jonas opp en Sverige-beef, vi har diskutert om ketchup er en saus og vi byr på gjester fra AF1 og Hollywood!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/15a1eb95-523d-4b6e-a1eb-95523dcb6eab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/15a1eb95-523d-4b6e-a1eb-95523dcb6eab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:00</itunes:duration>
+      <pubDate>Sat, 13 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R_wFXeRbv7uR404RGiEhwgWm5R_aJ_RO8xSgMqYPlAYg.jpg"/>
+    </item>
     <item>
       <title>Innelåst i bamsemaskin</title>
       <description><![CDATA[Henning forteller om en ekkelt kåt etterfest han havna på, Arin må luktes på i studio, og Jonas skal på et show litt utenom det vanlige.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Wed, 03 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A.jpg"/>
-    </item>
-    <item>
-      <title>Den store Lørenskog-debatten</title>
-      <description><![CDATA[Vi ringer til Lørenskog kommune for å avgjøre en diskusjon. Det ender ikke så bra.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2f0fe2e5-f841-468a-8fe2-e5f841b68aca_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2f0fe2e5-f841-468a-8fe2-e5f841b68aca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:21</itunes:duration>
-      <pubDate>Tue, 02 Sep 2025 12:55:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
     </item>
   </channel>
 </rss>
