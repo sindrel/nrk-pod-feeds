@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 13 Sep 2025 04:32:18 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Sep 2025 12:57:59 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hjernesmelt og pøffel</title>
+      <description><![CDATA[P3morgen-gjengen har sluttet å scrolle, og hjernen har smeltet. Arin får NESTEN smake pøffel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/193ce6dd-170f-481b-bce6-dd170fe81bab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/193ce6dd-170f-481b-bce6-dd170fe81bab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Mon, 15 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PhVh4bVk6tGxCmQQh0gZTQBYr3J8hvBja6TJVsCV0Fkw.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen</title>
       <description><![CDATA[Denne uka fyrer Jonas opp en Sverige-beef, vi har diskutert om ketchup er en saus og vi byr på gjester fra AF1 og Hollywood!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:37</itunes:duration>
       <pubDate>Thu, 04 Sep 2025 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>Djevelen i Tjongsfjord</title>
-      <description><![CDATA[Jonas kurerte tirsdagsdepresjonen på en noe ukonvensjonell måte, og Henning forteller om da djevelen var på hjemstedet hans.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/08b07874-b88f-4359-b078-74b88fa35955_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/08b07874-b88f-4359-b078-74b88fa35955_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Wed, 03 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A.jpg"/>
     </item>
   </channel>
 </rss>
