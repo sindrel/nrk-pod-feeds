@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 12 Sep 2025 04:33:18 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Sep 2025 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Sep 2025 04:35:26 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2025 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>PSTs kappløp mot radikalisering</title>
+      <description><![CDATA[De har flere unge med drøye holdninger på radaren. Likevel kan det gå fryktelig galt på PST sin vakt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/3ada7576-64d7-4f02-9a75-7664d73f0299_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/3ada7576-64d7-4f02-9a75-7664d73f0299_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:08</itunes:duration>
+      <pubDate>Mon, 15 Sep 2025 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fvYI2UC0fmP_iZ7E9zWTnwTWMgK1UseKLKysFxhW44Ew.jpg"/>
+    </item>
     <item>
       <title>Frøya (19): Tidenes yngste på Stortinget</title>
       <description><![CDATA[Hun droppet russetiden for å satse på politikken. Nå er hun historisk.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>15:16</itunes:duration>
       <pubDate>Tue, 02 Sep 2025 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IL6eGR-iYfGK8PB34p19yAtMeURbUKaHFBE3E4_kFxXw.jpg"/>
-    </item>
-    <item>
-      <title>Unge kriminelle sprer frykt: Dette vil partiene</title>
-      <description><![CDATA[Med valget på trappene er partiene helt uenige om hva som er løsningen på ungdomskriminaliteten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/6557e35d-b93d-4cce-97e3-5db93d9cce2b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/6557e35d-b93d-4cce-97e3-5db93d9cce2b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:59</itunes:duration>
-      <pubDate>Mon, 01 Sep 2025 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jSgu1iDLnOcroedMt7q7twjaIWO7L8WlkRkedbfC2Lhg.jpg"/>
     </item>
   </channel>
 </rss>
