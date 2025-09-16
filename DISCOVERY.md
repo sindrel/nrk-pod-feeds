@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-09-16  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-09-11  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 - Podcast 'Supernytt forklarer' is considered obsolete and will be ignored in the future (`supernytt_forklarer`)  
