@@ -1,97 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Seriesnakk</title>
+    <title>De 1 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 18 Jul 2025 04:08:12 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 03:04:21 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2025 17:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
-      <title>– Hun har jo ingen venner (1:9) </title>
-      <description><![CDATA[Hvor mye av Lisa Teige er det i Eva? Lisa forteller om å kline på første opptaksdag, og Julie Andem røper hvorfor serien heter SKAM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/a0c97e96-80c7-4404-8e00-c3e9436cf6c5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a0c97e96-80c7-4404-8e00-c3e9436cf6c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:49</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TM6oiB7qcfCBbzO-brXUTQsoYdMdo202bkTJRfHIrK0w.jpg"/>
-    </item>
-    <item>
-      <title>– Det er så ikonisk! (2:9)</title>
-      <description><![CDATA[Noora blir feminist-ikonet Tale Torjussen digger, og hele Norge hyller. Men hvorfor har Lisa Teige aldri sett SKAM?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/946a3dcf-3a3c-4887-a861-0bf9f89fb804_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/946a3dcf-3a3c-4887-a861-0bf9f89fb804_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:35</itunes:duration>
-      <pubDate>Fri, 27 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nFF9wrrbZKNzZHv67ibUQAJjf_csqUK3hwEZ0PCY9yYw.jpg"/>
-    </item>
-    <item>
-      <title>– De hatet slow motion (3:9)</title>
-      <description><![CDATA[Julie Andem forteller hvordan Noora + William ble til, og Morten Hegseth og Tale Torjussen elsker starten på forholdet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/3bc12e53-461d-44b2-91a6-aef3f2fefa2f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/3bc12e53-461d-44b2-91a6-aef3f2fefa2f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:47</itunes:duration>
-      <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oWYbxMjhoOBqclDzjIP88A_-BwLbDLzR1Ngeogke5raQ.jpg"/>
-    </item>
-    <item>
-      <title>– William må svare (4:9)</title>
-      <description><![CDATA[Hvor var du da William forsvant? Hele Norge ventet på svar, men hvordan fikk serieskaperne oss lenket til skjermen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/ab3a1f57-90e3-4b4b-a08f-5b521cf1bec6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/ab3a1f57-90e3-4b4b-a08f-5b521cf1bec6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:25</itunes:duration>
-      <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Q76QL7sImAfEnd22SPsXUgGUkwZhBDyN7VdibEFUI-_A.jpg"/>
-    </item>
-    <item>
-      <title>– Evnen til å ta noen med storm (5:9)</title>
-      <description><![CDATA[Carl Martin Eggesbø fikk spørsmål om han var «homo på ekte», og Henrik Holm deler om hvordan han fikk rollen som Even.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/ebf1100b-c130-4562-bbff-59219b9f443d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/ebf1100b-c130-4562-bbff-59219b9f443d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:51</itunes:duration>
-      <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bpnaRLSZrvQYwtCMidPU9wn0o0GSlNOta-xnKUFLNyhg.jpg"/>
-    </item>
-    <item>
-      <title>– Alt i livet har vært lettere etter SKAM (6:9)</title>
-      <description><![CDATA[Isaks historie inspirerte og endret liv. Carl Martin Eggesbø lærte oss alle om Pride, og Julie Andem forteller om å forme den scenen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/93330f69-8a48-447f-9998-572788b1aefe_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/93330f69-8a48-447f-9998-572788b1aefe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:07</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iWp4tIeJgpCShRW__m3phgGhu_7_Am6TRqcnQdbDcryw.jpg"/>
-    </item>
-    <item>
-      <title>– Folk har trodd vi var Isak og Even (7:9)</title>
-      <description><![CDATA[Henrik Holm om den enorme oppmerksomheten, Morten Hegseths favoritt-scene og Julie Andem om hva som er greia med “O helga natt”]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/4994ec53-c04e-449c-9762-4a42ab0f481c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/4994ec53-c04e-449c-9762-4a42ab0f481c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:16</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lozx1PvT4ToYqAUhPZ6guQouMjJhrxp9jGVDf5wInwHg.jpg"/>
-    </item>
-    <item>
-      <title>– Hun skulle få føkke opp (8:9)</title>
-      <description><![CDATA[Sofia Srour kjenner seg igjen i Sana som ung hijabi. Vi snakker også om russebuss og utenforskap med Tale Torjussen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/dfe8ee23-7727-47c7-9480-115a6a68d3c8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/dfe8ee23-7727-47c7-9480-115a6a68d3c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:51</itunes:duration>
-      <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/16HAjxirSWwl6Xt59KBWhgEWlwR5nBZu6z-5QWZlLBpQ.jpg"/>
-    </item>
-    <item>
-      <title>– Jeg får gåsehud! (9:9)</title>
-      <description><![CDATA[Sofia Srour gir oss perspektiv på religionsspørsmålene som blir tatt opp, og Tale Torjussen elsker den siste episoden av SKAM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/1f384a35-2bce-4a0f-9671-aa5f06c53d54_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/1f384a35-2bce-4a0f-9671-aa5f06c53d54_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:32</itunes:duration>
-      <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HfPPzL5oLw5cr8BMgQorpw8e4PLndUPJnXtRRWRIaPwA.jpg"/>
+      <title>Smakebit: Seriesnakk – Stoltenberg i møte med krigen</title>
+      <description><![CDATA[Kommer 21. september: Seriesnakk møter dokumentarskaper Tommy Gulliksen og Stoltenberg selv og får alle detaljene rundt serien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/4a31bf53-3339-4578-b1bf-5333398578a9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/4a31bf53-3339-4578-b1bf-5333398578a9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05</itunes:duration>
+      <pubDate>Mon, 15 Sep 2025 17:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/89moWuZiNwEYJ7exCOrJ4w_GtvNZIu8nc7kxjkOTtHRQ.jpg"/>
     </item>
   </channel>
 </rss>
