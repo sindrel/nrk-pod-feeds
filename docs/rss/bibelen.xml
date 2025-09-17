@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Sep 2025 04:32:43 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Sep 2025 06:05:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Sep 2025 04:33:30 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Sep 2025 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
+    <item>
+      <title>Samson og Dalila (16:40)</title>
+      <description><![CDATA[Bibelens sterkeste mann og hans svake punkt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/c96cec82-b754-4d8d-9e40-5c94b554cbe5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/c96cec82-b754-4d8d-9e40-5c94b554cbe5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:42</itunes:duration>
+      <pubDate>Wed, 17 Sep 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Wqj13anHpKZSStp9JyaezQmhCSHiIKMWa5F7UzpgsYKA.jpg"/>
+    </item>
     <item>
       <title>Teltpluggdrapet (15:40)</title>
       <description><![CDATA[Verre blir det ikke å sove i telt!]]></description>
@@ -93,15 +102,6 @@ FLERE EPISODER KOMMER 13.08 2025.]]></description>
       <itunes:duration>18:40</itunes:duration>
       <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kWAHjzdLMYUn88lPedqiJwbgh76EPbg5VG2ldZZu3i9w.jpg"/>
-    </item>
-    <item>
-      <title>Sodoma og Gomorra (6:40)</title>
-      <description><![CDATA[Ikke Sydens, men syndens hovedstad. Så lenge det varer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/f287ba7f-ff3d-467d-ac04-8b6064bca251_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bibelen/f287ba7f-ff3d-467d-ac04-8b6064bca251_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:48</itunes:duration>
-      <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kkRlpiObdDx-aTThgGB_FwiIll8zocWIjGNnjFjtAeLw.jpg"/>
     </item>
   </channel>
 </rss>

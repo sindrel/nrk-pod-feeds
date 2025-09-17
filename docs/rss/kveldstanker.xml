@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Sep 2025 04:33:27 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Sep 2025 04:33:49 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Stoppknapp - med Hannah Faizan Jensen</title>
+      <description><![CDATA[En liten rød knapp var ukjent for tannlegen Hannah Faizani Jensen, da hun tok bussen i Norge for første gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e4369e07-aedd-4641-b69e-07aedda64146_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e4369e07-aedd-4641-b69e-07aedda64146_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:38</itunes:duration>
+      <pubDate>Wed, 17 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ATJZ4hXoF2j3g24c4NCABQIriftNuGDJixbr2c_ORQ5w.jpg"/>
+    </item>
     <item>
       <title>Ingegjerd - med Claes Krogsgaard Ericsson</title>
       <description><![CDATA[- Noen mennesker glemmer man aldri, forteller stemmetolk og skuespiller Claes Krogsgaard Ericsson.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:19</itunes:duration>
       <pubDate>Mon, 18 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sJ9KzzgFSIBlRR2TUB8FpAX-geH2jPcj5UB-1sbaWpvA.jpg"/>
-    </item>
-    <item>
-      <title>Draumen - med Aina Basso</title>
-      <description><![CDATA[Det finst draumar vi utsett så lenge vi kan. fortel forfattar Aina Basso.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/fb1dff91-6346-4740-a241-bf4d6e8f4d07_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/fb1dff91-6346-4740-a241-bf4d6e8f4d07_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:58</itunes:duration>
-      <pubDate>Tue, 17 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tV9lr1Aa5zyEz0nAo1HmPwWjcEzhw4i456kWfCRQQ1rg.jpg"/>
     </item>
   </channel>
 </rss>
