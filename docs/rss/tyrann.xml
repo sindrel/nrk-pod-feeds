@@ -1,71 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Tyrann</title>
+    <title>De 1 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 23 Aug 2025 04:34:51 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Aug 2025 06:04:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Sep 2025 10:34:28 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Sep 2025 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Hirohito (1:5)</title>
-      <description><![CDATA[Hirohito blir født som gud, og etter en bisarr oppvekst ender han opp som en sosialt hemma keiser med kronisk beslutningsvegring.
-
-
-Kilder:
-Hirohito and the making of modern Japan - Herbert Bix 
-Tojo: The last Banzai - Courtney Browne 
-Unit 731: testimony - Hal Gold 
-Shanghai 1937: Stalingrad on the yangtze - Peter Harmsen 
-Storm over Stillehavet anden verdenskrig i Asien - Peter Harmsen 
-Hirohito's War- The Pacific War, 1941-1945 - Francis Pike 
-Factories of death: Japanese biological warfare, 1932-45, and the American cover-up - Sheldon Harris]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/5a86322c-8dfd-4c6b-8632-2c8dfd2c6b37_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/5a86322c-8dfd-4c6b-8632-2c8dfd2c6b37_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:34</itunes:duration>
-      <pubDate>Sat, 23 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA.jpg"/>
-    </item>
-    <item>
-      <title>Hirohito (2:5)</title>
-      <description><![CDATA[Gudekeiser Hirohito regjerer allmektig over Japans imperium, men ser passivt på når hæren hans plutselig invaderer et fremmed land.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/37bbde15-1f35-4767-bbde-151f359767ec_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/37bbde15-1f35-4767-bbde-151f359767ec_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:14</itunes:duration>
-      <pubDate>Sat, 23 Aug 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA.jpg"/>
-    </item>
-    <item>
-      <title>Hirohito (3:5)</title>
-      <description><![CDATA[Alt er lov for å vinne krigen mot Kina. Hirohito oppretter Enhet 731, et prosjekt som forsker fram de grusomste biologiske våpen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/6de75a12-0edc-4f96-a75a-120edc4f9656_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/6de75a12-0edc-4f96-a75a-120edc4f9656_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:03</itunes:duration>
-      <pubDate>Sat, 23 Aug 2025 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA.jpg"/>
-    </item>
-    <item>
-      <title>Hirohito (4:5)</title>
-      <description><![CDATA[Helt ut av det blå smadrer Hirohitos bomber Pearl Harbor. Men konsekvensene for Japans triumf blir etter hvert et helvete på jord!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/84a12eb9-47ed-4a12-a12e-b947ed3a12e2_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/84a12eb9-47ed-4a12-a12e-b947ed3a12e2_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:27</itunes:duration>
-      <pubDate>Sat, 23 Aug 2025 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA.jpg"/>
-    </item>
-    <item>
-      <title>Hirohito (5:5)</title>
-      <description><![CDATA[På én natt dreper amerikanske brannbomber 100 000 i Tokyo, men Hirohito nekter å overgi seg. Så slipper USA atombomber over Japan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/01bb5e06-040c-407e-bb5e-06040c407ee9_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/01bb5e06-040c-407e-bb5e-06040c407ee9_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:42</itunes:duration>
-      <pubDate>Sat, 23 Aug 2025 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA.jpg"/>
+      <title>Milošević - KOMMER I MORGEN</title>
+      <description><![CDATA[Slakteren fra Balkan, Slobodan Milošević, gikk fra privilegert partipamp til hensynsløs krigsforbryter i kampen om serbisk livsrom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/ef74491b-ae55-421c-b449-1bae55921c52_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/ef74491b-ae55-421c-b449-1bae55921c52_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:32</itunes:duration>
+      <pubDate>Fri, 19 Sep 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ.jpg"/>
     </item>
   </channel>
 </rss>
