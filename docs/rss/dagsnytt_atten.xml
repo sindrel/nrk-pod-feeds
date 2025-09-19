@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 18 Sep 2025 17:30:36 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Sep 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Sep 2025 17:29:09 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Sep 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Trenger mer hjelp</title>
+      <description><![CDATA[Kronprinsesse Mette-Marit sier hun vil få bedre kontroll over hverdagen som kronisk syk. Hun skal til rehabilitering og avstå fra offisielle plikter i en måned.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e899604e-979c-48ff-9960-4e979c98ff17_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e899604e-979c-48ff-9960-4e979c98ff17_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 19 Sep 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1coTdcZ5S5z2ovl9NPGcwQcmuGWmDUtWVnlUsQ3G848A.jpg"/>
+    </item>
     <item>
       <title>Skuffet over Putin</title>
       <description><![CDATA[Trump sier han føler seg sviktet av Russlands president. 
@@ -94,15 +103,6 @@ En FN-kommisjon beskylder dem for folkemord.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 08 Sep 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RNjbdl952jraMhAWfilccwORicjLdjphUbyixLveN-GQ.jpg"/>
-    </item>
-    <item>
-      <title>Fersk statsministermåling</title>
-      <description><![CDATA[Dagsnytt 18 oppsummerer valget. En analyse viser at hetsen mot partilederne øker fram mot valget.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f4d42c9d-e1b3-41ee-942c-9de1b331ee04_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f4d42c9d-e1b3-41ee-942c-9de1b331ee04_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:57</itunes:duration>
-      <pubDate>Fri, 05 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/y5uk8FhfacVdMvWUIgnDlAvRf7nuVacV9RLznR1VoCQw.jpg"/>
     </item>
   </channel>
 </rss>
