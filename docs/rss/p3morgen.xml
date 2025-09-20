@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Sep 2025 11:26:40 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 20 Sep 2025 04:33:26 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen</title>
+      <description><![CDATA[Uhu! Vi gir deg høydepunkter fra denne uka - med julestemning i september, rare hundenavn og gjester fra Forræder og Humoretaten!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1c290649-b674-41c0-a906-49b674a1c0fb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1c290649-b674-41c0-a906-49b674a1c0fb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:55</itunes:duration>
+      <pubDate>Sat, 20 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n6glombwIRm-wp4NwGWzaQ7qJcl7mtLzqGApTA-rX4DQ.jpg"/>
+    </item>
     <item>
       <title>Hva sier eksene dine om deg?</title>
       <description><![CDATA[Hva MÅ man få med seg i Lørenskog? Finnes det et gjengmiljø i Tjongsfjord? Og hvorfor er ikke skostørrelser like overalt?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Trusepant og ukjent mellomnavn</title>
-      <description><![CDATA[Å bare pante flasker er visst ikke så lett, og Arin avslører et litt spesielt mellomnavn. Og var alt bedre før, dvs. i 2020?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d5c6bdb6-ed88-48b0-86bd-b6ed8838b0e8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d5c6bdb6-ed88-48b0-86bd-b6ed8838b0e8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:35</itunes:duration>
-      <pubDate>Tue, 09 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
