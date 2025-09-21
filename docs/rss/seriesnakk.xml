@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Seriesnakk</title>
+    <title>De 3 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Sep 2025 03:04:21 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Sep 2025 17:20:00 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Sep 2025 04:34:13 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Sep 2025 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
@@ -17,9 +17,27 @@
       <description><![CDATA[Kommer 21. september: Seriesnakk møter dokumentarskaper Tommy Gulliksen og Stoltenberg selv og får alle detaljene rundt serien.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/4a31bf53-3339-4578-b1bf-5333398578a9_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/seriesnakk/4a31bf53-3339-4578-b1bf-5333398578a9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05</itunes:duration>
+      <itunes:duration>01:07</itunes:duration>
       <pubDate>Mon, 15 Sep 2025 17:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/89moWuZiNwEYJ7exCOrJ4w_GtvNZIu8nc7kxjkOTtHRQ.jpg"/>
+    </item>
+    <item>
+      <title>– Jeg ville slite ut Jens (1:2)</title>
+      <description><![CDATA[Nato-toppmøtene er som en skolegård, med bøller og tapere. Filmskaper Tommy Gulliksen var flue på veggen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/f6f7fb10-9062-4481-b7fb-109062748110_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/f6f7fb10-9062-4481-b7fb-109062748110_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:29</itunes:duration>
+      <pubDate>Sun, 21 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-2xFzKxURgfeIuCbkAWcUAZFbX_BPq_hZ4Oq_yBApFxg.jpg"/>
+    </item>
+    <item>
+      <title>– Mye klemming i Nato (2:2)</title>
+      <description><![CDATA[Vi får endelig tak i Stoltenberg og stiller spørsmålene han ikke svarer på i filmen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/2c42e07d-dc30-46b6-82e0-7ddc3026b6f3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/2c42e07d-dc30-46b6-82e0-7ddc3026b6f3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:40</itunes:duration>
+      <pubDate>Sun, 21 Sep 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vu1nVOYYWscfvqb3hhI-0wJzL76ybkIb9v63qCVacLkg.jpg"/>
     </item>
   </channel>
 </rss>
