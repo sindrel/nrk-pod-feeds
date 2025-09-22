@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Sep 2025 04:34:36 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Sep 2025 04:34:35 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Mankegard ble sparket av Ramón</title>
+      <description><![CDATA[Mankegard forteller om da han fikk sparken fra musikkbransjen og hvorfor en bolle ikke bare er en bolle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/918b2a45-370c-44c0-8b2a-45370c94c0d2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/918b2a45-370c-44c0-8b2a-45370c94c0d2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:50</itunes:duration>
+      <pubDate>Mon, 22 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0puQtxYjgP-Ztrg1-FCOzQU-OtBO4UFEtKcQTGGi3yMA.jpg"/>
+    </item>
     <item>
       <title>Jonas Gahr Støre er min daddy</title>
       <description><![CDATA[Franky mener Jonas Gahr Støre kunne vært Norges største influenser og roast-battle konge. Mo mener han blir hypa altfor mye…]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>38:57</itunes:duration>
       <pubDate>Thu, 29 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nYVcJdRbzUw_GUG2Ow56vg_lbS8F2Tb-2OREzFi-L05A.jpg"/>
-    </item>
-    <item>
-      <title>My man, Kongen</title>
-      <description><![CDATA[Hva skjer hvis Prinsesse Ingrid Alexandra og Mo matcher på Hinge? Og Franky er slått ut av 17. mai og Kongens aura.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/70505775-89bf-45f0-a2e4-f270687a52d9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/70505775-89bf-45f0-a2e4-f270687a52d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:24</itunes:duration>
-      <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8rsbZqiGYx_zS8uaJiPZjgi2RYBUtoWiu69JRJp7Iamw.jpg"/>
     </item>
   </channel>
 </rss>
