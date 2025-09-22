@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 20 Sep 2025 04:33:26 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Sep 2025 10:36:37 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Du er Mikke til min mus</title>
+      <description><![CDATA[Arin har vært toastmaster, Jonas tok med seg stivpynta venner på IKEA, og Henning vitnet spying.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8d04f8e1-8ee1-4161-84f8-e18ee1a16168_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8d04f8e1-8ee1-4161-84f8-e18ee1a16168_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:29</itunes:duration>
+      <pubDate>Mon, 22 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen</title>
       <description><![CDATA[Uhu! Vi gir deg høydepunkter fra denne uka - med julestemning i september, rare hundenavn og gjester fra Forræder og Humoretaten!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>18:38</itunes:duration>
       <pubDate>Thu, 11 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1eJULp2ECr4ymizsKKaaVgApsf-m3gBi7PmhSPwX1QVw.jpg"/>
-    </item>
-    <item>
-      <title>Svart magi og høye folk</title>
-      <description><![CDATA[Arin har oppdaget en bolledessert, Jonas tar opp høye folks problemer og ikke-problemer, og Henning har med litt svart magi.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b548ac21-e212-4496-88ac-21e2129496c9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b548ac21-e212-4496-88ac-21e2129496c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>
