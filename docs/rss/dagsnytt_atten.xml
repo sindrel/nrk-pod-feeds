@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Sep 2025 17:29:09 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Sep 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Sep 2025 18:39:58 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Sep 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>FNs generalforsamling i New York</title>
+      <description><![CDATA[Krigene i Gaza og Ukraina blir sentrale tema.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/48783dc8-0791-4a0d-b83d-c807911a0dbe_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/48783dc8-0791-4a0d-b83d-c807911a0dbe_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Mon, 22 Sep 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tdOL5NrS4lPA8n_Ndk-FUQRm_LKJlmh6B66WC2NhfeFA.jpg"/>
+    </item>
     <item>
       <title>Trenger mer hjelp</title>
       <description><![CDATA[Kronprinsesse Mette-Marit sier hun vil få bedre kontroll over hverdagen som kronisk syk. Hun skal til rehabilitering og avstå fra offisielle plikter i en måned.]]></description>
@@ -94,15 +103,6 @@ En FN-kommisjon beskylder dem for folkemord.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 09 Sep 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Dvdd94lGb4KsnP04SKLH0wQ3fwYyLsKSgkM1bZUWFM1w.jpg"/>
-    </item>
-    <item>
-      <title>Valgdagen 2025</title>
-      <description><![CDATA[Rekordmange forhåndsstemmer kan føre til at vi får vite mer om valgresultatet tidligere på kvelden enn ved tidligere valg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/593d54e3-226c-4aed-bd54-e3226c1aeddc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/593d54e3-226c-4aed-bd54-e3226c1aeddc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 08 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RNjbdl952jraMhAWfilccwORicjLdjphUbyixLveN-GQ.jpg"/>
     </item>
   </channel>
 </rss>
