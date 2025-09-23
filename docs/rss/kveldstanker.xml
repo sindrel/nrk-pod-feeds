@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Sep 2025 04:33:49 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Sep 2025 04:34:16 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Bestefar - med Solveig Johanne Grønstøl</title>
+      <description><![CDATA[Ting kan minne oss om folk, fortel forfattar Solveig Johanne Grønstøl. Sjølv har ho ein bestefar i eit teppe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/411e271e-68dd-48a7-9e27-1e68ddd8a734_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/411e271e-68dd-48a7-9e27-1e68ddd8a734_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:13</itunes:duration>
+      <pubDate>Tue, 23 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MFkAGpuU6xKllBoImcYQiw0MBjwueSx3sOUWfEkgH8WA.jpg"/>
+    </item>
     <item>
       <title>Stoppknapp - med Hannah Faizan Jensen</title>
       <description><![CDATA[En liten rød knapp var ukjent for tannlegen Hannah Faizani Jensen, da hun tok bussen i Norge for første gang.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:02</itunes:duration>
       <pubDate>Tue, 19 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
-    </item>
-    <item>
-      <title>Strand - med Endre Ruset</title>
-      <description><![CDATA[Det må kunne gå an å gifte seg med ei strand, mener poeten Endre Ruset]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e4c35708-27c3-4139-ba34-98bae8bff919_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e4c35708-27c3-4139-ba34-98bae8bff919_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:19</itunes:duration>
-      <pubDate>Mon, 18 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sJ9KzzgFSIBlRR2TUB8FpAX-geH2jPcj5UB-1sbaWpvA.jpg"/>
     </item>
   </channel>
 </rss>
