@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 23 Sep 2025 17:27:55 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Sep 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2025 17:30:44 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Etterforsker Foxtrot-kobling</title>
+      <description><![CDATA[Politiet etterforsker en mulig Foxtrot-kobling etter granatangrepet på Bislet i Oslo i går kveld, erfarer NRK.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/81673ade-9f44-4e4f-a73a-de9f44ae4f5b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/81673ade-9f44-4e4f-a73a-de9f44ae4f5b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IXV9L_CfNJ5OyWXytj1uFw-zx8xTXj5lUEPH_kTp2ICA.jpg"/>
+    </item>
     <item>
       <title>Norsk luftrom krenket tre ganger de siste året</title>
       <description><![CDATA[Oslo lufthavn stengt i natt etter dronemeldinger.]]></description>
@@ -94,15 +103,6 @@ En FN-kommisjon beskylder dem for folkemord.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 11 Sep 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yEdN-cTjQfussDiWNcwv_wuZQR-Z6Pxz4nsYFiyA2icA.jpg"/>
-    </item>
-    <item>
-      <title>Droner over Polen</title>
-      <description><![CDATA[Tyder på at Russland tester Nato, sier Barth Eide.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/98af3cf7-99b1-44a0-af3c-f799b1b4a0a7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/98af3cf7-99b1-44a0-af3c-f799b1b4a0a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 10 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1sZjh4yzqP0cZxs7A_MyrQ0Wb0h8458h6Etf5CRUB_Ig.jpg"/>
     </item>
   </channel>
 </rss>
