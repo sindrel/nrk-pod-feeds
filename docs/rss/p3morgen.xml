@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 24 Sep 2025 08:40:30 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 25 Sep 2025 11:27:29 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>En fantom-fiser løs i byen</title>
+      <description><![CDATA[Vi tar for oss stønn i øret, rap i fjeset og promp i det offentlige rom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/51954bf1-289b-4ff5-954b-f1289b4ff5bf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/51954bf1-289b-4ff5-954b-f1289b4ff5bf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:01</itunes:duration>
+      <pubDate>Thu, 25 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
+    </item>
     <item>
       <title>Bukking er «cringe»</title>
       <description><![CDATA[Arin «cringer» av bukking, Henning samler på dyre-lamper, og Jonas er en «certified unc».]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Mon, 15 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PhVh4bVk6tGxCmQQh0gZTQBYr3J8hvBja6TJVsCV0Fkw.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen</title>
-      <description><![CDATA[Denne uka fyrer Jonas opp en Sverige-beef, vi har diskutert om ketchup er en saus og vi byr på gjester fra AF1 og Hollywood!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/15a1eb95-523d-4b6e-a1eb-95523dcb6eab_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/15a1eb95-523d-4b6e-a1eb-95523dcb6eab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:04:00</itunes:duration>
-      <pubDate>Sat, 13 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/R_wFXeRbv7uR404RGiEhwgWm5R_aJ_RO8xSgMqYPlAYg.jpg"/>
     </item>
   </channel>
 </rss>
