@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-09-26  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2025-09-24  
 - Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
 ### 2025-09-19  
