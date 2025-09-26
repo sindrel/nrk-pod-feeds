@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Sep 2025 17:30:02 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Sep 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 17:29:04 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Benjamin Netanyahu talte til FN</title>
+      <description><![CDATA[Flere land forlot salen i protest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/497be2f9-fbd3-4f5e-bbe2-f9fbd3ef5e8f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/497be2f9-fbd3-4f5e-bbe2-f9fbd3ef5e8f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 26 Sep 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_aizBuTedjDvuoXAX5d9SgZ-1TARF6noQehBZATlSaMA.jpg"/>
+    </item>
     <item>
       <title>Vil forby tre-literen på Vinmonopolet</title>
       <description><![CDATA[Psykiater er bekymret for at eldre drikker mer med kartongvin.]]></description>
@@ -94,15 +103,6 @@ En FN-kommisjon beskylder dem for folkemord.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 15 Sep 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JiwUZLDTtKuy2vvBAJB-uQ6xbr9BrS7NoUQ-a5XlzJnQ.jpg"/>
-    </item>
-    <item>
-      <title>Solberg varsler sin avgang</title>
-      <description><![CDATA[Erna Solberg (64) går av som partileder i Høyre etter 21 år. I februar skal Høyre velge ny partiledelse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f2ec2f2a-e123-4aa8-ac2f-2ae123eaa883_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f2ec2f2a-e123-4aa8-ac2f-2ae123eaa883_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 12 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WmUsCOSDIjvx2-W2EJWYHAtNcdi7y7RIdlxi35w7NS1A.jpg"/>
     </item>
   </channel>
 </rss>
