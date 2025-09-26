@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Sep 2025 04:34:48 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 05:32:20 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    <item>
+      <title>Fiks og ufiks.</title>
+      <description><![CDATA[Prefiks, infiks, sufiks, postfiks - alle er affikser. Men hva er det? Det er mye forstavelser og vovede forklaringer denne gangen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/2d9b8c0b-d608-4a53-9b8c-0bd6085a5330_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/2d9b8c0b-d608-4a53-9b8c-0bd6085a5330_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:35</itunes:duration>
+      <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
     <item>
       <title>Burugle og "hot dog".</title>
       <description><![CDATA[Hvorfor er alfabetet i alfabetisk rekkefølge? Baskisk er unikt og helt enestående. God og bra er både lik og forskjellig.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:20</itunes:duration>
       <pubDate>Fri, 30 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>Opt inn neste helg</title>
-      <description><![CDATA[Hva er en helligdag på veggen? Førstkommende er konkret, med neste da? Liksombanning kan være virkelig stygge forbannelser!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/068a022e-f0f1-42fe-ac80-0ff03615c4ac_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/068a022e-f0f1-42fe-ac80-0ff03615c4ac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:17</itunes:duration>
-      <pubDate>Fri, 23 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egg9otF-xq2gL1JlPjGwqVHg.jpg"/>
     </item>
   </channel>
 </rss>
