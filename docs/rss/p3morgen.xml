@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 26 Sep 2025 11:27:17 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Sep 2025 04:33:32 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen</title>
+      <description><![CDATA[Denne uken har Arin delt en kebabtraume fra barndommen, Henning har laget tissereportasje og Jonas har vært redd for man flu.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a07c6c0b-b07d-4c3c-bc6c-0bb07d8c3c36_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a07c6c0b-b07d-4c3c-bc6c-0bb07d8c3c36_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:24</itunes:duration>
+      <pubDate>Sat, 27 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EiDIMFbCKzX2gNgme_FJswdI13cEvP7MXTDoZyy-AmJQ.jpg"/>
+    </item>
     <item>
       <title>Hadde Cæsar og Kleopatra en greie?</title>
       <description><![CDATA[Fra seksualundervisning til Wig Wam-perioden: Vi mimrer tilbake til de formative år.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Wed, 17 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
-    </item>
-    <item>
-      <title>Vietnamesisk skjorte og magisk gnom</title>
-      <description><![CDATA[Hva gjør du hvis du møter en magisk gnom? Og ville du holdt hånda til ayatollaen? Vi har med dilemmaer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/309d5cbe-90b4-4d0f-9d5c-be90b4bd0f7c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/309d5cbe-90b4-4d0f-9d5c-be90b4bd0f7c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:31</itunes:duration>
-      <pubDate>Tue, 16 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
     </item>
   </channel>
 </rss>
