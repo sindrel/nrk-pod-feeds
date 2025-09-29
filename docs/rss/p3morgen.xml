@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 27 Sep 2025 04:33:32 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2025 11:27:07 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Ta en måse hos fastlegen</title>
+      <description><![CDATA[Er Bergen Norges USA? Hva gjør Jonas egentlig i Trondheim? Og hvilken by er den blå byen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c1054c41-c254-4737-854c-41c2549737aa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c1054c41-c254-4737-854c-41c2549737aa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:36</itunes:duration>
+      <pubDate>Mon, 29 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen</title>
       <description><![CDATA[Denne uken har Arin delt en kebabtraume fra barndommen, Henning har laget tissereportasje og Jonas har vært redd for man flu.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Thu, 18 Sep 2025 12:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
-    </item>
-    <item>
-      <title>Da Jonas ble Keiino-frelst</title>
-      <description><![CDATA[Jonas fikk titsa signert av Fred Buljo, Arin blir satt ut av velstelte bergensere, og Henning er på tynn is.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8b91b66b-e25c-48a9-91b6-6be25ce8a97f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8b91b66b-e25c-48a9-91b6-6be25ce8a97f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Wed, 17 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
     </item>
   </channel>
 </rss>
