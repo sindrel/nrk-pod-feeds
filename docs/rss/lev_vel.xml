@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Sep 2025 12:58:56 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Sep 2025 13:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2025 13:00:13 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2025 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Scrollechallenge: Vinneren kåres</title>
+      <description><![CDATA[Blir det Henning Bang, Kristoffer Olsen eller Linnéa som stikker av med seieren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/be9e5e5d-01ad-4945-9e5e-5d01ad2945cb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/be9e5e5d-01ad-4945-9e5e-5d01ad2945cb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:37</itunes:duration>
+      <pubDate>Mon, 29 Sep 2025 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Scrollechallenge: Hvem vinner?</title>
       <description><![CDATA[Det er bare fire dager igjen av konkurransen og det er én deltaker som har tatt opp konkurransen mot Linnéa og Kristoffer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:36</itunes:duration>
       <pubDate>Wed, 03 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>BONUS: Få kontroll på gjelda</title>
-      <description><![CDATA[Siviløkonom Kjersti Grønseth og Linnéa Myhre snakker om hvordan flytte et lån og hvordan få kontroll på gjelda man har.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/0bf5e1a1-6fb4-4f18-b5e1-a16fb48f18a6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0bf5e1a1-6fb4-4f18-b5e1-a16fb48f18a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:53</itunes:duration>
-      <pubDate>Fri, 29 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
     </item>
   </channel>
 </rss>
