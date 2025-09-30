@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 24 Sep 2025 04:34:31 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Sep 2025 04:34:47 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Gå for det - med Ingvild Hegge Eriksen</title>
+      <description><![CDATA[- Noen ganger er ikke målet det viktigste,  men at du går for det, sier forfatter Ingvild Hegge Eriksen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/5f98db47-9f43-4a1e-98db-479f43fa1ed3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/5f98db47-9f43-4a1e-98db-479f43fa1ed3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:55</itunes:duration>
+      <pubDate>Tue, 30 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eHGuJV_i7N6QpzBZpvGZnAJqanMHT-LGWHGbjst83fdg.jpg"/>
+    </item>
     <item>
       <title>Levende musikk - med Elin Sofye Rabbevåg</title>
       <description><![CDATA[Konsertopplevelser er bra for helsa, hevder musiker Elin Sofye Rabbevåg]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:01</itunes:duration>
       <pubDate>Tue, 26 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tV9lr1Aa5zyEz0nAo1HmPwWjcEzhw4i456kWfCRQQ1rg.jpg"/>
-    </item>
-    <item>
-      <title>Bringebær - med Francine Mbanza Jensen</title>
-      <description><![CDATA[Livet handler ikke om hvor du starter, men om de små øyeblikkene på veien, hevder Francine Manza Jensen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/76bdd874-fbeb-4002-9403-4612e86932c1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/76bdd874-fbeb-4002-9403-4612e86932c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:45</itunes:duration>
-      <pubDate>Mon, 25 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ha8Oozr6v3a7Nn91JlrEsg4Xuhz6dIErnylNQUU45Q8w.jpg"/>
     </item>
   </channel>
 </rss>
