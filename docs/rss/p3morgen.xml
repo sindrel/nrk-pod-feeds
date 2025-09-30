@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 29 Sep 2025 11:27:07 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Sep 2025 12:59:31 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Sep 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Henning ble mistenkt av politiet</title>
+      <description><![CDATA[Henning møtte opp på stasjonen da han ikke fikk tak i politiet på telefon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/89ce582f-2730-4e33-8e58-2f27303e33e5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/89ce582f-2730-4e33-8e58-2f27303e33e5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:26</itunes:duration>
+      <pubDate>Tue, 30 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
+    </item>
     <item>
       <title>Ta en måse hos fastlegen</title>
       <description><![CDATA[Er Bergen Norges USA? Hva gjør Jonas egentlig i Trondheim? Og hvilken by er den blå byen?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:35</itunes:duration>
       <pubDate>Fri, 19 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
-    </item>
-    <item>
-      <title>Vi deler våre fordommer</title>
-      <description><![CDATA[Er Østfoldinger reddere for nye ting, er vinelskere snobber, eller mangler Pepsi Max-elskere personlighet? Vi deler våre fordommer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/0aafccec-70cb-4ad0-afcc-ec70cb7ad0bb_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/0aafccec-70cb-4ad0-afcc-ec70cb7ad0bb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Thu, 18 Sep 2025 12:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
     </item>
   </channel>
 </rss>
