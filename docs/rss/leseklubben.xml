@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Leseklubben</title>
+    <title>De 7 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 27 Sep 2025 04:33:19 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Sep 2025 06:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 04:34:56 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
@@ -100,6 +100,15 @@ Leseklubben: Episode 6]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/9d648727-5a35-48ae-a487-275a3578ae46_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:40</itunes:duration>
       <pubDate>Sat, 27 Sep 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DQmWk4MjlcsVHbWKDLWotQkbE15n_Z7yZ3wFKBmn7fAw.jpg"/>
+    </item>
+    <item>
+      <title>– Var dette siste kapittel? (6:6)</title>
+      <description><![CDATA[Reiste håret seg under lesing av siste avsnitt?  Oline er tidenes reality-karakter. Jon kommer med et varsku til sin samtid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/49516b2a-722c-4273-916b-2a722c0273cc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/49516b2a-722c-4273-916b-2a722c0273cc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:59</itunes:duration>
+      <pubDate>Wed, 01 Oct 2025 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DQmWk4MjlcsVHbWKDLWotQkbE15n_Z7yZ3wFKBmn7fAw.jpg"/>
     </item>
   </channel>
