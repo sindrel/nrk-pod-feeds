@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 30 Sep 2025 17:30:09 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Sep 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 17:30:14 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Stoltenberg: På min vakt</title>
+      <description><![CDATA[Ny bok forteller om Trumps vanskelige møter med Nato.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9d70f9b0-41e7-439b-b0f9-b041e7039b10_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9d70f9b0-41e7-439b-b0f9-b041e7039b10_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 01 Oct 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qee5PLp1rDD5fEY4BdqzmQu4Yfi0JTAaX4opy2PsTmcA.jpg"/>
+    </item>
     <item>
       <title>Fredsplan for Gaza</title>
       <description><![CDATA[Trump og Netanyahu har lagt frem et forslag på 20 punkter som de mener kan sikre varig fred i Gaza. 
@@ -95,15 +104,6 @@ Møtte Storbritannias statsminister i dag.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 18 Sep 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3joJtgv3CzEzH6GUhPtV6Qk5RnfGbBMURyk6kPWfvDsg.jpg"/>
-    </item>
-    <item>
-      <title>Staselig Trump-besøk i Storbritannia</title>
-      <description><![CDATA[Trump-paret ble møtt med mye pomp og prakt under deres andre statsbesøk til Storbritannia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/26f06a77-0906-4f95-b06a-7709062f95c3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/26f06a77-0906-4f95-b06a-7709062f95c3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 17 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jOOW3MZvULMj8yFCY2WX0g0eV5WhIz1IvQX7AAkQX7JQ.jpg"/>
     </item>
   </channel>
 </rss>
