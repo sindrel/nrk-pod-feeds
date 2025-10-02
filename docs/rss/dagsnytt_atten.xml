@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Oct 2025 17:30:14 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Oct 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 17:28:24 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>EU-toppmøte i København</title>
+      <description><![CDATA[Volodymyr Zelenskyj deltok på møtet og vil ha fremgang i forhandlingene om et EU medlemskap for Ukraina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dd841497-cbed-4731-8414-97cbed373184_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dd841497-cbed-4731-8414-97cbed373184_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:07</itunes:duration>
+      <pubDate>Thu, 02 Oct 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MpcuIaZOvJHWvcrPglFbjApa4utUPMya4XSJEltXrj_w.jpg"/>
+    </item>
     <item>
       <title>Stoltenberg: På min vakt</title>
       <description><![CDATA[Ny bok forteller om Trumps vanskelige møter med Nato.]]></description>
@@ -94,16 +103,6 @@ Frp og Ap er uenige om veien videre.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 19 Sep 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1coTdcZ5S5z2ovl9NPGcwQcmuGWmDUtWVnlUsQ3G848A.jpg"/>
-    </item>
-    <item>
-      <title>Skuffet over Putin</title>
-      <description><![CDATA[Trump sier han føler seg sviktet av Russlands president. 
-Møtte Storbritannias statsminister i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/28a56ea7-4c26-4d97-a56e-a74c26ad97a6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/28a56ea7-4c26-4d97-a56e-a74c26ad97a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 18 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3joJtgv3CzEzH6GUhPtV6Qk5RnfGbBMURyk6kPWfvDsg.jpg"/>
     </item>
   </channel>
 </rss>
