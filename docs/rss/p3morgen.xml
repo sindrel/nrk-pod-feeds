@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Oct 2025 04:33:22 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Oct 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2025 08:39:02 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2025 10:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Henning måtte trakassere Jonas</title>
+      <description><![CDATA[Jonas og Henning har vært skuespillere, Arin får FOMO i bil og vi lærer hva bygdekino er.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cc3da5d2-e903-4882-bda5-d2e903b8824c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cc3da5d2-e903-4882-bda5-d2e903b8824c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Mon, 06 Oct 2025 10:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen</title>
       <description><![CDATA[Gledelig Urørt-uke! Denne uken ble Jonas overrasket over ny Durek-trend, Henning ble starstruck og Arin bruker fortsatt gaffel!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:26</itunes:duration>
       <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>En fantom-fiser løs i byen</title>
-      <description><![CDATA[Vi tar for oss stønn i øret, rap i fjeset og promp i det offentlige rom.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/51954bf1-289b-4ff5-954b-f1289b4ff5bf_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/51954bf1-289b-4ff5-954b-f1289b4ff5bf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:01</itunes:duration>
-      <pubDate>Thu, 25 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
     </item>
   </channel>
 </rss>
