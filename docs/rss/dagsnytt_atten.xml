@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 03 Oct 2025 17:28:31 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Oct 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2025 17:29:39 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Flere tusen er fortsatt uten strøm etter stormen «Amy».</title>
+      <description><![CDATA[Frp mener Norge er blitt for avhengig av strøm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/33ba4d92-aca3-4c89-ba4d-92aca39c89d6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/33ba4d92-aca3-4c89-ba4d-92aca39c89d6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 06 Oct 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dUdBFFlcyxVg2q4FIYTdYAU4Liy8qxi00fNiliRSkRXA.jpg"/>
+    </item>
     <item>
       <title>Avskiltede leger jobber i Norge</title>
       <description><![CDATA[Sp frykter for tilliten til helsevesenet etter VG-avsløring om at avskiltede, utenlandske leger jobber i Norge.]]></description>
@@ -94,15 +103,6 @@ Frp og Ap er uenige om veien videre.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 23 Sep 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ajfCB_lItl3lRVSgxQjfUwl56r6FdT4OjoqqptEBqTkw.jpg"/>
-    </item>
-    <item>
-      <title>FNs generalforsamling i New York</title>
-      <description><![CDATA[Krigene i Gaza og Ukraina blir sentrale tema.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/48783dc8-0791-4a0d-b83d-c807911a0dbe_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/48783dc8-0791-4a0d-b83d-c807911a0dbe_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Mon, 22 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tdOL5NrS4lPA8n_Ndk-FUQRm_LKJlmh6B66WC2NhfeFA.jpg"/>
     </item>
   </channel>
 </rss>
