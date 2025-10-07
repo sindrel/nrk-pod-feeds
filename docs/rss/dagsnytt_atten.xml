@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Oct 2025 17:29:39 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Oct 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2025 17:30:32 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Sammenheng mellom granatangrep</title>
+      <description><![CDATA[Angrepet i Strømmen i natt kobles til eksplosjonen i Oslo for to uker siden]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5193a56a-c53c-486b-93a5-6ac53c286b49_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5193a56a-c53c-486b-93a5-6ac53c286b49_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 07 Oct 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Q8AY7RoJJq_EBb39YsVgfAdD0XQ3tqy8LilseLo81Y3w.jpg"/>
+    </item>
     <item>
       <title>Flere tusen er fortsatt uten strøm etter stormen «Amy».</title>
       <description><![CDATA[Frp mener Norge er blitt for avhengig av strøm.]]></description>
@@ -94,15 +103,6 @@ Frp og Ap er uenige om veien videre.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 24 Sep 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IXV9L_CfNJ5OyWXytj1uFw-zx8xTXj5lUEPH_kTp2ICA.jpg"/>
-    </item>
-    <item>
-      <title>Norsk luftrom krenket tre ganger de siste året</title>
-      <description><![CDATA[Oslo lufthavn stengt i natt etter dronemeldinger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/64e3288e-7bfa-4637-a328-8e7bfad63702_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/64e3288e-7bfa-4637-a328-8e7bfad63702_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 23 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ajfCB_lItl3lRVSgxQjfUwl56r6FdT4OjoqqptEBqTkw.jpg"/>
     </item>
   </channel>
 </rss>
