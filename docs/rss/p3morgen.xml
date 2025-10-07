@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Oct 2025 08:39:02 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Oct 2025 10:03:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2025 10:34:27 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 11:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Blir avbrutt under innspilling</title>
+      <description><![CDATA[Jonas og Henning blir avbrutt av en legende. De snakker også om Tour de P3, og om de hadde blitt gode politikere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ae48a8c9-9ea7-4c8d-88a8-c99ea77c8d89_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ae48a8c9-9ea7-4c8d-88a8-c99ea77c8d89_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:00</itunes:duration>
+      <pubDate>Tue, 07 Oct 2025 11:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    </item>
     <item>
       <title>Henning måtte trakassere Jonas</title>
       <description><![CDATA[Jonas og Henning har vært skuespillere, Arin får FOMO i bil og vi lærer hva bygdekino er.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:02:24</itunes:duration>
       <pubDate>Sat, 27 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EiDIMFbCKzX2gNgme_FJswdI13cEvP7MXTDoZyy-AmJQ.jpg"/>
-    </item>
-    <item>
-      <title>Hadde Cæsar og Kleopatra en greie?</title>
-      <description><![CDATA[Fra seksualundervisning til Wig Wam-perioden: Vi mimrer tilbake til de formative år.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5fff814c-7e6e-44ff-bf81-4c7e6e14ffee_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5fff814c-7e6e-44ff-bf81-4c7e6e14ffee_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:26</itunes:duration>
-      <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>
 </rss>
