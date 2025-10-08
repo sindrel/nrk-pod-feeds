@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Oct 2025 11:26:22 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Oct 2025 13:20:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2025 10:34:41 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2025 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Beharie</title>
+      <description><![CDATA[Artisten vokste opp i et kristent hjem og kom ut som homofil da han var 20: – Det er viktig at det er rom for å ikke føle på skam]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/98326f5b-42f2-4044-b26f-5b42f29044f9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/98326f5b-42f2-4044-b26f-5b42f29044f9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Wed, 08 Oct 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kqiIDWZm0Yj70MH-v9VQrQ7Xq9ehet-XtYX5ScT0rDBg.jpg"/>
+    </item>
     <item>
       <title>Silje Endresen Reme</title>
       <description><![CDATA[- Det er ikke din skyld at hjernen din tror du er syk, sier psykologen fra "Harald og sytepavene"]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:19</itunes:duration>
       <pubDate>Tue, 23 Sep 2025 14:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_hEDjIzmN1gAC5kUVC1RKQKph7NN60EDLi9oujdHtBTg.jpg"/>
-    </item>
-    <item>
-      <title>Helga Guren</title>
-      <description><![CDATA[Skuespiller Helga Guren gjør suksess med film om trøbbel i ekteskapet.  – Kjærligheten starter alltid med en selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/88531209-c372-4f5b-9312-09c3726f5b79_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/88531209-c372-4f5b-9312-09c3726f5b79_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Mon, 22 Sep 2025 14:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Zh7YLzO3lDIkFw0x8F6FcAXnVu8i8QtH3jVynjBpCNVA.jpg"/>
     </item>
   </channel>
 </rss>
