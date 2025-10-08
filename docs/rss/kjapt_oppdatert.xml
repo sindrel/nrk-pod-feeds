@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Oct 2025 04:33:56 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Oct 2025 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2025 04:34:09 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2025 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Artist får kritikk av Det hvite hus</title>
+      <description><![CDATA[Og regjeringa vil innføre flere tiltak for å stoppe økninga av voldsoppdrag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/36f7bd9e-5240-4cde-b7bd-9e52400cdef7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/36f7bd9e-5240-4cde-b7bd-9e52400cdef7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:56</itunes:duration>
+      <pubDate>Wed, 08 Oct 2025 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bf4PJoD4SR6LIQie51plsw-6zGCYLZb007OidMXfYGVA.jpg"/>
+    </item>
     <item>
       <title>Nye funn i Odin-saken</title>
       <description><![CDATA[NRK-serie har ført til nye funn i saken om 18 år gamle Odin som forsvant for sju år siden.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:28</itunes:duration>
       <pubDate>Thu, 25 Sep 2025 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YhCaVuTuvrsZ-L1T2aCw0QYULMAFAexBS0C7ZwEhxIxA.jpg"/>
-    </item>
-    <item>
-      <title>Eksplosjoner i Oslo</title>
-      <description><![CDATA[Danmarks statsminister sier unnskyld, og artisten Sigrid har store planer neste sommer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/81ed78f2-fd47-4fb2-ad78-f2fd477fb2e7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/81ed78f2-fd47-4fb2-ad78-f2fd477fb2e7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:59</itunes:duration>
-      <pubDate>Wed, 24 Sep 2025 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TPUctDKpJccMlGdf25e9vg_ImnLvGOO1lH0Q11LVRmEw.jpg"/>
     </item>
   </channel>
 </rss>
