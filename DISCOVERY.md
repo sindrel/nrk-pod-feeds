@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-10-08  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2025-10-07  
 - Updated podcast 'Strid – de norske borgerkrigene' (`strid`)  
 ### 2025-09-26  
