@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-10-09  
+- Updated podcast 'Træsh' (`traesh`)  
 ### 2025-10-08  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2025-10-07  
