@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Oct 2025 11:26:41 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Oct 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 10:36:03 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Barna er hjemme alene</title>
+      <description><![CDATA[Jonas gjør seg klar for "Tour De P3". Derfor er barna hjemme alene i dag <3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e822ea9b-7ad8-471d-a2ea-9b7ad8e71d2b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e822ea9b-7ad8-471d-a2ea-9b7ad8e71d2b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Thu, 09 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    </item>
     <item>
       <title>Vi kan passordet til Espen Aas</title>
       <description><![CDATA[Arin skal være med på TV-innspilling i kveld, og Jonas og Henning er stolte foreldre og skal se på. Vi må lære en Dagsnytt 18-legende nettvett.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:26</itunes:duration>
       <pubDate>Tue, 30 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
-    </item>
-    <item>
-      <title>Ta en måse hos fastlegen</title>
-      <description><![CDATA[Er Bergen Norges USA? Hva gjør Jonas egentlig i Trondheim? Og hvilken by er den blå byen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c1054c41-c254-4737-854c-41c2549737aa_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c1054c41-c254-4737-854c-41c2549737aa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:36</itunes:duration>
-      <pubDate>Mon, 29 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
