@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-10-10  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-10-09  
 - Updated podcast 'Træsh' (`traesh`)  
 ### 2025-10-08  
