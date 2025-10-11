@@ -1,52 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Historier fra virkeligheten</title>
+    <title>De 2 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 20 Aug 2025 04:37:16 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 06:02:00 +0200</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 06:38:35 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2025 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>Kommer: Telenors mareritt</title>
-      <description><![CDATA[Etter kuppet i Myanmar ble Telenor – som hadde en attraktiv lisens i landet, tvunget til å utlevere sensitiv informasjon om kundene sine. Fra 20.08.2025 i NRK Radio.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/fd9582f5-be98-41ea-b292-8ca8b5308c95_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/fd9582f5-be98-41ea-b292-8ca8b5308c95_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:43</itunes:duration>
-      <pubDate>Tue, 19 Aug 2025 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_DcJ3Em-2vbO2ATITT3R6wHeghFIwqqWGGo_UqEaBVuA.jpg"/>
+      <title>Mye mørke i den byen her (1:2)</title>
+      <description><![CDATA[Fredrik lever drømmelivet som rockestjerne. Men en dag våkner han opp på glattcelle, og husker ikke hva som har skjedd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/24c539bd-e019-4ead-8539-bde019ceada6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/24c539bd-e019-4ead-8539-bde019ceada6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:29</itunes:duration>
+      <pubDate>Sat, 11 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TfwwIbD8a4KPpkjQu1j9Hwh_USM_DJYDYThFCD0McurQ.jpg"/>
     </item>
     <item>
-      <title>Tidenes mulighet (1:3)</title>
-      <description><![CDATA[Når et av verdens mest lukkede land åpner opp ser det lovende ut for Telenor, som kan tjene milliarder. Men er det trygt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/cd1e573a-9b6a-40e5-8fbb-53fac9abaa4f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/cd1e573a-9b6a-40e5-8fbb-53fac9abaa4f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:21</itunes:duration>
-      <pubDate>Wed, 20 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_DcJ3Em-2vbO2ATITT3R6wHeghFIwqqWGGo_UqEaBVuA.jpg"/>
-    </item>
-    <item>
-      <title>Minnepinnen (2:3)</title>
-      <description><![CDATA[En hemmelig kilde sitter på eksplosiv informasjon om  hvordan Telenor ble tvunget til å samarbeide med militærdiktaturet – men han er redd for å si for mye.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/b7b09721-0242-4a42-bd8b-54d3c500ae27_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/b7b09721-0242-4a42-bd8b-54d3c500ae27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:02</itunes:duration>
-      <pubDate>Wed, 20 Aug 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_DcJ3Em-2vbO2ATITT3R6wHeghFIwqqWGGo_UqEaBVuA.jpg"/>
-    </item>
-    <item>
-      <title>Mørke hemmeligheter (3:3)</title>
-      <description><![CDATA[Telenor fryktet at kunder kunne bli arrestert hvis teledata ble utlevert til kuppmakerne. Likevel skjedde det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/d1ed3781-9b02-4f38-b1b6-130d573a17b4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d1ed3781-9b02-4f38-b1b6-130d573a17b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:28</itunes:duration>
-      <pubDate>Wed, 20 Aug 2025 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_DcJ3Em-2vbO2ATITT3R6wHeghFIwqqWGGo_UqEaBVuA.jpg"/>
+      <title>Den som vingla (2:2)</title>
+      <description><![CDATA[Rettssaken mot Fredrik nærmer seg. Den vil avgjøre framtiden hans. Nå må han for første gang fortelle alt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/117229be-272d-48dd-b229-be272da8ddc1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/117229be-272d-48dd-b229-be272da8ddc1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:59</itunes:duration>
+      <pubDate>Sat, 11 Oct 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TfwwIbD8a4KPpkjQu1j9Hwh_USM_DJYDYThFCD0McurQ.jpg"/>
     </item>
   </channel>
 </rss>
