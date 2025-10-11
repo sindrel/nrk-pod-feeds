@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Oct 2025 10:34:51 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Oct 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 04:33:07 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen</title>
+      <description><![CDATA[Det blir "Ugler i mosen" i minnemandag, de beste kjerringrådene mot forkjølelse, barndomsløgner vi trodde på litt for lenge og Tale og Desta er klare for dans!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bf745101-a556-4031-b451-01a5564031bb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bf745101-a556-4031-b451-01a5564031bb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:05</itunes:duration>
+      <pubDate>Sat, 11 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-Z6OPkQGGiii57E3NEf19w3Kx64aZfqBRXoPtFL63JiQ.jpg"/>
+    </item>
     <item>
       <title>Dreit Henning seg ut?</title>
       <description><![CDATA[Arin og Henning fortsetter sin alene hjemme-fest. Og hvordan gikk det egentlig, da Henning skulle møte vennene til fruen?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:31</itunes:duration>
       <pubDate>Thu, 02 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
-    </item>
-    <item>
-      <title>Er Esel i Shrek fra Øst-Europa?</title>
-      <description><![CDATA[Arin har skrevet haiku-dikt, Jonas imiterer lyden av flammer og Henning kjøpte greske Pokémon-kort.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/17d9a02c-f0ef-4647-99a0-2cf0ef464766_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/17d9a02c-f0ef-4647-99a0-2cf0ef464766_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:34</itunes:duration>
-      <pubDate>Wed, 01 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
     </item>
   </channel>
 </rss>
