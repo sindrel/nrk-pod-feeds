@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-10-11  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2025-10-10  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-10-09  
