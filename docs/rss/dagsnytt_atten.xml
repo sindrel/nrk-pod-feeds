@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Oct 2025 17:29:13 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Oct 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2025 18:41:01 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Historisk dag i Midtøsten</title>
+      <description><![CDATA[Trump kalte dagen en historisk start for Midtøsten, da han talte i den israelske nasjonalforsamlingen, Knesset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4d2eda53-0e3b-4ae8-aeda-530e3b6ae8b2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4d2eda53-0e3b-4ae8-aeda-530e3b6ae8b2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Mon, 13 Oct 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fyWYVsPo9X2eeSzMmdRJogEX8nDi8Bd1L6QOZj8Mwdqg.jpg"/>
+    </item>
     <item>
       <title>Fredsprisen til Maria Corina Machado</title>
       <description><![CDATA[Nobelprisen til den venezuelanske demokratiforkjemperen Maria Corina Machado. 
@@ -94,16 +103,6 @@ Nå venter alle på svar fra Hamas.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 30 Sep 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_1WKLzAe4v49DM6ZLbv41Q2ahzm7h7TA9gtZVlZJKhww.jpg"/>
-    </item>
-    <item>
-      <title>Strid om tiltak mot ungdomskriminalitet</title>
-      <description><![CDATA[Flere voldshendelser har nylig involvert unge helt nede i 13 år. 
-Frp og Ap er uenige om veien videre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4d631486-ebf5-4335-a314-86ebf5e33500_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4d631486-ebf5-4335-a314-86ebf5e33500_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Mon, 29 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y4yuypLKoRns4uFJSsYU0wIDb2Q2eiZ5ZFZ9fdP8QYEQ.jpg"/>
     </item>
   </channel>
 </rss>
