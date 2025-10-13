@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Oct 2025 08:38:09 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Oct 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2025 04:36:26 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Ida Broen på besøk</title>
+      <description><![CDATA[Ida Broen snakker om Forræder, mote og sine 200 sneakers. Og hva er skip or drip om dagen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/9df245f6-7d64-4cf0-b245-f67d64fcf02a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/9df245f6-7d64-4cf0-b245-f67d64fcf02a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:31</itunes:duration>
+      <pubDate>Mon, 13 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L30MwmJoNATfkIIAdbVW5AOZwD0UzlHwl5xCCKBy1G0w.jpg"/>
+    </item>
     <item>
       <title>Det var ikke min skyld, det var Amy!</title>
       <description><![CDATA[Bursdagsbarnet Franky har tryna på el-sparkesykkel og Mo tar «boikott Eurovision»-kampanjen til et nytt nivå.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>24:50</itunes:duration>
       <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
-    </item>
-    <item>
-      <title>Iselin Guttormsen på besøk</title>
-      <description><![CDATA[Hvorfor er det bra å være en følsom grisegutt? Hva skjer med fitta når ei jente ligger rundt? Iselin Guttormsen gir seksualundervisning til Franky og Mo.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:37</itunes:duration>
-      <pubDate>Mon, 08 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/joK7cCT-TEtQS7j9YYowlQvX2VbXh1mITb_3VXVDud9A.jpg"/>
     </item>
   </channel>
 </rss>
