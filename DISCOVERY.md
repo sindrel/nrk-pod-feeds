@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-10-14  
+- Podcast 'Kladden har dævva' is considered obsolete and will be ignored in the future (`kladden_har_daevva`)  
 ### 2025-10-12  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2025-10-11  
