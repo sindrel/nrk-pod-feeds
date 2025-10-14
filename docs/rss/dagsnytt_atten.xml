@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Oct 2025 18:41:01 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Oct 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2025 17:27:57 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Oct 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vil skjerpe straffene</title>
+      <description><![CDATA[Regjeringen vil doble straffen for å bære kniv og våpen, og utvide politiets mulighet til å varetektsfengsle barn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e77a5b5c-8799-4f33-ba5b-5c8799df331e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e77a5b5c-8799-4f33-ba5b-5c8799df331e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 14 Oct 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oCeRtVx6D5zGq2zNwnGMIAD-2HlzN7NlfoA_eCkGHfZQ.jpg"/>
+    </item>
     <item>
       <title>Historisk dag i Midtøsten</title>
       <description><![CDATA[Trump kalte dagen en historisk start for Midtøsten, da han talte i den israelske nasjonalforsamlingen, Knesset.]]></description>
@@ -93,16 +102,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 01 Oct 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qee5PLp1rDD5fEY4BdqzmQu4Yfi0JTAaX4opy2PsTmcA.jpg"/>
-    </item>
-    <item>
-      <title>Fredsplan for Gaza</title>
-      <description><![CDATA[Trump og Netanyahu har lagt frem et forslag på 20 punkter som de mener kan sikre varig fred i Gaza. 
-Nå venter alle på svar fra Hamas.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4549843a-2f35-460b-8984-3a2f35460b41_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4549843a-2f35-460b-8984-3a2f35460b41_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 30 Sep 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_1WKLzAe4v49DM6ZLbv41Q2ahzm7h7TA9gtZVlZJKhww.jpg"/>
     </item>
   </channel>
 </rss>
