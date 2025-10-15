@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Oct 2025 04:34:40 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Oct 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 04:35:00 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Maktesløs - med Itta Helland-Hansen</title>
+      <description><![CDATA[- Føler du deg maktesløs til verdens konflikter, så har jeg et råd til deg, sier Itta Helland-Hansen i Leger uten grenser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/22e20a9a-d777-4d87-a20a-9ad7771d87c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/22e20a9a-d777-4d87-a20a-9ad7771d87c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:45</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YO16XrQ2s00B9hjnvs1w5APsX4208JzZ0_11Wxqhx_gQ.jpg"/>
+    </item>
     <item>
       <title>Synleg - med Mone Celin Skrede</title>
       <description><![CDATA[- Hadde du kalt meg funksjonshemma, hadde eg ikkje forstått kva du meinte, fortel Mone Celin Skrede]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:38</itunes:duration>
       <pubDate>Tue, 16 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
-    </item>
-    <item>
-      <title>Livets spilleliste - Elin Sofye</title>
-      <description><![CDATA[Lag en spilleliste fra livet ditt, råder musikkterapeut Elin Sofye Rabbevåg]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0199c63e-7210-40c1-99c6-3e721010c12d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0199c63e-7210-40c1-99c6-3e721010c12d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:23</itunes:duration>
-      <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
     </item>
   </channel>
 </rss>

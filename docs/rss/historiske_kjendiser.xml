@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Oct 2025 06:43:42 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Oct 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 04:34:52 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Olav V - Ensom majestet</title>
+      <description><![CDATA[Folkekongen ledet Norge med stø hånd, men bar i det stille på savn og ensomhet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/9ac0d59d-a658-487f-80d5-9da658b87ffa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/9ac0d59d-a658-487f-80d5-9da658b87ffa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:32</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zRCsYg-_rKB2zu4zc78vFwsptLk5QB8gjz6gwNAQWj3Q.jpg"/>
+    </item>
     <item>
       <title>Pablo Escobar – Kartellkongen</title>
       <description><![CDATA[Den colombianske narkobaronen var rik, mektig og fryktet – både i hjemlandet og resten av verden.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:38</itunes:duration>
       <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/TQBwlhDjKGu06ysGcAXkjA9Td3aB2HUQRWYIVPi0gOLw.jpg"/>
-    </item>
-    <item>
-      <title>Nikola Tesla – elektrisk eksentriker</title>
-      <description><![CDATA[Den geniale oppfinneren forandret verden med sine elektriske nyvinninger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/56b8386f-bdba-4d0e-a926-96fc05d1cd2d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/56b8386f-bdba-4d0e-a926-96fc05d1cd2d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:35</itunes:duration>
-      <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/npowfcmxDXU4IzloWMeOFwlAWzDwALH5KB6tKTO5CRmQ.jpg"/>
     </item>
   </channel>
 </rss>
