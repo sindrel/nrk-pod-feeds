@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Oct 2025 03:06:24 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Oct 2025 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 03:12:46 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Utbrenthet</title>
+      <description><![CDATA[Hva er tegnene man bør se etter for å unngå å bli utbrent? Psykologspesialist Henrik Børsting Jacobsen forklarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/41114f86-dbc9-437e-914f-86dbc9837e5c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/41114f86-dbc9-437e-914f-86dbc9837e5c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:58</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Lurer du på om du har ADHD?</title>
       <description><![CDATA[Leser man symptomlisten til ADHD er det lett å kjenne seg igjen, men hva er det som skiller vanlig strev fra en ADHD-diagnose?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>23:21</itunes:duration>
       <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
-    </item>
-    <item>
-      <title>Tar scrolling over livet ditt?</title>
-      <description><![CDATA[Hva gjør scrollingen med oss og hvorfor er det så vanskelig å slutte med det? Hjerneforsker og lege Ole Petter Hjelle svarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/5fb1342a-3358-4c25-b134-2a3358fc252b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/5fb1342a-3358-4c25-b134-2a3358fc252b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:09:23</itunes:duration>
-      <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
 </rss>
