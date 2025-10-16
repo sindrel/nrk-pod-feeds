@@ -1,70 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Tyrann</title>
+    <title>De 1 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 20 Sep 2025 04:33:31 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Sep 2025 06:03:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2025 13:00:15 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2025 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Milošević - KOMMER I MORGEN</title>
-      <description><![CDATA[Slakteren fra Balkan, Slobodan Milošević, gikk fra privilegert partipamp til hensynsløs krigsforbryter i kampen om serbisk livsrom.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/ef74491b-ae55-421c-b449-1bae55921c52_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/ef74491b-ae55-421c-b449-1bae55921c52_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32</itunes:duration>
-      <pubDate>Fri, 19 Sep 2025 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ.jpg"/>
-    </item>
-    <item>
-      <title>Milošević (1:4)</title>
-      <description><![CDATA[Milošević går over mange lik for å få makt. Først ryker nære venner, så etter hvert alle som er imot serbisk dominans på Balkan.
-
-
-Kilder: 
-Milošević: portrait of a tyrant - Branson, Louise og Dusko doder (1999) 
-Serpent in the bosom : the rise and fall of Slobodan Milošević - Cohen, Lenard J. (2000) 
-Radovan Karadžić: Architect of the Bosnian genocide - Donia, Robert J. (2015) 
-The Kosovo report : conflict, international response, lessons learned - Independent International Commission on Kosovo (2000) 
-Milošević: a biography  - Lebor, Adam (2004)  
-Slobodan Milošević and the destruction of Yugoslavia - Sell, Louis (2003)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/2bc19d21-29f9-4a16-819d-2129f9fa1648_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/2bc19d21-29f9-4a16-819d-2129f9fa1648_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:37</itunes:duration>
-      <pubDate>Sat, 20 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ.jpg"/>
-    </item>
-    <item>
-      <title>Milošević (2:4)</title>
-      <description><![CDATA[Bosniske Radovan Karadžić og Milošević  setter Balkan i brann. Særlig får byene Sarajevo og Srebrenica føle serberledernes galskap.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/489c30ae-d26d-472d-9c30-aed26de72d70_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/489c30ae-d26d-472d-9c30-aed26de72d70_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:05</itunes:duration>
-      <pubDate>Sat, 20 Sep 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ.jpg"/>
-    </item>
-    <item>
-      <title>Milošević (3:4)</title>
-      <description><![CDATA[Plutselig vil Milošević være klok statsmann, mens vold, korrupsjon og nepotisme gjennomsyrer et Serbia der kun de lojale belønnes.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/c7984076-92fc-4e12-9840-7692fcce12a8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/c7984076-92fc-4e12-9840-7692fcce12a8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:56</itunes:duration>
-      <pubDate>Sat, 20 Sep 2025 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ.jpg"/>
-    </item>
-    <item>
-      <title>Milošević (4:4)</title>
-      <description><![CDATA[Milošević kjemper sin siste krig, men nå går det galt. NATO bomber Serbia, økonomien kollapser, og folket snur seg mot diktatoren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/c56a2c16-f0a2-4dd7-aa2c-16f0a26dd717_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/c56a2c16-f0a2-4dd7-aa2c-16f0a26dd717_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:44</itunes:duration>
-      <pubDate>Sat, 20 Sep 2025 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ.jpg"/>
+      <title>Franco - kommer!</title>
+      <description><![CDATA[Franco vant den svært brutale spanske borgerkrigen i 1939, og ble landets diktator i 36 år.
+Ny Tyrann på lørdag i appen NRK Radio.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/2add07e1-29ee-49ef-9d07-e129ee69ef51_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/2add07e1-29ee-49ef-9d07-e129ee69ef51_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:34</itunes:duration>
+      <pubDate>Thu, 16 Oct 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/melVaukBbHoRySHtX893GwAskKMQYOLnc7MfSOfj66FA.jpg"/>
     </item>
   </channel>
 </rss>
