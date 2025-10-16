@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Oct 2025 08:42:36 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Oct 2025 10:28:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2025 10:37:03 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Henning sniffet Petter Northug</title>
+      <description><![CDATA[Ja, du leste riktig]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cad9ef6a-8b49-4705-99ef-6a8b49a705fd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cad9ef6a-8b49-4705-99ef-6a8b49a705fd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Thu, 16 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    </item>
     <item>
       <title>Å drukne på sommerleir</title>
       <description><![CDATA[Arin forteller om da hun skulle imponere noen, og Henning er tilbake i poden etter en snarvisitt innom Humoretaten!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Mon, 06 Oct 2025 10:03:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen</title>
-      <description><![CDATA[Gledelig Urørt-uke! Denne uken ble Jonas overrasket over ny Durek-trend, Henning ble starstruck og Arin bruker fortsatt gaffel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a1f1c7ea-4bf7-4966-b1c7-ea4bf739661d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a1f1c7ea-4bf7-4966-b1c7-ea4bf739661d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:04:47</itunes:duration>
-      <pubDate>Sat, 04 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6AfheVbhKKLrFswr_Gox_gp3ZZF6f8tMYrS6RUJJRuTw.jpg"/>
     </item>
   </channel>
 </rss>
