@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Oct 2025 04:35:02 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Oct 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Oct 2025 04:35:26 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Oct 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    <item>
+      <title>Etymologi, grammatikk, glamour</title>
+      <description><![CDATA[Etymologi betyr læren om den sanne betydningen. I dag dykker vi ned i ordenes egentlige betydning og byr på en etymologi spesial.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/42a75f6a-2c86-4962-a75f-6a2c86e962ac_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/42a75f6a-2c86-4962-a75f-6a2c86e962ac_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Fri, 17 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
     <item>
       <title>Hyrdestund og suppegjøk</title>
       <description><![CDATA[Språket endrer seg, og hyrdestund har reist langt i tid. Trenger vi alle de stumme t'ene, og hvilke lo'er er det i Geilo og Oslo?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:25</itunes:duration>
       <pubDate>Fri, 20 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egS-o3cgcVkDn1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>Galimatias eter</title>
-      <description><![CDATA[Det skrives suksess, men hvordan uttales det? Er det forskjell på å høre og å lytte, og er det ufint å ete?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/2969a144-74f4-43c6-933d-989e354d6593_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/2969a144-74f4-43c6-933d-989e354d6593_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Fri, 13 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rj6iL3sNhe5-dnx5Q960NwQveDLusSryPlLgkQgefFrQ.jpg"/>
     </item>
   </channel>
 </rss>
