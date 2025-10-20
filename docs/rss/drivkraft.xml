@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Oct 2025 11:27:48 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Oct 2025 12:44:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 11:27:56 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2025 12:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Sigrid</title>
+      <description><![CDATA[– Når jeg går på scenen kan jeg si "fuck off" til alt og alle, sier popstjernen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4e5cf036-e068-4ff2-9cf0-36e0685ff20f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4e5cf036-e068-4ff2-9cf0-36e0685ff20f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:30</itunes:duration>
+      <pubDate>Mon, 20 Oct 2025 12:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jSDXCA7m9Mg8_S-RlmBEbQ5F4XXtrHAfdSiiGKNODz6g.jpg"/>
+    </item>
     <item>
       <title>Steinar Sagen</title>
       <description><![CDATA[Komikeren frykter å være normal: – Jeg sitter på utsiden og ser på de andre.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:12</itunes:duration>
       <pubDate>Wed, 01 Oct 2025 12:42:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/khrjd4m2nNRJrBqMc2vE7ge7vmnxpm6f6-kvIfHMhHaA.jpg"/>
-    </item>
-    <item>
-      <title>Jørgen Randers</title>
-      <description><![CDATA[– Jeg har prøvd alt, og tror ikke lenger på demokratiet, sier klimaforskeren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e8c8375c-c026-4b86-8837-5cc0265b865a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e8c8375c-c026-4b86-8837-5cc0265b865a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:04</itunes:duration>
-      <pubDate>Tue, 30 Sep 2025 13:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pcBflS0k0omSCjjJEc13PQyTrt0tYkxofMmiz_AUqAAA.jpg"/>
     </item>
   </channel>
 </rss>
