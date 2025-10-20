@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Oct 2025 17:29:36 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Oct 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 18:44:47 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2025 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringen vil fortsatt skrote gratis ferger</title>
+      <description><![CDATA[Til tross for kritikken for at de lovet gratis ferger i valgkampen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eac1a5d3-8fd7-4858-81a5-d38fd7e858de_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eac1a5d3-8fd7-4858-81a5-d38fd7e858de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 20 Oct 2025 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GX9ksBIM08Ma3OCwLXAhYQ_G8dzkz9atwe5gdGAawR8A.jpg"/>
+    </item>
     <item>
       <title>Regjeringen beklager uttalelser fra valgkampen</title>
       <description><![CDATA[Var i strid med kuttene de hadde gjort i forslaget til statsbudsjett.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 07 Oct 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Q8AY7RoJJq_EBb39YsVgfAdD0XQ3tqy8LilseLo81Y3w.jpg"/>
-    </item>
-    <item>
-      <title>Flere tusen er fortsatt uten strøm etter stormen «Amy».</title>
-      <description><![CDATA[Frp mener Norge er blitt for avhengig av strøm.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/33ba4d92-aca3-4c89-ba4d-92aca39c89d6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/33ba4d92-aca3-4c89-ba4d-92aca39c89d6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 06 Oct 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dUdBFFlcyxVg2q4FIYTdYAU4Liy8qxi00fNiliRSkRXA.jpg"/>
     </item>
   </channel>
 </rss>
