@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Oct 2025 04:35:00 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Oct 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2025 04:35:40 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Oct 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Leselyst - med Jon Niklas Rønning</title>
+      <description><![CDATA[Dagens mest verdifulle samtale kan fort oppstå i et bibliotek, hevder komiker Jon Niklas Rønning]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9ff34298-9098-41d7-b342-98909881d727_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9ff34298-9098-41d7-b342-98909881d727_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:42</itunes:duration>
+      <pubDate>Tue, 21 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
     <item>
       <title>Maktesløs - med Itta Helland-Hansen</title>
       <description><![CDATA[- Føler du deg maktesløs til verdens konflikter, så har jeg et råd til deg, sier Itta Helland-Hansen i Leger uten grenser.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:38</itunes:duration>
       <pubDate>Wed, 17 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ATJZ4hXoF2j3g24c4NCABQIriftNuGDJixbr2c_ORQ5w.jpg"/>
-    </item>
-    <item>
-      <title>Ingegjerd - med Claes Krogsgaard Ericsson</title>
-      <description><![CDATA[- Noen mennesker glemmer man aldri, forteller stemmetolk og skuespiller Claes Krogsgaard Ericsson.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/cebb352d-c1e5-4b49-bb35-2dc1e58b4991_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/cebb352d-c1e5-4b49-bb35-2dc1e58b4991_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:38</itunes:duration>
-      <pubDate>Tue, 16 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
     </item>
   </channel>
 </rss>
