@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-10-21  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-10-16  
 - Updated podcast 'Hævvi' (`haevvi`)  
 ### 2025-10-14  
