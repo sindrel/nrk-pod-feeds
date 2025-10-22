@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Oct 2025 04:35:40 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Oct 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Oct 2025 04:36:47 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Oct 2025 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Kveldstanker: Småprat - med Ingelin Røssland</title>
+      <description><![CDATA[Småprat kan vere ein lykkeboost, hevdar forfattar Ingelin Røssland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d5578352-14eb-4ef4-9783-5214eb3ef475_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d5578352-14eb-4ef4-9783-5214eb3ef475_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:14</itunes:duration>
+      <pubDate>Wed, 22 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
+    </item>
     <item>
       <title>Leselyst - med Jon Niklas Rønning</title>
       <description><![CDATA[Dagens mest verdifulle samtale kan fort oppstå i et bibliotek, hevder komiker Jon Niklas Rønning]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:13</itunes:duration>
       <pubDate>Tue, 23 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MFkAGpuU6xKllBoImcYQiw0MBjwueSx3sOUWfEkgH8WA.jpg"/>
-    </item>
-    <item>
-      <title>Stoppknapp - med Hannah Faizan Jensen</title>
-      <description><![CDATA[En liten rød knapp var ukjent for tannlegen Hannah Faizani Jensen, da hun tok bussen i Norge for første gang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e4369e07-aedd-4641-b69e-07aedda64146_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e4369e07-aedd-4641-b69e-07aedda64146_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:38</itunes:duration>
-      <pubDate>Wed, 17 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ATJZ4hXoF2j3g24c4NCABQIriftNuGDJixbr2c_ORQ5w.jpg"/>
     </item>
   </channel>
 </rss>
