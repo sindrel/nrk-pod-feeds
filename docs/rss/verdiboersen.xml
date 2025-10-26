@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Oct 2025 09:32:33 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Oct 2025 11:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 26 Oct 2025 05:32:12 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Oct 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Hvordan er det å være barn?</title>
+      <description><![CDATA[Filosof har skrevet bok om barn.  Da skriver han også om sinte barn og rasende foreldre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/daf87099-a220-4680-b870-99a220b68006_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/daf87099-a220-4680-b870-99a220b68006_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:53</itunes:duration>
+      <pubDate>Sun, 26 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OWI2uOntLaVHSlQm_HQOtwqWTnIdRHzDJAt9k8o6yDCg.jpg"/>
+    </item>
     <item>
       <title>Kina og andre verdenskrig</title>
       <description><![CDATA[Hvordan brukes historien om  2. verdenskrig i Kina? Og hva skjedde?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>34:01</itunes:duration>
       <pubDate>Fri, 19 Sep 2025 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gNQr4yRJDpIk0fX14WCIcQvpVaQkeNw5DA7lINDgOv4A.jpg"/>
-    </item>
-    <item>
-      <title>Charlie Kirk og de 7 fjell</title>
-      <description><![CDATA[En spesiell teologi kan forklare aktivisten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/6a42e078-57aa-4b53-82e0-7857aa9b53df_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/6a42e078-57aa-4b53-82e0-7857aa9b53df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:24</itunes:duration>
-      <pubDate>Thu, 18 Sep 2025 11:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wnWbWEPr-xB1e-NOmFXfZgjct2Hki2ZdPTGz7-5LmCMw.jpg"/>
     </item>
   </channel>
 </rss>
