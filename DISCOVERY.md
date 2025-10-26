@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-10-26  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2025-10-24  
 - Added podcast 'Juorre' (`juorre`)  
 ### 2025-10-21  
