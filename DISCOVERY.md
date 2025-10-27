@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-10-27  
+- Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2025-10-26  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2025-10-24  
