@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Oct 2025 17:30:50 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Oct 2025 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2025 18:43:07 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Steinras i Oslo</title>
+      <description><![CDATA[Geologer har i ettermiddag gjennomført undersøkelser av rasstedet. Området der raset gikk har vært kjent som rasfarlig i flere år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f124ce70-ccde-4ddc-a4ce-70ccde6ddc8b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f124ce70-ccde-4ddc-a4ce-70ccde6ddc8b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:05</itunes:duration>
+      <pubDate>Mon, 27 Oct 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oykQWdTkJYa8BlkUPQergwz7ArxyN2LS37zaa6jR_NBg.jpg"/>
+    </item>
     <item>
       <title>USA bombet båt</title>
       <description><![CDATA[Mener det er narkosmuglere på vei fra Venezuela til USA. Sitasjonen mer spent enn på 25 år, sier professor.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 14 Oct 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oCeRtVx6D5zGq2zNwnGMIAD-2HlzN7NlfoA_eCkGHfZQ.jpg"/>
-    </item>
-    <item>
-      <title>Historisk dag i Midtøsten</title>
-      <description><![CDATA[Trump kalte dagen en historisk start for Midtøsten, da han talte i den israelske nasjonalforsamlingen, Knesset.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4d2eda53-0e3b-4ae8-aeda-530e3b6ae8b2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4d2eda53-0e3b-4ae8-aeda-530e3b6ae8b2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Mon, 13 Oct 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fyWYVsPo9X2eeSzMmdRJogEX8nDi8Bd1L6QOZj8Mwdqg.jpg"/>
     </item>
   </channel>
 </rss>
