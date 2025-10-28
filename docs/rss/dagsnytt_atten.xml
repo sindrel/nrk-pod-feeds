@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Oct 2025 18:43:07 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Oct 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2025 18:45:20 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Orkanen Melissa</title>
+      <description><![CDATA[Jamaica forbereder seg på den verste stormen i øyas historie]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e87a3dbf-7183-446c-ba3d-bf7183746c66_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e87a3dbf-7183-446c-ba3d-bf7183746c66_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 28 Oct 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Z5lKYobi5U4Kp6FAOAYKnwng7G0jIZVetGx0O22QD7iA.jpg"/>
+    </item>
     <item>
       <title>Steinras i Oslo</title>
       <description><![CDATA[Geologer har i ettermiddag gjennomført undersøkelser av rasstedet. Området der raset gikk har vært kjent som rasfarlig i flere år.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 15 Oct 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lGL8yBVZRN2fcCkB3OAj_gE9OZMkPvjfTtKTBFY8u8MA.jpg"/>
-    </item>
-    <item>
-      <title>Vil skjerpe straffene</title>
-      <description><![CDATA[Regjeringen vil doble straffen for å bære kniv og våpen, og utvide politiets mulighet til å varetektsfengsle barn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e77a5b5c-8799-4f33-ba5b-5c8799df331e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e77a5b5c-8799-4f33-ba5b-5c8799df331e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 14 Oct 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oCeRtVx6D5zGq2zNwnGMIAD-2HlzN7NlfoA_eCkGHfZQ.jpg"/>
     </item>
   </channel>
 </rss>
