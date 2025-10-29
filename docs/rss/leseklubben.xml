@@ -1,25 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Leseklubben</title>
+    <title>De 3 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Oct 2025 12:58:34 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Oct 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Oct 2025 05:34:13 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Oct 2025 06:04:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>KOMMER: «Frankenstein» med Kaveh Rashidi</title>
-      <description><![CDATA[29. oktober starter en ny sesong av Leseklubben med grøsserklassikeren «Frankenstein» av Mary Shelley fra 1818 sammen med lege Kaveh Rashidi.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/dea82617-1b52-4947-a826-171b52594753_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/dea82617-1b52-4947-a826-171b52594753_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:59</itunes:duration>
-      <pubDate>Wed, 08 Oct 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
+      <title>«Frankenstein» Del 1 (1. - 4. brev)</title>
+      <description><![CDATA[Lydboka er lest av Anderz Eide. Når du har høyrt dei fire første breva, kapittel 1 og 2, kan du høyre Leseklubben episode 2. Lydboka er tilgjengeleg til 24. november.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b6e3b044-49d9-4d3a-a3b0-4449d9dd3a71_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b6e3b044-49d9-4d3a-a3b0-4449d9dd3a71_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:19</itunes:duration>
+      <pubDate>Wed, 29 Oct 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lfn5c-9efHOUgmExzF8log59-2tlrXrsgGe5LXxlbexw.jpg"/>
+    </item>
+    <item>
+      <title>«Frankenstein» Del 1 (1:7)</title>
+      <description><![CDATA[Lydboka er lest av Anderz Eide. Når du har høyrt dei fire første breva, kapittel 1 og 2, kan du høyre Leseklubben episode 2. Lydboka er tilgjengeleg til 24. november.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/69509b62-1863-42c4-909b-621863d2c411_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/69509b62-1863-42c4-909b-621863d2c411_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:58</itunes:duration>
+      <pubDate>Wed, 29 Oct 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lfn5c-9efHOUgmExzF8log59-2tlrXrsgGe5LXxlbexw.jpg"/>
+    </item>
+    <item>
+      <title>«Frankenstein» Del 1 (2:7)</title>
+      <description><![CDATA[Lydboka er lest av Anderz Eide. Når du har høyrt dei fire første breva, kapittel 1 og 2, kan du høyre Leseklubben episode 2. Lydboka er tilgjengeleg til 24. november.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2a854b46-2172-4bea-854b-4621721beade_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2a854b46-2172-4bea-854b-4621721beade_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:50</itunes:duration>
+      <pubDate>Wed, 29 Oct 2025 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lfn5c-9efHOUgmExzF8log59-2tlrXrsgGe5LXxlbexw.jpg"/>
     </item>
   </channel>
 </rss>
