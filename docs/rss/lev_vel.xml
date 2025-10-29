@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Oct 2025 03:28:08 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Oct 2025 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Oct 2025 04:41:24 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Oct 2025 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Avmakt, empati og engasjement</title>
+      <description><![CDATA[Føler du deg maktesløs når verden er i en så urolig tid? Og finnes det en riktig eller feil måte å engasjere seg på?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/121e3f08-73dd-4944-9e3f-0873ddf944ad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/121e3f08-73dd-4944-9e3f-0873ddf944ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:15</itunes:duration>
+      <pubDate>Wed, 29 Oct 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Kjærlighetssorg</title>
       <description><![CDATA[Hvor lang tid tar det å komme over eksen? Og hvorfor gjør kjærlighetssorg så vondt i kroppen? Psykolog Sissel Gran forklarer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>21:20</itunes:duration>
       <pubDate>Thu, 18 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
-    </item>
-    <item>
-      <title>Kvinner, trening og ernæring</title>
-      <description><![CDATA[Hva er de største forskjellene på kvinner og menn når det kommer til trening og ernæring? Ernæringsfysiolog Kristin Jonvik svarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/cc6d719d-c4d2-46e1-ad71-9dc4d2d6e1e7_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/cc6d719d-c4d2-46e1-ad71-9dc4d2d6e1e7_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:58</itunes:duration>
-      <pubDate>Wed, 17 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
 </rss>
