@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-10-31  
+- Podcast 'Arena' is considered obsolete and will be ignored in the future (`arena`)  
 ### 2025-10-29  
 - Added podcast 'Markus & Else' (`markus_else`)  
 ### 2025-10-27  
