@@ -622,7 +622,9 @@
         "id": "klassequizen",
         "title": "De 10 siste fra Klassequizen",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "klassikere_fra_p3-arkivet",
