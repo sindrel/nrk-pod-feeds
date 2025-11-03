@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 31 Oct 2025 18:43:35 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Oct 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 03 Nov 2025 18:40:24 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Nov 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norsk laks med sår eksporteres</title>
+      <description><![CDATA[Fisken fra Norge har både sår og skader, men blir likevel sendt ulovlig til Europa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/30ebd924-4c7a-4caf-abd9-244c7a9cafbd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/30ebd924-4c7a-4caf-abd9-244c7a9cafbd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Mon, 03 Nov 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k3XIvRi5m_wds23IgAo1cg_WpAMpHC8RTEzAZMc0ocTA.jpg"/>
+    </item>
     <item>
       <title>Prins Andrew mister prinsetittelen</title>
       <description><![CDATA[Prins Andrew mister prinsetittelen og må flytte ut av herskapshuset Royal Lodge i Windsor.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:52</itunes:duration>
       <pubDate>Tue, 21 Oct 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JfjW7uAh2MP9xBtW4bI30wp9v_t6QlWhFkVmYKvt96zA.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen vil fortsatt skrote gratis ferger</title>
-      <description><![CDATA[Til tross for kritikken for at de lovet gratis ferger i valgkampen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eac1a5d3-8fd7-4858-81a5-d38fd7e858de_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eac1a5d3-8fd7-4858-81a5-d38fd7e858de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 20 Oct 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GX9ksBIM08Ma3OCwLXAhYQ_G8dzkz9atwe5gdGAawR8A.jpg"/>
     </item>
   </channel>
 </rss>
