@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 03 Nov 2025 18:40:24 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Nov 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2025 18:44:14 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Nov 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Setter Etikkrådet på pause</title>
+      <description><![CDATA[Arbeiderpartiet fikk i dag stortingsflertall for å sette Oljefondets etikkråd på sidelinjen, fram til et nytt etisk rammeverk er på plass.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8b0a500c-e114-4f8a-8a50-0ce1147f8a4a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8b0a500c-e114-4f8a-8a50-0ce1147f8a4a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 04 Nov 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A0CyCbBtT0lEeCjQQk02JANy0bbupmsop5T_WMxUJ43A.jpg"/>
+    </item>
     <item>
       <title>Norsk laks med sår eksporteres</title>
       <description><![CDATA[Fisken fra Norge har både sår og skader, men blir likevel sendt ulovlig til Europa.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 22 Oct 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/cRpcqIKNybRGKGOx7Wzdfgc-ahJFToB3MXu693YryQCA.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen snur – lover gratis ferje og gjeldssletting for studenter</title>
-      <description><![CDATA[Krefter innad i Arbeiderpartiet har ment at egne løfter ble brutt]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b566f01e-6c4f-44ce-a6f0-1e6c4f64ce5c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b566f01e-6c4f-44ce-a6f0-1e6c4f64ce5c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:52</itunes:duration>
-      <pubDate>Tue, 21 Oct 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JfjW7uAh2MP9xBtW4bI30wp9v_t6QlWhFkVmYKvt96zA.jpg"/>
     </item>
   </channel>
 </rss>
