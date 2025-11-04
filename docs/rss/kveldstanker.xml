@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Oct 2025 05:34:12 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Oct 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2025 05:33:56 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Sovekupe - med Tom Roger Aadland</title>
+      <description><![CDATA[- Ting er ikkje alltid som du først skulle tru, seier musikar Tom Roger Aadland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/bbeefe31-f3a8-478d-aefe-31f3a8078d3c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bbeefe31-f3a8-478d-aefe-31f3a8078d3c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:59</itunes:duration>
+      <pubDate>Tue, 04 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ga3K2LhZVpYGpSJG6h5USgzsuJxnjrpQbRD_m1mNZGxw.jpg"/>
+    </item>
     <item>
       <title>Selfie - med Ragnhild Lund Ansnes</title>
       <description><![CDATA[En selfie med Jürgen Klopp har vært min drøm i årevis, forteller forfatter Ragnhild Lund Asnes.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:48</itunes:duration>
       <pubDate>Wed, 01 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
-    </item>
-    <item>
-      <title>Gå for det - med Ingvild Hegge Eriksen</title>
-      <description><![CDATA[- Noen ganger er ikke målet det viktigste,  men at du går for det, sier forfatter Ingvild Hegge Eriksen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/5f98db47-9f43-4a1e-98db-479f43fa1ed3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/5f98db47-9f43-4a1e-98db-479f43fa1ed3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:55</itunes:duration>
-      <pubDate>Tue, 30 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eHGuJV_i7N6QpzBZpvGZnAJqanMHT-LGWHGbjst83fdg.jpg"/>
     </item>
   </channel>
 </rss>
