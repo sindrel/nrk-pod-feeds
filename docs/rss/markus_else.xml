@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Markus &amp; Else</title>
+    <title>De 2 siste fra Markus &amp; Else</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Markus &amp; Else. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/markus_else for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Markus &amp; Else. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/markus_else for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Oct 2025 03:55:11 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Oct 2025 11:15:00 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2025 05:34:05 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Nov 2025 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Premiere på Markus &amp; Else</title>
+      <description><![CDATA[Hvordan gi premieren en kickstart? Jo, vi ringer Bjørn Eidsvåg og ber ham endre teksten på «Skyfri himmel».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/224b1931-fa8e-4fee-8b19-31fa8e4feec7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/224b1931-fa8e-4fee-8b19-31fa8e4feec7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:30</itunes:duration>
+      <pubDate>Wed, 05 Nov 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    </item>
     <item>
       <title>Kommer snart: Markus &amp; Else</title>
       <description><![CDATA[Markus og Else' har premiere onsdag 5. november og kommer hver uke, onsdag til lørdag. ]]></description>
