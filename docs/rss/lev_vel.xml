@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 03 Nov 2025 04:42:27 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Nov 2025 05:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2025 04:36:40 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Nov 2025 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Sparing</title>
+      <description><![CDATA[Hvordan sparer du smart uten å ofre det som gir livet glede? Siviløkonom og forfatter Kjersti Grønset gir deg nøkkelen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/0b8d02c4-78c5-4924-8d02-c478c56924c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0b8d02c4-78c5-4924-8d02-c478c56924c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:16</itunes:duration>
+      <pubDate>Wed, 05 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Slik unngår jeg vinterdepresjon</title>
       <description><![CDATA[Linnéa har slitt mange år med depresjon, men disse grepene gjorde at hun har unngått vinterdepresjonen de siste ti årene.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:40</itunes:duration>
       <pubDate>Wed, 24 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Scrollechallenge: Syv deltakere er ute</title>
-      <description><![CDATA[Linnéa sjekker inn med hjerneforsker Ole Petter Hjelle og noen av «taperne». Følg med underveis på nrk.no/nyttig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a81739db-5abb-490f-9739-db5abb890ff0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a81739db-5abb-490f-9739-db5abb890ff0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:39</itunes:duration>
-      <pubDate>Mon, 22 Sep 2025 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
     </item>
   </channel>
 </rss>
