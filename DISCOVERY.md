@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-11-05  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-11-02  
 - Podcast 'Klassequizen' is considered obsolete and will be ignored in the future (`klassequizen`)  
 ### 2025-10-31  
