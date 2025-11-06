@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Nov 2025 18:44:20 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Nov 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 18:45:45 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Hvem vil lede Høyre?</title>
+      <description><![CDATA[Søreide blir trolig ny leder, men hvem blir nestledere? Alle kandidatene er samlet i Dagsnytt 18]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f91ee3d9-5465-45bf-9ee3-d9546585bff2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f91ee3d9-5465-45bf-9ee3-d9546585bff2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 06 Nov 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tWzda0U3uxmiDYQiGI7Y7wbeKDRleC5tBnj24CUUoK4A.jpg"/>
+    </item>
     <item>
       <title>Nei til økt grunnrenteskatt</title>
       <description><![CDATA[Opposisjonen krever at regjeringen dropper å endre grunnrenteskatten for småkraftverk.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 24 Oct 2025 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fC7tAKW-NPeso83G_hqUZAVuHNUPSItZwkAPbLEkcRsg.jpg"/>
-    </item>
-    <item>
-      <title>Oljefondet trenger nye etikkregler</title>
-      <description><![CDATA[Finansministeren vil både løse opp og stramme inn de etiske rammene for oljefondet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b3490b9a-ac21-4bc9-890b-9aac213bc9ee_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b3490b9a-ac21-4bc9-890b-9aac213bc9ee_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 23 Oct 2025 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uyUD8zY1jogVmS5RO604KQxTDxN6OLp64k8GRohSbYMQ.jpg"/>
     </item>
   </channel>
 </rss>
