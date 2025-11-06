@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Nov 2025 13:01:12 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 13:00:57 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Jäger og vaniljesaus</title>
+      <description><![CDATA[Hvem var egentlig «Forente artister» i 2005? Og hva gjør man hvis man er tom for blandevann? Svarene får du her!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/51816b64-5469-4b23-816b-6454690b238f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/51816b64-5469-4b23-816b-6454690b238f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <pubDate>Thu, 06 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Arin blir «Karen»</title>
       <description><![CDATA[Hvordan kan man forhandle til seg bedre pris? P3morgen for B-mennesker gir deg prute-råd.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Mon, 27 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen!</title>
-      <description><![CDATA[Arin og Henning har hatt en deilig uke! De har spilt «Buzz» med Buzz, blitt roastet av Halvor i A-laget og tatt teoriprøven!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1617e517-89ac-4e1f-97e5-1789ac7e1f77_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1617e517-89ac-4e1f-97e5-1789ac7e1f77_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:09:36</itunes:duration>
-      <pubDate>Sat, 25 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rej0jd1BZAC5o_w9O1XaAAnc3kl47fHE8yBECVnCgGxQ.jpg"/>
     </item>
   </channel>
 </rss>
