@@ -616,7 +616,9 @@
         "id": "klassenraadet",
         "title": "De 10 siste fra Klassen-rådet",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "klassequizen",
