@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 07 Nov 2025 12:59:11 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 08 Nov 2025 05:32:36 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen!</title>
+      <description><![CDATA[YouTube-legende Lasse Gjertsen vurderer comeback, Nils-Ingar Aadne har tømt en hest og Jonas er et steg nærmere MGP-drømmen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a256fd8f-77da-48bd-96fd-8f77da88bd0a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a256fd8f-77da-48bd-96fd-8f77da88bd0a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:39</itunes:duration>
+      <pubDate>Sat, 08 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tJ7t0SWSV5mQCES8hohG4QObPap4tuWdmYgPwWWW3NGQ.jpg"/>
+    </item>
     <item>
       <title>Jonas sin nye «venn»</title>
       <description><![CDATA[Jonas er betatt! Og Henning og Arin savner monokkelen, bukseseler og six pence.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Wed, 29 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>En faktisk SJUK ål-funfact</title>
-      <description><![CDATA[Smaker menn på Tinder trøffel? Og hvor drar egentlig trekkfugler?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7e0bc2b9-2f6b-4825-8bc2-b92f6bc825e2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7e0bc2b9-2f6b-4825-8bc2-b92f6bc825e2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Tue, 28 Oct 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>
 </rss>
