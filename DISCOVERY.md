@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-11-08  
+- Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2025-11-06  
 - Podcast 'Klassen-rådet' is considered obsolete and will be ignored in the future (`klassenraadet`)  
 ### 2025-11-05  
