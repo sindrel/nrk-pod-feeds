@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Seriesnakk</title>
+    <title>De 5 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Nov 2025 03:51:03 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Nov 2025 16:30:00 +0100</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2025 05:32:20 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2025 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
@@ -20,6 +20,42 @@
       <itunes:duration>00:51</itunes:duration>
       <pubDate>Tue, 04 Nov 2025 16:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QCGdm6f72k8LdnYl-CZ_xAusJmtdUJzYFQ0AlvysHqjg.jpg"/>
+    </item>
+    <item>
+      <title>Troll i tweed (1:4)</title>
+      <description><![CDATA[Wolfgang Wee har sett serien med oss – hva synes han? Anders Baasmo forteller om hvordan han dyrket fram Tom-Berit.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/fa886739-553a-4fee-8867-39553a9fee1d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/fa886739-553a-4fee-8867-39553a9fee1d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:32</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xwiF-OZupugAVDgdIsEwqgkgC1N5OkNmGFVaSerwB0kw.jpg"/>
+    </item>
+    <item>
+      <title>Nachspielet (2:4)</title>
+      <description><![CDATA[Serien tar en ny bekmørk vending, og Sigrid Bonde Tusvik forteller om sine egne verste opplevelser med trusler og netthat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/2f446eb6-e8db-494c-846e-b6e8db794cc3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/2f446eb6-e8db-494c-846e-b6e8db794cc3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:12</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mF7O2cAa6p6DgSTuVO-oYwp_psB8jDuKX_ATGv0i4b_A.jpg"/>
+    </item>
+    <item>
+      <title>Kuktåka (3:4)</title>
+      <description><![CDATA[Torkil Risan går inn i kuktåka og får høre om den ville innspillingen av homosauna i Litauen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/32bd1276-3468-4366-bd12-7634685366df_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/32bd1276-3468-4366-bd12-7634685366df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:40</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QE4Bv9npFeZna_e9E3N3QgRkrE_3X0D7t1TzpqsbA7gg.jpg"/>
+    </item>
+    <item>
+      <title>Tom 2.0 (4:4)</title>
+      <description><![CDATA[Hvordan står det egentlig til med kjønnskrigen i virkeligheten – og hva forteller slutten oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/701a56b5-9d73-4138-9a56-b59d736138f0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/701a56b5-9d73-4138-9a56-b59d736138f0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:26</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ygX05DqqdGlILjnyigWBIgsyCOnvTpLFPaAw-lbdmr9g.jpg"/>
     </item>
   </channel>
 </rss>
