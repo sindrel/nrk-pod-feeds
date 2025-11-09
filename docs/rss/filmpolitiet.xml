@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Jul 2025 12:59:18 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Jul 2025 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2025 13:32:40 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2025 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>En oppdatering fra Filmpolitiet</title>
+      <description><![CDATA[Vi har hatt en utvidet pause, men Filmpolitiets podkast kommer snart tilbake!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/c284c914-44dd-4c39-84c9-1444dd2c395f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/c284c914-44dd-4c39-84c9-1444dd2c395f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s5nJGZWW0k4mHRE7yUiyMQ_6ni_UMrQf0NfEq4vueWNA.jpg"/>
+    </item>
     <item>
       <title>Tips til seriesommeren!</title>
       <description><![CDATA[Filmpolitiets podkast tar sommerferie, men først får du noen tips til hvilke serier du kan kose deg med, og hvilke du kan droppe i sommer!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:25:23</itunes:duration>
       <pubDate>Tue, 27 May 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x1m_716uoa8-yp_6jP_A7graqXAtS8cscJDRAZ2Wb1gQ.jpg"/>
-    </item>
-    <item>
-      <title>Murderbot: Vittig KI-komedie!</title>
-      <description><![CDATA[Alexander Skarsgård spiller robot med følelser i den nye serien på Apple TV+.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/8db94231-c116-42c3-8dff-0d0068b07c81_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/8db94231-c116-42c3-8dff-0d0068b07c81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:12</itunes:duration>
-      <pubDate>Thu, 22 May 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/e_omInPxH5H4cs1BfOdF3wsLBV9CNb0bFHItwX-Chhuw.jpg"/>
     </item>
   </channel>
 </rss>
