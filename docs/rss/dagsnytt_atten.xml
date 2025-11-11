@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Nov 2025 18:43:55 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Nov 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 11 Nov 2025 18:43:30 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Nov 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Går på dagen</title>
+      <description><![CDATA[Nav-sjefen går av etter å ha gitt feil informasjon til Arbeids- og inkluderingsdepartementet og Riksrevisjonen i flere saker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bbe77869-35f8-4029-a778-6935f890292d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bbe77869-35f8-4029-a778-6935f890292d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 11 Nov 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9qAYsmCc25iCcETBsg774g5w6Ez3Wm1WobuYnhprqFdQ.jpg"/>
+    </item>
     <item>
       <title>- Høyre framsto ikke relevante</title>
       <description><![CDATA[- Høyre forsto ikke hvilken tid vi levde i og ga ikke folk relevante svar, heter det Høyres egenevaluering etter valgnederlaget.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 29 Oct 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/VeFv_tQN6so2AEazFe6KYwOIu6qvtLvfhwaU1z90DU4A.jpg"/>
-    </item>
-    <item>
-      <title>Orkanen Melissa</title>
-      <description><![CDATA[Jamaica forbereder seg på den verste stormen i øyas historie]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e87a3dbf-7183-446c-ba3d-bf7183746c66_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e87a3dbf-7183-446c-ba3d-bf7183746c66_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 28 Oct 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Z5lKYobi5U4Kp6FAOAYKnwng7G0jIZVetGx0O22QD7iA.jpg"/>
     </item>
   </channel>
 </rss>
