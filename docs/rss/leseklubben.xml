@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Leseklubben</title>
+    <title>De 10 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Nov 2025 05:34:03 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Nov 2025 06:06:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 05:34:38 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
@@ -82,6 +82,24 @@
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/146f03a7-2284-4f99-af03-a722840f9973_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:05</itunes:duration>
       <pubDate>Wed, 05 Nov 2025 06:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lfn5c-9efHOUgmExzF8log59-2tlrXrsgGe5LXxlbexw.jpg"/>
+    </item>
+    <item>
+      <title>«Frankenstein» Del 2 (1:9)</title>
+      <description><![CDATA[Lydboka er lest av Anderz Eide. Når du har høyrt Del 2 kapittel 1-9, kan du høyre Leseklubben episode 4. Lydboka er tilgjengeleg til 24. desember. Det kjem nye kapittel kvar onsdag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ecaf21ac-c221-4901-af21-acc22169017f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ecaf21ac-c221-4901-af21-acc22169017f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:06</itunes:duration>
+      <pubDate>Wed, 12 Nov 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lfn5c-9efHOUgmExzF8log59-2tlrXrsgGe5LXxlbexw.jpg"/>
+    </item>
+    <item>
+      <title>«Frankenstein» Del 2 (2:9)</title>
+      <description><![CDATA[Lydboka er lest av Anderz Eide. Når du har høyrt Del 2 kapittel 1-9, kan du høyre Leseklubben episode 4. Lydboka er tilgjengeleg til 24. desember. Det kjem nye kapittel kvar onsdag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b2e71a3b-4b10-40f6-a71a-3b4b1050f670_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b2e71a3b-4b10-40f6-a71a-3b4b1050f670_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:37</itunes:duration>
+      <pubDate>Wed, 12 Nov 2025 06:03:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/lfn5c-9efHOUgmExzF8log59-2tlrXrsgGe5LXxlbexw.jpg"/>
     </item>
   </channel>
