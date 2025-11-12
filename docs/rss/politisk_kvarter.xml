@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Nov 2025 07:31:30 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Nov 2025 08:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 07:41:41 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Historiske Rødt</title>
+      <description><![CDATA[For første gang kan Rødt bli del av et budsjettforlik på Stortinget.
+Men har de egentlig noe valg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/809ac340-cbe9-4d61-9ac3-40cbe9bd6120_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/809ac340-cbe9-4d61-9ac3-40cbe9bd6120_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:51</itunes:duration>
+      <pubDate>Wed, 12 Nov 2025 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/09Zttk5DuTxPmGzWY5_tWQsD1m3WJXw7nrKgV-GV85Dg.jpg"/>
+    </item>
     <item>
       <title>Senterpartiets kommunekrav</title>
       <description><![CDATA[«Kommunane!» står det øvst på arket når Sps Bjørn Arild Gram skal forhandle om statsbudsjettet.]]></description>
@@ -96,16 +106,6 @@ Vil mangelen på folk gjøre det umulig å levere grunnleggende tjenester til in
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Thu, 30 Oct 2025 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BcCTeqFYvfOIprUdlJSl9gwA8eY3r8VwvmiU4RTzuqIQ.jpg"/>
-    </item>
-    <item>
-      <title>Distrikts-Høyre frykter storbyene overtar</title>
-      <description><![CDATA[Distriktene krever plass i toppen av Høyre. 
-Det blir for mye pride, Id og havvind, mener ordfører.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/94be4eac-d48f-47a3-be4e-acd48f57a35a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/94be4eac-d48f-47a3-be4e-acd48f57a35a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Wed, 29 Oct 2025 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YMnfFSDyWd7xZ5zU9Zy7WQ8OztFgzckGZYhQhKTLPa-Q.jpg"/>
     </item>
   </channel>
 </rss>
