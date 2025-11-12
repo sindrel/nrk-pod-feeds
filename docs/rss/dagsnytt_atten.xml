@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Nov 2025 18:43:30 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Nov 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 18:41:12 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>EU varsler toll mot Norge</title>
+      <description><![CDATA[Næringsministeren Cecilie Myrseth under signeringen av milliardavtale mellom Innovasjon Norge og EU om støtte til små og mellomstore bedrifter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3df01c8e-bc37-41a7-b01c-8ebc3711a759_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3df01c8e-bc37-41a7-b01c-8ebc3711a759_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Wed, 12 Nov 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vCHYLOEX-Tvc24_neHxiNAYxfrk3blK1HDBpE2yX3srw.jpg"/>
+    </item>
     <item>
       <title>Går på dagen</title>
       <description><![CDATA[Nav-sjefen går av etter å ha gitt feil informasjon til Arbeids- og inkluderingsdepartementet og Riksrevisjonen i flere saker.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:48</itunes:duration>
       <pubDate>Thu, 30 Oct 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oHDYJVvmqgh2vhJbHZHnWgEmzSNmWraYBVlhjFq9wADQ.jpg"/>
-    </item>
-    <item>
-      <title>KrFU-lederen angrer ingenting</title>
-      <description><![CDATA[Hun står for at voldtektsofre ikke bør ta abort og møter AUF-lederen til debatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f610ce3e-ca27-4398-90ce-3eca2793985d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f610ce3e-ca27-4398-90ce-3eca2793985d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 29 Oct 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VeFv_tQN6so2AEazFe6KYwOIu6qvtLvfhwaU1z90DU4A.jpg"/>
     </item>
   </channel>
 </rss>
