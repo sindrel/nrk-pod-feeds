@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Nov 2025 13:01:11 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 13:03:08 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hele P3morgen synger</title>
+      <description><![CDATA[Er Jonas korist for Kjartan Lauritzen? Og er det Arin som roper i Sa_G sin nye låt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e554dc71-f43e-45cb-94dc-71f43e65cb0c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e554dc71-f43e-45cb-94dc-71f43e65cb0c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Rotte eller frosk?</title>
       <description><![CDATA[Er alle menn rotte eller frosk? Og hva har Arin holdt skjult for redaksjonen?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:11:15</itunes:duration>
       <pubDate>Sat, 01 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/K-2YOm7Otbz2p7u4CYsU5wvTfsNlrvjdcjwnt8izDRNw.jpg"/>
-    </item>
-    <item>
-      <title>Arin får ketsjupkjeft!</title>
-      <description><![CDATA[Det er duket for borgerkrig i P3morgen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f4b97968-880b-44a8-b979-68880bd4a843_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f4b97968-880b-44a8-b979-68880bd4a843_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Fri, 31 Oct 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
     </item>
   </channel>
 </rss>
