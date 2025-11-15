@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Tyrann</title>
+    <title>De 6 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Nov 2025 13:03:15 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Nov 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 15 Nov 2025 05:33:16 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Nov 2025 06:04:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -20,6 +20,64 @@ Ny Tyrann kommer lørdag - i appen NRK Radio.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/tyrann/bba90820-38ad-4cbb-a908-2038adccbb2f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:34</itunes:duration>
       <pubDate>Wed, 12 Nov 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA.jpg"/>
+    </item>
+    <item>
+      <title>Bokassa (1:5)</title>
+      <description><![CDATA[Bokassa var en foreldreløs 6-åring som ble fransk krigshelt og keiser i eget land - med en skjebne dynket i død, blod og galskap.
+
+Kilder: 
+Dark Age: The Political Odyssey of Emperor Bokassa - Brian Titley 
+France in Centrafriqu - Peter Baxter 
+Narcissus and other Pall Bearers - Wole Soyinka 
+Made in France - Thomas O'Toole 
+The Coronation of Emperor Bokassa - John H. Crabb 
+Fall of a Savage Emperor - Alex Shoumatoff 
+Bokassa 1er, empereur de Françafrique (TV, Program 33, 2011) 
+La République Centrafricaine de Bokassa (TV, RTBF, 1976) 
+Couronnement de Bokassa 1er (TV, Antenne 2, 1977) 
+Echos aus einem düsteren Reich (dokumentarfilm, 1990) - Werner Herzog 
+La chute de Bokassa (TV, RTS, 1979)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/8108e9a3-3b12-4045-88e9-a33b12c04567_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/8108e9a3-3b12-4045-88e9-a33b12c04567_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:59</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA.jpg"/>
+    </item>
+    <item>
+      <title>Bokassa (2:5)</title>
+      <description><![CDATA[Bokassas fetter er president i Den sentralafrikanske republikk. Han ydmyker hærsjef Bokassa offentlig. Det skulle han aldri gjort.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/36df3213-8fae-4130-9f32-138fae013089_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/36df3213-8fae-4130-9f32-138fae013089_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:42</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA.jpg"/>
+    </item>
+    <item>
+      <title>Bokassa (3:5)</title>
+      <description><![CDATA[Frankrikes president Giscard d'Estaing elsker Bokassas diamantgaver og safariturer, og blir den brutale diktatorens høye beskytter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/629f2e8e-d30a-45c4-9f2e-8ed30ab5c4d2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/629f2e8e-d30a-45c4-9f2e-8ed30ab5c4d2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:48</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA.jpg"/>
+    </item>
+    <item>
+      <title>Bokassa (4:5)</title>
+      <description><![CDATA[Bokassa tømmer statskassa for å betale sin egen keiserkroning. Deretter slår han i hjel protesterende skoleelever. Med egne never.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/f87dbd1f-22fd-409f-bdbd-1f22fde09fc6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/f87dbd1f-22fd-409f-bdbd-1f22fde09fc6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:49</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA.jpg"/>
+    </item>
+    <item>
+      <title>Bokassa (5:5)</title>
+      <description><![CDATA[Det er tid for folkets revansje, og en snufsende Bokassa styrtes og ydmykes for åpen scene. Men hvor lenge holder en allmenn hevn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/e2f2ad65-94e9-4b26-b2ad-6594e9eb26f9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/e2f2ad65-94e9-4b26-b2ad-6594e9eb26f9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:49</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 06:04:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA.jpg"/>
     </item>
   </channel>

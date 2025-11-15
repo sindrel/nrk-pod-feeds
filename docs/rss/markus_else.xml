@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Markus &amp; Else</title>
+    <title>De 9 siste fra Markus &amp; Else</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Markus &amp; Else. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/markus_else for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Markus &amp; Else. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/markus_else for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Nov 2025 06:46:00 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 15 Nov 2025 05:33:01 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Spørsmål og svar, fa-la-la!</title>
+      <description><![CDATA[Markus og Else svarer ut om powernaps, fyllehistorier og når de koser seg aller mest. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/b46953d3-db3e-446f-a953-d3db3e746f1f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/b46953d3-db3e-446f-a953-d3db3e746f1f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:48</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    </item>
     <item>
       <title>Else vil kuppe jula</title>
       <description><![CDATA[Mannen til Else mener akevitt er den eneste adekvate julepynt. Skal hun trosse ham?]]></description>
