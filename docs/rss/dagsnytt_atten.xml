@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Nov 2025 18:43:37 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Nov 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2025 18:44:28 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>EU-toll på jernlegering utsatt</title>
+      <description><![CDATA[EU har utsatt avgjørelsen om hvorvidt de skal innføre toll på jernlegering mot Norge og andre EØS-land.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0c2b00d8-330e-4999-ab00-d8330e699918_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0c2b00d8-330e-4999-ab00-d8330e699918_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 17 Nov 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VZZTltH-dt7AHI2EkkKrKQv9ut0BlG37NDTe5Nvew8yA.jpg"/>
+    </item>
     <item>
       <title>Fem partier i budsjettforhandlinger</title>
       <description><![CDATA[I dag startet regjeringen samtaler med Rødt, MDG, SV og Senterpartiet om neste års statsbudsjett.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 04 Nov 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/A0CyCbBtT0lEeCjQQk02JANy0bbupmsop5T_WMxUJ43A.jpg"/>
-    </item>
-    <item>
-      <title>Norsk laks med sår eksporteres</title>
-      <description><![CDATA[Fisken fra Norge har både sår og skader, men blir likevel sendt ulovlig til Europa.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/30ebd924-4c7a-4caf-abd9-244c7a9cafbd_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/30ebd924-4c7a-4caf-abd9-244c7a9cafbd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Mon, 03 Nov 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/k3XIvRi5m_wds23IgAo1cg_WpAMpHC8RTEzAZMc0ocTA.jpg"/>
     </item>
   </channel>
 </rss>
