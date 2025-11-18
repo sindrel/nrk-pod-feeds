@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Nov 2025 11:28:53 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 14:36:19 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Skal Jonas til MGP?</title>
+      <description><![CDATA[Jonas røper hva MGP-låta heter, Arin har forsynt seg av minibaren, og Henning har laget en ork som heter Tork.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5d05628e-cd55-4782-8562-8ecd553782a3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5d05628e-cd55-4782-8562-8ecd553782a3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Københavnstang</title>
       <description><![CDATA[Henning blir rørt på konsert, Jonas får medfølelse for en dubber, og Arin har vært i København - uten å gjøre noe dansk.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:35</itunes:duration>
       <pubDate>Fri, 07 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
-    </item>
-    <item>
-      <title>Jäger og vaniljesaus</title>
-      <description><![CDATA[Hvem var egentlig «Forente artister» i 2005? Og hva gjør man hvis man er tom for blandevann? Svarene får du her!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/51816b64-5469-4b23-816b-6454690b238f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/51816b64-5469-4b23-816b-6454690b238f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:35</itunes:duration>
-      <pubDate>Thu, 06 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>
