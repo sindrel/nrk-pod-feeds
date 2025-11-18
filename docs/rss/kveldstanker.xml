@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Nov 2025 05:34:35 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 05:34:25 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Flukt - med Thor Eirik Torkildsen</title>
+      <description><![CDATA[Mennesker er villige til å satse livet for å få det slik som deg og meg, forteller sjømannen Thor Eirik Torkildsen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3fb774c0-a56d-4cdb-b774-c0a56d6cdb73_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3fb774c0-a56d-4cdb-b774-c0a56d6cdb73_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:56</itunes:duration>
+      <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ve4b_Q8Hsw5GzSSCw_AGHwT0duMCez9v6VpPVSriwY-Q.jpg"/>
+    </item>
     <item>
       <title>Weltschmertz - med Katrin Glatz Brubakk</title>
       <description><![CDATA[Ikke tro du er for liten til å gjøre en forskjell, sier barnepsykolog Katrin Glatz Brubakk]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:45</itunes:duration>
       <pubDate>Wed, 15 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YO16XrQ2s00B9hjnvs1w5APsX4208JzZ0_11Wxqhx_gQ.jpg"/>
-    </item>
-    <item>
-      <title>Synleg - med Mone Celin Skrede</title>
-      <description><![CDATA[- Hadde du kalt meg funksjonshemma, hadde eg ikkje forstått kva du meinte, fortel Mone Celin Skrede]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d3f75caf-6196-41c4-b75c-af619691c4c4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d3f75caf-6196-41c4-b75c-af619691c4c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:57</itunes:duration>
-      <pubDate>Tue, 14 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ti8HuliCX98w0LlDzU4efQQfIk7gNIptq1aHlaEUIhJg.jpg"/>
     </item>
   </channel>
 </rss>
