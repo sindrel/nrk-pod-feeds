@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Markus &amp; Else</title>
+    <title>De 10 siste fra Markus &amp; Else</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Markus &amp; Else. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/markus_else for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Markus &amp; Else. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/markus_else for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 15 Nov 2025 05:33:01 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 05:34:42 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Krabbemat og VM-brannfakler</title>
+      <description><![CDATA[Kan du ingenting om fotball? Else har løsningen, og Markus overrasker med hemmelig gjest. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/9f927497-d01d-4b4c-9274-97d01d3b4cf3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/9f927497-d01d-4b4c-9274-97d01d3b4cf3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:39</itunes:duration>
+      <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    </item>
     <item>
       <title>Spørsmål og svar, fa-la-la!</title>
       <description><![CDATA[Markus og Else svarer ut om powernaps, fyllehistorier og når de koser seg aller mest. ]]></description>
