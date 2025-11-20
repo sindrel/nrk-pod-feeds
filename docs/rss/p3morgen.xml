@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Nov 2025 09:35:16 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 13:41:58 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Arin i glins</title>
+      <description><![CDATA[Henning har vært i krig med 14-åringer, Arin glinser og Jonas vil reise til Nord-Korea.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/913fcef8-43dc-48c3-bfce-f843dcb8c305_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/913fcef8-43dc-48c3-bfce-f843dcb8c305_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Thu, 20 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Jonas spiller lutt</title>
       <description><![CDATA[Jonas er typen som spiller lutt, og Arin er litt demonisk - Henning drar de to inn i spillverden.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:35</itunes:duration>
       <pubDate>Mon, 10 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/rhBvhD5H7mU1jBMgYToB5AcqTpcnfDVFQ5DYCiuLAn1w.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen!</title>
-      <description><![CDATA[YouTube-legende Lasse Gjertsen vurderer comeback, Nils-Ingar Aadne har tømt en hest og Jonas er et steg nærmere MGP-drømmen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a256fd8f-77da-48bd-96fd-8f77da88bd0a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a256fd8f-77da-48bd-96fd-8f77da88bd0a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:12:39</itunes:duration>
-      <pubDate>Sat, 08 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tJ7t0SWSV5mQCES8hohG4QObPap4tuWdmYgPwWWW3NGQ.jpg"/>
     </item>
   </channel>
 </rss>
