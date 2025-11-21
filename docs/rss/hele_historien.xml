@@ -1,43 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 08 Nov 2025 05:32:18 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Nov 2025 06:02:00 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 12:59:03 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>I NRK radio</title>
-      <description><![CDATA[Ein 50 år gammal ordførar og ei ungjente har ei hemmelegheit ingen må få vite om. Viss ho fortel det til nokon, hamnar han i fengsel. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/7c63f5d7-fde4-44cd-a3f5-d7fde464cdda_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/7c63f5d7-fde4-44cd-a3f5-d7fde464cdda_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <title>Kommer: Terroristen fra Bærum</title>
+      <description><![CDATA[Philip Manshaus drepte sin egen adoptivsøster og angrep en moske i 2019. Nå sier han at han angrer og var psykotisk da det skjedde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/13f498f1-78fe-46d9-b498-f178fe16d9d4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/13f498f1-78fe-46d9-b498-f178fe16d9d4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:30</itunes:duration>
-      <pubDate>Fri, 07 Nov 2025 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BkHd4ndpBHbEC1BqzHTUMQrhQcqNzB4F62qQG9hxH_-Q.jpg"/>
-    </item>
-    <item>
-      <title>Hemmelegheita (1:2)</title>
-      <description><![CDATA[Den populære ordføraren i Vågå har med seg den unge tenåringsjenta overalt.  På hytteturar og på hotellovernattingar i Oslo.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/e2a9f95d-5133-417a-a9f9-5d5133b17a72_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/e2a9f95d-5133-417a-a9f9-5d5133b17a72_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:50</itunes:duration>
-      <pubDate>Sat, 08 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BkHd4ndpBHbEC1BqzHTUMQrhQcqNzB4F62qQG9hxH_-Q.jpg"/>
-    </item>
-    <item>
-      <title>Det store fallet (2:2)</title>
-      <description><![CDATA[Når politiet står på døra, nektar ordføraren for at noko ulovleg har skjedd mellom han og Lisanne. Det blir ein kamp om sanninga.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/ed16d80a-6394-4a1c-96d8-0a63941a1c04_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/ed16d80a-6394-4a1c-96d8-0a63941a1c04_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:09</itunes:duration>
-      <pubDate>Sat, 08 Nov 2025 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BkHd4ndpBHbEC1BqzHTUMQrhQcqNzB4F62qQG9hxH_-Q.jpg"/>
+      <pubDate>Fri, 21 Nov 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA.jpg"/>
     </item>
   </channel>
 </rss>
