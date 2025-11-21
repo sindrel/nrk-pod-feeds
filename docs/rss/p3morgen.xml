@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Nov 2025 13:41:58 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 09:33:31 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hennings do-hack</title>
+      <description><![CDATA[Arin har nok en gang lagt seg på hjul, Henning gruer seg til å ta sluket, og Jonas har en høne å plukke med produsent Johannes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cb80d4c3-1fdc-4677-80d4-c31fdcf677c7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cb80d4c3-1fdc-4677-80d4-c31fdcf677c7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:24</itunes:duration>
+      <pubDate>Fri, 21 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Arin i glins</title>
       <description><![CDATA[Henning har vært i krig med 14-åringer, Arin glinser og Jonas vil reise til Nord-Korea.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Tue, 11 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA.jpg"/>
-    </item>
-    <item>
-      <title>Arins indre stil</title>
-      <description><![CDATA[Jonas har forsøkt å kaste ut folk fra fest, og Arin har en hemmelig stil.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c57a8088-db77-48db-ba80-88db7718db2c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c57a8088-db77-48db-ba80-88db7718db2c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:35</itunes:duration>
-      <pubDate>Mon, 10 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rhBvhD5H7mU1jBMgYToB5AcqTpcnfDVFQ5DYCiuLAn1w.jpg"/>
     </item>
   </channel>
 </rss>
