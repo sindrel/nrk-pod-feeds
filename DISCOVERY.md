@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-11-24  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2025-11-14  
 - Updated podcast 'Bibelen' (`bibelen`)  
 ### 2025-11-12  
