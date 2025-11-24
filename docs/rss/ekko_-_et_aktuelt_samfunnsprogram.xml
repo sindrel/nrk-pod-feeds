@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Nov 2025 12:59:57 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Nov 2025 13:15:00 +0100</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 14:37:44 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Kredittlandet Norge</title>
+      <description><![CDATA[Hvorfor lever så mange av oss på lånte penger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3c499bf5-8c74-4372-899b-f58c74137227_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3c499bf5-8c74-4372-899b-f58c74137227_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:18</itunes:duration>
+      <pubDate>Mon, 24 Nov 2025 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LOxwZ7MG4GmRJ75wgaQ8sQEvhxardRRcqxpS3E--2mVg.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Slepp Epstein-dokumenta</title>
       <description><![CDATA[Trump har signert vedtaket om å frigi Epstein-dokumenta. Kva vil dette seie? Og kvifor snudde Trump?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>42:55</itunes:duration>
       <pubDate>Thu, 06 Nov 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Elg00aixg8YO4CNHMGVlLgLnFb4BMO-wJ9y1p4E_SJtQ.jpg"/>
-    </item>
-    <item>
-      <title>Kan han redde Oslofjorden?</title>
-      <description><![CDATA[Oslofjorden er i krise, men nå kan det komme hjelp fra mannen som har gjort vestlandsfjorder rene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bbf813bc-0d99-4632-b813-bc0d99363209_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bbf813bc-0d99-4632-b813-bc0d99363209_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:36</itunes:duration>
-      <pubDate>Wed, 05 Nov 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9ErdX6Ws0sOQcdSO4hxM8AfqtkUS0QFoAalfwJut0EUw.jpg"/>
     </item>
   </channel>
 </rss>
