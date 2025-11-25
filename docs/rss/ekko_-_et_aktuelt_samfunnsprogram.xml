@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Nov 2025 14:37:44 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Nov 2025 14:30:00 +0100</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 13:02:24 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 13:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Når pizza blir nasjonalrett</title>
+      <description><![CDATA[Norge er i verdenstoppen på ultraprosessert mat. Denne maten øker risikoen for alvorlig sykdom og tidlig død. Hva gjør vi med det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5adf0504-ac40-477d-9f05-04ac40877d17_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5adf0504-ac40-477d-9f05-04ac40877d17_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:25</itunes:duration>
+      <pubDate>Tue, 25 Nov 2025 13:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SEiaCIGE-uU5MFznPwQr3wZlFEXmyLxx-QtH3Pg6l3fA.jpg"/>
+    </item>
     <item>
       <title>Kredittlandet Norge</title>
       <description><![CDATA[Hvorfor lever så mange av oss på lånte penger?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>17:33</itunes:duration>
       <pubDate>Mon, 10 Nov 2025 13:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eoUDBmIAUsf79KShSGsYRQgVoJsZT1Am3gCZ4cuxvnUA.jpg"/>
-    </item>
-    <item>
-      <title>Kutt i matpenger mobiliserer amerikanere</title>
-      <description><![CDATA[USA reduserer støtten til matprogrammet SNAP, som hjelper millioner av husholdninger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a3338ef5-e90c-4f52-b38e-f5e90c4f52a8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a3338ef5-e90c-4f52-b38e-f5e90c4f52a8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:55</itunes:duration>
-      <pubDate>Thu, 06 Nov 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Elg00aixg8YO4CNHMGVlLgLnFb4BMO-wJ9y1p4E_SJtQ.jpg"/>
     </item>
   </channel>
 </rss>
