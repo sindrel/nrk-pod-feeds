@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Nov 2025 05:35:13 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2025 05:34:15 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Villblomst - med Jon Niklas Rønning</title>
+      <description><![CDATA[Astrid Lindgren hadde rett - kjærlighet trumfer alt, forteller Jon Niklas Rønning]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0ff0f1c7-116b-4f6b-b0f1-c7116b3f6b07_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0ff0f1c7-116b-4f6b-b0f1-c7116b3f6b07_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:36</itunes:duration>
+      <pubDate>Wed, 26 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
     <item>
       <title>Utakt - med Ingelin Røssland</title>
       <description><![CDATA[- Å gjere så godt du kan er det motsette av konkurranse, heldigvis, seier forfattar Ingelin Røssland]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:30</itunes:duration>
       <pubDate>Tue, 28 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dxg9if-FvIPg0BF-CBKttQ9Q6HD0O4_jsHmJE7m7QfNw.jpg"/>
-    </item>
-    <item>
-      <title>Småprat - med Ingelin Røssland</title>
-      <description><![CDATA[Småprat kan vere ein lykkeboost, hevdar forfattar Ingelin Røssland]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d5578352-14eb-4ef4-9783-5214eb3ef475_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d5578352-14eb-4ef4-9783-5214eb3ef475_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:14</itunes:duration>
-      <pubDate>Wed, 22 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
     </item>
   </channel>
 </rss>
