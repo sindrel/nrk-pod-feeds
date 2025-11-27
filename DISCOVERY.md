@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-11-27  
+- Updated podcast 'Julestemning med Live og Ronny' (`julestemning`)  
 ### 2025-11-24  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2025-11-14  
