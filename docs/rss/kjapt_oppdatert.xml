@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Nov 2025 05:34:12 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Nov 2025 05:59:00 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2025 05:35:13 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2025 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Netflix krasjet</title>
+      <description><![CDATA[Og presidenten i USA kaller skytinga utenfor Det hvite hus for terror.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a10eb401-9f00-49ec-8eb4-019f0099eccf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a10eb401-9f00-49ec-8eb4-019f0099eccf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:41</itunes:duration>
+      <pubDate>Thu, 27 Nov 2025 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vwiOmXv4Z_A4_693OewCDAS4tPcFkZv--LAfHlU_Scjw.jpg"/>
+    </item>
     <item>
       <title>Frosta-legen kan få kortere straff</title>
       <description><![CDATA[Og 24-åringen som satt i fengsel i USA er løslatt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:09</itunes:duration>
       <pubDate>Fri, 14 Nov 2025 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/z421bLm0MlcWvdCPBz0XLgmuvhH2khPpfmySI1WTA1Mg.jpg"/>
-    </item>
-    <item>
-      <title>Utsleppa aukar, men det er også eit glimt av håp</title>
-      <description><![CDATA[Og Amara vil lage ei ny VM-låt til Noreg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f3fa7977-d8c9-4248-ba79-77d8c9f2484c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f3fa7977-d8c9-4248-ba79-77d8c9f2484c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:51</itunes:duration>
-      <pubDate>Thu, 13 Nov 2025 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/p9CJ8qfJdeTg_gzF1GpolAKq7lOIfvCUl1Inv0g_VvOw.jpg"/>
     </item>
   </channel>
 </rss>
