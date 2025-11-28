@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Nov 2025 05:36:46 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 05:35:24 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Nordmenn forvirrer oss</title>
+      <description><![CDATA[Franky og Mo snakker om alt nordmenn gjør som de ikke får til å gi mening.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/c511e103-d578-46a9-91e1-03d57846a9aa_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/c511e103-d578-46a9-91e1-03d57846a9aa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:33</itunes:duration>
+      <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    </item>
     <item>
       <title>Stian Blipp er på besøk</title>
       <description><![CDATA[Franky og Mo lurer på hvordan man blir Stian Blipp. Stian Blipp lurer på hva som foregår i hue til Mo ved pissoaret.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>29:39</itunes:duration>
       <pubDate>Mon, 27 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/z-GRMc69X1kLvuUy1AWD9wSgnqnsh9QZU5mNgjwaqLJQ.jpg"/>
-    </item>
-    <item>
-      <title>Mo følger ikke trafikkregler lenger</title>
-      <description><![CDATA[Kjærlighetssagaen mellom Mo og Kiwi-jenta er over, Mo har slutta å følge trafikkreglene og ukas negative «shout out» går til Jonas Gahr Støre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/149abc9c-afed-40aa-9abc-9cafed20aaab_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/149abc9c-afed-40aa-9abc-9cafed20aaab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:58</itunes:duration>
-      <pubDate>Fri, 24 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
     </item>
   </channel>
 </rss>
