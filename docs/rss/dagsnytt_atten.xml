@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 27 Nov 2025 18:42:47 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Nov 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 18:42:59 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Pauser forhandlingene</title>
+      <description><![CDATA[Både MDG og SV har tatt pause fra forhandlingene om neste års statsbudsjett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/49c776ff-c3cd-4b0a-8776-ffc3cd2b0a59_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/49c776ff-c3cd-4b0a-8776-ffc3cd2b0a59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 28 Nov 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kZmKoSH0LcgHS7wbR9q7QAh4tgJ_CQ3GSs2yibTdQ1Bw.jpg"/>
+    </item>
     <item>
       <title>Budsjettinnspurt i Stortinget</title>
       <description><![CDATA[Klarer de fem partiene som forhandler om neste års statsbudsjett, å rekke fristen?]]></description>
@@ -93,15 +102,6 @@ Engelsk, samfunnsfag og KRLE blir borte i 1.og 2. klasse.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 17 Nov 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/VZZTltH-dt7AHI2EkkKrKQv9ut0BlG37NDTe5Nvew8yA.jpg"/>
-    </item>
-    <item>
-      <title>Fem partier i budsjettforhandlinger</title>
-      <description><![CDATA[I dag startet regjeringen samtaler med Rødt, MDG, SV og Senterpartiet om neste års statsbudsjett.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/51f58d49-249b-4bf0-b58d-49249b7bf025_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/51f58d49-249b-4bf0-b58d-49249b7bf025_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 14 Nov 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tTm6Kd-bcpyRz16We_8mQwG9d1XdhjtgSAgLNnCPHyPQ.jpg"/>
     </item>
   </channel>
 </rss>
