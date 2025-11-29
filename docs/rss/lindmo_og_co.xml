@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 27 Nov 2025 05:35:19 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 05:33:48 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    <item>
+      <title>Bonus: Kunsten å puste</title>
+      <description><![CDATA[Om pusteteknikk, frysetørring og tyvlåning av toalettbøtte på fjellet. Hedvig Wessel er ukas gjest!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/7f9e65fa-7959-45bf-9e65-fa795985bf61_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/7f9e65fa-7959-45bf-9e65-fa795985bf61_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Sat, 29 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
     <item>
       <title>In spiritus veritas</title>
       <description><![CDATA[Hvilken sannhet fant Anne i bunnen av flaska? Hvordan gikk det med Runes prøvesang? Og bør Halvor settes ut i skogen? Vi besvarer alt i ukens episode!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>24:54</itunes:duration>
       <pubDate>Thu, 30 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
-    </item>
-    <item>
-      <title>Bonus: Hvorfor koseposen?</title>
-      <description><![CDATA[Alaska Spesial: Anne er frynsete og Halvor sitter igjen med spørsmål etter å ha sett første episode av «Ekspedisjonen».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/6bd37de3-86e0-498d-937d-e386e0998d16_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/6bd37de3-86e0-498d-937d-e386e0998d16_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:52</itunes:duration>
-      <pubDate>Sat, 25 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Nov 2025 10:38:28 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 05:33:57 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Nov 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen!</title>
+      <description><![CDATA[Vi mimrer til «Josefine»-spillet, oppsummerer musikk-året 2025, og finner ut av hva som gir voksenpoeng.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ef6a6e2f-f41f-4fdf-aa6e-2ff41f2fdf99_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ef6a6e2f-f41f-4fdf-aa6e-2ff41f2fdf99_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:26</itunes:duration>
+      <pubDate>Sat, 29 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Bi1DiA4KI3xmg-chP84jGws_ANdhB-nKooKcpHUeaApA.jpg"/>
+    </item>
     <item>
       <title>Drømmen om en mini-tanks</title>
       <description><![CDATA[Hvordan reagerer man når man får julegaver man ikke vil ha?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Københavnstang</title>
-      <description><![CDATA[Henning blir rørt på konsert, Jonas får medfølelse for en dubber, og Arin har vært i København - uten å gjøre noe dansk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/fe0bf673-63d0-4f69-8bf6-7363d08f699b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/fe0bf673-63d0-4f69-8bf6-7363d08f699b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:26</itunes:duration>
-      <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jN0AtriAtEui5Pe9KnoaXgrHwe-mg8nSyGcnaG2l0jsw.jpg"/>
     </item>
   </channel>
 </rss>
