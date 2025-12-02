@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Nov 2025 05:34:15 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Nov 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 05:35:18 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Advent - med Helsesista</title>
+      <description><![CDATA[- Tenk over hva som er viktigst i adventstiden, sier Tale Maria Krohn Engvik, bedre kjent som Helsesista.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/06b6384b-62a8-49c1-b638-4b62a8e9c1c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/06b6384b-62a8-49c1-b638-4b62a8e9c1c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:28</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ALkknIWNjneiT_oq4U9CXARvVlEEGReSfqT-rzKicWiA.jpg"/>
+    </item>
     <item>
       <title>Villblomst - med Jon Niklas Rønning</title>
       <description><![CDATA[Astrid Lindgren hadde rett - kjærlighet trumfer alt, forteller Jon Niklas Rønning]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:50</itunes:duration>
       <pubDate>Wed, 29 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0zJ-UbE0qPji64DnbsB9MA4IeOueKLJ_nN4l3fsclYXg.jpg"/>
-    </item>
-    <item>
-      <title>Lykke - med Katrin Glatz Brubakk</title>
-      <description><![CDATA[Leter du etter lykken på det rette stedet? undrer barnepsykolog Katrin Glatz Brubakk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9c66b6df-44df-40c3-a6b6-df44dfd0c300_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9c66b6df-44df-40c3-a6b6-df44dfd0c300_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:30</itunes:duration>
-      <pubDate>Tue, 28 Oct 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dxg9if-FvIPg0BF-CBKttQ9Q6HD0O4_jsHmJE7m7QfNw.jpg"/>
     </item>
   </channel>
 </rss>

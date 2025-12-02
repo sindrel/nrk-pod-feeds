@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Dec 2025 05:44:11 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 05:35:09 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Koseråning og nesepilling</title>
+      <description><![CDATA[Hva er det beste juleinstrumentet? Live og Ronny gir en intens eksamenspeptalk, og Live lurer på om hun er i ferd med å miste det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/8694072d-4d91-4892-9407-2d4d914892ab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/8694072d-4d91-4892-9407-2d4d914892ab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:17</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rtZFPTNrH0MSxBGPUMw3tgCvWJj58SAFLe3ThKWClv4Q.jpg"/>
+    </item>
     <item>
       <title>En frityrstekt jul</title>
       <description><![CDATA[Ronny presenterer julens friterte fristelser. Live har tuklet med ærverdige kortekster, og tårene triller av en rørende mail.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>34:33</itunes:duration>
       <pubDate>Thu, 19 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/rpJ-DDAxQ_RUn0m2nbwgGAeZbaJxv77k-s_9fKVdjy6g.jpg"/>
-    </item>
-    <item>
-      <title>Live rører Ronny</title>
-      <description><![CDATA[Live lykkes endelig med å røre Ronny, en lytter har kullsvart “sykt barn”-rute i julebingo og det er total uenighet i juleretten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/e2037829-3f18-4004-9021-232208bf2dc2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/e2037829-3f18-4004-9021-232208bf2dc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:47</itunes:duration>
-      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/N3vi82X26phbzHgp4sCBaQ6EM5NzMtuNxYG3qxWnbp2A.jpg"/>
     </item>
   </channel>
 </rss>
