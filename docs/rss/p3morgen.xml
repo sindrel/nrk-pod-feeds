@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Dec 2025 13:05:26 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 13:05:29 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Apekatten Karl-Johnny</title>
+      <description><![CDATA[Henning fikk ny støvsuger på døra - så skjedde det noe mystisk!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5db24fba-e665-4943-b24f-bae665d94325_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5db24fba-e665-4943-b24f-bae665d94325_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:29</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
+    </item>
     <item>
       <title>Utstoppa skjeggkre</title>
       <description><![CDATA[Kan man bruke en rotte som pennal? Og hvorfor er Hennings dress problematisk?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Thu, 20 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Jonas spiller lutt</title>
-      <description><![CDATA[Jonas er typen som spiller lutt, og Arin er litt demonisk - Henning drar de to inn i spillverden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7c39c27d-fb66-4dd3-b9c2-7dfb664dd347_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7c39c27d-fb66-4dd3-b9c2-7dfb664dd347_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
     </item>
   </channel>
 </rss>
