@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-12-02  
+- Added podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2025-11-28  
 - Podcast 'Kjente bøker på 4 minutter' is considered obsolete and will be ignored in the future (`kjente_boeker_paa_4_minutter`)  
 ### 2025-11-27  
