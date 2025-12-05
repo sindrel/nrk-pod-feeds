@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-12-05  
+- Updated podcast 'Nødsamtaler' (`noedsamtaler`)  
 ### 2025-12-02  
 - Added podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2025-11-28  
