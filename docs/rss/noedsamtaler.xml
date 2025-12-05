@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Nødsamtaler</title>
+    <title>De 10 siste fra Nødsamtaler</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Nødsamtaler. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/noedsamtaler for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Nødsamtaler. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/noedsamtaler for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Feb 2025 05:31:28 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Feb 2025 06:02:00 +0100</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 07:33:02 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/FvZQDIpCknChUN4ZbZ0maA6UcSqK7K_ObE8Nkp_BuVVQ.jpg"/>
     <item>
       <title>Puster pasienten? (1:6)</title>
       <description><![CDATA[Lea er i siste del av opplæringen, og blir satt på prøve når en innringer i nød snakker mellom linjene. 
@@ -69,6 +69,46 @@ Trenger du noen å prate med etter denne episoden? Kirkens SOS Hjelpetelefon: 22
       <itunes:duration>23:23</itunes:duration>
       <pubDate>Wed, 26 Feb 2025 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg.jpg"/>
+    </item>
+    <item>
+      <title>Alene på vakt (1:6)</title>
+      <description><![CDATA[Lea får høy puls når Mads er overlatt til seg selv på småbarnsavdelingen og en ettåring setter noe i halsen.  
+
+Amathea Helsesenter (Gratis lansdekkende helsetjeneste hvis du trenger noen å snakke med både før, under og etter en abort) Telefon: 90659060]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/noedsamtaler/99bddd5e-0931-4aff-bddd-5e09315aff84_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/99bddd5e-0931-4aff-bddd-5e09315aff84_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:16</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3JzW4kJLZ6p8pXSF5mK5xQfln_Ien53iTtleYxAgxvaw.jpg"/>
+    </item>
+    <item>
+      <title>Isen sprekker opp! (2:6)</title>
+      <description><![CDATA[Dag ringer 113 og får hjelp av Lea når dattera hans står på isen over en stri elv. Kommer hun seg trygt på land?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/noedsamtaler/f3b5a776-9664-4f24-b5a7-7696642f24df_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/f3b5a776-9664-4f24-b5a7-7696642f24df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:00</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hyb74nruXjjXKMAEHBHtxg1YWv8Sth3XZTrB6Rmfl8aQ.jpg"/>
+    </item>
+    <item>
+      <title>Ser spøkelser overalt (3:6)</title>
+      <description><![CDATA[Stinas sønn er utskrevet fra psykiatrisk, og hun er redd for hvor mange piller han har tatt når hun ringer Lea på 113.    
+
+Mental Helse Hjelpetelefon (gratis og døgnåpen): Ring 116 124, eller chat: sidetmedord.no.  Kirkens SOS (gratis og døgnåpen): Ring 22400040]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/noedsamtaler/f49554c3-201a-44d9-9554-c3201a94d973_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/f49554c3-201a-44d9-9554-c3201a94d973_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:43</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Re-wiiu2PekQRiNbze-RwwrZyAemJFwe6rW7sRrAxvUA.jpg"/>
+    </item>
+    <item>
+      <title>Jeg sverger – han dør! (4:6)</title>
+      <description><![CDATA[Jamal er livredd når kompisen ikke får puste høyt oppe i et pariserhjul. Klarer Lea å få dem ned i god behold? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/noedsamtaler/3f1eda15-7f70-437b-9eda-157f70b37b16_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/3f1eda15-7f70-437b-9eda-157f70b37b16_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:06</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fYO2SE4iAHCNHOX8S3-Ylw-Bb8dVDDxewbslR0sqGQGg.jpg"/>
     </item>
   </channel>
 </rss>
