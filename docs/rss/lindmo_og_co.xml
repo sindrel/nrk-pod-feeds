@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 04 Dec 2025 05:35:27 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2025 05:34:09 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    <item>
+      <title>Bonus: Toten Tindeklubb</title>
+      <description><![CDATA[Annes sambygding og ekspedisjonsleder Rune Malterud er ukens gjest!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/81b3c2f7-c9c1-4ac0-b3c2-f7c9c1fac0e3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/81b3c2f7-c9c1-4ac0-b3c2-f7c9c1fac0e3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:43</itunes:duration>
+      <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
     <item>
       <title>La damasken gå!</title>
       <description><![CDATA[Anne er i full gang med hjemmefestsesongen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>26:03</itunes:duration>
       <pubDate>Thu, 06 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
-    </item>
-    <item>
-      <title>Bonus: Brakfisen</title>
-      <description><![CDATA[Det er vakkert i Denali, men hva lukter det?  Tete Lidbom er gjest og avslører sannheten om stank, duft og brakfis.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/c815f81b-04ba-4327-95f8-1b04ba73275b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/c815f81b-04ba-4327-95f8-1b04ba73275b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:11</itunes:duration>
-      <pubDate>Sat, 01 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
     </item>
   </channel>
 </rss>
