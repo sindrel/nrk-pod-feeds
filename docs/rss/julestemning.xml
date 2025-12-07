@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 06 Dec 2025 05:34:02 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Dec 2025 05:32:30 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Barndommens julemorgen</title>
+      <description><![CDATA[To forvokste søsken gjenopplever juleminner fra barndommen med pysj og dyne i sofaen, og en veldig barnslig frokostmeny.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/78e7d128-a9f4-4398-a7d1-28a9f44398a8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/78e7d128-a9f4-4398-a7d1-28a9f44398a8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:37</itunes:duration>
+      <pubDate>Sun, 07 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eMB0MjopuLfTMFs7T2kPgwDQVaq098JD8vuZzcdtsL5g.jpg"/>
+    </item>
     <item>
       <title>Jul med Nubben og Doppan</title>
       <description><![CDATA[Live og Ronny oppsøker svenske juletradisjoner. Det blir Astrid Lindgren, snaps, rar julemat, og et helt nytt navn på programmet.]]></description>
@@ -94,15 +103,6 @@ Tell ned til jul med en ny episode hver dag, kun i appen NRK Radio.]]></descript
       <itunes:duration>35:03</itunes:duration>
       <pubDate>Tue, 24 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jaaoRBHvRTB28RAhGwCzkQe-AZy-Aa0GMB26c6rPVUFw.jpg"/>
-    </item>
-    <item>
-      <title>Tradisjonsrik lille julaften</title>
-      <description><![CDATA[Ronny har et nytt brev til nissen og Live et dikt - tradisjonen tro. Og så konfronteres de med fjorårets nyttårsforsetter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/28352f1c-e999-4844-b709-afe8e2afad6e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/28352f1c-e999-4844-b709-afe8e2afad6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:47</itunes:duration>
-      <pubDate>Mon, 23 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nbrH5Ov1pZPQcKDv1e5ICgijNLdQ-i8U059sziBo7SmQ.jpg"/>
     </item>
   </channel>
 </rss>

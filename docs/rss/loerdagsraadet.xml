@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 06 Dec 2025 14:31:39 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Dec 2025 14:23:00 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Dec 2025 05:32:35 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>JulieKalenderen</title>
+      <description><![CDATA[Julie takker for kalender!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/68eab9a3-d44e-4bf5-aab9-a3d44ebbf568_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/68eab9a3-d44e-4bf5-aab9-a3d44ebbf568_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:33</itunes:duration>
+      <pubDate>Sun, 07 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
     <item>
       <title>Hilde Skaar / Hans Olav Brenner / Marlene Stavrum</title>
       <description><![CDATA[TILBAKEMELDING: Er Lene fremdeles en eksvenn? / PROBLEMER: Skal Mona Lisa kle av seg? / Et bonusjulaften-problem / Følsom, men ikke svak / Første jul med svigers / Jeg vil gi en stor gave / Kongelige i publikum / Kan man eie en idé?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:12:48</itunes:duration>
       <pubDate>Sat, 01 Nov 2025 13:39:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/8uUoZITqR0WOB88JLRSQsQ--kgNUisgQK_kXDOTjmnWg.jpg"/>
-    </item>
-    <item>
-      <title>Er snapstreaken med eksen avsluttet?</title>
-      <description><![CDATA[Linn og Gunnar gir lyd fra seg etter streng tale fra rådgiverne! Får «Noen» passe på hunden til «Sjefen»?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/18b19399-f14a-489b-b193-99f14ae89bf2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/18b19399-f14a-489b-b193-99f14ae89bf2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:48</itunes:duration>
-      <pubDate>Wed, 29 Oct 2025 16:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>
