@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 06 Dec 2025 05:34:22 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:04:36 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Trekk-antilope</title>
+      <description><![CDATA[Hva gjør dyrehage-dyr på vinteren? Hva slags stråling fikk Henning hos tannlegen? Og hvor mye kan Arin irritere Jonas med plystring?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/299d92ab-7d8c-473a-9d92-ab7d8c773a05_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/299d92ab-7d8c-473a-9d92-ab7d8c773a05_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Mon, 08 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen!</title>
       <description><![CDATA[Vår første hemmelige nisse-gjest avmaskes! Herman og Kevin fra «Nissene i skjul» tok turen innom og vi snoker i skattelistene!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Thu, 27 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
-    </item>
-    <item>
-      <title>Arin er avslørt</title>
-      <description><![CDATA[Arin konfronteres, Henning har (nesten) haiket, og Jonas fikk tilsnakk etter å ha varslet om mobbing.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e371062f-433c-44ce-b106-2f433cb4ceda_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e371062f-433c-44ce-b106-2f433cb4ceda_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:29</itunes:duration>
-      <pubDate>Tue, 25 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
     </item>
   </channel>
 </rss>
