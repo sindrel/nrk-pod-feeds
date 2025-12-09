@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-12-09  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-12-05  
 - Updated podcast 'Nødsamtaler' (`noedsamtaler`)  
 ### 2025-12-02  
