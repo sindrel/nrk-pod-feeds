@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 08 Dec 2025 13:04:36 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 09:38:01 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>En «rant» om Blåfjell</title>
+      <description><![CDATA[Jonas har sett Blåfjell på nytt, Arin har smakt babymat, og vi lurer på hvorfor barn ikke liker rosenkål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/34cd1ad0-4359-4299-8d1a-d043598299c5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/34cd1ad0-4359-4299-8d1a-d043598299c5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:29</itunes:duration>
+      <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Trekk-antilope</title>
       <description><![CDATA[Hva gjør dyrehage-dyr på vinteren? Hva slags stråling fikk Henning hos tannlegen? Og hvor mye kan Arin irritere Jonas med plystring?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:18</itunes:duration>
       <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
-    </item>
-    <item>
-      <title>En litt etset nese</title>
-      <description><![CDATA[Jonas har testa gammel hudpleie, Arin tror covid var hennes feil, og Henning har vært hos stylist.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f6d62f62-2654-4677-962f-622654567700_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f6d62f62-2654-4677-962f-622654567700_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Thu, 27 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
     </item>
   </channel>
 </rss>
