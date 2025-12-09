@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Dec 2025 05:35:26 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 05:35:28 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Julegaven - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[Noen ganger kan en uventet opplevelse bli den aller beste gaven, forteller skuespiller Claes Krogsgaard Ericsson]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9a9302fa-3be9-44df-9302-fa3be974df61_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9a9302fa-3be9-44df-9302-fa3be974df61_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:29</itunes:duration>
+      <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
+    </item>
     <item>
       <title>Sinterklaas - med Carline Tromp</title>
       <description><![CDATA[Jeg syns julen i Norge er litt kjedelig, forteller nederlandske Carline Tromp. Hun vokste opp med en skummel Sinterklaas.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>04:13</itunes:duration>
       <pubDate>Tue, 11 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pfokN56p1el4djDP-6abJgV3fxMA83iIJXN19nj5Nzkw.jpg"/>
-    </item>
-    <item>
-      <title>Samlemani - med Jon Niklas Rønning</title>
-      <description><![CDATA[Jeg tar vare på alt for mye, innser komiker Jon Niklas Rønning.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/f61836b4-6bdf-4b16-9836-b46bdf0b16a7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/f61836b4-6bdf-4b16-9836-b46bdf0b16a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:33</itunes:duration>
-      <pubDate>Wed, 05 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
     </item>
   </channel>
 </rss>
