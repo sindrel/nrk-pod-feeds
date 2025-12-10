@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 09 Dec 2025 05:35:28 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 05:37:32 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Pinnekjøtt- med Hannah Faizan Jensen</title>
+      <description><![CDATA[Nordmenn elsker pinnekjøtt, tenkte Hannah Faizan Jensen, og lot det stå til.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/200b8f5b-421f-4f66-8b8f-5b421f9f66b3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/200b8f5b-421f-4f66-8b8f-5b421f9f66b3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:36</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ATJZ4hXoF2j3g24c4NCABQIriftNuGDJixbr2c_ORQ5w.jpg"/>
+    </item>
     <item>
       <title>Julegaven - med Claes Krogsgaard Ericsson</title>
       <description><![CDATA[Noen ganger kan en uventet opplevelse bli den aller beste gaven, forteller skuespiller Claes Krogsgaard Ericsson]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:24</itunes:duration>
       <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kKZAT8OshKxP8R_MbokxIgL5n9y-QAWxueEvPQYBFBlg.jpg"/>
-    </item>
-    <item>
-      <title>Aleine - med Janne Rønningen</title>
-      <description><![CDATA[Hvordan får man seg egentlig en kjæreste? lurte komiker Janne Rønningen på.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/918ac3cb-aba5-4c63-8ac3-cbaba5ec63cc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/918ac3cb-aba5-4c63-8ac3-cbaba5ec63cc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:13</itunes:duration>
-      <pubDate>Tue, 11 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pfokN56p1el4djDP-6abJgV3fxMA83iIJXN19nj5Nzkw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 09 Dec 2025 05:35:23 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 05:37:24 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Kilegave og tysk juleschläger</title>
+      <description><![CDATA[Ronny bjudar på tysk juleschläger, Live får en overraskende hilsen fra Skottland og fasiten på ulvemysteriet er vakker og rørende.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/316c545b-830f-4b36-ac54-5b830feb36ad_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/316c545b-830f-4b36-ac54-5b830feb36ad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:17</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Hy1E6L7KiWi09qVH9pJDHQmLoT8MYVePNGAsm4T6xxvQ.jpg"/>
+    </item>
     <item>
       <title>Lyden av ulv og minusgrader</title>
       <description><![CDATA[Ronny kvisser Live i ulv eller barn, Live kvisser lytterne i kor og en overraskelsestelefon fastslår dato for årets julebukking.]]></description>
@@ -94,15 +103,6 @@ Tell ned til jul med en ny episode hver dag, kun i appen NRK Radio.]]></descript
       <itunes:duration>32:08</itunes:duration>
       <pubDate>Mon, 01 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/coINSAwHj-9S-9eWM7XssQlde8yHqygQBuuLufyfUySA.jpg"/>
-    </item>
-    <item>
-      <title>Offisiell åpning av julekottet</title>
-      <description><![CDATA[Endelig tilbake! Live og Ronny lager sin egen julekalender, og finner ut hvordan det går med Julestemning-paret, Ida og Tormod.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/a7f89cc1-c3fe-4a31-b89c-c1c3fefa319a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/a7f89cc1-c3fe-4a31-b89c-c1c3fefa319a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:57</itunes:duration>
-      <pubDate>Sun, 30 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
     </item>
   </channel>
 </rss>
