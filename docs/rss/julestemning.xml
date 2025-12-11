@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Dec 2025 05:37:24 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 05:40:09 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Analogt til stede</title>
+      <description><![CDATA[Ronny har førjulspanikk, Live har med svenske skumnisser og en klokkespillentusiast river av julens aller mest kjente intro.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/1f21d494-f344-4602-a1d4-94f34496029f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/1f21d494-f344-4602-a1d4-94f34496029f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:44</itunes:duration>
+      <pubDate>Thu, 11 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GL7kLbmYzqUQsb2zNeuqWwM9hxdy6bhe7b0KPqKsRMqQ.jpg"/>
+    </item>
     <item>
       <title>Kilegave og tysk juleschläger</title>
       <description><![CDATA[Ronny bjudar på tysk juleschläger, Live får en overraskende hilsen fra Skottland og fasiten på ulvemysteriet er vakker og rørende.]]></description>
@@ -92,17 +101,6 @@
       <itunes:duration>31:17</itunes:duration>
       <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/rtZFPTNrH0MSxBGPUMw3tgCvWJj58SAFLe3ThKWClv4Q.jpg"/>
-    </item>
-    <item>
-      <title>En frityrstekt jul</title>
-      <description><![CDATA[Ronny presenterer julens friterte fristelser. Live har tuklet med ærverdige kortekster, og tårene triller av en rørende mail.
-
-Tell ned til jul med en ny episode hver dag, kun i appen NRK Radio.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/8ee42937-119b-4958-a429-37119bb958e3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/8ee42937-119b-4958-a429-37119bb958e3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:08</itunes:duration>
-      <pubDate>Mon, 01 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/coINSAwHj-9S-9eWM7XssQlde8yHqygQBuuLufyfUySA.jpg"/>
     </item>
   </channel>
 </rss>
