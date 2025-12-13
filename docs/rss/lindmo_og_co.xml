@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 11 Dec 2025 05:40:16 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 05:35:33 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    <item>
+      <title>Bonus: Annes dagbok</title>
+      <description><![CDATA[Anne tar med dagboka si og vi evaluerer innsatsen etter siste episode av Ekspedisjonen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ff060d17-b451-4d62-860d-17b4514d626a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ff060d17-b451-4d62-860d-17b4514d626a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:35</itunes:duration>
+      <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
     <item>
       <title>Kristenloppis</title>
       <description><![CDATA[Anne har gjort antikvitetskupp, Rune driver geriljapynting til jul og Halvor har hatt en sterk kulturopplevelse.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>24:26</itunes:duration>
       <pubDate>Thu, 13 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
-    </item>
-    <item>
-      <title>Bonus: Fotograf med fotlenke</title>
-      <description><![CDATA[Mannen, myten og legenden Sveinung Svendsen er dagens gjest!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/cd196819-396e-4c4b-9968-19396e5c4b46_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/cd196819-396e-4c4b-9968-19396e5c4b46_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Sat, 08 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
     </item>
   </channel>
 </rss>
