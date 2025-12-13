@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-12-13  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2025-12-09  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2025-12-05  
