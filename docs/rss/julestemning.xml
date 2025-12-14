@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 13 Dec 2025 05:35:28 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 05:35:00 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Minikonsert med Dagny</title>
+      <description><![CDATA[Årets første juleartist er på besøk i kottet og serverer en sjelden akustisk opptreden. Live og Ronny korer på Love Actually-låt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/75ab6e1c-20d2-4be1-ab6e-1c20d25be132_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/75ab6e1c-20d2-4be1-ab6e-1c20d25be132_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:52</itunes:duration>
+      <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k7FNpLVRzG-f50FH8i90cw5irEzNWl7-5Dtrh_NcvE8A.jpg"/>
+    </item>
     <item>
       <title>Luksuskatter</title>
       <description><![CDATA[Live baker sine spinnville lussekatter og får en operaoverraskelse som går inn i sjelen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>31:18</itunes:duration>
       <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/P121VEzdW_vSBuvEbFjelw_cG6oJBht2MzMgw5oJOpjQ.jpg"/>
-    </item>
-    <item>
-      <title>Litt meir snikande tiger</title>
-      <description><![CDATA[Live tror hun har funnet kuren mot strigråt og sammenbrudd i desember, og Ronny får en veldig overraskende, og litt vond, telefon.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/b2afe1c8-4d29-4bf7-afe1-c84d29abf75b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/b2afe1c8-4d29-4bf7-afe1-c84d29abf75b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:01</itunes:duration>
-      <pubDate>Thu, 04 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fAP_Sey9jwhse6Q6trcWgwaOw0zavbijgt6qvkWXpcHg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 09 Nov 2025 13:32:40 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Nov 2025 14:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 05:34:55 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/s5nJGZWW0k4mHRE7yUiyMQ_6ni_UMrQf0NfEq4vueWNA.jpg"/>
+    <item>
+      <title>2025: Årets beste serier!</title>
+      <description><![CDATA[Hvilke serier har du på din toppliste? Sigurd og Ingvill kårer årets beste! Les hele topp 10-lista på nrk.no/filmpolitiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/e2d9ee2e-3af0-4ed1-99ee-2e3af0eed194_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/e2d9ee2e-3af0-4ed1-99ee-2e3af0eed194_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:10</itunes:duration>
+      <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7eU3iJflAIuL7UeBT3sCsg9ej6Sdb3o_fIGqbK9iLyLA.jpg"/>
+    </item>
     <item>
       <title>En oppdatering fra Filmpolitiet</title>
       <description><![CDATA[Vi har hatt en utvidet pause, men Filmpolitiets podkast kommer snart tilbake!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>23:13</itunes:duration>
       <pubDate>Thu, 29 May 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EV49Fr-zbVnEdkqsyo-zbA5oycMeY6tdb46N2XeiXT0w.jpg"/>
-    </item>
-    <item>
-      <title>The Last of Us: S2 E7 - Convergence</title>
-      <description><![CDATA[Finale! Var dette en verdig avslutning på sesongen, og er Sigurd enig i Martes terningkast? Vi diskuterer, hører fra lytterne og kårer det beste og det verste for sesongfinalen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/d673032d-0365-400b-85b0-c2ba14054208_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/d673032d-0365-400b-85b0-c2ba14054208_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:25:23</itunes:duration>
-      <pubDate>Tue, 27 May 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x1m_716uoa8-yp_6jP_A7graqXAtS8cscJDRAZ2Wb1gQ.jpg"/>
     </item>
   </channel>
 </rss>

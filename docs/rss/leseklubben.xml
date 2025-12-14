@@ -1,61 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Leseklubben</title>
+    <title>De 2 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Dec 2025 05:37:34 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Dec 2025 06:06:00 +0100</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 05:35:04 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>«Stargate» (1:5)</title>
-      <description><![CDATA[Lydboka leses av Ingvild H. Rishøi og alle kapitlene ligger ute så du kan høre hele boka i ett. Vi snakker om hele boka i episode 2 av Leseklubben med Solveig Kloppen. Lydboka ligger ute til 4. februar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/0a9820be-f184-4a94-9820-bef1844a9426_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/0a9820be-f184-4a94-9820-bef1844a9426_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:59</itunes:duration>
-      <pubDate>Wed, 10 Dec 2025 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PV009DyFvygbESWp4HovLQa0m613XmpYSUyBGFwYakvg.jpg"/>
+      <title>– Ikke les denne på bussen!</title>
+      <description><![CDATA[Er «Stargate» begynnelsen på en ny juletradisjon i Leseklubben? Solveig teaser slutten, men har hun smilefjes eller gråtefjes?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/84128fcb-eadf-4b6c-928f-cbeadf4b6cb9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/84128fcb-eadf-4b6c-928f-cbeadf4b6cb9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:02</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fr6HzgfJlUL4NUV-W43JUgPbj-IgO10oMhUfLEfSCyHg.jpg"/>
     </item>
     <item>
-      <title>«Stargate» (2:5)</title>
-      <description><![CDATA[Lydboka leses av Ingvild H. Rishøi og alle kapitlene ligger ute så du kan høre hele boka i ett. Vi snakker om hele boka i episode 2 av Leseklubben med Solveig Kloppen. Lydboka er tilgjengelig til og med 4. februar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/919f6d67-dbf4-4428-9f6d-67dbf4e4284e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/919f6d67-dbf4-4428-9f6d-67dbf4e4284e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:11</itunes:duration>
-      <pubDate>Wed, 10 Dec 2025 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PV009DyFvygbESWp4HovLQa0m613XmpYSUyBGFwYakvg.jpg"/>
-    </item>
-    <item>
-      <title>«Stargate» (3:5)</title>
-      <description><![CDATA[Lydboka leses av Ingvild H. Rishøi og alle kapitlene ligger ute så du kan høre hele boka i ett. Vi snakker om hele boka i episode 2 av Leseklubben med Solveig Kloppen. Lydboka er tilgjengelig til og med 4. februar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bc839af5-8ff1-413e-839a-f58ff1f13e58_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bc839af5-8ff1-413e-839a-f58ff1f13e58_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:01</itunes:duration>
-      <pubDate>Wed, 10 Dec 2025 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PV009DyFvygbESWp4HovLQa0m613XmpYSUyBGFwYakvg.jpg"/>
-    </item>
-    <item>
-      <title>«Stargate» (4:5)</title>
-      <description><![CDATA[Lydboka leses av Ingvild H. Rishøi og alle kapitlene ligger ute så du kan høre hele boka i ett. Vi snakker om hele boka i episode 2 av Leseklubben med Solveig Kloppen. Lydboka er tilgjengelig til og med 4. februar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/0004e78a-35f4-4f57-84e7-8a35f46f577e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/0004e78a-35f4-4f57-84e7-8a35f46f577e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:53</itunes:duration>
-      <pubDate>Wed, 10 Dec 2025 06:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PV009DyFvygbESWp4HovLQa0m613XmpYSUyBGFwYakvg.jpg"/>
-    </item>
-    <item>
-      <title>«Stargate» (5:5)</title>
-      <description><![CDATA[Lydboka leses av Ingvild H. Rishøi og alle kapitlene ligger ute så du kan høre hele boka i ett. Vi snakker om hele boka i episode 2 av Leseklubben med Solveig Kloppen. Lydboka er tilgjengelig til og med 4. februar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8dc745a8-e266-4020-8745-a8e26650203b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8dc745a8-e266-4020-8745-a8e26650203b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:29</itunes:duration>
-      <pubDate>Wed, 10 Dec 2025 06:06:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PV009DyFvygbESWp4HovLQa0m613XmpYSUyBGFwYakvg.jpg"/>
+      <title>– Er de jentene med svovelstikkene?</title>
+      <description><![CDATA[Solveig kjenner seg igjen i søstrene. Er Kristoffers sammendrag mer verdensskjent enn Dua Lipa? Hvor er Kleenexen? Avsløring av januar-bok!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/69e62131-7516-4ad7-a621-317516ead7c7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/69e62131-7516-4ad7-a621-317516ead7c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:59</itunes:duration>
+      <pubDate>Sun, 14 Dec 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fr6HzgfJlUL4NUV-W43JUgPbj-IgO10oMhUfLEfSCyHg.jpg"/>
     </item>
   </channel>
 </rss>
