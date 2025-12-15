@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-12-15  
+- Updated podcast 'Tyrann' (`tyrann`)  
 ### 2025-12-13  
 - Podcast 'Fantus og lydene' is considered obsolete and will be ignored in the future (`fantus_og_lydene`)  
 ### 2025-12-13  
