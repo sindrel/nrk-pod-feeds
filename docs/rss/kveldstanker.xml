@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Dec 2025 05:37:32 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 05:42:47 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Gjørekalender - med Miriam Våga</title>
+      <description><![CDATA[Vår gjørekalender gir oss i familien tid sammen i desember, forteller Miriam Våga. Miriam Våga er musiker og vokalist fra Skreia i Innlandet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/784aa644-a8ad-468d-8aa6-44a8ad868dc7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/784aa644-a8ad-468d-8aa6-44a8ad868dc7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:43</itunes:duration>
+      <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
+    </item>
     <item>
       <title>Pinnekjøtt- med Hannah Faizan Jensen</title>
       <description><![CDATA[Nordmenn elsker pinnekjøtt, tenkte Hannah Faizan Jensen, og lot det stå til.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:56</itunes:duration>
       <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ve4b_Q8Hsw5GzSSCw_AGHwT0duMCez9v6VpPVSriwY-Q.jpg"/>
-    </item>
-    <item>
-      <title>Weltschmertz - med Katrin Glatz Brubakk</title>
-      <description><![CDATA[Ikke tro du er for liten til å gjøre en forskjell, sier barnepsykolog Katrin Glatz Brubakk]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1428a30d-5ef2-4dcd-a8a3-0d5ef28dcdf3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1428a30d-5ef2-4dcd-a8a3-0d5ef28dcdf3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:24</itunes:duration>
-      <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kKZAT8OshKxP8R_MbokxIgL5n9y-QAWxueEvPQYBFBlg.jpg"/>
     </item>
   </channel>
 </rss>
