@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Dec 2025 13:06:14 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Dec 2025 13:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 13:08:38 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 12:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Lytter telefonen på deg?</title>
+      <description><![CDATA[Du nevner noe i en samtale, og så får du annonse for det. Lytter mobilen, eller er det sporene dine som avslører deg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f9950e7d-beed-46c1-950e-7dbeed76c1af_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f9950e7d-beed-46c1-950e-7dbeed76c1af_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:41</itunes:duration>
+      <pubDate>Mon, 15 Dec 2025 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H81MTabxey11Q2nuXg_Mkwg32yYq5pyv99rm3Ju6vu3A.jpg"/>
+    </item>
     <item>
       <title>Mar-a-Lago-face for Trump</title>
       <description><![CDATA[Hvorfor tar kvinnene rundt Trump ekstreme grep for å se like ut - handler det mer om makt enn forfengelighet?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>22:24</itunes:duration>
       <pubDate>Wed, 26 Nov 2025 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oE5_28OyOG4OGMN9CjO5GQgy1o_g8XmTlm6gluoH8ooQ.jpg"/>
-    </item>
-    <item>
-      <title>Når pizza blir nasjonalrett</title>
-      <description><![CDATA[Norge er i verdenstoppen på ultraprosessert mat. Denne maten øker risikoen for alvorlig sykdom og tidlig død. Hva gjør vi med det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5adf0504-ac40-477d-9f05-04ac40877d17_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5adf0504-ac40-477d-9f05-04ac40877d17_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:25</itunes:duration>
-      <pubDate>Tue, 25 Nov 2025 13:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SEiaCIGE-uU5MFznPwQr3wZlFEXmyLxx-QtH3Pg6l3fA.jpg"/>
     </item>
   </channel>
 </rss>
