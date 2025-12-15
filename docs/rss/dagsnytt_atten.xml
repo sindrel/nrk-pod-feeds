@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 12 Dec 2025 18:47:42 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Dec 2025 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 18:48:59 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Støre legger fram "Plan for Norge"</title>
+      <description><![CDATA[Statsminister Jonas Gahr Støre bytter ut regjeringsplattformen med en årlig oppdatert "Plan for Norge". Planen får kritikk fra Fremskrittspartiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8c146fd8-ac0e-49bb-946f-d8ac0e49bb18_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8c146fd8-ac0e-49bb-946f-d8ac0e49bb18_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 15 Dec 2025 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DL94W8FT_EwIr6rkuEjaRA7dBJr1QW97voeyE7zIQn5g.jpg"/>
+    </item>
     <item>
       <title>Senterpartiet ut mot ny "T-banetrio" i Høyre</title>
       <description><![CDATA[Alle i den innstilte ledertrioen til Høyre bor i Oslo-området. 
@@ -93,15 +102,6 @@ Det gjør det vanskeligere å samarbeide med Høyre, sier Senterpartiet.]]></des
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 02 Dec 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jNbWR6VxoeRXeECLTBesTgsoI1HPgjtOt_PJbLfBaBkA.jpg"/>
-    </item>
-    <item>
-      <title>SV har tro på budsjett-flertall på Stortinget</title>
-      <description><![CDATA[Statsminister Støre avviser at det er krise.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4aa1b59a-7765-4d30-a1b5-9a7765dd3049_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4aa1b59a-7765-4d30-a1b5-9a7765dd3049_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:04</itunes:duration>
-      <pubDate>Mon, 01 Dec 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Q06v1Wo074U6nZiXyNHCmgvAiFsNKjyA2IyymoFvrzIg.jpg"/>
     </item>
   </channel>
 </rss>
