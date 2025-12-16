@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Dec 2025 05:42:39 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 05:39:26 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Samvittigheten ringer</title>
+      <description><![CDATA[Å bli fridd til under Die Hard, Ronnys samvittighet ringer, verdens varmeste innboks og malplassert tekst i korsang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/256ff654-32c0-4807-aff6-5432c09807dd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/256ff654-32c0-4807-aff6-5432c09807dd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:07</itunes:duration>
+      <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/M7gye3hybrSlag8jSxeb9Qe6gDHnXZmH-EP_voxNsbig.jpg"/>
+    </item>
     <item>
       <title>Hev grisen!</title>
       <description><![CDATA[Live og Ronny har gått julebukk med hundrevis av lyttere. Grisen døpes i en fontene av olje,og er trompet julens beste instrument?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>32:37</itunes:duration>
       <pubDate>Sun, 07 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eMB0MjopuLfTMFs7T2kPgwDQVaq098JD8vuZzcdtsL5g.jpg"/>
-    </item>
-    <item>
-      <title>Jul med Nubben og Doppan</title>
-      <description><![CDATA[Live og Ronny oppsøker svenske juletradisjoner. Det blir Astrid Lindgren, snaps, rar julemat, og et helt nytt navn på programmet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/c8d7db11-a6bc-49ca-97db-11a6bc99ca08_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/c8d7db11-a6bc-49ca-97db-11a6bc99ca08_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:58</itunes:duration>
-      <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tqQJX5ujXV0mlG1pFk0LeAG-cgebRrGJ06vqUWcLYxKg.jpg"/>
     </item>
   </channel>
 </rss>
