@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-12-19  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2025-12-15  
 - Updated podcast 'Tyrann' (`tyrann`)  
 ### 2025-12-13  
