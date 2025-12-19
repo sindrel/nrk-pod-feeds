@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Hallo Bablo</title>
+    <title>De 9 siste fra Hallo Bablo</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Hallo Bablo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hallo_bablo for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Hallo Bablo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hallo_bablo for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 26 Sep 2025 06:42:51 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 07:33:39 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    <item>
+      <title>Even Fiskebolle</title>
+      <description><![CDATA[Agate og Yared prøver å få Even til å si fiskebolle. Even lover å spise hatten sin hvis de får det til.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/20fdf5a1-7383-4c17-bdf5-a17383bc17f8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/20fdf5a1-7383-4c17-bdf5-a17383bc17f8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:42</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OL-5-AidlTHKpZ8zur5wVQjVERqEDTltuNBOQTvsNq-Q.jpg"/>
+    </item>
+    <item>
+      <title>Det snør inne</title>
+      <description><![CDATA[Even har fått tak i en snøkanon til innebruk. Lotte og Yared gir Even tidenes julegave når de fyller hele Bablo med snø.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/e61edd4f-9d75-430e-9edd-4f9d75e30e50_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/e61edd4f-9d75-430e-9edd-4f9d75e30e50_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:07</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MNtTC8P-5w2fNQWQjBEUagCLPeZOPYs3W8vhNJWx2p3Q.jpg"/>
+    </item>
     <item>
       <title>Lottes banneshow</title>
       <description><![CDATA[Obs! Det bannes ikke i denne episoden (i hvert fall ikke så det høres).]]></description>
@@ -28,7 +46,7 @@
       <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/c2078400-4bbe-48cb-b85d-e0e685948d27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:31</itunes:duration>
       <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/fIgl2C30NF6-6eMwaFA2fg-ToY-JXEiJnrV1nFd2TWJA.jpg"/>
     </item>
     <item>
       <title>Dinosaur-mysteriet</title>
@@ -37,7 +55,7 @@
       <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/1d502a62-a17b-46f0-aa15-bd3a5b1930bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>09:49</itunes:duration>
       <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/Vb8N93e5lPzvDfC5VSw4GAOSekA3uMmKGTofQrluDFQw.jpg"/>
     </item>
     <item>
       <title>Fiskoteket</title>
@@ -55,7 +73,7 @@
       <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/020ead2a-0897-4cbb-af2f-a584ff41cdce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:38</itunes:duration>
       <pubDate>Fri, 20 Jun 2025 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/pLvSGkVgiUE5AvCmokDeXwqJyaYRP3fLi9bICguspl1g.jpg"/>
     </item>
     <item>
       <title>Gros chili-smakeri</title>
@@ -64,7 +82,7 @@
       <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/a593cc0d-aca2-4b19-93c1-b74c2861bf7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:08</itunes:duration>
       <pubDate>Fri, 20 Jun 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/uOq-XZ9DKdKuRL0R2DNSog7TSSXU-tq7Guae79CcmtWg.jpg"/>
     </item>
     <item>
       <title>Oversvømmelse</title>
@@ -73,7 +91,7 @@
       <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/f429e845-a805-4bce-b3a3-9a14b93df8e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>09:11</itunes:duration>
       <pubDate>Fri, 20 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/XwYPViUUjjdrkL9JEvkdvgcq3pBsGIMklbC6zZZgrkVw.jpg"/>
     </item>
   </channel>
 </rss>
