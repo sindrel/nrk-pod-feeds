@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 20 Dec 2025 05:34:57 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 21 Dec 2025 05:36:02 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Musikalsk frelser i kottet</title>
+      <description><![CDATA[Metteson fyller kottet med juleminner og vakre toner, når Live og Ronny inviterer til ny mini-julekonsert.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/9586cafb-48a2-42d3-86ca-fb48a2f2d3f3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/9586cafb-48a2-42d3-86ca-fb48a2f2d3f3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:32</itunes:duration>
+      <pubDate>Sun, 21 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mcyqSE0SwLCv8DjRLxymXA95LvG-AMlRHqsLKfRCgG7Q.jpg"/>
+    </item>
     <item>
       <title>Lubben pølse lørdag</title>
       <description><![CDATA[I dag er det post-i-pipa spesial. En hel episode, utelukkende bestående av mails fra verdens mest innholdsrike og fantastiske innboks.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>32:52</itunes:duration>
       <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3m6W9ouQrpzF9Hj7QEX9_wXHV34dlLtXFRHefGAHxG7w.jpg"/>
-    </item>
-    <item>
-      <title>Analogt til stede</title>
-      <description><![CDATA[Ronny har førjulspanikk, Live har med svenske skumnisser og en klokkespillentusiast river av julens aller mest kjente intro.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/1f21d494-f344-4602-a1d4-94f34496029f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/1f21d494-f344-4602-a1d4-94f34496029f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:44</itunes:duration>
-      <pubDate>Thu, 11 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GL7kLbmYzqUQsb2zNeuqWwM9hxdy6bhe7b0KPqKsRMqQ.jpg"/>
     </item>
   </channel>
 </rss>

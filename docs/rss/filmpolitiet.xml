@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 14 Dec 2025 05:34:55 +0000</lastBuildDate>
-    <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 21 Dec 2025 05:35:57 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/s5nJGZWW0k4mHRE7yUiyMQ_6ni_UMrQf0NfEq4vueWNA.jpg"/>
+    <item>
+      <title>2025: Årets beste filmer!</title>
+      <description><![CDATA[Hvilke filmer har du på din toppliste? Birger kårer årets beste! Les hele topp 10-lista på nrk.no/filmpolitiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/d5489295-b615-4ae2-8892-95b6150ae252_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/d5489295-b615-4ae2-8892-95b6150ae252_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:17</itunes:duration>
+      <pubDate>Sun, 21 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/or6X0xdQQc7WWMkgvvCd7gGpfCbbuxuDNIEQa9qkvc7A.jpg"/>
+    </item>
     <item>
       <title>2025: Årets beste serier!</title>
       <description><![CDATA[Hvilke serier har du på din toppliste? Sigurd og Ingvill kårer årets beste! Les hele topp 10-lista på nrk.no/filmpolitiet.]]></description>
@@ -19,7 +28,7 @@
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/e2d9ee2e-3af0-4ed1-99ee-2e3af0eed194_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:10</itunes:duration>
       <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7eU3iJflAIuL7UeBT3sCsg9ej6Sdb3o_fIGqbK9iLyLA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/QStOgWhE_16l2w_E6rlTBQIeCvE6MqSH_rraRw8uTAtg.jpg"/>
     </item>
     <item>
       <title>En oppdatering fra Filmpolitiet</title>
@@ -92,15 +101,6 @@
       <itunes:duration>45:25</itunes:duration>
       <pubDate>Mon, 02 Jun 2025 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3At6htVZ6oHyUoSVMLQtigm6Fj6TwcO_nRGUCLyMeg6A.jpg"/>
-    </item>
-    <item>
-      <title>The Pitt: Sykehusdramaet er tilbake!</title>
-      <description><![CDATA[Sykehusserien «The Pitt» har engasjert et stort publikum gjennom våren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a49154f7-9abd-400c-a125-d15303b26a4d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a49154f7-9abd-400c-a125-d15303b26a4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:13</itunes:duration>
-      <pubDate>Thu, 29 May 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EV49Fr-zbVnEdkqsyo-zbA5oycMeY6tdb46N2XeiXT0w.jpg"/>
     </item>
   </channel>
 </rss>
