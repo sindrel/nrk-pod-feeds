@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 21 Dec 2025 05:36:02 +0000</lastBuildDate>
-    <pubDate>Sun, 21 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 05:40:49 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Ribberesterevolusjon</title>
+      <description><![CDATA[Årets siste frityreksperiment blir gjennomført, Lives samvittighet ringer og julens instrument kåres!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/c5d12733-8932-43f7-9127-33893223f760_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/c5d12733-8932-43f7-9127-33893223f760_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:32</itunes:duration>
+      <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i45wWlfm0mhPg6oV1Jg3kg1lJhJ7UcqMgeGBtDAe2jfQ.jpg"/>
+    </item>
     <item>
       <title>Musikalsk frelser i kottet</title>
       <description><![CDATA[Metteson fyller kottet med juleminner og vakre toner, når Live og Ronny inviterer til ny mini-julekonsert.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>35:31</itunes:duration>
       <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/T-E2Rr0YK3l42kgkb-4B-gVJO9hHafKv6S9sgCsnkpYw.jpg"/>
-    </item>
-    <item>
-      <title>Hardstyle og sykdomsmuffins</title>
-      <description><![CDATA[En intetanende lytter får en julebukk-overraskelse, det er kamel og esel i pipa og Ronnys hardstylist prøver seg igjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/4746f8d2-7ad0-40f6-86f8-d27ad080f6f2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/4746f8d2-7ad0-40f6-86f8-d27ad080f6f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:52</itunes:duration>
-      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3m6W9ouQrpzF9Hj7QEX9_wXHV34dlLtXFRHefGAHxG7w.jpg"/>
     </item>
   </channel>
 </rss>
