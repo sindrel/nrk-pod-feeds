@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-12-23  
+- Added podcast 'Eventyrerne: Jakten på spektralsteinene' (`eventyrerne`)  
 ### 2025-12-22  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2025-12-19  
