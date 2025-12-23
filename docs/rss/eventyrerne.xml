@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 1 siste fra Eventyrerne: Jakten på spektralsteinene</title>
+    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Eventyrerne: Jakten på spektralsteinene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/eventyrerne for mer informasjon.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Tue, 23 Dec 2025 04:07:23 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 13:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    <item>
+      <title>Nå kan alle ta del i rollespill</title>
+      <description><![CDATA[I Eventyrerne får du radioteater og spillkveld i en pakke. Premiere i appen NRK Radio 1. januar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/1dfecbfc-7665-41aa-becb-fc766511aa15_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/1dfecbfc-7665-41aa-becb-fc766511aa15_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:31</itunes:duration>
+      <pubDate>Mon, 22 Dec 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    </item>
+  </channel>
+</rss>
