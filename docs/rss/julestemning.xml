@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 22 Dec 2025 05:40:49 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 05:41:32 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Grøten før grøten</title>
+      <description><![CDATA[Det er episoden før episoden, med en vakker kjærlighetshistorie i pipa og Julestemnings egen “Grevinnen og hovmesteren”.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/0f62fc92-5632-4e8c-a2fc-9256324e8cc3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/0f62fc92-5632-4e8c-a2fc-9256324e8cc3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:14</itunes:duration>
+      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hVOJLZlSRK-Ldnjo1CLDLwpsB_yjQloGL6wf5k9PLCMA.jpg"/>
+    </item>
     <item>
       <title>Ribberesterevolusjon</title>
       <description><![CDATA[Årets siste frityreksperiment blir gjennomført, Lives samvittighet ringer og julens instrument kåres!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>35:52</itunes:duration>
       <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/k7FNpLVRzG-f50FH8i90cw5irEzNWl7-5Dtrh_NcvE8A.jpg"/>
-    </item>
-    <item>
-      <title>Luksuskatter</title>
-      <description><![CDATA[Live baker sine spinnville lussekatter og får en operaoverraskelse som går inn i sjelen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/0ea65c11-77cb-47b6-a65c-1177cb47b695_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/0ea65c11-77cb-47b6-a65c-1177cb47b695_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:31</itunes:duration>
-      <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/T-E2Rr0YK3l42kgkb-4B-gVJO9hHafKv6S9sgCsnkpYw.jpg"/>
     </item>
   </channel>
 </rss>
