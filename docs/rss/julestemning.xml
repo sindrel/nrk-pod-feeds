@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 23 Dec 2025 05:41:32 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Dec 2025 05:41:14 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Juleinstrumenter i harmoni</title>
+      <description><![CDATA[På selveste julaften samles instrumentene til en siste felles sang, og Live og Ronny lukker pipa for denne gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/781f24f1-c3aa-4cb9-9f24-f1c3aa7cb96a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/781f24f1-c3aa-4cb9-9f24-f1c3aa7cb96a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:15</itunes:duration>
+      <pubDate>Wed, 24 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DUodQxALdliZ7IDfZVwAAw7wyonpyQbet0BrIxYS7z5A.jpg"/>
+    </item>
     <item>
       <title>Grøten før grøten</title>
       <description><![CDATA[Det er episoden før episoden, med en vakker kjærlighetshistorie i pipa og Julestemnings egen “Grevinnen og hovmesteren”.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>31:55</itunes:duration>
       <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tTxcfrfBIHK1LQKO32LiowDUbJn0-aDtVKZuRB2DJ8yg.jpg"/>
-    </item>
-    <item>
-      <title>Minikonsert med Dagny</title>
-      <description><![CDATA[Årets første juleartist er på besøk i kottet og serverer en sjelden akustisk opptreden. Live og Ronny korer på Love Actually-låt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/75ab6e1c-20d2-4be1-ab6e-1c20d25be132_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/julestemning/75ab6e1c-20d2-4be1-ab6e-1c20d25be132_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:52</itunes:duration>
-      <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/k7FNpLVRzG-f50FH8i90cw5irEzNWl7-5Dtrh_NcvE8A.jpg"/>
     </item>
   </channel>
 </rss>
