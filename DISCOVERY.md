@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-12-29  
+- Updated podcast 'Debatten' (`debatten`)  
 ### 2025-12-23  
 - Added podcast 'Eventyrerne: Jakten på spektralsteinene' (`eventyrerne`)  
 ### 2025-12-22  
