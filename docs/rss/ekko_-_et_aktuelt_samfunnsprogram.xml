@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 30 Dec 2025 11:31:05 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Dec 2025 12:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 05:41:50 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Året 2025, hørt fra Ekko</title>
+      <description><![CDATA[Det heftigste året vi kan huske er straks historie. Hva skjedde egentlig og hva betyr dette for oss i tiden som kommer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f5a56fa9-1291-4a24-a56f-a912911a2419_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f5a56fa9-1291-4a24-a56f-a912911a2419_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:54</itunes:duration>
+      <pubDate>Wed, 31 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6blobCKNzQLkGeXGvAu01Q8m9pGYmcqcXz4WVunbJfGQ.jpg"/>
+    </item>
     <item>
       <title>Er 2025 musikkens siste år?</title>
       <description><![CDATA[KI lager nå musikk i massevis. Hva skjer med kvalitet, autentisitet og eierskap når algoritmen skriver låta?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>16:37</itunes:duration>
       <pubDate>Wed, 10 Dec 2025 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tDtFmrvLIz8JC_7_iyuZ4Q75MLDAwaPSSEGk4xZLypjA.jpg"/>
-    </item>
-    <item>
-      <title>Et lite bitt er nok</title>
-      <description><![CDATA[Det er gode grunner til å la være å kose med dyr på utenlandsferie, men hvor farlig er rabies?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d014e159-c5fb-455f-94e1-59c5fb755f2b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d014e159-c5fb-455f-94e1-59c5fb755f2b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:18</itunes:duration>
-      <pubDate>Tue, 09 Dec 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6NJX93UJJGddRGOzjNcZzgVrqezTlAteUAcujCvoscTQ.jpg"/>
     </item>
   </channel>
 </rss>
