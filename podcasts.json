@@ -75,7 +75,9 @@
         "id": "berrum_beyer_snakker_om_greier",
         "title": "De 10 siste fra Berrum & Beyer snakker om greier",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "bibelen",
@@ -710,7 +712,7 @@
         "id": "kringkastingsorkestret_",
         "title": "De 10 siste fra Kringkastingsorkestret ",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "kroppen",
