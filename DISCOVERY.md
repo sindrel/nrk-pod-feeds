@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-01  
+- Podcast 'Utakt' is considered obsolete and will be ignored in the future (`utakt`)  
 ### 2025-12-31  
 - Podcast 'Berrum & Beyer snakker om greier' is considered obsolete and will be ignored in the future (`berrum_beyer_snakker_om_greier`)  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
