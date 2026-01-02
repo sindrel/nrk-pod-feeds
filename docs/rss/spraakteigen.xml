@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 26 Dec 2025 05:38:24 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 02 Jan 2026 05:43:17 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    <item>
+      <title>Språk i borgelig tussmørke</title>
+      <description><![CDATA[Når inntrer et borgelig tussmørke? Daure - du har sansynligvis spist det. Er det på eller om julekvelden? Hva er en gyllen meter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/7c4665f0-5d08-4619-8665-f05d08f61930_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/7c4665f0-5d08-4619-8665-f05d08f61930_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:16</itunes:duration>
+      <pubDate>Fri, 02 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
     <item>
       <title>Tekoligark i dagslys</title>
       <description><![CDATA[Vi mangler navn på mange slags familierelasjoner. Går det så det griner eller gviner? Tekoligark - hva syns vi om årets nyord?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:28</itunes:duration>
       <pubDate>Fri, 31 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>En huk og en snurt</title>
-      <description><![CDATA[Hva er en huk og en snurt? Kan tiden både være ute og oppe? Så må vi enda en gang innom disse vanskelige tonemene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/3c310c62-8464-4e2f-b10c-6284640e2f88_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/3c310c62-8464-4e2f-b10c-6284640e2f88_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:22</itunes:duration>
-      <pubDate>Fri, 24 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rj6iL3sNhe5-dnx5Q960NwQveDLusSryPlLgkQgefFrQ.jpg"/>
     </item>
   </channel>
 </rss>
