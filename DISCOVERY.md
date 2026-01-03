@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-03  
+- Updated podcast 'Strid – de norske borgerkrigene' (`strid`)  
 ### 2026-01-01  
 - Updated podcast 'Bibelen' (`bibelen`)  
 ### 2026-01-01  
