@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Historier fra virkeligheten</title>
+    <title>De 4 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Jan 2026 05:43:13 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 05:37:25 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 06:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
@@ -19,6 +19,33 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/412eb512-cab8-4d00-aeb5-12cab8fd0030_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:30</itunes:duration>
       <pubDate>Fri, 02 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eMuh4PkgSUapqBZhv8SgywWNXmVY7THM6eR7lPhkFJKw.jpg"/>
+    </item>
+    <item>
+      <title>Som en diskos (1:3)</title>
+      <description><![CDATA[En pensjonert politimann er ute og jogger i Valdres da en kongeørn stuper fra himmelen og angriper ham.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6e4258fb-a9c9-4a32-8258-fba9c9aa3221_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6e4258fb-a9c9-4a32-8258-fba9c9aa3221_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:11</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eMuh4PkgSUapqBZhv8SgywWNXmVY7THM6eR7lPhkFJKw.jpg"/>
+    </item>
+    <item>
+      <title>Lille Oline (2:3)</title>
+      <description><![CDATA[Norges fremste ørneforsker vet hva kongeørnen vil. Og da forandrer hele denne historien seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/96f46b0f-5735-46ae-b46b-0f5735c6ae74_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/96f46b0f-5735-46ae-b46b-0f5735c6ae74_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:34</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eMuh4PkgSUapqBZhv8SgywWNXmVY7THM6eR7lPhkFJKw.jpg"/>
+    </item>
+    <item>
+      <title>Mye som er trist (3:3)</title>
+      <description><![CDATA[Joachim reiser tilbake til Valdres for å finne ut hvor den forvirrede ørnen kom fra. Svarene han får, er oppsiktsvekkende.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/633fcbee-ff60-45da-bfcb-eeff60a5da70_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/633fcbee-ff60-45da-bfcb-eeff60a5da70_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:42</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eMuh4PkgSUapqBZhv8SgywWNXmVY7THM6eR7lPhkFJKw.jpg"/>
     </item>
   </channel>
