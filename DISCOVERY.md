@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-04  
+- Updated podcast 'Nødsamtaler' (`noedsamtaler`)  
 ### 2026-01-03  
 - Updated podcast 'Strid – de norske borgerkrigene' (`strid`)  
 ### 2026-01-01  
