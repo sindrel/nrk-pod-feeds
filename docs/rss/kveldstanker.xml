@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 30 Dec 2025 05:40:29 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 05:42:26 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Nytt år - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[Hva er målene dine for 2026? Spør Oda Gravdal Ulriksen, student og samfunnsdebattant.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0e672b92-e891-4b16-a72b-92e891eb167a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0e672b92-e891-4b16-a72b-92e891eb167a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:48</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
     <item>
       <title>Grundtvig - med Claes Krogsgaard Ericsson</title>
       <description><![CDATA[Dikteren Grundtvig var en mur mellom meg og mine julegaver, forteller skuespiller Claes Krogsgaard Ericsson.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:29</itunes:duration>
       <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
-    </item>
-    <item>
-      <title>Sinterklaas - med Carline Tromp</title>
-      <description><![CDATA[Jeg syns julen i Norge er litt kjedelig, forteller nederlandske Carline Tromp. Hun vokste opp med en skummel Sinterklaas.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/538a54d2-aef4-4d63-8a54-d2aef4dd63d8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/538a54d2-aef4-4d63-8a54-d2aef4dd63d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:13</itunes:duration>
-      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EG61784IOV8uAY-azhLZHQBdZgohDDKU2MU5mLlivUSQ.jpg"/>
     </item>
   </channel>
 </rss>
