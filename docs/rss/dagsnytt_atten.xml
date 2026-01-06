@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Jan 2026 18:49:35 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Jan 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 18:47:56 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Dansk krisemøte om Grønland</title>
+      <description><![CDATA[Spenningen mellom Washington og København øker.  Krisemøte i den danske utenriksnemd om Danmarks forhold til USA.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b3a64305-0c04-49f2-a643-050c0459f2f9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b3a64305-0c04-49f2-a643-050c0459f2f9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5s9XiwezIA9gKVdHWJen1Qbu-C55PBHRoPeWIe_39BWg.jpg"/>
+    </item>
     <item>
       <title>Maduro i retten</title>
       <description><![CDATA[klokken 18 i dag ble Venezuelas president Nicolás Maduro fremstilt for en føderal domstol i New York]]></description>
@@ -92,16 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 15 Dec 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DL94W8FT_EwIr6rkuEjaRA7dBJr1QW97voeyE7zIQn5g.jpg"/>
-    </item>
-    <item>
-      <title>Senterpartiet ut mot ny "T-banetrio" i Høyre</title>
-      <description><![CDATA[Alle i den innstilte ledertrioen til Høyre bor i Oslo-området. 
-Det gjør det vanskeligere å samarbeide med Høyre, sier Senterpartiet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/acf5ff16-c873-479a-b5ff-16c873c79abd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/acf5ff16-c873-479a-b5ff-16c873c79abd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 12 Dec 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LRLyuogO5RvFhZoy5kYIfwwBwFkivlAqg5nf06Fl-dUw.jpg"/>
     </item>
   </channel>
 </rss>
