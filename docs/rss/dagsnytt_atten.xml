@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Jan 2026 18:47:56 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 18:50:44 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Trump-frykt på Stortinget</title>
+      <description><![CDATA[Støre ber om å holde en sikkerhetspolitisk redegjørelse i Stortinget]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/28e8fd84-da0c-4afe-a8fd-84da0cfafeb2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/28e8fd84-da0c-4afe-a8fd-84da0cfafeb2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:51</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ncT5z2pln0K9w5UnHMctdAFwF42rvLkoYNsNsjpOMEOQ.jpg"/>
+    </item>
     <item>
       <title>Dansk krisemøte om Grønland</title>
       <description><![CDATA[Spenningen mellom Washington og København øker.  Krisemøte i den danske utenriksnemd om Danmarks forhold til USA.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Tue, 16 Dec 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ckqO3pyfdiGzQyUGruLh0gduHtaus5D6upIl80qPcm_A.jpg"/>
-    </item>
-    <item>
-      <title>Støre legger fram "Plan for Norge"</title>
-      <description><![CDATA[Statsminister Jonas Gahr Støre bytter ut regjeringsplattformen med en årlig oppdatert "Plan for Norge". Planen får kritikk fra Fremskrittspartiet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8c146fd8-ac0e-49bb-946f-d8ac0e49bb18_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8c146fd8-ac0e-49bb-946f-d8ac0e49bb18_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 15 Dec 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DL94W8FT_EwIr6rkuEjaRA7dBJr1QW97voeyE7zIQn5g.jpg"/>
     </item>
   </channel>
 </rss>
