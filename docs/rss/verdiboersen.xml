@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 04 Jan 2026 05:42:53 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 11:32:55 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 12:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Hyperpolitikk</title>
+      <description><![CDATA[Vi demonstrerer og raser som aldri før. Men ingenting skjer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ca058819-185e-4a13-8588-19185e2a13e9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ca058819-185e-4a13-8588-19185e2a13e9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:05</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5PUc4xnk5CWv5fb197BSswcgTkV9K1kTaC47i9z3xi3A.jpg"/>
+    </item>
     <item>
       <title>Når de rike drikker</title>
       <description><![CDATA[- så går det ofte veldig bra! Hvordan kan det ha seg?]]></description>
@@ -94,15 +103,6 @@ Gjenhør fra 27.09.25]]></description>
       <itunes:duration>22:10</itunes:duration>
       <pubDate>Sun, 23 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BZ_7QuHo6ILPr64KKvabqAOwVPsNmOGcQo8fWQdWJg_g.jpg"/>
-    </item>
-    <item>
-      <title>Biohack- meningen med livet?</title>
-      <description><![CDATA[- Det er naturlig  for mennesket å ville forbedre seg, sier filosof   Del 1]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/1ded25c5-0c0b-4fe1-ad25-c50c0bafe1e4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1ded25c5-0c0b-4fe1-ad25-c50c0bafe1e4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:33</itunes:duration>
-      <pubDate>Fri, 21 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/erf6ASiGXGTFlX_xI9Kw4Q2kk5aeFpvsBR5LIz1z1u0w.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Jan 2026 13:06:28 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 11:32:47 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Ikke ha toalettangst</title>
+      <description><![CDATA[Jonas føler at han sitter i et avhørsrom, Arin ombestemte seg på dagens dobesøk og Henning oppdaget at trening ikke var så viktig, midt i løpeøkten sin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c803dd44-a02d-484c-83dd-44a02dc84c96_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c803dd44-a02d-484c-83dd-44a02dc84c96_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Tarmskylling for par</title>
       <description><![CDATA[Vi tester teorier om legning, tarmskylling, kjøtt og løping i dagens episode.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:03:03</itunes:duration>
       <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/-oU8miGlCMZMfdcQXnWRIgJQ348I7mioGcDRVk1qhRdw.jpg"/>
-    </item>
-    <item>
-      <title>Peketå, ringetå og lilletå</title>
-      <description><![CDATA[Arin viser frem tærne sine,  Henning avbryter, og Jonas synes loven er for streng.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/60a5a23e-e49f-4d6e-a5a2-3ee49f5d6e04_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/60a5a23e-e49f-4d6e-a5a2-3ee49f5d6e04_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:26</itunes:duration>
-      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
