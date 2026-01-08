@@ -1,48 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Eventyrerne: Jakten på spektralsteinene</title>
+    <title>De 8 siste fra Eventyrerne: Jakten på spektralsteinene</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Eventyrerne: Jakten på spektralsteinene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/eventyrerne for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Eventyrerne: Jakten på spektralsteinene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/eventyrerne for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Jan 2026 05:43:46 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Jan 2026 06:03:00 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 05:42:13 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
     <item>
-      <title>Et uhyggelig Oslo</title>
-      <description><![CDATA[I en nifs versjon av hovedstaden må eventyrerne på jakt etter en ny del til
-tidsmaskinen. Hvordan skal de skille venn fra fiende?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/7c47ac3e-fb22-4bdc-87ac-3efb22cbdc8e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/7c47ac3e-fb22-4bdc-87ac-3efb22cbdc8e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:10</itunes:duration>
-      <pubDate>Thu, 01 Jan 2026 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
-    </item>
-    <item>
-      <title>«Når er vi?»</title>
-      <description><![CDATA[En students oppfinnelse blir løsningen når eventyrerne må oppspore en
-ettertraktet spektralstein. Men flere agenter er i spill.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/53a6ac7d-5266-4279-a6ac-7d526642796f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/53a6ac7d-5266-4279-a6ac-7d526642796f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:07</itunes:duration>
-      <pubDate>Thu, 01 Jan 2026 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
-    </item>
-    <item>
-      <title>Blod og sjekketriks</title>
-      <description><![CDATA[I en kamp på liv og død fanger eventyrerne opp et hint som gir håp. Men både vikinger og ulver setter livene deres i fare.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/44b8053d-c82d-4ec8-b805-3dc82d1ec8a7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/44b8053d-c82d-4ec8-b805-3dc82d1ec8a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:00</itunes:duration>
-      <pubDate>Thu, 01 Jan 2026 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
-    </item>
-    <item>
-      <title>Et nytt bekjentskap</title>
+      <title>Et nytt bekjentskap (1:18)</title>
       <description><![CDATA[Tre fremmede våkner opp i vikingtida, der kun en kappekledd skikkelse virker til å sitte på svarene.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/12c2e489-7e51-44cd-82e4-897e5184cd21_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/eventyrerne/12c2e489-7e51-44cd-82e4-897e5184cd21_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -51,12 +22,66 @@ ettertraktet spektralstein. Men flere agenter er i spill.]]></description>
       <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
     </item>
     <item>
-      <title>Nå kan alle ta del i rollespill</title>
-      <description><![CDATA[I Eventyrerne får du radioteater og spillkveld i en pakke. Premiere i appen NRK Radio 1. januar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/1dfecbfc-7665-41aa-becb-fc766511aa15_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/1dfecbfc-7665-41aa-becb-fc766511aa15_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:31</itunes:duration>
-      <pubDate>Mon, 22 Dec 2025 13:00:00 +0100</pubDate>
+      <title>Blod og sjekketriks (2:18)</title>
+      <description><![CDATA[I en kamp på liv og død fanger eventyrerne opp et hint som gir håp. Men både vikinger og ulver setter livene deres i fare.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/44b8053d-c82d-4ec8-b805-3dc82d1ec8a7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/44b8053d-c82d-4ec8-b805-3dc82d1ec8a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:00</itunes:duration>
+      <pubDate>Thu, 01 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    </item>
+    <item>
+      <title>«Når er vi?» (3:18)</title>
+      <description><![CDATA[En students oppfinnelse blir løsningen når eventyrerne må oppspore en ettertraktet spektralstein. Men flere agenter er i spill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/53a6ac7d-5266-4279-a6ac-7d526642796f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/53a6ac7d-5266-4279-a6ac-7d526642796f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:07</itunes:duration>
+      <pubDate>Thu, 01 Jan 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    </item>
+    <item>
+      <title>Et uhyggelig Oslo (4:18)</title>
+      <description><![CDATA[I en nifs versjon av hovedstaden må eventyrerne på jakt etter en ny del til tidsmaskinen. Hvordan skal de skille venn fra fiende?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/7c47ac3e-fb22-4bdc-87ac-3efb22cbdc8e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/7c47ac3e-fb22-4bdc-87ac-3efb22cbdc8e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:10</itunes:duration>
+      <pubDate>Thu, 01 Jan 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    </item>
+    <item>
+      <title>Post-apokalyptisk stress (5:18)</title>
+      <description><![CDATA[Vil Geir og Vibeke klare å redde Ågot før hun blir spist av kannibalen Slafse-Sivert?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/f7dc1aa8-8885-4b55-9c1a-a88885db55d8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/f7dc1aa8-8885-4b55-9c1a-a88885db55d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:15</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    </item>
+    <item>
+      <title>Flamme, pensel, katt (6:18)</title>
+      <description><![CDATA[Bak en stor bunkerdør ligger eventyrernes eneste håp. Men hvem er på den andre siden, og hva vil vedkommende med spektralsteinen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/7233c478-9a5a-4b94-b3c4-789a5a7b943f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/7233c478-9a5a-4b94-b3c4-789a5a7b943f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:15</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    </item>
+    <item>
+      <title>Poker og gledespiker (7:18)</title>
+      <description><![CDATA[Eventyrerne må hamle opp med en general som vet hvor tidsmaskinen er. Hvis noen har et ess i ermet, gjelder det å spille det nå!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/6aa4e9a9-594c-4369-a4e9-a9594c0369bb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/6aa4e9a9-594c-4369-a4e9-a9594c0369bb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:26</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    </item>
+    <item>
+      <title>Farvel, New Cactus (8:18)</title>
+      <description><![CDATA[I en revolverduell står Vibeke Vi mot general Kaviarstjerne – det gode mot det onde. Hvem vil seire?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/db9f292e-d454-4ce6-9f29-2ed454bce6d1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/db9f292e-d454-4ce6-9f29-2ed454bce6d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:24</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 06:03:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
     </item>
   </channel>

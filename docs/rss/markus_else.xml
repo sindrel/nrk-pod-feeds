@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Jan 2026 05:43:02 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 05:42:27 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Folk på gata say the darnest things!</title>
+      <description><![CDATA[Else har blitt tatt for å være bestemor, Markus står i et kroppslig dilemma, og president Maduro har blitt en global moteinfluenser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/5b470b4d-a7aa-4eeb-870b-4da7aaaeeb96_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/5b470b4d-a7aa-4eeb-870b-4da7aaaeeb96_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:05</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_2xaAXEb60FazUruY_IQqQh4dsVPns_C26Aoy21H11-w.jpg"/>
+    </item>
     <item>
       <title>Et nakent møte med bestemor</title>
       <description><![CDATA[Else har fått rumpebriller, Markus har hatt et nakent julemøte, og en ny oppfinnelse kan gjøre verden til et bedre sted.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>24:45</itunes:duration>
       <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/AzZ15Q-A8qB0pOotP8X3iAl2iSZEXZMm_D8-gV-Kfbpw.jpg"/>
-    </item>
-    <item>
-      <title>Den nye Fredrik Solvang</title>
-      <description><![CDATA[Markus mener han har funnet den rette mannen til å ta over for Fredrik Solvang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/49bd0a59-d7ae-4954-bd0a-59d7ae3954e9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/markus_else/49bd0a59-d7ae-4954-bd0a-59d7ae3954e9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Thu, 11 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
     </item>
   </channel>
 </rss>
