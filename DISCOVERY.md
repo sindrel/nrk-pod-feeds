@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-08  
+- Updated podcast 'Tyrann' (`tyrann`)  
 ### 2026-01-05  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2026-01-04  
