@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-10  
+- Added podcast 'Markus og Wolfgang snakker klassisk' (`markus_og_wolfgang_snakker_klassisk`)  
 ### 2026-01-09  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2026-01-09  
