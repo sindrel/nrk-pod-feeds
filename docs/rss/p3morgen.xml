@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 10 Jan 2026 05:36:54 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 11:33:21 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Naken med en lama-maske</title>
+      <description><![CDATA[Arin elsker brød med ost, Jonas har startet på Galtvort og Henning deler minner fra sin YouTube-karriere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1a83c50f-8a30-4355-83c5-0f8a305355a1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1a83c50f-8a30-4355-83c5-0f8a305355a1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen!</title>
       <description><![CDATA[Lars Berrum mener man kan tulle med det meste, Javad og Kristine fra «Humoretaten» får parodi-trening, og vi gir deg par-hacks!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Thu, 18 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Bryllup på Gardermoen</title>
-      <description><![CDATA[Hvor er det best å mellomlande? Kan man gifte seg på flyplassen? Og endres lovene på flyet når man flyr over visse land?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ce1ce8d6-7729-4eea-9ce8-d677294eea94_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ce1ce8d6-7729-4eea-9ce8-d677294eea94_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:35</itunes:duration>
-      <pubDate>Wed, 17 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>
 </rss>
