@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Jan 2026 13:08:18 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jan 2026 12:52:00 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 13:09:40 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 12:43:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Marlene Stavrum</title>
+      <description><![CDATA[Komikeren venter barn: – Jeg ble gravid på første forsøk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f4b9f324-5ebf-4cb8-b9f3-245ebf7cb8e3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f4b9f324-5ebf-4cb8-b9f3-245ebf7cb8e3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 12:43:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GrOWSAyhVORMSt2nQPGnpQOdCq4gBNUlPNsRbCTV63lg.jpg"/>
+    </item>
     <item>
       <title>Hani Hussein</title>
       <description><![CDATA[– Den somaliske renessansen er på vei, sier standup-komikeren.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:04</itunes:duration>
       <pubDate>Thu, 04 Dec 2025 12:39:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/s8cY9RebakQ1HQcOMkqQXgDt0HheJEx6Me56nn8l5gbw.jpg"/>
-    </item>
-    <item>
-      <title>Liv Glaser</title>
-      <description><![CDATA[– Jeg begynte å spille så snart jeg rakk opp til tangene, forteller stjernepianisten på 90.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ca4f0d52-fe3b-4e73-8f0d-52fe3bfe73c9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ca4f0d52-fe3b-4e73-8f0d-52fe3bfe73c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:14</itunes:duration>
-      <pubDate>Wed, 03 Dec 2025 13:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DGE57eHgZIWqTDm7-NdoZgqfK9u3iO9yI9-hy0u2gLPg.jpg"/>
     </item>
   </channel>
 </rss>
