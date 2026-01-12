@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Jan 2026 05:50:46 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 05:47:02 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Morten "Diesel" Dahl</title>
+      <description><![CDATA[Trommeslager, MC-entusiast og rockelegende Morten "Diesel" Dahl om TNT, Hells Angels og kampen mot kreften.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/0f5939f8-fab0-446d-9939-f8fab0d46d49_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0f5939f8-fab0-446d-9939-f8fab0d46d49_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i_j0Vh6aiT6zwdRvLQRRKALoI3huQEfDpOeh8UnAnr-A.jpg"/>
+    </item>
     <item>
       <title>Da USA var idealet</title>
       <description><![CDATA[For 200 år siden startet utvandringen fra Norge til USA. Hva slags inspirasjon fant datidens arbeideraktivister i det amerikanske demokratiet?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:00:21</itunes:duration>
       <pubDate>Mon, 27 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ii0BCERcJHMvqwMFhxF0ag33oZTx6V57FxhWjaweTDAw.jpg"/>
-    </item>
-    <item>
-      <title>Rus og klasse</title>
-      <description><![CDATA[Hvorfor ruser vi oss selv om vi vet at det er skadelig? Og hva forteller rusmidlene oss om klassetilhørighet? Med forfatter og sosiolog Willy Pedersen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/703a0f1c-16b8-4071-ba0f-1c16b820710e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/703a0f1c-16b8-4071-ba0f-1c16b820710e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:31</itunes:duration>
-      <pubDate>Mon, 20 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1aYsf39z-XUnzr0tNXCn7wdiIU68LZYD6WnsStBctIvg.jpg"/>
     </item>
   </channel>
 </rss>
