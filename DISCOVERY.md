@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-13  
+- Updated podcast 'Leseklubben' (`leseklubben`)  
 ### 2026-01-10  
 - Added podcast 'Markus og Wolfgang snakker klassisk' (`markus_og_wolfgang_snakker_klassisk`)  
 ### 2026-01-09  
