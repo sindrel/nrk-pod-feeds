@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Jan 2026 13:08:46 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jan 2026 01:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 05:42:57 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 06:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>Da Norge okkuperte Grønland</title>
+      <description><![CDATA[Mange vil ha kloa i Grønland, Norge har også prøvd seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/18d64111-1573-43b7-9641-111573d3b7d8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/18d64111-1573-43b7-9641-111573d3b7d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:02</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_Xb2KTKwEqYr7N_yU9QSNgOMU1Lmq0eg9uxuj7mM7piw.jpg"/>
+    </item>
     <item>
       <title>Kollapser Iran nå?</title>
       <description><![CDATA[Tusenvis av demonstranter roper at mullaene må gå. Hva skjer hvis prestestyret - som har styrt landet i snart 50 år - veltes?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>17:56</itunes:duration>
       <pubDate>Mon, 08 Dec 2025 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OQp38HWNpvvFmQW76AGYlgaADASwjDO7nfAFAQZqHCXg.jpg"/>
-    </item>
-    <item>
-      <title>Smykker, champagne og sigarer: Korrupsjonssaken mot Netanyahu</title>
-      <description><![CDATA[Den israelske statsministeren har vært tiltalt de siste seks årene. Nå ber han om å bli benådet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/d70a7c89-8e19-425d-8a7c-898e19b25dbf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/d70a7c89-8e19-425d-8a7c-898e19b25dbf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:07</itunes:duration>
-      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lWQC2zY_iJtYeVLkK-g_JAVLTllQBmk51NyP9vuVikDA.jpg"/>
     </item>
   </channel>
 </rss>
