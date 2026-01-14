@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 13 Jan 2026 11:34:01 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 09:44:02 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Minoritetsvennlig harryhandel</title>
+      <description><![CDATA[Henning har hengt med en kollega alene, Jonas trenger hjelp og Arin misforstår som vanlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a9b8df4d-541a-4d60-b8df-4d541afd603c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a9b8df4d-541a-4d60-b8df-4d541afd603c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:12</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
+    </item>
     <item>
       <title>Vi har behov for hjelp i dag!</title>
       <description><![CDATA[Jonas foreslår å mobbe barn, Arin er enig og Henning forteller om en Pokémon-pedo.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:12:32</itunes:duration>
       <pubDate>Sat, 20 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/KG-hs10dCAB5Fkwo2rRvCAPCLQZgjx_zUVCgeJbeDojA.jpg"/>
-    </item>
-    <item>
-      <title>En erotisk julefortelling</title>
-      <description><![CDATA[Arin har pyntet seg, Henning har skrevet erotikk, og Jonas har funnet ut hvorfor bestemødre kjøper «Hjemmet». God jul!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/0a3c5fc4-42d5-48d1-bc5f-c442d518d1bc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/0a3c5fc4-42d5-48d1-bc5f-c442d518d1bc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:26</itunes:duration>
-      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>
 </rss>
