@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Jan 2026 05:42:43 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Jan 2026 06:01:00 +0100</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 05:42:07 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
+    <item>
+      <title>Kong Salomos opptur (23:40)</title>
+      <description><![CDATA[Gud sier at kong Salomo skal få akkurat det han ønsker seg. Salomo velger imponerende klokt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/723cc32c-db0c-4a92-bcc3-2cdb0caa9201_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/723cc32c-db0c-4a92-bcc3-2cdb0caa9201_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:36</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gS2GXJXAKCgDdgaQc9ta_AAvVAaIhNybKnjgiDaYdZwQ.jpg"/>
+    </item>
     <item>
       <title>Problemer i kongefamilien (22:40)</title>
       <description><![CDATA[Hvem skal overta etter kong David? Den ene sønnen verre enn den andre melder seg på.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>18:00</itunes:duration>
       <pubDate>Wed, 03 Sep 2025 06:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oLjRHbBPZ4T1N-z7ZXmn_whyoxhE_52lZPj1BxSr5FHw.jpg"/>
-    </item>
-    <item>
-      <title>Moses og De ti bud (13:40)</title>
-      <description><![CDATA[Moses laster ned retningslinjer fra skyen. Men hvorfor blir han så illsint at han knuser dem etterpå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/cc7f70e2-21f4-4dbe-b7a6-63083dd88336_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bibelen/cc7f70e2-21f4-4dbe-b7a6-63083dd88336_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:56</itunes:duration>
-      <pubDate>Wed, 27 Aug 2025 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EINJxfUm-YvBJhPUmfQEmAmU_i0krrR6p3ZT-Q7mYTPA.jpg"/>
     </item>
   </channel>
 </rss>
