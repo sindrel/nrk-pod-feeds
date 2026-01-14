@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 13 Jan 2026 13:09:36 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Jan 2026 13:13:00 +0100</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 13:09:11 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 13:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Marthe Kilen</title>
+      <description><![CDATA[- Vi var fattige, forteller konditoren fra Bakemesterskapet om oppveksten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1ffdbef5-f282-46ff-bdbe-f5f282f6ff0c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1ffdbef5-f282-46ff-bdbe-f5f282f6ff0c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 13:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pFbmLq3Rzrx6Ys9_11x1hwNHS31_4Yq12Ri6K7FkCN1Q.jpg"/>
+    </item>
     <item>
       <title>Jon Øigarden</title>
       <description><![CDATA[Stjerneskuespilleren kan gå fra 0 - 100 på ett sekund: – Jeg har et atomkraftverk inni meg.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:24</itunes:duration>
       <pubDate>Tue, 09 Dec 2025 13:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WX5TWwRgnh0rKeCpWFC3Gg3NsW8WZUNu4krAInhOiatA.jpg"/>
-    </item>
-    <item>
-      <title>Eldbjørg Hemsing</title>
-      <description><![CDATA[– I Kina tror mange jeg er ekte prinsesse, forteller stjernefiolinisten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/01766a7a-69db-47de-b66a-7a69db57de41_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/01766a7a-69db-47de-b66a-7a69db57de41_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:12</itunes:duration>
-      <pubDate>Mon, 08 Dec 2025 13:18:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/upt3fu78kBTZpEsrQeClMgQZahXyQPwRTgLGuWVjce_A.jpg"/>
     </item>
   </channel>
 </rss>
