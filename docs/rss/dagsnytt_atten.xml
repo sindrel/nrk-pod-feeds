@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 13 Jan 2026 18:48:41 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Jan 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:51:06 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Danmark sender soldater til Grønland</title>
+      <description><![CDATA[Skjebnemøte mellom Danmark, Grønland og USA i Washington.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cf81b84e-673b-48b3-81b8-4e673b48b3dd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cf81b84e-673b-48b3-81b8-4e673b48b3dd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xvni6qQq09cBvfC7c2kEEQv3clnSrHO7w-237xF8HWNQ.jpg"/>
+    </item>
     <item>
       <title>Helseministeren varsler bedre tilbud og kortere helsekøer</title>
       <description><![CDATA[Ressursene stemmer ikke overens med visjonene, kritiserer Legeforeningen]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 23 Dec 2025 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hjqIy6SrOw6Likc0oaohLguI3fdRkqH4RrUX1S_YdfiA.jpg"/>
-    </item>
-    <item>
-      <title>USA truer Grønland</title>
-      <description><![CDATA[Donald Trump har utnevnt en spesialutsending til Grønland som sier at han skal gjøre øya til en del av USA. Dette vekker sterke reaksjoner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1aa79d95-c95c-4702-a79d-95c95cc70242_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1aa79d95-c95c-4702-a79d-95c95cc70242_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 22 Dec 2025 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/k6Ee7Qwnyxka6_Xnd7izugqXh9nTnyZjsKpfUDMudANQ.jpg"/>
     </item>
   </channel>
 </rss>
