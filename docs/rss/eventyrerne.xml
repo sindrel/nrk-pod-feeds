@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Eventyrerne: Jakten på spektralsteinene</title>
+    <title>De 10 siste fra Eventyrerne: Jakten på spektralsteinene</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Eventyrerne: Jakten på spektralsteinene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/eventyrerne for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Eventyrerne: Jakten på spektralsteinene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/eventyrerne for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Jan 2026 05:42:13 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jan 2026 06:03:00 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 05:43:24 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
     <item>
@@ -82,6 +82,24 @@
       <enclosure url="https://podkast.nrk.no/fil/eventyrerne/db9f292e-d454-4ce6-9f29-2ed454bce6d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:24</itunes:duration>
       <pubDate>Thu, 08 Jan 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    </item>
+    <item>
+      <title>Hjelp, vi er på togtur! (9:18)</title>
+      <description><![CDATA[Hvordan skal eventyrerne få kloa i en tungt bevoktet tidsmaskin på et tog fullt av farer og sirkusrekvisitter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/ad1f3418-cb20-4280-9f34-18cb200280c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/ad1f3418-cb20-4280-9f34-18cb200280c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:06</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
+    </item>
+    <item>
+      <title>Togranet (10:18)</title>
+      <description><![CDATA[Eventyrerne er klare for å utføre et spektakulært ran. Nå må bare terningene være på deres side.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/eventyrerne/502683d6-9a54-4e23-a683-d69a540e2347_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/502683d6-9a54-4e23-a683-d69a540e2347_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:43</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 06:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q.jpg"/>
     </item>
   </channel>
