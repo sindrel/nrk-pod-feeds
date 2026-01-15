@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Jan 2026 09:44:02 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:33:32 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Henning suger på harryhandel</title>
+      <description><![CDATA[Jonas tar oss med til sine hjemtrakter, Arin har et apotek på pulten sin og Henning har vist fingeren til tollvesenet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/84ef58af-749a-4032-af58-af749a703254_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/84ef58af-749a-4032-af58-af749a703254_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
+    </item>
     <item>
       <title>Minoritetsvennlig harryhandel</title>
       <description><![CDATA[Henning har hengt med en kollega alene, Jonas trenger hjelp og Arin misforstår som vanlig.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Mon, 05 Jan 2026 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen!</title>
-      <description><![CDATA[Årets siste sendeuke ble en god en! Vi mimrer tilbake til Snøfall med selveste Selma og Christian Mikkelsen er ukens hemmelige nissegjest. Og endelig får vi høre Jonas sin MGP-låt!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2c7abf91-3c86-40e1-babf-913c8650e188_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2c7abf91-3c86-40e1-babf-913c8650e188_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:12:32</itunes:duration>
-      <pubDate>Sat, 20 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KG-hs10dCAB5Fkwo2rRvCAPCLQZgjx_zUVCgeJbeDojA.jpg"/>
     </item>
   </channel>
 </rss>
