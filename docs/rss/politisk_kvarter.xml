@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Jan 2026 07:39:05 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Jan 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 07:37:58 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 08:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>SV-lederen om kritikken</title>
+      <description><![CDATA[SV-leder Kirsti Bergstø svarer på kritikken om dårlig styring, ultimatumet og utydelige løsninger i en intern evalueringsrapport.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/96350e68-0bf7-46bf-b50e-680bf786bfc7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/96350e68-0bf7-46bf-b50e-680bf786bfc7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 08:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uiLnz8gE9sY9MIcFjB4DjQaPL1s4iuZqQ6j6UO0VFQUQ.jpg"/>
+    </item>
     <item>
       <title>Regjeringen vil forlenge oljealderen</title>
       <description><![CDATA[Regjeringen vil at oljealderen varer så lenge som mulig, og fortsetter å lete.
@@ -100,16 +109,6 @@ Klarer Støre og Listhaug samle sine lag?]]></description>
       <itunes:duration>14:53</itunes:duration>
       <pubDate>Fri, 02 Jan 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZPKmXZo8ZIcW1vDUUfYkMwzIsFU4QBM4bDHd-GsljfMA.jpg"/>
-    </item>
-    <item>
-      <title>Er elfly til Spania science fiction?</title>
-      <description><![CDATA[Når letter det første elflyet med passasjerer i Norge?
-Må vi endre reisevaner, eller reddes vi av teknologien?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/d4c5750f-f846-4dc1-8575-0ff8466dc1b6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/d4c5750f-f846-4dc1-8575-0ff8466dc1b6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:03</itunes:duration>
-      <pubDate>Wed, 31 Dec 2025 08:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xlDTpMkyAzJhzu3_eMgMFwPcc0v7tm4LcdM89Xs5BqPg.jpg"/>
     </item>
   </channel>
 </rss>
