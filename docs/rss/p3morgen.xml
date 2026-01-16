@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 15 Jan 2026 11:33:32 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 09:41:34 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Spyttet i juicen til en kunde</title>
+      <description><![CDATA[Hva hadde du gjort i Norge på 1940-tallet? Jonas hadde drevet med mikrosabotasje, Arin hadde vært feig og Henning backer!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/aa813f65-664c-4308-813f-65664c5308ec_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/aa813f65-664c-4308-813f-65664c5308ec_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:26</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Henning suger på harryhandel</title>
       <description><![CDATA[Jonas tar oss med til sine hjemtrakter, Arin har et apotek på pulten sin og Henning har vist fingeren til tollvesenet.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Henning døde nesten i jula</title>
-      <description><![CDATA[Henning har hatt en dramatisk jul, og hvor langt er det egentlig normalt å gidde å gå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d960a562-213d-4c41-a0a5-62213d2c4137_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d960a562-213d-4c41-a0a5-62213d2c4137_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Mon, 05 Jan 2026 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
     </item>
   </channel>
 </rss>
