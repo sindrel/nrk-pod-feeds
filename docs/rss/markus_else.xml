@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 15 Jan 2026 05:43:39 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 05:42:21 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Norges ukjente tennishelt</title>
+      <description><![CDATA[Markus starter fanklubb for det kjente tennistalentet Viktor Durasovic, som blir så sint at han kaster racketen ut av stadion.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/f353b34d-8b7c-47b0-93b3-4d8b7c37b08d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/f353b34d-8b7c-47b0-93b3-4d8b7c37b08d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:30</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AzZ15Q-A8qB0pOotP8X3iAl2iSZEXZMm_D8-gV-Kfbpw.jpg"/>
+    </item>
     <item>
       <title>Lapp i postkassa: Så deg naken</title>
       <description><![CDATA[Else får naboklage og Kåre Magnus Berg tar turen innom for å klage på museer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>21:18</itunes:duration>
       <pubDate>Sat, 20 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw.jpg"/>
-    </item>
-    <item>
-      <title>IKKE rope "busk -BUSK!"</title>
-      <description><![CDATA[Else tåler ikke krumspring rundt enebærbusken. Markus husker dagen da han ble mann.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/b2be7aa4-fa0b-4618-be7a-a4fa0b46182b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/markus_else/b2be7aa4-fa0b-4618-be7a-a4fa0b46182b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:59</itunes:duration>
-      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
     </item>
   </channel>
 </rss>
