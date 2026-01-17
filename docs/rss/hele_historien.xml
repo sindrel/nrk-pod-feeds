@@ -1,43 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 22 Nov 2025 05:32:08 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Nov 2025 06:01:00 +0100</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2026 04:03:12 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer: Terroristen fra Bærum</title>
-      <description><![CDATA[Philip Manshaus drepte sin egen adoptivsøster og angrep en moske i 2019. Nå sier han at han angrer og var psykotisk da det skjedde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/13f498f1-78fe-46d9-b498-f178fe16d9d4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/13f498f1-78fe-46d9-b498-f178fe16d9d4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30</itunes:duration>
-      <pubDate>Fri, 21 Nov 2025 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA.jpg"/>
-    </item>
-    <item>
-      <title>Rasekrigen (1:2)</title>
-      <description><![CDATA[På vegne av hvite europeere vil terroristen starte borgerkrig mot innvandrere og muslimer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/db7b389f-57eb-4198-bb38-9f57eb2198c8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/db7b389f-57eb-4198-bb38-9f57eb2198c8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:46</itunes:duration>
-      <pubDate>Sat, 22 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA.jpg"/>
-    </item>
-    <item>
-      <title>Tilregnelig? (2:2)</title>
-      <description><![CDATA[Noen år etter terroren sier Philip Manshaus at han var psykotisk da alt skjedde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/9be32320-38b7-4b06-a323-2038b7fb06e5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/9be32320-38b7-4b06-a323-2038b7fb06e5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:45</itunes:duration>
-      <pubDate>Sat, 22 Nov 2025 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA.jpg"/>
+      <title>Kommer: Bankraner Pedersen</title>
+      <description><![CDATA[Martin kjeder seg som lærerstudent. Så begynner han å rane banker. På 6 år slår han til mot 19 steder. Til slutt fyller han sedler i svømmebassenget hjemme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/9d32e1cb-251a-4f17-b2e1-cb251a8f17c8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/9d32e1cb-251a-4f17-b2e1-cb251a8f17c8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg.jpg"/>
     </item>
   </channel>
 </rss>
