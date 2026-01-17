@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Jan 2026 05:42:21 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2026 05:35:46 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Den rappende lærer</title>
+      <description><![CDATA[Else og Markus ringer Maren, læreren fra Haugenstua, som rappet under et sceneshow. «Tør å stå i ingen respons», er hennes beste tips.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/e1e43e8d-19bc-4681-a43e-8d19bcd6811d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/e1e43e8d-19bc-4681-a43e-8d19bcd6811d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:25</itunes:duration>
+      <pubDate>Sat, 17 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw.jpg"/>
+    </item>
     <item>
       <title>Norges ukjente tennishelt</title>
       <description><![CDATA[Markus starter fanklubb for det kjente tennistalentet Viktor Durasovic, som blir så sint at han kaster racketen ut av stadion.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>22:44</itunes:duration>
       <pubDate>Wed, 24 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
-    </item>
-    <item>
-      <title>Når pysjen må vaskes</title>
-      <description><![CDATA[..er jula over da? Lytterne spør også om beste avis til innpakking -og hvem som lettest får julestemning: spebarn eller demente?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/aabc97d9-887f-4c81-bc97-d9887fcc81ea_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/markus_else/aabc97d9-887f-4c81-bc97-d9887fcc81ea_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:18</itunes:duration>
-      <pubDate>Sat, 20 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw.jpg"/>
     </item>
   </channel>
 </rss>
