@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-17  
+- Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2026-01-14  
 - Updated podcast 'Leseklubben' (`leseklubben`)  
 ### 2026-01-13  
