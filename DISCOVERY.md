@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-18  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2026-01-17  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2026-01-14  
