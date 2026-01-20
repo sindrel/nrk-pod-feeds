@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Jan 2026 05:42:20 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 05:46:32 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Fjellvett - med  Gunn Marit Nisja</title>
+      <description><![CDATA[Det finnes regler som er grei å følge selv om du er ung og dum, forteller forfatter Gunn Marit Nisja.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/963106f4-deb1-40ac-b106-f4deb190ac4c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/963106f4-deb1-40ac-b106-f4deb190ac4c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:49</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
+    </item>
     <item>
       <title>Vinner - med Ola Bremnes</title>
       <description><![CDATA[Å føle seg som en vinner kan folk flest klare fint, og det uten å toppe tabellen, hevder musiker Ola Bremnes.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:30</itunes:duration>
       <pubDate>Wed, 17 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EG61784IOV8uAY-azhLZHQBdZgohDDKU2MU5mLlivUSQ.jpg"/>
-    </item>
-    <item>
-      <title>Fargen - med Ann Helen Kolås Ingebrigtsen</title>
-      <description><![CDATA[Som barn kjempa eg for fargen rosa, fortel forfattar Ann Helen Kolås Ingebrigtsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/708f56bb-10b8-49e6-8f56-bb10b8b9e650_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/708f56bb-10b8-49e6-8f56-bb10b8b9e650_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:32</itunes:duration>
-      <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
     </item>
   </channel>
 </rss>
