@@ -955,6 +955,12 @@
         "enabled": false
     },
     {
+        "id": "musikkhistorier",
+        "title": "De 10 siste fra Musikkhistorier",
+        "season": "LATEST_SEASON",
+        "enabled": true
+    },
+    {
         "id": "musikkrommet",
         "title": "De 10 siste fra Musikkrommet",
         "season": null,
