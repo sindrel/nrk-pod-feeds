@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 19 Jan 2026 13:12:04 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Jan 2026 13:12:00 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 13:57:09 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 14:46:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Tone Kroken</title>
+      <description><![CDATA[Interiørstylisten vokste opp i en nitrist kommunal bolig med utedo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/090b415c-f37e-4818-8b41-5cf37e681814_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/090b415c-f37e-4818-8b41-5cf37e681814_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:34</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 14:46:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0hICbUFnwr6MTVy0R20hAgx8SDi7az2Ce3RUhygEvdYA.jpg"/>
+    </item>
     <item>
       <title>PelleK</title>
       <description><![CDATA[– Jeg sliter med for mye empati, sier artisten og influenseren.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Mon, 05 Jan 2026 13:25:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hGiKL785y-4aOGBHuhe6ngZgqGmD3G96nvXafTSS_nqg.jpg"/>
-    </item>
-    <item>
-      <title>Veronica Akselsen</title>
-      <description><![CDATA[– Det er varige skader på sjelen min, sier musikeren om oppveksten som "tater". Hun flyttet 14 ganger før hun fylte 10, og mener familien ble forfulgt av taterstempelet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3400fafb-b1b7-4622-80fa-fbb1b756222e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3400fafb-b1b7-4622-80fa-fbb1b756222e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Thu, 11 Dec 2025 16:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/I2QSaCoNBAchoAoEsIqLoQcoO8jOPM3-FDiNzPwYfZdA.jpg"/>
     </item>
   </channel>
 </rss>
