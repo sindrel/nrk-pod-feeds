@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 19 Jan 2026 10:48:26 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 10:47:56 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Vi spår vinneren av MGP!</title>
+      <description><![CDATA[Vi diskuterer triste barnefilmer og reagerer på MGP-låter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/0cf046ee-c06f-4448-b046-eec06fd4482f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/0cf046ee-c06f-4448-b046-eec06fd4482f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:29</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Hvordan sabotere Dagsrevyen.</title>
       <description><![CDATA[Arin er rystet av TV-serier, Henning har vært på luksus-kino og Jonas kommer med nye mikrosabotasje-tips!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:29</itunes:duration>
       <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Drag-bingo</title>
-      <description><![CDATA[Jonas har bursdag, Henning skal gjenoppta whiskyklubben sin og Arin sørger over hunder og katter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3ca55413-6fe3-4c62-a554-136fe35c6235_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3ca55413-6fe3-4c62-a554-136fe35c6235_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:36</itunes:duration>
-      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>
