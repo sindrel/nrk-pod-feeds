@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Jan 2026 10:47:56 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Jan 2026 10:49:29 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Blackout med mor og far.</title>
+      <description><![CDATA[Jonas har med quiz, Arin leverer dårlig og Henning mimrer til sin første blackout.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1694599d-73ad-4f8d-9459-9d73ad0f8dd5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1694599d-73ad-4f8d-9459-9d73ad0f8dd5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
+    </item>
     <item>
       <title>Vi spår vinneren av MGP!</title>
       <description><![CDATA[Vi diskuterer triste barnefilmer og reagerer på MGP-låter!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:03:20</itunes:duration>
       <pubDate>Sat, 10 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ldqgTUBLL659YW4W7bSRBApqOxOgiJRCQqBOmRTkUk1g.jpg"/>
-    </item>
-    <item>
-      <title>Norges merkeligste dialekt</title>
-      <description><![CDATA[Arin starter fredagen med klaging, Henning deler sine planer for helgen og Jonas forteller om søppeldrama fra blokka si]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/623308e0-5271-4587-b308-e05271a58725_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/623308e0-5271-4587-b308-e05271a58725_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:29</itunes:duration>
-      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
