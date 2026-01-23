@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Jan 2026 18:52:51 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 18:52:00 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kritikk av nye krav til flyktninger</title>
+      <description><![CDATA[Regjeringen kutter støtteordninger og innfører aktivitetsplikt for flyktninger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d5e01623-6f0a-4992-a016-236f0aa99225_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d5e01623-6f0a-4992-a016-236f0aa99225_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nCYLnA5dXY3xLiRh5ZegQQN3wvfEvCE-z6eXu4wGZ56g.jpg"/>
+    </item>
     <item>
       <title>Nominasjonsdryss til "Affeksjonsverdi"</title>
       <description><![CDATA[Historisk dag for norsk film: Nominert til beste film og åtte andre Oscar-priser.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 12 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/J7cL4he4_kZyeyqrTYpltQTsW6r7fZROvqhkK1Qlufcg.jpg"/>
-    </item>
-    <item>
-      <title>Vil fjerne kompetansekrav til helse- og omsorgstjenestene</title>
-      <description><![CDATA[Kommunekommisjonen leverte i dag sine forslag til regjeringen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4beded91-132e-4bec-aded-91132e3bec77_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4beded91-132e-4bec-aded-91132e3bec77_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 09 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iJO3ZAitnf-ReV2cB8c56AJiCpw-l3UGBsWmda8BoG6Q.jpg"/>
     </item>
   </channel>
 </rss>
