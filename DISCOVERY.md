@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-23  
+- Updated podcast 'Julestemning med Live og Ronny' (`julestemning`)  
 ### 2026-01-20  
 - Added podcast 'Musikkhistorier' (`musikkhistorier`)  
 ### 2026-01-18  
