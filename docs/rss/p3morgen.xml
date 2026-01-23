@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Jan 2026 11:35:55 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 10:45:46 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Sodd-mafiaen kommer og tar deg</title>
+      <description><![CDATA[Henning skal lage snøhule, Jonas skal se på damekoret i Sarpsborg og Arin skal på VIXEN Awards.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8736a236-fd94-434f-b6a2-36fd94934fa1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8736a236-fd94-434f-b6a2-36fd94934fa1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
+    </item>
     <item>
       <title>Karakterdrap å ha dialekt.</title>
       <description><![CDATA[Vi har kommet oss på jobb uten vekkeklokke i dag og vi diskuterer hvem som får lov til å ha dialekt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:28</itunes:duration>
       <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMpQ1SNJ3z9EUFX3frA9RwB3AAKnriAmaN0pSM_eaCPw.jpg"/>
-    </item>
-    <item>
-      <title>Naken med en lama-maske</title>
-      <description><![CDATA[Arin elsker brød med ost, Jonas har startet på Galtvort og Henning deler minner fra sin YouTube-karriere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1a83c50f-8a30-4355-83c5-0f8a305355a1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1a83c50f-8a30-4355-83c5-0f8a305355a1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
     </item>
   </channel>
 </rss>
