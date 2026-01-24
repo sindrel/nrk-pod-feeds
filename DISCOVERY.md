@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-24  
+- Added podcast 'Krimrommet' (`krimrommet`)  
 ### 2026-01-23  
 - Updated podcast 'Julestemning med Live og Ronny' (`julestemning`)  
 ### 2026-01-20  
