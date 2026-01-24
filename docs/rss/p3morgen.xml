@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Jan 2026 10:45:46 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:48:37 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen!</title>
+      <description><![CDATA[Harm og Hegseth skal på turné! Johan Golden saksøker Facebook! Og Jonas plukker en høne med MGP-sjefen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6759f361-b43c-494b-99f3-61b43cf94b4a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6759f361-b43c-494b-99f3-61b43cf94b4a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:27</itunes:duration>
+      <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJb0xfPe1m-ZeNjuST8AUgnyGvf0Alwjc-szu9estutw.jpg"/>
+    </item>
     <item>
       <title>Sodd-mafiaen kommer og tar deg</title>
       <description><![CDATA[Henning skal lage snøhule, Jonas skal se på damekoret i Sarpsborg og Arin skal på VIXEN Awards.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:12</itunes:duration>
       <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
-    </item>
-    <item>
-      <title>Vi har behov for hjelp i dag!</title>
-      <description><![CDATA[Jonas foreslår å mobbe barn, Arin er enig og Henning forteller om en Pokémon-pedo.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/965e3db0-bc80-473d-9e3d-b0bc80f73d4b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/965e3db0-bc80-473d-9e3d-b0bc80f73d4b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMpQ1SNJ3z9EUFX3frA9RwB3AAKnriAmaN0pSM_eaCPw.jpg"/>
     </item>
   </channel>
 </rss>

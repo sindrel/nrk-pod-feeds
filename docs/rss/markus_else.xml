@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Jan 2026 05:45:18 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:48:29 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Hvorfor har dere så store hoder?</title>
+      <description><![CDATA[En lytter lurer på om hodene til Markus og Else er redigert. Det er klart for spørsmål og svar!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/e25a5cf3-8115-4556-9a5c-f38115b556a3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/e25a5cf3-8115-4556-9a5c-f38115b556a3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:47</itunes:duration>
+      <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw.jpg"/>
+    </item>
     <item>
       <title>Hakk den jævla løken</title>
       <description><![CDATA[Markus har med kniv, skjærebrett og en løk til Else. Hun har ikke hakket løk de siste ti åra og trenger hjelp med matlagingen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>25:48</itunes:duration>
       <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/AzZ15Q-A8qB0pOotP8X3iAl2iSZEXZMm_D8-gV-Kfbpw.jpg"/>
-    </item>
-    <item>
-      <title>Folk på gata say the darnest things!</title>
-      <description><![CDATA[Else har blitt tatt for å være bestemor, Markus står i et kroppslig dilemma, og president Maduro har blitt en global moteinfluenser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/5b470b4d-a7aa-4eeb-870b-4da7aaaeeb96_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/markus_else/5b470b4d-a7aa-4eeb-870b-4da7aaaeeb96_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:05</itunes:duration>
-      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_2xaAXEb60FazUruY_IQqQh4dsVPns_C26Aoy21H11-w.jpg"/>
     </item>
   </channel>
 </rss>
