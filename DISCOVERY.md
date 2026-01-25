@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-25  
+- Podcast 'Monsens univers' is considered obsolete and will be ignored in the future (`monsens_univers`)  
 ### 2026-01-24  
 - Added podcast 'Krimrommet' (`krimrommet`)  
 ### 2026-01-23  
