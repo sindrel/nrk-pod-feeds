@@ -1,19 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Markus og Wolfgang snakker klassisk</title>
+    <title>De 3 siste fra Markus og Wolfgang snakker klassisk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Markus og Wolfgang snakker klassisk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Markus og Wolfgang snakker klassisk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 19 Jan 2026 05:48:46 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2026 05:48:33 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA.jpg"/>
     <item>
-      <title>Historiens første låt om rimming?</title>
+      <title>Hvorfor synger fotballfans klassisk musikk?</title>
+      <description><![CDATA[Fulle menn i baris synger den på fotballstadioner verden over, men er verdens største fyllesang egentlig klassisk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/d82477e3-6f76-49c8-a477-e36f76d9c81b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/d82477e3-6f76-49c8-a477-e36f76d9c81b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:35</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA.jpg"/>
+    </item>
+    <item>
+      <title>Er klassisk musikk mer verdig enn TIX?</title>
       <description><![CDATA[Tix skriver poplåter om å være hore, mens Bach skrev verk om følelsen etter en heftig natt med elskov, så er de egentlig så ulike?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/1f512fc2-d63b-4df1-912f-c2d63b7df17b_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/1f512fc2-d63b-4df1-912f-c2d63b7df17b_ID192MP3.mp3" length="0" type="audio/mpeg"/>

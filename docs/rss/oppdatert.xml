@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Jan 2026 07:38:57 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Jan 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2026 05:48:42 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Jan 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Musks chatbot: Dette er Grok-skandalen</title>
+      <description><![CDATA[Grok skulle være en «sannhets-app», men ble brukt til å lage seksualiserte bilder av barn og kjente mennesker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cac1cced-40f2-49b6-81cc-ed40f2f9b6da_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cac1cced-40f2-49b6-81cc-ed40f2f9b6da_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:50</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8DcMzrEnzF9-zb8SPQr3hQMDsH9okslsVB_dRoFZRIhw.jpg"/>
+    </item>
     <item>
       <title>Aviciis død: Derfor går manageren rettens vei</title>
       <description><![CDATA[I mange år har manageren til Avicii blitt beskyldt for å pushe den kjente artisten til bristepunktet. Åtte år senere får vi en annen historie.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>21:20</itunes:duration>
       <pubDate>Tue, 13 Jan 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/LxlxE668iSaNEug086GPpALPEfxfAC7FMa5QbfjVdIyw.jpg"/>
-    </item>
-    <item>
-      <title>Marerittet på olivenlunden: Tok familieparadiset</title>
-      <description><![CDATA[NRKs journalist var tilfeldigvis til stede da familien på Vestbredden brått mistet alt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/85387a75-c89b-4074-b87a-75c89b707417_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/85387a75-c89b-4074-b87a-75c89b707417_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:23</itunes:duration>
-      <pubDate>Mon, 12 Jan 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uGnLN1PaOaYS0Yg7FvYP1QbFuG44YqoRGSaKBCU8aMHg.jpg"/>
     </item>
   </channel>
 </rss>
