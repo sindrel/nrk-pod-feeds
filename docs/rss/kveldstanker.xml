@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Jan 2026 05:45:55 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 05:45:23 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Sorg - med Katrin Glatz Brubakk</title>
+      <description><![CDATA[Sørg ikke når barnet ditt flytter ut, sier psykolog Katrin Glatz Brubakk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/97592a8d-2667-450d-992a-8d2667750d7f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/97592a8d-2667-450d-992a-8d2667750d7f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:57</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kKZAT8OshKxP8R_MbokxIgL5n9y-QAWxueEvPQYBFBlg.jpg"/>
+    </item>
     <item>
       <title>Morfarboka - med Ann Helen Kolås Ingebrigtsen</title>
       <description><![CDATA[En bok og en morfar vil alltid henge sammen for forfatter Ann Helen Kolås Ingebrigtsen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:54</itunes:duration>
       <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2Y7Z9pqv5naoLjPQPHAGGwUa1D_FNIUKTewHdQl7Vh-A.jpg"/>
-    </item>
-    <item>
-      <title>Pust - med Miriam Våga</title>
-      <description><![CDATA[Pust, og ta ett kvarter om gangen i julestria, råder musiker og sanger Miriam Våga.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4014e1f2-1e28-4ec0-94e1-f21e281ec0d5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4014e1f2-1e28-4ec0-94e1-f21e281ec0d5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:51</itunes:duration>
-      <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
     </item>
   </channel>
 </rss>
