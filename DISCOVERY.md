@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-28  
+- Podcast 'Heia Fotball' is considered obsolete and will be ignored in the future (`heia_fotball`)  
 ### 2026-01-25  
 - Podcast 'Monsens univers' is considered obsolete and will be ignored in the future (`monsens_univers`)  
 ### 2026-01-24  
