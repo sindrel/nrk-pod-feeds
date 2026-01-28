@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 27 Jan 2026 05:45:23 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 05:45:51 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>To rom - med Miriam Våga</title>
+      <description><![CDATA[Sorgen og gleden kan gå hånd i hånd, forteller musiker Miriam Våga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/c40cf05d-a201-404a-8cf0-5da201204a46_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/c40cf05d-a201-404a-8cf0-5da201204a46_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:36</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
+    </item>
     <item>
       <title>Sorg - med Katrin Glatz Brubakk</title>
       <description><![CDATA[Sørg ikke når barnet ditt flytter ut, sier psykolog Katrin Glatz Brubakk.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:54</itunes:duration>
       <pubDate>Mon, 29 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
-    </item>
-    <item>
-      <title>Lys og larm - med Ola Bremnes</title>
-      <description><![CDATA[Jula vår er full av lys, og vel mye larm, sier musiker Ola Bremnes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9329504c-e0bb-4dc9-a950-4ce0bbedc964_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9329504c-e0bb-4dc9-a950-4ce0bbedc964_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:54</itunes:duration>
-      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2Y7Z9pqv5naoLjPQPHAGGwUa1D_FNIUKTewHdQl7Vh-A.jpg"/>
     </item>
   </channel>
 </rss>

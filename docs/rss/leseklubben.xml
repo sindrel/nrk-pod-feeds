@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Leseklubben</title>
+    <title>De 10 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Jan 2026 05:45:58 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Jan 2026 06:07:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 05:45:53 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 06:03:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
@@ -146,6 +146,40 @@ Leseklubben: Episode 6]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/c397d045-875b-4bb6-97d0-45875b1bb69c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:53</itunes:duration>
       <pubDate>Wed, 21 Jan 2026 06:07:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LaaHwa1QlB9sPd9JGmnvqwkQKzRj38X8rr7Ch52yO2hg.jpg"/>
+    </item>
+    <item>
+      <title>«Tjenerinnens beretning» (Kap. 17-18)</title>
+      <description><![CDATA[Lydboka er lest av Bodil Vidnes-Kopperud. Når du har hørt kapittel 17-29, kan du høre Leseklubben episode 4. Lydboka er tilgjengelig til 11. mars. Det kommer nye kapitler hver onsdag.
+
+Leseoppskrift: Slik deler vi inn «The Handmaid's Tale»:
+Leseklubben: Episode 1 → Les/hør kapittel 1-5
+Leseklubben: Episode 2 → Les/hør kapittel 6-16
+Leseklubben: Episode 3 → Les/hør kapittel 17-29
+Leseklubben: Episode 4 → Les/hør kapittel 30-40
+Leseklubben: Episode 5 → Les/hør og kapittel 41-46 og «Historiske merknader»/epilogen.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/edd570da-a7ec-4d24-9570-daa7ec0d24b3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/edd570da-a7ec-4d24-9570-daa7ec0d24b3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:33</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LaaHwa1QlB9sPd9JGmnvqwkQKzRj38X8rr7Ch52yO2hg.jpg"/>
+    </item>
+    <item>
+      <title>«Tjenerinnens beretning» (Kap. 19)</title>
+      <description><![CDATA[Lydboka er lest av Bodil Vidnes-Kopperud. Når du har hørt kapittel 17-29, kan du høre Leseklubben episode 4. Lydboka er tilgjengelig til 11. mars. Det kommer nye kapitler hver onsdag.
+
+Leseoppskrift: Slik deler vi inn «The Handmaid's Tale»:
+Leseklubben: Episode 1 → Les/hør kapittel 1-5
+Leseklubben: Episode 2 → Les/hør kapittel 6-16
+Leseklubben: Episode 3 → Les/hør kapittel 17-29
+Leseklubben: Episode 4 → Les/hør kapittel 30-40
+Leseklubben: Episode 5 → Les/hør og kapittel 41-46 og «Historiske merknader»/epilogen.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/c540de9b-c6cd-4ccb-80de-9bc6cd1ccb43_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/c540de9b-c6cd-4ccb-80de-9bc6cd1ccb43_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:19</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 06:03:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/LaaHwa1QlB9sPd9JGmnvqwkQKzRj38X8rr7Ch52yO2hg.jpg"/>
     </item>
   </channel>

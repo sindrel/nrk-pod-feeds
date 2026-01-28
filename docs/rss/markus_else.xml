@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 24 Jan 2026 06:48:29 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 05:45:57 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Slik forlater du en fest</title>
+      <description><![CDATA[Markus har løser et problem vi alle kan slite med]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/873acb87-1b81-415e-bacb-871b81d15e07_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/873acb87-1b81-415e-bacb-871b81d15e07_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:57</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    </item>
     <item>
       <title>Hvorfor har dere så store hoder?</title>
       <description><![CDATA[En lytter lurer på om hodene til Markus og Else er redigert. Det er klart for spørsmål og svar!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>15:48</itunes:duration>
       <pubDate>Sat, 10 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw.jpg"/>
-    </item>
-    <item>
-      <title>– Du lever!</title>
-      <description><![CDATA[Tommy var ikke død allikevel. Markus rygger unna Ole Gunnar Solskjær. Og i Sanger-på-bestilling får lytter-babyen en ny scat!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/66c8b28b-87ee-4f50-88b2-8b87eebf5029_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/markus_else/66c8b28b-87ee-4f50-88b2-8b87eebf5029_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:48</itunes:duration>
-      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AzZ15Q-A8qB0pOotP8X3iAl2iSZEXZMm_D8-gV-Kfbpw.jpg"/>
     </item>
   </channel>
 </rss>
