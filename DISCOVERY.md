@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-01-29  
+- Updated podcast 'Juorre' (`juorre`)  
 ### 2026-01-28  
 - Updated podcast 'Vittig' (`vittig`)  
 ### 2026-01-28  
