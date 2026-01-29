@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Jan 2026 18:53:42 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Jan 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 19:04:12 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ny strid om Melkøya</title>
+      <description><![CDATA[Equinor mener politikerne bryter loven.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/26ba5400-e375-4c82-ba54-00e375ac8211_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/26ba5400-e375-4c82-ba54-00e375ac8211_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Dkh36PRlam5ciANN2EJSOAP4PNRm37eU-lyryNIZsE9g.jpg"/>
+    </item>
     <item>
       <title>Ikke tilstede under Høiby-rettsak</title>
       <description><![CDATA[Kronprinsparet kommer ikke til å være til stede under rettssaken mot Marius Borg Høiby.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5zw8YFzW6ru9S4TdW5YIMgirOvkHDitdGdw433X2a1vw.jpg"/>
-    </item>
-    <item>
-      <title>Machado møter Trump</title>
-      <description><![CDATA[Donald Trump tar i dag imot fredsprisvinner Maria Corina Machado i Det hvite hus. Hva betyr det for Venezuelas fremtid?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/25aca40d-ce8d-4c33-aca4-0dce8d1c3374_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/25aca40d-ce8d-4c33-aca4-0dce8d1c3374_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:50</itunes:duration>
-      <pubDate>Thu, 15 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PiipIdsN9LoNM26doP7y6Qo14x_NlyXhNiVeeO2G9aIQ.jpg"/>
     </item>
   </channel>
 </rss>
