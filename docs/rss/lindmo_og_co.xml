@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Jan 2026 05:47:13 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 05:59:23 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    <item>
+      <title>Tørst i Talkeetna</title>
+      <description><![CDATA[Hva skjedde etter at kameraene ble slått av på "Ekspedisjonen"?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/9ac1ee6c-9ca9-448d-81ee-6c9ca9c48dab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/9ac1ee6c-9ca9-448d-81ee-6c9ca9c48dab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:30</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
     <item>
       <title>Anne vs Verden</title>
       <description><![CDATA[Universets krefter har rottet seg sammen mot Anne, Rune har operert seg selv og vi spør om det er lov å oppdra andres hunder?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>26:56</itunes:duration>
       <pubDate>Thu, 27 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
-    </item>
-    <item>
-      <title>Bonus: Retur for Rønnis</title>
-      <description><![CDATA[Harald Rønneberg forteller om turgleden og skuffelsen over å måtte forlate ekspedisjonen til Denali.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/2e9979bf-5ae7-4ae8-9979-bf5ae7fae83a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/2e9979bf-5ae7-4ae8-9979-bf5ae7fae83a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:42</itunes:duration>
-      <pubDate>Sat, 22 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
     </item>
   </channel>
 </rss>
