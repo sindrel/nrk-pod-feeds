@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Jan 2026 10:48:52 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 08:58:54 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Den gang når, hver gang da.</title>
+      <description><![CDATA[Kjole, sjole, han, ham, hun, henne, den gang da, hver gang når. Det er på tide med en liten norsktime!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8f7a764c-56eb-4ec7-ba76-4c56eb5ec739_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8f7a764c-56eb-4ec7-ba76-4c56eb5ec739_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rhBvhD5H7mU1jBMgYToB5AcqTpcnfDVFQ5DYCiuLAn1w.jpg"/>
+    </item>
     <item>
       <title>Hvitvasking med pannekaker</title>
       <description><![CDATA[Hva tar du på pannekaken din, og når kan du si at du er fra en by? Vi diskuterer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen!</title>
-      <description><![CDATA[Dette er det beste fra uka som gikk! Får vi Erik Solbakken og Marlene Stavrum til å le? Hva er det beste øyeblikket gjennom Paradise Hotel-historien? Velkommen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/748d1fd3-c66d-457a-8d1f-d3c66d757a23_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/748d1fd3-c66d-457a-8d1f-d3c66d757a23_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:06:28</itunes:duration>
-      <pubDate>Sat, 17 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>
 </rss>
