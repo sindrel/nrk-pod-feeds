@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Jan 2026 13:13:53 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Jan 2026 13:43:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 14:58:33 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 15:23:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Kim Hiorthøy</title>
+      <description><![CDATA[Kunstneren velger å ikke lytte til sin indre kritiker: – Jeg tror det er viktig å ikke tenke for mye på seg selv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b42d93b1-1f5b-4f54-ad93-b11f5bdf54b4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b42d93b1-1f5b-4f54-ad93-b11f5bdf54b4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:07</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 15:23:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2PKFSJ4Y8N3hTRcfopg8tQWJw9Hn0kbSsOlNUj6cSkXw.jpg"/>
+    </item>
     <item>
       <title>Vebjørn Selbekk</title>
       <description><![CDATA[– Jeg sluttet å telle da jeg kom opp i 50 dødstrusler, sier sjefsredaktøren om karikaturstriden i 2006.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:19</itunes:duration>
       <pubDate>Wed, 14 Jan 2026 13:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pFbmLq3Rzrx6Ys9_11x1hwNHS31_4Yq12Ri6K7FkCN1Q.jpg"/>
-    </item>
-    <item>
-      <title>Jon Øigarden</title>
-      <description><![CDATA[Stjerneskuespilleren kan gå fra 0 - 100 på ett sekund: – Jeg har et atomkraftverk inni meg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8ac345e9-5a05-4617-8345-e95a05161795_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8ac345e9-5a05-4617-8345-e95a05161795_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:10</itunes:duration>
-      <pubDate>Tue, 13 Jan 2026 13:13:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uMWmljDXrm1BRrdYy89Y0gC7stjIb7VNV8r3sGugW5Vw.jpg"/>
     </item>
   </channel>
 </rss>
