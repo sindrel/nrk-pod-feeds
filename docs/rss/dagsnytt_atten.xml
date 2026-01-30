@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Jan 2026 19:04:12 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Jan 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 19:02:24 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Premiere på dokumentarfilmen «Melania»</title>
+      <description><![CDATA[Dokumentarfilmen er den dyreste som er laget noensinne, og følger Melania Trump i dagene frem mot Donald Trumps innsettelse i fjor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2ae4216e-33c0-4e8e-a421-6e33c09e8ea9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2ae4216e-33c0-4e8e-a421-6e33c09e8ea9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IJhQPnSOw11g_W0PhvhHTQ_E-wRwLKrd5gWxMOmnKYlg.jpg"/>
+    </item>
     <item>
       <title>Ny strid om Melkøya</title>
       <description><![CDATA[Equinor mener politikerne bryter loven.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 19 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jtoVOEWMkYzmW-bN4du6QwfkrE73i_PtQYqYMyuH7UXw.jpg"/>
-    </item>
-    <item>
-      <title>Nobelinstitutt svarer på kritikken</title>
-      <description><![CDATA[Fredsprisvinner María Corina Machado ga medaljen sin til Donald Trump. Direktøren ved Nobelinstituttet svarer på kritikken etter fjorårets fredsprisutdeling.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/815c8b68-f637-473d-9c8b-68f637a73db0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/815c8b68-f637-473d-9c8b-68f637a73db0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 16 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5zw8YFzW6ru9S4TdW5YIMgirOvkHDitdGdw433X2a1vw.jpg"/>
     </item>
   </channel>
 </rss>
