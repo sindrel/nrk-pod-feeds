@@ -1,52 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 17 Jan 2026 05:35:40 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Jan 2026 06:02:00 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 11:43:20 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer: Bankraner Pedersen</title>
-      <description><![CDATA[Martin kjeder seg som lærerstudent. Så begynner han å rane banker. På 6 år slår han til mot 19 steder. Til slutt fyller han sedler i svømmebassenget hjemme.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/9d32e1cb-251a-4f17-b2e1-cb251a8f17c8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/9d32e1cb-251a-4f17-b2e1-cb251a8f17c8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29</itunes:duration>
-      <pubDate>Fri, 16 Jan 2026 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg.jpg"/>
-    </item>
-    <item>
-      <title>Martins metode (1:3)</title>
-      <description><![CDATA[Med løsskjegg og strømpe over hodet truer Martin vettskremte bankkunder og ansatte i Norgeshistoriens største ransbølge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/f90ec1c2-c661-4d3b-8ec1-c2c661cd3b4a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/f90ec1c2-c661-4d3b-8ec1-c2c661cd3b4a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:27</itunes:duration>
-      <pubDate>Sat, 17 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg.jpg"/>
-    </item>
-    <item>
-      <title>Dobbeltspill (2:3)</title>
-      <description><![CDATA[Alle tror Martin Pedersen er en suksessrik kunsthandler, men bak fasaden legger han en utspekulert plan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/c5f7dca4-8b2e-43c9-b7dc-a48b2ea3c999_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/c5f7dca4-8b2e-43c9-b7dc-a48b2ea3c999_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:48</itunes:duration>
-      <pubDate>Sat, 17 Jan 2026 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg.jpg"/>
-    </item>
-    <item>
-      <title>Millionkuppet (3:3)</title>
-      <description><![CDATA[Det store kuppet er kronen på Martins mesterverk. Men på rømmen – med bager fulle av tusenlapper, starter problemene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/d4520f39-ca8d-4f8b-920f-39ca8d3f8b26_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/d4520f39-ca8d-4f8b-920f-39ca8d3f8b26_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:35</itunes:duration>
-      <pubDate>Sat, 17 Jan 2026 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg.jpg"/>
+      <title>Kommer: Gruveulykken – Kings Bay</title>
+      <description><![CDATA[Flere hundre meter nede i en kullgruve på Svalbard skjer en enorm eksplosjon. 21 arbeidere blir borte i dypet. Regjeringen til Einar Gerhardsen får mye av skylda og må gå av i 1963.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/0cf0392b-0576-4245-b039-2b05761245d0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/0cf0392b-0576-4245-b039-2b05761245d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:30</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/t14qeql0YICzuIT6EpjMIga0vt9425c1kQwZd59ev05A.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Jan 2026 07:55:11 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Jan 2026 08:10:00 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 11:43:29 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Høyre og ytre høyre</title>
+      <description><![CDATA[Høyre i Norge, Moderaterna i Sverige og toryene i Storbritannia sliter i skyggeland. Skal de følge etter velgerne, som nå går mot ytre høyre?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4155e7b0-d19e-4d65-95e7-b0d19e4d6506_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4155e7b0-d19e-4d65-95e7-b0d19e4d6506_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k8Ihgds7lq-jpjB43xWMmQKqkx59Qw8wCnLdQWB0BvZw.jpg"/>
+    </item>
     <item>
       <title>Kvotekjøp i Zambia</title>
       <description><![CDATA[Regjeringen kjøper kvoter i Zambia for å nå norske klimamål.
@@ -96,15 +105,6 @@ Men hvem tjener på det?]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Mon, 19 Jan 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dUl2fx4Z8h0HuK5d2RwOEgPCeZtTMuGLSkL9_ifRrGtg.jpg"/>
-    </item>
-    <item>
-      <title>Make Svalbard greit igjen</title>
-      <description><![CDATA[Svalbard er i spel, meiner ekspert. Då er det neppe heldig at det er problem med forsyningane til øya.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/db788a13-ed48-4f9e-b88a-13ed481f9efb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/db788a13-ed48-4f9e-b88a-13ed481f9efb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Fri, 16 Jan 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OUxIfisRfs-NDXHV03dregr_4GEzjSnwDQuLYXEZlj8w.jpg"/>
     </item>
   </channel>
 </rss>
