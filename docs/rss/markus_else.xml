@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Jan 2026 06:01:35 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 31 Jan 2026 05:54:23 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Jan 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Hvilken bok skal Else gi ut?</title>
+      <description><![CDATA[Bli med på avstemningen om Else skal gi ut «Year of the cock» eller «RensElse» om Lilli Bendriss.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/763e5e08-cd9d-4f79-be5e-08cd9d1f7911_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/763e5e08-cd9d-4f79-be5e-08cd9d1f7911_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:39</itunes:duration>
+      <pubDate>Sat, 31 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw.jpg"/>
+    </item>
     <item>
       <title>Isbitkongen Kim Kolstad på besøk</title>
       <description><![CDATA[Kim Kolstad, aka Jens August fra Hotel Cæsar, overrasker Markus og Else. Med seg har han en kasse isbiter.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>22:30</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/AzZ15Q-A8qB0pOotP8X3iAl2iSZEXZMm_D8-gV-Kfbpw.jpg"/>
-    </item>
-    <item>
-      <title>Lapp i postkassa: Så deg naken</title>
-      <description><![CDATA[Else får naboklage og Kåre Magnus Berg tar turen innom for å klage på museer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/a8175288-7246-41b1-9752-88724641b17d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/markus_else/a8175288-7246-41b1-9752-88724641b17d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:43</itunes:duration>
-      <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_2xaAXEb60FazUruY_IQqQh4dsVPns_C26Aoy21H11-w.jpg"/>
     </item>
   </channel>
 </rss>
