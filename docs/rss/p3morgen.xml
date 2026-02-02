@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 31 Jan 2026 05:54:30 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Jan 2026 06:04:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 10:07:43 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Wallah, helt ferdig!</title>
+      <description><![CDATA[Jonas avslører at han på seg dongeribukser når han er syk, Henning holdt på å ta livet sitt i dag og Arin ler av det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/20dd24f2-bcb8-4d1a-9d24-f2bcb80d1ac1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/20dd24f2-bcb8-4d1a-9d24-f2bcb80d1ac1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:26</itunes:duration>
+      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Skapte kaos på Vixen-awards!</title>
       <description><![CDATA[Frekke spørsmål til kjendiser, «ORPS», og lydbok- vs. lesedebatt. Dette er høydepunkter fra «P3morgen» for uke 5.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:26</itunes:duration>
       <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Blackout med mor og far.</title>
-      <description><![CDATA[Jonas har med quiz, Arin leverer dårlig og Henning mimrer til sin første blackout.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1694599d-73ad-4f8d-9459-9d73ad0f8dd5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1694599d-73ad-4f8d-9459-9d73ad0f8dd5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
     </item>
   </channel>
 </rss>
