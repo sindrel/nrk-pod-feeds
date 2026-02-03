@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Feb 2026 23:44:33 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Feb 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 19:13:43 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Første dag i Høiby-rettssaken</title>
+      <description><![CDATA[Marius Borg Høiby nekter straffskyld for de mest alvorlige tiltalepunktene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/49c73e2c-de78-4dcb-873e-2cde784dcb9b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/49c73e2c-de78-4dcb-873e-2cde784dcb9b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_oFTbNIT0gBgWO7uDkoqPwpmIU1YWPaUIULFRaN06NvA.jpg"/>
+    </item>
     <item>
       <title>Kronprinsessen og Jagland i Epstein-dokumentene</title>
       <description><![CDATA[Økokrim vurderer etterforskning. Hvilke konsekvenser får kronprinsessens omfattende kontakt med overgriperen for kongefamilien?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:45</itunes:duration>
       <pubDate>Wed, 21 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MbH9RGNEzicab6lSV4bWnge5DP-8JtQsRdnmT68HDa7Q.jpg"/>
-    </item>
-    <item>
-      <title>Stoltenberg i Davos</title>
-      <description><![CDATA[Forholdet mellom Europa og Trump dominerer møtene]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/675ee073-ad3e-41e5-9ee0-73ad3e81e5d5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/675ee073-ad3e-41e5-9ee0-73ad3e81e5d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 20 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/441dgULOLS0LhsuiQywU7wVPF2tWMAOLmyCjh3EVm7Ow.jpg"/>
     </item>
   </channel>
 </rss>
