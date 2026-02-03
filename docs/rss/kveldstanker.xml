@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Jan 2026 05:45:51 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 06:06:22 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Den ukjente - med Noman Mubashir</title>
+      <description><![CDATA[Noen mennesker utsetter seg for fare for å hjelpe et ukjent menneske. Vi kan lære noe av dem, forteller forfatter Noman Mubashir.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/017466f2-cc29-439a-b466-f2cc29b39a0b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/017466f2-cc29-439a-b466-f2cc29b39a0b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:44</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pQAtnzPIT1XcIV7PMcvQhwwRoTx-fmuWWVjzcKiO9BNw.jpg"/>
+    </item>
     <item>
       <title>To rom - med Miriam Våga</title>
       <description><![CDATA[Sorgen og gleden kan gå hånd i hånd, forteller musiker Miriam Våga.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:29</itunes:duration>
       <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
-    </item>
-    <item>
-      <title>Julen uten - med Oda Gravdal Ulriksen</title>
-      <description><![CDATA[Om du har mistet noen du er glad i, kan en julekule veie et tonn, forteller Oda Gravdal Ulriksen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/dc6ac346-50df-4342-aac3-4650dfa3427f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/dc6ac346-50df-4342-aac3-4650dfa3427f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:54</itunes:duration>
-      <pubDate>Mon, 29 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
     </item>
   </channel>
 </rss>
