@@ -1,71 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Tyrann</title>
+    <title>De 1 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 10 Jan 2026 05:36:58 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Jan 2026 06:04:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 13:36:29 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Mao - kommer lørdag!</title>
-      <description><![CDATA[For å nå sine hårete mål godtok Kinas guddommelige diktator Mao Zedong at millioner døde.
+      <title>Trujillo - kommer lørdag!</title>
+      <description><![CDATA[Den dominikanske diktatoren Trujillos brutale regime kostet titusener av mennesker livet.
 Ny Tyrann på lørdag - i appen NRK Radio.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/5abf4ecb-7fc3-487a-bf4e-cb7fc3687a8b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/5abf4ecb-7fc3-487a-bf4e-cb7fc3687a8b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32</itunes:duration>
-      <pubDate>Wed, 07 Jan 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg"/>
-    </item>
-    <item>
-      <title>Mao (1:5)</title>
-      <description><![CDATA[Når det enorme Kina kollapser og kaos setter inn, griper den revolusjonære særingen Mao makta og en hensynsløs tyrann vokser fram.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/49e21f4e-5771-4153-a21f-4e5771615337_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/49e21f4e-5771-4153-a21f-4e5771615337_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:34</itunes:duration>
-      <pubDate>Sat, 10 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg"/>
-    </item>
-    <item>
-      <title>Mao (2:5)</title>
-      <description><![CDATA[Bare noen få overlever Den Lange Marsjen. Nå må Mao gjenoppbygge kommunistpartiet, vinne borgerkrigen og få orden på privatlivet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/4abfb346-5ec8-43ac-bfb3-465ec8a3ac38_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/4abfb346-5ec8-43ac-bfb3-465ec8a3ac38_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:10</itunes:duration>
-      <pubDate>Sat, 10 Jan 2026 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg"/>
-    </item>
-    <item>
-      <title>Mao (3:5)</title>
-      <description><![CDATA[Kina må bli en industriell stormakt. Dermed starter Mao reformer som dreper millioner av kinesere. Samt så å si samtlige spurver.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/886d1fa4-c56f-45a9-ad1f-a4c56fe5a98e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/886d1fa4-c56f-45a9-ad1f-a4c56fe5a98e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:13</itunes:duration>
-      <pubDate>Sat, 10 Jan 2026 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg"/>
-    </item>
-    <item>
-      <title>Mao (4:5)</title>
-      <description><![CDATA[Mao stoler ikke på noen lengre, så han restarter like godt hele kommunistbevegelsen med Den Store Proletariske Kulturrevolusjonen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/9acab3df-09a9-4747-8ab3-df09a9274787_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/9acab3df-09a9-4747-8ab3-df09a9274787_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:37</itunes:duration>
-      <pubDate>Sat, 10 Jan 2026 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg"/>
-    </item>
-    <item>
-      <title>Mao (5:5)</title>
-      <description><![CDATA[Mao mister tillit til sin lojale høyre hånd, Lin Biao. Men det rammer også formannen selv, for hva er vel livet verdt uten venner?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/53e9332d-fba6-41d7-a933-2dfba611d7f6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/53e9332d-fba6-41d7-a933-2dfba611d7f6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:10</itunes:duration>
-      <pubDate>Sat, 10 Jan 2026 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg"/>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/549d62fc-727f-49d2-9d62-fc727f39d2d6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/549d62fc-727f-49d2-9d62-fc727f39d2d6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:35</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg"/>
     </item>
   </channel>
 </rss>

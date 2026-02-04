@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Jan 2026 14:58:33 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Jan 2026 15:23:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 13:36:07 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 13:20:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Thorvald Steen</title>
+      <description><![CDATA[- Jeg er en seig jævel, sier forfatteren, som lever med en alvorlig muskelsykdom]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7da170f8-f689-4089-a170-f8f689d08922_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7da170f8-f689-4089-a170-f8f689d08922_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:06</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 13:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AwxwwK8Qi3U9si2HGuo6HAWFLU0Wo6kfwECOB7NEL_Rw.jpg"/>
+    </item>
     <item>
       <title>Kim Hiorthøy</title>
       <description><![CDATA[Kunstneren velger å ikke lytte til sin indre kritiker: – Jeg tror det er viktig å ikke tenke for mye på seg selv.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:13</itunes:duration>
       <pubDate>Thu, 15 Jan 2026 14:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/CIcMbudDalgm5b3Yh2Fnzw6Cuk4u0K6QPzXIlx-xwQZQ.jpg"/>
-    </item>
-    <item>
-      <title>Marthe Kilen</title>
-      <description><![CDATA[- Vi var fattige, forteller konditoren fra Bakemesterskapet om oppveksten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1ffdbef5-f282-46ff-bdbe-f5f282f6ff0c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1ffdbef5-f282-46ff-bdbe-f5f282f6ff0c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:19</itunes:duration>
-      <pubDate>Wed, 14 Jan 2026 13:35:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pFbmLq3Rzrx6Ys9_11x1hwNHS31_4Yq12Ri6K7FkCN1Q.jpg"/>
     </item>
   </channel>
 </rss>
