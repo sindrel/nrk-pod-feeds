@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Feb 2026 11:01:11 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 10:02:28 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Effrey Jeppstein og middagspølse.</title>
+      <description><![CDATA[Hva er middagspølse og hvem er Norges Kardashian-familie? I dag er vi litt enige og litt uenige.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cad1375c-7013-4921-9137-5c7013b92178_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cad1375c-7013-4921-9137-5c7013b92178_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:26</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
+    </item>
     <item>
       <title>Nei takk til drikkeleker!</title>
       <description><![CDATA[Jonas har havnet i en trafikklys-bingo, Henning deler erfaringer fra sin airfryer-bursdag og Arin har lekt Kirsten Giftekniv.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:05:27</itunes:duration>
       <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fJb0xfPe1m-ZeNjuST8AUgnyGvf0Alwjc-szu9estutw.jpg"/>
-    </item>
-    <item>
-      <title>Sodd-mafiaen kommer og tar deg</title>
-      <description><![CDATA[Henning skal lage snøhule, Jonas skal se på damekoret i Sarpsborg og Arin skal på VIXEN Awards.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8736a236-fd94-434f-b6a2-36fd94934fa1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8736a236-fd94-434f-b6a2-36fd94934fa1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
     </item>
   </channel>
 </rss>
