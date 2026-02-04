@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Feb 2026 06:06:18 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Feb 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 06:04:08 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Marius Borg Høibys forklaring</title>
+      <description><![CDATA[Etter planen skal Høiby forklare seg i tingretten dag. Men flere er usikker på om han klarer det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/74695e39-2a68-47fd-a95e-392a6817fdd7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/74695e39-2a68-47fd-a95e-392a6817fdd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:02</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kf5jkbs0T0pR_0jyNlum5gQRnx927Rv1GSvXrQ7F3_zw.jpg"/>
+    </item>
     <item>
       <title>Enormt medietrykk i Høiby-saken</title>
       <description><![CDATA[Og Epsteins norske forbindelser blir bedt om å legge alle korta på bordet.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:22</itunes:duration>
       <pubDate>Thu, 22 Jan 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qnUIig__xIPNch-yE1EYlA0MSBDzBntxgKWcGrWxDDyQ.jpg"/>
-    </item>
-    <item>
-      <title>Støre slår tilbake mot Trump</title>
-      <description><![CDATA[Og over 100.000 kvinner dropper en undersøkelse som kan redde liv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/4b13f819-3421-48c7-93f8-19342158c721_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/4b13f819-3421-48c7-93f8-19342158c721_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:20</itunes:duration>
-      <pubDate>Wed, 21 Jan 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/frWNtOqPHzc5FebTtLSqxAcjXmLToZXi0buJtaqoLmuw.jpg"/>
     </item>
   </channel>
 </rss>
