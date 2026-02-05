@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-02-05  
+- Updated podcast 'Strid – de norske borgerkrigene' (`strid`)  
 ### 2026-02-02  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-01-29  
