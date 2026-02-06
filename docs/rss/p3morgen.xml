@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Feb 2026 11:50:42 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 11:02:03 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>En hyllest til husmannskost.</title>
+      <description><![CDATA[Henning elsker flesk og duppe, Arin synes det høres litt ekkelt ut og Jonas trenger nye venner å drikke med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/756ef020-b788-4e51-aef0-20b7881e51fb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/756ef020-b788-4e51-aef0-20b7881e51fb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Jobbintervju på kongehuset.</title>
       <description><![CDATA[Jonas kan ikke leve uten melk, Arin tenker for mye på Epstein-filene og Henning konspirerer om en uheldig fis fra Trump.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Ostebriks er catfish!</title>
-      <description><![CDATA[Henning har vært på en klassisk hyttetur, Jonas har hatt en dramatisk bollekveld og Arin hater ostebriks.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cb21825b-c070-4d8e-a182-5bc0705d8ede_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cb21825b-c070-4d8e-a182-5bc0705d8ede_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
     </item>
   </channel>
 </rss>
