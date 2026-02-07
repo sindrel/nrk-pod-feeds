@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Tyrann</title>
+    <title>De 4 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 04 Feb 2026 13:36:29 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Feb 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2026 05:57:22 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2026 06:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -20,6 +20,40 @@ Ny Tyrann på lørdag - i appen NRK Radio.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/tyrann/549d62fc-727f-49d2-9d62-fc727f39d2d6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:35</itunes:duration>
       <pubDate>Wed, 04 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg"/>
+    </item>
+    <item>
+      <title>Trujillo (1:3)</title>
+      <description><![CDATA[Den blodtørstige tyrannen Rafael Trujillo kom fra usle kår og endte med å styre Den dominikanske republikk med drap og folkemord.
+
+Kilder
+Death of the Goat - Bermard Diederich 
+Trujillo: The life and times of a caribbean Dictator - Robert D. Crassweller 
+The dictator's seduction - Lauren Derby 
+Foundations of despotism - Richard Lee Turits 
+The dictator next door - Eric Paul Roorda]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/6bab1b71-ddf2-481f-ab1b-71ddf2c81fcc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/6bab1b71-ddf2-481f-ab1b-71ddf2c81fcc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:06</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg"/>
+    </item>
+    <item>
+      <title>Trujillo (2:3)</title>
+      <description><![CDATA[Når Trujillo blir lei av dårlige haitiske naboer, løser han det med et grusomt folkemord på alle de som ikke kan uttale "persille".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/92848756-ff05-4287-8487-56ff05e28797_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/92848756-ff05-4287-8487-56ff05e28797_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:30</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg"/>
+    </item>
+    <item>
+      <title>Trujillo (3:3)</title>
+      <description><![CDATA[Trujillo er blitt gammel og mer og mer skranten. Han babler hele tiden om at noen vil drepe ham. Og det kan han jo ha helt rett i.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/2e9ab28f-8702-415c-9ab2-8f8702315cfd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/2e9ab28f-8702-415c-9ab2-8f8702315cfd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:13</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg"/>
     </item>
   </channel>

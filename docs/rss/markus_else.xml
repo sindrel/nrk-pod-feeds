@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Feb 2026 06:08:19 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2026 05:57:09 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    <item>
+      <title>Kaste snøball er ikke lov</title>
+      <description><![CDATA[Else leser fra boken «Year of the Cock», mens Markus lager låt av Henrik Kristoffersen-sitat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/85c99c09-0f30-4cf8-899c-090f308cf84a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/85c99c09-0f30-4cf8-899c-090f308cf84a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:20</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
+    </item>
     <item>
       <title>Er Viktor Sotberg pensjonert?</title>
       <description><![CDATA[Markus har et komplisert kjendiskart, men en realitydeltaker mangler: Victor Sotberg. Stemmer det at han har pensjonert seg?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>19:16</itunes:duration>
       <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ.jpg"/>
-    </item>
-    <item>
-      <title>«Venner» fra tekst-TV</title>
-      <description><![CDATA[Else var 14 år da hun inviterte venner på besøk gjennom tekst-TV. De var mye eldre enn henne og fra Holmlia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/markus_else/eb4711e8-0cbb-47fa-8711-e80cbb47fadb_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/markus_else/eb4711e8-0cbb-47fa-8711-e80cbb47fadb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:05</itunes:duration>
-      <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_2xaAXEb60FazUruY_IQqQh4dsVPns_C26Aoy21H11-w.jpg"/>
     </item>
   </channel>
 </rss>
