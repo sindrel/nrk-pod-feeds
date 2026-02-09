@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Feb 2026 05:42:21 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 05:47:25 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Redningsmannen</title>
+      <description><![CDATA[Bjørn Carlsen har reddet liv fra helikopter i nesten 40 år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fiCGuegxB7zTxelDgVMb1w6h80lAVzXhmBlWbJ7Omakw.jpg"/>
+    </item>
     <item>
       <title>R.I.P. USA</title>
       <description><![CDATA[Har tiden kommet for å erklære det amerikanske liberale demokratiets død? Ja, mener statsviter og USA-ekspert Hilde Restad, som har skrevet boka "USA - en nekrolog?"]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
-    </item>
-    <item>
-      <title>Musikk spessial: Oasis</title>
-      <description><![CDATA[Kritiker Aksel Kielland og debattansvarlig Hans Petter Sjøli om Noel og Liams Oasis-comeback som helbreder et splittet Storbritannia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/f0c7a6fe-587f-4b31-87a6-fe587fab317e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/f0c7a6fe-587f-4b31-87a6-fe587fab317e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:09:07</itunes:duration>
-      <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7_HlJfzQbuBhcXJiaOBcWQIiSinxs4OGUGKxERQFqq5A.jpg"/>
     </item>
   </channel>
 </rss>
