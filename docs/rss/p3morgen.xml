@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Feb 2026 10:16:48 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 09:12:55 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Lær deg gjette-etikette!</title>
+      <description><![CDATA[Jonas har fått oss til å synge på italiensk, Henning lærer oss gjette-etikette og Arin elsker det!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b644f459-6247-4410-84f4-59624784106d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b644f459-6247-4410-84f4-59624784106d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
+    </item>
     <item>
       <title>En «gay» helg.</title>
       <description><![CDATA[Jonas har fått ny shotte-venn, Henning er allergisk mot det russiske språket og Arin forklarer konseptet «plankebiff».]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:29</itunes:duration>
       <pubDate>Fri, 30 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA.jpg"/>
-    </item>
-    <item>
-      <title>Den gang når, hver gang da.</title>
-      <description><![CDATA[Kjole, sjole, han, ham, hun, henne, den gang da, hver gang når. Det er på tide med en liten norsktime!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8f7a764c-56eb-4ec7-ba76-4c56eb5ec739_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8f7a764c-56eb-4ec7-ba76-4c56eb5ec739_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:31</itunes:duration>
-      <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rhBvhD5H7mU1jBMgYToB5AcqTpcnfDVFQ5DYCiuLAn1w.jpg"/>
     </item>
   </channel>
 </rss>
