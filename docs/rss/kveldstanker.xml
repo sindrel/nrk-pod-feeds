@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 04 Feb 2026 06:04:12 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 05:48:20 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Kallenavn - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[Det finnes én stor forskjell på svensker og nordmenn, forteller Claes Krogsgaard Ericsson. Kallenavnene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/45d8985f-7cf3-4727-9898-5f7cf3572709_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/45d8985f-7cf3-4727-9898-5f7cf3572709_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:19</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
+    </item>
     <item>
       <title>FOMO - med Oda Gravdal Ulriksen</title>
       <description><![CDATA[Det vakreste stedet for deg er ikke der alle andre er, men der du er, sier Oda Gravdal Ulriksen, student og samfunnsdebattant.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:32</itunes:duration>
       <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ga3K2LhZVpYGpSJG6h5USgzsuJxnjrpQbRD_m1mNZGxw.jpg"/>
-    </item>
-    <item>
-      <title>Nytt år - med Oda Gravdal Ulriksen</title>
-      <description><![CDATA[Hva er målene dine for 2026? Spør Oda Gravdal Ulriksen, student og samfunnsdebattant.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0e672b92-e891-4b16-a72b-92e891eb167a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0e672b92-e891-4b16-a72b-92e891eb167a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:48</itunes:duration>
-      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
     </item>
   </channel>
 </rss>
