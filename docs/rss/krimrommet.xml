@@ -1,19 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Krimrommet</title>
+    <title>De 7 siste fra Krimrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Feb 2026 21:01:11 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 20:55:54 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 18:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
     <item>
-      <title>Høiby: Tinder-møtet i Lofoten</title>
+      <title>Høiby:  Hardkjør fra statsadvokaten (6)</title>
+      <description><![CDATA[Statsadvokaten hadde et tydelig mål for dagen i retten: Bygge ned bildet av personen Marius Borg Høiby.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/ad15fb6f-70cb-4fe0-95fb-6f70cbffe075_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/ad15fb6f-70cb-4fe0-95fb-6f70cbffe075_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:25</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 18:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fK3C_15nZDHNvZ5XLGOQTQjkHg0yDEFxCMcvjaLHaiXA.jpg"/>
+    </item>
+    <item>
+      <title>Høiby: Tinder-møtet i Lofoten (5)</title>
       <description><![CDATA[Et privat notat og et rorbu-nachspiel ble tema da Marius Borg Høibys forsvarer spurte ut en fornærmet kvinne i retten i dag.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/ad49ddc1-bcf7-4d1b-89dd-c1bcf7cd1bba_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/ad49ddc1-bcf7-4d1b-89dd-c1bcf7cd1bba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
