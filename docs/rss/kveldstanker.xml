@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Feb 2026 05:48:20 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 05:45:58 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Frivillighet - med Jon Niklas Rønning</title>
+      <description><![CDATA[- Jeg er dypt imponert av frivillige i idretts- og fritidsaktiviteter for barn, forteller musiker Jon Niklas Rønning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/b69ac856-9489-4646-9ac8-569489a64656_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/b69ac856-9489-4646-9ac8-569489a64656_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:12</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
     <item>
       <title>Kallenavn - med Claes Krogsgaard Ericsson</title>
       <description><![CDATA[Det finnes én stor forskjell på svensker og nordmenn, forteller Claes Krogsgaard Ericsson. Kallenavnene.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:32</itunes:duration>
       <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kKZAT8OshKxP8R_MbokxIgL5n9y-QAWxueEvPQYBFBlg.jpg"/>
-    </item>
-    <item>
-      <title>Bokhylle - med Tom Roger Aadland</title>
-      <description><![CDATA[Å lage musikk er enkelt , seier musikar Tom Roger Aadland, men ikkje be han lage ei bokhylle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/7bc25eb5-cc4f-4235-825e-b5cc4fc2353f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/7bc25eb5-cc4f-4235-825e-b5cc4fc2353f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:32</itunes:duration>
-      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ga3K2LhZVpYGpSJG6h5USgzsuJxnjrpQbRD_m1mNZGxw.jpg"/>
     </item>
   </channel>
 </rss>
