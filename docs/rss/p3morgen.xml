@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Feb 2026 11:10:36 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 11:07:59 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>EU-kontroll hos legen.</title>
+      <description><![CDATA[Arin har vært hos en hipp tannlege, Jonas må på EU-kontroll hos fastlegen og Henning klarer ikke å lage trommevirvel-lyd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7d550ee7-9a69-4c0e-950e-e79a698c0eff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7d550ee7-9a69-4c0e-950e-e79a698c0eff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Drapstrussel i form av novelle</title>
       <description><![CDATA[Jonas forteller om sin opplevelse med drapstrusler, Henning skal gjøre sin debut på «Nytt på nytt» og Arin elsker OL!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:26</itunes:duration>
       <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Skapte kaos på Vixen-awards!</title>
-      <description><![CDATA[Frekke spørsmål til kjendiser, «ORPS», og lydbok- vs. lesedebatt. Dette er høydepunkter fra «P3morgen» for uke 5.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ea1f3f40-bbbf-4543-9f3f-40bbbf154328_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ea1f3f40-bbbf-4543-9f3f-40bbbf154328_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:30</itunes:duration>
-      <pubDate>Sat, 31 Jan 2026 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ugt3JZRO1IHEK32SRrMejgCPkdIaiGpEhKSCS7xJD_yw.jpg"/>
     </item>
   </channel>
 </rss>
