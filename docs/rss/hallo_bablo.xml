@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Hallo Bablo</title>
+    <title>De 10 siste fra Hallo Bablo</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Hallo Bablo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hallo_bablo for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hallo Bablo. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hallo_bablo for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Dec 2025 07:33:39 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Dec 2025 06:01:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 07:59:47 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    <item>
+      <title>Dustelek</title>
+      <description><![CDATA[Agate og Pia får med Even på leken. Det blir morsomt, dustete, og ganske skummelt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/7049ca5e-47bc-4c18-89ca-5e47bc7c18f2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/7049ca5e-47bc-4c18-89ca-5e47bc7c18f2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:39</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rwO_af79td1jM8xrh92z-wTF-XxT_7uvwsI0rQJt2L5Q.jpg"/>
+    </item>
+    <item>
+      <title>Hest er best</title>
+      <description><![CDATA[Alle barna vet at hester ikke kan være i Bablo, unntatt Lotte, hennes hest bruker Bablo som potte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/277ec688-f2eb-40e2-bec6-88f2eb30e2fb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/277ec688-f2eb-40e2-bec6-88f2eb30e2fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7UVO4Q-QFI60eJUHoOoYWgVdl90FoHsUU8WQcGknKK0w.jpg"/>
+    </item>
     <item>
       <title>Even Fiskebolle</title>
       <description><![CDATA[Agate og Yared prøver å få Even til å si fiskebolle. Even lover å spise hatten sin hvis de får det til.]]></description>
@@ -83,15 +101,6 @@
       <itunes:duration>12:08</itunes:duration>
       <pubDate>Fri, 20 Jun 2025 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uOq-XZ9DKdKuRL0R2DNSog7TSSXU-tq7Guae79CcmtWg.jpg"/>
-    </item>
-    <item>
-      <title>Oversvømmelse</title>
-      <description><![CDATA[Hvorfor fylles et basseng med vann midt i Bablo? Og er Even skylt ned i do? Tor og Agate jobber hardt for å unngå oversvømmelse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/f429e845-a805-4bce-b3a3-9a14b93df8e5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/f429e845-a805-4bce-b3a3-9a14b93df8e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:11</itunes:duration>
-      <pubDate>Fri, 20 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XwYPViUUjjdrkL9JEvkdvgcq3pBsGIMklbC6zZZgrkVw.jpg"/>
     </item>
   </channel>
 </rss>
