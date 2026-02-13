@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Feb 2026 11:07:59 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 10:02:24 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 10:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Kan vi få Henning på Nyhetsmorgen?</title>
+      <description><![CDATA[Når går morgenen over til formiddag, kan vi snike oss inn i Nyhetsmorgen og hvordan foregår en TV-innspilling?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5f6791ce-bc09-48bb-a791-cebc09d8bb46_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5f6791ce-bc09-48bb-a791-cebc09d8bb46_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:00</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 10:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g.jpg"/>
+    </item>
     <item>
       <title>EU-kontroll hos legen.</title>
       <description><![CDATA[Arin har vært hos en hipp tannlege, Jonas må på EU-kontroll hos fastlegen og Henning klarer ikke å lage trommevirvel-lyd.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Wallah, helt ferdig!</title>
-      <description><![CDATA[Jonas avslører at han på seg dongeribukser når han er syk, Henning holdt på å ta livet sitt i dag og Arin ler av det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/20dd24f2-bcb8-4d1a-9d24-f2bcb80d1ac1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/20dd24f2-bcb8-4d1a-9d24-f2bcb80d1ac1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:26</itunes:duration>
-      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
