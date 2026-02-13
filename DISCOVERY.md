@@ -1,5 +1,9 @@
 # Podcast Discovery Changelog  
 ### 2026-02-13  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Sportsdesken brenner' (`sportsdesken_brenner`)  
+- Updated podcast 'Utro, håp og kjærlighet' (`utro_haap_og_kjaerlighet`)  
+### 2026-02-13  
 - Added podcast 'Sportsdesken brenner' (`sportsdesken_brenner`)  
 - Added podcast 'Utro, håp og kjærlighet' (`utro_haap_og_kjaerlighet`)  
 ### 2026-02-05  
