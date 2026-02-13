@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Feb 2026 19:28:34 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Feb 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 19:09:14 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Europa diskuterer atomvåpen</title>
+      <description><![CDATA[Norge topper laget på sikkerhetskonferansen i München. Forholdet til USA sentralt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b618b87-01c4-4ae4-a18b-8701c40ae4d4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b618b87-01c4-4ae4-a18b-8701c40ae4d4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:48</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TVGK6ybamO6P1OxWsY-yHQwACfZSwOnwyp_ynIzLX3lQ.jpg"/>
+    </item>
     <item>
       <title>Thorbjørn Jagland siktet for grov korrupsjon</title>
       <description><![CDATA[Begge boligene og hytta til Jagland ransaket i dag. - Glad for at saken opplyses, sier den tidligere statsministeren.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:44</itunes:duration>
       <pubDate>Mon, 02 Feb 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oTX5wVsRQSGxABpTIv4gxgOcrkxzK9jFWBjS8Ypx6IEw.jpg"/>
-    </item>
-    <item>
-      <title>Premiere på dokumentarfilmen «Melania»</title>
-      <description><![CDATA[Dokumentarfilmen er den dyreste som er laget noensinne, og følger Melania Trump i dagene frem mot Donald Trumps innsettelse i fjor.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2ae4216e-33c0-4e8e-a421-6e33c09e8ea9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2ae4216e-33c0-4e8e-a421-6e33c09e8ea9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 30 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IJhQPnSOw11g_W0PhvhHTQ_E-wRwLKrd5gWxMOmnKYlg.jpg"/>
     </item>
   </channel>
 </rss>
