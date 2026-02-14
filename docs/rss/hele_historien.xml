@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Hele historien</title>
+    <title>De 3 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Feb 2026 13:36:29 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Feb 2026 13:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Feb 2026 05:59:26 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Feb 2026 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
@@ -19,6 +19,24 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/eb2a1613-a583-45a2-aa16-13a583b5a2de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:30</itunes:duration>
       <pubDate>Fri, 13 Feb 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n1buEwHyGibuquDBsA2a7gSEPTxK2GFiwNm5aZvw9OaA.jpg"/>
+    </item>
+    <item>
+      <title>Ulovlige inngrep (1:2)</title>
+      <description><![CDATA[Abortstriden øker i styrke utover 70-tallet. Norske kvinner kan ikke bestemme selv om de ønsker abort, og det utføres illegale inngrep.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/6c7cbf66-af52-4a94-bcbf-66af529a9409_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/6c7cbf66-af52-4a94-bcbf-66af529a9409_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:21</itunes:duration>
+      <pubDate>Sat, 14 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n1buEwHyGibuquDBsA2a7gSEPTxK2GFiwNm5aZvw9OaA.jpg"/>
+    </item>
+    <item>
+      <title>Én stemmes overvekt (2:2)</title>
+      <description><![CDATA[Over 600.000 nordmenn skriver under på et fortsatt nei til selvbestemt abort. Ingen vet hva politikerne lander på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/b6f78a77-d552-4680-b78a-77d552368013_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/b6f78a77-d552-4680-b78a-77d552368013_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:44</itunes:duration>
+      <pubDate>Sat, 14 Feb 2026 06:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/n1buEwHyGibuquDBsA2a7gSEPTxK2GFiwNm5aZvw9OaA.jpg"/>
     </item>
   </channel>
