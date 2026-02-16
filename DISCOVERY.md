@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-02-16  
+- Podcast 'The Kåss Furuseths' is considered obsolete and will be ignored in the future (`the_kaass_furuseths`)  
 ### 2026-02-13  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 - Updated podcast 'Sportsdesken brenner' (`sportsdesken_brenner`)  
