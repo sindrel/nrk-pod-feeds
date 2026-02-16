@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Feb 2026 05:47:17 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 05:45:28 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Sofie på besøk</title>
+      <description><![CDATA[Hvem av Franky og Mo er best til å be noen ut på date? Sofie fra Unormal er nådeløs.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/f6570c89-9510-4197-970c-899510b19772_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f6570c89-9510-4197-970c-899510b19772_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:39</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oiFwkhavmC0d0V-acOaF5wcyBS2iog0zjl07pWwQOdMA.jpg"/>
+    </item>
     <item>
       <title>Musti på besøk</title>
       <description><![CDATA[Musti deler en stor nyhet og forteller Franky og Mo om da hun fikk kjeft på Hver gang vi møtes.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>26:40</itunes:duration>
       <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
-    </item>
-    <item>
-      <title>Gucci Gaute på besøk</title>
-      <description><![CDATA[Gaute Berg Næss er gjest, og Franky og Mo er nysgjerrige på humoren hans. Hvem vinner vitsekonkurransen der Gaute er dommer?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/fc7c61cd-f5cb-4c2b-bc61-cdf5cb0c2b7e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/fc7c61cd-f5cb-4c2b-bc61-cdf5cb0c2b7e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:50</itunes:duration>
-      <pubDate>Mon, 08 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yuxXHK_vBBNf5nCrwIT5awdag8kxR2ZK7wJJgpR_VQ1Q.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Feb 2026 11:02:13 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 05:45:07 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Smartbind tracker hormonene dine</title>
+      <description><![CDATA[Forskere har lagd et bind som hjelper deg følge med. På Mars er det funnet bevis for regn. Og aha-følelsen i hjernen er nå lokalisert.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0fd83809-da07-48d6-9838-09da0748d692_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0fd83809-da07-48d6-9838-09da0748d692_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:16</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
     <item>
       <title>Ville du spist bær fra kirkegården?</title>
       <description><![CDATA[Eller blir det en slags raffinert kannibalisme?
@@ -99,16 +108,6 @@ Og om bare uker reiser vi til månen]]></description>
       <itunes:duration>29:23</itunes:duration>
       <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FR6-mXg-3N54tlBC7UHFiw4PJM10lxBKKtCoKgmbJyeg.jpg"/>
-    </item>
-    <item>
-      <title>Bør jeg helst drikke øl etter trening?</title>
-      <description><![CDATA[Hvor mye næring er det i en standard halvliter? 
-Send oss gjerne DINE spørsmål ved å trykke på snakkebobla øverst.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/8d680982-b2f3-4019-a809-82b2f3b019ea_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8d680982-b2f3-4019-a809-82b2f3b019ea_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:33</itunes:duration>
-      <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/h3nvEq4JcyOYkNY1bnE6lg-WRGTOLBNAjr7g3QUacZWg.jpg"/>
     </item>
   </channel>
 </rss>
