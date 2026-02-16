@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Feb 2026 13:49:45 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Feb 2026 13:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 13:39:23 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Janne Formoe</title>
+      <description><![CDATA[– Jeg tok ansvar for alle andres følelser, forteller skuespilleren om vanskelige ungdomsår.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e729112a-1047-4112-a911-2a10475112d0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e729112a-1047-4112-a911-2a10475112d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/me9psvvEjY8C5FjPOSEoSgQ0yNEFS7i1Ww0b6jnq_dFQ.jpg"/>
+    </item>
     <item>
       <title>Arve Tellefsen</title>
       <description><![CDATA[- Jeg har sluttet å spille i begravelser, det blir for nært, sier den snart 90 år gamle fiolinisten]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Mon, 26 Jan 2026 13:55:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HypJBW04ave4ZC4tj9emWAqsqljVVTtBlxkapgNZlOig.jpg"/>
-    </item>
-    <item>
-      <title>Siri Abrahamsen</title>
-      <description><![CDATA[– Det er en superkraft alle har, sier gründeren bak Gleding-universet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6a9d43a8-0877-45d1-9d43-a8087785d1fc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6a9d43a8-0877-45d1-9d43-a8087785d1fc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Thu, 22 Jan 2026 12:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SOwaQP816kPW5edm8v2kEwDigc4GSijf0uMjSssq4Zkw.jpg"/>
     </item>
   </channel>
 </rss>
