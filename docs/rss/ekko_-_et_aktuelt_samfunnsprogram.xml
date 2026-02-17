@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Feb 2026 13:39:25 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Feb 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2026 11:06:51 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Mediejakta på ungdommen</title>
+      <description><![CDATA[Hvis du er tjue, følger med i tiden og forventer effektivitet, da er du interessant for mediene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06ee4bbd-5c77-4b5b-ae4b-bd5c778b5baf_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06ee4bbd-5c77-4b5b-ae4b-bd5c778b5baf_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:22</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZjGsaVZF7PQB4RKH7tLnaQJztFFSjhhzKXC9fDftGs_A.jpg"/>
+    </item>
     <item>
       <title>For privat med ChatGPT?</title>
       <description><![CDATA[Vi deler private og intime opplysninger med KI.  Hva gjør det med oss å aldri bli motsagt, og hvor havner informasjonen?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>25:35</itunes:duration>
       <pubDate>Tue, 03 Feb 2026 10:15:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/KaS9q90c1OV0gOV-qbcfmQPOH0v4NGDPAnNqW4P42TXA.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: The Boss angriper</title>
-      <description><![CDATA[Når ICE-aksjonene ender i drap og Bruce Springsteen maner til kamp: Ser vi starten på en ny amerikansk borgerrettighetsbevegelse?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/59a7f7b2-e25f-4e4d-a7f7-b2e25f5e4da9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/59a7f7b2-e25f-4e4d-a7f7-b2e25f5e4da9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:51</itunes:duration>
-      <pubDate>Thu, 29 Jan 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iQvGufZb3gFkEsSQEJF32QyJAjgjwwPaXM6yk-hkqPuQ.jpg"/>
     </item>
   </channel>
 </rss>
