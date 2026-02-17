@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Feb 2026 11:54:53 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2026 11:55:08 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Det siste året har vært en løgn</title>
+      <description><![CDATA[Henning har slitt med å finne nattmat, Jonas har et unødvendig ketchup-hack og Arin sitt siste år har vært en løgn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/81103648-c37b-4fc7-9036-48c37bbfc723_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/81103648-c37b-4fc7-9036-48c37bbfc723_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:26</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Ikke ring politiet!</title>
       <description><![CDATA[Henning har vært på kinodate, Arin måtte forlate en kinosal og Jonas trenger mer mot!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:31</itunes:duration>
       <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Jobbintervju på kongehuset.</title>
-      <description><![CDATA[Jonas kan ikke leve uten melk, Arin tenker for mye på Epstein-filene og Henning konspirerer om en uheldig fis fra Trump.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/761a2f71-e701-46da-9a2f-71e701d6da6a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/761a2f71-e701-46da-9a2f-71e701d6da6a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:31</itunes:duration>
-      <pubDate>Thu, 05 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
