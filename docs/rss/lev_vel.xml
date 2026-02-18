@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Feb 2026 05:46:01 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Feb 2026 05:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 05:39:11 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Høytfungerende depresjon</title>
+      <description><![CDATA[Hva er egentlig fenomenet «høytfungerende depresjon» eller «smilende depresjon»? Psykolog Sondre Risholm Liverød forklarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/8570d011-ec78-4687-b0d0-11ec7886872a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/8570d011-ec78-4687-b0d0-11ec7886872a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:24</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>«Mor og datter»-forholdet</title>
       <description><![CDATA[Hvorfor kan forholdet mellom mor og datter være så anstrengt i voksen alder? Familieterapeut Dora Thorhallsdottir svarer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>38:56</itunes:duration>
       <pubDate>Mon, 29 Dec 2025 05:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
-    </item>
-    <item>
-      <title>Nyttårsforsett</title>
-      <description><![CDATA[Hvordan setter man seg gode nyttårsforsett og hvordan unngå å falle av? Vanecoach Andreas Lycke gir deg rådene du trenger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/01d65fb5-6107-44a3-965f-b5610714a305_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/01d65fb5-6107-44a3-965f-b5610714a305_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:24</itunes:duration>
-      <pubDate>Wed, 24 Dec 2025 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
 </rss>

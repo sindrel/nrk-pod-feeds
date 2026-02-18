@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Feb 2026 05:04:37 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 05:39:08 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Dating - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[- Kjærligheten kommer ikke med garanti, den kommer med risiko, forteller studenten Oda Gravdal Ulriksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/da9d6871-73c7-4145-9d68-7173c77145af_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/da9d6871-73c7-4145-9d68-7173c77145af_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:01</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
     <item>
       <title>Ordene - med Lia Ciobanu Andresen</title>
       <description><![CDATA[- Vær forsiktig med ordene dine, sier Lia Ciobanu Andresen. Som ung jente i Moldova lærte hun hva ord kan gjøre med deg.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:49</itunes:duration>
       <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
-    </item>
-    <item>
-      <title>Vinner - med Ola Bremnes</title>
-      <description><![CDATA[Å føle seg som en vinner kan folk flest klare fint, og det uten å toppe tabellen, hevder musiker Ola Bremnes.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/b1aafed3-c62f-4ca8-aafe-d3c62f4ca852_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/b1aafed3-c62f-4ca8-aafe-d3c62f4ca852_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:35</itunes:duration>
-      <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jNBfST29wJUvweNFnKVfhQrA1BuuchM9OLmkDzYPVaEg.jpg"/>
     </item>
   </channel>
 </rss>
