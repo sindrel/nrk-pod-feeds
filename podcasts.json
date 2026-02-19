@@ -804,7 +804,9 @@
         "id": "luois_luohti",
         "title": "De 10 siste fra Luođis luohtái",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "lyden_av_17_mai",
@@ -968,7 +970,7 @@
         "id": "musikkhistorier",
         "title": "De 10 siste fra Musikkhistorier",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "musikkrommet",

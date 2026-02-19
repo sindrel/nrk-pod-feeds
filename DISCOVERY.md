@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-02-19  
+- Podcast 'Luođis luohtái' is considered obsolete and will be ignored in the future (`luois_luohti`)  
+- Updated podcast 'Musikkhistorier' (`musikkhistorier`)  
 ### 2026-02-17  
 - Updated podcast 'Nødsamtaler' (`noedsamtaler`)  
 ### 2026-02-16  
