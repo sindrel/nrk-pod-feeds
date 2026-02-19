@@ -1,23 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Krimrommet</title>
+    <title>De 10 siste fra Krimrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Feb 2026 20:57:31 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 19:10:23 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 19:13:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Høiby: «Liker å filme» (9)</title>
+      <description><![CDATA[Marius Borg Høiby forklarte seg om mobilbilder, nach hos en reality-kjendis, og det siste tiltalepunktet om voldtekt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6da6aa9a-df20-4baa-a6aa-9adf202baab0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6da6aa9a-df20-4baa-a6aa-9adf202baab0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:23</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 19:13:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFiEQLAgUpGG-k7eNbvXHg6LJ1rPA2_eIRhTdmkhXzcA.jpg"/>
+    </item>
     <item>
       <title>Høiby: Sprit-taxi, drikkelek og tips til politiet (8)</title>
       <description><![CDATA[Retten fikk i dag høre en kvinne forklare seg om nach hos en reality-kjendis som endte med drikke fra sprit-taxi og en natt med Marius Borg Høiby.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/5832fe23-8988-47c8-b2fe-23898817c894_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/5832fe23-8988-47c8-b2fe-23898817c894_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:23</itunes:duration>
+      <itunes:duration>24:21</itunes:duration>
       <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/C8Dpu0iwaZnmxsED7xXvCwiGh22FxjRWATk2DsBeCr6g.jpg"/>
     </item>
