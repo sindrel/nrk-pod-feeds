@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Utro, håp og kjærlighet</title>
+    <title>De 5 siste fra Utro, håp og kjærlighet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Utro, håp og kjærlighet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Utro, håp og kjærlighet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Feb 2026 05:04:57 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 05:38:16 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Sval Rosenløw Eeg: Å bære på en hemmelighet</title>
+      <description><![CDATA[Sval Rosenløw Eeg forteller om hemmeligheten hun bar på i flere år og frykten for å bli avslørt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/629b5366-df09-4fc0-9b53-66df09dfc051_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/629b5366-df09-4fc0-9b53-66df09dfc051_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:04</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2M_WnPS7DUld8QbyAMGKzgrmVzk5XIOS0lu-L3BXEJOg.jpg"/>
+    </item>
     <item>
       <title>Leo Ajkic: Forhold, dating og facebook-poking</title>
       <description><![CDATA[Leo Ajkic letter på sløret, gir Selma sine beste datingtips og deler av egne kjærlighetserfaringer.]]></description>
