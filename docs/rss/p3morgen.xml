@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Feb 2026 10:05:57 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Feb 2026 10:58:24 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hva sa de første menneskene?</title>
+      <description><![CDATA[Henning har kanskje blodpropp, Jonas bekymrer seg og Arin gir faen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/747e216d-77ee-4d90-be21-6d77ee8d901c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/747e216d-77ee-4d90-be21-6d77ee8d901c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Fantorangen er ikke ekte.</title>
       <description><![CDATA[Vi tar en tur innom innboksen, deler hemmeligheter fra NRK og diskuterer dyre-år.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>En «gay» helg.</title>
-      <description><![CDATA[Jonas har fått ny shotte-venn, Henning er allergisk mot det russiske språket og Arin forklarer konseptet «plankebiff».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e5f614f7-ca7f-4eba-b614-f7ca7fdeba91_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e5f614f7-ca7f-4eba-b614-f7ca7fdeba91_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
