@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Feb 2026 19:10:13 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Feb 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Feb 2026 19:06:38 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Nora Haukland forklarte seg i Høiby-saken</title>
+      <description><![CDATA[Høibys tidligere samboer beskriver Høiby som sint og aggressiv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/43fc5161-758f-45f8-bc51-61758f05f820_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/43fc5161-758f-45f8-bc51-61758f05f820_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:08</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eWBcW6IQ6oDNAgCPMJPmYwGWCf_rI9kXXIofeGcSlCTA.jpg"/>
+    </item>
     <item>
       <title>Andrew Mountbatten-Windsor pågrepet</title>
       <description><![CDATA[Den tidligere prinsen er mistenkt for grov tjenesteforsømmelse.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 09 Feb 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/f-PF4yaIIU3HiDgycBGNBggcQayY6uOP2EpVs_2e302g.jpg"/>
-    </item>
-    <item>
-      <title>Kronprinsessen sier unnskyld</title>
-      <description><![CDATA[Hun er ikke klar for å forklare seg ennå, og jeg må ta vare på flokken, sier kronprinsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e0aa4ee-1029-4a9b-8aa4-ee1029ca9b6d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e0aa4ee-1029-4a9b-8aa4-ee1029ca9b6d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 06 Feb 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HFRidQ1MVsGx-cGUPltwXQd92TLM_ODGwECNbRtXrdLw.jpg"/>
     </item>
   </channel>
 </rss>
