@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Feb 2026 10:58:24 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Feb 2026 05:56:18 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen!</title>
+      <description><![CDATA[Arin mener det er nok 67 vitser fra OL kommentatorer, Henning går hardt ut mot robotstøvsugere, og vi får besøk av bestevennene Bård Ylvisåker og Gaute Berg Næss]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5ed6f3bc-3e45-41b1-96f3-bc3e45e1b15f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5ed6f3bc-3e45-41b1-96f3-bc3e45e1b15f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:40</itunes:duration>
+      <pubDate>Sat, 21 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tnjE6V2Mmop7PV7qgP2lLQr6HKmzpm2kpiVJLNeFzGBg.jpg"/>
+    </item>
     <item>
       <title>Hva sa de første menneskene?</title>
       <description><![CDATA[Henning har kanskje blodpropp, Jonas bekymrer seg og Arin gir faen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:31</itunes:duration>
       <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Lær deg gjette-etikette!</title>
-      <description><![CDATA[Jonas har fått oss til å synge på italiensk, Henning lærer oss gjette-etikette og Arin elsker det!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b644f459-6247-4410-84f4-59624784106d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b644f459-6247-4410-84f4-59624784106d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
     </item>
   </channel>
 </rss>
