@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 14 Feb 2026 13:55:18 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Feb 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Feb 2026 14:45:27 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Feb 2026 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Kongen har bursdag!</title>
+      <description><![CDATA[Kong Harald og 58 andre personer i Norge fyller 89 år idag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/a8a04194-28cb-43a7-a041-9428cbb3a75c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/a8a04194-28cb-43a7-a041-9428cbb3a75c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:33</itunes:duration>
+      <pubDate>Sat, 21 Feb 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ECexJ_RMjuZ_y8Tm24V3fQhVD6wvMew6arwfjlKxWQ9A.jpg"/>
+    </item>
     <item>
       <title>Nå er hun stjerna</title>
       <description><![CDATA[Ine Eriksen Søreide tar over som Høyres partileder, hvordan kommer hun til å styre skuta?]]></description>
@@ -93,15 +102,6 @@ Men mye tyder på at det gikk bra med ungdommen.]]></description>
       <itunes:duration>01:08:05</itunes:duration>
       <pubDate>Sat, 13 Dec 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HxKyBeTnrIR2unA2W7ZA3QHuRgxfGabn_xg6jdy6S9Vg.jpg"/>
-    </item>
-    <item>
-      <title>Sjørøver, barndomshelt, ridder</title>
-      <description><![CDATA[Terje Formoe gjester Ukeslutt for å prate om ridderutnevnelsen og Kaptein Sabeltann.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/7815a086-fde2-494e-95a0-86fde2594e1f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/7815a086-fde2-494e-95a0-86fde2594e1f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:06:54</itunes:duration>
-      <pubDate>Sat, 06 Dec 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yNr32ua18BXpR4qay36HVwFnLdz_4utq3_-dvd9bgeuw.jpg"/>
     </item>
   </channel>
 </rss>
