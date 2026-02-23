@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Feb 2026 05:45:28 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 05:44:10 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Ting som irriterer oss</title>
+      <description><![CDATA[Frankie og Mo tar for seg alt fra irriterende søstre til maktsyke lærere, og Mo overrasker med innsideinfo fra da han jobbet i kundeservice.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/e8127a8c-c075-42b9-927a-8cc075f2b98d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/e8127a8c-c075-42b9-927a-8cc075f2b98d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:10</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    </item>
     <item>
       <title>Sofie på besøk</title>
       <description><![CDATA[Hvem av Franky og Mo er best til å be noen ut på date? Sofie fra Unormal er nådeløs.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>31:45</itunes:duration>
       <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZUdnGpMMiLfY4HSwujzvbg0wG258Jc1a7l9lQLbO-XVw.jpg"/>
-    </item>
-    <item>
-      <title>Hva legger vi fra oss i 2025?</title>
-      <description><![CDATA[Franky og Mo diskuterer hva vi må legge fra oss i 2025, men hva tar de med seg inn i det nye året?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/f9603860-29b2-4c11-a038-6029b25c118c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f9603860-29b2-4c11-a038-6029b25c118c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:40</itunes:duration>
-      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
     </item>
   </channel>
 </rss>
