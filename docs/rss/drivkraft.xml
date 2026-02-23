@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Feb 2026 13:42:38 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Feb 2026 13:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 13:42:16 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 13:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Tete Lidbom</title>
+      <description><![CDATA[Når programlederen ser seg i speilet tenker han alltid: – Helsike, jeg ser bra ut!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/57888778-5404-4382-8887-78540423821f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/57888778-5404-4382-8887-78540423821f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RE_FFS-f9PO7iOYwsXHa9gVxcncqO_zJmLNzaPeRfjbw.jpg"/>
+    </item>
     <item>
       <title>Victor Lind</title>
       <description><![CDATA[- Vi hadde ikke mat, vi var sultne i flere dager, det er en følelse jeg aldri glemmer, forteller kunstneren om oppveksten]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:06</itunes:duration>
       <pubDate>Wed, 04 Feb 2026 13:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/AwxwwK8Qi3U9si2HGuo6HAWFLU0Wo6kfwECOB7NEL_Rw.jpg"/>
-    </item>
-    <item>
-      <title>Kim Hiorthøy</title>
-      <description><![CDATA[Kunstneren velger å ikke lytte til sin indre kritiker: – Jeg tror det er viktig å ikke tenke for mye på seg selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b42d93b1-1f5b-4f54-ad93-b11f5bdf54b4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b42d93b1-1f5b-4f54-ad93-b11f5bdf54b4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:07</itunes:duration>
-      <pubDate>Thu, 29 Jan 2026 15:23:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2PKFSJ4Y8N3hTRcfopg8tQWJw9Hn0kbSsOlNUj6cSkXw.jpg"/>
     </item>
   </channel>
 </rss>
