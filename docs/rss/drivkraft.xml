@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Feb 2026 13:42:16 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Feb 2026 13:45:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 13:43:59 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 13:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Mímir Kristjánsson</title>
+      <description><![CDATA[– Det hender jeg gråter når jeg leser mine egne bøker, forteller politikeren om sin livshistorie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/582fec28-cf48-4ae1-afec-28cf480ae129_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/582fec28-cf48-4ae1-afec-28cf480ae129_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KnsJxm6K0SnOsGlyJV1CIgKaqvU7uSUg0a9WeMov84TA.jpg"/>
+    </item>
     <item>
       <title>Tete Lidbom</title>
       <description><![CDATA[Når programlederen ser seg i speilet tenker han alltid: – Helsike, jeg ser bra ut!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Thu, 05 Feb 2026 14:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aQBiVzaMLo-maTXYJOX15QEBm8ygpxeJFHNWJqKIIUOQ.jpg"/>
-    </item>
-    <item>
-      <title>Thorvald Steen</title>
-      <description><![CDATA[- Jeg er en seig jævel, sier forfatteren, som lever med en alvorlig muskelsykdom]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7da170f8-f689-4089-a170-f8f689d08922_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7da170f8-f689-4089-a170-f8f689d08922_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:06</itunes:duration>
-      <pubDate>Wed, 04 Feb 2026 13:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AwxwwK8Qi3U9si2HGuo6HAWFLU0Wo6kfwECOB7NEL_Rw.jpg"/>
     </item>
   </channel>
 </rss>
