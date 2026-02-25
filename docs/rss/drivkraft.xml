@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Feb 2026 13:43:59 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Feb 2026 13:45:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Feb 2026 11:09:54 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Feb 2026 12:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Karianne Amlie</title>
+      <description><![CDATA[Kjendismegleren kjøpte drømmebolig og gikk på livskrise.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a2339272-9cc9-4db4-b392-729cc92db479_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a2339272-9cc9-4db4-b392-729cc92db479_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 12:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2s8cioT0u19tSOJSzxK3LwdrdvFFshDXoj9J6eNGWp4Q.jpg"/>
+    </item>
     <item>
       <title>Mímir Kristjánsson</title>
       <description><![CDATA[– Det hender jeg gråter når jeg leser mine egne bøker, forteller politikeren om sin livshistorie.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Mon, 09 Feb 2026 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vtEi8saueHjYNX4WNZJLMwEOReZ-MN4CGKr-dCK_-GPg.jpg"/>
-    </item>
-    <item>
-      <title>Tor-Evert Grøndal</title>
-      <description><![CDATA[– Herregud, tenkte jeg, jeg får jo ikke til dette livet, forteller gårdbrukeren fra «Der ingen skulle tru at nokon kunne bu».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f147b74a-b41b-47f8-87b7-4ab41b47f89c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f147b74a-b41b-47f8-87b7-4ab41b47f89c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Thu, 05 Feb 2026 14:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aQBiVzaMLo-maTXYJOX15QEBm8ygpxeJFHNWJqKIIUOQ.jpg"/>
     </item>
   </channel>
 </rss>
