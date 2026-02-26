@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-02-26  
+- Updated podcast 'Misforstå meg rett' (`misforstaa_meg_rett`)  
 ### 2026-02-20  
 - Updated podcast 'Åpen bok' (`bok_i_p2`)  
 ### 2026-02-20  
