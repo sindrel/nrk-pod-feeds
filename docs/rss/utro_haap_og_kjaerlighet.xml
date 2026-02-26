@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Utro, håp og kjærlighet</title>
+    <title>De 8 siste fra Utro, håp og kjærlighet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Utro, håp og kjærlighet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Utro, håp og kjærlighet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Feb 2026 05:04:14 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 05:02:57 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Isabelle Eriksen: Elsker livet som singel</title>
+      <description><![CDATA[Isabelle Eriksen forteller om singellivet, mannen hun dater, «Mr. Grey», og redselen for at noen skal ødelegge tilværelsen hun elsker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8826d394-e93c-444b-a6d3-94e93ca44b48_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8826d394-e93c-444b-a6d3-94e93ca44b48_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:11</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wSGYr-c_JKClehliRT9gegDvCbofegb5AusLFgwRvZpw.jpg"/>
+    </item>
     <item>
       <title>Kasper Kvello: Å finne den rette som 20-åring</title>
       <description><![CDATA[Kasper Kvello forteller om frieri, et tårevått bryllup og hvordan hans egne utfordringer påvirket parforholdet.]]></description>
