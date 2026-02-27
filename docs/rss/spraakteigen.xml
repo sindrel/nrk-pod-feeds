@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Feb 2026 06:09:01 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 06:07:10 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    <item>
+      <title>Lumske uhumskheter</title>
+      <description><![CDATA[Uhumskheter eller ulumskheter? Er det tydelig skille mellom vokaler og konsonanter? Hvordan klarer vi egentlig å snakke uplanlagt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/984781c9-d3b4-41f7-8781-c9d3b4d1f7b6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/984781c9-d3b4-41f7-8781-c9d3b4d1f7b6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
+    </item>
     <item>
       <title>Vi fordøyer kødd</title>
       <description><![CDATA[Om kødd er et skjellsord avhenger av konteksten. Pleier eller bruker, rørt eller berørt, hva er likt og ulikt med disse ordparene?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:38</itunes:duration>
       <pubDate>Fri, 26 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>Lutfattig jernbaneskinke</title>
-      <description><![CDATA[Hva er jernbaneskinke? Buksene kan være både en- og flertall, det er flere typer lut, og kjønn er både enkel og dobbelkonsonant.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/2ffd11a8-8cdb-484a-bd11-a88cdb384ac0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/2ffd11a8-8cdb-484a-bd11-a88cdb384ac0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:29</itunes:duration>
-      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egg9otF-xq2gL1JlPjGwqVHg.jpg"/>
     </item>
   </channel>
 </rss>
