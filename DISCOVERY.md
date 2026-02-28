@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-02-28  
+- Updated podcast 'Eventyrerne: Jakten på spektralsteinene' (`eventyrerne`)  
+### 2026-02-28  
 - Updated podcast 'Åpen bok' (`bok_i_p2`)  
 ### 2026-02-26  
 - Updated podcast 'Misforstå meg rett' (`misforstaa_meg_rett`)  
