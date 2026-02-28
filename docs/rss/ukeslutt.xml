@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Feb 2026 14:45:27 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Feb 2026 15:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 13:48:18 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Hva ville Erik Bye sagt?</title>
+      <description><![CDATA[Erik Bye ville fylt 100 år i morgen. 
+Våre gjester mener vi kunne trengt han nå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/b11aed9a-9a09-4bfa-9aed-9a9a090bfaa7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/b11aed9a-9a09-4bfa-9aed-9a9a090bfaa7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:09</itunes:duration>
+      <pubDate>Sat, 28 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BHn-nh-AIR7MyVxerLKj4Q6mk0YzBlm_NXZRmFiPK9aw.jpg"/>
+    </item>
     <item>
       <title>Kongen har bursdag!</title>
       <description><![CDATA[Kong Harald og 58 andre personer i Norge fyller 89 år idag.]]></description>
@@ -92,16 +102,6 @@
       <itunes:duration>01:02:48</itunes:duration>
       <pubDate>Sat, 20 Dec 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mRGiaZeHtKLRmmYRGvXB3AXUWmPhp7LKqyQLm3oDaBcA.jpg"/>
-    </item>
-    <item>
-      <title>Alt ble bra!</title>
-      <description><![CDATA[Mange frykta koronapandemien ville gi en tapt generasjon. 
-Men mye tyder på at det gikk bra med ungdommen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/2b3c1e72-7046-4537-bc1e-72704665376e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/2b3c1e72-7046-4537-bc1e-72704665376e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:08:05</itunes:duration>
-      <pubDate>Sat, 13 Dec 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HxKyBeTnrIR2unA2W7ZA3QHuRgxfGabn_xg6jdy6S9Vg.jpg"/>
     </item>
   </channel>
 </rss>
