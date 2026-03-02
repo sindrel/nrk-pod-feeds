@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Feb 2026 05:49:52 +0000</lastBuildDate>
-    <pubDate>Sat, 28 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 10:06:38 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Nyheter servert som sladder.</title>
+      <description><![CDATA[Arin ønsker seg at nyhetene sendes i form av sladder, Henning et nytt realitykonsept og Jonas forklarer MGP.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/dc0f25af-669b-4cf0-8f25-af669becf022_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/dc0f25af-669b-4cf0-8f25-af669becf022_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
+    </item>
     <item>
       <title>Det beste fra P3morgen!</title>
       <description><![CDATA[Hva smaker Marcus og Martinus? Elsker Ida-Lova Norge? Hvorfor hater Kasper Kvello ost på taco? Velkommen til oss!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Alt ble sendt til Iran.</title>
-      <description><![CDATA[Jonas har fått en ny hobby, men Arin og Henning er litt usikre på om de støtter det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/57b57cd2-3190-4e79-b57c-d23190de794e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/57b57cd2-3190-4e79-b57c-d23190de794e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>
