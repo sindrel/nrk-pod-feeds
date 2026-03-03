@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Feb 2026 05:38:57 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:04:24 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Berlinmuren - med Lena Lindahl</title>
+      <description><![CDATA[En østtysk brevvenn lærte forfatter Lena Lindahl at vi nordmenn ikke bør ta friheten vår for gitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9db48a13-44c0-464d-b48a-1344c0b64dda_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9db48a13-44c0-464d-b48a-1344c0b64dda_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:36</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
+    </item>
     <item>
       <title>Frokosthusa - med Gunn Marit Nisja</title>
       <description><![CDATA[Kos, varme og omsorg smitter mer enn du tror, hevder forfatter Gunn Marit Nisja. Til og med gjennom et vindu.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:36</itunes:duration>
       <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
-    </item>
-    <item>
-      <title>Sorg - med Katrin Glatz Brubakk</title>
-      <description><![CDATA[Sørg ikke når barnet ditt flytter ut, sier psykolog Katrin Glatz Brubakk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/97592a8d-2667-450d-992a-8d2667750d7f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/97592a8d-2667-450d-992a-8d2667750d7f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:57</itunes:duration>
-      <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kKZAT8OshKxP8R_MbokxIgL5n9y-QAWxueEvPQYBFBlg.jpg"/>
     </item>
   </channel>
 </rss>
