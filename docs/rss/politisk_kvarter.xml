@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Mar 2026 07:16:10 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Mar 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 07:10:51 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Krig og norsk olje</title>
+      <description><![CDATA[Det meste av oljeproduksjonen i verden skjer i udemokratiske land og i urolige regioner.
+Vil det gjøre norsk olje attraktiv? Eller vil verden snu ryggen til fossil energi?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ea0e82b1-f3ce-40fb-8e82-b1f3ced0fb05_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ea0e82b1-f3ce-40fb-8e82-b1f3ced0fb05_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReqKwgqUA6d_ebd1nfKHjg3ELzKctCMNqkAR8wGiAPJg.jpg"/>
+    </item>
     <item>
       <title>Blir det bedre i Iran nå?</title>
       <description><![CDATA[En ny vår, et nytt prestestyre eller kaos og storkrig? Statsministeren og to norskiranere om krigen i Midtøsten.]]></description>
@@ -95,16 +105,6 @@ Men er det mogleg?]]></description>
       <itunes:duration>15:12</itunes:duration>
       <pubDate>Wed, 18 Feb 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Jtg9XwnnHm7AzaZcsmzzJQIrAxSL-gyQiUOErYWFQZ1w.jpg"/>
-    </item>
-    <item>
-      <title>Klarer vi oss uten Google og Microsoft?</title>
-      <description><![CDATA[SV vil kaste ut amerikanske tech-giganter og lage en egen skyløsning for norske data. 
-Men er det allerede for sent?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e5471fc9-0bc6-42f6-871f-c90bc6f2f615_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e5471fc9-0bc6-42f6-871f-c90bc6f2f615_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:11</itunes:duration>
-      <pubDate>Tue, 17 Feb 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_Z6LQtPVjgl3_NbSuXWoAAi3mWUuT22mY_1ZtYE8T_sg.jpg"/>
     </item>
   </channel>
 </rss>
