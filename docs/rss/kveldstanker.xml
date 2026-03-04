@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Mar 2026 06:04:24 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 05:59:38 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Uerstattelig - med Gunn Marit Nisja</title>
+      <description><![CDATA[Møter mellom mennesker kan vi ikke erstatte med tekniske løsninger,  tror forfatter Gunn Marit Nisja]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1cc58073-7c39-42b2-8580-737c39b2b2ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1cc58073-7c39-42b2-8580-737c39b2b2ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:28</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
+    </item>
     <item>
       <title>Berlinmuren - med Lena Lindahl</title>
       <description><![CDATA[En østtysk brevvenn lærte forfatter Lena Lindahl at vi nordmenn ikke bør ta friheten vår for gitt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:44</itunes:duration>
       <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pQAtnzPIT1XcIV7PMcvQhwwRoTx-fmuWWVjzcKiO9BNw.jpg"/>
-    </item>
-    <item>
-      <title>To rom - med Miriam Våga</title>
-      <description><![CDATA[Sorgen og gleden kan gå hånd i hånd, forteller musiker Miriam Våga.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/c40cf05d-a201-404a-8cf0-5da201204a46_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/c40cf05d-a201-404a-8cf0-5da201204a46_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:36</itunes:duration>
-      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
     </item>
   </channel>
 </rss>
