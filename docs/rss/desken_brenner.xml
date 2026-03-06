@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 27 Feb 2026 06:06:49 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2026 05:59:44 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>En morsom episode om noe kjipt (Iran)</title>
+      <description><![CDATA[Tara er tilbake. Det er krig i midtøsten. En uksyldig mann er siktet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/d442d297-8e0b-4751-82d2-978e0be75153_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/d442d297-8e0b-4751-82d2-978e0be75153_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:58</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Hesten brenner</title>
       <description><![CDATA[Det er ildhestens år – men hva betyr det for selvopptatte, svenske influensere? Og hvordan skal det gå i Vesterålen nå som "hvem som helst" kan bli politi?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>26:17</itunes:duration>
       <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HKRcDkKIYu0QEEqUlCofFAzgUaQs-iceXa5B4C0wpi8w.jpg"/>
-    </item>
-    <item>
-      <title>Statlig organ møter kjønnsorgan</title>
-      <description><![CDATA[Råd om møter med kjønnsmangfold skaper motstand. Hvem har skylda for at solcelle-bransjen sliter? Kun den beste HPV-vaksinen or god nok for våre barn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/9648675f-cbf8-43b8-8867-5fcbf8f3b805_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/9648675f-cbf8-43b8-8867-5fcbf8f3b805_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:45</itunes:duration>
-      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>
 </rss>
