@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-03-06  
+- Added podcast 'Blåtur' (`blaatur`)  
 ### 2026-03-03  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 ### 2026-02-28  
