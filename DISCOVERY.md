@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-03-07  
+- Updated podcast 'Åpen bok' (`bok_i_p2`)  
 ### 2026-03-06  
 - Added podcast 'Blåtur' (`blaatur`)  
 ### 2026-03-03  
