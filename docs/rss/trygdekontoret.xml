@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Mar 2026 06:07:02 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 05:04:47 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Harald Hardråde</title>
+      <description><![CDATA[Hvem var Norges siste vikingkonge? Historiker Tore Skeie har skrevet om Harald Hardrådes brutale liv, fra slaget på Stiklestad til forsøket på å erobre England.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/9f853972-657d-4fb5-8539-72657dcfb51c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9f853972-657d-4fb5-8539-72657dcfb51c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_vXEx6OAKofIpER3bM_ZbQT5Nyi2_3rxSFNP_6ZXdMdQ.jpg"/>
+    </item>
     <item>
       <title>Frontkjempere</title>
       <description><![CDATA[Hva fikk unge nordmenn til å verve seg i Waffen-SS og kjempe på nazistenes side? Forfatter Torgrim Eggen har dykket ned i sin egen families mørke fortid.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g.jpg"/>
-    </item>
-    <item>
-      <title>Norsk mat</title>
-      <description><![CDATA[Kokk og forfatter Andreas Viestad har dykket ned i norsk mathistorie fra rakfisk til Grandiosa.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/de84e632-a00b-46e7-84e6-32a00ba6e759_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/de84e632-a00b-46e7-84e6-32a00ba6e759_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:20</itunes:duration>
-      <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CTN7nUQVZnpgHsNZveRF1AhqQIh8O9vgRne02IOyBKsg.jpg"/>
     </item>
   </channel>
 </rss>
