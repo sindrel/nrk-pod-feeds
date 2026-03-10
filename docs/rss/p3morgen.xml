@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Mar 2026 10:07:40 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 10:01:00 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Historien tok en mørk vending.</title>
+      <description><![CDATA[Vi snakker om språk, luring av folk og freestyle rap]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b44aff26-b59a-4902-8aff-26b59a490248_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b44aff26-b59a-4902-8aff-26b59a490248_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MqSnHpWfxJ4KYJKwEeX8PAUBf4szQH36Xhozo6djsreg.jpg"/>
+    </item>
     <item>
       <title>Festen i sykeværelset.</title>
       <description><![CDATA[Arin har vært på fest hos Edvart Munch og Henning har sett på boksekamp!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
-    </item>
-    <item>
-      <title>Brodder er for pensjonister</title>
-      <description><![CDATA[Jonas er lei av vinteren, Henning deler en drøm og Arin vurderer et karrierebytte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cba2e2e2-1a6c-4cc1-a2e2-e21a6c4cc139_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cba2e2e2-1a6c-4cc1-a2e2-e21a6c4cc139_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Thu, 26 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
     </item>
   </channel>
 </rss>
