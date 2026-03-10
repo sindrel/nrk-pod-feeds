@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-03-10  
+- Updated podcast 'Juorre' (`juorre`)  
 ### 2026-03-09  
 - Updated podcast 'Markus & Else' (`markus_else`)  
 ### 2026-03-07  
