@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Mar 2026 13:39:51 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Mar 2026 13:36:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 15:10:27 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 15:25:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Sara Khorami</title>
+      <description><![CDATA[– Det er en frykt, men også en feiring, sier skuespilleren om krigen i Iran.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5448327b-53a7-4f14-8832-7b53a75f1441_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5448327b-53a7-4f14-8832-7b53a75f1441_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 15:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/przBJCYYi-jtkxsoeJ4f3gmVOfKb3SBf18FAm2faGVkQ.jpg"/>
+    </item>
     <item>
       <title>Gunnar Stavrum</title>
       <description><![CDATA[– Redaktørjobben er verdens nest mest spennende, sier Dagbladets påtroppende sjef.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Mon, 16 Feb 2026 13:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/me9psvvEjY8C5FjPOSEoSgQ0yNEFS7i1Ww0b6jnq_dFQ.jpg"/>
-    </item>
-    <item>
-      <title>Arve Tellefsen</title>
-      <description><![CDATA[- Jeg har sluttet å spille i begravelser, det blir for nært, sier den snart 90 år gamle fiolinisten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3b9bf754-21fa-4baa-9bf7-5421fa6baa7d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3b9bf754-21fa-4baa-9bf7-5421fa6baa7d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:38</itunes:duration>
-      <pubDate>Wed, 11 Feb 2026 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o_9Uifx_bHKEHTWeqSSwUwju2xrWHjcYbkFlDBPrmzjw.jpg"/>
     </item>
   </channel>
 </rss>
