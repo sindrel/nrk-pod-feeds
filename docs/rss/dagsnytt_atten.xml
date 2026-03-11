@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Mar 2026 19:09:05 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Mar 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 19:10:38 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Krever kutt i avgifter</title>
+      <description><![CDATA[Prisen på diesel og bensin øker. NAF krever avgiftskutt dersom prisene biter seg fast.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/50403115-c0dd-4216-8031-15c0dd321626_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/50403115-c0dd-4216-8031-15c0dd321626_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:47</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wmE_21fIitd2feR2qRvv7QhoDZGpAm0oKkaa-UYEAa6A.jpg"/>
+    </item>
     <item>
       <title>Varsler intense angrep</title>
       <description><![CDATA[Tvetydige signaler fra USA om hvor lenge krigen i Iran skal vare. Forsvarsminister Pete Hegseth varsler intense angrep.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:57</itunes:duration>
       <pubDate>Thu, 26 Feb 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/UMKpUfwa0aaDTB4fGrKVIAknqFDTjLKDL0tNMtd6RHWQ.jpg"/>
-    </item>
-    <item>
-      <title>Kongen fortsatt på sykehus</title>
-      <description><![CDATA[Kongens livlege opplyser at kongens allmenntilstand er god, han responderer godt på behandlingen på sykehuset på Tenerife.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/efd87175-dd3e-4826-9871-75dd3e982626_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/efd87175-dd3e-4826-9871-75dd3e982626_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MWtuZBhPomOOq2finEjFagaH0ley0e70TmzE0Q-Y6fXw.jpg"/>
     </item>
   </channel>
 </rss>
