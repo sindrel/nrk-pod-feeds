@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Mar 2026 06:03:32 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 06:06:28 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    <item>
+      <title>Sønn 2</title>
+      <description><![CDATA[Rune har reist til New York og vi har hentet inn superreserve Ola Lindmo!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/c02a5500-446c-4560-aa55-00446cd560c2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/c02a5500-446c-4560-aa55-00446cd560c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:08</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
     <item>
       <title>Winner Tip</title>
       <description><![CDATA[Er rulling av røyk et verneverdig håndverk? Hva er reglene for hilsing på tur? Og trenger man hår for å ha sveis? Vi svarer i ukens episode!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>23:53</itunes:duration>
       <pubDate>Thu, 18 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
-    </item>
-    <item>
-      <title>Bonus: Annes dagbok</title>
-      <description><![CDATA[Anne tar med dagboka si og vi evaluerer innsatsen etter siste episode av Ekspedisjonen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ff060d17-b451-4d62-860d-17b4514d626a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ff060d17-b451-4d62-860d-17b4514d626a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:35</itunes:duration>
-      <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
     </item>
   </channel>
 </rss>
