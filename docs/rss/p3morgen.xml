@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Mar 2026 11:47:48 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:00:52 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Skatt, revy og monsterkveite.</title>
+      <description><![CDATA[Jonas og Arin har fått skattemeldingen og Henning elsker «Jakten på monsterkveita».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/252ca525-5cf4-45a8-aca5-255cf4f5a866_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/252ca525-5cf4-45a8-aca5-255cf4f5a866_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Hva sier du når flyet styrter?</title>
       <description><![CDATA[Hva sier vi hvis flyet brått styrter og hva blir vi reinkarnert som?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
-    </item>
-    <item>
-      <title>Det beste fra P3morgen!</title>
-      <description><![CDATA[Hva smaker Marcus og Martinus? Elsker Ida-Lova Norge? Hvorfor hater Kasper Kvello ost på taco? Velkommen til oss!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/683965fb-58e4-4683-b965-fb58e46683f9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/683965fb-58e4-4683-b965-fb58e46683f9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:27</itunes:duration>
-      <pubDate>Sat, 28 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3CRZdSX32q0uOvg1pFc5ogmh90LXYqhXFr_LoonxJXPQ.jpg"/>
     </item>
   </channel>
 </rss>
