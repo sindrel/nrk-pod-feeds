@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Hele historien</title>
+    <title>De 5 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Mar 2026 13:34:05 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Mar 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 06:00:14 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 06:06:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
@@ -19,6 +19,42 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/e6e79fe0-127b-44f0-a79f-e0127b44f081_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:30</itunes:duration>
       <pubDate>Fri, 13 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ.jpg"/>
+    </item>
+    <item>
+      <title>Den nye legen (1:4)</title>
+      <description><![CDATA[For å få p-piller hos Arne Bye må tenåringsjenter opp i gynekologstolen. Der bruker han uvanlige metoder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/63fa91d2-62ef-4ab4-ba91-d262ef4ab46d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/63fa91d2-62ef-4ab4-ba91-d262ef4ab46d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:07</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ.jpg"/>
+    </item>
+    <item>
+      <title>Legen uten grenser (2:4)</title>
+      <description><![CDATA[Samtidig som Arne Bye blir kåret til årets ildsjel,  voldtar han egne pasienter med hjemmelaget utstyr.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/66d04361-1777-460d-9043-611777160df1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/66d04361-1777-460d-9043-611777160df1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:18</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ.jpg"/>
+    </item>
+    <item>
+      <title>Avsløringen (3:4)</title>
+      <description><![CDATA[Etter to alvorlige varsler blir Arne Bye anmeldt. Under ransakingen finner politiet tusenvis av filmer fra legekontoret.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/a5381044-23cb-4016-b810-4423cb4016ab_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/a5381044-23cb-4016-b810-4423cb4016ab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:19</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ.jpg"/>
+    </item>
+    <item>
+      <title>Legens fall (4:4)</title>
+      <description><![CDATA[Arne Bye blir dømt i en av Norges største overgrepssaker. Men saken er langt fra over.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/3b362b6d-6277-42d2-b62b-6d627722d231_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/3b362b6d-6277-42d2-b62b-6d627722d231_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:16</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:06:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ.jpg"/>
     </item>
   </channel>
