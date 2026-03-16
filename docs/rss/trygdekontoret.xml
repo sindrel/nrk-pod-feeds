@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Mar 2026 05:04:47 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 05:57:41 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Trumps bakgård</title>
+      <description><![CDATA[Amerikanske presidenter har en over 200 år lang tradisjon med å ture fram i Latin-Amerika og Trump er ikke noe unntak. Med statsviter og professor Benedicte Bull.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/705b349d-0e84-45a6-9b34-9d0e8425a6ff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/705b349d-0e84-45a6-9b34-9d0e8425a6ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
     <item>
       <title>Harald Hardråde</title>
       <description><![CDATA[Hvem var Norges siste vikingkonge? Historiker Tore Skeie har skrevet om Harald Hardrådes brutale liv, fra slaget på Stiklestad til forsøket på å erobre England.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/i_j0Vh6aiT6zwdRvLQRRKALoI3huQEfDpOeh8UnAnr-A.jpg"/>
-    </item>
-    <item>
-      <title>Da USA var idealet</title>
-      <description><![CDATA[For 200 år siden startet utvandringen fra Norge til USA. Hva slags inspirasjon fant datidens arbeideraktivister i det amerikanske demokratiet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/95041e31-6fed-42de-841e-316fedf2def2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/95041e31-6fed-42de-841e-316fedf2def2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g.jpg"/>
     </item>
   </channel>
 </rss>

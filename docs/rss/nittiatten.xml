@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Mar 2026 05:04:34 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 05:57:34 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Tara Lina på besøk</title>
+      <description><![CDATA[Dronninga av «Med all respekt» er gjest – og forteller hvordan hun endte opp med en romaskin som snackbord.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/7f29d22f-80b2-4be0-a9d2-2f80b26be00f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/7f29d22f-80b2-4be0-a9d2-2f80b26be00f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:49</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BM8JuSclHVtPm2I1aKgRuA5PQVDQ1P3hIijwLQIm9qbQ.jpg"/>
+    </item>
     <item>
       <title>Marcus og Martinus på besøk</title>
       <description><![CDATA[Marcus og Martinus snakker om alt fra ungdomstid til fotball, og en av dem røper at han fikk sitt første kyss som 19-åring.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>37:26</itunes:duration>
       <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0Nnjzg35qCgfK65x9IHGFw6iY8hJR0Eebjj8pTIM8WmQ.jpg"/>
-    </item>
-    <item>
-      <title>Hallgeir Kvadsheim på besøk</title>
-      <description><![CDATA[Nytt år! Dropp Klarna-fella og ta kontroll over pengene dine. Hallgeir viser deg hvordan du hacker økonomien]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/88e93175-0425-4350-a931-7504253350c6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/88e93175-0425-4350-a931-7504253350c6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:24</itunes:duration>
-      <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y58-HzK_ZtzNwaxTQekYqgyI9kNLOh08IB1-z1eN15Kw.jpg"/>
     </item>
   </channel>
 </rss>
