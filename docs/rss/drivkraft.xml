@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Mar 2026 15:08:52 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Mar 2026 14:50:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 13:55:03 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 13:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Aleksander Sandtorv</title>
+      <description><![CDATA[- Jeg drives av et hvitt sinne, sier den debatt-glade kjemikeren og influenseren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/57187994-2480-4921-9879-94248099219d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/57187994-2480-4921-9879-94248099219d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:33</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s95Shy9tkx3cHlVRZmBd5giu9686WRhAv_yhWLBmVQ7w.jpg"/>
+    </item>
     <item>
       <title>Jarle Bernhoft</title>
       <description><![CDATA[– Det kan ta månedsvis før jeg er meg selv igjen, forteller artisten om tiden etter turneer]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:16</itunes:duration>
       <pubDate>Thu, 19 Feb 2026 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/gWlhgHrA9wCViMqX2ALSDwL68BhLz65D703jmNax5TBQ.jpg"/>
-    </item>
-    <item>
-      <title>Morten Abel</title>
-      <description><![CDATA[- Det er ofte en opprørt sjø inni meg, sier den 63 år gamle artisten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/76b835f2-5b8b-4c7a-b835-f25b8b1c7a2e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/76b835f2-5b8b-4c7a-b835-f25b8b1c7a2e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:41</itunes:duration>
-      <pubDate>Wed, 18 Feb 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/F6_-IgeUsfhWcDJDvIbvvAgfAC63__4vQM--Xuo5KWXg.jpg"/>
     </item>
   </channel>
 </rss>
