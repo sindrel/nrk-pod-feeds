@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Mar 2026 06:03:44 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 05:03:50 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Vallo - med Ola Bremnes</title>
+      <description><![CDATA[- Hvis vi ikke vet hvor vi kommer fra, vet vi neppe hvor vi skal, forteller artisten Ola Bremnes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4ea3f95c-d955-4af9-a3f9-5cd9551af943_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4ea3f95c-d955-4af9-a3f9-5cd9551af943_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:29</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2Y7Z9pqv5naoLjPQPHAGGwUa1D_FNIUKTewHdQl7Vh-A.jpg"/>
+    </item>
     <item>
       <title>Omveg - med Ann Helen Kolås Ingebrigtsen</title>
       <description><![CDATA[- Kva vil du blir når du blir stor? Det spørsmålet greide eg aldri å svare på da eg var barn, fortel forfattaren Ann Helen Kolås Ingebrigtsen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:12</itunes:duration>
       <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
-    </item>
-    <item>
-      <title>Kallenavn - med Claes Krogsgaard Ericsson</title>
-      <description><![CDATA[Det finnes én stor forskjell på svensker og nordmenn, forteller Claes Krogsgaard Ericsson. Kallenavnene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/45d8985f-7cf3-4727-9898-5f7cf3572709_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/45d8985f-7cf3-4727-9898-5f7cf3572709_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:19</itunes:duration>
-      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
     </item>
   </channel>
 </rss>
