@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Mar 2026 09:13:49 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 10:09:22 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Erlend Loe i glins</title>
+      <description><![CDATA[I dag skal du bli kjent med en rolle fra P3morgens extended cinematic universe, Jon Marius Hyttebakk!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6f0d0160-1b6a-4b1f-8d01-601b6a2b1f0c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6f0d0160-1b6a-4b1f-8d01-601b6a2b1f0c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
+    </item>
     <item>
       <title>PowerPoint-porno</title>
       <description><![CDATA[Jonas har vært på utdrikkingslag, Henning har vært på konspirasjons-kveld med familien og Arin tar opp guttas julekalender.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Planlagt trakassering på kollega</title>
-      <description><![CDATA[En lytter har et truse-spørsmål, Henning har reddet noen votter og Jonas har reddet noen barn!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b0046928-2fdf-4436-8469-282fdf7436bb_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b0046928-2fdf-4436-8469-282fdf7436bb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
