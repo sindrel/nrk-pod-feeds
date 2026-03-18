@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Mar 2026 13:55:03 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Mar 2026 13:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:54:12 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Synne Vo</title>
+      <description><![CDATA[Popartisten mener det er menneskelig å alltid være lett misfornøyd]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f1fca77c-20ec-47e4-bca7-7c20ec37e424_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f1fca77c-20ec-47e4-bca7-7c20ec37e424_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xLXS8f2fnG677vy-ZAG91QEqbKPJHrrAX8porvtQgDRg.jpg"/>
+    </item>
     <item>
       <title>Aleksander Sandtorv</title>
       <description><![CDATA[- Jeg drives av et hvitt sinne, sier den debatt-glade kjemikeren og influenseren]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:15</itunes:duration>
       <pubDate>Mon, 23 Feb 2026 13:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RE_FFS-f9PO7iOYwsXHa9gVxcncqO_zJmLNzaPeRfjbw.jpg"/>
-    </item>
-    <item>
-      <title>Victor Lind</title>
-      <description><![CDATA[- Vi hadde ikke mat, vi var sultne i flere dager, det er en følelse jeg aldri glemmer, forteller kunstneren om oppveksten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/29380f7c-68d1-490d-b80f-7c68d1490d5e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/29380f7c-68d1-490d-b80f-7c68d1490d5e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:16</itunes:duration>
-      <pubDate>Thu, 19 Feb 2026 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gWlhgHrA9wCViMqX2ALSDwL68BhLz65D703jmNax5TBQ.jpg"/>
     </item>
   </channel>
 </rss>
