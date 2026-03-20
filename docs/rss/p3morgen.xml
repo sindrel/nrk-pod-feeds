@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Mar 2026 10:01:33 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 09:58:37 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Møtte kjæresten på Habbo.</title>
+      <description><![CDATA[I dag introduserer vi Fanny Odden fra P3morgens extended cinematic universe. Hun skal dø snart (tror hun).]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a7c93751-fae4-4b70-8937-51fae4bb7055_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a7c93751-fae4-4b70-8937-51fae4bb7055_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:29</itunes:duration>
+      <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Er dette en bra episode?</title>
       <description><![CDATA[Jonas, Henning og produsent Johannes mener dette er en god episode, mens Arin synes den er ganske snork... Hva mener du?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MqSnHpWfxJ4KYJKwEeX8PAUBf4szQH36Xhozo6djsreg.jpg"/>
-    </item>
-    <item>
-      <title>Festen i sykeværelset.</title>
-      <description><![CDATA[Arin har vært på fest hos Edvart Munch og Henning har sett på boksekamp!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7396f562-0bdb-4a33-96f5-620bdb4a336b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7396f562-0bdb-4a33-96f5-620bdb4a336b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
     </item>
   </channel>
 </rss>
