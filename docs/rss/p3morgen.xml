@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Mar 2026 09:58:37 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2026 05:55:18 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen!</title>
+      <description><![CDATA[Hater Kristofer Hivju Game of Thrones-finalen? Er brunost jævlig? Burde Freia skamme seg? Velkommen til oss <3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a4eb0db9-18d3-4ffa-ab0d-b918d34ffa95_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a4eb0db9-18d3-4ffa-ab0d-b918d34ffa95_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:55</itunes:duration>
+      <pubDate>Sat, 21 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zgyM4f1cz2_SuvgZFbdJ0wd7ujVSzGaS-9NuukVPISiw.jpg"/>
+    </item>
     <item>
       <title>Møtte kjæresten på Habbo.</title>
       <description><![CDATA[I dag introduserer vi Fanny Odden fra P3morgens extended cinematic universe. Hun skal dø snart (tror hun).]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Historien tok en mørk vending.</title>
-      <description><![CDATA[Vi snakker om språk, luring av folk og freestyle rap]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b44aff26-b59a-4902-8aff-26b59a490248_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b44aff26-b59a-4902-8aff-26b59a490248_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MqSnHpWfxJ4KYJKwEeX8PAUBf4szQH36Xhozo6djsreg.jpg"/>
     </item>
   </channel>
 </rss>
