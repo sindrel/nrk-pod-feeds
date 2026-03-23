@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Mar 2026 05:55:18 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 10:15:45 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Skurkene er ikke slemme nok.</title>
+      <description><![CDATA[Jonas har syklet til jobb, Henning har bar-hoppet etter en bussrute og Arin kommer med en oppdatering på apen Punch.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2dc231e0-f9ff-439d-8231-e0f9ff639dab_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2dc231e0-f9ff-439d-8231-e0f9ff639dab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen!</title>
       <description><![CDATA[Hater Kristofer Hivju Game of Thrones-finalen? Er brunost jævlig? Burde Freia skamme seg? Velkommen til oss <3]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Hva sier du når flyet styrter?</title>
-      <description><![CDATA[Hva sier vi hvis flyet brått styrter og hva blir vi reinkarnert som?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9214b006-91cf-43ea-94b0-0691cf13ea07_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9214b006-91cf-43ea-94b0-0691cf13ea07_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
