@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Mar 2026 05:57:34 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 05:48:09 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Nate kahungu på besøk</title>
+      <description><![CDATA[Programlederen fra Ville fristelser er gjest og avslører sin liste over topp tre «white girl»-låter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:00</itunes:duration>
+      <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yx_kb6kzLaUKBzxVEhGvXQAyF5lZyxGJe8QxE76aAVtw.jpg"/>
+    </item>
     <item>
       <title>Tara Lina på besøk</title>
       <description><![CDATA[Dronninga av «Med all respekt» er gjest – og forteller hvordan hun endte opp med en romaskin som snackbord.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>36:34</itunes:duration>
       <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Yt0ziuCGbACtH-f1dKiUowB3KdSbVZvyrXl-eMqoOEVA.jpg"/>
-    </item>
-    <item>
-      <title>Kevin Kildal på besøk</title>
-      <description><![CDATA[Kevin Kildal snakker ut om fortiden som bygderasist og om hvorfor han har valgt å «snippe» sekken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/83254ca7-10d5-471e-a54c-a710d5971eb6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/83254ca7-10d5-471e-a54c-a710d5971eb6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:26</itunes:duration>
-      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0Nnjzg35qCgfK65x9IHGFw6iY8hJR0Eebjj8pTIM8WmQ.jpg"/>
     </item>
   </channel>
 </rss>
