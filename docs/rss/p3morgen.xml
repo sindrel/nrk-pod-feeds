@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Mar 2026 10:15:45 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 10:10:01 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 10:13:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Airbnb på NRK</title>
+      <description><![CDATA[Fuck, marry, kill, Jonas skal på årsmøte og bor det noen på NRK?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4ddfefa1-727e-4bf7-9fef-a1727e1bf7f6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4ddfefa1-727e-4bf7-9fef-a1727e1bf7f6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 10:13:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
+    </item>
     <item>
       <title>Skurkene er ikke slemme nok.</title>
       <description><![CDATA[Jonas har syklet til jobb, Henning har bar-hoppet etter en bussrute og Arin kommer med en oppdatering på apen Punch.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:34</itunes:duration>
       <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PhVh4bVk6tGxCmQQh0gZTQBYr3J8hvBja6TJVsCV0Fkw.jpg"/>
-    </item>
-    <item>
-      <title>Skatt, revy og monsterkveite.</title>
-      <description><![CDATA[Jonas og Arin har fått skattemeldingen og Henning elsker «Jakten på monsterkveita».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/252ca525-5cf4-45a8-aca5-255cf4f5a866_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/252ca525-5cf4-45a8-aca5-255cf4f5a866_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
