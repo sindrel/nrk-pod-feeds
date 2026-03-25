@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Mar 2026 19:29:42 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Mar 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 19:11:42 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Avgiftskutt på diesel og bensin</title>
+      <description><![CDATA[Stortinget hastebehandler avgiftskutt torsdag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9e51a997-1be8-4a0d-91a9-971be8fa0dd8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9e51a997-1be8-4a0d-91a9-971be8fa0dd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Wed, 25 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5k5WP2SKlfbcMVYA_YUY7A-1NRelw-VsW3hYD-O6HbUQ.jpg"/>
+    </item>
     <item>
       <title>Sp under sperregrensen</title>
       <description><![CDATA[På nytt partibarometer faller Senterpartiet under sperregrensen, mens Frp vokser seg større]]></description>
@@ -94,15 +103,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Thu, 12 Mar 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/bWR3ftI7F7hVxNXNkm_Aggh0qKjDizOrmmtv4h3vou0Q.jpg"/>
-    </item>
-    <item>
-      <title>Krever kutt i avgifter</title>
-      <description><![CDATA[Prisen på diesel og bensin øker. NAF krever avgiftskutt dersom prisene biter seg fast.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/50403115-c0dd-4216-8031-15c0dd321626_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/50403115-c0dd-4216-8031-15c0dd321626_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:47</itunes:duration>
-      <pubDate>Wed, 11 Mar 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wmE_21fIitd2feR2qRvv7QhoDZGpAm0oKkaa-UYEAa6A.jpg"/>
     </item>
   </channel>
 </rss>
