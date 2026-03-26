@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Mar 2026 05:38:50 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Mar 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 05:50:01 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Blir det billigere bensin og diesel?</title>
+      <description><![CDATA[Og skal renta opp, ned eller forblir den på stedet hvil?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/8c8d7a3c-a0bf-4e3b-8d7a-3ca0bf3e3b84_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/8c8d7a3c-a0bf-4e3b-8d7a-3ca0bf3e3b84_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:28</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VtMlGnQwKnckJ1Tzjot8AxiMshtnAAYv5dx-QQzNSuQ.jpg"/>
+    </item>
     <item>
       <title>Dårligste valgresultat på over 100 år</title>
       <description><![CDATA[Og juryen i en rettssak mot Meta og Google klarer ikke bestemme seg.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>05:50</itunes:duration>
       <pubDate>Fri, 13 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dUocIiz6sF7QfbOUqVuFNwYZfjep_LoS7GJgwO_bdteA.jpg"/>
-    </item>
-    <item>
-      <title>Bodø/Glimt sjokkerte igjen</title>
-      <description><![CDATA[Og tre brødre er avhørt om ambassade-eksplosjonen forrige helg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/975b7e3f-527e-4636-9b7e-3f527e663617_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/975b7e3f-527e-4636-9b7e-3f527e663617_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:37</itunes:duration>
-      <pubDate>Thu, 12 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KShZAM8p7H77uGhToW_ozgjIvgOJNxTMOdSX4FKm4JbQ.jpg"/>
     </item>
   </channel>
 </rss>
