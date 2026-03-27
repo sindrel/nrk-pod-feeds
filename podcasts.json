@@ -458,7 +458,7 @@
         "id": "hallo_bablo",
         "title": "De 10 siste fra Hallo Bablo",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "hei_nabo",
@@ -503,6 +503,12 @@
         "enabled": false,
         "ignore": true,
         "hidden": true
+    },
+    {
+        "id": "hvem_skjoet_balder",
+        "title": "De 10 siste fra Hvem skjøt Balder?",
+        "season": null,
+        "enabled": true
     },
     {
         "id": "hvordan_moettes_dere_",

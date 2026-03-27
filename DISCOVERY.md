@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-03-27  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Added podcast 'Hvem skjøt Balder?' (`hvem_skjoet_balder`)  
 ### 2026-03-15  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2026-03-10  
