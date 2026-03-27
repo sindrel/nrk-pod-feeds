@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Mar 2026 06:07:18 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 05:50:53 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Krim-spesial</title>
+      <description><![CDATA[Hvilke påskekrim skal bør du lese?  Knut Hoem, Ola Hegdal og Ellen Sofie Lauritzen gir deg en velbegrunnet guide til årets nifse nyheter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/b637b387-4bf1-4767-b7b3-874bf1a76749_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/b637b387-4bf1-4767-b7b3-874bf1a76749_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iTcjWGvJ2jLquU6TsD0RPgLdaUdDcaMlPgPitijoyYSw.jpg"/>
+    </item>
     <item>
       <title>Hallgrimur Helgason: Torvhytter, sild og snøras</title>
       <description><![CDATA[Fra mørke torvhytter til et moderne samfunn. -Island er det beste landet å være forfatter i, avslører Hallgrímur Helgason.]]></description>
@@ -99,16 +108,6 @@ Nyeste bok: «Odysseen»]]></description>
       <itunes:duration>56:00</itunes:duration>
       <pubDate>Fri, 21 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/n7NJU4gpW0_VjYdudKQgbQCXoKp_QCd8PuK5JCSglFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Agnes Ravatn med humoristisk forlagsthriller</title>
-      <description><![CDATA[Vil suge lesere inn i en bok, mens vi fremdeles klarer å lese. 
-Nyeste bok: «Doggerland»]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/77032e24-bfad-4abe-832e-24bfad8abe5f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/77032e24-bfad-4abe-832e-24bfad8abe5f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:48</itunes:duration>
-      <pubDate>Fri, 14 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/al7h6sPM8hMSt4TnuNrj-Qixf9Q7bWuuy0OMvA-qY2-w.jpg"/>
     </item>
   </channel>
 </rss>
