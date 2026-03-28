@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-03-28  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-03-27  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 - Added podcast 'Hvem skjøt Balder?' (`hvem_skjoet_balder`)  
