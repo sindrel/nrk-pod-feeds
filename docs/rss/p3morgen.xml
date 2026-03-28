@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 27 Mar 2026 11:07:41 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 10:30:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 05:35:43 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen!</title>
+      <description><![CDATA[Hannah fra Tana gjør EKSKLUSIVT comeback hos oss! Vi mimrer tilbake til Krem Nasjonal og Kurt-bøkene, og resten av P3morgen-uken!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d5cf54e6-dfb2-4024-8f54-e6dfb2d02461_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d5cf54e6-dfb2-4024-8f54-e6dfb2d02461_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:19</itunes:duration>
+      <pubDate>Sat, 28 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xQHDzGnzYwwbkjB5KUV1jQoEYrDl1nb9S1Ha30zItnvA.jpg"/>
+    </item>
     <item>
       <title>Het diskusjon om hull</title>
       <description><![CDATA[Stor samling av P3morgens extended cinematic universe, produsent Johannes, reseacher Jon Marius, og vaktsjef Heidi Mo er her.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
-    </item>
-    <item>
-      <title>Erlend Loe i glins</title>
-      <description><![CDATA[I dag skal du bli kjent med en rolle fra P3morgens extended cinematic universe, Jon Marius Hyttebakk!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6f0d0160-1b6a-4b1f-8d01-601b6a2b1f0c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6f0d0160-1b6a-4b1f-8d01-601b6a2b1f0c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
     </item>
   </channel>
 </rss>
