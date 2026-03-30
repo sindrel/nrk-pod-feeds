@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Mar 2026 05:48:09 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 09:48:05 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Ballinciaga på besøk</title>
+      <description><![CDATA[Ballinciaga åpner opp om alt fra beefen med Helsedirektoratet til det dummeste de noensinne har kjøpt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/5d0929f6-e2c4-45ee-8929-f6e2c485ee18_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5d0929f6-e2c4-45ee-8929-f6e2c485ee18_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:24</itunes:duration>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WP-q5LiIq-lb1N0ifScXJA1V5x7viWi-NYs6--Mfa5Pg.jpg"/>
+    </item>
     <item>
       <title>Nate kahungu på besøk</title>
       <description><![CDATA[Programlederen fra Ville fristelser er gjest og avslører sin liste over topp tre «white girl»-låter.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>25:21</itunes:duration>
       <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ygjxCaIkM9Q0_-k0z2eTAAPi6rFaGcGIAUBmnUB9DOKA.jpg"/>
-    </item>
-    <item>
-      <title>Simen Velle på besøk</title>
-      <description><![CDATA[Simen Velle er gjest og kan melde at statsministeren er lættis og at Stortinget er som VGS 2.0]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/b0d8a3d3-bd17-485c-98a3-d3bd17385c54_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/b0d8a3d3-bd17-485c-98a3-d3bd17385c54_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:34</itunes:duration>
-      <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Yt0ziuCGbACtH-f1dKiUowB3KdSbVZvyrXl-eMqoOEVA.jpg"/>
     </item>
   </channel>
 </rss>
