@@ -49,7 +49,9 @@ const feeds = [
     "id": "arena",
     "title": "De 10 siste fra Arena",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "baade_erlend_og_steinar_",
@@ -73,13 +75,15 @@ const feeds = [
     "id": "berrum_beyer_snakker_om_greier",
     "title": "De 10 siste fra Berrum & Beyer snakker om greier",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "bibelen",
     "title": "De 10 siste fra Bibelen",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "billis_og_bollos",
@@ -112,6 +116,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "blaatur",
+    "title": "De 10 siste fra Blåtur",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "bok_i_p2",
     "title": "De 10 siste fra Åpen bok",
     "season": "LATEST_SEASON",
@@ -129,7 +139,9 @@ const feeds = [
     "id": "brenner_deler_dikt",
     "title": "De 10 siste fra Brenner deler dikt",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "brillebjoerns_kvissvas",
@@ -143,7 +155,9 @@ const feeds = [
     "id": "burde_vaert_pensum",
     "title": "De 10 siste fra Burde vært pensum",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "clue",
@@ -258,6 +272,12 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "eventyrerne",
+    "title": "De 10 siste fra Eventyrerne: Jakten på spektralsteinene",
+    "season": null,
+    "enabled": false
+  },
+  {
     "id": "eventyret_om_vazelina_bilopphoeggers",
     "title": "De 10 siste fra Eventyret om Vazelina Bilopphøggers",
     "season": null,
@@ -309,7 +329,9 @@ const feeds = [
     "id": "fantus_og_lydene",
     "title": "De 10 siste fra Fantus og lydene",
     "season": null,
-    "enabled": true
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "feriestemning",
@@ -430,25 +452,35 @@ const feeds = [
     "id": "haevvi",
     "title": "De 10 siste fra Hævvi",
     "season": null,
+    "enabled": false
+  },
+  {
+    "id": "hallo_bablo",
+    "title": "De 10 siste fra Hallo Bablo",
+    "season": null,
     "enabled": true
   },
   {
     "id": "hei_nabo",
     "title": "De 10 siste fra Hei, nabo",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "heia_fotball",
     "title": "De 10 siste fra Heia Fotball",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "historiske_kjendiser",
@@ -471,6 +503,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "hvem_skjoet_balder",
+    "title": "De 10 siste fra Hvem skjøt Balder?",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "hvordan_moettes_dere_",
@@ -543,6 +581,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "juorre",
+    "title": "De 10 siste fra Juorre",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "kaffipraati",
     "title": "De 10 siste fra Kaffipraatti",
     "season": null,
@@ -582,25 +626,33 @@ const feeds = [
     "id": "kjente_boeker_paa_4_minutter",
     "title": "De 10 siste fra Kjente bøker på 4 minutter",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "kladden_har_daevva",
     "title": "De 10 siste fra Kladden har dævva",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "klassenraadet",
     "title": "De 10 siste fra Klassen-rådet",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "klassequizen",
     "title": "De 10 siste fra Klassequizen",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "klassikere_fra_p3-arkivet",
@@ -669,6 +721,18 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "krimrommet",
+    "title": "De 10 siste fra Krimrommet",
+    "season": null,
+    "enabled": true
+  },
+  {
+    "id": "kringkastingsorkestret_",
+    "title": "De 10 siste fra Kringkastingsorkestret ",
+    "season": "LATEST_SEASON",
+    "enabled": false
   },
   {
     "id": "kroppen",
@@ -752,7 +816,9 @@ const feeds = [
     "id": "luois_luohti",
     "title": "De 10 siste fra Luođis luohtái",
     "season": null,
-    "enabled": true
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "lyden_av_17_mai",
@@ -785,6 +851,18 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "markus_else",
+    "title": "De 10 siste fra Markus & Else",
+    "season": null,
+    "enabled": false
+  },
+  {
+    "id": "markus_og_wolfgang_snakker_klassisk",
+    "title": "De 10 siste fra Markus og Wolfgang snakker klassisk",
+    "season": "LATEST_SEASON",
+    "enabled": true
   },
   {
     "id": "maskoramapodkasten",
@@ -860,7 +938,7 @@ const feeds = [
     "id": "misforstaa_meg_rett",
     "title": "De 10 siste fra Misforstå meg rett",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "mitt_liv_med_hund",
@@ -882,7 +960,9 @@ const feeds = [
     "id": "monsens_univers",
     "title": "De 10 siste fra Monsens univers",
     "season": null,
-    "enabled": true
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "museum",
@@ -896,13 +976,21 @@ const feeds = [
     "id": "musikk_fra_nrk_super",
     "title": "De 10 siste fra Musikk fra NRK Super",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
+  },
+  {
+    "id": "musikkhistorier",
+    "title": "De 10 siste fra Musikkhistorier",
+    "season": "LATEST_SEASON",
+    "enabled": false
   },
   {
     "id": "musikkrommet",
     "title": "De 10 siste fra Musikkrommet",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "mysterier_fra_norge",
@@ -945,7 +1033,7 @@ const feeds = [
   {
     "id": "noedsamtaler",
     "title": "De 10 siste fra Nødsamtaler",
-    "season": null,
+    "season": "LATEST_SEASON",
     "enabled": false
   },
   {
@@ -1012,7 +1100,9 @@ const feeds = [
     "id": "olgull",
     "title": "De 10 siste fra OL-gull",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "oppdatert",
@@ -1046,7 +1136,7 @@ const feeds = [
     "id": "paa_audition",
     "title": "De 10 siste fra På audition",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "paalogga",
@@ -1172,7 +1262,9 @@ const feeds = [
     "id": "reiseradioens_sommerleker",
     "title": "De 10 siste fra Reiseradioens sommerleker",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "revolusjonen",
@@ -1226,7 +1318,7 @@ const feeds = [
     "id": "seriesnakk",
     "title": "De 10 siste fra Seriesnakk",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "sex_over_60",
@@ -1322,6 +1414,12 @@ const feeds = [
     "id": "spoer_for_en_venn",
     "title": "De 10 siste fra Spør for en venn",
     "season": null,
+    "enabled": false
+  },
+  {
+    "id": "sportsdesken_brenner",
+    "title": "De 10 siste fra Sportsdesken brenner",
+    "season": null,
     "enabled": true
   },
   {
@@ -1363,6 +1461,12 @@ const feeds = [
     "hidden": false
   },
   {
+    "id": "strid",
+    "title": "De 10 siste fra Strid – de norske borgerkrigene",
+    "season": null,
+    "enabled": false
+  },
+  {
     "id": "stroemwasenius",
     "title": "De 10 siste fra Strøm/Wasenius",
     "season": null,
@@ -1388,7 +1492,9 @@ const feeds = [
     "id": "supernytt_forklarer",
     "title": "De 10 siste fra Supernytt forklarer",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "supertroett",
@@ -1426,7 +1532,9 @@ const feeds = [
     "id": "the_kaass_furuseths",
     "title": "De 10 siste fra The Kåss Furuseths",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "timeout",
@@ -1472,7 +1580,7 @@ const feeds = [
     "id": "traesh",
     "title": "De 10 siste fra Træsh",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "treningskompis",
@@ -1544,7 +1652,15 @@ const feeds = [
     "id": "utakt",
     "title": "De 10 siste fra Utakt",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
+  },
+  {
+    "id": "utro_haap_og_kjaerlighet",
+    "title": "De 10 siste fra Utro, håp og kjærlighet",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "valg",
@@ -1608,7 +1724,7 @@ const feeds = [
     "id": "vittig",
     "title": "De 10 siste fra Vittig",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "westworld-podden",
