@@ -6,8 +6,8 @@ def test_get_podcast():
     feeds_dir = "tests/rss"
     os.makedirs(feeds_dir, exist_ok=True)
 
-    podcast_id = "kongerekka"
-    season_id = "2020"
+    podcast_id = "radiodokumentaren"
+    season_id = "liv"
 
     podcast = get_podcast(podcast_id, season_id, feeds_dir, 10)
     assert podcast

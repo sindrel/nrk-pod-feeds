@@ -73,12 +73,12 @@ def test_get_latest_podcast_season():
     assert latest_season == "202111"
 
 def test_get_podcast_episodes_by_season():
-    podcast_id = "kongerekka"
-    season_id = "2020"
+    podcast_id = "radiodokumentaren"
+    season_id = "liv"
 
     episodes = psapi.get_podcast_episodes(podcast_id, season_id)
 
-    assert len(episodes) == 10
+    assert len(episodes) == 4
 
 def test_get_all_podcasts():
     podcasts = psapi.get_all_podcasts()
