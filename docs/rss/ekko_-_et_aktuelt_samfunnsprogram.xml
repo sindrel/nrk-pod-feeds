@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 31 Mar 2026 09:18:18 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Mar 2026 10:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:36:05 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 10:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Snakk med barn om krig?</title>
+      <description><![CDATA[Nyhetene er fulle av krig og uroligheter. Hvordan snakker vi med barna uten å skremme dem og samtidig bevare roen selv?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ffe50268-8526-4eed-a502-6885264eed6e_4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ffe50268-8526-4eed-a502-6885264eed6e_4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:48</itunes:duration>
+      <pubDate>Wed, 01 Apr 2026 10:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F-x9GHSpOO60tOYcuJq9SgdcY33IxHFb295PeQ42krMw.jpg"/>
+    </item>
     <item>
       <title>Skal staten betale alt?</title>
       <description><![CDATA[Mat, straum og drivstoff har blitt for dyrt, og vi krev at staten fiksar det. Men kven vinn og kven taper på at staten betaler?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>23:23</itunes:duration>
       <pubDate>Wed, 18 Mar 2026 13:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/cbkM2-wmt5lBLY56iwcV1gSk-2JZYIlammzYYvYN_onw.jpg"/>
-    </item>
-    <item>
-      <title>Når blir noe terror?</title>
-      <description><![CDATA[Eksplosjonen utenfor den amerikanske ambassaden etterforskes som terror, men hvor går grensene?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/266441fc-5724-4291-a441-fc57241291ce_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/266441fc-5724-4291-a441-fc57241291ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:04</itunes:duration>
-      <pubDate>Tue, 17 Mar 2026 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DUnqJWsWm_R04D-mSjIjfghVQ-0NNv-dzOsDWStdm_ww.jpg"/>
     </item>
   </channel>
 </rss>
