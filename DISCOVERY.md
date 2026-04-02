@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-04-02  
+- Updated podcast 'Kompass' (`kompass`)  
 ### 2026-04-01  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2026-03-28  
