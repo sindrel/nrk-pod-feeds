@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-04-03  
+- Updated podcast 'Bibelen' (`bibelen`)  
 ### 2026-04-02  
 - Updated podcast 'Kompass' (`kompass`)  
 ### 2026-04-01  
