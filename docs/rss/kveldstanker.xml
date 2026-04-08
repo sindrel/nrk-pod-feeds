@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Apr 2026 05:56:41 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:58:43 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Slapp av - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[- Slutt å lev livet ditt med en sjekkliste, råder studenten Oda Gravdal Ulriksen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/567a7b87-79e0-48bb-ba7b-8779e068bbd8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/567a7b87-79e0-48bb-ba7b-8779e068bbd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:55</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
     <item>
       <title>Grønn mann - med Lena Lindahl</title>
       <description><![CDATA[- Å gå på rød mann ga meg en opplevelse for livet, forteller forfatter Lena Lindahl.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:15</itunes:duration>
       <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
-    </item>
-    <item>
-      <title>Uerstattelig - med Gunn Marit Nisja</title>
-      <description><![CDATA[Møter mellom mennesker kan vi ikke erstatte med tekniske løsninger,  tror forfatter Gunn Marit Nisja]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1cc58073-7c39-42b2-8580-737c39b2b2ca_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1cc58073-7c39-42b2-8580-737c39b2b2ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:28</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>
