@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Apr 2026 09:34:12 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:19:19 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Spis tress-is med hendene!</title>
+      <description><![CDATA[Hvilken vei åpner du bananen? Dypper du hele sushien i soyasausen? Spiser du med hendene eller med bestikk? Vi diskuterer!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ba46f989-b2b4-4894-86f9-89b2b46894dd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ba46f989-b2b4-4894-86f9-89b2b46894dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
+    </item>
     <item>
       <title>Å blotte hjemmefra.</title>
       <description><![CDATA[Jonas er kanskje rik, Arin gråter ikke og Henning har hørt et smell hjemme.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:29</itunes:duration>
       <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Er dette en bra episode?</title>
-      <description><![CDATA[Jonas, Henning og produsent Johannes mener dette er en god episode, mens Arin synes den er ganske snork... Hva mener du?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2312d5a0-96d3-45e8-92d5-a096d315e87c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2312d5a0-96d3-45e8-92d5-a096d315e87c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:29</itunes:duration>
-      <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
