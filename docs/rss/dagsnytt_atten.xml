@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Apr 2026 17:31:31 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:01:18 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Skjebnevalg i Ungarn</title>
+      <description><![CDATA[Søndag går ungarerne til valgurnene. I EU er spenningen stor om hvorvidt det blir et maktskifte i landet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/38875994-05cd-40e8-8759-9405cd80e810_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/38875994-05cd-40e8-8759-9405cd80e810_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gC9FnN8vKVlIL0jXE2A7Fg4I924-eWvOdWfWtk-dNwGQ.jpg"/>
+    </item>
     <item>
       <title>Rødgrønt krisemøte</title>
       <description><![CDATA[MDG beskylder Senterpartiet for politisk svindel.]]></description>
@@ -92,16 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 24 Mar 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HiGbOhkO2iXSWTKiEp-9Pw2iXdMaFiBAw8JzHqcZ0b4w.jpg"/>
-    </item>
-    <item>
-      <title>Fem dagers våpenhvile</title>
-      <description><![CDATA[Trump stanser angrep mor Iran i fem dager etter det han kaller konstruktive samtaler.
-Iran avviser at det har vært kontakt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bfb227ce-cf49-4982-b227-cecf49098284_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bfb227ce-cf49-4982-b227-cecf49098284_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Mon, 23 Mar 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3oKEmz_qHNih8_AabMP-MQYW73XTRweHvMQLbmHOACwQ.jpg"/>
     </item>
   </channel>
 </rss>
