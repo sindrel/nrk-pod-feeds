@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-04-11  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2026-04-10  
 - Podcast 'Radio Mørch' is considered obsolete and will be ignored in the future (`radio_moerch`)  
 ### 2026-04-03  
