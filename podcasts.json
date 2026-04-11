@@ -219,7 +219,9 @@
         "id": "ding_dong_du_er_doed",
         "title": "De 10 siste fra Ding-dong, du er død!",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "dlla_ja_dalloj",
@@ -1320,7 +1322,7 @@
         "id": "seriesnakk",
         "title": "De 10 siste fra Seriesnakk",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "sex_over_60",
