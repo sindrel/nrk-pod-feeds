@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-04-13  
+- Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2026-04-11  
 - Podcast 'Ding-dong, du er død!' is considered obsolete and will be ignored in the future (`ding_dong_du_er_doed`)  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
