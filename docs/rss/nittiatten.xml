@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 30 Mar 2026 09:48:05 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:26:32 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Nutritac på besøk</title>
+      <description><![CDATA[Klinisk ernæringsfysiolog Christian Johnston svarer på alt om mat og trening. Hva er overvurdert og undervurdert?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/ad0892d4-1a17-42e3-8892-d41a1702e36e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/ad0892d4-1a17-42e3-8892-d41a1702e36e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:22</itunes:duration>
+      <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/50w1SCsLruSXHfr4uays7wpt9nqF4NyrGsnqUIXjF_IQ.jpg"/>
+    </item>
     <item>
       <title>Ballinciaga på besøk</title>
       <description><![CDATA[Ballinciaga åpner opp om alt fra beefen med Helsedirektoratet til det dummeste de noensinne har kjøpt.]]></description>
@@ -22,7 +31,7 @@
       <itunes:image href="https://gfx.nrk.no/WP-q5LiIq-lb1N0ifScXJA1V5x7viWi-NYs6--Mfa5Pg.jpg"/>
     </item>
     <item>
-      <title>Nate kahungu på besøk</title>
+      <title>Nate Kahungu på besøk</title>
       <description><![CDATA[Programlederen fra Ville fristelser er gjest og avslører sin liste over topp tre «white girl»-låter.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/nittiatten/5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -92,15 +101,6 @@
       <itunes:duration>30:49</itunes:duration>
       <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/I3PVNRVoGBEpSwYvBBDXVgsdrs0-zmMV92dVV9o3_nMw.jpg"/>
-    </item>
-    <item>
-      <title>Beathoven på besøk</title>
-      <description><![CDATA[Beathoven om vennskap, mental helse og det nye hotellet]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/86a0c817-dfca-46e9-a0c8-17dfca26e939_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/86a0c817-dfca-46e9-a0c8-17dfca26e939_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:21</itunes:duration>
-      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ygjxCaIkM9Q0_-k0z2eTAAPi6rFaGcGIAUBmnUB9DOKA.jpg"/>
     </item>
   </channel>
 </rss>
