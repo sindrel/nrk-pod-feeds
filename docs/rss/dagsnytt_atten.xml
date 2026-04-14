@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 19:39:23 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 17:34:55 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ukrainas president besøker Norge i dag</title>
+      <description><![CDATA[Volodymyr Zelenskyj møter Jonas Gahr Støre i kveld]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e3c00943-f34e-4e04-8009-43f34eae0431_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e3c00943-f34e-4e04-8009-43f34eae0431_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nCMSQQfTN6XnYG6XJL44NQ-djglhoFL1TkEaLfqhej1A.jpg"/>
+    </item>
     <item>
       <title>Trump hevder å blokkere iranske havner</title>
       <description><![CDATA[Klokken 16 begynte USAs varslede blokade. Eksperter frykter konsekvenser for verdensøkonomien.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 26 Mar 2026 18:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/popfFJ19IqbMtQ8ppsKRqwDi_wHcGqSy6Fpp4dBHR9tQ.jpg"/>
-    </item>
-    <item>
-      <title>Avgiftskutt på diesel og bensin</title>
-      <description><![CDATA[Stortinget hastebehandler avgiftskutt torsdag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9e51a997-1be8-4a0d-91a9-971be8fa0dd8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9e51a997-1be8-4a0d-91a9-971be8fa0dd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 25 Mar 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5k5WP2SKlfbcMVYA_YUY7A-1NRelw-VsW3hYD-O6HbUQ.jpg"/>
     </item>
   </channel>
 </rss>
