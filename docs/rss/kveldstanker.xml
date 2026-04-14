@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:58:43 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:11:15 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Trygg - med Gunn Marit Nisja</title>
+      <description><![CDATA[- Det har tatt meg lang tid å kunne fortelle denne historien, forteller forfatter Gunn Marit Nisja.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/b1ba8cbc-14db-4220-ba8c-bc14db5220e9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/b1ba8cbc-14db-4220-ba8c-bc14db5220e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:47</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
+    </item>
     <item>
       <title>Slapp av - med Oda Gravdal Ulriksen</title>
       <description><![CDATA[- Slutt å lev livet ditt med en sjekkliste, råder studenten Oda Gravdal Ulriksen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:36</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
-    </item>
-    <item>
-      <title>Ærlig - med Oda Gravdal Ulriksen</title>
-      <description><![CDATA[- Vi trenger å øve oss på å være ærlig og vennlig samtidig. tror samfunnsdebattant Oda Gravdal Ulriksen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/ec6d2042-bcbe-4783-ad20-42bcbeb78308_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ec6d2042-bcbe-4783-ad20-42bcbeb78308_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:15</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
     </item>
   </channel>
 </rss>
