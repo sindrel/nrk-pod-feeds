@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:12:15 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 10:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 09:50:14 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 10:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Pannekaker og død</title>
+      <description><![CDATA[En tidvis bekmørk episode om mat og henrettelser]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e5174550-61ae-4409-9745-5061ae2409db_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e5174550-61ae-4409-9745-5061ae2409db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 10:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
+    </item>
     <item>
       <title>Pølse, vaffel og syltetøy?</title>
       <description><![CDATA[Café i stua, pølse i vaffel og healing. Godt og blanda episode!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Thu, 26 Mar 2026 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g.jpg"/>
-    </item>
-    <item>
-      <title>Spiser banan som en Kvikk Lunsj</title>
-      <description><![CDATA[Jonas har IKKE laget vafler til vaffledagen, Henning nekter å dele en oppskrift og Arin spiser spiser banan på en rar måte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/332ee948-5572-4a49-aee9-485572ea49df_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/332ee948-5572-4a49-aee9-485572ea49df_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
