@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 06:11:15 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 06:11:22 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Livserfaring - med Ingvild Hegge Eriksen</title>
+      <description><![CDATA[- 18 år gamle meg skulle bare visst, forteller forfatteren Ingvild Hegge Eriksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/38ff6ca2-72c8-40e8-bf6c-a272c820e8cd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/38ff6ca2-72c8-40e8-bf6c-a272c820e8cd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:23</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eHGuJV_i7N6QpzBZpvGZnAJqanMHT-LGWHGbjst83fdg.jpg"/>
+    </item>
     <item>
       <title>Trygg - med Gunn Marit Nisja</title>
       <description><![CDATA[- Det har tatt meg lang tid å kunne fortelle denne historien, forteller forfatter Gunn Marit Nisja.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:29</itunes:duration>
       <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2Y7Z9pqv5naoLjPQPHAGGwUa1D_FNIUKTewHdQl7Vh-A.jpg"/>
-    </item>
-    <item>
-      <title>Omveg - med Ann Helen Kolås Ingebrigtsen</title>
-      <description><![CDATA[- Kva vil du blir når du blir stor? Det spørsmålet greide eg aldri å svare på da eg var barn, fortel forfattaren Ann Helen Kolås Ingebrigtsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a4440970-760c-40bc-8409-70760c80bc3b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a4440970-760c-40bc-8409-70760c80bc3b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:36</itunes:duration>
-      <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
     </item>
   </channel>
 </rss>
