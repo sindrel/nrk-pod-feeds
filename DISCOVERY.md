@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-04-15  
+- Updated podcast 'Markus og Wolfgang snakker klassisk' (`markus_og_wolfgang_snakker_klassisk`)  
 ### 2026-04-13  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2026-04-11  
