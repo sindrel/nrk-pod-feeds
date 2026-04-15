@@ -864,7 +864,7 @@ const feeds = [
     "id": "markus_og_wolfgang_snakker_klassisk",
     "title": "De 10 siste fra Markus og Wolfgang snakker klassisk",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "maskoramapodkasten",
