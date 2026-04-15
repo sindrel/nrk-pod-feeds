@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 17:34:55 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 17:19:41 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Psykolog mener NRK-serie er et sosialt eksperiment</title>
+      <description><![CDATA[TV-serien "Team Pølsa" følger 6 barn med funksjonsnedsettelser, og har over en million seere i snitt pr. episode.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7a0d8b54-38f4-4d95-8d8b-5438f48d95ed_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7a0d8b54-38f4-4d95-8d8b-5438f48d95ed_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x9wcOEydAIMm1QSKCfQf8QXQA6EFxPk6DxATmZJxvFrQ.jpg"/>
+    </item>
     <item>
       <title>Ukrainas president besøker Norge i dag</title>
       <description><![CDATA[Volodymyr Zelenskyj møter Jonas Gahr Støre i kveld]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Fri, 27 Mar 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/sQuHndM6vGjLacfr_t14YQa1fXaWYZTe70081yStMBLw.jpg"/>
-    </item>
-    <item>
-      <title>Norges bank varsler renteøkning i år</title>
-      <description><![CDATA[Prisveksten skaper trøbbel for Norges Bank. Det kan bli rentehevinger på et av de nærmeste rentemøtene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/06a71292-f22a-4698-a712-92f22af69818_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/06a71292-f22a-4698-a712-92f22af69818_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 26 Mar 2026 18:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/popfFJ19IqbMtQ8ppsKRqwDi_wHcGqSy6Fpp4dBHR9tQ.jpg"/>
     </item>
   </channel>
 </rss>
