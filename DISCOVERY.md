@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-04-16  
+- Updated podcast 'Kompass' (`kompass`)  
+- Updated podcast 'Verdibørsen' (`verdiboersen`)  
 ### 2026-04-15  
 - Updated podcast 'Markus og Wolfgang snakker klassisk' (`markus_og_wolfgang_snakker_klassisk`)  
 ### 2026-04-13  
