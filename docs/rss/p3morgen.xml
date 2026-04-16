@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Apr 2026 09:50:50 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Apr 2026 10:15:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 09:49:38 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 10:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Konfrontasjon og Jahn Teigen</title>
+      <description><![CDATA[Produsent Johannes konfronterer Jonas og gamle fabler diskuteres]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/439eb9f2-478b-4222-9eb9-f2478b1222e8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/439eb9f2-478b-4222-9eb9-f2478b1222e8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Thu, 16 Apr 2026 10:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g.jpg"/>
+    </item>
     <item>
       <title>Italia eller Kina?</title>
       <description><![CDATA[Vi snakker om barn, «Biler 2» og andre verdenskrig. Det blir også snakk om flytting til utlandet!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:07:19</itunes:duration>
       <pubDate>Sat, 28 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xQHDzGnzYwwbkjB5KUV1jQoEYrDl1nb9S1Ha30zItnvA.jpg"/>
-    </item>
-    <item>
-      <title>Het diskusjon om hull</title>
-      <description><![CDATA[Stor samling av P3morgens extended cinematic universe, produsent Johannes, reseacher Jon Marius, og vaktsjef Heidi Mo er her.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/37acfbc9-3d8a-48f1-acfb-c93d8a48f146_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/37acfbc9-3d8a-48f1-acfb-c93d8a48f146_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Fri, 27 Mar 2026 10:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
     </item>
   </channel>
 </rss>
