@@ -682,7 +682,7 @@ const feeds = [
     "id": "kompass",
     "title": "De 10 siste fra Kompass",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kongerekka",
@@ -1705,8 +1705,8 @@ const feeds = [
   {
     "id": "verdiboersen",
     "title": "De 10 siste fra Verdibørsen",
-    "season": null,
-    "enabled": true
+    "season": "LATEST_SEASON",
+    "enabled": false
   },
   {
     "id": "vg3",
