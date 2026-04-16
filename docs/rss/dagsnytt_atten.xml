@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Apr 2026 17:19:41 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:44:02 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Sverige senker kriminell lavalder</title>
+      <description><![CDATA[Vil at 13-åringer som begår alvorlige lovbrudd skal straffes med fengsel.
+Her hjemme vil Frp senke den til 14 år]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2ef84d7c-deca-44c0-b84d-7cdeca74c036_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2ef84d7c-deca-44c0-b84d-7cdeca74c036_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 16 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/t_9cCyLjJ1bpOUp77Kr45g7CVj_1C3PJ7_IEQNAo6UWw.jpg"/>
+    </item>
     <item>
       <title>Psykolog mener NRK-serie er et sosialt eksperiment</title>
       <description><![CDATA[TV-serien "Team Pølsa" følger 6 barn med funksjonsnedsettelser, og har over en million seere i snitt pr. episode.]]></description>
@@ -92,15 +102,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Mon, 30 Mar 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PbfoG2QCrBsrM9GHW5sbqw0IHly5nRZni7BylOCMNWLg.jpg"/>
-    </item>
-    <item>
-      <title>Varsler utsettelse av forsvarsatsinger.</title>
-      <description><![CDATA[Regjeringen øker langtidsplanen for forsvaret med 115 milliarder kroner, men varsler utsettelse av flere store forsvarssatsinger]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eefbdb89-df95-4464-bbdb-89df95a4647b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eefbdb89-df95-4464-bbdb-89df95a4647b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Fri, 27 Mar 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sQuHndM6vGjLacfr_t14YQa1fXaWYZTe70081yStMBLw.jpg"/>
     </item>
   </channel>
 </rss>
