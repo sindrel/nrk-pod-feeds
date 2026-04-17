@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Apr 2026 09:49:38 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Apr 2026 10:15:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 09:48:26 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 10:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Jesus i underetasjen</title>
+      <description><![CDATA[Er det greit å spise i sengen, og hvordan er det å ha Jesus som nærmeste nabo?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/44ccafe2-94ec-40e5-8caf-e294ec60e51a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/44ccafe2-94ec-40e5-8caf-e294ec60e51a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:00</itunes:duration>
+      <pubDate>Fri, 17 Apr 2026 10:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
+    </item>
     <item>
       <title>Konfrontasjon og Jahn Teigen</title>
       <description><![CDATA[Produsent Johannes konfronterer Jonas og gamle fabler diskuteres]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen!</title>
-      <description><![CDATA[Hannah fra Tana gjør EKSKLUSIVT comeback hos oss! Vi mimrer tilbake til Krem Nasjonal og Kurt-bøkene, og resten av P3morgen-uken!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d5cf54e6-dfb2-4024-8f54-e6dfb2d02461_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d5cf54e6-dfb2-4024-8f54-e6dfb2d02461_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:07:19</itunes:duration>
-      <pubDate>Sat, 28 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xQHDzGnzYwwbkjB5KUV1jQoEYrDl1nb9S1Ha30zItnvA.jpg"/>
     </item>
   </channel>
 </rss>
