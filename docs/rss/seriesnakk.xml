@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Seriesnakk</title>
+    <title>De 2 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 11 Apr 2026 07:17:17 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Apr 2026 06:05:00 +0200</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 05:50:53 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2026 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
@@ -20,6 +20,15 @@
       <itunes:duration>43:34</itunes:duration>
       <pubDate>Sat, 11 Apr 2026 06:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sbaqy-VNtQ9HYxsStoYM0w9t8JK1HUNvTpV3a9vf4p6w.jpg"/>
+    </item>
+    <item>
+      <title>– Petra er irriterende (2:4)</title>
+      <description><![CDATA[Marlene Stavrum vil ha old lovin’, og Elpida Stojcevska deler hvilken pasient som gjorde inntrykk på både henne og Petra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:17</itunes:duration>
+      <pubDate>Sat, 18 Apr 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CFeQTf-pEYodLQpBFqatgg_tsl18nPqDbthxDBrL0gKw.jpg"/>
     </item>
   </channel>
 </rss>
