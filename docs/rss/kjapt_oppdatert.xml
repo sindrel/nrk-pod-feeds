@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Apr 2026 04:06:42 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 04:03:17 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Karpe gir seg: Nå hylles de</title>
+      <description><![CDATA[Og det kan få konsekvenser hvis vi ikke får mer politi i gatene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/70b439c3-7747-4c16-b439-c37747ec16b1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/70b439c3-7747-4c16-b439-c37747ec16b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:23</itunes:duration>
+      <pubDate>Wed, 29 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T82uWN6v-TidU6h9wyEVKQsoL5B0Vlt0ZSW_abdHmGAQ.jpg"/>
+    </item>
     <item>
       <title>Artister er redde for å bli misbrukt av KI</title>
       <description><![CDATA[Og å slutte å shoppe kan være like vanskelig som å slutte å røyke.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:17</itunes:duration>
       <pubDate>Thu, 16 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bW-5osJj7ElH9Ci3buzA5w88muHZdtx_0qacyBrHr84g.jpg"/>
-    </item>
-    <item>
-      <title>I dag kjem dommen mot Isak Dreyer</title>
-      <description><![CDATA[Og trass i svoltkatastrofe, ser det ikkje ut til at krigen i Sudan kjem til å stoppe.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e78c86b0-139f-4e3b-8c86-b0139fae3b6e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e78c86b0-139f-4e3b-8c86-b0139fae3b6e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:57</itunes:duration>
-      <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZgzcrNTg94WRbdtNfaMMRQz3W8S_vAh_AsNAwBZMDAVQ.jpg"/>
     </item>
   </channel>
 </rss>
