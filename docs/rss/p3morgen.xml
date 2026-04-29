@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:34:29 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:25:03 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>langefinger = gravemaskin</title>
+      <description><![CDATA[Arin er støl, Henning er litt skadet og Jonas er god på sjøløvelyder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e62af74a-013e-4aa5-aaf7-4a013e6aa5fa_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e62af74a-013e-4aa5-aaf7-4a013e6aa5fa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Axe-kurder og diss track.</title>
       <description><![CDATA[Jonas deler hva som har stresset han de to siste ukene og Arin føler seg disset av Henning.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:47</itunes:duration>
       <pubDate>Sat, 18 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XS3ARKo1LQyaeIAhHDxEgA3lhtra8JAs8SmDg957gEnQ.jpg"/>
-    </item>
-    <item>
-      <title>Jesus i underetasjen</title>
-      <description><![CDATA[Er det greit å spise i sengen, og hvordan er det å ha Jesus som nærmeste nabo?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/44ccafe2-94ec-40e5-8caf-e294ec60e51a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/44ccafe2-94ec-40e5-8caf-e294ec60e51a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Fri, 17 Apr 2026 10:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
     </item>
   </channel>
 </rss>
