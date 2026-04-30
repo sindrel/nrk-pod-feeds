@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:48:13 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 18:44:30 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Drivstoffdramaet i Stortinget</title>
+      <description><![CDATA[Etter dager med politisk drama blir det opprinnelige forslaget om drivstoffkutt gjennomført.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/101cd44d-89be-48d4-9cd4-4d89bef8d40c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/101cd44d-89be-48d4-9cd4-4d89bef8d40c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 30 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gtVRUxolnRvo0fmcO8bwGw2wuH2tmR0r0gHX0ONQ1Huw.jpg"/>
+    </item>
     <item>
       <title>Høyre pauser avgiftskutt</title>
       <description><![CDATA[Høyre vil stanse de fire omstridte vedtakene om avgiftskutt inntil videre. Sp raser.]]></description>
@@ -92,16 +101,6 @@
       <itunes:duration>58:52</itunes:duration>
       <pubDate>Fri, 17 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TDvGryGprJ7DfjsPEnpM9gQJdu7-vgpFc-CkeWITvMrA.jpg"/>
-    </item>
-    <item>
-      <title>Sverige senker kriminell lavalder</title>
-      <description><![CDATA[Vil at 13-åringer som begår alvorlige lovbrudd skal straffes med fengsel.
-Her hjemme vil Frp senke den til 14 år]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2ef84d7c-deca-44c0-b84d-7cdeca74c036_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2ef84d7c-deca-44c0-b84d-7cdeca74c036_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 16 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/t_9cCyLjJ1bpOUp77Kr45g7CVj_1C3PJ7_IEQNAo6UWw.jpg"/>
     </item>
   </channel>
 </rss>
