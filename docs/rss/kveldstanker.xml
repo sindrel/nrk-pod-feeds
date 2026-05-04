@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Apr 2026 04:03:22 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 15:22:29 +0000</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Kontakt Kveldstanker</title>
+      <description><![CDATA[Bruk send inn-knappen om du vil kontakte oss i Kveldstanker.  Kom med ris og ros, og tips om folk du vil høre fortelle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0b10c3e2-e8f4-4d1a-90c3-e2e8f46d1a88_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0b10c3e2-e8f4-4d1a-90c3-e2e8f46d1a88_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:28</itunes:duration>
+      <pubDate>Mon, 04 May 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    </item>
     <item>
       <title>Slum - med Vegard Tjøhom</title>
       <description><![CDATA[- Alle kan vel like ros av heimplassen sin, men kva med dei som bur i slummen? undrar NRKs Afrika-korrespondent Vegard Tjørhom.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>04:10</itunes:duration>
       <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4wiqqtqufXm1b_sGS2WbXg6CjWchuv_Mf9Sg_iYbzSww.jpg"/>
-    </item>
-    <item>
-      <title>Imran - med Noman Mubashir</title>
-      <description><![CDATA[Et kort besøk i en flyktningleir skulle gi forfatteren Noman Mubashir et minne for livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/394e3896-fff5-4318-8e38-96fff5a3182f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/394e3896-fff5-4318-8e38-96fff5a3182f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:39</itunes:duration>
-      <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pQAtnzPIT1XcIV7PMcvQhwwRoTx-fmuWWVjzcKiO9BNw.jpg"/>
     </item>
   </channel>
 </rss>
