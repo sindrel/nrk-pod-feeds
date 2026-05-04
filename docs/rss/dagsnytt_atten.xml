@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 30 Apr 2026 18:44:30 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 17:51:15 +0000</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Uro i Hormuz</title>
+      <description><![CDATA[Motstridende meldinger om angrep mot amerikansk skip. USA sier de vil hjelpe skip gjennom stredet. Brudd på våpenhvilen svarer Iran.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5ab3e758-41ee-420c-b3e7-5841eee20cd3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5ab3e758-41ee-420c-b3e7-5841eee20cd3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 04 May 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iY8d45vJG0sPH53pSwg-1QbxLDkGDPrCpFW7PIixz-jA.jpg"/>
+    </item>
     <item>
       <title>Drivstoffdramaet i Stortinget</title>
       <description><![CDATA[Etter dager med politisk drama blir det opprinnelige forslaget om drivstoffkutt gjennomført.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:40</itunes:duration>
       <pubDate>Mon, 20 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Fw6JPxlsPN3b6IpR2jzDhQHPAefnzzKPtoBOSq2EfRdg.jpg"/>
-    </item>
-    <item>
-      <title>Hormuzstredet åpnet, ifølge Iran.</title>
-      <description><![CDATA[NHO advarer om at Norge kan stoppe helt opp ved en internasjonale drivstoffkrise.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/69256d2f-8797-4cd5-a56d-2f87972cd5b3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/69256d2f-8797-4cd5-a56d-2f87972cd5b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:52</itunes:duration>
-      <pubDate>Fri, 17 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TDvGryGprJ7DfjsPEnpM9gQJdu7-vgpFc-CkeWITvMrA.jpg"/>
     </item>
   </channel>
 </rss>
