@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 04 May 2026 15:22:29 +0000</lastBuildDate>
-    <pubDate>Mon, 04 May 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 06:29:02 +0000</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Le - med Terje Torkildsen</title>
+      <description><![CDATA[- Når var det vi sluttet og le, spør forfatter og komiker Terje Torkildsen. Han mener noe skjer på veien vår fra barn til voksen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/f2be120b-9b09-4eaa-be12-0b9b093eaa6a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/f2be120b-9b09-4eaa-be12-0b9b093eaa6a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:38</itunes:duration>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
+    </item>
     <item>
       <title>Kontakt Kveldstanker</title>
       <description><![CDATA[Bruk send inn-knappen om du vil kontakte oss i Kveldstanker.  Kom med ris og ros, og tips om folk du vil høre fortelle.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:45</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
-    </item>
-    <item>
-      <title>Kokosnøtt - med Maria Parr</title>
-      <description><![CDATA[Ein gjeng må innimellom høyre og sjå det same for å hengje i hop, meiner barnebokforfattaren Maria Parr.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/322f3f5b-ab9c-4b71-af3f-5bab9cbb71ac_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/322f3f5b-ab9c-4b71-af3f-5bab9cbb71ac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:10</itunes:duration>
-      <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4wiqqtqufXm1b_sGS2WbXg6CjWchuv_Mf9Sg_iYbzSww.jpg"/>
     </item>
   </channel>
 </rss>

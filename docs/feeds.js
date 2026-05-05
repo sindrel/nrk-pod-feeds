@@ -1140,7 +1140,9 @@ const feeds = [
     "id": "paa_audition",
     "title": "De 10 siste fra På audition",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "paalogga",
