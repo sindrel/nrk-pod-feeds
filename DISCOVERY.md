@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-05-05  
+- Podcast 'På audition' is considered obsolete and will be ignored in the future (`paa_audition`)  
 ### 2026-04-26  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 - Updated podcast 'Hvem skjøt Balder?' (`hvem_skjoet_balder`)  
