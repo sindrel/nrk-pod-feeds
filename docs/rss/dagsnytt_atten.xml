@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 04 May 2026 17:51:15 +0000</lastBuildDate>
-    <pubDate>Mon, 04 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 18:47:06 +0000</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Oljeleting nærmere land</title>
+      <description><![CDATA[Regjeringen lyser ut olje- og gassområder nærmere kysten enn noen gang før - Nok en gang overser regjeringen miljøfaglige råd, sier SV.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b81028c5-2fbb-4338-9028-c52fbbe33874_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b81028c5-2fbb-4338-9028-c52fbbe33874_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 05 May 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LzBVaQYiLBiXATr9OT5HdAozaTCfg5yc7fzmCp-ZdUsA.jpg"/>
+    </item>
     <item>
       <title>Uro i Hormuz</title>
       <description><![CDATA[Motstridende meldinger om angrep mot amerikansk skip. USA sier de vil hjelpe skip gjennom stredet. Brudd på våpenhvilen svarer Iran.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 21 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x3hPL_5zVHh47qcBfYoYcAFtDjwn6lIiFm7Xk6hnd4CQ.jpg"/>
-    </item>
-    <item>
-      <title>Streik i hotell- og restaurantbransjen</title>
-      <description><![CDATA[Flere hundre ble i helgen tatt ut i streik der hovedkonflikten er sykepenger]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dfd701ce-1d49-489a-9701-ce1d49689ae7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dfd701ce-1d49-489a-9701-ce1d49689ae7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:40</itunes:duration>
-      <pubDate>Mon, 20 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Fw6JPxlsPN3b6IpR2jzDhQHPAefnzzKPtoBOSq2EfRdg.jpg"/>
     </item>
   </channel>
 </rss>
