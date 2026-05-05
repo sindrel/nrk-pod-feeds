@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 04 May 2026 12:55:58 +0000</lastBuildDate>
-    <pubDate>Mon, 04 May 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 11:38:30 +0000</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Oljemangel i olje-Norge?</title>
+      <description><![CDATA[Før var vi selvforsynte med olje. Hvorfor er vi ikke det lenger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e83b2751-e2ea-4f51-bb27-51e2ea0f5176_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e83b2751-e2ea-4f51-bb27-51e2ea0f5176_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:26</itunes:duration>
+      <pubDate>Tue, 05 May 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vs9q8rF77dlBnD30DPCgpwAtT5FIXDobJC2Cw9zGY39Q.jpg"/>
+    </item>
     <item>
       <title>Bygger vi oss syke?</title>
       <description><![CDATA[Norge trenger flere boliger, men det bygges så tett at dagslyset forsvinner, hva gjør det med oss?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>25:24</itunes:duration>
       <pubDate>Mon, 20 Apr 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DW6lzcM8fNOtIlIxB3VrMQl-rGL4B0RuVYBtBTHOaupw.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: Trump som frelser?</title>
-      <description><![CDATA[Et KI-generert bilde av Trump som Jesus vekker reaksjoner. Ser han egentlig på seg selv som verdens frelser?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c03b6b79-b21e-4834-bb6b-79b21e283449_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c03b6b79-b21e-4834-bb6b-79b21e283449_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:56</itunes:duration>
-      <pubDate>Thu, 16 Apr 2026 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/75qSnqAlk7C9McqHqXF5fAuWDIsQuo0T8ecYxy0EzsuA.jpg"/>
     </item>
   </channel>
 </rss>

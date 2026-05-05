@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 04 May 2026 10:25:17 +0000</lastBuildDate>
-    <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 11:38:41 +0000</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Blue Waffle.</title>
+      <description><![CDATA[Vi har fått en mystisk melding i innboksen og Arin er klar for å kjøpe leilighet, tror hun...]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bcd0c759-6015-479a-90c7-596015079ae0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bcd0c759-6015-479a-90c7-596015079ae0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Ængst!</title>
       <description><![CDATA[Arin og Jonas har hatt litt helseangst i helgen og Henning klarer ikke å ta sesongfinalen av LIS seriøst.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/145e85e6-e4e1-4048-9e85-e6e4e1b04843_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Thu, 23 Apr 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dNA3ULHkxG2_R1h8PdFdowSe21bdQMYbAbuSk2OJPfqw.jpg"/>
-    </item>
-    <item>
-      <title>Hest på stuegulvet</title>
-      <description><![CDATA[Jonas forteller om en hest i en stue, Maria forteller om russefest i leiligheten sin og Henning har knust Berlinmuren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3239bf9a-19f3-462f-b9bf-9a19f3a62f76_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3239bf9a-19f3-462f-b9bf-9a19f3a62f76_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Wed, 22 Apr 2026 10:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dNA3ULHkxG2_R1h8PdFdowSe21bdQMYbAbuSk2OJPfqw.jpg"/>
     </item>
   </channel>
