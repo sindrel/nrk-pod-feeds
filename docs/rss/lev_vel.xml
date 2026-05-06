@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 01 May 2026 04:18:36 +0000</lastBuildDate>
-    <pubDate>Fri, 01 May 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 04:06:27 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Ernæring: Fett (3:3)</title>
+      <description><![CDATA[Visste du at hjernen stort sett er bygd opp av fett? Klinisk ernæringsfysiolog Jacob Juel Christensen forklarer alt du trenger å vite om fett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/78099b40-c94f-454c-899b-40c94fa54c47_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/78099b40-c94f-454c-899b-40c94fa54c47_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:33</itunes:duration>
+      <pubDate>Wed, 06 May 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Bonus: Knakk motivasjonskoden</title>
       <description><![CDATA[Motivasjonen er tilbake, men Linnéa sliter fortsatt med et av målene, noe de mest oppmerksomme av lytterne har fått med seg.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>34:04</itunes:duration>
       <pubDate>Wed, 18 Mar 2026 05:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Bonus: Hvordan skal vi snakke om ernæring?</title>
-      <description><![CDATA[«Ultraprosessert mat», «lavkarbo» og «fasting» er temaer veldig mange av podkastens lytterne ønsker at vi lager episoder om. Linnéa forklarer hvorfor det er vanskelig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/7e6f376d-d76d-42c6-af37-6dd76d92c6e4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/7e6f376d-d76d-42c6-af37-6dd76d92c6e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:51</itunes:duration>
-      <pubDate>Wed, 18 Mar 2026 04:55:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
     </item>
   </channel>
 </rss>

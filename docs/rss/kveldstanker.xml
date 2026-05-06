@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 05 May 2026 06:29:02 +0000</lastBuildDate>
-    <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 04:06:23 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Stille - med Sunniva Relling Berg</title>
+      <description><![CDATA[- Jeg var et stille barn og ble kalt annerledes, forteller forfatteren Sunniva Relling Berg.  I dag vet hun at annerledes er bra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/cd5050bf-b2a9-4cee-9050-bfb2a92cee3b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/cd5050bf-b2a9-4cee-9050-bfb2a92cee3b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:16</itunes:duration>
+      <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z8CIr6NfCmd6o8_LOA9cUQByLqt8xqVPETMGVT3yCmnw.jpg"/>
+    </item>
     <item>
       <title>Le - med Terje Torkildsen</title>
       <description><![CDATA[- Når var det vi sluttet og le, spør forfatter og komiker Terje Torkildsen. Han mener noe skjer på veien vår fra barn til voksen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:55</itunes:duration>
       <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
-    </item>
-    <item>
-      <title>Grønn mann - med Lena Lindahl</title>
-      <description><![CDATA[- Å gå på rød mann ga meg en opplevelse for livet, forteller forfatter Lena Lindahl.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/581d80ce-7354-4eea-9d80-ce73549eeaa6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/581d80ce-7354-4eea-9d80-ce73549eeaa6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:45</itunes:duration>
-      <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
     </item>
   </channel>
 </rss>
