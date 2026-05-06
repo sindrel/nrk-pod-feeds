@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 05 May 2026 11:38:41 +0000</lastBuildDate>
-    <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 09:36:40 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Baggen, Bangen og Ann-Magdi</title>
+      <description><![CDATA[Skriver du dagbok? Hva hører du på når du sover? Betaler du bensin for venner? Har du kallenavn? Vi er innom mye i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a8819482-2ef7-4c12-8194-822ef78c1266_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a8819482-2ef7-4c12-8194-822ef78c1266_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Blue Waffle.</title>
       <description><![CDATA[Vi har fått en mystisk melding i innboksen og Arin er klar for å kjøpe leilighet, tror hun...]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
-    </item>
-    <item>
-      <title>Nattmat på 50-tallet</title>
-      <description><![CDATA[Kan man grille i en tønne? Har kongen BankID? Hvordan gikk man på fylla i gamle dager? Fasiten får du (muligens) her.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/145e85e6-e4e1-4048-9e85-e6e4e1b04843_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/145e85e6-e4e1-4048-9e85-e6e4e1b04843_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Thu, 23 Apr 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dNA3ULHkxG2_R1h8PdFdowSe21bdQMYbAbuSk2OJPfqw.jpg"/>
     </item>
   </channel>
 </rss>
