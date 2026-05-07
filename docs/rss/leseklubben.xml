@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Leseklubben</title>
+    <title>De 10 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 07 May 2026 04:05:42 +0000</lastBuildDate>
-    <pubDate>Thu, 07 May 2026 06:05:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 07:18:36 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 06:06:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
@@ -163,6 +163,23 @@ Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/cba0a5e7-119e-409e-a0a5-e7119e709e5c_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:27</itunes:duration>
       <pubDate>Thu, 07 May 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+    </item>
+    <item>
+      <title>«Kafka på stranden» (9:49)</title>
+      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 6-16 kan du høre Leseklubben episode 3.
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
+Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
+Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
+Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5fbfa332-cc06-4d32-bfa3-32cc06dd32e6_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5fbfa332-cc06-4d32-bfa3-32cc06dd32e6_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:37</itunes:duration>
+      <pubDate>Thu, 07 May 2026 06:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
     </item>
   </channel>
