@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 06 May 2026 18:59:39 +0000</lastBuildDate>
-    <pubDate>Wed, 06 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 17:58:01 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norges Bank hever renten</title>
+      <description><![CDATA[Høyre beskylder regjeringen for lureri.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f6dffd0e-0da1-487b-9ffd-0e0da1e87b22_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f6dffd0e-0da1-487b-9ffd-0e0da1e87b22_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Thu, 07 May 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FwVY9SS7C3n58cfN9QTdzgbuVyAU8L8k4rUUoHd1Y1IA.jpg"/>
+    </item>
     <item>
       <title>Er krigen over?</title>
       <description><![CDATA[Donald Trump sier Iran og USA er nærmere en fredsavtale.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Thu, 23 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XicHwYaun42z3YMmIbvTbw-wvvnm8kQhPjs5PMixx-Ag.jpg"/>
-    </item>
-    <item>
-      <title>ADHD diagnostiseres uten fysisk oppmøte</title>
-      <description><![CDATA[Nå vil helseministeren endre retningslinjene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/26f0e51a-7bb4-46ec-b0e5-1a7bb466ecd2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/26f0e51a-7bb4-46ec-b0e5-1a7bb466ecd2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 22 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ROZFy67buag_rNJr9ApAYAZ5Gr7WC3cbwrp1_mP3mKpQ.jpg"/>
     </item>
   </channel>
 </rss>
