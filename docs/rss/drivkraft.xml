@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 06 May 2026 12:09:00 +0000</lastBuildDate>
-    <pubDate>Wed, 06 May 2026 13:45:00 +0200</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 13:02:30 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Magnus Devold</title>
+      <description><![CDATA[– Jeg har ikke så mye jubel og glede i meg, sier komikeren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/139c8e6b-e799-4174-9c8e-6be799b17444_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/139c8e6b-e799-4174-9c8e-6be799b17444_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Thu, 07 May 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6k7a9rV8-qSzMFqtdLoFmgueisNHhVFqP6bSGm39vDzA.jpg"/>
+    </item>
     <item>
       <title>Hilde Sandvik</title>
       <description><![CDATA[Kommentator og programleder Hilde Sandvik:- Jeg skulle bli misjonær eller danse med lite klær. Ble noe midt i mellom.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Tue, 21 Apr 2026 13:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/J53u1xSUhEkJsmPvR4smfQFp9bsEbcQucpZzrzUjnurw.jpg"/>
-    </item>
-    <item>
-      <title>Vegard Bjørsmo</title>
-      <description><![CDATA[– Jeg omfavnet først nylig at jeg er skeiv, sier musikeren]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6463671d-6656-4636-a367-1d66562636a0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6463671d-6656-4636-a367-1d66562636a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:10</itunes:duration>
-      <pubDate>Mon, 20 Apr 2026 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/s_9DsrXgzBq06kvgosYBwQt_rfZ6vTivGEHLoIgoOvdA.jpg"/>
     </item>
   </channel>
 </rss>
