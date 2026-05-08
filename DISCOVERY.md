@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-05-08  
+- Podcast 'Herreavdelingen' is considered obsolete and will be ignored in the future (`herreavdelingen`)  
+### 2026-05-08  
 - Updated podcast 'Abels tårn' (`abels_taarn`)  
 - Added podcast 'Herreavdelingen' (`herreavdelingen`)  
 ### 2026-05-05  
