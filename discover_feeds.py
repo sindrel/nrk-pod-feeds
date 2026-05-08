@@ -81,7 +81,7 @@ def update_podcasts_config(configured, discovered):
             "enabled": active['active']
         }
 
-        if active['obsolete']:
+        if exists and active['obsolete']:
             logging.warning(f"Podcast {podcast['title']} is considered obsolete and will be ignored in the future")
             changes.append(f"Podcast '{podcast['title']}' is considered obsolete and will be ignored in the future (`{podcast['seriesId']}`)")
             new_feed["ignore"] = True
