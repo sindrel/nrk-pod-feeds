@@ -13,7 +13,7 @@ def get_last_feed(feeds_dir, podcast_id):
         tree = ET.parse(path)
         root = tree.getroot()
         return root
-    except:
+    except Exception:
         logging.info(f"No existing feed found for podcast {podcast_id}")
         return None
 
