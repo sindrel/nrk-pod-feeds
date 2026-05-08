@@ -488,7 +488,9 @@ const feeds = [
     "id": "herreavdelingen",
     "title": "De 10 siste fra Herreavdelingen",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "historiske_kjendiser",
