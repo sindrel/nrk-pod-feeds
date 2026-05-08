@@ -18,8 +18,8 @@ const feeds = [
   {
     "id": "abels_taarn",
     "title": "De 10 siste fra Abels tårn",
-    "season": null,
-    "enabled": true
+    "season": "LATEST_SEASON",
+    "enabled": false
   },
   {
     "id": "andakten",
@@ -483,6 +483,12 @@ const feeds = [
     "title": "De 10 siste fra Hele historien",
     "season": "LATEST_SEASON",
     "enabled": true
+  },
+  {
+    "id": "herreavdelingen",
+    "title": "De 10 siste fra Herreavdelingen",
+    "season": null,
+    "enabled": false
   },
   {
     "id": "historiske_kjendiser",
