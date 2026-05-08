@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-05-08  
+- Updated podcast 'Abels tårn' (`abels_taarn`)  
+- Added podcast 'Herreavdelingen' (`herreavdelingen`)  
 ### 2026-05-05  
 - Podcast 'På audition' is considered obsolete and will be ignored in the future (`paa_audition`)  
 ### 2026-04-26  
