@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 08 May 2026 18:44:42 +0000</lastBuildDate>
-    <pubDate>Fri, 08 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 18:04:56 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Streiken fortsetter</title>
+      <description><![CDATA[Høyre vil ha en midlertidig ordning for forskuttering av sykepenger.
+Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9219aa08-2d0f-4fc5-99aa-082d0f3fc5be_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9219aa08-2d0f-4fc5-99aa-082d0f3fc5be_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 11 May 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2arwoEcRry9G1rjG93P2ugE9rIpq4JOpQGmt8jnHaBBQ.jpg"/>
+    </item>
     <item>
       <title>Russisk militærparade nedskalert</title>
       <description><![CDATA[Kreml nedskalerer den årlige paraden i frykt for det de kaller "ukrainsk terrorisme".]]></description>
@@ -92,15 +102,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jMHxPchmpN73wlG8MU9p3w5U6OCCaXZGPv2QYF_n5T3Q.jpg"/>
-    </item>
-    <item>
-      <title>- Flere kutt i drivstoffavgiftene kan være ulovlige.</title>
-      <description><![CDATA[Det sier finansministeren. Bedriftene som får fordeler av avgiftskutt kan måtte tilbakebetale beløpet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b426a9a6-3379-4d32-a6a9-a63379dd3233_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b426a9a6-3379-4d32-a6a9-a63379dd3233_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 24 Apr 2026 18:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/c9kq7xvJhOxBeIJZl5TsqwM_nBTH_C_RcirhPNIHuHdg.jpg"/>
     </item>
   </channel>
 </rss>
