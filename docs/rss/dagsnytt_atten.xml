@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 11 May 2026 18:04:56 +0000</lastBuildDate>
-    <pubDate>Mon, 11 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 12 May 2026 18:17:41 +0000</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringen har lagt frem revidert nasjonalbudsjett</title>
+      <description><![CDATA[De rødgrønne partiene varsler tøffe forhandlinger om revidert nasjonalbudsjett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/79ed6207-53a7-418f-ad62-0753a7e18fac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/79ed6207-53a7-418f-ad62-0753a7e18fac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 12 May 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zM4Zl-RpVT_DcKTHGXdyWw1_Zo9vJHuzJwu0tojIqzmg.jpg"/>
+    </item>
     <item>
       <title>Streiken fortsetter</title>
       <description><![CDATA[Høyre vil ha en midlertidig ordning for forskuttering av sykepenger.
@@ -93,15 +102,6 @@ Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></descrip
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Tue, 28 Apr 2026 20:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bCBsnW6QzxvCWj4scHz9EQ4OEC86GELyr1O6kUcEaIpQ.jpg"/>
-    </item>
-    <item>
-      <title>Attentatet mot Trump</title>
-      <description><![CDATA[– Ikke overraskende, mener ekspert, som sier Trump bidrar til et stadig mer polarisert USA.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e6a2d6e-86f5-4d49-aa2d-6e86f5dd49b2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e6a2d6e-86f5-4d49-aa2d-6e86f5dd49b2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jMHxPchmpN73wlG8MU9p3w5U6OCCaXZGPv2QYF_n5T3Q.jpg"/>
     </item>
   </channel>
 </rss>
