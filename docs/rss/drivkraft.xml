@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 12 May 2026 12:17:38 +0000</lastBuildDate>
-    <pubDate>Tue, 12 May 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 13:29:22 +0000</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 12:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Synnøve Vereide Trampe</title>
+      <description><![CDATA[– Jeg har en indre trassunge i meg, sier kommentatoren i Aftenposten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e8c6ad9e-243c-45e6-86ad-9e243cd5e650_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e8c6ad9e-243c-45e6-86ad-9e243cd5e650_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Wed, 13 May 2026 12:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x34OmPLHAPFUNEj-PuINhg-AqXuZcYOx0MPZlHuAhB1Q.jpg"/>
+    </item>
     <item>
       <title>Erling Dokk Holm</title>
       <description><![CDATA[- Åpent landskap er ikke noe sjakktrekk for psykisk helse, mener arkitektureksperten]]></description>
@@ -94,15 +103,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>56:45</itunes:duration>
       <pubDate>Mon, 27 Apr 2026 14:51:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HM-rcwfnH56m_3fPaiYItQ8x0-gJxf2CSYvv__v3h8sg.jpg"/>
-    </item>
-    <item>
-      <title>Ståle Solbakken</title>
-      <description><![CDATA[-  Legene tok livet av meg for å teste hjertet, og da så jeg en lyseblå tunnel, forteller landslagssjefen i fotball]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/143b843d-5292-4853-bb84-3d52923853d5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/143b843d-5292-4853-bb84-3d52923853d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:32</itunes:duration>
-      <pubDate>Thu, 23 Apr 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/F04bQkHgi3Q8oLYfO7m7CA_Z5pd5mPZUUq7v45Za2Xuw.jpg"/>
     </item>
   </channel>
 </rss>
