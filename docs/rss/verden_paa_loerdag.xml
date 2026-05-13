@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 08 May 2026 06:10:14 +0000</lastBuildDate>
-    <pubDate>Fri, 08 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 04:15:16 +0000</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>Rosablogger mot Putin</title>
+      <description><![CDATA[Hva er det som skjer i Russland når influenser Victoria Bonya begynner å kritisere Putin?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ec28ccd1-16ad-4631-a8cc-d116ad9631c4_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ec28ccd1-16ad-4631-a8cc-d116ad9631c4_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:11</itunes:duration>
+      <pubDate>Wed, 13 May 2026 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bqBiAXkBD9HPrzJ3NGjhTAg_wFpdUam_fVcMa8ChQkNA.jpg"/>
+    </item>
     <item>
       <title>Turist i Hormuzstredet</title>
       <description><![CDATA[Blokaden av et smalt havstykke i Midtøsten preger  verden og skaper en desperat situasjon for 20 000 sjøfolk som sitter fast.
@@ -93,15 +102,6 @@ NRKs reporter måtte opptre som turist for å se Hormuz-blokaden med egne øyne.
       <itunes:duration>12:50</itunes:duration>
       <pubDate>Wed, 01 Apr 2026 06:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PhWr5BiIcMalwaklewkFiQ3d1kO5BIKe27Hnu0K9QQuA.jpg"/>
-    </item>
-    <item>
-      <title>Dette kan gå galt i Iran</title>
-      <description><![CDATA[Amerikanske soldater kan nå bli satt inn på bakken i Iran. Det kan bli en katastrofe.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ace31298-53ed-4b53-a312-9853ed0b5338_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ace31298-53ed-4b53-a312-9853ed0b5338_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:23</itunes:duration>
-      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/diKKU8mUstl-D5OgnvPtMg-Z-fW3sXyipGAqPHNGZG9g.jpg"/>
     </item>
   </channel>
 </rss>

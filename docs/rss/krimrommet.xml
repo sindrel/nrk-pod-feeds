@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 06 May 2026 18:59:48 +0000</lastBuildDate>
-    <pubDate>Wed, 06 May 2026 20:45:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 04:14:55 +0000</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>D4VD: Motorsag, likpose og forbrenningsbur</title>
+      <description><![CDATA[Politiet mener at artisten drepte 14 år gamle Celeste – og parterte henne med motorsag. Men holder bevisene hele veien til retten?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/bb479eeb-0e46-4562-879e-eb0e46b5621b_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/bb479eeb-0e46-4562-879e-eb0e46b5621b_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:03</itunes:duration>
+      <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Cng4UKbamhe1n12KvZ6iaQgX42vowUOtwIzhRydG016Q.jpg"/>
+    </item>
     <item>
       <title>Høiby (20): Avslag på 15 minutter</title>
       <description><![CDATA[Marius Borg Høiby var tilbake i retten i dag med et ønske om å sitte i varetekt hjemme med fotlenke.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GSjrhADphw1Jyks94x13oQU7M2Q81Hu6G7QQwQ9Z2Nlg.jpg"/>
-    </item>
-    <item>
-      <title>Høiby (18): Aktor vil ha 7 års fengsel</title>
-      <description><![CDATA[Aktoratet og bistandsadvokatene la frem sine siste argumenter i retten i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/8fd21276-b11a-4b70-9212-76b11a5b70e1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/8fd21276-b11a-4b70-9212-76b11a5b70e1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:13</itunes:duration>
-      <pubDate>Wed, 18 Mar 2026 20:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LkrAKsBIf0EfTZFMwRaT4Ac9w5YL6YI2eI0yKO-XFAUg.jpg"/>
     </item>
   </channel>
 </rss>
