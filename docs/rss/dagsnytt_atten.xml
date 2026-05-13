@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 12 May 2026 18:17:41 +0000</lastBuildDate>
-    <pubDate>Tue, 12 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 19:05:55 +0000</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Trump i Kina</title>
+      <description><![CDATA[USAs president har landet i Kina - tema for møtene skal være handel og konflikten i Hormuzstredet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/40d19d87-3d6b-4be6-919d-873d6b3be67e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/40d19d87-3d6b-4be6-919d-873d6b3be67e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Wed, 13 May 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/66eksJSpHZQ19dDT9hDZAgusSI_JullAFAqMIht0PqhA.jpg"/>
+    </item>
     <item>
       <title>Regjeringen har lagt frem revidert nasjonalbudsjett</title>
       <description><![CDATA[De rødgrønne partiene varsler tøffe forhandlinger om revidert nasjonalbudsjett.]]></description>
@@ -93,15 +102,6 @@ Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></descrip
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/El5KnY-g2047VkPAYEcqvAt7exXRL8uD22K0LzkboORA.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringa vil lette på kravene til boligbygging</title>
-      <description><![CDATA[- Dagens 10-åringer må trolig bo hjemme hos foreldrene til de er minst 30 år, mener eiendomsutvikler.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cb3cb8dc-1495-483d-bcb8-dc1495983db8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cb3cb8dc-1495-483d-bcb8-dc1495983db8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Tue, 28 Apr 2026 20:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bCBsnW6QzxvCWj4scHz9EQ4OEC86GELyr1O6kUcEaIpQ.jpg"/>
     </item>
   </channel>
 </rss>
