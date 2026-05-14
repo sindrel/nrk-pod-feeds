@@ -994,7 +994,7 @@ const feeds = [
     "id": "musikkhistorier",
     "title": "De 10 siste fra Musikkhistorier",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "musikkrommet",
