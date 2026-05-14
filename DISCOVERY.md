@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-05-14  
+- Updated podcast 'Musikkhistorier' (`musikkhistorier`)  
 ### 2026-05-11  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-05-08  
