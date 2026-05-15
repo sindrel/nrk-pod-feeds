@@ -1,34 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 25 Apr 2026 05:58:44 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 11:29:37 +0000</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Kommer 25. april: Helikopterstyrten</title>
-      <description><![CDATA[På et stort helikopter løsner brått selve rotoren. 13 mennesker på vei hjem fra Nordsjøen styrter hjelpeløst mot en liten holme.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/d66e4ca1-33dd-4ed4-ae4c-a133dd0ed461_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/d66e4ca1-33dd-4ed4-ae4c-a133dd0ed461_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30</itunes:duration>
-      <pubDate>Fri, 24 Apr 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ISBvrTG-9rzk67zIms-TvwiCcv6bvv0rVmfEGc9vEzUQ.jpg"/>
-    </item>
-    <item>
-      <title>Helikopterstyrten</title>
-      <description><![CDATA[Øyenvitner ser en helikopterkropp i fritt fall. Redningsarbeiderne som rykker ut, har aldri opplevd liknende.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/d593bc52-c09d-4fe1-93bc-52c09d9fe158_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/d593bc52-c09d-4fe1-93bc-52c09d9fe158_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:43</itunes:duration>
-      <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ISBvrTG-9rzk67zIms-TvwiCcv6bvv0rVmfEGc9vEzUQ.jpg"/>
+      <title>Smakebit: Dødsbakterien</title>
+      <description><![CDATA[En dødelig smitte herjer i Østfold våren 2005. Mange blir alvorlig syke, men ingen vet hvor den mystiske bakterien kommer fra. I NRK Radio fra 16.5.2026.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/e7336349-e4d4-4837-b363-49e4d4c8377e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/e7336349-e4d4-4837-b363-49e4d4c8377e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29</itunes:duration>
+      <pubDate>Fri, 15 May 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/a5fjcI6Sqw55O2CFZr1bVAypSLp2jKjkhHtQBwDB2-Xw.jpg"/>
     </item>
   </channel>
 </rss>
