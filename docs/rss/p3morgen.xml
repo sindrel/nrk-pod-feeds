@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 18 May 2026 12:47:35 +0000</lastBuildDate>
-    <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 12:20:18 +0000</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Ikke spis svin.</title>
+      <description><![CDATA[Jonas holder parfymen sin hemmelig, Henning mimrer om gamle fly og Arin bruker 90 forsøk på å forklare et poeng.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d4a68243-003d-4b02-a682-43003dfb025a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d4a68243-003d-4b02-a682-43003dfb025a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
+    </item>
     <item>
       <title>Bunadsknivdrap på moskus.</title>
       <description><![CDATA[Jonas sin 17. mai varte i tre timer, Arin tror hun bryter Vær varsom-plakaten  og Henning vil deporteres til Alaska.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:29</itunes:duration>
       <pubDate>Thu, 07 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
-    </item>
-    <item>
-      <title>Baggen, Bangen og Ann-Magdi</title>
-      <description><![CDATA[Skriver du dagbok? Hva hører du på når du sover? Betaler du bensin for venner? Har du kallenavn? Vi er innom mye i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a8819482-2ef7-4c12-8194-822ef78c1266_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a8819482-2ef7-4c12-8194-822ef78c1266_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
