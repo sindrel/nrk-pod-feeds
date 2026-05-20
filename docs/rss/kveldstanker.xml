@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 19 May 2026 04:34:04 +0000</lastBuildDate>
-    <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 04:37:08 +0000</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Næringsliv - med Terje Torkildsen</title>
+      <description><![CDATA[Terje Torkildsen har lenge undret seg over at vi ofte bruker fine, myke ord på ganske kalde, harde ting.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/16ed3878-905b-402c-ad38-78905bc02cde_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/16ed3878-905b-402c-ad38-78905bc02cde_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:16</itunes:duration>
+      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
+    </item>
     <item>
       <title>Hat - med Noman Mubashir</title>
       <description><![CDATA[Hatefulle ytringer skjer oftere enn vi liker å tro, forteller Noman Mubashir, men å hate tilbake ikke gjør ingen til vinnere.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:13</itunes:duration>
       <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
-    </item>
-    <item>
-      <title>Håp - med Miriam Våga</title>
-      <description><![CDATA[- Om du svikter deg selv av og til, så gjør ikke det dine tidligere seire mindre verdt, hevder musikeren Miriam Haga]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/120f4a14-172f-43a2-8f4a-14172fe3a234_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/120f4a14-172f-43a2-8f4a-14172fe3a234_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
     </item>
   </channel>
 </rss>
