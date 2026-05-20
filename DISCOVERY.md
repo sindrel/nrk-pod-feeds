@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-05-20  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2026-05-14  
 - Updated podcast 'Musikkhistorier' (`musikkhistorier`)  
 ### 2026-05-11  
