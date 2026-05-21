@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 20 May 2026 08:35:24 +0000</lastBuildDate>
-    <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 10:03:19 +0000</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 10:32:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Sparkesykler og gapestokk</title>
+      <description><![CDATA[Henning har løpt, Jonas har sykla og er det innafor å henge ut rasister?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b1780753-9fb0-45cb-b807-539fb095cbd7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b1780753-9fb0-45cb-b807-539fb095cbd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Thu, 21 May 2026 10:32:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
+    </item>
     <item>
       <title>Vennskapelig kontorkødd</title>
       <description><![CDATA[Produsent Johannes kommer inn for å bruke tilsvarsretten mot gårsdagens uttalelser fra Arin.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:04:38</itunes:duration>
       <pubDate>Sat, 09 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/b9smGD75pAk5a9PsXoQm1A3MAwgCj7jZ_otAZRunRUEQ.jpg"/>
-    </item>
-    <item>
-      <title>Respekt for gjennomført hat.</title>
-      <description><![CDATA[Hvordan ville Arin og Henning "winget" Jonas, og hvordan skal man gi gaver?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/69beebf0-80f1-4592-beeb-f080f1c59278_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/69beebf0-80f1-4592-beeb-f080f1c59278_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Fri, 08 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
     </item>
   </channel>
 </rss>
