@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-05-22  
+- Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
 ### 2026-05-20  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2026-05-14  
