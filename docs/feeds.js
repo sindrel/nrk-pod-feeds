@@ -744,7 +744,7 @@ const feeds = [
     "id": "kringkastingsorkestret_",
     "title": "De 10 siste fra Kringkastingsorkestret ",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "kroppen",
