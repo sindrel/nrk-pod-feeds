@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 22 May 2026 18:04:50 +0000</lastBuildDate>
-    <pubDate>Fri, 22 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 26 May 2026 21:57:54 +0000</lastBuildDate>
+    <pubDate>Tue, 26 May 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Den omstridte Helseplattformen opprettholdes</title>
+      <description><![CDATA[- Dette er en IT-svulst som vil fortsette å vokse, mener MDG.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/01ea39f2-66d7-443a-aa39-f266d7243aa4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/01ea39f2-66d7-443a-aa39-f266d7243aa4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 26 May 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HZj8AsCDDzuDYpWBh5i6fg6Xvg-WzNQxCpbbLutar9bg.jpg"/>
+    </item>
     <item>
       <title>Uenighet om minerallisenser</title>
       <description><![CDATA[Gruveselskaper med bånd til Kina hamstrer minerallisenser. Venstre kritiserer regjeringen og kaller det et sikkerhetshull.]]></description>
@@ -93,15 +102,6 @@ Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></descrip
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 11 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2arwoEcRry9G1rjG93P2ugE9rIpq4JOpQGmt8jnHaBBQ.jpg"/>
-    </item>
-    <item>
-      <title>Russisk militærparade nedskalert</title>
-      <description><![CDATA[Kreml nedskalerer den årlige paraden i frykt for det de kaller "ukrainsk terrorisme".]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2f7d0983-173d-46ca-bd09-83173db6cab0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2f7d0983-173d-46ca-bd09-83173db6cab0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:55</itunes:duration>
-      <pubDate>Fri, 08 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TsMY4-IYQLBPvNds-fsVOwD1QizgZJTyzZh9k9ZD8J8w.jpg"/>
     </item>
   </channel>
 </rss>
