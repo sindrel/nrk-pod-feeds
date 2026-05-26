@@ -61,23 +61,16 @@ def update_podcasts_config(configured, discovered):
             logging.debug(f"Podcast {podcast['seriesId']} is in ignored category {metadata['series']['category']['id']}")
             continue
 
-        latest_season = None
-        season = None
+        episodes = psapi.get_podcast_episodes(podcast['seriesId'])
 
-        if metadata['seriesType'] == "umbrella":
-            latest_season = metadata["_links"]["seasons"][0]["name"]
-            season = "LATEST_SEASON"
-
-        episodes = psapi.get_podcast_episodes(podcast['seriesId'], latest_season)
-        
         active = check_if_podcast_active(today, episodes)
 
-        logging.debug(f"Latest season: {latest_season}, episodes found: {len(episodes)}")
+        logging.debug(f"Episodes found: {len(episodes)}")
 
         new_feed = {
             "id": podcast['seriesId'],
             "title": f"{title_prefix}{podcast['title']}",
-            "season": season,
+            "season": None,
             "enabled": active['active']
         }
 
