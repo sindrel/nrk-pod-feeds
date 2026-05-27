@@ -1430,7 +1430,9 @@ const feeds = [
     "id": "spoer_for_en_venn",
     "title": "De 10 siste fra Spør for en venn",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "sportsdesken_brenner",
