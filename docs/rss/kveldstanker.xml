@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 26 May 2026 04:34:56 +0000</lastBuildDate>
-    <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 04:49:54 +0000</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Sjølvtillit- med Sunniva Relling Berg</title>
+      <description><![CDATA[- Ikkje gjer som læraren din seier, rådar forfattaren Sunniva Relling Berg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0d1bd343-4d9e-404d-9bd3-434d9e904d22_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0d1bd343-4d9e-404d-9bd3-434d9e904d22_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:11</itunes:duration>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z8CIr6NfCmd6o8_LOA9cUQByLqt8xqVPETMGVT3yCmnw.jpg"/>
+    </item>
     <item>
       <title>Fremmed - med Lena Lindahl</title>
       <description><![CDATA[Er det så nøye hvem som kom først hit, spør forfatteren Lena Lindahl.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:06</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6VVTzuvC1D93sS0gdcb9tg6B8uDHzhR3m5lt_Z-5aNxw.jpg"/>
-    </item>
-    <item>
-      <title>Jeg faller - med Carline Tromp</title>
-      <description><![CDATA[- Denne vinteren har jeg brukt mye tid på å lære meg noe jeg aldri har fått til, forteller litteraturkritiker Carline Tromp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/831d1154-0e20-487a-9d11-540e20f87aea_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/831d1154-0e20-487a-9d11-540e20f87aea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EG61784IOV8uAY-azhLZHQBdZgohDDKU2MU5mLlivUSQ.jpg"/>
     </item>
   </channel>
 </rss>
