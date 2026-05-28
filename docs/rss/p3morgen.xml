@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 27 May 2026 08:48:38 +0000</lastBuildDate>
-    <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 08:53:12 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Conga line med rumpevask.</title>
+      <description><![CDATA[Velkommen til den høykulturelle podkasten, P3morgen for B-mennesker. I dag snakker vi om rumpevasking og rumpekluter<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/352fc754-d6f1-457b-afc7-54d6f1d57baf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/352fc754-d6f1-457b-afc7-54d6f1d57baf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
+    </item>
     <item>
       <title>Henning vil øve på fødsel</title>
       <description><![CDATA[Jonas er litt pjusk, Henning vil øve på fødsel og Arin bytter navn til Arin Ben Redic Fy Fazan.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:01:07</itunes:duration>
       <pubDate>Sat, 16 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1gbXzFw_Cy1r2_QGaCOUGAIoVHPA7TQFyvNRzUhpybmw.jpg"/>
-    </item>
-    <item>
-      <title>Kvinnene som ikke liker barn</title>
-      <description><![CDATA[Vi deler planene for 17.mai og vi finner ut at kvinnene i denne redaksjonen ikke er så fan av barn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2754601f-c29a-4eb4-9460-1fc29a0eb46a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2754601f-c29a-4eb4-9460-1fc29a0eb46a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Fri, 15 May 2026 10:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
     </item>
   </channel>
 </rss>
