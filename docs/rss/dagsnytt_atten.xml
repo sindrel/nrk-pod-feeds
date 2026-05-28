@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 27 May 2026 19:33:09 +0000</lastBuildDate>
-    <pubDate>Wed, 27 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 19:44:46 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Lite fornøyd med atomvåpenavtale</title>
+      <description><![CDATA[Rødt, MDG og SV mener avtalen legitimerer en atomopprustning i Europa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e3483bbc-0a0a-4614-883b-bc0a0af61460_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e3483bbc-0a0a-4614-883b-bc0a0af61460_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 28 May 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYc9dgtLCiXPD-2fS4D-6wsF5l0hnU7CLo0oiOWT7qPg.jpg"/>
+    </item>
     <item>
       <title>Møte mellom Støre og Macron</title>
       <description><![CDATA[Statsminister Jonas Gahr Støre (Ap) er i kveld i møter med Frankrikes president Emmanuel Macron i Paris.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Wed, 13 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/66eksJSpHZQ19dDT9hDZAgusSI_JullAFAqMIht0PqhA.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen har lagt frem revidert nasjonalbudsjett</title>
-      <description><![CDATA[De rødgrønne partiene varsler tøffe forhandlinger om revidert nasjonalbudsjett.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/79ed6207-53a7-418f-ad62-0753a7e18fac_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/79ed6207-53a7-418f-ad62-0753a7e18fac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 12 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zM4Zl-RpVT_DcKTHGXdyWw1_Zo9vJHuzJwu0tojIqzmg.jpg"/>
     </item>
   </channel>
 </rss>
