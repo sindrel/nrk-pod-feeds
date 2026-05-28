@@ -1,84 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Tyrann</title>
+    <title>De 1 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 02 May 2026 06:20:18 +0000</lastBuildDate>
-    <pubDate>Sat, 02 May 2026 06:05:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 12:44:58 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Khomeini (1:6)</title>
-      <description><![CDATA[Før han går i gang med fatwa og sharia, er den unge Khomeini hellig overbevist om at han er mye tettere på Allah enn alle andre. 
-
-Kilder:
-I knew the Shah - Al Jazeera (dokumentar, 2009)
-I knew Khomeini - Al Jazeera (dokumentar, 2017)
-
-Black Wave: Saudi Arabia, Iran and the Rivalry that Unravelled the Middle East - Ghattas, K. (Wildfire, 2020)
-The Shah - Milani, A. (New York: St. Martin’s Griffin, 2011)  
-Khomeini: Life of the Ayatollah - Moin, B. (London: I.B. Tauris, 1999)  
-Irans moderne historie - Elling, Rasmus Christian
-
-Emergency Episode: Qassem Soleimani and the Bastardful History of U.S./Iran - Evans, R. (host) (‘Relations’ [Podcast episode]. Behind the Bastards, 2020) ‘ iHeartPodcasts, 8 January 2020. (Accessed: 30 January 2026).
-Empire podcast series on iran: episode 96-125
-Conflicted podcast series on Iran
-Wiser world podcast series on Iran: “Iran 101”]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/aefd39d6-d0cc-42eb-bd39-d6d0cc42eb7a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/aefd39d6-d0cc-42eb-bd39-d6d0cc42eb7a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:00</itunes:duration>
-      <pubDate>Sat, 02 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg"/>
-    </item>
-    <item>
-      <title>Khomeini (2:6)</title>
-      <description><![CDATA[Alt Khomeini hater, elsker sjahen. Med støtte fra USA vil sjahen bygge et moderne Iran, noe som gjør Khomeini überklar for opprør.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/d677c5d8-a4a0-4cee-b7c5-d8a4a08ceef7_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/d677c5d8-a4a0-4cee-b7c5-d8a4a08ceef7_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:20</itunes:duration>
-      <pubDate>Sat, 02 May 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg"/>
-    </item>
-    <item>
-      <title>Khomeini (3:6)</title>
-      <description><![CDATA[Khomeini sendes i eksil til Tyrkia, men skjønner at sjahens makt minker. Misnøyen i Iran vokser, og Khomeini puster liv til bålet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/40231a67-0cea-4a8d-a31a-670ceaea8dd9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/40231a67-0cea-4a8d-a31a-670ceaea8dd9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:30</itunes:duration>
-      <pubDate>Sat, 02 May 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg"/>
-    </item>
-    <item>
-      <title>Khomeini (4:6)</title>
-      <description><![CDATA[Steininger, fengslinger og henrettelser. Ayatollah Khomeinis nye Iran ble ikke akkurat sånn som han hadde lovet det iranske folket.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/4109d560-1c43-476e-89d5-601c43c76e59_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/4109d560-1c43-476e-89d5-601c43c76e59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:26</itunes:duration>
-      <pubDate>Sat, 02 May 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg"/>
-    </item>
-    <item>
-      <title>Khomeini (5:6)</title>
-      <description><![CDATA[Khomeini er svært fornøyd med revolusjonen sin, og vil spre sitt gledelige budskap til nabolandene. Men en av naboene går til krig!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/034789d3-0bc6-4e2b-8789-d30bc6de2baa_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/034789d3-0bc6-4e2b-8789-d30bc6de2baa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:28</itunes:duration>
-      <pubDate>Sat, 02 May 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg"/>
-    </item>
-    <item>
-      <title>Khomeini (6:6)</title>
-      <description><![CDATA[Kan Khomeini være udødelig? Han er kanskje mer enn en vismann, men til slutt er Khomeini framfor alt en dårlig, blodtørstig taper.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/7c4540af-05f7-4e1e-8540-af05f7fe1e44_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/7c4540af-05f7-4e1e-8540-af05f7fe1e44_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:27</itunes:duration>
-      <pubDate>Sat, 02 May 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg"/>
+      <title>Charles Taylor - kommer lørdag</title>
+      <description><![CDATA[Under Charles Taylor vanstyre blir frihetens land Liberia en kaotisk voldsorgie av blodig råskap, barnesoldater og bloddiamanter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/52c900a8-edf5-4156-8900-a8edf54156ad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/52c900a8-edf5-4156-8900-a8edf54156ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:43</itunes:duration>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg"/>
     </item>
   </channel>
 </rss>
