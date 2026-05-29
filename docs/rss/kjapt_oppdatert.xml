@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 28 May 2026 04:40:33 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 04:43:26 +0000</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Historisk VM-bragd for Norge</title>
+      <description><![CDATA[Og kan Norge bli røykfritt nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/43bcefb9-5889-47f1-bcef-b9588917f1dd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/43bcefb9-5889-47f1-bcef-b9588917f1dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:47</itunes:duration>
+      <pubDate>Fri, 29 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xq72FSBqxnDlwqeNH9W1RwCRzXNZMxXNvUMpUfdwxI3g.jpg"/>
+    </item>
     <item>
       <title>Streiken er over (for de fleste)</title>
       <description><![CDATA[Og hvordan går det med dronninga vår, etter at hun ble lagt inn på sykehus?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:45</itunes:duration>
       <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnADNRwpcM2IuvU0AUopogatVkfd8moQxlEGzZy1H1IA.jpg"/>
-    </item>
-    <item>
-      <title>Russisk etterretning har kontakta ukrainere i Norge</title>
-      <description><![CDATA[Og det er mulig det blir brus- og øl-tørke på 17. mai.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/66490c83-7eee-4208-890c-837eee120831_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/66490c83-7eee-4208-890c-837eee120831_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:58</itunes:duration>
-      <pubDate>Wed, 13 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nqw5Ez1vChk2d-USmQUdmwRIH0bxCE9HmGkDQf780Aag.jpg"/>
     </item>
   </channel>
 </rss>

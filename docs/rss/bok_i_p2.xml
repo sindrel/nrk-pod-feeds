@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 22 May 2026 04:36:14 +0000</lastBuildDate>
-    <pubDate>Fri, 22 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 04:43:16 +0000</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Jens M. Johansson: En liten bok om døden</title>
+      <description><![CDATA[En mor ligger for døden, skogen gror igjen og en ponni forviller seg inn på kjøkkenet.
+Et drømmeaktig univers ble nødvendig for å skrive fritt og nært om den vanskelige avskjeden.
+Nyeste bok: «Bare la dem komme»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/0addaa0c-c2cb-40cc-9daa-0cc2cbb0cc7b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/0addaa0c-c2cb-40cc-9daa-0cc2cbb0cc7b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:13</itunes:duration>
+      <pubDate>Fri, 29 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nrNL8-eZ4UnoLuClBeMNlwYxh6gjWRg-uYwJDjEq3xrg.jpg"/>
+    </item>
     <item>
       <title>Stian Hjelvin Andersen: Må alt være perfekt?</title>
       <description><![CDATA[Når bestevenninnen brått får kreft, innser journalist Merete Moe hvor overfladisk selvhjelpsbransjens egentlig er.
@@ -96,17 +107,6 @@ Nyeste bok: «Tørkesommer»]]></description>
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5VnywnhUoO0FKumBcxIYCwkVkNEhfz69PWTmvBFw3nDA.jpg"/>
-    </item>
-    <item>
-      <title>Helene Uri: Når huseieren spionerer</title>
-      <description><![CDATA[Hva gjør det med tryggheten din hvis huseieren spionerer på deg i huset  du bor i.  
-Uris bok er inspirert av en virkelig kriminalsak og utløst debatt om fiksjon og virkelighet. 
-Nyeste bok: «I mitt lune hi»]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/9be9445c-19b6-465e-a944-5c19b6965e1a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/9be9445c-19b6-465e-a944-5c19b6965e1a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:31</itunes:duration>
-      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0AAfUPlXOP7FC4a-zluS_g57nEd5tDhyYHw_vkeS1-bw.jpg"/>
     </item>
   </channel>
 </rss>
