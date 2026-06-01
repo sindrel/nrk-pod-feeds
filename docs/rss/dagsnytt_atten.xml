@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 29 May 2026 19:40:33 +0000</lastBuildDate>
-    <pubDate>Fri, 29 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 18:16:31 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>USA kutter Nato-bidrag</title>
+      <description><![CDATA[USA planlegger å redusere militær tilstedeværelse i Europa. – Alvorlig, men ventet, sier utenriksminister Espen Barth Eide.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9dc86ed3-d5c2-4eeb-886e-d3d5c26eeb24_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9dc86ed3-d5c2-4eeb-886e-d3d5c26eeb24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dw1wsWJlA2dmB3dB8pSgkgC-2sS0ZUQr__MSA-gHE7ig.jpg"/>
+    </item>
     <item>
       <title>Storstreik i staten unngått</title>
       <description><![CDATA[Men LO Stat sier de er «enormt skuffet» med resultatet i forhandlingene som ble signert i dag.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Mon, 18 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ket9pbdQ238gyaaGEA3pWg73OIjpLO1EHjl4d7J26MKA.jpg"/>
-    </item>
-    <item>
-      <title>Toppmøte i Kina</title>
-      <description><![CDATA[Trump var på handelsreise i Kina, men ble advart om blande seg inn i Taiwankonflikten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/21ae7103-c464-4132-ae71-03c464913253_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/21ae7103-c464-4132-ae71-03c464913253_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 15 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OAgcjPEs4nUpINkd4kYo2A_yQNChRybyDF45C00jmTvQ.jpg"/>
     </item>
   </channel>
 </rss>
