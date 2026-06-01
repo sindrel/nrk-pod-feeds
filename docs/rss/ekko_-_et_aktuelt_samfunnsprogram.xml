@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 28 May 2026 12:44:42 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 12:09:34 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Med KI som klassekompis</title>
+      <description><![CDATA[Kunstig intelligens har flyttet inn i klasserommet. Det gjør lærernes arbeidsdag vanskeligere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/14c8a903-a96c-430a-88a9-03a96cb30a4e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/14c8a903-a96c-430a-88a9-03a96cb30a4e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:02</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F5WiN_aResre0ZCXkd5ScQyHkgYJRs5XLOHofevN2thA.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Alle presidentens menn</title>
       <description><![CDATA[Å bli plukket ut som Trumps favoritt er vinnerloddet i den amerikanske nominasjonskampen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>17:03</itunes:duration>
       <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uS0Ow1TZE6fPrCtl7IxqgQHOBLaxd9TS4YC1TZZOBq7w.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: Kina og USA i viktig møte</title>
-      <description><![CDATA[De har møttes før, og nå møtes de igjen. Kan Kina ha nøkkelen til fred i Midtøsten?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e95de719-7c7f-427c-9de7-197c7f727c39_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e95de719-7c7f-427c-9de7-197c7f727c39_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:52</itunes:duration>
-      <pubDate>Wed, 13 May 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3LHVK-KIu2ZCSW24Ibe2IAxaMhScRb13hm_KsV1J9m9g.jpg"/>
     </item>
   </channel>
 </rss>

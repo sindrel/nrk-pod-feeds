@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 30 May 2026 04:18:00 +0000</lastBuildDate>
-    <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 12:09:49 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hvor skal føttene vaskes?</title>
+      <description><![CDATA[Hvordan er riktig måte å vaske føttene på og har vi noen gang tagget? Det blir også litt rampestreker i dag!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bfcfe47c-d612-49ea-8fe4-7cd61219eae8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bfcfe47c-d612-49ea-8fe4-7cd61219eae8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Aldersgrensen på IS-videoer?</title>
       <description><![CDATA[Hva har Emma Steinbakken og IS til felles? Kan Makosir rappe om Kygo og Renate Reinsve?  Dette er DET beste fra uka som gikk <3]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Ikke spis svin.</title>
-      <description><![CDATA[Jonas holder parfymen sin hemmelig, Henning mimrer om gamle fly og Arin bruker 90 forsøk på å forklare et poeng.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d4a68243-003d-4b02-a682-43003dfb025a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d4a68243-003d-4b02-a682-43003dfb025a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
     </item>
   </channel>
 </rss>
