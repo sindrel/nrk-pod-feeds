@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 31 May 2026 04:55:34 +0000</lastBuildDate>
-    <pubDate>Sun, 31 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 06:58:13 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Chris Holsten: Mann, 33,  singel</title>
+      <description><![CDATA[Artist Chris Holsten forteller om kjærlighetslivet, dating og ønsket om egen familie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/26af704d-113f-4f12-af70-4d113fef12fd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/26af704d-113f-4f12-af70-4d113fef12fd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:21</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HaavT4MVxM1-awRk8F_KgwbF5VEb64cLniycWvuDjgsg.jpg"/>
+    </item>
     <item>
       <title>Panelet: Datinghore og klemmepute</title>
       <description><![CDATA[Selma og Kai Thomas diskuterer datingerfaringer, vektøkning og tillitsbrudd i forhold. En gang utro, alltid utro?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>52:07</itunes:duration>
       <pubDate>Tue, 12 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zvttRkDpOzr-0zeFn2wdIwIeoCvs32Z5-J3mkDqOer4g.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Øreflipp og eksponeringsterapi</title>
-      <description><![CDATA[Kai Thomas er tilbake, og panelet diskuterer datinglivet, avvisning og ikke minst: Ville du møtt en bjørn eller en mann i skogen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8938529a-8fdd-401b-b852-9a8fddf01b1e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8938529a-8fdd-401b-b852-9a8fddf01b1e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:48</itunes:duration>
-      <pubDate>Sun, 10 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
     </item>
   </channel>
 </rss>
