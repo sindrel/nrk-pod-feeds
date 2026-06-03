@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Jun 2026 05:16:34 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 07:13:11 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Wangen (3): Den rosa kofferten</title>
+      <description><![CDATA[Steinar Wangen drar tilbake til Sverige. Det han ikke vet, er at noen er i ferd med å lokke ham i en felle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/f0d4d7b5-ee16-4735-94d7-b5ee16773592_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f0d4d7b5-ee16-4735-94d7-b5ee16773592_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:47</itunes:duration>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Z8bTyXeicQ7eJd-cRrlPigtWeE0yTjGR45x_R4TNOOFg.jpg"/>
+    </item>
     <item>
       <title>Wangen (2): Dødsplanen</title>
       <description><![CDATA[Steinar Wangen møter en eldre kvinne på et hotell i Sverige. Bare én av dem kommer hjem til Norge i live.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>45:02</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/v6DGHh-_LknhMHiqON80YAzIA8vc5ywcbvkEwJPXIdVw.jpg"/>
-    </item>
-    <item>
-      <title>Vilma Andersson: Kroppsdelene i kjøleskapet (2)</title>
-      <description><![CDATA[En kvinne blir funnet drept og partert i Sverige i romjula 2025. Mannen som nå er pågrepet har en mørk historie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6ae6696e-71a2-4b62-a669-6e71a2db622c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6ae6696e-71a2-4b62-a669-6e71a2db622c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:36</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tm0I-osZR_zN5kuTuvThygK_pXRYf9JpLmwDU-s6rhSg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 02 Jun 2026 06:58:05 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 07:13:27 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Russe-vold gikk viralt: Et politisk spill?</title>
+      <description><![CDATA[De siste ukene har det stormet i media etter en voldshendelse i Bergen på 17. mai.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d73526c4-265e-4681-b526-c4265e0681bb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d73526c4-265e-4681-b526-c4265e0681bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:30</itunes:duration>
+      <pubDate>Wed, 03 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tAkNm3SXbmcCuYutyoK_BAKt0rrfhjOBGts3mlL28heQ.jpg"/>
+    </item>
     <item>
       <title>Ebolaviruset herjar: Kvifor får Vesten skulda?</title>
       <description><![CDATA[Ein ny og dødeleg variant av ebola-viruset spreier seg i Afrika. Fleire rettar peikefingeren mot Donald Trump og Vesten.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>18:01</itunes:duration>
       <pubDate>Thu, 21 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NVVrlquok9wkq3gm9yRa1w_VB1YwTKsOPwrhpm8BAUxQ.jpg"/>
-    </item>
-    <item>
-      <title>Kampen mot «krigsmaskinen»: Er Norge på feil spor?</title>
-      <description><![CDATA[Europas største sprengstoff-fabrikk skal bygges i en norsk dal. Denne gjengen kjemper for at det aldri skal skje.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/9635b598-9893-4533-b5b5-9898930533f7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/9635b598-9893-4533-b5b5-9898930533f7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:13</itunes:duration>
-      <pubDate>Wed, 20 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3SDMxFphSnaz1-BB9Vq5lg4BZ_FJLjFMVvqYjJUZoO8Q.jpg"/>
     </item>
   </channel>
 </rss>
