@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 02 Jun 2026 16:54:58 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jun 2026 14:20:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:19:22 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 13:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Hedvig Wessel</title>
+      <description><![CDATA[– Jeg fikk husarrest flere ganger i uka som barn,  sier skiprofilen om sin eksplosive energi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3a71e7eb-f142-4069-b1e7-ebf142f0691c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3a71e7eb-f142-4069-b1e7-ebf142f0691c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 13:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SNBjAarmrl-4-H8v8GM3wgRaSMMCamJHqu87yGpb9Wtw.jpg"/>
+    </item>
     <item>
       <title>Cecilia Brækhus</title>
       <description><![CDATA[- Jeg er innadvendt, men måtte være frekk og utadvendt for å selge meg selv, forteller boksestjernen]]></description>
@@ -92,16 +101,6 @@
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Tue, 12 May 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/48gJf-SWGpT6cuXP88n8uwtW0XrvqW45rqT1v2e4tZ4w.jpg"/>
-    </item>
-    <item>
-      <title>Tim Kristian</title>
-      <description><![CDATA[- Dette kan være siste sekund. Jeg ser i hvert fall bra ut! 
-Influenseren i jordskjelvdrama. Husket å filme, glemte å evakuere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c7fbbf3a-87dc-4ebd-bbbf-3a87dc6ebd65_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c7fbbf3a-87dc-4ebd-bbbf-3a87dc6ebd65_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Mon, 11 May 2026 13:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/er2SfyL_5-sgZbo1VYSNggsDd14zfDZ5alfumgyaxSlQ.jpg"/>
     </item>
   </channel>
 </rss>
