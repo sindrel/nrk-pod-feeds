@@ -1,186 +1,107 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Leseklubben</title>
+    <title>De 6 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 07 May 2026 07:18:36 +0000</lastBuildDate>
-    <pubDate>Thu, 07 May 2026 06:06:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 05:06:44 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>«Kafka på stranden» (Prolog: Gutten kalt kråka)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt Gutten kalt kråka + kapittel 1-5 kan du høre Leseklubben episode 2.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben 
-Les/hør kapittel 6-16              → hør episode 3 av Leseklubben 
-Les/hør kapittel 17-27            → hør episode 4 av Leseklubben 
-Les/hør kapittel 28-41            → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49            → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/13d0fb11-3139-4b35-90fb-113139bb35fa_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/13d0fb11-3139-4b35-90fb-113139bb35fa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:03</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
-    </item>
-    <item>
-      <title>«Kafka på stranden» (1:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt Prolog: Gutten kalt kråka + kapittel 1-5 kan du høre Leseklubben episode 2.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben 
-Les/hør kapittel 6-16              → hør episode 3 av Leseklubben 
-Les/hør kapittel 17-27            → hør episode 4 av Leseklubben 
-Les/hør kapittel 28-41            → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49            → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/cdd5d3ca-34df-47f9-95d3-ca34dfa7f921_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/cdd5d3ca-34df-47f9-95d3-ca34dfa7f921_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:33</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
-    </item>
-    <item>
-      <title>«Kafka på stranden» (2:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt Prolog: Gutten kalt kråka + kapittel 1-5 kan du høre Leseklubben episode 2.
+      <title>– Jeg har en innrømmelse! (1:6)</title>
+      <description><![CDATA[Murakami+Magnussen= maratonstemning i klubben! Vil Vidar klare å gjennomføre løpet? Leseklubben er blitt moderne, nå også på video!
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2d5524e8-f5dd-42d2-9524-e8f5ddd2d22e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2d5524e8-f5dd-42d2-9524-e8f5ddd2d22e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:27</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ba435514-b8ee-4c7d-8355-14b8ee5c7d8e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ba435514-b8ee-4c7d-8355-14b8ee5c7d8e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:28</itunes:duration>
+      <pubDate>Thu, 30 Apr 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (3:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt Prolog: Gutten kalt kråka + kapittel 1-5 kan du høre Leseklubben episode 2.
+      <title>– Følte jeg leste Døden på Oslo S! (2:6)</title>
+      <description><![CDATA[Ereksjonsfrykt på bussen, storsnutede stavkarler og hvem er egentlig denne kråka? 
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/e18a02e9-f394-46fd-8a02-e9f394f6fde0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/e18a02e9-f394-46fd-8a02-e9f394f6fde0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:40</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/dabc3ab3-8fee-42de-bc3a-b38feef2def5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/dabc3ab3-8fee-42de-bc3a-b38feef2def5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:45</itunes:duration>
+      <pubDate>Thu, 07 May 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (4:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt Prolog: Gutten kalt kråka + kapittel 1-5 kan du høre Leseklubben episode 2.
+      <title>– Det verste jeg har lest! (3:6)</title>
+      <description><![CDATA[Sjokk, vemmelse og kattedrap. Har Murakami skapt tidenes ondeste superskurk? En Oshima-aktig mann har inntatt Kristoffers stol.
 
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/faa0326f-fe8b-40f3-a032-6ffe8b70f31b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/faa0326f-fe8b-40f3-a032-6ffe8b70f31b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:38</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben 
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben 
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben 
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/01b3c950-4c10-4399-b3c9-504c109399ff_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/01b3c950-4c10-4399-b3c9-504c109399ff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:27</itunes:duration>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (5:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt Prolog: Gutten kalt kråka + kapittel 1-5 kan du høre Leseklubben episode 2.
+      <title>– Dere må holde kjeft! (4:6)</title>
+      <description><![CDATA[Det regner makrell, feminist-knock out i biblioteket og Vidar rykker ut som Asia-korrespondent.
 
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b47626a8-0f84-437e-b626-a80f84637e4c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b47626a8-0f84-437e-b626-a80f84637e4c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:20</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:07:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d2bd4879-5d12-4122-bd48-795d12512280_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d2bd4879-5d12-4122-bd48-795d12512280_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:07</itunes:duration>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (6:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 6-16 kan du høre Leseklubben episode 3.
+      <title>– Dette er ikke en koseklubb! (5:6)</title>
+      <description><![CDATA[Lytterne er lei av pikk og Murakamis sex-scener får kjørt seg. Men må vi elske ALT ved en bok eller en forfatter? 
 
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/dd80ccfd-5c7b-48ee-80cc-fd5c7b38ee94_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/dd80ccfd-5c7b-48ee-80cc-fd5c7b38ee94_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:21</itunes:duration>
-      <pubDate>Thu, 07 May 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8d317ee5-84e7-426c-b17e-e584e7526c23_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8d317ee5-84e7-426c-b17e-e584e7526c23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (7:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 6-16 kan du høre Leseklubben episode 3.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/53f15cd2-b183-4aef-b15c-d2b1835aef9e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/53f15cd2-b183-4aef-b15c-d2b1835aef9e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:22</itunes:duration>
-      <pubDate>Thu, 07 May 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
-    </item>
-    <item>
-      <title>«Kafka på stranden» (8:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 6-16 kan du høre Leseklubben episode 3.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/cba0a5e7-119e-409e-a0a5-e7119e709e5c_3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/cba0a5e7-119e-409e-a0a5-e7119e709e5c_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:27</itunes:duration>
-      <pubDate>Thu, 07 May 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
-    </item>
-    <item>
-      <title>«Kafka på stranden» (9:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 6-16 kan du høre Leseklubben episode 3.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5fbfa332-cc06-4d32-bfa3-32cc06dd32e6_3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5fbfa332-cc06-4d32-bfa3-32cc06dd32e6_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:37</itunes:duration>
-      <pubDate>Thu, 07 May 2026 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+      <title>– Jeg er litt forandret nå (6:6)</title>
+      <description><![CDATA[Vidar våkner opp til en ny verden. Christine blir rørt og Kristoffer karrer seg over målstreken. Men hva handler egentlig boka om?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:51</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
   </channel>
 </rss>
