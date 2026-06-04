@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:12:15 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 09:01:25 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Vi tar homo-test!</title>
+      <description><![CDATA[Jonas har aldri gått i pride-tog, Henning har blitt bilsyk og Arin er visst ikke «ghetto».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/657081a1-07c4-4fc2-b081-a107c41fc2df_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/657081a1-07c4-4fc2-b081-a107c41fc2df_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Henning sine brystvorter...</title>
       <description><![CDATA[Vi har med oss P3morgens extended cinematic universe og vi prater om Henning sine brystvorter<3]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:48</itunes:duration>
       <pubDate>Sat, 23 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RK2m0lllXE0h0aeW4kZ1LA2whqtHokpTeH2dJtGd75GA.jpg"/>
-    </item>
-    <item>
-      <title>Skremselspropaganda i barnehagen</title>
-      <description><![CDATA[Vi deler minner om da vi lærte oss å tørke rumpa og Henning deler minner om "Tussemor".]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8969fc9b-5137-4583-a9fc-9b51373583f0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8969fc9b-5137-4583-a9fc-9b51373583f0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:23</itunes:duration>
-      <pubDate>Fri, 22 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
