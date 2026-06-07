@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-06-07  
+- Podcast 'Musikk fra NRK Super' is considered obsolete and will be ignored in the future (`musikk_fra_nrk_super`)  
 ### 2026-05-27  
 - Podcast 'Spør for en venn' is considered obsolete and will be ignored in the future (`spoer_for_en_venn`)  
 ### 2026-05-26  
