@@ -988,7 +988,9 @@ const feeds = [
     "id": "musikk_fra_nrk_super",
     "title": "De 10 siste fra Musikk fra NRK Super",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "musikkhistorier",
