@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 06 Jun 2026 04:29:07 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:09:17 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Østlandsk er ekte norsk.</title>
+      <description><![CDATA[Vi snakker om sjamanbyen Lørenskog, Henning deler sin opplevelse av «Musikkens dag» og Jonas har lekt med NRK-gpt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4f6041e5-f8cb-4316-a041-e5f8cb53166c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4f6041e5-f8cb-4316-a041-e5f8cb53166c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Skal Danmark heie på oss?!</title>
       <description><![CDATA[Vi mimrer tilbake til ZombieLars og sender en heia-oppfordring til våre danske venner! Dette er det beste fra ukens P3morgen!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
-    </item>
-    <item>
-      <title>Henning vil øve på fødsel</title>
-      <description><![CDATA[Jonas er litt pjusk, Henning vil øve på fødsel og Arin bytter navn til Arin Ben Redic Fy Fazan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9ed8851b-8e1f-4cc6-9885-1b8e1fbcc66f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9ed8851b-8e1f-4cc6-9885-1b8e1fbcc66f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:26</itunes:duration>
-      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
     </item>
   </channel>
 </rss>
