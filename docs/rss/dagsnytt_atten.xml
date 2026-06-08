@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Jun 2026 18:11:33 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:33:16 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Oslo tingrett vil løstate Høiby</title>
+      <description><![CDATA[Marius Borg Høiby ønsker å løslates for å være med sin mor.– Det å vite at mamma er så syk, det er uutholdelig, sa han i rettsmøte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1368f584-99d8-411a-a8f5-8499d8f11a09_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1368f584-99d8-411a-a8f5-8499d8f11a09_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 08 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TCGGsxyoljYG335IXMTdiQ-VIUts47206oIihwipnkaQ.jpg"/>
+    </item>
     <item>
       <title>Kronprinsessen på venteliste</title>
       <description><![CDATA[Kronprinsesse Mette-Marit er satt på liste for lungetransplantasjon. – Utviklingen er alvorlig, sier overlege Are Holm.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 26 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HZj8AsCDDzuDYpWBh5i6fg6Xvg-WzNQxCpbbLutar9bg.jpg"/>
-    </item>
-    <item>
-      <title>Uenighet om minerallisenser</title>
-      <description><![CDATA[Gruveselskaper med bånd til Kina hamstrer minerallisenser. Venstre kritiserer regjeringen og kaller det et sikkerhetshull.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/55fe4408-9d11-490d-be44-089d11990d3c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/55fe4408-9d11-490d-be44-089d11990d3c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 22 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lLA4Upvj7qc3pLnkhKDFtQiYlFN3Z69OaItQ7E0Jfc7A.jpg"/>
     </item>
   </channel>
 </rss>
