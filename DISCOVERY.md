@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-06-08  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2026-06-07  
 - Podcast 'Musikk fra NRK Super' is considered obsolete and will be ignored in the future (`musikk_fra_nrk_super`)  
 ### 2026-05-27  
