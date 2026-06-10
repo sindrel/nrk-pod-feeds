@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 09 Jun 2026 04:36:20 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 06:42:50 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Prinsen - med Gunn Marit Nisja</title>
+      <description><![CDATA[Prinser og hvite hester bruker vel å komme i tospann, håper forfatteren Gunn Marit Nisja.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/46629871-5c36-4568-a298-715c3625686d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/46629871-5c36-4568-a298-715c3625686d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:16</itunes:duration>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
+    </item>
     <item>
       <title>Tilgi - med Lia Ciobanu Andresen</title>
       <description><![CDATA[I en delt og vond verden er evnen til å tilgi viktig, hevder Lia Ciobanu Andresen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:16</itunes:duration>
       <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/z8CIr6NfCmd6o8_LOA9cUQByLqt8xqVPETMGVT3yCmnw.jpg"/>
-    </item>
-    <item>
-      <title>Le - med Terje Torkildsen</title>
-      <description><![CDATA[- Når var det vi sluttet og le, spør forfatter og komiker Terje Torkildsen. Han mener noe skjer på veien vår fra barn til voksen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/f2be120b-9b09-4eaa-be12-0b9b093eaa6a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/f2be120b-9b09-4eaa-be12-0b9b093eaa6a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:38</itunes:duration>
-      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
     </item>
   </channel>
 </rss>

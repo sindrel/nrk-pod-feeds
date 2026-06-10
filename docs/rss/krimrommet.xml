@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:13:11 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 06:42:48 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Wangen (4): Malins siste timer</title>
+      <description><![CDATA[Steinar Wangen forklarer seg om kvelden Malin (47) døde. Så gjør han noe som setter en støkk i retten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/353eb710-4b8b-4c00-beb7-104b8b3c0068_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/353eb710-4b8b-4c00-beb7-104b8b3c0068_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:55</itunes:duration>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3EZak_8TVdgoM-MaIpKvNAdWletysXwBQYxNeNoQhneQ.jpg"/>
+    </item>
     <item>
       <title>Wangen (3): Den rosa kofferten</title>
       <description><![CDATA[Steinar Wangen drar tilbake til Sverige. Det han ikke vet, er at noen er i ferd med å lokke ham i en felle.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>39:17</itunes:duration>
       <pubDate>Fri, 24 Apr 2026 19:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9wwR0DrfrDhXEhvY5FEE8ggYo0Cnu_ABcZJhla7To3Aw.jpg"/>
-    </item>
-    <item>
-      <title>Lastebil-Jonas (1): Dødelig flørt</title>
-      <description><![CDATA[En kort flørt setter i gang en årelang hevnaksjon som ender i drap. Men var planen egentlig å ta livet av Jonas Aarseth Henriksen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/cb5ff686-857c-4e49-9ff6-86857cbe49cc_5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb5ff686-857c-4e49-9ff6-86857cbe49cc_5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:02</itunes:duration>
-      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/v6DGHh-_LknhMHiqON80YAzIA8vc5ywcbvkEwJPXIdVw.jpg"/>
     </item>
   </channel>
 </rss>
