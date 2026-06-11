@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-06-11  
+- Updated podcast 'Juorre' (`juorre`)  
 ### 2026-06-09  
 - Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2026-06-08  
