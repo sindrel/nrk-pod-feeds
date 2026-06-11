@@ -594,7 +594,7 @@ const feeds = [
     "id": "juorre",
     "title": "De 10 siste fra Juorre",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "kaffipraati",
