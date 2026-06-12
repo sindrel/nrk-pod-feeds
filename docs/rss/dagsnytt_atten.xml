@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 11 Jun 2026 19:45:20 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 20:26:36 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>SpaceX på børs</title>
+      <description><![CDATA[I dag gikk SpaceX på børs og interessen er enorm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/355d7d96-1039-4581-9d7d-961039c581c7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/355d7d96-1039-4581-9d7d-961039c581c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eD6VtR1840JnADxP7nmOjAkdm9rM2AAy1Lir3rqPVduA.jpg"/>
+    </item>
     <item>
       <title>Klart for VM-fest</title>
       <description><![CDATA[I kveld sparkes fotball-VM i gang når Mexico tar i mot Sør-Afrika i åpningskampen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 01 Jun 2026 18:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dw1wsWJlA2dmB3dB8pSgkgC-2sS0ZUQr__MSA-gHE7ig.jpg"/>
-    </item>
-    <item>
-      <title>Storstreik i staten unngått</title>
-      <description><![CDATA[Men LO Stat sier de er «enormt skuffet» med resultatet i forhandlingene som ble signert i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8101c517-176e-425b-81c5-17176e125bcc_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8101c517-176e-425b-81c5-17176e125bcc_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 29 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1trV8ZC_A3UzKm-bAWPXPACsrRcroAW71eRks6WEMaEg.jpg"/>
     </item>
   </channel>
 </rss>
