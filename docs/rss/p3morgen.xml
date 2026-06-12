@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 11 Jun 2026 11:48:26 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 11:09:27 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Slik gjør du hotellfrokost!</title>
+      <description><![CDATA[Arin og Henning blir kanskje søsken på papiret, Jonas vil på turné og vi drømmer oss bort i hotellfrokost.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/98545304-74c7-4f96-9453-0474c74f9616_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/98545304-74c7-4f96-9453-0474c74f9616_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SALf6OmKojHmjp3h8CSiEg3HIH9L2s3IRzs8oybCGAZA.jpg"/>
+    </item>
     <item>
       <title>Apekatt med drip og underpupp.</title>
       <description><![CDATA[Arin har sett en ekte slangetemmer, Henning ønsker seg en ape som han skal gi «drip» og Jonas liker ikke underpupper.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
-    </item>
-    <item>
-      <title>Hvor skal føttene vaskes?</title>
-      <description><![CDATA[Hvordan er riktig måte å vaske føttene på og har vi noen gang tagget? Det blir også litt rampestreker i dag!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bfcfe47c-d612-49ea-8fe4-7cd61219eae8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bfcfe47c-d612-49ea-8fe4-7cd61219eae8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
