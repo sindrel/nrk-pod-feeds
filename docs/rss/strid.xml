@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Jan 2026 05:42:40 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 06:07:00 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:43:16 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Juleselskapet</title>
+      <description><![CDATA[Enkedronningen og den nye birkebeinerkongen tåler ikke trynet på hverandre. Når alt går galt på julefest, får dronningen skylda.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/8ec43ba9-758a-43f6-843b-a9758af3f6dd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/8ec43ba9-758a-43f6-843b-a9758af3f6dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:15</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Triksene </title>
       <description><![CDATA[Sverre tar kampen til Viken og beleirer baglernes festning i Tønsberg. Det krever all hans kløkt og får uante konsekvenser. ]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/74977d21-9d27-42dc-977d-219d2762dc30_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:53</itunes:duration>
       <pubDate>Sat, 03 Jan 2026 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
-    </item>
-    <item>
-      <title>Geriljakrigen</title>
-      <description><![CDATA[Birkebeinerne leker katt og mus med Erling og Magnus. Sverre begynner for alvor å konstruere fortellingen om seg selv.   ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/023c6b1b-d8a3-4728-bc6b-1bd8a3772800_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/023c6b1b-d8a3-4728-bc6b-1bd8a3772800_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Sat, 03 Jan 2026 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>

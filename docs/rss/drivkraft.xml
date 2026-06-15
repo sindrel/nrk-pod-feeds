@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 11 Jun 2026 11:48:15 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jun 2026 12:05:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:42:50 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Anna Kirkengen</title>
+      <description><![CDATA[– Skammen var endeløs, forteller legen om oppveksten i Tyskland etter verdenskrig]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e0633070-4509-436e-a330-704509836e53_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e0633070-4509-436e-a330-704509836e53_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LsYOjooFx0F1NbHClnmu_Ad1b76ewfv4j8KgwVZQZ4og.jpg"/>
+    </item>
     <item>
       <title>Rune Bratseth</title>
       <description><![CDATA[- Treningen med søppelsekker var ikke så idiotisk som man skulle tro, mener landslagskapteinen fra VM i fotball i 1994]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:46</itunes:duration>
       <pubDate>Thu, 21 May 2026 13:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kW40TbamPPu5bI48iYWztgvhc5RkRFT7e0L99rzI2mkw.jpg"/>
-    </item>
-    <item>
-      <title>Emma Ellingsen</title>
-      <description><![CDATA[– Min største drøm i livet har vært å bli kjendis, sier influenseren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/619fd231-446d-4100-9fd2-31446dc10054_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/619fd231-446d-4100-9fd2-31446dc10054_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:08</itunes:duration>
-      <pubDate>Tue, 19 May 2026 14:25:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/h2u80TjqkkVO6fEFsdmtpAuu3gyus4GuTqW1pkDYv5Pw.jpg"/>
     </item>
   </channel>
 </rss>

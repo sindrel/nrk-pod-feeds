@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 13 Jun 2026 06:32:23 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:43:06 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Sædfuck og triks på bussen.</title>
+      <description><![CDATA[Vi deler gode og dårlige banneord, og vi introduserer en ny karakter i P3morgens extended cinematic universe<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/592faf9c-5f70-4b88-afaf-9c5f706b8896_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/592faf9c-5f70-4b88-afaf-9c5f706b8896_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
+    </item>
     <item>
       <title>Det beste fra P3morgen!</title>
       <description><![CDATA[Vi finner ut om når en taco blir en taco, og spør om det er på tide å gravlegge 67. Nadia Hasnaoui er på besøk for å snakke om og kanskje vekke til liv Kvitt eller dobbelt]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Henning sine brystvorter...</title>
-      <description><![CDATA[Vi har med oss P3morgens extended cinematic universe og vi prater om Henning sine brystvorter<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9fa386df-0691-4017-a386-df069180178a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9fa386df-0691-4017-a386-df069180178a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
     </item>
   </channel>
 </rss>
