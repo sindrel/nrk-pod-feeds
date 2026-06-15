@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 12 Jun 2026 20:26:36 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 18:02:09 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Høiby anker dommen</title>
+      <description><![CDATA[Høiby dømt til fire års fengsel i Oslo tingrett i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/08766521-1222-4e4f-b665-211222ee4fa1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/08766521-1222-4e4f-b665-211222ee4fa1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:57</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gZ3VgX4wV7vsKOX-5AfBHA_xfS5FsGxlMYtm1bvrbpGw.jpg"/>
+    </item>
     <item>
       <title>SpaceX på børs</title>
       <description><![CDATA[I dag gikk SpaceX på børs og interessen er enorm.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 02 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gQ8YFnjF5TNgToHwoCu3EwCwnh3afoDhEgNk18yUg_mw.jpg"/>
-    </item>
-    <item>
-      <title>USA kutter Nato-bidrag</title>
-      <description><![CDATA[USA planlegger å redusere militær tilstedeværelse i Europa. – Alvorlig, men ventet, sier utenriksminister Espen Barth Eide.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9dc86ed3-d5c2-4eeb-886e-d3d5c26eeb24_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9dc86ed3-d5c2-4eeb-886e-d3d5c26eeb24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 01 Jun 2026 18:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dw1wsWJlA2dmB3dB8pSgkgC-2sS0ZUQr__MSA-gHE7ig.jpg"/>
     </item>
   </channel>
 </rss>

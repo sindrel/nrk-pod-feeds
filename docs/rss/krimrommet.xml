@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Jun 2026 18:09:25 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 16:45:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 18:02:18 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 18:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Høiby (22): Dette er dommen</title>
+      <description><![CDATA[Kronprinsessens sønn har fått en historisk dom. Hva skjer videre nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/96396304-04d2-4dba-b963-0404d24dbac6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/96396304-04d2-4dba-b963-0404d24dbac6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:10</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 18:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R9JQmd9laK48TE8IBO2tiA23iOp49SdYunmUL1aeT6EQ.jpg"/>
+    </item>
     <item>
       <title>Høiby (21): Er retten for streng?</title>
       <description><![CDATA[Lagmannsretten har talt: Marius Borg Høiby må fortsatt sitte i varetekt. Men er beslutningen rettferdig?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>33:00</itunes:duration>
       <pubDate>Wed, 06 May 2026 20:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1EEJPg1jIVJybyHR_2IsuwFA0OfQJ8Sc9UHYskzHEpqg.jpg"/>
-    </item>
-    <item>
-      <title>Lastebil-Jonas (3): Høy temperatur i retten</title>
-      <description><![CDATA[Det ble roping i salen på rettssakens siste dag. Klarte forsvarerne å snu bevisene til sin fordel?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/376e0c48-0269-49c1-ae0c-48026969c136_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/376e0c48-0269-49c1-ae0c-48026969c136_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:09</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CoYWGBo5pdWpcdBRV0pWcQNNTkLuxDfHNThlg0eARl6Q.jpg"/>
     </item>
   </channel>
 </rss>
