@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-06-15  
+- Updated podcast 'Strid – de norske borgerkrigene' (`strid`)  
 ### 2026-06-11  
 - Updated podcast 'Juorre' (`juorre`)  
 ### 2026-06-09  
