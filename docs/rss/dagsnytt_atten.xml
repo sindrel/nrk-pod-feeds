@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 21:19:39 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 18:34:41 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kronprinsesse Mette-Marit er lungetransplantert</title>
+      <description><![CDATA[Operasjonen har så langt vært vellykket, opplyser leger ved Rikshospitalet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7703b34e-c580-4709-83b3-4ec5801709c7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7703b34e-c580-4709-83b3-4ec5801709c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9GYnp9tq6qRpvtft8flARwn53dM_To1s0Fe5eCRFySLw.jpg"/>
+    </item>
     <item>
       <title>Norges første VM-kamp på 28 år</title>
       <description><![CDATA[Herrelandslaget møter Irak i Boston i natt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Thu, 04 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ElGjwB8K6SdsJeGvA4Q1jgcMbH1m-ZdZPe0qvvfRu4mw.jpg"/>
-    </item>
-    <item>
-      <title>Enige om forsvarsplan</title>
-      <description><![CDATA[Alle partiene på Stortinget er enige om en langtidsplan for Forsvaret. Det innebærer en økning på drøyt 6 milliarder kroner innen 2036.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e0572f16-da0c-4b64-972f-16da0c7b64d4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e0572f16-da0c-4b64-972f-16da0c7b64d4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C2gDcSTi3rUgs957LVrnuQI-G693-Kin7qAru-VcwoKA.jpg"/>
     </item>
   </channel>
 </rss>
