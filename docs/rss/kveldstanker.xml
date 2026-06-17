@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 05:34:03 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:17:03 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Fellesskap - med Ingvild Hegge Eriksen</title>
+      <description><![CDATA[Å være fysisk sammen i en krise kan ikke erstattes av noe, forteller forfatteren Ingvild Hegge Eriksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e620f3df-894b-468c-a0f3-df894b968cd1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e620f3df-894b-468c-a0f3-df894b968cd1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:08</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eHGuJV_i7N6QpzBZpvGZnAJqanMHT-LGWHGbjst83fdg.jpg"/>
+    </item>
     <item>
       <title>Sko - med Ann Helen Kolås Ingebrigtsen</title>
       <description><![CDATA[Forfattar Ann Helen Kolås Ingebrigtsen har slutta heilt å følgje reglar for skotøy.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:29</itunes:duration>
       <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
-    </item>
-    <item>
-      <title>Joyce - med Ann Helen Kolås Ingebrigtsen</title>
-      <description><![CDATA[Noen menneskemøter blir med oss vidare i livet, fortel forfattaren Ann Helen Kolås Ingebrigtsen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/503a658a-77ab-45c1-ba65-8a77aba5c12a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/503a658a-77ab-45c1-ba65-8a77aba5c12a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:51</itunes:duration>
-      <pubDate>Tue, 12 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
     </item>
   </channel>
 </rss>

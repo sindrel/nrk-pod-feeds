@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Jun 2026 18:02:18 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 18:35:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:17:00 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Wangen (5): Pute eller ikke pute?</title>
+      <description><![CDATA[Retten skal avgjøre om Steinar Wangen har drept med pute eller medvirket til selvmord.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/354d2628-936c-4b8d-8d26-28936c8b8d44_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/354d2628-936c-4b8d-8d26-28936c8b8d44_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:27</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E41s7mA4f7-vqNBXfc2xYQb67M3CK7QJMQPenwNdZzJg.jpg"/>
+    </item>
     <item>
       <title>Høiby (22): Dette er dommen</title>
       <description><![CDATA[Kronprinsessens sønn har fått en historisk dom. Hva skjer videre nå?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>26:03</itunes:duration>
       <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Cng4UKbamhe1n12KvZ6iaQgX42vowUOtwIzhRydG016Q.jpg"/>
-    </item>
-    <item>
-      <title>Høiby (20): Avslag på 15 minutter</title>
-      <description><![CDATA[Marius Borg Høiby var tilbake i retten i dag med et ønske om å sitte i varetekt hjemme med fotlenke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/3ae860d7-d8aa-4a36-a860-d7d8aaaa367b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/3ae860d7-d8aa-4a36-a860-d7d8aaaa367b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:00</itunes:duration>
-      <pubDate>Wed, 06 May 2026 20:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1EEJPg1jIVJybyHR_2IsuwFA0OfQJ8Sc9UHYskzHEpqg.jpg"/>
     </item>
   </channel>
 </rss>

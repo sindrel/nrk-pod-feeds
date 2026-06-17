@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Jun 2026 06:42:41 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:16:54 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Synnøve Finden - religiøs ostedronning</title>
+      <description><![CDATA[Hun trosset kjønnsnormer og skapte et forretningsimperium bygget på sin kjærlighet til Gud og ost.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LhhFzK3JoAtyNlQHyZ4h2ws029bCcU_7G923EBEuvFLA.jpg"/>
+    </item>
     <item>
       <title>Simón Bolívar - Sør-Amerikas frigjører</title>
       <description><![CDATA[Den brutale revolusjonslederen ble frigjøringshelt for et helt kontinent, men endte sine dager som en forhatt diktator.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:21</itunes:duration>
       <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tv1A23Bm74Phe6upf0X3owL4T-x8a7cw1DB1sLr9E17g.jpg"/>
-    </item>
-    <item>
-      <title>Madame de Pompadour – forhatt elskerinne</title>
-      <description><![CDATA[Den alminnelige jenta dro til Versailles, ble kongens elskerinne og en av de mektigste kvinnene i Frankrikes historie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/073536d3-4730-4965-b536-d347309965f2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/073536d3-4730-4965-b536-d347309965f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:37</itunes:duration>
-      <pubDate>Tue, 04 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XRD5rUGAjQw8umui8lGxfgL-phx-m4pjfQ3j-vmziVVQ.jpg"/>
     </item>
   </channel>
 </rss>
