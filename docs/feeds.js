@@ -105,7 +105,7 @@ const feeds = [
     "id": "binnabnna_ujujju",
     "title": "De 10 siste fra Binnabánnaš & Ujujju",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "bjoernen_lyver",
@@ -460,7 +460,7 @@ const feeds = [
     "id": "hallo_bablo",
     "title": "De 10 siste fra Hallo Bablo",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hei_nabo",
