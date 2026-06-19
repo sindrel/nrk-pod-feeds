@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-06-19  
+- Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2026-06-18  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-06-15  
