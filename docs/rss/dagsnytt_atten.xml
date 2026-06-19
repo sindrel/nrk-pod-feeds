@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 18 Jun 2026 20:38:36 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 18:10:17 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Arbeiderpartiet vil ha KI ut av skolen</title>
+      <description><![CDATA[Det er som å prøve å snu klokken tilbake i tid, mener teknolog.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a7071412-dc7b-4a29-8714-12dc7bea297a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a7071412-dc7b-4a29-8714-12dc7bea297a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nv0SU1kDaZRyaQ4G_wnpjgk7q6j3LgMWi2SG-8txhxZA.jpg"/>
+    </item>
     <item>
       <title>Norges Bank: Renta holdes uendret</title>
       <description><![CDATA[Norges Bank varsler likevel renteøkning til høsten.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 08 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TCGGsxyoljYG335IXMTdiQ-VIUts47206oIihwipnkaQ.jpg"/>
-    </item>
-    <item>
-      <title>Kronprinsessen på venteliste</title>
-      <description><![CDATA[Kronprinsesse Mette-Marit er satt på liste for lungetransplantasjon. – Utviklingen er alvorlig, sier overlege Are Holm.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a40db2fc-731c-4e48-8db2-fc731c1e488c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a40db2fc-731c-4e48-8db2-fc731c1e488c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 05 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MTMQajZOF_uBHAbi4Yw2ZgKaIGH0flYl0PZzlpk8jpTQ.jpg"/>
     </item>
   </channel>
 </rss>
