@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 13 Jun 2026 14:27:24 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Jun 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 14:32:58 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>VM og søvnmangel</title>
+      <description><![CDATA[Mange i alle aldere sliter med å holde seg våkne for å se på fotball-VM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/3f5e70aa-069e-4322-9e70-aa069e5322ce_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/3f5e70aa-069e-4322-9e70-aa069e5322ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:27</itunes:duration>
+      <pubDate>Sat, 20 Jun 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GOkjLrI3aFIUrraBArhSFw-iKM4h4YjcsZ1nR62FIN9A.jpg"/>
+    </item>
     <item>
       <title>Hvem var vikingene?</title>
       <description><![CDATA[Mer enn bare voldelige krigere]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:07:08</itunes:duration>
       <pubDate>Sat, 18 Apr 2026 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9pCbp6aNwXKbxa4VTcrNlgXdGX4GoPxiv9L9Q6Kqi18A.jpg"/>
-    </item>
-    <item>
-      <title>Snakk til meg!</title>
-      <description><![CDATA[Harry Hole har satt ny standard for hvordan vi svarer når noen ringer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/a346ce04-f19c-490b-86ce-04f19ce90b81_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/a346ce04-f19c-490b-86ce-04f19ce90b81_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:07:05</itunes:duration>
-      <pubDate>Sat, 11 Apr 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1a45GVO7m0naRJqQ7RtaIA90Wm8rU7V9m_Tze0OtS-bw.jpg"/>
     </item>
   </channel>
 </rss>
