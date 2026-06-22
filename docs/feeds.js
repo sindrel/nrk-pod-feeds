@@ -1408,7 +1408,7 @@ const feeds = [
     "id": "sommer_i_p2",
     "title": "De 10 siste fra Sommer i P2",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "sophie_og_fetisha",
