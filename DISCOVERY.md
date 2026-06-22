@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-06-22  
+- Updated podcast 'Sommer i P2' (`sommer_i_p2`)  
 ### 2026-06-19  
 - Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
