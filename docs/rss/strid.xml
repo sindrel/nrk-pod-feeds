@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:43:16 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 05:31:43 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Steinveggen</title>
+      <description><![CDATA[En mystisk mann flykter fra fengsel ved hjelp av sjarme og sengetøy. Han vil bli baglerkonge, men ikke alle tror han er kongssønn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/6ff9786a-626c-42bf-b978-6a626c82bf5c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/6ff9786a-626c-42bf-b978-6a626c82bf5c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:57</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Juleselskapet</title>
       <description><![CDATA[Enkedronningen og den nye birkebeinerkongen tåler ikke trynet på hverandre. Når alt går galt på julefest, får dronningen skylda.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/d59122ab-df9b-40e6-9122-abdf9be0e662_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:50</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
-    </item>
-    <item>
-      <title>Fallet</title>
-      <description><![CDATA[Sverre snubler i et avgjørende øyeblikk, men får uventet hjelp av både en mystisk tåke og av Erling Skakkes overdrevne selvtillit. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/74977d21-9d27-42dc-977d-219d2762dc30_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/74977d21-9d27-42dc-977d-219d2762dc30_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:53</itunes:duration>
-      <pubDate>Sat, 03 Jan 2026 06:03:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>

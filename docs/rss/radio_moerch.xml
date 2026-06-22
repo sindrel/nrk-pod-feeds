@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Radio Mørch</title>
+    <title>De 9 siste fra Radio Mørch</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 20 Jun 2026 06:41:28 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 05:31:39 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Mimir har landet</title>
+      <description><![CDATA[Vi har vært på ekspedisjon og opplevd "no autentisk shit" i lille Ecuador]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/55cc8cb1-6adf-4f63-8c8c-b16adf2f6379_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/55cc8cb1-6adf-4f63-8c8c-b16adf2f6379_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:30</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GYMV9aMYiw_E5Fiw41ktuwsEkrm3m6PrubFYvuAz0L5w.jpg"/>
+    </item>
     <item>
       <title>Ødegaard kommer til å smelle!</title>
       <description><![CDATA[Fotball, politikk og litt reisebrev fra en fotballbane i New York City]]></description>
@@ -22,88 +31,67 @@
       <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
     </item>
     <item>
-      <title>Mímir Kristjánsson #6</title>
-      <description><![CDATA[Hvem bedre til å oppsummere vonde, nye tider enn gode gamle Mímir Kristjánsson? 
---
-NB: Nå er det tidlig sommerferie. Sett derfor stjerne på oss, for fra midten av juli er vi nemlig tilbake med Radio Mørchs storstilte valgdekning! Da skal ledere fra alle de store norske partiene inn i studio, én etter én :).]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/0a66c260-77f9-4087-8b98-668d4f6481d6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/0a66c260-77f9-4087-8b98-668d4f6481d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:13:41</itunes:duration>
-      <pubDate>Thu, 10 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Jp7JafqUndT1rHPkFEuPtAn7FvxNwlXbVhN6OzK403Kg.jpg"/>
+      <title>For en kamp!</title>
+      <description><![CDATA[Hvordan er stemningen i Boston? Erlend ringer Mimir direkte fra Gillette Stadium]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:43</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
     </item>
     <item>
-      <title>Maler William Heimdal</title>
-      <description><![CDATA[– Det er som å spy, sier kunstneren når han snakker om det å male. Det er rett og slett ikke mulig for ham å la være.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/7ea2b3c7-8dc1-4b30-8ea1-251575be48f9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/7ea2b3c7-8dc1-4b30-8ea1-251575be48f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:29:48</itunes:duration>
-      <pubDate>Thu, 27 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NbySSZ_sNb-sGdxHJbJoHwIUMXo0WstGVYFIG3WhmLlA.jpg"/>
+      <title>Erlend på Norge-trening</title>
+      <description><![CDATA[Er vi semifinaleklare? Erlend er på plass i Boston med landslagsdrakt og fotballsko med knotter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:25</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 08:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8rh1r5CwppA2mft9UGYCEw2xLbKZq9k1TRuTtkdPiY3A.jpg"/>
     </item>
     <item>
-      <title>Partileder Else Kåss Furuseth</title>
-      <description><![CDATA[Erlend har planer om å grille den ferske politiske lederen. Men siden Ensomhetspartiet ikke har et partiprogram, må det lages først.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/424f968e-1797-429d-9f51-b1a9298e5aaf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/424f968e-1797-429d-9f51-b1a9298e5aaf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:16:22</itunes:duration>
-      <pubDate>Thu, 13 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/znNfOU6sL3qO254E9ZymDgXhL0Kw1VCNsdbAqMY7_iYg.jpg"/>
+      <title>VM ER I GANG!</title>
+      <description><![CDATA[Mimir er på plass! Vi snakker om folkelig gambling, demokratisk kryptoreklame og fotballrelaterte sjekketips på mammaforum.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/119f9e44-a3ba-4eae-9f9e-44a3ba0eae5f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/119f9e44-a3ba-4eae-9f9e-44a3ba0eae5f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:57</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
     </item>
     <item>
-      <title>Papirløs flyktning Safari Shabani</title>
-      <description><![CDATA[Han har klesstil, karisma og masse følgere i sosiale medier  – men har aldri hatt pass. Erlend spør ut Safari om hans ganske så usannsynlige liv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/ceb7f452-b23b-48ca-a659-6ed304b6f961_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ceb7f452-b23b-48ca-a659-6ed304b6f961_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:21:12</itunes:duration>
-      <pubDate>Thu, 27 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PVfwcVTrW1K7UbCMBw2JtwLLmiw8rL8uiF0Ggees8Brw.jpg"/>
+      <title>Intellektuelle fotballhooligans Bernhard Ellefsen og Markus Slettholm</title>
+      <description><![CDATA[Hat av vikingestetikk, VAR som kranglekontent og nepotisme på det norske landslaget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/6fb5b55d-176f-4b81-b5b5-5d176fbb812b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/6fb5b55d-176f-4b81-b5b5-5d176fbb812b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:16:13</itunes:duration>
+      <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vmer3ga9IixkDI-1CVYrLw5HMENoCs1u0c5FF5S8uWRw.jpg"/>
     </item>
     <item>
-      <title>Thomas Seltzer elsker Amerika</title>
-      <description><![CDATA[Det finnes fire kategorier Amerika-hatere, sier Thomas Seltzer. Erlend leter etter hvilken kategori han faller under.
-Denne episoden ble spilt inn 04.februar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/eac5c113-ea3e-4f76-be9a-fd50099236de_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/eac5c113-ea3e-4f76-be9a-fd50099236de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:18:40</itunes:duration>
-      <pubDate>Thu, 13 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uidDqAtkzaxMRIEhQ3LXWg_7e0f6-SO2odGgw3s9xP2w.jpg"/>
+      <title>Landslagsspiller Morten Thorsby</title>
+      <description><![CDATA[Thorsby slet både med skade i leggen og for lite spilletid. Med hardt arbeid og kreativ taktikk kom han likevel til VM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/bb182e78-bb76-49a6-982e-78bb76b9a6b2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/bb182e78-bb76-49a6-982e-78bb76b9a6b2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:13</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/faqNyPPauU-YXH69ebq87QlJ8WL6X3C8s6egrNMXTWsA.jpg"/>
     </item>
     <item>
-      <title>Mímir Kristjánsson #5</title>
-      <description><![CDATA[– Nå er det safe space her, eller? Rødt-Mímir tester ut nye politiske ideer på Erlend.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/273d7b47-0fb6-42e3-8860-44411425508e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/273d7b47-0fb6-42e3-8860-44411425508e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:50:42</itunes:duration>
-      <pubDate>Thu, 30 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Jp7JafqUndT1rHPkFEuPtAn7FvxNwlXbVhN6OzK403Kg.jpg"/>
+      <title>Utenrikskommentator Ayesha Wolasmal og USA-entusiast Ketil Solvik Olsen</title>
+      <description><![CDATA[Hvordan står det til i USA om dagen, sånn egentlig? En utenrikskommentator og en Trump-nyanserer diskuterer krigen i Iran, amerikansk sosialdemokrati og Madman-teorien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/9841d037-ac57-4f31-81d0-37ac576f31e2_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/9841d037-ac57-4f31-81d0-37ac576f31e2_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:15:45</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tAXZnqeOblBv7G5e2LTALQijMek9WH8m1zOcnVOubZNQ.jpg"/>
     </item>
     <item>
-      <title>Med Lars Berrum på Granca</title>
-      <description><![CDATA[Gutta har mindre klær på, men kjeftamentet funker mer enn godt nok. De glemte dessverre å snakke om bryllupet til Lars.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/d6ef11b7-1e73-4b7b-ab7e-c14c32de5060_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/d6ef11b7-1e73-4b7b-ab7e-c14c32de5060_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:34:18</itunes:duration>
-      <pubDate>Thu, 16 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7JQQAYCGAtRQO6UMEgpyxAXaJ43-WySk1itSk9d1KUAQ.jpg"/>
-    </item>
-    <item>
-      <title>Høyresidens Nils August Andresen</title>
-      <description><![CDATA[Mannen er historisk økonom og redaktør av høyresidens Minerva. Og geopolitikken nå om dagen minner ham om én spesiell scene i Ringenes herre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/ddbe614f-0595-49f2-9be7-2ab8948bca28_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ddbe614f-0595-49f2-9be7-2ab8948bca28_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:26:01</itunes:duration>
-      <pubDate>Thu, 02 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/blEozZ88dGiXr8uWy-Ug7gNi18EN0jOS1qK36r5MbU9A.jpg"/>
-    </item>
-    <item>
-      <title>VG-redaktør Gard Steiro</title>
-      <description><![CDATA[– Er VG Oscar Westerlins muppets? Slike type brennende etiske spørsmål må redaktøren av Norges største avis stille seg hver dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/cc873f6d-791e-4774-873c-b04b82c40404_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/cc873f6d-791e-4774-873c-b04b82c40404_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:33:36</itunes:duration>
-      <pubDate>Thu, 19 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/A-JbYhgpWp95EHZP7dr4egOXqayZKZIdU6UitKK4ROzA.jpg"/>
+      <title>Landslagstrener Ståle Solbakken</title>
+      <description><![CDATA[Hvem er landslagets nerd? Og hvem er den søte jenta i klassen? Erlend hjelper Solbakken med å finpusse taktikken før VM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:10</itunes:duration>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MYQ8r2O2Y4bTNcK13OABtA9zlraYk5_vvvrNlBXolguQ.jpg"/>
     </item>
   </channel>
 </rss>
