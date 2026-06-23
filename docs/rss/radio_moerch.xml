@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Radio Mørch</title>
+    <title>De 10 siste fra Radio Mørch</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 22 Jun 2026 05:31:39 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:19:36 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 07:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>I bilen fra Norge - Senegal</title>
+      <description><![CDATA[I en bil kjørt av en journalist fra The New Yorker prøver gutta å sette ord på følelsene etter kampen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/8a2b135a-d7b0-4343-ab13-5ad7b0434358_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/8a2b135a-d7b0-4343-ab13-5ad7b0434358_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:49</itunes:duration>
+      <pubDate>Tue, 23 Jun 2026 07:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
+    </item>
     <item>
       <title>Mimir har landet</title>
       <description><![CDATA[Vi har vært på ekspedisjon og opplevd "no autentisk shit" i lille Ecuador]]></description>
@@ -19,7 +28,7 @@
       <enclosure url="https://podkast.nrk.no/fil/radio_moerch/55cc8cb1-6adf-4f63-8c8c-b16adf2f6379_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>59:30</itunes:duration>
       <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GYMV9aMYiw_E5Fiw41ktuwsEkrm3m6PrubFYvuAz0L5w.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
     </item>
     <item>
       <title>Ødegaard kommer til å smelle!</title>
