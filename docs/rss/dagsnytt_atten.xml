@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 22 Jun 2026 17:50:21 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:19:03 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Tror på norsk ro-suksess</title>
+      <description><![CDATA[Den norske roingen i VM går verden rundt. Sosiolog mener det kan gi suksess også for norsk reiseliv og eksportbransjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/33e98b8b-f7f8-460e-a98b-8bf7f8560e1a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/33e98b8b-f7f8-460e-a98b-8bf7f8560e1a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 23 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zY4v6sVpFm__8V0tIBwo3geNwwFEVT30rQQdzkqa7W1A.jpg"/>
+    </item>
     <item>
       <title>Starmer går av</title>
       <description><![CDATA[Keir Starmer varslet i dag at han trekker seg som partileder. Han fortsetter som statsminister fram til partiet har valgt en ny leder.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 10 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9oon5B0q7BzU0xer9v0paAAw1TDQCR7UKDPdO_JZZq1w.jpg"/>
-    </item>
-    <item>
-      <title>Oppgjør om havvind</title>
-      <description><![CDATA[Frp sikrer stortingsflertall for ny gjennomgang av regjeringens havvindsatsing.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0a1117fe-0cb8-47d2-9117-fe0cb8b7d27e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0a1117fe-0cb8-47d2-9117-fe0cb8b7d27e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 09 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IfILTZDgKQQWKlC86u7VigrctE1E_E_5htQpj3OIwHtQ.jpg"/>
     </item>
   </channel>
 </rss>
