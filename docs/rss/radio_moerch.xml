@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 23 Jun 2026 06:19:36 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 07:25:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:01:06 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 13:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Fotballsupporter Adam Friedland</title>
+      <description><![CDATA[Komiker Adam Friedland skammer seg over å være fotballsupporter og forsvarer drikkepausene]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/c9466d4b-47be-4a3b-866d-4b47be2a3bd7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/c9466d4b-47be-4a3b-866d-4b47be2a3bd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:28</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 13:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
+    </item>
     <item>
       <title>I bilen fra Norge - Senegal</title>
       <description><![CDATA[I en bil kjørt av en journalist fra The New Yorker prøver gutta å sette ord på følelsene etter kampen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:15:45</itunes:duration>
       <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tAXZnqeOblBv7G5e2LTALQijMek9WH8m1zOcnVOubZNQ.jpg"/>
-    </item>
-    <item>
-      <title>Landslagstrener Ståle Solbakken</title>
-      <description><![CDATA[Hvem er landslagets nerd? Og hvem er den søte jenta i klassen? Erlend hjelper Solbakken med å finpusse taktikken før VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:10</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MYQ8r2O2Y4bTNcK13OABtA9zlraYk5_vvvrNlBXolguQ.jpg"/>
     </item>
   </channel>
 </rss>
