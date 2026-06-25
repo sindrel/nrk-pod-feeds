@@ -1,75 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Tyrann</title>
+    <title>De 1 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 30 May 2026 04:18:06 +0000</lastBuildDate>
-    <pubDate>Sat, 30 May 2026 06:03:00 +0200</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:55:17 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Charles Taylor - kommer lørdag</title>
-      <description><![CDATA[Under Charles Taylor vanstyre blir frihetens land Liberia en kaotisk voldsorgie av blodig råskap, barnesoldater og bloddiamanter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/52c900a8-edf5-4156-8900-a8edf54156ad_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/52c900a8-edf5-4156-8900-a8edf54156ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:43</itunes:duration>
-      <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg"/>
-    </item>
-    <item>
-      <title>Charles Taylor (1:4)</title>
-      <description><![CDATA[Fattiggutten Charles Taylor drømmer om å endre Liberias skjebne. For å oppfylle drømmen, behøver han folk med blod på hendene.
-
-Kilder:
-Charles Taylor and Liberia: Ambition and Atrocity in Africa's Lone Star State - Collin M. Waugh (Zed Books, 2011)
-Human Rights Watch Reports 1990, 1993, 1994, 1995, 2001, 2004
-Children in combat, TRC Final Report - https://www.trcofliberia.org/index.html
-
-Taylors forsvar: 
-https://www.youtube.com/@charlestaylor1182
-
-Rettsdokumenter: https://www.sierra-leone.org/Documents/Decisions/Taylor/1283/SCSL-03-01-T-1283.pdf?utm_source=chatgpt.com
-
-Amnesty: https://www.amnesty.org/fr/wp-content/uploads/2021/08/afr340092004en.pdf?utm_source=chatgpt.com + https://www.amnesty.org/en/wp-content/uploads/2021/06/afr340092001en.pdf?utm_source=chatgpt.com
-
-Wikipedia]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/2d899fe9-7bcf-4ec7-899f-e97bcfeec78a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/2d899fe9-7bcf-4ec7-899f-e97bcfeec78a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:51</itunes:duration>
-      <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg"/>
-    </item>
-    <item>
-      <title>Charles Taylor (2:4)</title>
-      <description><![CDATA[For første gang er makten innen rekkevidde, men snart kommer Taylor på kant med de brutale mennene som skulle føre ham til topps.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/01907f0c-54ea-4ff9-907f-0c54eaeff9d3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/01907f0c-54ea-4ff9-907f-0c54eaeff9d3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:36</itunes:duration>
-      <pubDate>Sat, 30 May 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg"/>
-    </item>
-    <item>
-      <title>Charles Taylor (3:4)</title>
-      <description><![CDATA[Hevnens time er kommet! Hvis de andre tyr til skitne triks i kampen om makten, så vil Taylor definitivt bruke samme våpen mot dem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/838e3b4d-5964-4cd9-8e3b-4d5964ccd9bb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/838e3b4d-5964-4cd9-8e3b-4d5964ccd9bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:59</itunes:duration>
-      <pubDate>Sat, 30 May 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg"/>
-    </item>
-    <item>
-      <title>Charles Taylor (4:4)</title>
-      <description><![CDATA[Taylor har nådd toppen, men skjebnen vil noe annet. Nå gjelder ikke lengre Taylors jakt på makt, men rettferdighetens jakt på ham.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/bda60d1e-a5c7-4e60-a60d-1ea5c71e60a8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/bda60d1e-a5c7-4e60-a60d-1ea5c71e60a8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:49</itunes:duration>
-      <pubDate>Sat, 30 May 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg"/>
+      <title>Envher Hoxha - kommer lørdag</title>
+      <description><![CDATA[Hoxhas paranoia var i en helt egen liga. Han så på alle land som mulige fiender, og trodde Albania kunne invaderes når som helst.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/09e84fbc-51aa-4c0c-a84f-bc51aa2c0c37_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/09e84fbc-51aa-4c0c-a84f-bc51aa2c0c37_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:36</itunes:duration>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg"/>
     </item>
   </channel>
 </rss>
