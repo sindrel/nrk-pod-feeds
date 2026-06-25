@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-06-25  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-06-22  
 - Updated podcast 'Sommer i P2' (`sommer_i_p2`)  
 ### 2026-06-19  
