@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 24 Jun 2026 20:10:07 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 17:25:16 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Jordskjelv i Venezuela</title>
+      <description><![CDATA[Myndighetene har erklært unntakstilstand etter to kraftige jordskjelv. Dødstallet fryktes å bli svært høyt, og redningsarbeidere jobber på spreng for å redde mennesker ut av ruinene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3a836c05-5b7e-4f55-836c-055b7e4f5560_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3a836c05-5b7e-4f55-836c-055b7e4f5560_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 25 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NJm-JEYB8F6ONumyP_Ua0A2on-1-4n3wQdCtOZlzI67g.jpg"/>
+    </item>
     <item>
       <title>Reaksjoner på Skattekommisjonens rapport</title>
       <description><![CDATA[Stoltenbergs skattekommisjon vil senke skattenivået i Norge med inntil 23 milliarder kroner.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eD6VtR1840JnADxP7nmOjAkdm9rM2AAy1Lir3rqPVduA.jpg"/>
-    </item>
-    <item>
-      <title>Klart for VM-fest</title>
-      <description><![CDATA[I kveld sparkes fotball-VM i gang når Mexico tar i mot Sør-Afrika i åpningskampen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c4a7b6c9-f920-447f-a7b6-c9f920947f64_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c4a7b6c9-f920-447f-a7b6-c9f920947f64_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 11 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hOn3h_7EUaCqSBrcCFl0Vg8P6ZWw_thS9NAAdtgjdHPQ.jpg"/>
     </item>
   </channel>
 </rss>
