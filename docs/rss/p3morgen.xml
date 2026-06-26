@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 11:55:12 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:28:48 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Fremmede katter på overnatting</title>
+      <description><![CDATA[Arin har med seg Heidi, Johannes og Nora fra P3morgens extended cinematic universe!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b083e71c-1c9b-4886-83e7-1c1c9b188604_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b083e71c-1c9b-4886-83e7-1c1c9b188604_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:20</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
+    </item>
     <item>
       <title>Henning har blitt jekket ned.</title>
       <description><![CDATA[Arin hater fortsatt at folk raper i offentligheten og Henning har blitt jekket ned av kjæresten.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:21</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
-    </item>
-    <item>
-      <title>Det beste fra P3morgen!</title>
-      <description><![CDATA[Vi finner ut om når en taco blir en taco, og spør om det er på tide å gravlegge 67. Nadia Hasnaoui er på besøk for å snakke om og kanskje vekke til liv Kvitt eller dobbelt]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/36a87349-65c8-4711-a873-4965c8c7112f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/36a87349-65c8-4711-a873-4965c8c7112f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:40</itunes:duration>
-      <pubDate>Sat, 13 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Qqq5XpmRx32XNS5gsO7vUwvEEgjprA49NxMkxH0sOYrw.jpg"/>
     </item>
   </channel>
 </rss>
