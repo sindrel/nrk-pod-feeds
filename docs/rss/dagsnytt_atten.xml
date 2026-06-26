@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:25:16 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 19:03:52 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norge møter Frankrike i VM</title>
+      <description><![CDATA[Den siste kampen i gruppespillet i årets VM i fotball spilles i Boston.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cddb4551-9c8d-4f8c-9b45-519c8d7f8cea_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cddb4551-9c8d-4f8c-9b45-519c8d7f8cea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oU2kh4gs4Sr-bopdQ28FVQWJgoNIlUX8IdleH9uL-wbA.jpg"/>
+    </item>
     <item>
       <title>Jordskjelv i Venezuela</title>
       <description><![CDATA[Myndighetene har erklært unntakstilstand etter to kraftige jordskjelv. Dødstallet fryktes å bli svært høyt, og redningsarbeidere jobber på spreng for å redde mennesker ut av ruinene.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:57</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gZ3VgX4wV7vsKOX-5AfBHA_xfS5FsGxlMYtm1bvrbpGw.jpg"/>
-    </item>
-    <item>
-      <title>SpaceX på børs</title>
-      <description><![CDATA[I dag gikk SpaceX på børs og interessen er enorm.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/355d7d96-1039-4581-9d7d-961039c581c7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/355d7d96-1039-4581-9d7d-961039c581c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 12 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eD6VtR1840JnADxP7nmOjAkdm9rM2AAy1Lir3rqPVduA.jpg"/>
     </item>
   </channel>
 </rss>
