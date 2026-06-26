@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 15:15:32 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 13:20:48 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>God sommer fra oss&lt;3</title>
+      <description><![CDATA[Anna og Markus hører med deg hva du skal i sommer, vi får fredagshilsen fra Daniel og det blir en siste quizvang før ferien<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/8755541e-153d-489f-9554-1e153df89ff8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/8755541e-153d-489f-9554-1e153df89ff8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:27</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Baguette vs. nan</title>
       <description><![CDATA[Vi har en heftig diskusjon om hva som kommer lengst av baguette eller nan, Sofie leder spalte-spalten og det blir stand up fra Markus.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>41:15</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel har besøk av støttekontakt</title>
-      <description><![CDATA[Dagens ord, Quizang og Daniel forlovede Janna som vikar. Stinker knallpodkast av sånt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/858cfab8-9938-4bad-8cfa-b899382bad23_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/858cfab8-9938-4bad-8cfa-b899382bad23_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:02</itunes:duration>
-      <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/S2XhJbqIEki0LhilHdCevgcs-Hml6WbUw5ASmJI6bgUQ.jpg"/>
     </item>
   </channel>
 </rss>
