@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Tyrann</title>
+    <title>De 5 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 11:55:17 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 06:02:26 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -19,6 +19,50 @@
       <enclosure url="https://podkast.nrk.no/fil/tyrann/09e84fbc-51aa-4c0c-a84f-bc51aa2c0c37_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:36</itunes:duration>
       <pubDate>Thu, 25 Jun 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg"/>
+    </item>
+    <item>
+      <title>Enver Hoxha (1:4)</title>
+      <description><![CDATA[Etter å ha fått kasta nazistene ut av Albania blir Enver Hoxha landets kommunistleder. De neste 43 åra får ikke folket mye frihet.
+
+Kilder:
+Dancing Bears: True Stories of People Nostalgic for Life Under Tyranny - Witold Szablowski (Penguin Books 2014)
+Enver Hoxha: The Iron Fist of Albania - Blendi Fevizu (Bloomsbury Academic, 2022)
+The Accursed Mountains - Robert Carver (Abbeville Press, 1998)
+
+Podkast:
+Enver Hoxha - hersker af Europas mest lukkede land (Radio IIII, 2025)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/5b91a5c7-eae5-452a-91a5-c7eae5552a7f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/5b91a5c7-eae5-452a-91a5-c7eae5552a7f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:52</itunes:duration>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg"/>
+    </item>
+    <item>
+      <title>Enver Hoxha (2:4)</title>
+      <description><![CDATA[Hoxha er blodfan av Stalin. Alt skal gjøres på Sovjetlederens måte. Men når Stalin dør, blir Hoxha og Albania fullstendig isolert.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/d3e4a2f9-bba0-4c54-a4a2-f9bba0fc54eb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/d3e4a2f9-bba0-4c54-a4a2-f9bba0fc54eb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:53</itunes:duration>
+      <pubDate>Sat, 27 Jun 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg"/>
+    </item>
+    <item>
+      <title>Enver Hoxha (3:4)</title>
+      <description><![CDATA[Hoxha elsker to ting: statuer av seg selv, og bunkere til folket. Han er nemlig den eneste som kan beskytte albanerne mot fienden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/006d402b-a9b1-480b-ad40-2ba9b1b80b57_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/006d402b-a9b1-480b-ad40-2ba9b1b80b57_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:28</itunes:duration>
+      <pubDate>Sat, 27 Jun 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg"/>
+    </item>
+    <item>
+      <title>Enver Hoxha (4:4)</title>
+      <description><![CDATA[I 40 år har Hoxha ventet en invasjon, men ennå har ikke noen fiende vist seg. Helt til Mustafa og hans bande går i land i Albania.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/8b6b1353-7411-49cd-ab13-53741129cd24_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/8b6b1353-7411-49cd-ab13-53741129cd24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:36</itunes:duration>
+      <pubDate>Sat, 27 Jun 2026 06:03:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg"/>
     </item>
   </channel>

@@ -808,7 +808,7 @@ const feeds = [
     "id": "lindmo_og_co",
     "title": "De 10 siste fra Lindmo og Co",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "loensj_med_rune_nilson",
@@ -996,7 +996,7 @@ const feeds = [
     "id": "musikkhistorier",
     "title": "De 10 siste fra Musikkhistorier",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "musikkrommet",
