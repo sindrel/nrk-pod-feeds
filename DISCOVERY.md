@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-06-27  
+- Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
+- Updated podcast 'Musikkhistorier' (`musikkhistorier`)  
 ### 2026-06-25  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-06-22  
