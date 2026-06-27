@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 20 Jun 2026 14:32:58 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Jun 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 14:55:46 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Å ro, eller ikke ro?</title>
+      <description><![CDATA[Hele Norge ror, og bryter du fra fellesskapet får du høre det!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/d6c358e3-a75d-48df-8358-e3a75d18dfb2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/d6c358e3-a75d-48df-8358-e3a75d18dfb2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:17</itunes:duration>
+      <pubDate>Sat, 27 Jun 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XbDxvfjiFQ5pzpAj-mNigAYsbrMAhYT59EY7Zq2nhS5Q.jpg"/>
+    </item>
     <item>
       <title>VM og søvnmangel</title>
       <description><![CDATA[Mange i alle aldere sliter med å holde seg våkne for å se på fotball-VM.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:56</itunes:duration>
       <pubDate>Sat, 25 Apr 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/L8s7OFr12gNhs8KokxyygQXNX0FASqqsLjrZRZMY03pA.jpg"/>
-    </item>
-    <item>
-      <title>Hvor lurt er det å krangle med paven?</title>
-      <description><![CDATA[Donald Trump og Pave Leo har nok en gang havnet i klammeri denne uken. Men hvor lurt er det å krangle med paven, hvis man ser det i et historisk lys?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/bf0dc115-57a9-4ae7-8dc1-1557a9eae746_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/bf0dc115-57a9-4ae7-8dc1-1557a9eae746_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:07:08</itunes:duration>
-      <pubDate>Sat, 18 Apr 2026 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9pCbp6aNwXKbxa4VTcrNlgXdGX4GoPxiv9L9Q6Kqi18A.jpg"/>
     </item>
   </channel>
 </rss>
