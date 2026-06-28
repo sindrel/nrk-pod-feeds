@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-06-28  
+- Updated podcast 'Debatten' (`debatten`)  
 ### 2026-06-27  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 - Updated podcast 'Musikkhistorier' (`musikkhistorier`)  
