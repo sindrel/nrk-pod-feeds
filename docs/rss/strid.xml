@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 22 Jun 2026 05:31:43 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 05:00:25 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Blodbryllupet</title>
+      <description><![CDATA[Birkebeinerne får seg en overraskelse, og en liten kongssønn fraktes over fjellet på ski i historiens første Birkebeinerrenn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/1d3efd88-5cf8-4410-befd-885cf8d410fb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/1d3efd88-5cf8-4410-befd-885cf8d410fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Steinveggen</title>
       <description><![CDATA[En mystisk mann flykter fra fengsel ved hjelp av sjarme og sengetøy. Han vil bli baglerkonge, men ikke alle tror han er kongssønn.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/b2d5acde-3498-4434-95ac-de3498f43415_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:55</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
-    </item>
-    <item>
-      <title>Forhandlingen</title>
-      <description><![CDATA[Etter flere harde kamper kommer Sverre til Magnus med et forslag. En mann ved navn Eirik dukker opp og påstår å være Sverres bror.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/d59122ab-df9b-40e6-9122-abdf9be0e662_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/d59122ab-df9b-40e6-9122-abdf9be0e662_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:50</itunes:duration>
-      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>
