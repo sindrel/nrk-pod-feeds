@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:01:25 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 11:07:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:40:34 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 22:57:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>På bussen fra Norge - Elfenbenskysten</title>
+      <description><![CDATA[En stor dag for norsk fotball! Direkte fra pressebussen med journalister fra over 20 land.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/87cbc903-dcec-4f1e-8bc9-03dcecdf1e8e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/87cbc903-dcec-4f1e-8bc9-03dcecdf1e8e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:26</itunes:duration>
+      <pubDate>Tue, 30 Jun 2026 22:57:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
+    </item>
     <item>
       <title>Vi har landet i Dallas</title>
       <description><![CDATA[Alle konspirasjonsteoriers mor og nattens tre kamper - straffekonk er gøy!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>38:43</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 06:25:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
-    </item>
-    <item>
-      <title>Erlend på Norge-trening</title>
-      <description><![CDATA[Er vi semifinaleklare? Erlend er på plass i Boston med landslagsdrakt og fotballsko med knotter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:25</itunes:duration>
-      <pubDate>Tue, 16 Jun 2026 08:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8rh1r5CwppA2mft9UGYCEw2xLbKZq9k1TRuTtkdPiY3A.jpg"/>
     </item>
   </channel>
 </rss>
