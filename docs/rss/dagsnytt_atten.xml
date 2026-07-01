@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 30 Jun 2026 18:15:06 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 19:12:16 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Dagen derpå</title>
+      <description><![CDATA[Norge brøt ut i folkefest etter gårsdagens seier mot Elfenbenskysten. Hva ligger bak den vanvittige feiringen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9d4f0353-8bca-426b-8f03-538bcab26b59_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9d4f0353-8bca-426b-8f03-538bcab26b59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tjLViYj-9EhkIyzRB6olDwXLqjco32XpD1hAZ5T9qBLQ.jpg"/>
+    </item>
     <item>
       <title>Advarer før VM-folkefest</title>
       <description><![CDATA[Kraftig øking i elsparkesykkel-ulykker. Akuttmottakene venter en travel natt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/L3HXLn0FBf0TIbbzgfAbcg7SXREIpIO0vLD9pgmNCLyQ.jpg"/>
-    </item>
-    <item>
-      <title>Kronprinsesse Mette-Marit er lungetransplantert</title>
-      <description><![CDATA[Operasjonen har så langt vært vellykket, opplyser leger ved Rikshospitalet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7703b34e-c580-4709-83b3-4ec5801709c7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7703b34e-c580-4709-83b3-4ec5801709c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9GYnp9tq6qRpvtft8flARwn53dM_To1s0Fe5eCRFySLw.jpg"/>
     </item>
   </channel>
 </rss>
