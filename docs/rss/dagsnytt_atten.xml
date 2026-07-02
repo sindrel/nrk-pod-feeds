@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Jul 2026 19:12:16 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:02:05 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Omfattende angrep på Kyiv i natt</title>
+      <description><![CDATA[Minst 17 personer drept i russiske rakett- og droneangrep.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ce82b331-e789-4417-82b3-31e7893417c5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ce82b331-e789-4417-82b3-31e7893417c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 02 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KaLj16efxZCPTAItDTL6iQjFotZ24Lmox-phqO8Lll8w.jpg"/>
+    </item>
     <item>
       <title>Dagen derpå</title>
       <description><![CDATA[Norge brøt ut i folkefest etter gårsdagens seier mot Elfenbenskysten. Hva ligger bak den vanvittige feiringen?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 19 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nv0SU1kDaZRyaQ4G_wnpjgk7q6j3LgMWi2SG-8txhxZA.jpg"/>
-    </item>
-    <item>
-      <title>Norges Bank: Renta holdes uendret</title>
-      <description><![CDATA[Norges Bank varsler likevel renteøkning til høsten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0febb099-c45e-4949-abb0-99c45ea949ae_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0febb099-c45e-4949-abb0-99c45ea949ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 18 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L3HXLn0FBf0TIbbzgfAbcg7SXREIpIO0vLD9pgmNCLyQ.jpg"/>
     </item>
   </channel>
 </rss>
