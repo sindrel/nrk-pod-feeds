@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Jul 2026 06:45:04 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 06:10:10 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Sigbjørn Skåden</title>
+      <description><![CDATA[Som barn sluttet forfatteren nesten å snakke. Da ordene satte seg fast, begynte han å skrive.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/7606a926-43d8-4975-86a9-2643d8c975e7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/7606a926-43d8-4975-86a9-2643d8c975e7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:56</itunes:duration>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/twOFkkN-prfTldgXi6b_YQr6A-MqCb30nQRIweIjtiDw.jpg"/>
+    </item>
     <item>
       <title>Kaveh Rashidi</title>
       <description><![CDATA[Han ville bli Norges yngste legespesialist, men alt endret seg da faren og søsteren døde av kreft.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>36:26</itunes:duration>
       <pubDate>Mon, 22 Jun 2026 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Az8qDBavTdsLg77g2rHGcQlVkXnRG7p4dgFrx5h-0_ng.jpg"/>
-    </item>
-    <item>
-      <title>Julie Brodtkorb</title>
-      <description><![CDATA[Et skammens ord har sittet som en klo i brystet hennes hele livet. Nå har hun bestemt seg for å si det høyt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/41ad9977-1c69-4c55-ad99-771c69dc5533_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/41ad9977-1c69-4c55-ad99-771c69dc5533_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:34</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fa42sqCMsMywOPUPDK6qVgV2Iuzoef5vpDmZdG8ALxPQ.jpg"/>
     </item>
   </channel>
 </rss>
