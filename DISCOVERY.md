@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-07-02  
+- Updated podcast 'Kompass' (`kompass`)  
 ### 2026-06-30  
 - Updated podcast 'Gamle greier' (`gamle_greier`)  
 ### 2026-06-28  
