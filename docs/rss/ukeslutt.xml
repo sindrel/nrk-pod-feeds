@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 27 Jun 2026 14:55:46 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Jun 2026 14:30:00 +0200</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 13:59:14 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>USA feirer 250 år</title>
+      <description><![CDATA[Hva skjedde egentlig i 1776?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/93fc86d9-0ff3-47c7-bc86-d90ff317c776_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/93fc86d9-0ff3-47c7-bc86-d90ff317c776_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Sat, 04 Jul 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1oqcnfQOIpZxFG1oDs3-AgQw7PTItmDwqu2ik-f7G73A.jpg"/>
+    </item>
     <item>
       <title>Å ro, eller ikke ro?</title>
       <description><![CDATA[Hele Norge ror, og bryter du fra fellesskapet får du høre det!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:03:57</itunes:duration>
       <pubDate>Sat, 02 May 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8_BTLQq0TykYxoPP3SBBUAqtci9B8iK8kNC-6BI0aDfQ.jpg"/>
-    </item>
-    <item>
-      <title>Å følge drømmen</title>
-      <description><![CDATA[Ronny og Tuva vil åpne hotell i Hellas, men er det så lurt å følge drømmen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/57fbf9d4-24cd-4a35-bbf9-d424cd2a357a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/57fbf9d4-24cd-4a35-bbf9-d424cd2a357a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:56</itunes:duration>
-      <pubDate>Sat, 25 Apr 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L8s7OFr12gNhs8KokxyygQXNX0FASqqsLjrZRZMY03pA.jpg"/>
     </item>
   </channel>
 </rss>
