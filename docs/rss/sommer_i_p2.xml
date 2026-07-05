@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Jul 2026 04:02:45 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 04:30:11 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Lena Lindgren</title>
+      <description><![CDATA[Vald går ofte i arv, men ei gøymt familiehistorie fekk henne til å rette blikket mot dei som klarar å bryte mønsteret]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/22887e53-6a59-47e7-887e-536a5987e7ae_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/22887e53-6a59-47e7-887e-536a5987e7ae_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:18</itunes:duration>
+      <pubDate>Sun, 05 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fsPpQ7PuSroWp20tgA_lZQsgntnPL3CUj94XSBdAsRVw.jpg"/>
+    </item>
     <item>
       <title>Magne Paalgard Flemmen</title>
       <description><![CDATA[Sosiologen begynte å legge merke til skjulte strukturer og klasseskiller i samfunnet allerede som ungdom.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>39:08</itunes:duration>
       <pubDate>Mon, 22 Jun 2026 06:07:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/52Bm7E8nc0IXcIDLGDGchAvtiNEu-cxM-RdGL2lePVyg.jpg"/>
-    </item>
-    <item>
-      <title>Marstein</title>
-      <description><![CDATA[«Undergrunn»-medlemmet Jo Almaas Marstein, er fasinert av makt – særlig hvordan den alltid korrumperer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/abdd8102-2e9c-47e8-9d81-022e9ca7e89d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/abdd8102-2e9c-47e8-9d81-022e9ca7e89d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:57</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/F5syZhWcXThp_cvY7wjIuwHwW5vBlSOuHJ5ZcREkJTnA.jpg"/>
     </item>
   </channel>
 </rss>
