@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 29 Jun 2026 05:00:25 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 04:40:08 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Forliket</title>
+      <description><![CDATA[En konge med useriøst navn får tilbud om prinsessen og halve kongeriket, hvis han er villig til å betale prisen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/9664b401-523e-4f3f-a4b4-01523e0f3f1a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/9664b401-523e-4f3f-a4b4-01523e0f3f1a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Blodbryllupet</title>
       <description><![CDATA[Birkebeinerne får seg en overraskelse, og en liten kongssønn fraktes over fjellet på ski i historiens første Birkebeinerrenn.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/ece580ce-0623-4fb2-a580-ce06239fb256_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:56</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
-    </item>
-    <item>
-      <title>Likfisket  </title>
-      <description><![CDATA[Sverre går i krigen med verdens største vikingskip og møter Magnus i et slag som bare én av dem kommer levende fra.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/b2d5acde-3498-4434-95ac-de3498f43415_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/b2d5acde-3498-4434-95ac-de3498f43415_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:55</itunes:duration>
-      <pubDate>Tue, 06 Jan 2026 06:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>
