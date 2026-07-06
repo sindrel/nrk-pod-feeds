@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 03 Jul 2026 04:09:34 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 09:10:45 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Norge er videre i VM!</title>
+      <description><![CDATA[Og sånn blir mesterskapet fremover for det norske landslaget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f5f867a9-30ab-404b-b867-a930ab304bc0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f5f867a9-30ab-404b-b867-a930ab304bc0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:47</itunes:duration>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Olfe2ZdpQnYhjhulXunCaQPTUeIe3I66c2fWRWVNiDuQ.jpg"/>
+    </item>
     <item>
       <title>Kan Norge slå Brasil igjen?</title>
       <description><![CDATA[På søndag er det vinn eller forsvinn!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>05:32</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lmknCQNacz-o6W8wgyh30At6W7MhkvlfPRZi-fPmpL5g.jpg"/>
-    </item>
-    <item>
-      <title>Hvor mye kontanter bør man ha hjemme?</title>
-      <description><![CDATA[Og landslagssjefen mener NRK driver med tullprat]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/826ded8d-b216-4060-aded-8db2162060b4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/826ded8d-b216-4060-aded-8db2162060b4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:49</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GNHo9_hLTEpgMwGQZSkakQcIhNAQMh3RSfb8EBsYiRjA.jpg"/>
     </item>
   </channel>
 </rss>
