@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Jul 2026 19:05:08 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:27:41 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>- Døgnåpen skjenking bør gjøres permanent</title>
+      <description><![CDATA[Suksessen med VM-reglene setter fart i debatten om skjenking av alkohol på utesteder]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e6b222a-6cba-4a60-ab22-2a6cba6a6092_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e6b222a-6cba-4a60-ab22-2a6cba6a6092_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 07 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NCldpuTZR6iEt-5cdACzJg76vMU2SM2dJdJmfVu-ZfmA.jpg"/>
+    </item>
     <item>
       <title>VM-skandale</title>
       <description><![CDATA[Donald Trump ringte FIFA-presidenten og fikk opphevet suspensjonen av USAs toppscorer Folarin Balogun.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tpvJmJBW6cOY41KbsL7GIw0qsMA6O7YGPH9xQnyai1_A.jpg"/>
-    </item>
-    <item>
-      <title>Tror på norsk ro-suksess</title>
-      <description><![CDATA[Den norske roingen i VM går verden rundt. Sosiolog mener det kan gi suksess også for norsk reiseliv og eksportbransjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/33e98b8b-f7f8-460e-a98b-8bf7f8560e1a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/33e98b8b-f7f8-460e-a98b-8bf7f8560e1a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 23 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zY4v6sVpFm__8V0tIBwo3geNwwFEVT30rQQdzkqa7W1A.jpg"/>
     </item>
   </channel>
 </rss>
