@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Jul 2026 04:39:53 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 06:39:11 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Spionen under vann?</title>
+      <description><![CDATA[Nå vet vi mer om gåten Hvaldimir.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d447fc16-3077-4eb7-87fc-1630773eb70c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d447fc16-3077-4eb7-87fc-1630773eb70c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:07</itunes:duration>
+      <pubDate>Wed, 08 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAnJHyi4YIwt5-hmRav2ygnBOsJRMtXlvavIXpjFhrsw.jpg"/>
+    </item>
     <item>
       <title>Jordskjelv-katastrofen: Dette møtte NRK i ruinene</title>
       <description><![CDATA[Er det fortsatt mulig å finne overlevende i Venezuela?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>17:13</itunes:duration>
       <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nwF5UtyIgwRhIpmqzrrEngjFMRw9W9Z2kpLu2acry3xg.jpg"/>
-    </item>
-    <item>
-      <title>Fra kontrovers til suksess: Er dette sommerens stjerne?</title>
-      <description><![CDATA[Nylig stormet det, men nå knuser Olivia Rodrigo rekorder med sitt tredje album.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/66aa0d8a-5213-4c73-aa0d-8a52135c73a1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/66aa0d8a-5213-4c73-aa0d-8a52135c73a1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:46</itunes:duration>
-      <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/H7QfmXm3wE5Fbk1MvuAPRAn0wU7oJ3b2d3QI1EklQ7UA.jpg"/>
     </item>
   </channel>
 </rss>

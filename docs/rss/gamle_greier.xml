@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Jul 2026 04:02:30 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 06:38:54 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>Kunstnerens overlevelseskamp</title>
+      <description><![CDATA[Å slå gjennom som kunstner under fornorskningen koster. John Andreas Savio satser alt han har. Men er det nok?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/a43503d6-196a-4a08-b503-d6196aaa085c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/a43503d6-196a-4a08-b503-d6196aaa085c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:43</itunes:duration>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>Smuglerkongen fra Trøndelag</title>
       <description><![CDATA[Når sprit og brennevin blir forbudt i Norge, ser Ole Ervik muligheter til å tjene gode, men farlige, penger.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>17:50</itunes:duration>
       <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sPElnm7lrsrSkKNTm-hu6gVP144hNHFN7ZACmR6z4Exw.jpg"/>
-    </item>
-    <item>
-      <title>Elskerinnens pakt med djevelen</title>
-      <description><![CDATA[Ragnhild tyr til trolldom for å holde på elskeren. Når hun blir tatt i 1324, må hun legge en lur plan for å overleve.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/1cf6ae5f-8fd9-4239-a859-5638fbd0456a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/1cf6ae5f-8fd9-4239-a859-5638fbd0456a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:47</itunes:duration>
-      <pubDate>Tue, 22 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ErxYKy04AjM3NaglIjKvIAnXBL7GDVv9U8_mNB8xNY5Q.jpg"/>
     </item>
   </channel>
 </rss>
