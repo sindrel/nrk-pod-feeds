@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Jul 2026 18:46:47 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:10:18 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Bjørneangrep i Vardø</title>
+      <description><![CDATA[Flere titalls sauer er drept av bjørn i Finnmark de siste dagene. I natt ble enda flere tatt i Vardø - nå har Statsforvalteren gitt tillatelse til å skyte bjørnen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a5e80285-337b-493a-a802-85337b693a4a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a5e80285-337b-493a-a802-85337b693a4a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:52</itunes:duration>
+      <pubDate>Thu, 09 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_S8xKTftwzdJotE02kSUKgEyyNEsc8bugYILWX3VQVnw.jpg"/>
+    </item>
     <item>
       <title>NATO-toppmøtet er over</title>
       <description><![CDATA[Donald Trump skapte uro før møtet. Nå har medlemslandene blitt enige om milliardstøtte til Ukraina.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oU2kh4gs4Sr-bopdQ28FVQWJgoNIlUX8IdleH9uL-wbA.jpg"/>
-    </item>
-    <item>
-      <title>Jordskjelv i Venezuela</title>
-      <description><![CDATA[Myndighetene har erklært unntakstilstand etter to kraftige jordskjelv. Dødstallet fryktes å bli svært høyt, og redningsarbeidere jobber på spreng for å redde mennesker ut av ruinene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3a836c05-5b7e-4f55-836c-055b7e4f5560_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3a836c05-5b7e-4f55-836c-055b7e4f5560_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 25 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NJm-JEYB8F6ONumyP_Ua0A2on-1-4n3wQdCtOZlzI67g.jpg"/>
     </item>
   </channel>
 </rss>
