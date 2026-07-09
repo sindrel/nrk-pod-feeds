@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Jul 2026 06:39:14 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 05:06:29 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 8: Vi stjeler fra andre</title>
+      <description><![CDATA[I denne timen stjeler vi innhold fra andre radioprogram og podkaster. Det blir velkjent innhold du elsker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f139d629-41f1-41a4-b9d6-2941f1a1a467_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/f139d629-41f1-41a4-b9d6-2941f1a1a467_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:07</itunes:duration>
+      <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 7: Magnus Devold er her!</title>
       <description><![CDATA[Magnus Devold titter innom denne timen. Vi har det motsatte av lego, konkurrerer i papegøye og får besøk av Hermansen fra Olsenbanden-universet.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/8755541e-153d-489f-9554-1e153df89ff8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:27</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Baguette vs. nan</title>
-      <description><![CDATA[Vi har en heftig diskusjon om hva som kommer lengst av baguette eller nan, Sofie leder spalte-spalten og det blir stand up fra Markus.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6cedd912-379e-4f12-add9-12379ebf12e3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/6cedd912-379e-4f12-add9-12379ebf12e3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:07</itunes:duration>
-      <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
