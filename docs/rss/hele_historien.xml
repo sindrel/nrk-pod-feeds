@@ -1,43 +1,88 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 8 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 13 Jun 2026 06:32:14 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Jun 2026 06:02:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:19:35 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 00:22:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Dobbeltdrapet ved Karl Johan</title>
-      <description><![CDATA[En sommernatt i 1989 blir to unge norsk-pakistanere knivstukket på åpen gate. Flere heier på angriperen og roper «Kill them».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/ff40ca3d-8756-4763-80ca-3d875647637c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/ff40ca3d-8756-4763-80ca-3d875647637c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30</itunes:duration>
-      <pubDate>Fri, 12 Jun 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W5sRgeU6OBxE0GTRWuww2Aspc3btkSCQ5PJDk-gqRCRw.jpg"/>
+      <title>Bomba i Regjeringskvartalet (1:8)</title>
+      <description><![CDATA[En søvnig sommerdag i 2011 eksploderer ei bombe på nesten 1 tonn i Regjeringskvartalet i Oslo. En enslig høyre-ekstrem terrorist står bak angrepet som dreper 8 personer og skader flere hundre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/e7052b57-fb75-44ff-8a62-9812a0755160_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/e7052b57-fb75-44ff-8a62-9812a0755160_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:55</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 00:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/83to6kVocOkNd-j5NygJkABWy_ImpaBXZ9cGLL_sKGWQ.jpg"/>
     </item>
     <item>
-      <title>Den siste dansen (1:2)</title>
-      <description><![CDATA[Angriperen smiler når han stikker kniven i brystet på Ali. Men han rører ikke Synnøve, som holder rundt Ali.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/0d2949cd-1c79-45f1-a949-cd1c79d5f16d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/0d2949cd-1c79-45f1-a949-cd1c79d5f16d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:31</itunes:duration>
-      <pubDate>Sat, 13 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W5sRgeU6OBxE0GTRWuww2Aspc3btkSCQ5PJDk-gqRCRw.jpg"/>
+      <title>Hvem var Anders Behring Breivik? (2:8)</title>
+      <description><![CDATA[En enslig norsk høyre-ekstremist sto bak Norges verste terrorangrep. Hvem var Anders Behring Breivik for de som kjente ham? Hvordan endte han opp som terrorist?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/3d0a46c3-ddf1-4fda-817f-bc4d92f96041_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/3d0a46c3-ddf1-4fda-817f-bc4d92f96041_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:02</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 00:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hioB3bwwdSaPIivUjAeemAn0fo3AVbXk_WloxNlTTCRw.jpg"/>
     </item>
     <item>
-      <title>Blodspor til Polen (2:2)</title>
-      <description><![CDATA[Morderen legger på flukt. Etter flere polititabber, må Synnøve til Polen for å møte han som drepte kjæresten hennes, Nawaz.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/09a7828e-6770-4bba-a782-8e6770fbba8f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/09a7828e-6770-4bba-a782-8e6770fbba8f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:38</itunes:duration>
-      <pubDate>Sat, 13 Jun 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W5sRgeU6OBxE0GTRWuww2Aspc3btkSCQ5PJDk-gqRCRw.jpg"/>
+      <title>Utøya angripes (3:8)</title>
+      <description><![CDATA[Gjerningsmannen kommer til Utøya utkledd som politi. Han sier AUFs sommerleir skal sikres mot terror. Så begynner han å skyte på ungdommer som flykter for livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/bae3a292-6dfe-443f-9a59-977749678fef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/bae3a292-6dfe-443f-9a59-977749678fef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:49</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 00:09:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hTgjA2nHOFH_hpozOnjlSg88PVhxtcslb2UGB4J9glBA.jpg"/>
+    </item>
+    <item>
+      <title>Utøyamarerittet fortsetter (4:8)</title>
+      <description><![CDATA[Terroristen ringer politiet og sier at han vil overgi seg. Så fortsetter han å skyte og drepe. På Utøya håper livredde ungdommer at politiet snart kommer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/ca724c35-902a-4e20-94bd-ba0ae39eae26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/ca724c35-902a-4e20-94bd-ba0ae39eae26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:40</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 00:12:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hTgjA2nHOFH_hpozOnjlSg88PVhxtcslb2UGB4J9glBA.jpg"/>
+    </item>
+    <item>
+      <title>De frivillige hjelperne (5:8)</title>
+      <description><![CDATA[På terrordagen 22. juli blir vanlige mennesker helter. Forbipasserende redder folk ved Regjeringskvartalet. Ved Utøya risikerer folk i privatbåter livet for å plukke opp vettskremte ungdommer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/7b01f804-f828-48a8-a0e0-a2eb9c2042e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/7b01f804-f828-48a8-a0e0-a2eb9c2042e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:39</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 00:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_d8op_tcWCz3BtlF8516bgjNFD2i4zmOGQKwGuvs9huw.jpg"/>
+    </item>
+    <item>
+      <title>Politiets terrordag (6:8)</title>
+      <description><![CDATA[22. juli blir norsk politi satt på sin største prøve. De jakter desperat på terrorister, og prøver å redde liv. Etterpå kommer kritikken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/04c1dd90-81e6-47dc-8af6-46498560ceaf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/04c1dd90-81e6-47dc-8af6-46498560ceaf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:57</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 00:16:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c_w5xKurIRNES0JvD9fR0A5kd60_HrHD_09WrUpKkN1A.jpg"/>
+    </item>
+    <item>
+      <title>De pårørende (7:8)</title>
+      <description><![CDATA[Terrordagen 22. juli frykter tusenvis av mennesker hva som har skjedd med noen de er glade i. Dette er historien til en mamma med to sønner på Utøya. Det er fortellingen om ei jente som dro fra søsteren rett før skytingen startet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/c81b3650-3306-4ee6-90f7-65cad8dc7762_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/c81b3650-3306-4ee6-90f7-65cad8dc7762_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:00</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 00:19:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RNuON8inpf_LoeI5as3fQAUkRZggJr88AZcSbooEUUeA.jpg"/>
+    </item>
+    <item>
+      <title>Veien videre (8:8)</title>
+      <description><![CDATA[Etter terroren går folk i rosetog og det er landesorg for de 77 drepte. Men kan gjerningsmannen dømmes til fengsel for det grusomme han har gjort, eller trenger han psykiatrisk behandling?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/5ecb7df1-a10e-4a16-b85e-8ce8196ac530_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/5ecb7df1-a10e-4a16-b85e-8ce8196ac530_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:16</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 00:22:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ECSFuC9TaM3F2VbJONgiNwRcBznq9PsPFhtwsKkGrCvw.jpg"/>
     </item>
   </channel>
 </rss>
