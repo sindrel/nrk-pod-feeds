@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Jul 2026 18:10:18 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 18:45:19 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norge jakter historisk VM-seier</title>
+      <description><![CDATA[I morgen kan Norge ta seg til semifinale i Fotball-VM. Skal det skje, er England nødt til å slås.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/08a89c07-af4e-442c-a89c-07af4e242c7e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/08a89c07-af4e-442c-a89c-07af4e242c7e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:57</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NTvfUipDZFcWzLt5nSM1iAoiJfHo_P1_AzyC5Zw2FghA.jpg"/>
+    </item>
     <item>
       <title>Bjørneangrep i Vardø</title>
       <description><![CDATA[Flere titalls sauer er drept av bjørn i Finnmark de siste dagene. I natt ble enda flere tatt i Vardø - nå har Statsforvalteren gitt tillatelse til å skyte bjørnen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:55</itunes:duration>
       <pubDate>Mon, 29 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zDmKGw-hsZnxROyb-SuZaQEKxwrcn_bDN0aLSjQ2seAQ.jpg"/>
-    </item>
-    <item>
-      <title>Norge møter Frankrike i VM</title>
-      <description><![CDATA[Den siste kampen i gruppespillet i årets VM i fotball spilles i Boston.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cddb4551-9c8d-4f8c-9b45-519c8d7f8cea_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cddb4551-9c8d-4f8c-9b45-519c8d7f8cea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Fri, 26 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oU2kh4gs4Sr-bopdQ28FVQWJgoNIlUX8IdleH9uL-wbA.jpg"/>
     </item>
   </channel>
 </rss>
