@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Jul 2026 13:59:14 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 13:55:16 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Jackass er over</title>
+      <description><![CDATA[Etter 25 år med gjøn, stunt og skating er det over for Jackass. Hva tenker medlem Chris Pontius nå som det hele er slutt, og hva er planen videre?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/2d8360c6-a7ef-4235-8360-c6a7ef9235f5_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/2d8360c6-a7ef-4235-8360-c6a7ef9235f5_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:51</itunes:duration>
+      <pubDate>Sat, 11 Jul 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kl5Y7TpaEfapEMP5pog79wKFK4rXYG7wRNP-sR0K1FnQ.jpg"/>
+    </item>
     <item>
       <title>USA feirer 250 år</title>
       <description><![CDATA[Hva skjedde egentlig i 1776?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:54</itunes:duration>
       <pubDate>Sat, 09 May 2026 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kFqmMSxvqT5xkk_N58ZsbADoxZtkSZigterR5GkJ98GA.jpg"/>
-    </item>
-    <item>
-      <title>Farvel, eller på gjensyn Karpe?</title>
-      <description><![CDATA[Karpe gir seg etter 28 år i musikkbransjen. Når blir det comeback?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/7ce29148-ae8c-4862-a291-48ae8ce86295_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/7ce29148-ae8c-4862-a291-48ae8ce86295_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:03:57</itunes:duration>
-      <pubDate>Sat, 02 May 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8_BTLQq0TykYxoPP3SBBUAqtci9B8iK8kNC-6BI0aDfQ.jpg"/>
     </item>
   </channel>
 </rss>
