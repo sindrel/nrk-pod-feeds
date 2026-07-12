@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 11 Jul 2026 06:27:06 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 06:46:51 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Åste Dokka</title>
+      <description><![CDATA[Presten ble stempla som kristen og døll på barneskolen. Men mye har endret seg – er kristendom i ferd med å bli trendy?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/de7aab9a-ecc2-4c1f-baab-9aecc23c1f09_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/de7aab9a-ecc2-4c1f-baab-9aecc23c1f09_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:01</itunes:duration>
+      <pubDate>Sun, 12 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iVPEGicBitiR_86ybIlA3QLi2P2mvh1k2O4M0BDDwbqQ.jpg"/>
+    </item>
     <item>
       <title>Leander Djønne</title>
       <description><![CDATA[Livet han kjende forsvann då han braut med Jehovas vitne. Kunst og litteratur blei redninga for forfattaren.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>43:48</itunes:duration>
       <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LtR-fZeTd3FTHKbKoo9n7gTKBrWQNZ6jPe9nFTKw3BzQ.jpg"/>
-    </item>
-    <item>
-      <title>Sigbjørn Skåden</title>
-      <description><![CDATA[Som barn sluttet forfatteren nesten å snakke. Da ordene satte seg fast, begynte han å skrive.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/7606a926-43d8-4975-86a9-2643d8c975e7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/7606a926-43d8-4975-86a9-2643d8c975e7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:56</itunes:duration>
-      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/twOFkkN-prfTldgXi6b_YQr6A-MqCb30nQRIweIjtiDw.jpg"/>
     </item>
   </channel>
 </rss>
