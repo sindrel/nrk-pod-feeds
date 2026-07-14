@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Jul 2026 12:09:36 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:44:48 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Hvis russerne kommer</title>
+      <description><![CDATA[Finnmark får flere soldater, mer luftvern, og det finnes allerede en plan for evakuering av sivilbefolkninga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/674df4fb-2e05-447c-8df4-fb2e05947cb2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/674df4fb-2e05-447c-8df4-fb2e05947cb2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:15</itunes:duration>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nKJ2PBmq8X1d29gREWrGqQgJhwHDsy_R-FKCr7RPyukw.jpg"/>
+    </item>
     <item>
       <title>Demo-boom på Eidsvolls plass</title>
       <description><![CDATA[Hvorfor fortsetter folk å demonstrere utafor Stortinget, når så mye av debatten foregår i sosiale medier?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>23:10</itunes:duration>
       <pubDate>Wed, 10 Jun 2026 13:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/htNuoy7ntKuOrYmbModWaQ_El0O0SSjrXWjg04FjF_cw.jpg"/>
-    </item>
-    <item>
-      <title>Pride: Fest eller politikk?</title>
-      <description><![CDATA[Juni er Pride-måneden. Pride er både rettighetskamp og brennhet kulturdebatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/48fa405e-63f6-4a77-ba40-5e63f68a77b3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/48fa405e-63f6-4a77-ba40-5e63f68a77b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:06</itunes:duration>
-      <pubDate>Tue, 09 Jun 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Wwx_OWonQNwx9CMAI9wrqA4ibF3npK02tHMYVUfKJo9g.jpg"/>
     </item>
   </channel>
 </rss>
