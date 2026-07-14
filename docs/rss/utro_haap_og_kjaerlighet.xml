@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 12 Jul 2026 06:46:57 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 06:25:39 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Dennis Vareide: Alenepappa</title>
+      <description><![CDATA[Innholdsskaper Dennis Vareide forteller om å bli far og gå gjennom et samlivsbrudd nesten samtidig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/36bb8e78-bc66-4b07-bb8e-78bc66ab07c9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/36bb8e78-bc66-4b07-bb8e-78bc66ab07c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:36</itunes:duration>
+      <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oYPwHuSMcOYtWatYIHaTNQXTXnjLwdDQu1StnPCkb1wA.jpg"/>
+    </item>
     <item>
       <title>Panelet: Utroskap</title>
       <description><![CDATA[Hva er utroskap, og hvorfor er noen utro? Panelet har besøk av psykolog og sexolog Atle Austad i en spesialepisode om utroskap.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>41:39</itunes:duration>
       <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
-    </item>
-    <item>
-      <title>Snorre Rein: Parforhold og psykisk sykdom</title>
-      <description><![CDATA[Snorre Rein forteller om alvorlige psykiske utfordringer og hvordan det påvirket forholdet hans.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/638bce72-6e51-4979-8bce-726e51297999_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/638bce72-6e51-4979-8bce-726e51297999_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:53</itunes:duration>
-      <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_t9Hy8HNXbTWzTD4vNVDuwG04RXAzN3fikCKRhuMd3wA.jpg"/>
     </item>
   </channel>
 </rss>
