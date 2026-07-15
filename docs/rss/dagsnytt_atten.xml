@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Jul 2026 17:34:31 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 17:39:21 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Står gamle varmerekorder for fall?</title>
+      <description><![CDATA[Flere steder i Sør-Norge opplever uvanlig høye temperaturer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/01257d1a-616f-440d-a57d-1a616f840d9b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/01257d1a-616f-440d-a57d-1a616f840d9b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Wed, 15 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Lk2xKj82fWQ2BMoU1KZm_A5mPufOgIKVXMLNlfocWrKQ.jpg"/>
+    </item>
     <item>
       <title>Situasjonen tilspisser seg i områdene rundt Hormuz-stredet</title>
       <description><![CDATA[I en periode der Iran og USA har trappet opp angrepene, hadde et norsk-eid skip en eksplosjon om bord, utenfor Oman.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 02 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/KaLj16efxZCPTAItDTL6iQjFotZ24Lmox-phqO8Lll8w.jpg"/>
-    </item>
-    <item>
-      <title>Dagen derpå</title>
-      <description><![CDATA[Norge brøt ut i folkefest etter gårsdagens seier mot Elfenbenskysten. Hva ligger bak den vanvittige feiringen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9d4f0353-8bca-426b-8f03-538bcab26b59_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9d4f0353-8bca-426b-8f03-538bcab26b59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tjLViYj-9EhkIyzRB6olDwXLqjco32XpD1hAZ5T9qBLQ.jpg"/>
     </item>
   </channel>
 </rss>
