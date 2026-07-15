@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Jul 2026 06:39:03 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:28:21 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Kampen-drapet (1): Den forlatte bilen</title>
+      <description><![CDATA[Tamima Nibras Juhar forteller venner at hun er redd for å dra på jobb. Det har hun all grunn til.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/aeccc91e-50f1-4f66-8cc9-1e50f19f66dc_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/aeccc91e-50f1-4f66-8cc9-1e50f19f66dc_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:51</itunes:duration>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8CZ-nrQv9nfaytZvoCbbdglUc4p7fm2EQTAT_F5SAEiw.jpg"/>
+    </item>
     <item>
       <title>Wangen (6): Derfor ble han dømt</title>
       <description><![CDATA[Meldinger om drap, endring i forklaringer og en fascinasjon for død. Dette legger retten til grunn for den ankede dommen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>23:55</itunes:duration>
       <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3EZak_8TVdgoM-MaIpKvNAdWletysXwBQYxNeNoQhneQ.jpg"/>
-    </item>
-    <item>
-      <title>Wangen (3): Den rosa kofferten</title>
-      <description><![CDATA[Steinar Wangen drar tilbake til Sverige. Det han ikke vet, er at noen er i ferd med å lokke ham i en felle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/f0d4d7b5-ee16-4735-94d7-b5ee16773592_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f0d4d7b5-ee16-4735-94d7-b5ee16773592_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:47</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Z8bTyXeicQ7eJd-cRrlPigtWeE0yTjGR45x_R4TNOOFg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Jul 2026 06:38:58 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:28:17 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Knut Hamsun – sulten forfatter</title>
+      <description><![CDATA[Han skrev seg fra sult til berømmelse, men i landstrykeren bodde det et evig mørke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/a5acfa69-0c00-448a-acfa-690c00348a81_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/a5acfa69-0c00-448a-acfa-690c00348a81_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:47</itunes:duration>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j13eFZAwqpQvlfenNfx-iAf5FdHjHWk9e87ZbBqgoWsw.jpg"/>
+    </item>
     <item>
       <title>Leiv Eiriksson – norrøn eventyrer</title>
       <description><![CDATA[Vikingen som satte livet på spill for å finne et ukjent land.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:10</itunes:duration>
       <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hflE5Cr1d6cKu9PssRI8KAJ22B-J6k2kcg-pl4YGscCg.jpg"/>
-    </item>
-    <item>
-      <title>Dronning Victoria – imperialistisk hersker</title>
-      <description><![CDATA[Den britiske dronningen ble forsøkt drept åtte ganger i løpet av livet, men gjorde Storbritannia til verdens største imperium.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/ab0f84f5-32d9-4af9-8f84-f532d9faf9c0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/ab0f84f5-32d9-4af9-8f84-f532d9faf9c0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:39</itunes:duration>
-      <pubDate>Wed, 03 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pu0GjR9ZszMARx0EvGWPbQBWDZej8RLoEckcw83qzSYA.jpg"/>
     </item>
   </channel>
 </rss>

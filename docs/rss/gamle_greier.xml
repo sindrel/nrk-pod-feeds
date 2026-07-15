@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 11 Jul 2026 06:26:52 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:28:15 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>Jakten på Scharnhorst</title>
+      <description><![CDATA[Utenfor Finnmark ligger et av tyskernes farligste våpen under 2. verdenskrig, krigsskipet Scharnhorst. Men det blir fanget i en dødelig felle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/fdc46b78-3fa4-4acd-846b-783fa4dacd38_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/fdc46b78-3fa4-4acd-846b-783fa4dacd38_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:00</itunes:duration>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>Venezias norske helt</title>
       <description><![CDATA[Cort Adler kjemper for Venezias heder og ære i Middelhavet mot Osmanerne. Krigens brutalitet koster ham dyrt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>27:52</itunes:duration>
       <pubDate>Thu, 31 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SBVxn8uv_sT7q6IlUpw4tQWIp6oq9JsHkjDhHuka2KHQ.jpg"/>
-    </item>
-    <item>
-      <title>Den utro tjeneren (2:2)</title>
-      <description><![CDATA[«Harry» har sviktet nazistene, og får hjelp av motstandsmenn til å rømme til Sverige. Det vil tyskerne sette en stopper for.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/87f34744-ebf8-4c89-854f-d762413a084e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/87f34744-ebf8-4c89-854f-d762413a084e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:23</itunes:duration>
-      <pubDate>Tue, 29 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ODHI8wlLUHqexjJDbzOLOQsDODoNBPL6NF0BjkPZcgsw.jpg"/>
     </item>
   </channel>
 </rss>
