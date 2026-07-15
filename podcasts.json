@@ -454,7 +454,9 @@
         "id": "haevvi",
         "title": "De 10 siste fra Hævvi",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "hallo_bablo",
@@ -1620,7 +1622,7 @@
         "id": "trygdekontoret",
         "title": "De 10 siste fra Trygdekontoret",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "turister",
