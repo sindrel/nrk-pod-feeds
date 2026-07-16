@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Jul 2026 17:39:21 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:19:39 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Dieseluro i Finnmark</title>
+      <description><![CDATA[Politiet er bekymret for økt drivstoff-etterspørsel fra russiske skip.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2dc5cf91-fe35-4cbf-85cf-91fe35ccbfb1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2dc5cf91-fe35-4cbf-85cf-91fe35ccbfb1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Thu, 16 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cH1ff-2PGyqTffPHEcguiw6whvlQLK7CS392uDKlyKeg.jpg"/>
+    </item>
     <item>
       <title>Står gamle varmerekorder for fall?</title>
       <description><![CDATA[Flere steder i Sør-Norge opplever uvanlig høye temperaturer]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:56</itunes:duration>
       <pubDate>Fri, 03 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xzo1hxd60YDHhkvoA4dpfwYC04vNYyc0J9CBSl2CjOwA.jpg"/>
-    </item>
-    <item>
-      <title>Omfattende angrep på Kyiv i natt</title>
-      <description><![CDATA[Minst 17 personer drept i russiske rakett- og droneangrep.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ce82b331-e789-4417-82b3-31e7893417c5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ce82b331-e789-4417-82b3-31e7893417c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 02 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KaLj16efxZCPTAItDTL6iQjFotZ24Lmox-phqO8Lll8w.jpg"/>
     </item>
   </channel>
 </rss>
