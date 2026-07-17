@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Jul 2026 06:31:59 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 06:28:16 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Maria Parr</title>
+      <description><![CDATA[Ho trur på krafta i det fortalde. Gjennom bestemødrenes forteljarkunst fekk ho auge på seg sjølv i ein større samanheng.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0d733fae-1bf7-4316-b33f-ae1bf7a31674_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0d733fae-1bf7-4316-b33f-ae1bf7a31674_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:24</itunes:duration>
+      <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/csmSAKjCb1QesoJs5tw49A_H1tnZLnB_XoSpFMgiFR0g.jpg"/>
+    </item>
     <item>
       <title>Eirik Mofoss</title>
       <description><![CDATA[Han knakk sammen i gråt av det han så på skjermen. Nå gir han tjue prosent av inntekten sin til mennesker han aldri har møtt.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>31:13</itunes:duration>
       <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/l73HmtnpytKvcjCWxlyS6wT0WfdXHBnWNA1c6n1JISgg.jpg"/>
-    </item>
-    <item>
-      <title>Frøya Skjold Sjursæther</title>
-      <description><![CDATA[Fra klimaaktivist til historiens første tenåring på Stortinget - hvordan manøvrerer hun livet ?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e98ab580-143a-474f-8ab5-80143af74f5d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e98ab580-143a-474f-8ab5-80143af74f5d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:34</itunes:duration>
-      <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oFOLnsa4-mKeFFeZbCV7oQtBjIAYntPamLdlMTz_uqnw.jpg"/>
     </item>
   </channel>
 </rss>
