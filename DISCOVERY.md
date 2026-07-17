@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-07-17  
+- Updated podcast 'Kveldstanker' (`kveldstanker`)  
 ### 2026-07-15  
 - Podcast 'Hævvi' is considered obsolete and will be ignored in the future (`haevvi`)  
 - Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
