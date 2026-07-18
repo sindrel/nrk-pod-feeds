@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Jul 2026 06:28:16 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:19:20 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Einar Duenger Bøhn</title>
+      <description><![CDATA[Forelskelsen slo ned som et lyn på parkeringsplassen i Vormsund sommeren 1987. Bli med på en reise i kjærlighetens filosofi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/81dce0f9-33ca-42eb-9ce0-f933ca22ebdf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/81dce0f9-33ca-42eb-9ce0-f933ca22ebdf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:17</itunes:duration>
+      <pubDate>Sat, 18 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6OODGgTXj2U1xemC8twIAgLXJJ1kOlBqDLl9wYI7Tu_w.jpg"/>
+    </item>
     <item>
       <title>Maria Parr</title>
       <description><![CDATA[Ho trur på krafta i det fortalde. Gjennom bestemødrenes forteljarkunst fekk ho auge på seg sjølv i ein større samanheng.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>36:14</itunes:duration>
       <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3xBZjQNgc0Wqt0IL0C8sMAAOFwgXg2orghhdpOy8QUIw.jpg"/>
-    </item>
-    <item>
-      <title>Sebastian Klein</title>
-      <description><![CDATA[Han gjorde en rystende oppdagelse i arkivet fra Falstad fangeleir, som knytter hans egen jødiske familie til krigens brutalitet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/40582749-7909-4414-9827-497909741447_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/40582749-7909-4414-9827-497909741447_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:13</itunes:duration>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/l73HmtnpytKvcjCWxlyS6wT0WfdXHBnWNA1c6n1JISgg.jpg"/>
     </item>
   </channel>
 </rss>
