@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-07-18  
+- Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-07-17  
 - Updated podcast 'Kveldstanker' (`kveldstanker`)  
 ### 2026-07-15  
