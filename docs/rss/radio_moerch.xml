@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:29:11 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 08:45:00 +0200</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:42:01 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 12:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Våre favoritter på landslaget</title>
+      <description><![CDATA[Det er bare å si takk! Vi hyller våre norske favoritter fra VM 2026.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/378c0d3c-6b4c-4ac8-8c0d-3c6b4c6ac886_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/378c0d3c-6b4c-4ac8-8c0d-3c6b4c6ac886_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:28</itunes:duration>
+      <pubDate>Sat, 18 Jul 2026 12:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
+    </item>
     <item>
       <title>Etter semifinalene</title>
       <description><![CDATA[Å være sur for å ryke ut mot England, er å være et godt lag. Vi har konvertert de vanskelige følelsene til håp for fremtiden.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>47:22</itunes:duration>
       <pubDate>Sat, 04 Jul 2026 11:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/X3JIxpvbLuMdsONm8m-IQwyJT98HHUy-P1dbiOqBmRKA.jpg"/>
-    </item>
-    <item>
-      <title>36 minutter i en førerløs taxi</title>
-      <description><![CDATA[Bør vi hvile spillere for å vinne bronse? Fra baksetet svarer vi på spørsmål fra lytterne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/ea5187d3-4ef3-4ec9-9187-d34ef3dec931_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ea5187d3-4ef3-4ec9-9187-d34ef3dec931_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:29</itunes:duration>
-      <pubDate>Thu, 02 Jul 2026 13:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
     </item>
   </channel>
 </rss>
