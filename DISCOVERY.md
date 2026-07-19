@@ -1,4 +1,11 @@
 # Podcast Discovery Changelog  
+### 2026-07-19  
+- Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
+- Updated podcast 'Drivkraft' (`drivkraft`)  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Med all respekt' (`med_all_respekt`)  
+- Updated podcast 'Språksnakk' (`spraakteigen`)  
+- Updated podcast 'Åpen bok' (`bok_i_p2`)  
 ### 2026-07-18  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-07-17  
