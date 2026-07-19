@@ -105,7 +105,7 @@ const feeds = [
     "id": "binnabnna_ujujju",
     "title": "De 10 siste fra Binnabánnaš & Ujujju",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "bjoernen_lyver",
@@ -125,7 +125,7 @@ const feeds = [
     "id": "bok_i_p2",
     "title": "De 10 siste fra Åpen bok",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "brannbamsen_bjoernis",
@@ -243,7 +243,7 @@ const feeds = [
     "id": "drivkraft",
     "title": "De 10 siste fra Drivkraft",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "eallima_mohkit",
@@ -462,7 +462,7 @@ const feeds = [
     "id": "hallo_bablo",
     "title": "De 10 siste fra Hallo Bablo",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "hei_nabo",
@@ -888,9 +888,9 @@ const feeds = [
   },
   {
     "id": "med_all_respekt",
-    "title": "De 10 siste fra Med All Respekt",
+    "title": "De 10 siste fra Med all respekt",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "meininga_med_livet",
@@ -1446,7 +1446,7 @@ const feeds = [
     "id": "spraakteigen",
     "title": "De 10 siste fra Språksnakk",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "staale_utslagsnes_fra_loensj",

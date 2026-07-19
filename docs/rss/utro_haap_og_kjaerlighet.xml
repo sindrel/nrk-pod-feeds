@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Jul 2026 06:25:39 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 06:43:09 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Panelet: Forelskelse</title>
+      <description><![CDATA[Hvorfor blir vi forelsket, og hva er tilknytningsstil? Panelet har besøk av psykolog Jan-Ole Hesselberg i spesialepisoden om forelskelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8694bbdb-60c6-498a-94bb-db60c6898ab8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8694bbdb-60c6-498a-94bb-db60c6898ab8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:35</itunes:duration>
+      <pubDate>Sun, 19 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H41768MQkZYewiu0q3ZO8AL-UzbztsLMr5ZBTZ9eeeqw.jpg"/>
+    </item>
     <item>
       <title>Dennis Vareide: Alenepappa</title>
       <description><![CDATA[Innholdsskaper Dennis Vareide forteller om å bli far og gå gjennom et samlivsbrudd nesten samtidig.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>42:47</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/K_1GirdfPjWqAYLJ3AL8aQBihpGjZCYZTNF-POoxJh8A.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Tiggekopp og gruppeterapi</title>
-      <description><![CDATA[Panelet får besøk av Lisa Tønne og diskuterer: Skal Selma ta en pause fra dating, og når bør man egentlig ta praten om barn?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/625ca279-af10-4b98-9ca2-79af10fb9857_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/625ca279-af10-4b98-9ca2-79af10fb9857_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:39</itunes:duration>
-      <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 18 Jul 2026 06:19:20 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 06:43:05 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Erik Solbakken</title>
+      <description><![CDATA[Då nabojenta mista livet i ei skredulukke, fekk barndomens fjellheim eit nytt alvor over seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/9a3d3796-bc53-4bf7-bd37-96bc53cbf717_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/9a3d3796-bc53-4bf7-bd37-96bc53cbf717_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:25</itunes:duration>
+      <pubDate>Sun, 19 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lyJ5SoClS9bdVb1UtKKwAQkNcbj4C6iXgL1zug8T4jmg.jpg"/>
+    </item>
     <item>
       <title>Einar Duenger Bøhn</title>
       <description><![CDATA[Forelskelsen slo ned som et lyn på parkeringsplassen i Vormsund sommeren 1987. Bli med på en reise i kjærlighetens filosofi.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>38:00</itunes:duration>
       <pubDate>Fri, 10 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DxLoBm_4-GFwPjScVs7_BQRuo-kax2hzaQE6CzbGTIQA.jpg"/>
-    </item>
-    <item>
-      <title>Martin Schanche</title>
-      <description><![CDATA[I barndommen ble han mobbet fordi han var «tyskerunge». Likevel føler Mr. Rallycross at han har vunnet i livets lotteri.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/733f80f9-58d6-4cf5-bf80-f958d64cf5bf_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/733f80f9-58d6-4cf5-bf80-f958d64cf5bf_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:14</itunes:duration>
-      <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3xBZjQNgc0Wqt0IL0C8sMAAOFwgXg2orghhdpOy8QUIw.jpg"/>
     </item>
   </channel>
 </rss>
