@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Jul 2026 04:02:59 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 04:08:13 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Røverne</title>
+      <description><![CDATA[Mammaen til Håkon må ta en for laget. Akkurat i det det ser ut som at baglerne er beseiret reises opprørsfanen igjen på Østlandet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/bd48ef5e-2c89-4694-88ef-5e2c892694bb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/bd48ef5e-2c89-4694-88ef-5e2c892694bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Kongevalget</title>
       <description><![CDATA[En ny generasjon får makten. En lav, uerfaren konge og en høy, rutinert jarl kniver om hvem som skal være rikets ansikt utad.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/73d9a80e-de3a-4cf2-99a8-0ede3a1cf209_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:54</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 06:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
-    </item>
-    <item>
-      <title>Biskopene </title>
-      <description><![CDATA[To fiender av Sverre velges til biskop. Kirken seiler opp som Sverres desidert verste og farligste fiende. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/db1aadce-af09-4b04-9aad-ceaf09eb04de_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/db1aadce-af09-4b04-9aad-ceaf09eb04de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Tue, 06 Jan 2026 06:03:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>
