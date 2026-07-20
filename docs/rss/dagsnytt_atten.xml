@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Jul 2026 19:33:24 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 18:20:01 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Storbrannen i Drammen</title>
+      <description><![CDATA[Over 100 boliger har brent ned, og mer enn 400 personer evakuert etter brannen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/03972438-484e-45b5-9724-38484ee5b59e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/03972438-484e-45b5-9724-38484ee5b59e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Mon, 20 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9wy5MZoQ2gGEPYzY7JpPrgoOGejdYTygDr-2tBaAXxCQ.jpg"/>
+    </item>
     <item>
       <title>Kraftig brann i Drammen</title>
       <description><![CDATA[Brannen har spredt seg til flere rekkehus i området.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 07 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NCldpuTZR6iEt-5cdACzJg76vMU2SM2dJdJmfVu-ZfmA.jpg"/>
-    </item>
-    <item>
-      <title>VM-skandale</title>
-      <description><![CDATA[Donald Trump ringte FIFA-presidenten og fikk opphevet suspensjonen av USAs toppscorer Folarin Balogun.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ce920a12-c82b-4333-920a-12c82b1333b5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ce920a12-c82b-4333-920a-12c82b1333b5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 06 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9gvDKTey7Smhq9FB747kgAd6MXDg_r8jaiK1XVl03bRA.jpg"/>
     </item>
   </channel>
 </rss>
