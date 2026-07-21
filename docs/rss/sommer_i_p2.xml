@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Jul 2026 04:08:10 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 06:42:01 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Helene Bøksle</title>
+      <description><![CDATA[Hun flyktet fra Norge da terroristen misbrukte musikken hennes 22. juli 2011. Nå tar hun stemmen sin tilbake.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/22003572-9296-45c0-8035-729296c5c0e1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/22003572-9296-45c0-8035-729296c5c0e1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:53</itunes:duration>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N1AV52II3kewmGLrQFqj2g80HK7jlSh6BephBmx5k7oA.jpg"/>
+    </item>
     <item>
       <title>Jan Arild Snoen</title>
       <description><![CDATA[Han orker ikke mer av den amerikanske presidenten og har satt kjærlighetsforholdet til USA på pause. I sommer velger han Canada.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>37:01</itunes:duration>
       <pubDate>Sun, 12 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iVPEGicBitiR_86ybIlA3QLi2P2mvh1k2O4M0BDDwbqQ.jpg"/>
-    </item>
-    <item>
-      <title>Leander Djønne</title>
-      <description><![CDATA[Livet han kjende forsvann då han braut med Jehovas vitne. Kunst og litteratur blei redninga for forfattaren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5be4e73e-ebc9-49b0-a4e7-3eebc919b0a8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5be4e73e-ebc9-49b0-a4e7-3eebc919b0a8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:28</itunes:duration>
-      <pubDate>Sat, 11 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nPJ5y5kmNHkp8uiEEUvgbAbVUhJQ_LZ6ec8v7nFU9xmw.jpg"/>
     </item>
   </channel>
 </rss>
