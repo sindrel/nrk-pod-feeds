@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Jul 2026 06:42:01 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 06:42:52 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Gaute Børstad Skjervø</title>
+      <description><![CDATA[AUF-lederen overlevde det verste massedrapet i norsk historie. Nå vil han snakke om håp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/dbfde4f7-1e3c-49c3-bde4-f71e3c89c33b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/dbfde4f7-1e3c-49c3-bde4-f71e3c89c33b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:52</itunes:duration>
+      <pubDate>Wed, 22 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u3BDC3qVyf3v5YeFKT01RQEatYwbQR2pu0cXg0BK9gcw.jpg"/>
+    </item>
     <item>
       <title>Helene Bøksle</title>
       <description><![CDATA[Hun flyktet fra Norge da terroristen misbrukte musikken hennes 22. juli 2011. Nå tar hun stemmen sin tilbake.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>39:59</itunes:duration>
       <pubDate>Mon, 13 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rmDvUwidkug3ukoWWkl9EgKj5n0D5lircOs2Mt-OIWEw.jpg"/>
-    </item>
-    <item>
-      <title>Åste Dokka</title>
-      <description><![CDATA[Presten ble stempla som kristen og døll på barneskolen. Men mye har endret seg – er kristendom i ferd med å bli trendy?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/de7aab9a-ecc2-4c1f-baab-9aecc23c1f09_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/de7aab9a-ecc2-4c1f-baab-9aecc23c1f09_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:01</itunes:duration>
-      <pubDate>Sun, 12 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iVPEGicBitiR_86ybIlA3QLi2P2mvh1k2O4M0BDDwbqQ.jpg"/>
     </item>
   </channel>
 </rss>
