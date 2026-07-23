@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Jul 2026 06:28:21 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:40:08 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Kampen-drapet (2): Et varslet drap?</title>
+      <description><![CDATA[En 18-åring kjøper militærliknende klær og en jaktkniv på nettet. Planen han legger, skal ende i en av landets strengeste straffer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6c6835d6-c596-4c42-a835-d6c5968c4224_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6c6835d6-c596-4c42-a835-d6c5968c4224_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:03</itunes:duration>
+      <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/caQkOdF7eEVCIZyaxraNxQKrz1xPtE7vcEXvQC6rSG_w.jpg"/>
+    </item>
     <item>
       <title>Kampen-drapet (1): Den forlatte bilen</title>
       <description><![CDATA[Tamima Nibras Juhar forteller venner at hun er redd for å dra på jobb. Det har hun all grunn til.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>18:04</itunes:duration>
       <pubDate>Wed, 10 Jun 2026 16:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PYArHzEwObWDLNV6s66s3AhDZOlMKQCQ9UOq83NDPjJw.jpg"/>
-    </item>
-    <item>
-      <title>Wangen (4): Malins siste timer</title>
-      <description><![CDATA[Steinar Wangen forklarer seg om kvelden Malin (47) døde. Så gjør han noe som setter en støkk i retten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/353eb710-4b8b-4c00-beb7-104b8b3c0068_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/353eb710-4b8b-4c00-beb7-104b8b3c0068_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:55</itunes:duration>
-      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3EZak_8TVdgoM-MaIpKvNAdWletysXwBQYxNeNoQhneQ.jpg"/>
     </item>
   </channel>
 </rss>
