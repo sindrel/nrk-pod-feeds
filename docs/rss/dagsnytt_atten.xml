@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Jul 2026 18:37:45 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 17:52:33 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 18:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>USA innfører ny toll på norske varer</title>
+      <description><![CDATA[Norge får en tollsats på 12,5 prosent - 10 prosent for EU. Regjeringen kaller tollen urimelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b807fbf9-8803-4278-87fb-f988030278f2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b807fbf9-8803-4278-87fb-f988030278f2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:16</itunes:duration>
+      <pubDate>Fri, 24 Jul 2026 18:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bQp_bV4gwmHIzs-rS-Ppogwc_lfdh6c7YLx8BTK1zFAw.jpg"/>
+    </item>
     <item>
       <title>Rekordmange har fått studieplass</title>
       <description><![CDATA[Årets søkertall er klare: rekordmange har fått tilbud om høyere utdanning.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 13 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/C8KcHg9Y64Aeby-Y2Ni7nQLACXGyuLxsT_Rz2_1yNrLg.jpg"/>
-    </item>
-    <item>
-      <title>Norge jakter historisk VM-seier</title>
-      <description><![CDATA[I morgen kan Norge ta seg til semifinale i Fotball-VM. Skal det skje, er England nødt til å slås.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/08a89c07-af4e-442c-a89c-07af4e242c7e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/08a89c07-af4e-442c-a89c-07af4e242c7e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:57</itunes:duration>
-      <pubDate>Fri, 10 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NTvfUipDZFcWzLt5nSM1iAoiJfHo_P1_AzyC5Zw2FghA.jpg"/>
     </item>
   </channel>
 </rss>
