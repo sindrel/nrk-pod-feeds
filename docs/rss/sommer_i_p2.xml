@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 06:40:07 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:29:45 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Kristin Oudmayer</title>
+      <description><![CDATA[Hun vokste opp med en pappa som drakk, og sommeren var høytid for brutte løfter. Da fant hun brødskiver og trygghet hos naboene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/383e9644-0789-4a32-be96-4407894a321a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/383e9644-0789-4a32-be96-4407894a321a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:06</itunes:duration>
+      <pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eH6VdB7TDWYVAj5p1CnLFg98GnU34Da04O3XO4tC9qiw.jpg"/>
+    </item>
     <item>
       <title>Kjell-Ola Kleiven</title>
       <description><![CDATA[Da risikoanalytikerens datter fikk leukemi, skjønte han at ikke alt kan risikoanalyseres.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>44:24</itunes:duration>
       <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/csmSAKjCb1QesoJs5tw49A_H1tnZLnB_XoSpFMgiFR0g.jpg"/>
-    </item>
-    <item>
-      <title>Eirik Mofoss</title>
-      <description><![CDATA[Han knakk sammen i gråt av det han så på skjermen. Nå gir han tjue prosent av inntekten sin til mennesker han aldri har møtt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0b3233b1-d4c4-4004-b233-b1d4c4900486_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0b3233b1-d4c4-4004-b233-b1d4c4900486_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:00</itunes:duration>
-      <pubDate>Thu, 16 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L8E0JfA2LklDQRV5Zg1aCgAHtR6pYNBBfUTOVDV7gILw.jpg"/>
     </item>
   </channel>
 </rss>
