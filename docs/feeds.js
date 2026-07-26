@@ -199,7 +199,7 @@ const feeds = [
     "id": "desken_brenner",
     "title": "De 10 siste fra Desken brenner",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "dilemmaklemma",
@@ -688,7 +688,7 @@ const feeds = [
     "id": "kommentert",
     "title": "De 10 siste fra Kommentert",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "kompass",

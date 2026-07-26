@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Jul 2026 06:42:06 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 04:42:44 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Panelet: Kjærlighetssorg</title>
+      <description><![CDATA[Panelet får besøk av komiker og lege Jonas Kinge Bergland, som er med på et dypdykk i hva som skjer når vi opplever kjærlighetssorg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/354724db-22b6-47bb-8724-db22b677bb65_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/354724db-22b6-47bb-8724-db22b677bb65_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:42</itunes:duration>
+      <pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WnhGeLeQoSOiDsNrukRo4QqlQUUJElULtQnZN7NkpvFw.jpg"/>
+    </item>
     <item>
       <title>Sondre Lerche: Evig romantiker</title>
       <description><![CDATA[Sondre Lerche forteller om balansen mellom å prioritere musikken og være en evig romantiker – og om å få tilbake troen på den rette.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>34:45</itunes:duration>
       <pubDate>Sun, 28 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
-    </item>
-    <item>
-      <title>Helle Staff: Å miste seg selv</title>
-      <description><![CDATA[Influenser Helle Staff snakker om hvordan man kan miste seg selv i forhold, og hvorfor det er viktig å bevare selvstendigheten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/4fac44dd-eef7-4e1e-ac44-ddeef72e1ef6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/4fac44dd-eef7-4e1e-ac44-ddeef72e1ef6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:15</itunes:duration>
-      <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/H4Ts_mo6V5-PCUCA_19rggca3CwV-cVGxMVC1yy5Zkjg.jpg"/>
     </item>
   </channel>
 </rss>
