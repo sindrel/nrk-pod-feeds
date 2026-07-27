@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-07-27  
+- Updated podcast 'Tyrann' (`tyrann`)  
 ### 2026-07-26  
 - Updated podcast 'Desken brenner' (`desken_brenner`)  
 - Updated podcast 'Kommentert' (`kommentert`)  
