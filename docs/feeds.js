@@ -57,7 +57,7 @@ const feeds = [
     "id": "baade_erlend_og_steinar_",
     "title": "De 10 siste fra Både Erlend og Steinar ",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "bakrommet",
@@ -1044,7 +1044,7 @@ const feeds = [
     "id": "nittiatten",
     "title": "De 10 siste fra Nittiatten",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "noedsamtaler",

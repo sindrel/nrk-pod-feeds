@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:41:13 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:45:34 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Ramón</title>
+      <description><![CDATA[Han forelska seg i nabogutten da han var ti år. Da skjønte Ramón Torres Andresen at han ikke var helt som alle andre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/38f826e8-671c-4a1f-b826-e8671c8a1f43_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/38f826e8-671c-4a1f-b826-e8671c8a1f43_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:29</itunes:duration>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/477I2DUOYTX-B-b3PptKJgnEC61lsQTIwL_VmrnVKsEw.jpg"/>
+    </item>
     <item>
       <title>Ulf André «Uffe» Andersen</title>
       <description><![CDATA[Då nyrene svikta, forstod den tidlegare Se og Hør-sjefen at styrke ikkje alltid handlar om å presse seg vidare]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>40:53</itunes:duration>
       <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/N1AV52II3kewmGLrQFqj2g80HK7jlSh6BephBmx5k7oA.jpg"/>
-    </item>
-    <item>
-      <title>Jan Arild Snoen</title>
-      <description><![CDATA[Han orker ikke mer av den amerikanske presidenten og har satt kjærlighetsforholdet til USA på pause. I sommer velger han Canada.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/1b2802c5-1bdf-4e93-a802-c51bdf2e930a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/1b2802c5-1bdf-4e93-a802-c51bdf2e930a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:29</itunes:duration>
-      <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6e7u8kdMKBtVMv66IDIPzQsmYCE08xFzRWPHkPcp9bzA.jpg"/>
     </item>
   </channel>
 </rss>
