@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Jul 2026 17:38:45 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 18:46:45 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Nye russiske angrep mot Ukraina</title>
+      <description><![CDATA[Minst åtte personer ble drept i natt av ballistiske missiler da Russland angrep en rekke steder over hele Ukraina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ef449a0b-d7de-423d-849a-0bd7de223dd7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ef449a0b-d7de-423d-849a-0bd7de223dd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 30 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eEpwPH8AaRRUUdEGqIUgXAvS5VDXXHiJAvKSbILXBxbg.jpg"/>
+    </item>
     <item>
       <title>Kraftige reaksjoner på Fifas investorplaner</title>
       <description><![CDATA[Uefa og flere sentrale aktører advarer mot Fifas planer om å selge deler av fotball-VM til private investorer. De mener det kan utfordre fotballens styring.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:54</itunes:duration>
       <pubDate>Fri, 17 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/A6YgPDbCwiP9YBqlkxPOhQtFSFtMWOkL3XYDf_Ni5z4w.jpg"/>
-    </item>
-    <item>
-      <title>Dieseluro i Finnmark</title>
-      <description><![CDATA[Politiet er bekymret for økt drivstoff-etterspørsel fra russiske skip.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2dc5cf91-fe35-4cbf-85cf-91fe35ccbfb1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2dc5cf91-fe35-4cbf-85cf-91fe35ccbfb1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Thu, 16 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cH1ff-2PGyqTffPHEcguiw6whvlQLK7CS392uDKlyKeg.jpg"/>
     </item>
   </channel>
 </rss>
