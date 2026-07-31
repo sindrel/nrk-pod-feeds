@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-07-31  
+- Updated podcast 'Kompass' (`kompass`)  
+- Updated podcast 'Lev vel' (`lev_vel`)  
 ### 2026-07-29  
 - Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
 - Updated podcast 'Nittiatten' (`nittiatten`)  
