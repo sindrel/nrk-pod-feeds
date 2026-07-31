@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 30 Jul 2026 06:42:04 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 07:14:27 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Per Kjerstad</title>
+      <description><![CDATA[Som usikker gutunge med cowboyboots og rumpetaske, måtte han handtere mannsrolla på ei verhard øy i nord.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/bf199b04-62e0-4b3c-999b-0462e0ab3c10_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/bf199b04-62e0-4b3c-999b-0462e0ab3c10_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:36</itunes:duration>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XT-ReNcWW-ynIDLi0AfSjwWVQpAawX6cJv3sA50qB9qw.jpg"/>
+    </item>
     <item>
       <title>Trine Haug</title>
       <description><![CDATA[Som tidligere ordfører i Frosta ville hun ta vare på bygda, men var selv en av ofrene for legens overgrep.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>35:57</itunes:duration>
       <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qbSTJGBc3KZ7KZzkz4AG6g4iuw9evhxel2AvdzoidnzQ.jpg"/>
-    </item>
-    <item>
-      <title>Gaute Børstad Skjervø</title>
-      <description><![CDATA[AUF-lederen overlevde det verste massedrapet i norsk historie. Nå vil han snakke om håp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/dbfde4f7-1e3c-49c3-bde4-f71e3c89c33b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/dbfde4f7-1e3c-49c3-bde4-f71e3c89c33b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:52</itunes:duration>
-      <pubDate>Wed, 22 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/u3BDC3qVyf3v5YeFKT01RQEatYwbQR2pu0cXg0BK9gcw.jpg"/>
     </item>
   </channel>
 </rss>

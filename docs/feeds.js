@@ -694,7 +694,7 @@ const feeds = [
     "id": "kompass",
     "title": "De 10 siste fra Kompass",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kongerekka",
@@ -804,7 +804,7 @@ const feeds = [
     "id": "lev_vel",
     "title": "De 10 siste fra Lev vel",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "lindmo_og_co",
