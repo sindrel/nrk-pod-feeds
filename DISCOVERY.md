@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-02  
+- Updated podcast 'Politisk kvarter' (`politisk_kvarter`)  
 ### 2026-07-31  
 - Updated podcast 'Kompass' (`kompass`)  
 - Updated podcast 'Lev vel' (`lev_vel`)  
