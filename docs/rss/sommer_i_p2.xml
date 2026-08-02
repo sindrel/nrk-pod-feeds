@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 01 Aug 2026 06:41:05 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 06:46:42 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Snorre Rein</title>
+      <description><![CDATA[Mange mener han vant valget for venstresida. Men ett år tidligere var han egentlig klar for å dø.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0c1f64db-f7c2-4e1f-9f64-dbf7c2ae1f76_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0c1f64db-f7c2-4e1f-9f64-dbf7c2ae1f76_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:43</itunes:duration>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nBbd0JzBcR3Yi2F_dyCDkwWFLiqb1AgsFKi2Bn2iKlUA.jpg"/>
+    </item>
     <item>
       <title>Selma Ibrahim</title>
       <description><![CDATA[Verda rasa saman då ho måtte avlyse draumebryllaupet. Hadde ho tatt feil om kjærleiken heilt sidan ho fekk sitt første kyss?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>44:16</itunes:duration>
       <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zr8obN2PZ491wExovX88ZgbKQ7JrrwHejsCTUYuJh8TA.jpg"/>
-    </item>
-    <item>
-      <title>Åse Kathrin Vuolab</title>
-      <description><![CDATA[Seks år med motgang, risdiett og gjenbrukt snus. Serieskaperen forteller om janteloven og veien til Gullruten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/65e411be-f4f0-4af3-a411-bef4f0daf3b0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/65e411be-f4f0-4af3-a411-bef4f0daf3b0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:52</itunes:duration>
-      <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qbSTJGBc3KZ7KZzkz4AG6g4iuw9evhxel2AvdzoidnzQ.jpg"/>
     </item>
   </channel>
 </rss>
