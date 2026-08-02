@@ -1174,7 +1174,7 @@ const feeds = [
     "id": "politisk_kvarter",
     "title": "De 10 siste fra Politisk kvarter",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "popaganda",
