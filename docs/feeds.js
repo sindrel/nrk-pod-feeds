@@ -1144,9 +1144,9 @@ const feeds = [
   },
   {
     "id": "p3morgen",
-    "title": "De 10 siste fra P3morgen",
+    "title": "De 10 siste fra P3morgen for B-mennesker",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "paa_audition",
