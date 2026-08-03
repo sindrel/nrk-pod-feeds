@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-03  
+- Updated podcast 'P3morgen for B-mennesker' (`p3morgen`)  
 ### 2026-08-02  
 - Updated podcast 'Politisk kvarter' (`politisk_kvarter`)  
 ### 2026-07-31  
