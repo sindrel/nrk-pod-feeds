@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Jul 2026 04:52:54 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 04:00:38 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Elvekrigen</title>
+      <description><![CDATA[En veldig gammel og slu rev går ut av tiden. Håkon driver amfibisk krigføring mot Ribbungene i elvene på Østlandet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/02acc46e-9e0e-4531-acc4-6e9e0e8531e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/02acc46e-9e0e-4531-acc4-6e9e0e8531e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:34</itunes:duration>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Riksmøtet</title>
       <description><![CDATA[Skittentøyet luftes på et stort møte mellom rikets klokeste og mektigste. Håkon må fylle ut CV-en og går til angrep på Vermland.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/13525e13-a97d-4e17-925e-13a97dce17d4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:52</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 06:06:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
-    </item>
-    <item>
-      <title>Baglerne </title>
-      <description><![CDATA[Sverres fiender samler seg rundt biskop Nikolas og gir seg selv et navn. Sverre og Nikolas møtes og slenger dritt til hverandre.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/5e5a209a-b2fd-4cb0-9a20-9ab2fd1cb0a9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/5e5a209a-b2fd-4cb0-9a20-9ab2fd1cb0a9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Tue, 06 Jan 2026 06:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>
