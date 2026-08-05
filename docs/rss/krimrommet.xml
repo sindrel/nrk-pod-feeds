@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Jul 2026 06:45:23 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:42:25 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Martine-saken (2): Drapsalarm</title>
+      <description><![CDATA[Det britiske politiet finner Martine. Samtidig har den eneste mistenkte i saken, Farouk Abdulhak, satt seg på et fly – til Jemen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/1b1ec10c-9677-4bed-9ec1-0c96770bed99_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1b1ec10c-9677-4bed-9ec1-0c96770bed99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:54</itunes:duration>
+      <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iy3TaH0R4oKmV_wOlNQ4PwCvtNfhDcjIHDqFh2X97Mbg.jpg"/>
+    </item>
     <item>
       <title>Martine-saken (1): Den siste festen</title>
       <description><![CDATA[En marsdag i 2008 drar Martine Vik Magnussen (23) på byen med noen venner. Hun kommer aldri hjem igjen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>24:27</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/E41s7mA4f7-vqNBXfc2xYQb67M3CK7QJMQPenwNdZzJg.jpg"/>
-    </item>
-    <item>
-      <title>Høiby (22): Dette er dommen</title>
-      <description><![CDATA[Kronprinsessens sønn har fått en historisk dom. Hva skjer videre nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/96396304-04d2-4dba-b963-0404d24dbac6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/96396304-04d2-4dba-b963-0404d24dbac6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:10</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 18:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/R9JQmd9laK48TE8IBO2tiA23iOp49SdYunmUL1aeT6EQ.jpg"/>
     </item>
   </channel>
 </rss>
