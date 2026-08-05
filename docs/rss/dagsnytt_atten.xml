@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 04 Aug 2026 18:03:28 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:53:45 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Senterpartiet vil forlenge drivstoffkutt</title>
+      <description><![CDATA[Rødgrønn side er splittet om kuttet i drivstoffavgiftene skal forlenges.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/04d713b3-6e18-4751-9713-b36e1807517b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/04d713b3-6e18-4751-9713-b36e1807517b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Wed, 05 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PE8z10f8iX8mHZ-i4mLT_wQ45pvFFlR54Y_FobLp2h6w.jpg"/>
+    </item>
     <item>
       <title>Kjøper seg ut av ensomhet</title>
       <description><![CDATA[Eldre betaler opptil 20.000 kroner i måneden for sosial omsorg. Forsker advarer mot et voksende klasseskille.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 23 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Snpj2Xcyn3cMpPKwTTlp2Qps2lqv28aSmTbO5qIo0ZYQ.jpg"/>
-    </item>
-    <item>
-      <title>15 år siden terroren 22. juli</title>
-      <description><![CDATA[Det har vært minnemarkering på Utøya dagen 15 år etter at 77 mennesker ble drept i et høyreekstremt terrorangrep i Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d3544380-1dfd-411d-9443-801dfdd11d16_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d3544380-1dfd-411d-9443-801dfdd11d16_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 22 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/i-PBLYqwnxUZ2xWaUqpX9Ax5B5NVlDEinM66VXcnKWYA.jpg"/>
     </item>
   </channel>
 </rss>
