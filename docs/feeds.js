@@ -199,7 +199,7 @@ const feeds = [
     "id": "desken_brenner",
     "title": "De 10 siste fra Desken brenner",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "dilemmaklemma",
@@ -1226,7 +1226,7 @@ const feeds = [
     "id": "radiodokumentaren",
     "title": "De 10 siste fra Historier fra virkeligheten",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "radiolegen",
@@ -1600,7 +1600,9 @@ const feeds = [
     "id": "traesh",
     "title": "De 10 siste fra Træsh",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "treningskompis",

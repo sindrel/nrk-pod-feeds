@@ -1,61 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 26 May 2026 08:43:14 +0000</lastBuildDate>
-    <pubDate>Tue, 26 May 2026 06:08:00 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:42:16 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>En hjelpsom bestemor (1:5)</title>
-      <description><![CDATA[Solveig døper folk hjemme i badekaret sitt og vil befri dem fra mørke krefter. Naboene blir bekymret når en ny gjest flytter inn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/07b76301-4a0b-48cf-b763-014a0b68cfbb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/07b76301-4a0b-48cf-b763-014a0b68cfbb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:46</itunes:duration>
-      <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ.jpg"/>
-    </item>
-    <item>
-      <title>Diagnose: Besatt (2:5)</title>
-      <description><![CDATA[Gjesten slutter å ta medisin, og blir sykere og sykere. Solveig mener det er demonene som viser seg – og går til angrep.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/5cdb39a1-8a21-4daa-9b39-a18a21adaa30_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5cdb39a1-8a21-4daa-9b39-a18a21adaa30_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:55</itunes:duration>
-      <pubDate>Tue, 26 May 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ.jpg"/>
-    </item>
-    <item>
-      <title>Solveigs metode (3:5)</title>
-      <description><![CDATA[Solveig blir avbrutt av politiet, som finner merkelige ting i huset. Ekteparet må forklare stropp, hengelås og plate foran vinduet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/19de26e8-770e-4193-9e26-e8770e8193d6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/19de26e8-770e-4193-9e26-e8770e8193d6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:19</itunes:duration>
-      <pubDate>Tue, 26 May 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ.jpg"/>
-    </item>
-    <item>
-      <title>Influenser-eksorsistene (4:5)</title>
-      <description><![CDATA[Det viser seg at Solveig ikke er den eneste. I en badestamp i Oslo ligger en kvinne og spreller mens hun skriker høyt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6869f0c3-1126-4e80-a9f0-c311262e8021_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6869f0c3-1126-4e80-a9f0-c311262e8021_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:58</itunes:duration>
-      <pubDate>Tue, 26 May 2026 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ.jpg"/>
-    </item>
-    <item>
-      <title>Guds plan med det hele (5:5)</title>
-      <description><![CDATA[I fengselet står plutselig livet på spill og Solveig forstår alt som har skjedd på en ny måte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/0d3d2ca6-abb1-4c50-bd2c-a6abb19c50fc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/0d3d2ca6-abb1-4c50-bd2c-a6abb19c50fc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:11</itunes:duration>
-      <pubDate>Tue, 26 May 2026 06:08:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ.jpg"/>
+      <title>Smakebit: Glimtkoden</title>
+      <description><![CDATA[På få år går Bodø/Glimt fra nedrykk og kaos til eventyrlig suksess i Mesterligaen – og blir hele fotballverdenens kjæledegger. I NRK Radio fra 8.8.2026.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4bde230a-a1d5-4a76-9e23-0aa1d5fa76c3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4bde230a-a1d5-4a76-9e23-0aa1d5fa76c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:30</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/InIMnPNV-8UffH4a2PBakg1uLTe74cxYo4LfxUMMPDxA.jpg"/>
     </item>
   </channel>
 </rss>
