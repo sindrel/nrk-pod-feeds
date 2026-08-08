@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-08  
+- Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
 ### 2026-08-07  
 - Updated podcast 'Desken brenner' (`desken_brenner`)  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
