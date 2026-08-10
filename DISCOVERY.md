@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-10  
+- Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
 ### 2026-08-08  
 - Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
 ### 2026-08-07  
