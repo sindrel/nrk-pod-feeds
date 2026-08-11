@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-08-11  
+- Updated podcast 'Med all respekt' (`med_all_respekt`)  
+### 2026-08-11  
 - Updated podcast 'P3morgen for B-mennesker' (`p3morgen`)  
 ### 2026-08-10  
 - Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
