@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 09 Aug 2026 04:37:22 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:40:41 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>William Heimdal: Identitet og kjærlighet</title>
+      <description><![CDATA[William Heimdal forteller om en livsendrende episode som formet hans perspektiv på livet, like før han møtte kjæresten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/af9db33d-cc94-4d65-9db3-3dcc94bd65a5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/af9db33d-cc94-4d65-9db3-3dcc94bd65a5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:49</itunes:duration>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/onyR1aWDwdpLY5bDNqqbFwdnFFAc9yS-3S8GRJbdMNkw.jpg"/>
+    </item>
     <item>
       <title>Panelet: Internasjonal hore og puslespill</title>
       <description><![CDATA[Panelet er tilbake med historier fra sommerferien og løsninger på “verdensproblemmas”. Har de holdt seg til dating planene sine?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>43:36</itunes:duration>
       <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oYPwHuSMcOYtWatYIHaTNQXTXnjLwdDQu1StnPCkb1wA.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Utroskap</title>
-      <description><![CDATA[Hva er utroskap, og hvorfor er noen utro? Panelet har besøk av psykolog og sexolog Atle Austad i en spesialepisode om utroskap.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/7344e2df-4e00-44d2-84e2-df4e00c4d2ec_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/7344e2df-4e00-44d2-84e2-df4e00c4d2ec_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:46</itunes:duration>
-      <pubDate>Sun, 12 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/c1oMVs-KMZONZeP-BZJV3ACLBsxOmGgTAtpXu43fpSgQ.jpg"/>
     </item>
   </channel>
 </rss>

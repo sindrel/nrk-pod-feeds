@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Jul 2026 04:02:40 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:40:36 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Kongen befaler</title>
+      <description><![CDATA[Vi er tilbake fra ferie! Henning har kjøpt øl på spansk og vi diskuterer hva som skjer når monarker dør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bcb5204c-7ba5-4745-b520-4c7ba587452f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bcb5204c-7ba5-4745-b520-4c7ba587452f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Det beste fra P3morgen</title>
       <description><![CDATA[Du får det beste fra denne uka med P3morgen. Karpe-historiker Sandeep Singh, barne-TV legende Stian Barsnes Simonsen forteller om programmet Amigo, Arin har valgt vold, og Henning har tatt på seg søndagstrusa på feil dag.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>Kan Norge faktisk vinne VM?</title>
-      <description><![CDATA[Henning, Johannes, Nora og Jon Marius har vært og sett Norge mot Senegal. De deler om denne legendariske natten!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6a99ca6e-1ecb-4b06-99ca-6e1ecb5b062e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6a99ca6e-1ecb-4b06-99ca-6e1ecb5b062e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>
 </rss>
