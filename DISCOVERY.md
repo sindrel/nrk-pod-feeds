@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-11  
+- Updated podcast 'P3morgen for B-mennesker' (`p3morgen`)  
 ### 2026-08-10  
 - Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
 ### 2026-08-08  
