@@ -890,7 +890,7 @@ const feeds = [
     "id": "med_all_respekt",
     "title": "De 10 siste fra Med all respekt",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "meininga_med_livet",
