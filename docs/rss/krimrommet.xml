@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Aug 2026 06:42:25 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 05:03:24 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Martine-saken (3): Epsteins råd</title>
+      <description><![CDATA[Farouks far, Shaher Abdulhak, merker at Martine-saken går ut over ryktet hans. Så spør han en venn om hjelp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/1dfa488b-58e6-4f37-ba48-8b58e65f3788_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1dfa488b-58e6-4f37-ba48-8b58e65f3788_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:17</itunes:duration>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ljwe4iOmDIs6vkRDmHDu7wvYqKjEMkKCa2KBmMs4HE1g.jpg"/>
+    </item>
     <item>
       <title>Martine-saken (2): Drapsalarm</title>
       <description><![CDATA[Det britiske politiet finner Martine. Samtidig har den eneste mistenkte i saken, Farouk Abdulhak, satt seg på et fly – til Jemen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:22</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PbJ68jKD6tr8OGjheHmRegd_p7yo5PVxIG1XHUKHDaxQ.jpg"/>
-    </item>
-    <item>
-      <title>Wangen (5): Pute eller ikke pute?</title>
-      <description><![CDATA[Retten skal avgjøre om Steinar Wangen har drept med pute eller medvirket til selvmord.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/354d2628-936c-4b8d-8d26-28936c8b8d44_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/354d2628-936c-4b8d-8d26-28936c8b8d44_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:27</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/E41s7mA4f7-vqNBXfc2xYQb67M3CK7QJMQPenwNdZzJg.jpg"/>
     </item>
   </channel>
 </rss>
