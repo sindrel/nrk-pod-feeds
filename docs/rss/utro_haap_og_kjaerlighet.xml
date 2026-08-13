@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Aug 2026 04:40:41 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 05:06:27 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Solveig Kloppen: Når barna flytter</title>
+      <description><![CDATA[Solveig Kloppen forteller om møtet med ektemannen, småbarnsfasen og hvordan det er når barna flytter ut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/905df1dd-7fd7-421c-9df1-dd7fd7c21cb0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/905df1dd-7fd7-421c-9df1-dd7fd7c21cb0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:47</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/w47fAbwF7yiYpe1ImuH97wpqz7uWNfysFW-DP9L1aMNQ.jpg"/>
+    </item>
     <item>
       <title>William Heimdal: Identitet og kjærlighet</title>
       <description><![CDATA[William Heimdal forteller om en livsendrende episode som formet hans perspektiv på livet, like før han møtte kjæresten.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:35</itunes:duration>
       <pubDate>Sun, 19 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/H41768MQkZYewiu0q3ZO8AL-UzbztsLMr5ZBTZ9eeeqw.jpg"/>
-    </item>
-    <item>
-      <title>Dennis Vareide: Alenepappa</title>
-      <description><![CDATA[Innholdsskaper Dennis Vareide forteller om å bli far og gå gjennom et samlivsbrudd nesten samtidig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/36bb8e78-bc66-4b07-bb8e-78bc66ab07c9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/36bb8e78-bc66-4b07-bb8e-78bc66ab07c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:36</itunes:duration>
-      <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oYPwHuSMcOYtWatYIHaTNQXTXnjLwdDQu1StnPCkb1wA.jpg"/>
     </item>
   </channel>
 </rss>
