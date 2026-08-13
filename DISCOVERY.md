@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-13  
+- Updated podcast 'Kommentert' (`kommentert`)  
 ### 2026-08-11  
 - Updated podcast 'Med all respekt' (`med_all_respekt`)  
 ### 2026-08-11  
