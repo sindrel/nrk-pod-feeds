@@ -125,7 +125,7 @@ const feeds = [
     "id": "bok_i_p2",
     "title": "De 10 siste fra Åpen bok",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "brannbamsen_bjoernis",
@@ -798,7 +798,7 @@ const feeds = [
     "id": "leseklubben",
     "title": "De 10 siste fra Leseklubben",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "lev_vel",
