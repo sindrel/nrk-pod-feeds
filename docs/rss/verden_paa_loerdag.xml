@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 07 Aug 2026 04:03:33 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 05:03:48 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>USA, Europa og innvandringen</title>
+      <description><![CDATA[Innvandring  splitter både i USA og Europa.  Men hva kan vi lære av hverandre?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/e6633d18-7a6c-4b90-a33d-187a6c3b900f_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/e6633d18-7a6c-4b90-a33d-187a6c3b900f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:49</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PEs1CLdgELmimQoxiRI2VgGhnzTyHjddpTmwoZCWHZOw.jpg"/>
+    </item>
     <item>
       <title>Det umulige SoMe-forbudet</title>
       <description><![CDATA[Australske tenåringer sniker seg lett inn på forbudte sosiale medier. Hva kan Norge lære av det?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>16:44</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QcbGnFUdVq7GQndRoX2cxQC_xVPD2D3fVA49IrDb1dhA.jpg"/>
-    </item>
-    <item>
-      <title>Førte fredsprisen til krig?</title>
-      <description><![CDATA[Maria Corina Machado  fra Venezuela ga fredsprisen sin  til Donald Trump. Fikk hun noe som helst igjen for det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ecde2ef8-9bb1-42e0-9e2e-f89bb122e0bc_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ecde2ef8-9bb1-42e0-9e2e-f89bb122e0bc_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:04</itunes:duration>
-      <pubDate>Fri, 05 Jun 2026 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oZkb2zZMPQiWtzbshzpXVw--efbPWgmmuyHWlDamFDtw.jpg"/>
     </item>
   </channel>
 </rss>
