@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Aug 2026 05:03:37 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:45:44 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Høydepunkter fra P3morgen</title>
+      <description><![CDATA[Det beste fra denne ukens P3morgen! Vi tester norsk produkt som går viralt i Kina, og diskuterer hvordan man overlever på fly og hvor mange underbukser man skal ha på langhelgtur. Arin får kjørt seg med spy, gråt, og smerte]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f4e33b1c-c793-40da-a33b-1cc79390da9b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f4e33b1c-c793-40da-a33b-1cc79390da9b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:45</itunes:duration>
+      <pubDate>Sat, 15 Aug 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A.jpg"/>
+    </item>
     <item>
       <title>Hvordan «lounge» på flyplassen</title>
       <description><![CDATA[Hvem er vi på flyplassen? Vi deler ulike flyplassopplevelser og flyplasser vi setter pris på.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:31</itunes:duration>
       <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Chihuahua på rømmen!</title>
-      <description><![CDATA[Arin har bestemt seg for å ha en sykt bra uke, Henning har blitt nyforelsket i Nord-Norge og Nora har sett en hund flykte!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c5fbaac6-5a29-4631-bbaa-c65a29463169_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c5fbaac6-5a29-4631-bbaa-c65a29463169_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
