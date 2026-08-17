@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Aug 2026 12:00:02 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:06:20 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Venstrehendtes hverdag</title>
+      <description><![CDATA[Tidligere ble venstrehendte sett på som feilvare, mindre intelligente. Hvorfor var det slik?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8111998e-78ce-4aab-9199-8e78ce9aab06_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8111998e-78ce-4aab-9199-8e78ce9aab06_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:53</itunes:duration>
+      <pubDate>Mon, 17 Aug 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HM4UHITRHHgFBIxi3YGtcA2_B-nicsduf-qvywfQl-uQ.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Skjebnehøsten</title>
       <description><![CDATA[Alt peker i feil retning for Trump. Kan han overleve høsten?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>33:15</itunes:duration>
       <pubDate>Tue, 07 Jul 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3o7QSBKVOwX79r5gr6jvZQoy4pv0IdqEGwaNXP0Qv7jg.jpg"/>
-    </item>
-    <item>
-      <title>Fastlegeordninga - jubilant i krise?</title>
-      <description><![CDATA[Fastlegeordninga har gått fra suksess til krise på 25 år. Men alternativene til ordninga er verre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9c8f9973-63bd-4de6-8f99-7363bd6de6e9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9c8f9973-63bd-4de6-8f99-7363bd6de6e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:50</itunes:duration>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LNm1_XllkM3gBOI5462JKAylQUEjim3uGOiW2pZX22Ig.jpg"/>
     </item>
   </channel>
 </rss>
