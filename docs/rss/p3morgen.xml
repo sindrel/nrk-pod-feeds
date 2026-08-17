@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:45:44 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:01:18 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>20 kg bæsj</title>
+      <description><![CDATA[Jonas og Henning har «benka» og vært i dyreparken, og Arin har endelig fått oppleve lounge på flyplassen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/64495ad6-4c3b-4604-895a-d64c3b5604cf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/64495ad6-4c3b-4604-895a-d64c3b5604cf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:29</itunes:duration>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen</title>
       <description><![CDATA[Det beste fra denne ukens P3morgen! Vi tester norsk produkt som går viralt i Kina, og diskuterer hvordan man overlever på fly og hvor mange underbukser man skal ha på langhelgtur. Arin får kjørt seg med spy, gråt, og smerte]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:28</itunes:duration>
       <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Rabies og lave presidenter</title>
-      <description><![CDATA[Arin har laget TikTok-mat og Henning har tatt årets første bad. Vi prater også litt om rabies, pride i Iran og lave folk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/af9bfe93-981b-4180-9bfe-93981b518008_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/af9bfe93-981b-4180-9bfe-93981b518008_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:31</itunes:duration>
-      <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
