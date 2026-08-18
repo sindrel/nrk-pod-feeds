@@ -631,6 +631,12 @@
         "hidden": true
     },
     {
+        "id": "kilder_til_begeistring",
+        "title": "De 10 siste fra Kilder til begeistring",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "kjapt_oppdatert",
         "title": "De 10 siste fra Kjapt oppdatert",
         "season": null,
@@ -1331,6 +1337,12 @@
         "enabled": false,
         "ignore": true,
         "hidden": true
+    },
+    {
+        "id": "sentralbordet",
+        "title": "De 10 siste fra Sentralbordet",
+        "season": null,
+        "enabled": true
     },
     {
         "id": "seriesnakk",

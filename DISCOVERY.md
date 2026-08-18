@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-08-18  
+- Added podcast 'Kilder til begeistring' (`kilder_til_begeistring`)  
+- Added podcast 'Sentralbordet' (`sentralbordet`)  
 ### 2026-08-17  
 - Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2026-08-14  
