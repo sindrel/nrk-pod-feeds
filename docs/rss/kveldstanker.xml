@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:17:03 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:05:05 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Rød løper - med Elin Sofye Rabbevåg</title>
+      <description><![CDATA[Æres den som æres bør, mener musikeren Elin Sofye Rabbevåg]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/64cd1193-374c-4ce9-8d11-93374cdce956_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/64cd1193-374c-4ce9-8d11-93374cdce956_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:12</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u4DEViXCzqxv1l8mOqXoDA68rtOTluhok4gH9z6UxWDw.jpg"/>
+    </item>
     <item>
       <title>Fellesskap - med Ingvild Hegge Eriksen</title>
       <description><![CDATA[Å være fysisk sammen i en krise kan ikke erstattes av noe, forteller forfatteren Ingvild Hegge Eriksen]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:30</itunes:duration>
       <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pQAtnzPIT1XcIV7PMcvQhwwRoTx-fmuWWVjzcKiO9BNw.jpg"/>
-    </item>
-    <item>
-      <title>Eldre menn - med Gunn Marit Nisja</title>
-      <description><![CDATA[En forfatters privilegium er å studere andre mennesker, forteller forfatteren Gunn Marit Nisja.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/224f6890-fc6d-419a-8f68-90fc6d419a57_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/224f6890-fc6d-419a-8f68-90fc6d419a57_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:29</itunes:duration>
-      <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
     </item>
   </channel>
 </rss>
