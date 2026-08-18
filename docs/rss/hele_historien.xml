@@ -1,43 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Hele historien</title>
+    <title>De 1 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 25 Jul 2026 06:29:37 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:54:49 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 09:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
-      <title>Smakebit: Terraskandalen</title>
-      <description><![CDATA[Åtte småkommuner satser enorme summer på den amerikanske børsen etter råd fra finansmeglere fra Oslo. Så kollapser Wall Street. I NRK Radio fra 25.07.2026.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/ef6cb0fe-0241-4fc3-acb0-fe02412fc35c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/ef6cb0fe-0241-4fc3-acb0-fe02412fc35c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30</itunes:duration>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/J3cP2QS5vY5g7vD1n3z8iAZ_DnND5B3MeJEPIXLUAo8Q.jpg"/>
-    </item>
-    <item>
-      <title>«Hestkukens» nei (1:2)</title>
-      <description><![CDATA[Finansmeglere frister kommunestyret med en spennende investering i USA. Flertallet vil satse enorme summer, men én sier nei: «Hestkuken».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/27915607-8679-4116-9156-078679e1169b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/27915607-8679-4116-9156-078679e1169b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:03</itunes:duration>
-      <pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/J3cP2QS5vY5g7vD1n3z8iAZ_DnND5B3MeJEPIXLUAo8Q.jpg"/>
-    </item>
-    <item>
-      <title>«Deep shit» (2:2)</title>
-      <description><![CDATA[Snøballen ruller. Hundrevis av millioner kroner vil gå tapt hvis ikke kommunene satser enda mer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/70ebc298-6e6f-4234-abc2-986e6fc234a7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/70ebc298-6e6f-4234-abc2-986e6fc234a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:09</itunes:duration>
-      <pubDate>Sat, 25 Jul 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/J3cP2QS5vY5g7vD1n3z8iAZ_DnND5B3MeJEPIXLUAo8Q.jpg"/>
+      <title>Kommer 22.august: Døden på Operafjellet</title>
+      <description><![CDATA[Et russisk fly med 141 om bord styrter på Svalbard. Redningsarbeidet er vanskelig, og midt i katastrofen nekter russerne å følge norsk lov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/832077c7-b105-4a44-a077-c7b1059a44e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/832077c7-b105-4a44-a077-c7b1059a44e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p84kxYwg6EII-7Z7U3kiwgiG4lPJ5Z3IYAC03JqXMbwA.jpg"/>
     </item>
   </channel>
 </rss>
