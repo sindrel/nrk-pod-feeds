@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 16 Aug 2026 04:02:27 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 04:53:39 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Nils Bech: Skam</title>
+      <description><![CDATA[Sanger Nils Bech tar oss med på sin kjærlighetsreise fra skam til selvaksept.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/be3fbde3-9227-4ce8-bfbd-e392272ce8a7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/be3fbde3-9227-4ce8-bfbd-e392272ce8a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:33</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jSenxbAA81QcdsIvv0hjZQc0RXJaqOfQIkC1YDBNVziQ.jpg"/>
+    </item>
     <item>
       <title>Panelet: Bitter kjerring og ny kjæreste?</title>
       <description><![CDATA[Komiker Maria Stavang er gjest og deler fra singellivet. Kai Thomas forteller om mannlig besøk fra London; har han fått seg kjæreste?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>54:42</itunes:duration>
       <pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WnhGeLeQoSOiDsNrukRo4QqlQUUJElULtQnZN7NkpvFw.jpg"/>
-    </item>
-    <item>
-      <title>Sondre Lerche: Evig romantiker</title>
-      <description><![CDATA[Sondre Lerche forteller om balansen mellom å prioritere musikken og være en evig romantiker – og om å få tilbake troen på den rette.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/577b939d-f1a5-44eb-bb93-9df1a5d4eb95_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/577b939d-f1a5-44eb-bb93-9df1a5d4eb95_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:54</itunes:duration>
-      <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4uFyiGuz81E_1rhG6O8aygIQtsTM1hhnrBEmUraFRLWQ.jpg"/>
     </item>
   </channel>
 </rss>
