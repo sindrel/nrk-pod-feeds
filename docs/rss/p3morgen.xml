@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:01:18 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:53:43 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Forslag til kattenavn</title>
+      <description><![CDATA[Jonas har kjøpt ny kjøkkenmaskin,  Arin skammer seg litt og Henning har forslag til kattenavn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e5d03cba-3786-4af5-903c-ba3786daf5df_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e5d03cba-3786-4af5-903c-ba3786daf5df_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
+    </item>
     <item>
       <title>20 kg bæsj</title>
       <description><![CDATA[Jonas og Henning har «benka» og vært i dyreparken, og Arin har endelig fått oppleve lounge på flyplassen!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>Ruses av billettsalg.</title>
-      <description><![CDATA[Nora får rus av billettsalg, Johannes har en høne å plukke med Fisherman's Friend og Henning sympatiserer med servitører.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ed05e102-450b-452c-85e1-02450ba52cc8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ed05e102-450b-452c-85e1-02450ba52cc8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
