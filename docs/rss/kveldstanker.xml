@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:05:05 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 05:47:04 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Ballen - med Ingrid Helene Kopperstad Raunehaug</title>
+      <description><![CDATA[Vi må aldri glemme å leke, er rådet fra Ingrid Helene Kopperstad Raunehaug.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0d92dac5-2d45-43d2-92da-c52d4513d2d5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0d92dac5-2d45-43d2-92da-c52d4513d2d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:56</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O_gNdgIc-TgRZdaCj_l4zAyG_Y47nZ3e5NpiDt7B_ksg.jpg"/>
+    </item>
     <item>
       <title>Rød løper - med Elin Sofye Rabbevåg</title>
       <description><![CDATA[Æres den som æres bør, mener musikeren Elin Sofye Rabbevåg]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:16</itunes:duration>
       <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
-    </item>
-    <item>
-      <title>Hat - med Noman Mubashir</title>
-      <description><![CDATA[Hatefulle ytringer skjer oftere enn vi liker å tro, forteller Noman Mubashir, men å hate tilbake ikke gjør ingen til vinnere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4331b9b8-89a2-4048-b1b9-b889a2d048b7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4331b9b8-89a2-4048-b1b9-b889a2d048b7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:30</itunes:duration>
-      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pQAtnzPIT1XcIV7PMcvQhwwRoTx-fmuWWVjzcKiO9BNw.jpg"/>
     </item>
   </channel>
 </rss>
