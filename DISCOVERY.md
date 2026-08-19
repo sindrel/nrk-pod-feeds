@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-08-19  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
+- Updated podcast 'Bibelen' (`bibelen`)  
 ### 2026-08-18  
 - Updated podcast 'Kveldstanker' (`kveldstanker`)  
 ### 2026-08-18  
