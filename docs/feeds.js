@@ -1218,7 +1218,7 @@ const feeds = [
     "id": "radio_moerch",
     "title": "De 10 siste fra Radio Mørch",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "radio_utslagsnes",
