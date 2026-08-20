@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Sentralbordet</title>
+    <title>De 3 siste fra Sentralbordet på NRK</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Sentralbordet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Sentralbordet på NRK. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:08:58 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:54:22 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/JdK6Jz4qE3JfOzh4lWbJdgSJzM2vjuGP8u-VCB-X45Dg.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    <item>
+      <title>- Jeg ringer angående den vannkukeren</title>
+      <description><![CDATA[Vegard har misforstått finn.no, Ole Henry må be om for mye fra en tilfeldig på telefonlista og Emilie tvinges til å bli musikalartist.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/b48f4c41-52e0-4454-8f4c-4152e0245408_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/b48f4c41-52e0-4454-8f4c-4152e0245408_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:22</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    </item>
+    <item>
+      <title>- Kan du høre meg gjennom gulvet?</title>
+      <description><![CDATA[Vegard får en pizzakokk til å skrike, Catrin Sagen ringer feil, et engelsk hostel mangler laks og Sabeltann seiler inn i Stockholm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:39</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    </item>
     <item>
       <title>Sentralbordet kommer 20. august</title>
       <description><![CDATA[Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må
