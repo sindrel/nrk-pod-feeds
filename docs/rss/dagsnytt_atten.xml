@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Aug 2026 17:45:55 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:45:52 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Flygelederstreiken rammer hele landet</title>
+      <description><![CDATA[Luftrommet må stenges over både Flesland og Gardermoen i perioder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/57df8a02-b74e-4e00-9f8a-02b74e8e00e6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/57df8a02-b74e-4e00-9f8a-02b74e8e00e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yONwY6iTkiXINLQ5WmT6NgUf-fKdrjNtE9o3Rx4z09-Q.jpg"/>
+    </item>
     <item>
       <title>Vartslingssaken mot tidligere leder Lars Løvold er avsluttet.</title>
       <description><![CDATA[Løvvold trakk seg i går kveld etter varsel om uønsket seksuell oppmerksomhet.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Mon, 10 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6iZf69qoV4W1eCZtiChwlwjlDph9AJm7F-xED5mBjcoQ.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen lover raskere kraftutbygging</title>
-      <description><![CDATA[Rødt mener at det ikke vil gi lavere strømpriser, mens Frp reagerer på det de kaller ensidig satsing på vindkraft.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/acffafce-c226-45a0-bfaf-cec226e5a0b6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/acffafce-c226-45a0-bfaf-cec226e5a0b6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:52</itunes:duration>
-      <pubDate>Fri, 07 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/z-VhNsedJIuD4bDSiL55_Q2v1URlw-OHmjWIS0rzpKCw.jpg"/>
     </item>
   </channel>
 </rss>
