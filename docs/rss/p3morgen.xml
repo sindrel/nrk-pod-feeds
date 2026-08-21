@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:50:31 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:48:43 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Stjernetegn vs. arv og miljø</title>
+      <description><![CDATA[Arin er ikke så interessert i stjernetegn,  Nora blir lurt, og Michael Jackson er innom et par ganger i episoden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7a4a6687-2197-4952-8a66-872197595277_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7a4a6687-2197-4952-8a66-872197595277_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Et lag med tre minoritetskvinner</title>
       <description><![CDATA[Vi skal leke voksen-gjemsel, Arin spyr over alt og vi får et spørsmål om vi er kjendiser.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:28</itunes:duration>
       <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
-    </item>
-    <item>
-      <title>Kongen befaler</title>
-      <description><![CDATA[Vi er tilbake fra ferie! Henning har kjøpt øl på spansk og vi diskuterer hva som skjer når monarker dør.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bcb5204c-7ba5-4745-b520-4c7ba587452f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bcb5204c-7ba5-4745-b520-4c7ba587452f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>
