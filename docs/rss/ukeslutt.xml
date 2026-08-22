@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 15 Aug 2026 13:44:17 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:45:10 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Tog til besvær</title>
+      <description><![CDATA[Når var sist du hørte noe positivt om det norske togtilbudet? Må vi skru tiden tilbake til Sesam Stasjon?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/3e8f6fd3-fb12-4bb9-8f6f-d3fb120bb9fa_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/3e8f6fd3-fb12-4bb9-8f6f-d3fb120bb9fa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:24</itunes:duration>
+      <pubDate>Sat, 22 Aug 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/onHudlBTFPASGY5K9xzcnwbypai--a8o-YM9KPzb-JEg.jpg"/>
+    </item>
     <item>
       <title>Blodig sammenbrudd for åpent kamera</title>
       <description><![CDATA[Kjendisbloggeren Perez Hilton ble berømt for å lage underholdning av Britney Spears sin psykiske uhelse. Nå er det hans eget sammenbrudd det handler om.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:27</itunes:duration>
       <pubDate>Sat, 20 Jun 2026 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GOkjLrI3aFIUrraBArhSFw-iKM4h4YjcsZ1nR62FIN9A.jpg"/>
-    </item>
-    <item>
-      <title>Hvem var vikingene?</title>
-      <description><![CDATA[Mer enn bare voldelige krigere]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/60e2bbab-759d-416c-a2bb-ab759d916c5f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/60e2bbab-759d-416c-a2bb-ab759d916c5f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:31</itunes:duration>
-      <pubDate>Sat, 13 Jun 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MASVVpC9T4fZCxrOV3CJ1Q3R7_lANBeUh9xjpZe6dTog.jpg"/>
     </item>
   </channel>
 </rss>
