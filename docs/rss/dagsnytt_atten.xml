@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:45:52 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:47:08 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kong Harald på sykehus</title>
+      <description><![CDATA[Det er ingen vesentlige endringer, og situasjonen er fortsatt stabil, ifølge Slottet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/aa46c09d-9019-45ab-86c0-9d901965abca_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aa46c09d-9019-45ab-86c0-9d901965abca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aKKSpAaiO5e9xgkA4VhtzANxfLpu5H1SU4ZJe_Og4k0Q.jpg"/>
+    </item>
     <item>
       <title>Flygelederstreiken rammer hele landet</title>
       <description><![CDATA[Luftrommet må stenges over både Flesland og Gardermoen i perioder.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>58:57</itunes:duration>
       <pubDate>Tue, 11 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NzA4xPqqdLWHmbbKF3G-NQKv6hXQsHqOXHoFxx3D9Zbw.jpg"/>
-    </item>
-    <item>
-      <title>Høyre vil ha Senterpartiet med på skattekutt</title>
-      <description><![CDATA[Senterpartiet får ikke flertall med seg på drivstoffkutt. Nå ønsker Høyre å få dem med på skattelette.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0b76f969-e1a7-495a-b6f9-69e1a7595a5d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0b76f969-e1a7-495a-b6f9-69e1a7595a5d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Mon, 10 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6iZf69qoV4W1eCZtiChwlwjlDph9AJm7F-xED5mBjcoQ.jpg"/>
     </item>
   </channel>
 </rss>
