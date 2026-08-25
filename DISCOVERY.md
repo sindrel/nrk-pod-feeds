@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-08-25  
+- Podcast 'Binnabánnaš & Ujujju' is considered obsolete and will be ignored in the future (`binnabnna_ujujju`)  
+### 2026-08-25  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 - Updated podcast 'Drivkraft' (`drivkraft`)  
 ### 2026-08-20  
