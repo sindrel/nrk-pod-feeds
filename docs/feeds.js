@@ -105,7 +105,9 @@ const feeds = [
     "id": "binnabnna_ujujju",
     "title": "De 10 siste fra Binnabánnaš & Ujujju",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "bjoernen_lyver",
