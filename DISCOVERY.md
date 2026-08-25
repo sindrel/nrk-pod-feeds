@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-08-25  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
+- Updated podcast 'Drivkraft' (`drivkraft`)  
 ### 2026-08-20  
 - Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2026-08-19  
