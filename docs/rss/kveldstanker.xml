@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Aug 2026 05:47:04 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:02:41 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Villmarkscamp - med Terje Torkildsen</title>
+      <description><![CDATA[Hvordan får vi unge til å spise grønnsaker? Forfatteren Terje Torkildsen har et forslag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/fad11ddf-732c-43d7-911d-df732ce3d7f8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/fad11ddf-732c-43d7-911d-df732ce3d7f8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:48</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
+    </item>
     <item>
       <title>Ballen - med Ingrid Helene Kopperstad Raunehaug</title>
       <description><![CDATA[Vi må aldri glemme å leke, er rådet fra Ingrid Helene Kopperstad Raunehaug.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:07</itunes:duration>
       <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
-    </item>
-    <item>
-      <title>Næringsliv - med Terje Torkildsen</title>
-      <description><![CDATA[Terje Torkildsen har lenge undret seg over at vi ofte bruker fine, myke ord på ganske kalde, harde ting.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/16ed3878-905b-402c-ad38-78905bc02cde_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/16ed3878-905b-402c-ad38-78905bc02cde_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
     </item>
   </channel>
 </rss>
