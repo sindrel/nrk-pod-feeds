@@ -63,7 +63,7 @@ const feeds = [
     "id": "bakrommet",
     "title": "De 10 siste fra Bakrommet",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "baksnakk",
@@ -243,7 +243,7 @@ const feeds = [
     "id": "drivkraft",
     "title": "De 10 siste fra Drivkraft",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "eallima_mohkit",
