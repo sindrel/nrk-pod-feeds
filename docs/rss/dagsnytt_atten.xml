@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:46:00 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:18:14 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kriminelle tilknyttet barnevernet</title>
+      <description><![CDATA[Ny rapport viser at kriminelle har sentrale roller i selskaper som leverer barnevernstjenester. Nå skal Økokrim kartlegge hele landet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/721b586e-ed4d-4051-9b58-6eed4d205152_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/721b586e-ed4d-4051-9b58-6eed4d205152_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1GAu18I0-lseYb44n807JgdPgYqGuboYp7KRKfDIrwNg.jpg"/>
+    </item>
     <item>
       <title>Ny utvikling i eldreomsorgen</title>
       <description><![CDATA[Mange pårørende går av tidlig for å ta seg av gamle foreldre, Frp mener Ap styrer mot havari i eldreomsorgen.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Thu, 13 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7Akdjq94OJsAh_shfyoFawJUu4vLjZ94x3w2VObLEtyQ.jpg"/>
-    </item>
-    <item>
-      <title>PST advarer</title>
-      <description><![CDATA[Politiets sikkerhetstjeneste (PST) ser økt nettverksbygging og flere mindreårige som eksponeres for ekstrem islamisme.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/22718814-c2ef-49f8-b188-14c2ef99f875_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/22718814-c2ef-49f8-b188-14c2ef99f875_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:12</itunes:duration>
-      <pubDate>Wed, 12 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/un-Guw_OB-rYgalFWe1wBAggledGbpJMoGZ_dLz4lOyg.jpg"/>
     </item>
   </channel>
 </rss>
