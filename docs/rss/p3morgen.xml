@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:00:34 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:03:05 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Abid Raja går bananas.</title>
+      <description><![CDATA[Arin har fikset neglene, Henning har en høne å plukke og Jonas har vokst opp med navn på biler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/04f59f11-e2e3-4272-b59f-11e2e3d2724d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/04f59f11-e2e3-4272-b59f-11e2e3d2724d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
+    </item>
     <item>
       <title>Kjeks med smak av boyband</title>
       <description><![CDATA[Henning har med et tankeeksperiment, Arin deler sin hevn på en rasist og vi diskuterer utløpsdatoer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>54:45</itunes:duration>
       <pubDate>Sat, 15 Aug 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan «lounge» på flyplassen</title>
-      <description><![CDATA[Hvem er vi på flyplassen? Vi deler ulike flyplassopplevelser og flyplasser vi setter pris på.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/170dae1f-e6a4-4437-8dae-1fe6a4f43749_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/170dae1f-e6a4-4437-8dae-1fe6a4f43749_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
     </item>
   </channel>
 </rss>
