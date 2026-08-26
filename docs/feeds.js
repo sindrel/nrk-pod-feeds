@@ -812,7 +812,7 @@ const feeds = [
     "id": "lev_vel",
     "title": "De 10 siste fra Lev vel",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "lindmo_og_co",
