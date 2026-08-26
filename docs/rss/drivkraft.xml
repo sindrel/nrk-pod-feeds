@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:44:33 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 13:25:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:51:51 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 12:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Anne Lindboe</title>
+      <description><![CDATA[Ordføreren i Oslo følte på skam som mor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cbfcc0a7-1a69-4e93-bcc0-a71a69ce931e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cbfcc0a7-1a69-4e93-bcc0-a71a69ce931e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 12:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NaFpeZT9wSnzW-MEFsYG-gW9cmH1UThkysjIx9uP024Q.jpg"/>
+    </item>
     <item>
       <title>Tommy Olsen</title>
       <description><![CDATA[Han har reddet båtflyktninger i Middelhavet i årevis. Nå er han etterlyst av greske myndigheter. Men frikjent i Norge.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:13</itunes:duration>
       <pubDate>Mon, 08 Jun 2026 14:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9qwp3A7vHny4XKThOz3_Jwj0tkq_t1Ye3EatfLAbfj9g.jpg"/>
-    </item>
-    <item>
-      <title>Hedvig Wessel</title>
-      <description><![CDATA[– Jeg fikk husarrest flere ganger i uka som barn,  sier skiprofilen om sin eksplosive energi.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3a71e7eb-f142-4069-b1e7-ebf142f0691c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3a71e7eb-f142-4069-b1e7-ebf142f0691c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:11</itunes:duration>
-      <pubDate>Thu, 04 Jun 2026 13:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SNBjAarmrl-4-H8v8GM3wgRaSMMCamJHqu87yGpb9Wtw.jpg"/>
     </item>
   </channel>
 </rss>
