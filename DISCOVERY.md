@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-08-26  
+- Updated podcast 'Lev vel' (`lev_vel`)  
+### 2026-08-26  
 - Updated podcast 'Debatten' (`debatten`)  
 ### 2026-08-25  
 - Podcast 'Binnabánnaš & Ujujju' is considered obsolete and will be ignored in the future (`binnabnna_ujujju`)  
