@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 19:18:14 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:31:47 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kongens tilstand er forverret</title>
+      <description><![CDATA[Folk samler seg på Slottsplassen etter nyheten om at kong Haralds helsetilstand er svært alvorlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6a2b5c24-393d-451e-ab5c-24393d951e08_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6a2b5c24-393d-451e-ab5c-24393d951e08_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:51</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-CbqaqmDAr5JQCGvL11UJA_hCLJBPU00Y6eW4ontFv3w.jpg"/>
+    </item>
     <item>
       <title>Kriminelle tilknyttet barnevernet</title>
       <description><![CDATA[Ny rapport viser at kriminelle har sentrale roller i selskaper som leverer barnevernstjenester. Nå skal Økokrim kartlegge hele landet.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>58:53</itunes:duration>
       <pubDate>Fri, 14 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4S1c8SOyKSVKE4iK-90R1Ar1rwecWJuD6kgxQn5_Bd4g.jpg"/>
-    </item>
-    <item>
-      <title>Søreide debuterer i partilederdebatten</title>
-      <description><![CDATA[Manglende rentekutt og krisepakker er blant temaene når Støre, Listhaug og Søreide møtes før partilederdebatten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/541055aa-5b3e-4cea-9055-aa5b3e4cead3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/541055aa-5b3e-4cea-9055-aa5b3e4cead3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Thu, 13 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7Akdjq94OJsAh_shfyoFawJUu4vLjZ94x3w2VObLEtyQ.jpg"/>
     </item>
   </channel>
 </rss>
