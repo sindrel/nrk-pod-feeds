@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:03:05 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:51:46 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Naken på TV for 50 kroner.</title>
+      <description><![CDATA[Arin har dummet seg litt ut og ber om råd fra Henning, og vi diskuterer prisen for å være naken på TV.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a09ecb4d-8ae7-4687-9ecb-4d8ae79687a0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a09ecb4d-8ae7-4687-9ecb-4d8ae79687a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Abid Raja går bananas.</title>
       <description><![CDATA[Arin har fikset neglene, Henning har en høne å plukke og Jonas har vokst opp med navn på biler.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>20:29</itunes:duration>
       <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen</title>
-      <description><![CDATA[Det beste fra denne ukens P3morgen! Vi tester norsk produkt som går viralt i Kina, og diskuterer hvordan man overlever på fly og hvor mange underbukser man skal ha på langhelgtur. Arin får kjørt seg med spy, gråt, og smerte]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f4e33b1c-c793-40da-a33b-1cc79390da9b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f4e33b1c-c793-40da-a33b-1cc79390da9b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:45</itunes:duration>
-      <pubDate>Sat, 15 Aug 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A.jpg"/>
     </item>
   </channel>
 </rss>
