@@ -467,6 +467,12 @@ const feeds = [
     "enabled": false
   },
   {
+    "id": "harald_v",
+    "title": "De 10 siste fra Harald V",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "hei_nabo",
     "title": "De 10 siste fra Hei, nabo",
     "season": null,
@@ -1460,7 +1466,7 @@ const feeds = [
     "id": "spraakteigen",
     "title": "De 10 siste fra Språksnakk",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "staale_utslagsnes_fra_loensj",

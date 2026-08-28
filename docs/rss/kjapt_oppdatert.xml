@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Aug 2026 05:25:50 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:44:26 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 09:46:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Kong Harald er død</title>
+      <description><![CDATA[Kong Harald sovnet stille inn på Rikshospitalet. Det melder Kongehuset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e1f50b3a-5d3b-432a-b50b-3a5d3bf32ab8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e1f50b3a-5d3b-432a-b50b-3a5d3bf32ab8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:18</itunes:duration>
+      <pubDate>Fri, 28 Aug 2026 09:46:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m9tja0WsAJovDxqIIYoLag_kOY4aZnFuMdcz0xxiHePg.jpg"/>
+    </item>
     <item>
       <title>Norge holder pusten</title>
       <description><![CDATA[Kong Haralds helsetilstand fortsatt svært alvorlig]]></description>
@@ -95,15 +104,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>05:20</itunes:duration>
       <pubDate>Tue, 18 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QtgaLcBFotDQUUpWLWACVAgYAyRH9ew8aKVpfxbCxc1w.jpg"/>
-    </item>
-    <item>
-      <title>Donald Trump roser Kim Jong-Un</title>
-      <description><![CDATA[Og trusler mot norske politikere øker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b4e14adc-c4f6-426d-a14a-dcc4f6526d6a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b4e14adc-c4f6-426d-a14a-dcc4f6526d6a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:49</itunes:duration>
-      <pubDate>Mon, 17 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/53LW-_9YxUBrXs69_u6DvQAiT-58s_Ryl--hYdjTODMA.jpg"/>
     </item>
   </channel>
 </rss>
