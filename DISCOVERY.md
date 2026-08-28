@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-08-28  
+- Added podcast 'Harald V' (`harald_v`)  
+- Updated podcast 'Språksnakk' (`spraakteigen`)  
 ### 2026-08-26  
 - Updated podcast 'Lev vel' (`lev_vel`)  
 ### 2026-08-26  
