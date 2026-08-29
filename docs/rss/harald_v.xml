@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:44:22 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 16:35:00 +0200</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:32:31 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ.jpg"/>
+    <item>
+      <title>Den nye kongens første tale til folket</title>
+      <description><![CDATA[Kong Haakon VIII sin første tale til folket som konge. En minnetale over sin far, kong Harald.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/harald_v/7d27f48b-a51d-4016-a7f4-8ba51d3016ed_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/7d27f48b-a51d-4016-a7f4-8ba51d3016ed_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:43</itunes:duration>
+      <pubDate>Sat, 29 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tSwXr-W80cCT4grvsa5gXwECwiTD1hONWAnUF2WlhptQ.jpg"/>
+    </item>
     <item>
       <title>Sogneprest på Svalbard</title>
       <description><![CDATA[– Det her er verdens nordligste kirkeklokker, sier sogneprest Siv Limstrand. Kongens død ble markert ved at kirkeklokkene i Longyearbyen ringte i en time.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>05:47</itunes:duration>
       <pubDate>Fri, 28 Aug 2026 14:42:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WmXDPGblBXIFsI7JFzy2hQIvIM_t7mVTOCUC9bkRSlCg.jpg"/>
-    </item>
-    <item>
-      <title>Høyesterettsjustitiarius  minnetale</title>
-      <description><![CDATA[– Kongen var bevisst hvilke grunnleggende verdier vår rettsstat var bygget på, sier høyesterettsjustitiarius Toril Maria Øie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/harald_v/8a551f1a-5a7f-465e-951f-1a5a7f165ee6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/harald_v/8a551f1a-5a7f-465e-951f-1a5a7f165ee6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:49</itunes:duration>
-      <pubDate>Fri, 28 Aug 2026 14:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xpCgLwBjv-tkbECEH4WNRQfKIUr7pAv-Q47-vk1zdqsw.jpg"/>
     </item>
   </channel>
 </rss>
