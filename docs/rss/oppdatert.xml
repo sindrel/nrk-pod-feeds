@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:44:33 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:06:46 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Slik husker folket kong Harald</title>
+      <description><![CDATA[Dette er øyeblikkene nordmenn vil huske.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/c647ac82-0d98-4c69-87ac-820d987c69e3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c647ac82-0d98-4c69-87ac-820d987c69e3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:22</itunes:duration>
+      <pubDate>Sat, 29 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s1mAM-8HGTlakTnnVxf7NQH192eVLrWs5bMjYoirb5ww.jpg"/>
+    </item>
     <item>
       <title>Kong Harald: Slik var livet hans</title>
       <description><![CDATA[I årevis var majestetens liv tett sammenvevd med definerende hendelser for Norge. Nå er kong Harald død.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>18:21</itunes:duration>
       <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GOFnIx3u8czGG6W11PkHGAys_iU2WDj1WnYRbnAeSdJA.jpg"/>
-    </item>
-    <item>
-      <title>De mystiske brannene i Lofoten: Sto noen bak?</title>
-      <description><![CDATA[Da den lille bygda Laukvik ble rammet av flere uforklarlige branner, tok lokalbefolkningen affære.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cde2c83b-00cf-4586-a2c8-3b00cf1586a6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cde2c83b-00cf-4586-a2c8-3b00cf1586a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:34</itunes:duration>
-      <pubDate>Tue, 18 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/URvWruIzC6rSbKKiWLsLAgGWHq1oyt5SSCaLKqiE1N2A.jpg"/>
     </item>
   </channel>
 </rss>
