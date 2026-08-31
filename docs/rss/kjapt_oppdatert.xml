@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:44:26 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 09:46:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:37:44 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Kongen er død: Dette skjer videre</title>
+      <description><![CDATA[Og sånn har helga vært.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d2b8fc26-320e-4502-b8fc-26320e05026c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d2b8fc26-320e-4502-b8fc-26320e05026c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:34</itunes:duration>
+      <pubDate>Mon, 31 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cUrR4H_5_-ZvZdJTMLvONgl7qfOpPbrR0YHbysOo4rNg.jpg"/>
+    </item>
     <item>
       <title>Kong Harald er død</title>
       <description><![CDATA[Kong Harald sovnet stille inn på Rikshospitalet. Det melder Kongehuset.]]></description>
@@ -95,15 +104,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>05:39</itunes:duration>
       <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0XRBBg6ZrgDSmqvIvhdIrgC-JWaQiaHL20WJBwdxcDgA.jpg"/>
-    </item>
-    <item>
-      <title>Kongen behandles for blodsykdom</title>
-      <description><![CDATA[Og mange kommuner bryter loven.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/9bb26e66-d1b5-40b4-b26e-66d1b540b43b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/9bb26e66-d1b5-40b4-b26e-66d1b540b43b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:20</itunes:duration>
-      <pubDate>Tue, 18 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QtgaLcBFotDQUUpWLWACVAgYAyRH9ew8aKVpfxbCxc1w.jpg"/>
     </item>
   </channel>
 </rss>

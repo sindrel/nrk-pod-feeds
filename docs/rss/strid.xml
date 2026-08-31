@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:02:31 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:37:53 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Medvinden</title>
+      <description><![CDATA[Helvete er løs og Skule gjør seg klar til slag i dypsnøen ved Gardermoen. Håkon seiler fra Nidaros til Oslo i en vanvittig fart.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/06e1211f-6f5b-4b51-a121-1f6f5b0b5143_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/06e1211f-6f5b-4b51-a121-1f6f5b0b5143_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Dødsskvadronene</title>
       <description><![CDATA[Skule tar en skjebnesvanger avgjørelse og dronning Margrete må velge side i den forestående krigen mellom faren og ektemannen.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/1d3efd88-5cf8-4410-befd-885cf8d410fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:44</itunes:duration>
       <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
-    </item>
-    <item>
-      <title>Steinveggen</title>
-      <description><![CDATA[En mystisk mann flykter fra fengsel ved hjelp av sjarme og sengetøy. Han vil bli baglerkonge, men ikke alle tror han er kongssønn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/6ff9786a-626c-42bf-b978-6a626c82bf5c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/6ff9786a-626c-42bf-b978-6a626c82bf5c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:57</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>
