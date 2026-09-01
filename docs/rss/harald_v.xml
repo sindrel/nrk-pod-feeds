@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 29 Aug 2026 18:32:31 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:55:00 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 13:38:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ.jpg"/>
+    <item>
+      <title>Kong Haakon avlegger ed</title>
+      <description><![CDATA[I Stortinget lovet Kong Haakon VIII å regjere landet i tråd med Grunnloven.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/harald_v/726e6cd2-22ff-496c-ae6c-d222ff296c92_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/726e6cd2-22ff-496c-ae6c-d222ff296c92_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:16</itunes:duration>
+      <pubDate>Tue, 01 Sep 2026 13:38:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/B8u0GuiDeM7WyVT8i6iT0QIdd__5eG71hlGd-v647ilg.jpg"/>
+    </item>
     <item>
       <title>Den nye kongens første tale til folket</title>
       <description><![CDATA[Kong Haakon VIII sin første tale til folket som konge. En minnetale over sin far, kong Harald.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>04:19</itunes:duration>
       <pubDate>Fri, 28 Aug 2026 14:43:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y298YF2gQP3qVfocYuHdnAWcVihY0QEggnc4GgRZVqJQ.jpg"/>
-    </item>
-    <item>
-      <title>Samtingspresidentens minnetale</title>
-      <description><![CDATA[Samtingspresident Silje Karine Muotka holder sin minnetale.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/harald_v/f929af89-7a91-4257-a9af-897a91e2574e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/harald_v/f929af89-7a91-4257-a9af-897a91e2574e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:47</itunes:duration>
-      <pubDate>Fri, 28 Aug 2026 14:42:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WmXDPGblBXIFsI7JFzy2hQIvIM_t7mVTOCUC9bkRSlCg.jpg"/>
     </item>
   </channel>
 </rss>
