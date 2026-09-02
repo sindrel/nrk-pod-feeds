@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-09-02  
+- Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
+- Updated podcast 'Leseklubben' (`leseklubben`)  
 ### 2026-09-01  
 - Updated podcast 'Sommer i P2' (`sommer_i_p2`)  
 ### 2026-08-28  
