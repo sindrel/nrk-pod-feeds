@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 01 Sep 2026 05:11:54 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:51:22 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Kapteinen med Lena Lindahl</title>
+      <description><![CDATA[Forfatteren Lena Lindahl har aldri fått møte en konge helt på ekte, men likevel har hun tre av dem i livet sitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0b33bbb2-dbb1-43e2-b3bb-b2dbb123e2a8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0b33bbb2-dbb1-43e2-b3bb-b2dbb123e2a8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:02</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
+    </item>
     <item>
       <title>Laksekongen - med Svein Sæter</title>
       <description><![CDATA[Noen ganger er det med konger som med små barn, forteller forfatteren Svein Sæter]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:20</itunes:duration>
       <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZzEZdgqTenfj1A9tBh5UlAo_s5j1TwrJsJVIMeMYKkDg.jpg"/>
-    </item>
-    <item>
-      <title>Musikk - med Ingrid Helene Kopperstad Raunehaug</title>
-      <description><![CDATA[Sanger er det nærmeste vi kommer en tidsmaskin, forteller Ingrid Helene Kopperstad Raunehaug.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3ab7fe26-9972-4f75-b7fe-2699723f7589_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3ab7fe26-9972-4f75-b7fe-2699723f7589_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:29</itunes:duration>
-      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/O_gNdgIc-TgRZdaCj_l4zAyG_Y47nZ3e5NpiDt7B_ksg.jpg"/>
     </item>
   </channel>
 </rss>

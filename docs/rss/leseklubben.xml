@@ -1,84 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Leseklubben</title>
+    <title>De 2 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Jul 2026 06:28:23 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:51:23 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>– Gleder meg like mye som til fotball-VM! (1:5)</title>
-      <description><![CDATA[Nå starter Hot Lindgren Summer i Leseklubben! Folk gråter, Else gleder seg og Kristoffer tviler. Men hvorfor skal voksne lese en barnebok?
+      <title>«Prosessen» (1:10 Arrestasjon)</title>
+      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 1-2 kan du høre Leseklubben episode 2.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
 Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
-Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
-Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a1f95491-651d-47f2-b954-91651dc7f2e4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a1f95491-651d-47f2-b954-91651dc7f2e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:12</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/dc14ff9d-a46b-44dd-94ff-9da46b64ddd7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/dc14ff9d-a46b-44dd-94ff-9da46b64ddd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:58</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
     </item>
     <item>
-      <title>– Jeg har mitt eget Nangijala (2:5)</title>
-      <description><![CDATA[Else gråter på toget og forteller om en sky full av sjokolade. Kristoffer er psykolog, mens Christine blir stadig mer forkjøla i øynene. (Episoden omtaler selvmord)
+      <title>«Prosessen» (2:10 Samtale med Fru Grubach så frøken Büstner)</title>
+      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 1-2 kan du høre Leseklubben episode 2.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
 Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
-Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
-Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bd9885e7-cdd5-44fa-9885-e7cdd514faf5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bd9885e7-cdd5-44fa-9885-e7cdd514faf5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:56</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
-    </item>
-    <item>
-      <title>– Kan vi ikke ha det litt mer koselig? (3:6)</title>
-      <description><![CDATA[Else gisper av forræderen. Full debatt om å true barn med kniv. Hvem bør spille brødrene i ny TV-serie?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/35b8d650-343c-492c-b8d6-50343c892c25_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/35b8d650-343c-492c-b8d6-50343c892c25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:56</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
-    </item>
-    <item>
-      <title>Nord-Korea, farfar og fatshaming (4:5)</title>
-      <description><![CDATA[Else elsker farfar Mathias. Driver Lindgren med fatshaming? Christine forteller om Astrid, krig og politikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bb5911ba-a26a-4078-9911-baa26ac078d7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bb5911ba-a26a-4078-9911-baa26ac078d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:58</itunes:duration>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
-    </item>
-    <item>
-      <title>– Skulle kanskje ikke lest den som voksen? (5:5)</title>
-      <description><![CDATA[Full forvirring om slutten: trist eller lykkelig? Else gjør som Astrid og gir en lærepenge. Vår «Prosessen»-gjest venter på Kristoffer i kaninhullet! (Episoden omtaler selvmord)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/525aa4d2-c04a-4975-9aa4-d2c04af975d7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/525aa4d2-c04a-4975-9aa4-d2c04af975d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:29</itunes:duration>
-      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
-    </item>
-    <item>
-      <title>BONUS: Lindgrens fortsettelse på «Brødrene Løvehjerte»</title>
-      <description><![CDATA[Kristoffer leser Lindgrens svar til tusenvis av barn som ville vite mer om livet i Nangilima. Publisert i Expressen i 1974.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5e1103ad-c8bc-4944-9103-adc8bc294454_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5e1103ad-c8bc-4944-9103-adc8bc294454_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:08</itunes:duration>
-      <pubDate>Wed, 15 Jul 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8531bf8a-7e7d-4934-b1bf-8a7e7de934e0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8531bf8a-7e7d-4934-b1bf-8a7e7de934e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:55</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
     </item>
   </channel>
 </rss>

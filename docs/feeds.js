@@ -760,7 +760,7 @@ const feeds = [
     "id": "kringkastingsorkestret_",
     "title": "De 10 siste fra Kringkastingsorkestret ",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kroppen",
@@ -812,7 +812,7 @@ const feeds = [
     "id": "leseklubben",
     "title": "De 10 siste fra Leseklubben",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "lev_vel",
