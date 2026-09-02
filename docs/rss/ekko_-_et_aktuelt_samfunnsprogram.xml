@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:54:55 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Sep 2026 12:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:20:35 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 13:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Den nye trusselen i fjella</title>
+      <description><![CDATA[Katastrofa i Nepal rystar verda. Fjella blir meir ustabile overalt, men korleis kan vi ruste oss mot faren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7c6cde6-f45a-4e92-86cd-e6f45a5e926b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7c6cde6-f45a-4e92-86cd-e6f45a5e926b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 13:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0ep62exRU3UyhMFoplB2dAX3ONSnhjgPgdsJ18aUp8cA.jpg"/>
+    </item>
     <item>
       <title>Prins på flukt</title>
       <description><![CDATA[Tre år gammel blir prins Harald hasteevakuert ut av landet. Hvis tyskerne hadde fått tak i ham, hadde Norge i dag vært annerledes.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:02</itunes:duration>
       <pubDate>Tue, 18 Aug 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/R2reCuKa-xHdKOimY045fw5oX5I3GkzmlqGhz-tytHBw.jpg"/>
-    </item>
-    <item>
-      <title>Venstrehendtes hverdag</title>
-      <description><![CDATA[Tidligere ble venstrehendte sett på som feilvare, mindre intelligente. Hvorfor var det slik?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8111998e-78ce-4aab-9199-8e78ce9aab06_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8111998e-78ce-4aab-9199-8e78ce9aab06_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:53</itunes:duration>
-      <pubDate>Mon, 17 Aug 2026 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HM4UHITRHHgFBIxi3YGtcA2_B-nicsduf-qvywfQl-uQ.jpg"/>
     </item>
   </channel>
 </rss>
