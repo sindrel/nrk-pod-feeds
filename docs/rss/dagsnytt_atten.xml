@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:47:59 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:51:10 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Russisk skip på Svalbard</title>
+      <description><![CDATA[Russland har kalt inn Norges ambassadør etter at norske myndigheter har tatt beslag i et russisk skip på Svalbard.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/aaa4efdb-6b47-4079-a4ef-db6b47a07942_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aaa4efdb-6b47-4079-a4ef-db6b47a07942_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Thu, 03 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c9PrjOdOg5zs2WDXEmg7NAER9-Udaz_X3kkvTjm8RD_g.jpg"/>
+    </item>
     <item>
       <title>Ryktespredningen før kongens død</title>
       <description><![CDATA[Rikshospitalet snakker ryktene som gikk før Kong Harald V døde.]]></description>
@@ -92,16 +101,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Thu, 20 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GVxNs66MT1Gw9d1UvU0CsA_MAG2S2gSH91Y4CPIEttJA.jpg"/>
-    </item>
-    <item>
-      <title>Bane Nor beklager</title>
-      <description><![CDATA[Sier unnskyld til passasjerene etter togkaosmøte hos statsråden.
-– Det hjelper ikke med hastemøter når ingenting skjer, mener Frp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f570a936-5382-451c-b0a9-365382251cfb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f570a936-5382-451c-b0a9-365382251cfb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XxfGmE4k8nxYd6sQOB1kBAiDVZJgTlhifTCCyvhmZpIg.jpg"/>
     </item>
   </channel>
 </rss>
