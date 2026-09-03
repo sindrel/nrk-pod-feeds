@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:20:46 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:17:04 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Politisk sørgepause</title>
+      <description><![CDATA[Sørgereglar set grenser for politikken. Sp vil mjuke opp. Oslo MDG vil lukke kveldens nominasjonsmøte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ae9840c3-19e4-48ad-9840-c319e4b8adca_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ae9840c3-19e4-48ad-9840-c319e4b8adca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kM0OX72SFrYs0o1UeVclww5kGTtDYNMlu_7klIB--z8Q.jpg"/>
+    </item>
     <item>
       <title>Norge i rødt, blått og grønt kaos</title>
       <description><![CDATA[Tromsø er satt på Robek-lista.
@@ -94,16 +103,6 @@ Og MDG-topp i Oslo anklages for kjeft og baksnakking.]]></description>
       <itunes:duration>15:02</itunes:duration>
       <pubDate>Thu, 20 Aug 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NPGHzIrBL33faKotWQ3dvwFnKdKR3OFbJgcyI-OBPL7Q.jpg"/>
-    </item>
-    <item>
-      <title>"Toget går på helsa løs"</title>
-      <description><![CDATA[I dag innkaller samferdselsministeren til hastemøte om togkaoset på Østlandet.
-Vi snakker med en pendler som mener dette går på helsa løs.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/a157d10f-be58-4dc4-97d1-0fbe586dc4eb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/a157d10f-be58-4dc4-97d1-0fbe586dc4eb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:03</itunes:duration>
-      <pubDate>Wed, 19 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UimeB47eFkCvRtBB7hFbiwCxMH8a5DtcWaDsbOBG6FZw.jpg"/>
     </item>
   </channel>
 </rss>
