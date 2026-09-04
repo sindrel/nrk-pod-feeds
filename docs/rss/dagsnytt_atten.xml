@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 19:51:10 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:36:50 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Sikkerhet under kongens gravferd</title>
+      <description><![CDATA[Kong Haralds gravferd blir en av de største politioperasjonene i Norges historie. Politiet og PST har iverksatt mange sikkerhetstiltak.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/89386cae-adc7-444c-b86c-aeadc7644c71_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/89386cae-adc7-444c-b86c-aeadc7644c71_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-v30pgSC4U8FQtpXIQGMoQf-aIjbWqY2aREzuE0yf3yg.jpg"/>
+    </item>
     <item>
       <title>Russisk skip på Svalbard</title>
       <description><![CDATA[Russland har kalt inn Norges ambassadør etter at norske myndigheter har tatt beslag i et russisk skip på Svalbard.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 21 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yONwY6iTkiXINLQ5WmT6NgUf-fKdrjNtE9o3Rx4z09-Q.jpg"/>
-    </item>
-    <item>
-      <title>Vartslingssaken mot tidligere leder Lars Løvold er avsluttet.</title>
-      <description><![CDATA[Løvvold trakk seg i går kveld etter varsel om uønsket seksuell oppmerksomhet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1fa22170-6104-46e9-a221-70610436e9a9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1fa22170-6104-46e9-a221-70610436e9a9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Thu, 20 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GVxNs66MT1Gw9d1UvU0CsA_MAG2S2gSH91Y4CPIEttJA.jpg"/>
     </item>
   </channel>
 </rss>
