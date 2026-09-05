@@ -1,24 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Tyrann</title>
+    <title>De 5 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 05:50:00 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:46:39 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Gaddafi - kommer lørdag</title>
-      <description><![CDATA[Muammar Gaddafi var Libyas diktator i over 40 år. Hans terrorregime kom på kant med alle, fra naboland til verdens stormakter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/5a5c0c03-638c-44b4-9c0c-03638c54b4c2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/5a5c0c03-638c-44b4-9c0c-03638c54b4c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:38</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 14:00:00 +0200</pubDate>
+      <title>Gaddafi (1:5)</title>
+      <description><![CDATA[Opprørere jager Gaddafi og hans få tilhengere ut i ørkenen. Snart regner NATO-bomber ned fra himmelen og over diktatorens kolonne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/35d5f8eb-24dc-485c-95f8-eb24dc585c9e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/35d5f8eb-24dc-485c-95f8-eb24dc585c9e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:15</itunes:duration>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
+    </item>
+    <item>
+      <title>Gaddafi (2:5)</title>
+      <description><![CDATA[Muammar Gaddafi vokser opp i ruinene av verdenskrigen. I det ødelagte Libya gjør landets nye konge minimalt for å løse problemene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/49636cf6-8680-470b-a36c-f68680a70b69_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/49636cf6-8680-470b-a36c-f68680a70b69_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:21</itunes:duration>
+      <pubDate>Sat, 05 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
+    </item>
+    <item>
+      <title>Gaddafi (3:5)</title>
+      <description><![CDATA[Gaddafi har store vyer for Libya. Hele samfunnet skal rives opp med roten og omformes. Men hvorfor må man alltid forhandle om alt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/5a3ceae2-8aa8-4924-bcea-e28aa8492487_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/5a3ceae2-8aa8-4924-bcea-e28aa8492487_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:28</itunes:duration>
+      <pubDate>Sat, 05 Sep 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
+    </item>
+    <item>
+      <title>Gaddafi (4:5)</title>
+      <description><![CDATA[Opprørske naboland, afrikanske diktatorer og internasjonale terrorister – alle kan bli hjulpet av Gaddafis oljepenger og militser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/53b206c6-868a-4867-b206-c6868a586754_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/53b206c6-868a-4867-b206-c6868a586754_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:57</itunes:duration>
+      <pubDate>Sat, 05 Sep 2026 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
+    </item>
+    <item>
+      <title>Gaddafi (5:5)</title>
+      <description><![CDATA[Lockerbie-katastrofen tvinger Gaddafi til å endre taktikk. Men ingen maktmidler kan redde Gaddafi fra hans egen befolknings vrede.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/6e6f9e1c-2d4e-44c1-af9e-1c2d4e74c1a0_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/6e6f9e1c-2d4e-44c1-af9e-1c2d4e74c1a0_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:45</itunes:duration>
+      <pubDate>Sat, 05 Sep 2026 06:04:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
     </item>
   </channel>
