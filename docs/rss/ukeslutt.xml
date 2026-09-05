@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 22 Aug 2026 13:45:10 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:52:27 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Å tonesette et tronskifte</title>
+      <description><![CDATA[Hvorfor er musikken så viktig i sorgen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/eb914154-d941-4a42-9141-54d9417a42e3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/eb914154-d941-4a42-9141-54d9417a42e3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:26</itunes:duration>
+      <pubDate>Sat, 05 Sep 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D1kkFX-u-TDLB62jMqij9gHwapEBIVPQkLX009YOq5aQ.jpg"/>
+    </item>
     <item>
       <title>Tog til besvær</title>
       <description><![CDATA[Når var sist du hørte noe positivt om det norske togtilbudet? Må vi skru tiden tilbake til Sesam Stasjon?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>52:17</itunes:duration>
       <pubDate>Sat, 27 Jun 2026 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XbDxvfjiFQ5pzpAj-mNigAYsbrMAhYT59EY7Zq2nhS5Q.jpg"/>
-    </item>
-    <item>
-      <title>VM og søvnmangel</title>
-      <description><![CDATA[Mange i alle aldere sliter med å holde seg våkne for å se på fotball-VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/3f5e70aa-069e-4322-9e70-aa069e5322ce_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/3f5e70aa-069e-4322-9e70-aa069e5322ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:27</itunes:duration>
-      <pubDate>Sat, 20 Jun 2026 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GOkjLrI3aFIUrraBArhSFw-iKM4h4YjcsZ1nR62FIN9A.jpg"/>
     </item>
   </channel>
 </rss>
