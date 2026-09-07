@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-09-07  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-09-03  
 - Updated podcast 'Tyrann' (`tyrann`)  
 ### 2026-09-02  
