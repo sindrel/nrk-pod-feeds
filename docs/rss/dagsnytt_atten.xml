@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Sep 2026 19:36:50 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:35:02 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>AfD vant delstatsvalget i Sachsen-Anhalt</title>
+      <description><![CDATA[Ytre høyre-partiet fikk 43,8 prosent av stemmene i den tyske delstaten Sachsen-Anhalt. Nå vil EU granske delstatsvalget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f395e663-e723-4047-95e6-63e723404738_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f395e663-e723-4047-95e6-63e723404738_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:41</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZkngSOfo4rnlTt32Bl-4Lwzy8ykHFmwKkm0TzRpEoTaQ.jpg"/>
+    </item>
     <item>
       <title>Sikkerhet under kongens gravferd</title>
       <description><![CDATA[Kong Haralds gravferd blir en av de største politioperasjonene i Norges historie. Politiet og PST har iverksatt mange sikkerhetstiltak.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 24 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aKKSpAaiO5e9xgkA4VhtzANxfLpu5H1SU4ZJe_Og4k0Q.jpg"/>
-    </item>
-    <item>
-      <title>Flygelederstreiken rammer hele landet</title>
-      <description><![CDATA[Luftrommet må stenges over både Flesland og Gardermoen i perioder.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/57df8a02-b74e-4e00-9f8a-02b74e8e00e6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/57df8a02-b74e-4e00-9f8a-02b74e8e00e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 21 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yONwY6iTkiXINLQ5WmT6NgUf-fKdrjNtE9o3Rx4z09-Q.jpg"/>
     </item>
   </channel>
 </rss>
