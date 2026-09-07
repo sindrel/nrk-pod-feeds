@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:16:51 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 12:50:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:28:36 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 12:37:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Torgrim Eggen</title>
+      <description><![CDATA[– Jeg visste det lå noe i familiehistorien som var litt ekkelt, sier forfatteren av boken Blodet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:21</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 12:37:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JCzZ5laVdpJ-vL31NGfdXgRUY-oZUCofzXwNMrLVes6A.jpg"/>
+    </item>
     <item>
       <title>Håkon Opdal</title>
       <description><![CDATA[— Du må være spesiell for å stå i mål, sier den tidligere landslagskeeperen, som nå satser alt som forfatter]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:17</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 12:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Al1v0fsmPBhCUyl8m4ms3Qx38LPxjW3EcY2mUNAnXGrQ.jpg"/>
-    </item>
-    <item>
-      <title>Lasse Kristoffersen</title>
-      <description><![CDATA[– Frykten kommer til å henge i lenge, sier shippingtoppen om situasjonen i Hormusz-stredet]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/fac731b1-70f4-447a-8731-b170f4147a37_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/fac731b1-70f4-447a-8731-b170f4147a37_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rkKQ7OeiGO2yH5kZ6VrCDA-cQz7kUTvLe0sBK9Pq8_Fg.jpg"/>
     </item>
   </channel>
 </rss>
