@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 31 Aug 2026 05:37:53 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:44:56 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Kirkegården</title>
+      <description><![CDATA[Det er 21. april 1240, og Håkon møter Skule i Oslo, til et slag som kommer til å avgjøre de norske borgerkrigene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/e2bd976a-82a4-4cde-bd97-6a82a41cded8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/e2bd976a-82a4-4cde-bd97-6a82a41cded8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:41</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Medvinden</title>
       <description><![CDATA[Helvete er løs og Skule gjør seg klar til slag i dypsnøen ved Gardermoen. Håkon seiler fra Nidaros til Oslo i en vanvittig fart.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/9664b401-523e-4f3f-a4b4-01523e0f3f1a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:56</itunes:duration>
       <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
-    </item>
-    <item>
-      <title>Blodbryllupet</title>
-      <description><![CDATA[Birkebeinerne får seg en overraskelse, og en liten kongssønn fraktes over fjellet på ski i historiens første Birkebeinerrenn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/1d3efd88-5cf8-4410-befd-885cf8d410fb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/1d3efd88-5cf8-4410-befd-885cf8d410fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:44</itunes:duration>
-      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>
