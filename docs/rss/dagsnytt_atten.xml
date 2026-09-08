@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:35:02 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:42:00 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Alvorlig fall i norske Pisa-resultater</title>
+      <description><![CDATA[Norske tiendeklassinger gjør det betydelig dårligere enn før i lesing og regning. Norge ligger under OECD-gjennomsnittet i alle de tre fagområdene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0641ede9-6402-44f2-81ed-e9640274f2c1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0641ede9-6402-44f2-81ed-e9640274f2c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:47</itunes:duration>
+      <pubDate>Tue, 08 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bO9xjVjhQM-djcIrQ1BKFAk1siqfF_8-GyPmmpxQDIjg.jpg"/>
+    </item>
     <item>
       <title>AfD vant delstatsvalget i Sachsen-Anhalt</title>
       <description><![CDATA[Ytre høyre-partiet fikk 43,8 prosent av stemmene i den tyske delstaten Sachsen-Anhalt. Nå vil EU granske delstatsvalget.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 25 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7TxK4Vgqr8r4ptvGseIkZAso4qjInwIW6lq_amnVePNQ.jpg"/>
-    </item>
-    <item>
-      <title>Kong Harald på sykehus</title>
-      <description><![CDATA[Det er ingen vesentlige endringer, og situasjonen er fortsatt stabil, ifølge Slottet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/aa46c09d-9019-45ab-86c0-9d901965abca_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aa46c09d-9019-45ab-86c0-9d901965abca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 24 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aKKSpAaiO5e9xgkA4VhtzANxfLpu5H1SU4ZJe_Og4k0Q.jpg"/>
     </item>
   </channel>
 </rss>
