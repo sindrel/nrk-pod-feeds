@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:39:11 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:00:17 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>I dag tar Norge farvel med kong Harald</title>
+      <description><![CDATA[Gravferden skal vises over hele landet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/fb15890b-8964-44e2-9589-0b896444e264_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/fb15890b-8964-44e2-9589-0b896444e264_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:44</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tli9oakrA-9Nk12TpgEABghGhv0_Xu3T7O_QEXw6dQBQ.jpg"/>
+    </item>
     <item>
       <title>Hockeyboom i Norge</title>
       <description><![CDATA[Og en ny studie viser at det er geografiske forskjeller i hvem som rammes av parkinson.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:05</itunes:duration>
       <pubDate>Fri, 28 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uOoMWAVgdVWGpQukevKxbw_N5Tv6sybtGKqitHU7MEVQ.jpg"/>
-    </item>
-    <item>
-      <title>Nepal rammet for andre år på rad</title>
-      <description><![CDATA[Men eksperter er i tvil om årsaken]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/2ea43217-a9ad-4ca3-a432-17a9adbca36e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/2ea43217-a9ad-4ca3-a432-17a9adbca36e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:28</itunes:duration>
-      <pubDate>Thu, 27 Aug 2026 06:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mf82fUuIRmk7pQiKqzbAVw96obpapAgPetTPXB0PvA_Q.jpg"/>
     </item>
   </channel>
 </rss>

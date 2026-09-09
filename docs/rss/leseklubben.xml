@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Leseklubben</title>
+    <title>De 5 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 02 Sep 2026 05:51:23 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 06:03:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:00:26 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
@@ -42,6 +42,54 @@ Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/8531bf8a-7e7d-4934-b1bf-8a7e7de934e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:55</itunes:duration>
       <pubDate>Wed, 02 Sep 2026 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+    </item>
+    <item>
+      <title>«Prosessen» (3:10 Første forundersøkelse)</title>
+      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 3-5 kan du høre Leseklubben episode 3.
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/af98b050-389a-4eaf-98b0-50389afeaf27_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/af98b050-389a-4eaf-98b0-50389afeaf27_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:25</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+    </item>
+    <item>
+      <title>«Prosessen» (4:10 I den tomme møtesalen, studenten, kontorene)</title>
+      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 3-5 kan du høre Leseklubben episode 3.
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/e3a054cd-092c-45f0-a054-cd092c95f07c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/e3a054cd-092c-45f0-a054-cd092c95f07c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:20</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+    </item>
+    <item>
+      <title>«Prosessen» (5:10 Mestermannen)</title>
+      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 3-5 kan du høre Leseklubben episode 3.
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b5cc7d5d-bbf6-4ac8-8c7d-5dbbf67ac8c8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b5cc7d5d-bbf6-4ac8-8c7d-5dbbf67ac8c8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:00</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 06:04:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
     </item>
   </channel>
