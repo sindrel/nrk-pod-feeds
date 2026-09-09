@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 08 Sep 2026 18:42:00 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 19:46:39 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kong Haralds gravferd</title>
+      <description><![CDATA[I dag ble kong Harald bisatt i Oslo domkirke etter sørgeprosesjonen gjennom byen. Senere møtte kongefamilien folket fra Slottsbalkongen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/edc6e3e4-bc41-4f2d-86e3-e4bc415f2dd4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/edc6e3e4-bc41-4f2d-86e3-e4bc415f2dd4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/w1bdcXUtIJ5WEJx7VNqTFgFzsD8YAPmE3NLLgPv8_gjg.jpg"/>
+    </item>
     <item>
       <title>Alvorlig fall i norske Pisa-resultater</title>
       <description><![CDATA[Norske tiendeklassinger gjør det betydelig dårligere enn før i lesing og regning. Norge ligger under OECD-gjennomsnittet i alle de tre fagområdene.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1GAu18I0-lseYb44n807JgdPgYqGuboYp7KRKfDIrwNg.jpg"/>
-    </item>
-    <item>
-      <title>Ny utvikling i eldreomsorgen</title>
-      <description><![CDATA[Mange pårørende går av tidlig for å ta seg av gamle foreldre, Frp mener Ap styrer mot havari i eldreomsorgen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/42d40803-5cd9-4e95-9408-035cd95e9508_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/42d40803-5cd9-4e95-9408-035cd95e9508_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 25 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7TxK4Vgqr8r4ptvGseIkZAso4qjInwIW6lq_amnVePNQ.jpg"/>
     </item>
   </channel>
 </rss>
