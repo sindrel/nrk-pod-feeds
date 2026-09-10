@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Sep 2026 19:46:39 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:42:46 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Nedgangen i lesing og regning fortsetter</title>
+      <description><![CDATA[Én av tre norske 15-åringer kan ikke lese ordentlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6fa6e6fc-fc9c-4033-a6e6-fcfc9cf03371_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6fa6e6fc-fc9c-4033-a6e6-fcfc9cf03371_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JklHD4rehdwlmznkIVGYNQiN5uUh9xiDYcL6YVXfR1Kw.jpg"/>
+    </item>
     <item>
       <title>Kong Haralds gravferd</title>
       <description><![CDATA[I dag ble kong Harald bisatt i Oslo domkirke etter sørgeprosesjonen gjennom byen. Senere møtte kongefamilien folket fra Slottsbalkongen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:51</itunes:duration>
       <pubDate>Thu, 27 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aO3njf-8Ew0ypn80cnj7-QbPRgMGFD0UyaAKfh0uh47Q.jpg"/>
-    </item>
-    <item>
-      <title>Kriminelle tilknyttet barnevernet</title>
-      <description><![CDATA[Ny rapport viser at kriminelle har sentrale roller i selskaper som leverer barnevernstjenester. Nå skal Økokrim kartlegge hele landet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/721b586e-ed4d-4051-9b58-6eed4d205152_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/721b586e-ed4d-4051-9b58-6eed4d205152_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1GAu18I0-lseYb44n807JgdPgYqGuboYp7KRKfDIrwNg.jpg"/>
     </item>
   </channel>
 </rss>
