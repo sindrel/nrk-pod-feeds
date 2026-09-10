@@ -1,20 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Sentralbordet på NRK</title>
+    <title>De 5 siste fra Sentralbordet på NRK</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Sentralbordet på NRK. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Sentralbordet på NRK. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 05:49:56 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 05:59:47 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
     <item>
-      <title>Tenk om jeg har sagt at jeg skal drepe alle?</title>
-      <description><![CDATA[Ole Henry pitcher en idé til et Tjekkisk voksmuseum, John Arne Riise har et par spørsmål om Kaptein Sabeltann, Emilie leverer naboklage på svensk jente og Vegard synes han kan finsk.]]></description>
+      <title>– Nesten som en gagball</title>
+      <description><![CDATA[Læreren Beaver planlegger klassetur til et museum i England, Vegard klager på appelsiner, Catrin Sagen sliter med å legge på, og en spansk danseskole blir for dyr for Emilie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/83f23e2a-ea66-461e-b23e-2aea66161e38_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/83f23e2a-ea66-461e-b23e-2aea66161e38_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:20</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    </item>
+    <item>
+      <title>– Tenk om jeg har sagt at jeg skal drepe alle?</title>
+      <description><![CDATA[Ole Henry pitcher en idé til et tjekkisk voksmuseum, John Arne Riise har et par spørsmål om Kaptein Sabeltann, Emilie leverer naboklage på svensk jente og Vegard synes han kan finsk.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/f6022010-8183-4541-8220-1081833541d8_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sentralbordet/f6022010-8183-4541-8220-1081833541d8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:01</itunes:duration>
@@ -22,7 +31,7 @@
       <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
     </item>
     <item>
-      <title>- Har ni hvitløkspressa på ryggen?</title>
+      <title>– Har ni hvitløkspressa på ryggen?</title>
       <description><![CDATA[Gud ringer soknepresten, Ole Henry kontakter et svensk spa med kjøkkenredskaper, Emilie har ikke ord, Live og Vegard prøver seg som sytete tenåringer i Sør-Korea og Vegard må ringe et advokatfirma med hjelp fra Øystein Sunde.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/1ba4903a-1aab-4789-a490-3a1aab7789f8_2_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sentralbordet/1ba4903a-1aab-4789-a490-3a1aab7789f8_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -31,20 +40,20 @@
       <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
     </item>
     <item>
-      <title>- Jeg ringer angående den vannkukeren</title>
+      <title>– Jeg ringer angående den vannkukeren</title>
       <description><![CDATA[Vegard har misforstått finn.no, Ole Henry må be om for mye fra en tilfeldig på telefonlista og Emilie tvinges til å bli musikalartist.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/b48f4c41-52e0-4454-8f4c-4152e0245408_2_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sentralbordet/b48f4c41-52e0-4454-8f4c-4152e0245408_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:57</itunes:duration>
+      <itunes:duration>20:33</itunes:duration>
       <pubDate>Thu, 20 Aug 2026 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
     </item>
     <item>
-      <title>- Kan du høre meg gjennom gulvet?</title>
+      <title>– Kan du høre meg gjennom gulvet?</title>
       <description><![CDATA[Vegard får en pizzakokk til å skrike, Catrin Sagen ringer feil, et engelsk hostel mangler laks og Sabeltann seiler inn i Stockholm.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sentralbordet/69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:39</itunes:duration>
+      <itunes:duration>21:40</itunes:duration>
       <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
     </item>

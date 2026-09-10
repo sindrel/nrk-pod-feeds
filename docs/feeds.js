@@ -824,7 +824,7 @@ const feeds = [
     "id": "lindmo_og_co",
     "title": "De 10 siste fra Lindmo og Co",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "loensj_med_rune_nilson",
