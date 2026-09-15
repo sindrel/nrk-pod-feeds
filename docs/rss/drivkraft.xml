@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:05:27 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 14:27:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:34:41 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Ida Fladen</title>
+      <description><![CDATA[– Jeg blir spurt fire ganger daglig om jeg har kjæreste, forteller programskaperen bak "Ida med hjertet i hånden"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1a1ad527-cb7f-48e2-8832-6ce79e0feee3_b32509e5-10a1-42d5-9afe-9307970e09c6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1a1ad527-cb7f-48e2-8832-6ce79e0feee3_b32509e5-10a1-42d5-9afe-9307970e09c6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gWSKEMnEyv_TIpHmh07VDAHNb7kKlzG4_SAxUqX-8JHQ.jpg"/>
+    </item>
     <item>
       <title>Marius Bakken</title>
       <description><![CDATA[– Motivasjon er oppskrytt, sier løperen som holdt norgesrekord på 3000 meter i 18 år.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:11</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 12:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NaFpeZT9wSnzW-MEFsYG-gW9cmH1UThkysjIx9uP024Q.jpg"/>
-    </item>
-    <item>
-      <title>Tommy Olsen</title>
-      <description><![CDATA[Han har reddet båtflyktninger i Middelhavet i årevis. Nå er han etterlyst av greske myndigheter. Men frikjent i Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/683aad47-6100-49a5-baad-47610009a5d2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/683aad47-6100-49a5-baad-47610009a5d2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:18</itunes:duration>
-      <pubDate>Tue, 25 Aug 2026 13:25:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kyV98-7fDQkCexZQdIBR5gsuCueh2a2xIEXPrmdwQcFg.jpg"/>
     </item>
   </channel>
 </rss>
