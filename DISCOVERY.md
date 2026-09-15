@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-09-15  
+- Updated podcast 'Juorre' (`juorre`)  
+- Added podcast 'Spor' (`spor`)  
 ### 2026-09-10  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 ### 2026-09-07  
