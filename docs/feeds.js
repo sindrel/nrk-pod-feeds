@@ -604,7 +604,7 @@ const feeds = [
     "id": "juorre",
     "title": "De 10 siste fra Juorre",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kaffipraati",
@@ -1455,6 +1455,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "spor",
+    "title": "De 10 siste fra Spor",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "sportsdesken_brenner",
