@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:34:41 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 14:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:58:34 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Mah-Rukh Ali</title>
+      <description><![CDATA[– Iran er et misforstått land, sier journalisten som  har skrevet bok om landet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/66b439d1-10f0-4f81-b06e-6eaea848f2b1_ff64fb57-958b-47ab-bcc9-029d1cdccdd3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/66b439d1-10f0-4f81-b06e-6eaea848f2b1_ff64fb57-958b-47ab-bcc9-029d1cdccdd3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:16</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OyQ-09PAtvQk_ZQTc6h0_wvsFMfTKw6juRIx5aJPBBzQ.jpg"/>
+    </item>
     <item>
       <title>Ida Fladen</title>
       <description><![CDATA[– Jeg blir spurt fire ganger daglig om jeg har kjæreste, forteller programskaperen bak "Ida med hjertet i hånden"]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Thu, 27 Aug 2026 12:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HoDsYkht1eeB38CDs4Hf7wPhF_T7Uch5fbApq_pNp88A.jpg"/>
-    </item>
-    <item>
-      <title>Anne Lindboe</title>
-      <description><![CDATA[Ordføreren i Oslo følte på skam som mor.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cbfcc0a7-1a69-4e93-bcc0-a71a69ce931e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cbfcc0a7-1a69-4e93-bcc0-a71a69ce931e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:11</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 12:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NaFpeZT9wSnzW-MEFsYG-gW9cmH1UThkysjIx9uP024Q.jpg"/>
     </item>
   </channel>
 </rss>
