@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:47:08 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:37:20 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Leite etter meir olje</title>
+      <description><![CDATA[Bør vi lytte til ei offensiv oljenæring som vil leite meir?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/6a8ff69b-645a-4d92-8ff6-9b645acd92b9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/6a8ff69b-645a-4d92-8ff6-9b645acd92b9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:09</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-sucGdE7A12O11z3qhwrsAZGZ7lLy17amWSmTPWwI89g.jpg"/>
+    </item>
     <item>
       <title>Regjeringen varsler mer statlig styring av skolen</title>
       <description><![CDATA[Vil ha samme lærebok til alle]]></description>
@@ -95,17 +104,6 @@ Politiet mistenker at kriminelle nettverk har fått tilgang til både sårbare b
       <itunes:duration>15:01</itunes:duration>
       <pubDate>Thu, 03 Sep 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kM0OX72SFrYs0o1UeVclww5kGTtDYNMlu_7klIB--z8Q.jpg"/>
-    </item>
-    <item>
-      <title>Norge i rødt, blått og grønt kaos</title>
-      <description><![CDATA[Tromsø er satt på Robek-lista.
-Ordførerkandidat i Trondheim trakk seg etter Trump-hyllest.
-Og MDG-topp i Oslo anklages for kjeft og baksnakking.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4b36d642-2198-4cb9-b6d6-4221987cb971_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4b36d642-2198-4cb9-b6d6-4221987cb971_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:58</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Mbj8CD2WSSpl0h1ppedkPQY18IsJzcMYwoYFBTYUuegw.jpg"/>
     </item>
   </channel>
 </rss>
