@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:08:38 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:15:31 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vil gi ukrainere opphold</title>
+      <description><![CDATA[Regjeringen vil gi oppholdstillatelse til personer som oppholder seg i Norge nå, og tjener nok til å ta vare på seg selv og familien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6027739a-99c7-449d-a773-9a99c7549dc5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6027739a-99c7-449d-a773-9a99c7549dc5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:52</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uRPEN8gelRoJpYlGMBhzWgiET4XCMBUw-BW-dFJbAIQA.jpg"/>
+    </item>
     <item>
       <title>Ønsker europeisk sikkerhetsråd</title>
       <description><![CDATA[EU-kommisjonens leder vil ha tettere samarbeid med Canada, Ukraina, Storbritannia og Norge.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 04 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-v30pgSC4U8FQtpXIQGMoQf-aIjbWqY2aREzuE0yf3yg.jpg"/>
-    </item>
-    <item>
-      <title>Russisk skip på Svalbard</title>
-      <description><![CDATA[Russland har kalt inn Norges ambassadør etter at norske myndigheter har tatt beslag i et russisk skip på Svalbard.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/aaa4efdb-6b47-4079-a4ef-db6b47a07942_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aaa4efdb-6b47-4079-a4ef-db6b47a07942_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Thu, 03 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/c9PrjOdOg5zs2WDXEmg7NAER9-Udaz_X3kkvTjm8RD_g.jpg"/>
     </item>
   </channel>
 </rss>
