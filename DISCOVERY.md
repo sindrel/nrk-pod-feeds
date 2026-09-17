@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-09-17  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-09-15  
 - Updated podcast 'Juorre' (`juorre`)  
 - Added podcast 'Spor' (`spor`)  
