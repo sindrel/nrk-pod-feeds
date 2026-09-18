@@ -708,7 +708,7 @@ const feeds = [
     "id": "kompass",
     "title": "De 10 siste fra Kompass",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "kongerekka",
@@ -1356,7 +1356,7 @@ const feeds = [
     "id": "seriesnakk",
     "title": "De 10 siste fra Seriesnakk",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "sex_over_60",
