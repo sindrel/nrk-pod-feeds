@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:15:31 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:37:40 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Togstreiken rammer Østlandet</title>
+      <description><![CDATA[Over hundre togavganger er innstilt etter at lokførerne gikk ut i streik fredag. Partene er uenige om lønn og arbeidstid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e69639e-24bf-45ef-a963-9e24bfc5ef45_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e69639e-24bf-45ef-a963-9e24bfc5ef45_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:44</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2CF5Bs0QuZdn28MbtPfjjgtTYA7wd1zubkPoo91OAWjg.jpg"/>
+    </item>
     <item>
       <title>Vil gi ukrainere opphold</title>
       <description><![CDATA[Regjeringen vil gi oppholdstillatelse til personer som oppholder seg i Norge nå, og tjener nok til å ta vare på seg selv og familien.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>58:41</itunes:duration>
       <pubDate>Mon, 07 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZkngSOfo4rnlTt32Bl-4Lwzy8ykHFmwKkm0TzRpEoTaQ.jpg"/>
-    </item>
-    <item>
-      <title>Sikkerhet under kongens gravferd</title>
-      <description><![CDATA[Kong Haralds gravferd blir en av de største politioperasjonene i Norges historie. Politiet og PST har iverksatt mange sikkerhetstiltak.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/89386cae-adc7-444c-b86c-aeadc7644c71_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/89386cae-adc7-444c-b86c-aeadc7644c71_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 04 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-v30pgSC4U8FQtpXIQGMoQf-aIjbWqY2aREzuE0yf3yg.jpg"/>
     </item>
   </channel>
 </rss>
