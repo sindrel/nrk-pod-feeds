@@ -43,7 +43,9 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     )
 
     if season == "LATEST_SEASON":
-        season = metadata["_links"]["seasons"][0]["name"]
+        # NRK's flat /episodes endpoint already merges the most recent episodes across
+        # all seasons in date order, so no single "latest season" needs resolving.
+        season = None
 
     if ep_count == 0:
         if season == "ALL":
