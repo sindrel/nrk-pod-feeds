@@ -1,17 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Spor</title>
+    <title>De 5 siste fra Spor</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Spor. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/spor for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Spor. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/spor for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:47:10 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:20:40 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VRXWIsafdxLtlNKk4mVP1wK5xciXPKQgQEXSpGduJv0A.jpg"/>
+    <item>
+      <title>1. «Mitt hjerte hamrer og hamrer» – trassig suksess</title>
+      <description><![CDATA[Hvem vil satse på en ubeskrevet nordnorsk visesanger med danske dikt? Selv Kari Bremnes må mase seg til platekontrakt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spor/30727b41-f05a-4135-b27b-41f05a4135cf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spor/30727b41-f05a-4135-b27b-41f05a4135cf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:23</itunes:duration>
+      <pubDate>Sun, 20 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UAiKQcRPkg1qupDb1gGIfQeVmdweXpzBiO9yCyIKW9-w.jpg"/>
+    </item>
+    <item>
+      <title>2. «E du nord» - redda fra reklame</title>
+      <description><![CDATA[Låten er blitt en nasjonalskatt, men var egentlig ment for en firmafest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spor/e3eb6af1-f4dd-4e3f-ab6a-f1f4dd5e3f8d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spor/e3eb6af1-f4dd-4e3f-ab6a-f1f4dd5e3f8d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:24</itunes:duration>
+      <pubDate>Sun, 20 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UAiKQcRPkg1qupDb1gGIfQeVmdweXpzBiO9yCyIKW9-w.jpg"/>
+    </item>
+    <item>
+      <title>1. «Borgerskapets utakknemlige sønner» – en finger til bibelbeltet</title>
+      <description><![CDATA[Fem gutter fra bibelbeltet finner sammen i opprør, men så snart de slår gjennom skjer tragedien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spor/80985d4e-4cf9-4f73-985d-4e4cf9ff73ad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spor/80985d4e-4cf9-4f73-985d-4e4cf9ff73ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:39</itunes:duration>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MasGiktNAkYJFDbarsCQFwaaVRooN0vtlM-8ifXz0jRg.jpg"/>
+    </item>
+    <item>
+      <title>2. «Øyane er mosaikk» - gleden kommer tilbake</title>
+      <description><![CDATA[Turnélivet tærer på og bandet slår sprekker. Er det slutt for Honningbarna – eller kan en låt blåse liv i glørne igjen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spor/987e2ab1-2670-4cac-be2a-b126704cac14_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spor/987e2ab1-2670-4cac-be2a-b126704cac14_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:47</itunes:duration>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MasGiktNAkYJFDbarsCQFwaaVRooN0vtlM-8ifXz0jRg.jpg"/>
+    </item>
     <item>
       <title>Snart kommer Spor!</title>
       <description><![CDATA[Kjente artister forteller om låtene de har skapt som har forandret livet og karrieren. Kommer 20. september i appen NRK-radio.]]></description>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:42:05 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:20:47 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Panelet: Solotur og søkehistorikk</title>
+      <description><![CDATA[Selma deler fra sin første solotur, Kai Thomas har blitt Lars Monsen, og Jonas lurer på om han må ta med dama på gorillasafari.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f7ee0942-6dbc-495d-ae09-426dbc095d26_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f7ee0942-6dbc-495d-ae09-426dbc095d26_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:03</itunes:duration>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw.jpg"/>
+    </item>
     <item>
       <title>Frida Grande: Kjærlighet og PMDD</title>
       <description><![CDATA[Frida Grande lever med PMDD, en alvorlig form for PMS. Hvordan påvirker det parforhold, dating og kjærlighetslivet i 30-årene?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>53:55</itunes:duration>
       <pubDate>Sun, 30 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
-    </item>
-    <item>
-      <title>Hedvig Glestad: Farget av fortiden</title>
-      <description><![CDATA[Hedvig Glestad deler erfaringer med gjentatte svik og reflekterer over hvordan det har påvirket henne i nye relasjoner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f09fb6a9-3334-462d-9fb6-a93334562d0c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f09fb6a9-3334-462d-9fb6-a93334562d0c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:16</itunes:duration>
-      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-nv9jgLb1jGCMCyqayAbWwdeLC_bWiTsaYIqkf5dLgOw.jpg"/>
     </item>
   </channel>
 </rss>
