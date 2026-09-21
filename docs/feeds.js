@@ -1459,7 +1459,7 @@ const feeds = [
   {
     "id": "spor",
     "title": "De 10 siste fra Spor",
-    "season": null,
+    "season": "LATEST_SEASON",
     "enabled": true
   },
   {
