@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-09-21  
+- Updated podcast 'Spor' (`spor`)  
 ### 2026-09-18  
 - Updated podcast 'Kompass' (`kompass`)  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
