@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 21 Sep 2026 14:11:14 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 13:55:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:55:54 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 13:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Fabian Stang</title>
+      <description><![CDATA[Han vokste opp med sjåfør, barnepike og kokk – og fraværende foreldre. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c6c1fd52-85e5-47df-b8fb-a0c3c4d3ae3f_96a4abbe-97e6-4f87-8b7a-b2a5854766a0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c6c1fd52-85e5-47df-b8fb-a0c3c4d3ae3f_96a4abbe-97e6-4f87-8b7a-b2a5854766a0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:07</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 13:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VZMR-HlIz28nfT6HVxx1jwx3mIlbjMXVSIV-JhS6-Q9g.jpg"/>
+    </item>
     <item>
       <title>Emma Steinbakken</title>
       <description><![CDATA[- Jeg tenker på meg selv hele tiden, sier artisten, som skriver på ny musikk om opplevelser fra eget liv ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:36</itunes:duration>
       <pubDate>Wed, 02 Sep 2026 14:10:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ORP7Pc29WQvJzBtcvAo-vgK1HSJtkFxLhHuKmVVcn_HQ.jpg"/>
-    </item>
-    <item>
-      <title>Ragnar Hovland</title>
-      <description><![CDATA[– Dette kommer aldri til å gå bra, sier vestlandsforfatteren om å bli intervjuet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ad3ee877-b1d6-4955-bee8-77b1d6195501_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ad3ee877-b1d6-4955-bee8-77b1d6195501_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:11</itunes:duration>
-      <pubDate>Tue, 01 Sep 2026 13:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fkwnUUz75FjOgHkJZCHBBQv3N4Qlq6ZK5DhmbItxMCtg.jpg"/>
     </item>
   </channel>
 </rss>
