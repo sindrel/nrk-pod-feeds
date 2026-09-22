@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 21 Sep 2026 19:30:34 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:55:52 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ny skoleplan fra regjeringen</title>
+      <description><![CDATA[Frp reagerer på regjeringens forslag om å fjerne dagens fag for 1. og 2. klassinger til fordel for mer lek og fysisk aktivitet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9b1013e2-a6ea-42e3-9013-e2a6ea32e389_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9b1013e2-a6ea-42e3-9013-e2a6ea32e389_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:51</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z07qqhK1SBiO_Ng7C2D8qwG2KvuipADjCyGiDxH9TpmA.jpg"/>
+    </item>
     <item>
       <title>EU-nei til olje- og gassutvinning i Arktis</title>
       <description><![CDATA[– Norge bestemmer over norske ressurser, svarer energiminister Terje Aasland (Ap).]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 09 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/w1bdcXUtIJ5WEJx7VNqTFgFzsD8YAPmE3NLLgPv8_gjg.jpg"/>
-    </item>
-    <item>
-      <title>Alvorlig fall i norske Pisa-resultater</title>
-      <description><![CDATA[Norske tiendeklassinger gjør det betydelig dårligere enn før i lesing og regning. Norge ligger under OECD-gjennomsnittet i alle de tre fagområdene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0641ede9-6402-44f2-81ed-e9640274f2c1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0641ede9-6402-44f2-81ed-e9640274f2c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:47</itunes:duration>
-      <pubDate>Tue, 08 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bO9xjVjhQM-djcIrQ1BKFAk1siqfF_8-GyPmmpxQDIjg.jpg"/>
     </item>
   </channel>
 </rss>
