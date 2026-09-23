@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:59:14 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:00:25 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Si det - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[- Kan vi bli bedre på å takke dem som betyr noe for oss ? spør Oda Gravdal Ulriksen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/779fd424-d6a3-4fcd-9fd4-24d6a3ffcd3a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/779fd424-d6a3-4fcd-9fd4-24d6a3ffcd3a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:40</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
     <item>
       <title>Digital - med Terje Torkildsen</title>
       <description><![CDATA[- Har vi glemt av at noen ting var litt enklere før? spør komiker og forfatter Terje Torkildsen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:48</itunes:duration>
       <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
-    </item>
-    <item>
-      <title>Ballen - med Ingrid Helene Kopperstad Raunehaug</title>
-      <description><![CDATA[Vi må aldri glemme å leke, er rådet fra Ingrid Helene Kopperstad Raunehaug.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0d92dac5-2d45-43d2-92da-c52d4513d2d5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0d92dac5-2d45-43d2-92da-c52d4513d2d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:56</itunes:duration>
-      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/O_gNdgIc-TgRZdaCj_l4zAyG_Y47nZ3e5NpiDt7B_ksg.jpg"/>
     </item>
   </channel>
 </rss>
