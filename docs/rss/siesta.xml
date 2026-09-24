@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:02:35 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:08:27 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Fikk ikke bursdagsgratulasjon</title>
+      <description><![CDATA[Vi feirer Markus sine 31 år med spesielle sanger, det blir dagsaktuell stand up og hvilken bokstav vi trenger vi egentlig ikke?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7b9e0b47-6e55-43e5-9e0b-476e5523e5e7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7b9e0b47-6e55-43e5-9e0b-476e5523e5e7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:47</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna er sur på Markus og Daniel</title>
       <description><![CDATA[Markus har med en flue, Daniel skal finne veien til Sophie Elise og Anna har marinert fingeren i solkrem og er generelt sur i dag.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>51:17</itunes:duration>
       <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W5qWejIG0k-BNAFkLTFrJwlM3WvKpZdAfnToH0JSk-YA.jpg"/>
-    </item>
-    <item>
-      <title>Fullkornspasta er ikke mat</title>
-      <description><![CDATA[Daniel blir kastet ut av studio, Anna er forbanna over julevarer og Markus kjører stand-up om blant annet kongens gravferd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7b8eabca-c94b-4425-8eab-cac94b7425a0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/7b8eabca-c94b-4425-8eab-cac94b7425a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:19</itunes:duration>
-      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
 </rss>

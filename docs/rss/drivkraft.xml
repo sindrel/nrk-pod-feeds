@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:02:18 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 14:50:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:08:05 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 13:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Kari Spjeldnæs</title>
+      <description><![CDATA[– Det er bedre for hjernen å lese på papir, sier leseforskeren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/dd5e3783-eab1-4d77-8450-0a59a04f3be2_c67c9526-5189-4a3a-b7c2-aad8da4aa0b7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/dd5e3783-eab1-4d77-8450-0a59a04f3be2_c67c9526-5189-4a3a-b7c2-aad8da4aa0b7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 13:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UpvhHG-Gy-UNH1xIikK0WA59Rrq7A9EfJTQ9tgAJCFpw.jpg"/>
+    </item>
     <item>
       <title>Ellen Holager Andenæs</title>
       <description><![CDATA[Forsvarsadvokaten til Marius Høiby blir kvalm når media skylder på samfunnsoppdraget. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>57:21</itunes:duration>
       <pubDate>Mon, 07 Sep 2026 12:37:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JCzZ5laVdpJ-vL31NGfdXgRUY-oZUCofzXwNMrLVes6A.jpg"/>
-    </item>
-    <item>
-      <title>Håkon Opdal</title>
-      <description><![CDATA[— Du må være spesiell for å stå i mål, sier den tidligere landslagskeeperen, som nå satser alt som forfatter]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c1914347-fe32-4388-9143-47fe32f388a4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c1914347-fe32-4388-9143-47fe32f388a4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:20</itunes:duration>
-      <pubDate>Thu, 03 Sep 2026 12:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mtL5xhvBLCwP7Sy8yz5cxgiTbdH-YSm9HyFvQa93jWdQ.jpg"/>
     </item>
   </channel>
 </rss>
