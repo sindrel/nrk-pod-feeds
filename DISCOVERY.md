@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-09-25  
+- Updated podcast 'Gamle greier' (`gamle_greier`)  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2026-09-21  
 - Updated podcast 'Spor' (`spor`)  
 ### 2026-09-18  
