@@ -394,7 +394,7 @@ const feeds = [
     "id": "gamle_greier",
     "title": "De 10 siste fra Gamle greier",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "gfestallan_lisain",
@@ -464,7 +464,7 @@ const feeds = [
     "id": "hallo_bablo",
     "title": "De 10 siste fra Hallo Bablo",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "harald_v",

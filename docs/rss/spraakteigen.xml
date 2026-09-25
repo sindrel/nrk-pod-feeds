@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:57:13 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:51:34 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NQ4-0nzQwU3eDOBQjkKs7AUjzL5cIoZddjdh9czabkeg.jpg"/>
+    <item>
+      <title>Sviskete bukseroller</title>
+      <description><![CDATA[Vi har melodier, svisker, nysgjerrigper og sippeguri, men hvem har buksene på i forholdet? Vi setter lyset på det, med en dimmer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/f5467154-00ae-441d-8671-5400aef41dc7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/f5467154-00ae-441d-8671-5400aef41dc7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:38</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q.jpg"/>
+    </item>
     <item>
       <title>Attråverdig løpepass</title>
       <description><![CDATA[Blir språket fattigere når ord byttes ut? Krenkealarmen har gått, og vi tar saken. Navneuttale er ett tema som betyr mye for mange.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:41</itunes:duration>
       <pubDate>Fri, 22 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>Alle ere i bunad</title>
-      <description><![CDATA[Det er mye som kan omtales som bunad, og hvorfor ere vi en Nation? Vi dykker også ned i det fransk-canadiske språket, og våronna.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/ff5ee6aa-fa25-46e5-9ee6-aafa2586e5eb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/ff5ee6aa-fa25-46e5-9ee6-aafa2586e5eb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:25</itunes:duration>
-      <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egg9otF-xq2gL1JlPjGwqVHg.jpg"/>
     </item>
   </channel>
 </rss>
