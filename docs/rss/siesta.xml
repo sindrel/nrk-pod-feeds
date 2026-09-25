@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:08:27 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:49:32 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna intervjuer Tara Lina</title>
+      <description><![CDATA[Selveste Tara Lina Shahin er hemmelig gjest, vi avslører ny pub i jakten etter Norges beste og det blir dyrelyd-spesial i Quizvang]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d4855bc3-eb40-4b58-855b-c3eb406b585d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/d4855bc3-eb40-4b58-855b-c3eb406b585d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:46</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8aPp9PI_jMPq--Dq6V9CjgQPYYDteP9p-mNNc5I9h2rw.jpg"/>
+    </item>
     <item>
       <title>Fikk ikke bursdagsgratulasjon</title>
       <description><![CDATA[Vi feirer Markus sine 31 år med spesielle sanger, det blir dagsaktuell stand up og hvilken bokstav vi trenger vi egentlig ikke?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>43:04</itunes:duration>
       <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>- Heter du faktisk Gladkokken?</title>
-      <description><![CDATA[Daniel intervjuer Gladkokken, Markus leder Quizvang og hva betyr ikåddn?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/794e8447-5443-4f00-8e84-4754437f00c0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/794e8447-5443-4f00-8e84-4754437f00c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:17</itunes:duration>
-      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W5qWejIG0k-BNAFkLTFrJwlM3WvKpZdAfnToH0JSk-YA.jpg"/>
     </item>
   </channel>
 </rss>
