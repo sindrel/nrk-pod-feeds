@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:08:09 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:30:18 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Umodne skolebarn</title>
+      <description><![CDATA[Noen barn møter skolen før de egentlig er klare for det. Nye undersøkelser viser overraskende resultater.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9ff23b0a-03ec-49c5-b23b-0a03ec69c582_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9ff23b0a-03ec-49c5-b23b-0a03ec69c582_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:33</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XXohESNBhU98t8wq-iEwKwr5lpZ0a9vSsgTV_RPTFV3g.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Vinden har vendt</title>
       <description><![CDATA[Krigene mot mediene hardner til samtidig som flere prøver å distansere seg fra Donald Trump.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>55:38</itunes:duration>
       <pubDate>Thu, 10 Sep 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sflnsUmIpSxVs9psxvvkPQLuKbmSIfW9dMslE7blCFGA.jpg"/>
-    </item>
-    <item>
-      <title>Ceuta-konspirasjonane</title>
-      <description><![CDATA[Statsministeren i Spania skuldar Russland og Israel for desinformasjon i Ceuta. Kven tener på å fyre opp krisa og splitte Europa?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7a0e3500-9305-419c-8e35-009305f19cc5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7a0e3500-9305-419c-8e35-009305f19cc5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:56</itunes:duration>
-      <pubDate>Tue, 08 Sep 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0MplT2SYRNdSyQvKMkciZQ7t9dNFF5f_J0X1Y9c7-C3Q.jpg"/>
     </item>
   </channel>
 </rss>
