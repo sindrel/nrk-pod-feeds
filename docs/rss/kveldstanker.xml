@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:33:30 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:45:04 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Kulde - med Sunniva Relling Berg</title>
+      <description><![CDATA[Litteratur kan viske ut landegrenser, hevder forfatteren Sunniva Relling Berg]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/644e4eb7-6027-45eb-8d8e-36a88e7a90f0_1a429bf7-7f1a-457f-a341-914b1cfc84ee_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/644e4eb7-6027-45eb-8d8e-36a88e7a90f0_1a429bf7-7f1a-457f-a341-914b1cfc84ee_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:20</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z8CIr6NfCmd6o8_LOA9cUQByLqt8xqVPETMGVT3yCmnw.jpg"/>
+    </item>
     <item>
       <title>Luftslott - med Gunn Marit Nisja</title>
       <description><![CDATA[En fiasko kan fort bli en ny vei videre, forteller forfatter Gunn Marit Nisja.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:05</itunes:duration>
       <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5wWhHh0P4y7wm8X5dNHN4ANDF_rZAE1cpXHMxj7Dsy7A.jpg"/>
-    </item>
-    <item>
-      <title>Trekkspillprinsessa - med Gunn Marit Nisja</title>
-      <description><![CDATA[- Det eneste som er verre for meg enn lyden av en torader, er to av dem, forteller forfatter Gunn Marit Nisja.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/559004c0-1f9d-49a0-9004-c01f9de9a075_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/559004c0-1f9d-49a0-9004-c01f9de9a075_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:35</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
     </item>
   </channel>
 </rss>
