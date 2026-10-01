@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-10-01  
+- Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-09-25  
 - Updated podcast 'Gamle greier' (`gamle_greier`)  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
