@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:33:41 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 09:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:18:45 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Mímir Kristjánsson sitt alter ego</title>
+      <description><![CDATA[Bytter du personlighet når du er på fylla? Vi må diskutere om det er innafor eller bare kleint. Vi skal også prate fotball med Mímir Kristjánsson!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/531b4b0d-4898-4c81-a7bb-54970497e87e_66769135-26c0-4395-951e-3b6ebdb5f54c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/531b4b0d-4898-4c81-a7bb-54970497e87e_66769135-26c0-4395-951e-3b6ebdb5f54c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:02</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xpuemwzkapBuV_AkNFtuigN2PjZuX1C6gyT5EfjP5Nsg.jpg"/>
+    </item>
     <item>
       <title>Når blir en quiz en quiz</title>
       <description><![CDATA[I følge TikTok tar gen-z med seg iskaffe på jobbintervju og det kan koste dem jobben. Jonas har med en quiz som bare har ett spørsmål, og vi lurer på om det er nok spørsmål til å kalles en quiz]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>40:45</itunes:duration>
       <pubDate>Tue, 22 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mpINOQCnkDAygdR4buTgEAGRg1pnIULfiNVgw6pMk_cg.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Slik slutter du å være kresen</title>
-      <description><![CDATA[Hvordan dreper man kresenhet? Gjengen har en teori.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3791de28-1ac9-4e4e-be5c-521ebf810bdb_677dba8d-7816-4f6b-9934-62ab2fbfbe00_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3791de28-1ac9-4e4e-be5c-521ebf810bdb_677dba8d-7816-4f6b-9934-62ab2fbfbe00_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
     </item>
   </channel>
 </rss>
