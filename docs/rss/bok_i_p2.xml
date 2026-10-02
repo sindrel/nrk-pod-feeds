@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 25 Sep 2026 07:50:59 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:40:02 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Kim Leine: Sekt, overgrep, røtter</title>
+      <description><![CDATA[I «Olavs hus» graver Kim Leine i sin mørke slektshistorie. Fra fjøshore til brutal overlevelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/f62ac96b-3fa0-4931-aac9-6b3fa00931b2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/f62ac96b-3fa0-4931-aac9-6b3fa00931b2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9loWMTjh5uSYnIeqrZ0s7AWoiUK4r1C_YSgZCExmtoGA.jpg"/>
+    </item>
     <item>
       <title>Jan Kjærstad: Kan du hjelpe med en metafor?</title>
       <description><![CDATA[Jan Kjærstad avslører: Derfor blir utro partnere geniale spioner! Er ekteskapet bare en stor løgn?]]></description>
@@ -96,17 +105,6 @@ Nyeste bok: «Kjøkken»]]></description>
       <itunes:duration>56:39</itunes:duration>
       <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/L14DFxJihkLm3v8NA_z9dwLGJdEzqoIi-xnPLnK75OZA.jpg"/>
-    </item>
-    <item>
-      <title>Jens M. Johansson: En liten bok om døden</title>
-      <description><![CDATA[En mor ligger for døden, skogen gror igjen og en ponni forviller seg inn på kjøkkenet.
-Et drømmeaktig univers ble nødvendig for å skrive fritt og nært om den vanskelige avskjeden.
-Nyeste bok: «Bare la dem komme»]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/0addaa0c-c2cb-40cc-9daa-0cc2cbb0cc7b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/0addaa0c-c2cb-40cc-9daa-0cc2cbb0cc7b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:13</itunes:duration>
-      <pubDate>Fri, 29 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nrNL8-eZ4UnoLuClBeMNlwYxh6gjWRg-uYwJDjEq3xrg.jpg"/>
     </item>
   </channel>
 </rss>
