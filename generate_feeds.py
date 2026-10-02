@@ -1,4 +1,5 @@
 import logging
+import re
 
 from podgen import Podcast, Episode, Media
 from dateutil import parser
@@ -11,6 +12,42 @@ podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
 podcasts_cfg_file = "podcasts.json"
 filter_teasers = True
 web_url = "https://sindrel.github.io/nrk-pod-feeds"
+
+# Season titles that carry no useful information (calendar buckets, "Sesong N",
+# generic catch-alls) and should not be prepended to episode titles.
+_GENERIC_SEASON_PATTERNS = [
+    re.compile(r"^Sesong\s+\d+$", re.I),
+    re.compile(r"^(Andre episoder|Siste|Annet)$", re.I),
+    re.compile(r"^[12]\d{3}$"),
+    re.compile(r"^(Januar|Februar|Mars|April|Mai|Juni|Juli|August|September|Oktober|November|Desember)\s+\d{4}$", re.I),
+    re.compile(r"^\d\.?\s*(kvartal|halvår)\s+\d{4}$", re.I),
+]
+
+
+def _season_adds_info(season, episode_title):
+    if not season or any(p.match(season) for p in _GENERIC_SEASON_PATTERNS):
+        return False
+    s = season.lower()
+    t = episode_title.lower()
+    if s in t:
+        return False
+    # "Lydboka: «Kafka på stranden»" → also try the stripped form
+    s_stripped = re.sub(r"^(lydboka|sesongen?|serien?)[:\s]+", "", s).strip()
+    return not (s_stripped and s_stripped in t)
+
+
+def build_episode_title(episode, series_type):
+    """Prepend the season name to an umbrella-podcast episode title when the
+    season actually identifies a distinct arc or miniseries. Avoids noise from
+    calendar/generic season labels and skips podcasts where the title already
+    contains the season name."""
+    title = episode["titles"]["title"]
+    if series_type != "umbrella":
+        return title
+    season = episode.get("_links", {}).get("season", {}).get("title", "")
+    if not _season_adds_info(season, title):
+        return title
+    return f"{season}: {title}"
 
 def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     existing_feed = get_last_feed(feeds_dir, podcast_id)
@@ -27,6 +64,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         return None
 
     original_title = metadata["series"]["titles"]["title"]
+    series_type = metadata.get("seriesType")
     image = f"{metadata['series']['squareImage'][4]['url']}.jpg"
     website = metadata["_links"]["share"]["href"]
 
@@ -58,7 +96,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
 
     new_episode = False
     for episode in episodes:
-        episode_title = episode["titles"]["title"]
+        episode_title = build_episode_title(episode, series_type)
         episode_date = episode["date"]
         if parser.parse(episode_date) >= last_feed_update:
             logging.info(f"  Found new episode {episode_title} from {episode_date}")
@@ -73,7 +111,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         logging.info(f"Episode #{ep_i}:")
 
         episode_id = episode["episodeId"]
-        episode_title = episode["titles"]["title"]
+        episode_title = build_episode_title(episode, series_type)
         episode_subtitle = episode["titles"]["subtitle"]
         episode_image = f"{episode['squareImage'][4]['url']}.jpg"
         duration = episode["durationInSeconds"]
