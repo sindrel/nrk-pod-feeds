@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:18:52 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:38:17 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Daniel intervjuer Gaute Skjervø</title>
+      <description><![CDATA[Det blir ellevill karoke i Quizvang, hvem kommer til å skjelle ut noen i offentligheten og det blir trønderspesial i revolverintervju.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3df49e84-fdd5-45be-b49e-84fdd555be13_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3df49e84-fdd5-45be-b49e-84fdd555be13_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:27</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n3sfYURZWc8DqrcpvhKgaAeuECSb7ZqAQ5tS6hDyFFbw.jpg"/>
+    </item>
     <item>
       <title>Høytlesning om delfinsex</title>
       <description><![CDATA[Markus har peaket med ordspill, vi har høytlesning om delfinsex og Anna forklarer at alle har et søskenbarn på Gjøvik.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>42:54</itunes:duration>
       <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Markus intervjuer Simen Velle</title>
-      <description><![CDATA[Hva betyr ordet kørv, Onkel Thor Alf forteller hva en big mac inneholder og Markus intervjuer Simen Velle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/dc67b9ef-6d39-40bb-a7b9-ef6d39c0bbb2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/dc67b9ef-6d39-40bb-a7b9-ef6d39c0bbb2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:40</itunes:duration>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6mxX2RkZOIUUr-vj44Z5LQPzvtsgLAFHI9g66gHiW3Fg.jpg"/>
     </item>
   </channel>
 </rss>
