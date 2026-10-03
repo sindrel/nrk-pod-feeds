@@ -8,20 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:44:21 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:08:38 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
-    <item>
-      <title>Smakebit: Seriesnakk: LIS 2</title>
-      <description><![CDATA[«LIS» er tilbake! Seriesnakk gir deg personene bak serien, de beste øyeblikkene og historier fra helsevesenet.
-Premiere 26. september.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/550be3b1-2c46-46c4-8be3-b12c46b6c4ae_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/550be3b1-2c46-46c4-8be3-b12c46b6c4ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:20</itunes:duration>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IhKL3N0jMuLx4QiU40ubBAMQU7BLSuCyOaM2XHAVUF5Q.jpg"/>
-    </item>
     <item>
       <title>– Hun bør miste legelisensen (1:4)</title>
       <description><![CDATA[Kaveh Rashidi er rasende på Kissy. LIS-legene er endelig tilbake!]]></description>
@@ -30,6 +20,15 @@ Premiere 26. september.]]></description>
       <itunes:duration>36:51</itunes:duration>
       <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LPeudd28uFT9C4LRkbEICQqYbcFu0YRN4ki6Dhz-noag.jpg"/>
+    </item>
+    <item>
+      <title>– Det såreste av det såre (2:4)</title>
+      <description><![CDATA[Sofia Tjelta forteller om vond søskenkjærlighet i «LIS».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/a5e2db19-a2f4-4745-a2db-19a2f45745d0_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a5e2db19-a2f4-4745-a2db-19a2f45745d0_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:41</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L9ags9G5oMNu1Kpwne8dXAi-UGkkAF-L_AWyStNt1_pA.jpg"/>
     </item>
   </channel>
 </rss>

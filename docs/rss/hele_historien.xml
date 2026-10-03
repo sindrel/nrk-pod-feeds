@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Hele historien</title>
+    <title>De 3 siste fra Hele historien</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:38:03 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:08:25 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
     <item>
@@ -19,6 +19,24 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/3969ea0f-e459-41c1-a9ea-0fe45951c16c_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:27</itunes:duration>
       <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VMZIGGxm63OSVqYmLdIqKQgQBvpvnwZFDrEv4uIQgR0w.jpg"/>
+    </item>
+    <item>
+      <title>Pila i ryggen (1:2)</title>
+      <description><![CDATA[En livredd kvinne ringer 113 og sier at en mann med pil og bue skyter etter folk i butikken. En mann får en pil i ryggen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/b388a3ca-ac62-4b13-88a3-caac623b1351_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/b388a3ca-ac62-4b13-88a3-caac623b1351_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:01</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VMZIGGxm63OSVqYmLdIqKQgQBvpvnwZFDrEv4uIQgR0w.jpg"/>
+    </item>
+    <item>
+      <title>Kniver i Hyttegata (2:2)</title>
+      <description><![CDATA[Mens politiet jakter i gatene, skjuler angriperen seg i et boligstrøk. Han er bevæpnet med kniver og bryter seg inn i flere hus.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/f3e0500c-4595-4dd5-a050-0c45950dd517_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/f3e0500c-4595-4dd5-a050-0c45950dd517_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:07</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VMZIGGxm63OSVqYmLdIqKQgQBvpvnwZFDrEv4uIQgR0w.jpg"/>
     </item>
   </channel>
