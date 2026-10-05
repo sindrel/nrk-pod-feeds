@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-10-05  
+- Updated podcast 'Tyrann' (`tyrann`)  
 ### 2026-10-01  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-09-25  
