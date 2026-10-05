@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:38:14 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:04:43 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Ein billig plass å bu</title>
+      <description><![CDATA[Korleis kan vi få bygd fleire billige bustader for unge vaksne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/bfb84249-a4c8-40d6-b4a3-0425e131977d_852d1cb7-9696-406b-a95b-f45ab717f3da_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/bfb84249-a4c8-40d6-b4a3-0425e131977d_852d1cb7-9696-406b-a95b-f45ab717f3da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:54</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kvIJnEHCMjcpdq2pS68JDgUpLhUUDJ-E1qNHT0xNiCng.jpg"/>
+    </item>
     <item>
       <title>Fem flyplasser fredes</title>
       <description><![CDATA[Samferdselsministeren freder flytilbudet i nord.
@@ -96,15 +105,6 @@ Tull, svarer Kamzy Gunaratnam.]]></description>
       <itunes:duration>15:07</itunes:duration>
       <pubDate>Tue, 22 Sep 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WQftPYhGNuLtLQNB-E33EQQIyN6V1m39gpXu-T32FmCQ.jpg"/>
-    </item>
-    <item>
-      <title>SVs budsjettkrav</title>
-      <description><![CDATA[SV krever gratis tannregulering for barn. Det kan føre til kroppspress, advarer Høyre]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/fac0b422-e26b-4473-80b4-22e26b047389_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/fac0b422-e26b-4473-80b4-22e26b047389_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:11</itunes:duration>
-      <pubDate>Mon, 21 Sep 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OZfKCOPUfSIn6g_Rb32RtgsOFsPfyYpip22b72VZghYQ.jpg"/>
     </item>
   </channel>
 </rss>
