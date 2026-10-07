@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:21:03 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:41:35 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Shady Cash - med Terje Torkildsen</title>
+      <description><![CDATA[Besteforeldre driver med mye skummelt, forteller Terje Torkildsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9a9c6df0-4a10-4f0e-a5e7-d889e71b689c_ed62854f-0475-4131-b957-ba3369eeed77_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9a9c6df0-4a10-4f0e-a5e7-d889e71b689c_ed62854f-0475-4131-b957-ba3369eeed77_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:29</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
+    </item>
     <item>
       <title>Skam - med Ann Helen Kolås Ingebrigtsen</title>
       <description><![CDATA[- Eg har båre på ei skam heile livet, fortel forfattaren Ann Helen Kolås Ingebrigtsen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:14</itunes:duration>
       <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YKifrZnLK0bkOj4xrHgkjASL_pSlg5mmx7LyQ1xT8a0w.jpg"/>
-    </item>
-    <item>
-      <title>Kapteinen med Lena Lindahl</title>
-      <description><![CDATA[Forfatteren Lena Lindahl har aldri fått møte en konge helt på ekte, men likevel har hun tre av dem i livet sitt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0b33bbb2-dbb1-43e2-b3bb-b2dbb123e2a8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0b33bbb2-dbb1-43e2-b3bb-b2dbb123e2a8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:02</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
     </item>
   </channel>
 </rss>
