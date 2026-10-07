@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-10-07  
+- Updated podcast 'Strid – de norske borgerkrigene' (`strid`)  
 ### 2026-10-05  
 - Updated podcast 'Kompass' (`kompass`)  
 ### 2026-10-05  
