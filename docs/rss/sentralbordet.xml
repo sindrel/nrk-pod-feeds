@@ -1,20 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 8 siste fra Sentralbordet på NRK</title>
+    <title>De 9 siste fra Sentralbordet på NRK</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 8 episodene fra podkasten Sentralbordet på NRK. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Sentralbordet på NRK. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:57:55 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:00:30 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
     <item>
-      <title>– Kan barna bli med deg?</title>
-      <description><![CDATA[Sanna Sarromaa har en hemmelig hobby, Sigurd Jorsalfare ringer til Island, Oddvar (76) søker jobb, og Emilie må be en tilfeldig på telefonlista om alt for mye.]]></description>
+      <title>Live er ufrivillig Farmen-diva</title>
+      <description><![CDATA[Den nye manageren til Live har store planer, en møbelinteressert dame vil bleke håret, Steinar og Kari har reist til England, og Catrin Sagen ringer en nybakt pappa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/ea96b7de-7dd0-4613-96b7-de7dd0261342_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/ea96b7de-7dd0-4613-96b7-de7dd0261342_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    </item>
+    <item>
+      <title>Sanna Sarromaas hemmelige hobby</title>
+      <description><![CDATA[Vegard utgir seg for å være Sigurd Jorsalfare og ringer til Island, Oddvar (76) søker jobb, Sanna Sarramoa har en hemmelig hobby, og Emilie må be en tilfeldig på telefonlista om alt for mye.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/9b6c0325-7f45-43d6-ac03-257f4543d6ee_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sentralbordet/9b6c0325-7f45-43d6-ac03-257f4543d6ee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:19</itunes:duration>
@@ -22,8 +31,8 @@
       <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
     </item>
     <item>
-      <title>– Jeg tror dette er spam?</title>
-      <description><![CDATA[En nordmann bestiller takeaway fra Australia, Ole Henry vil fortsatt gifte seg i en dyrehage, Emilie trenger ny vaskemaskin, og Vegard vil leie hamster, nei, vent, gravemaskin.]]></description>
+      <title>Hamster- og gravemaskinutleie</title>
+      <description><![CDATA[Emilie synger en takeaway-bestilling til Australia, Ole Henry vil fortsatt gifte seg i en dyrehage, Emilie trenger ny vaskemaskin, og Vegard vil leie hamster – nei, vent, gravemaskin.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/1047adf2-2479-4dfd-87ad-f224797dfd4f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sentralbordet/1047adf2-2479-4dfd-87ad-f224797dfd4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:51</itunes:duration>
@@ -31,8 +40,8 @@
       <itunes:image href="https://gfx.nrk.no/JdK6Jz4qE3JfOzh4lWbJdgSJzM2vjuGP8u-VCB-X45Dg.jpg"/>
     </item>
     <item>
-      <title>– Kan jeg ri på en floodhorse?</title>
-      <description><![CDATA[Fantus søker jobb som byggesaksbehandler, Ole Henry gjør en dyrisk musikal, Steinar og Kari nynner sanger i bobilen, og Gud tar selvtillit … eller var det selvkritikk?]]></description>
+      <title>Ole Henry må musikalringe en zoo</title>
+      <description><![CDATA[Emilie utgir seg for å være barne-TV-figuren Fantus og søker jobb som byggesaksbehandler, Ole Henry gjør en dyrisk musikal, to bergensere nynner sanger i bobilen, og Gud tar selvtillit … eller var det selvkritikk?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/1001ce55-14f0-4f1b-81ce-5514f0ff1b4b_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sentralbordet/1001ce55-14f0-4f1b-81ce-5514f0ff1b4b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:04</itunes:duration>
@@ -40,8 +49,8 @@
       <itunes:image href="https://gfx.nrk.no/JdK6Jz4qE3JfOzh4lWbJdgSJzM2vjuGP8u-VCB-X45Dg.jpg"/>
     </item>
     <item>
-      <title>– Nesten som en gagball</title>
-      <description><![CDATA[Læreren Beaver planlegger klassetur til et museum i England, Vegard klager på appelsiner, Catrin Sagen sliter med å legge på, og en spansk danseskole blir for dyr for Emilie.]]></description>
+      <title>Gagball på klassetur</title>
+      <description><![CDATA[I denne episoden må Ole Henry ringe til et museum i England og flette inn noen ord som er helt feil, Vegard klager på appelsiner, Catrin Sagen sliter med å legge på, og en spansk danseskole blir for dyr for Emilie.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/83f23e2a-ea66-461e-b23e-2aea66161e38_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sentralbordet/83f23e2a-ea66-461e-b23e-2aea66161e38_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:20</itunes:duration>
