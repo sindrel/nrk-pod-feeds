@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:38:55 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 19:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:09:27 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
     <item>
-      <title>Jaktdrapet i Halden: Dette vet vi</title>
+      <title>Cornell: Hva er egentlig sant?</title>
+      <description><![CDATA[I flere uker har ansiktene til sju unge menn herjet på internett. Hva har egentlig skjedd i Cornell-saken? Og er det innafor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/117b939f-cd70-4d78-bd34-ccded230685f_ae71667b-b775-46b7-9b3f-6e9bc373e5cd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/117b939f-cd70-4d78-bd34-ccded230685f_ae71667b-b775-46b7-9b3f-6e9bc373e5cd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:02</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iQaYefP2T4Pv_v0Kjl96rAsXS-f3r94QxJ8ccxnEUwfA.jpg"/>
+    </item>
+    <item>
+      <title>Jaktdrapet i Halden: Hva skjedde?</title>
       <description><![CDATA[Søndag morgen våkner Halden opp til drapsalarm. To voksne menn, far og sønn, har mistet livet. Men ble de tilfeldig utvalgt?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/14515e38-bab5-4b18-915e-38bab5ab18a6_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/14515e38-bab5-4b18-915e-38bab5ab18a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -92,15 +101,6 @@
       <itunes:duration>18:17</itunes:duration>
       <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ljwe4iOmDIs6vkRDmHDu7wvYqKjEMkKCa2KBmMs4HE1g.jpg"/>
-    </item>
-    <item>
-      <title>Martine-saken (2): Drapsalarm</title>
-      <description><![CDATA[Det britiske politiet finner Martine. Samtidig har den eneste mistenkte i saken, Farouk Abdulhak, satt seg på et fly – til Jemen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/1b1ec10c-9677-4bed-9ec1-0c96770bed99_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1b1ec10c-9677-4bed-9ec1-0c96770bed99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:54</itunes:duration>
-      <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iy3TaH0R4oKmV_wOlNQ4PwCvtNfhDcjIHDqFh2X97Mbg.jpg"/>
     </item>
   </channel>
 </rss>
