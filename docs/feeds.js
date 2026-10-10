@@ -470,7 +470,7 @@ const feeds = [
     "id": "harald_v",
     "title": "De 10 siste fra Harald V",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "hei_nabo",
