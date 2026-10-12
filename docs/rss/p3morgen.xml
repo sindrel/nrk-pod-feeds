@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:14:42 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:57:18 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 09:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Sinnsyke sparetips</title>
+      <description><![CDATA[Jonas har noen rare sparetips, og er ute etter enda flere. Arin har også nye rare meninger om temperatur og lukt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c60de585-162e-489b-b403-db75157028e8_9695f7a8-1245-45f1-a0b5-046834e49a72_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c60de585-162e-489b-b403-db75157028e8_9695f7a8-1245-45f1-a0b5-046834e49a72_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:39</itunes:duration>
+      <pubDate>Mon, 12 Oct 2026 09:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
+    </item>
     <item>
       <title>Rip Ensomhetspartiet, lenge leve Else!</title>
       <description><![CDATA[Vi leser ofte om at flere unge føler seg ensom. Men hva kan vi egentlig gjøre for å hjelpe hverandre? Else Kåss Furuseths er vår fredagsgjest.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>42:56</itunes:duration>
       <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
-    </item>
-    <item>
-      <title>Renteheving for dummies</title>
-      <description><![CDATA[Henning har vært å provosert danske fotballfans som er på tur i Norge. Fikk han en på tygga? I dag får vi høre hvordan det gikk. Vi får også besøk av Hallgeir Kvadsheim som svarer på alle våre dumme spørsmål om renteheving.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9b82bd72-7e0d-4193-9885-fc795df87cd8_1440a092-ecf2-49a4-ba38-3a595c91d382_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9b82bd72-7e0d-4193-9885-fc795df87cd8_1440a092-ecf2-49a4-ba38-3a595c91d382_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:24</itunes:duration>
-      <pubDate>Fri, 25 Sep 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jGk9relNWQeGESlgaGCSjwwsr5UCX8Ak18UZ7KazmjNQ.jpg"/>
     </item>
   </channel>
 </rss>
