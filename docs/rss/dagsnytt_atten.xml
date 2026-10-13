@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 12 Oct 2026 17:57:03 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 21:16:21 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kinesiske biler overvåker</title>
+      <description><![CDATA[Nytt eksperiment viser at bilene våre er rullende overvåkingsplattformer. Hvordan er egentlig sikkerheten når Kina kan sikre seg  informasjon via biler?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c277ef10-d704-41d0-910f-8a1237c62b5b_786e396f-d850-4553-8b71-0e687c968d50_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c277ef10-d704-41d0-910f-8a1237c62b5b_786e396f-d850-4553-8b71-0e687c968d50_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 13 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qqeQ5CZyodgDY9La_0va4g_WCbMMLaB-9QBy7z0Br6bw.jpg"/>
+    </item>
     <item>
       <title>Norge undertegnet avtale med Polen</title>
       <description><![CDATA[Norge og Polen undertegnet ny avtale om forsvar og beredskap i dag. Samtidig advarte Nato-sjef Russland.]]></description>
@@ -93,15 +102,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 30 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/l8DdOtO_dpO_SIKAUgh03gSfvORK_0lYjTQjQ2l1lXUw.jpg"/>
-    </item>
-    <item>
-      <title>Toppduell om personlig økonomi</title>
-      <description><![CDATA[Har folk fått dårligere råd eller bare føles det sånn?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5d0286d7-9d12-4fce-9205-daa5b5f4e4c2_1913fee3-4cb0-4167-a25f-7558494fb4fc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5d0286d7-9d12-4fce-9205-daa5b5f4e4c2_1913fee3-4cb0-4167-a25f-7558494fb4fc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:05</itunes:duration>
-      <pubDate>Tue, 29 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oJ3ilbbtKG5Lqrd8neal9wnoBOn_32Nattp1bACCMRvQ.jpg"/>
     </item>
   </channel>
 </rss>
