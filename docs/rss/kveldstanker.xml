@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:00:15 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:44:24 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Enkelt - med Julie Killingberg</title>
+      <description><![CDATA[- VI er blitt for glad i å gjøre alt så enkelt som mulig. Det ikke lurt, mener Julie Killingberg. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9f9fcf3a-e04f-4736-9e05-d0b72e712341_9309c10e-0284-47c3-acc8-677f52b8cc4e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9f9fcf3a-e04f-4736-9e05-d0b72e712341_9309c10e-0284-47c3-acc8-677f52b8cc4e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:51</itunes:duration>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QuJ-8g-H9W4qlIAWribQngatcWiFuMaq-qy9QgaE_ioA.jpg"/>
+    </item>
     <item>
       <title>Kontakt Kveldstanker</title>
       <description><![CDATA[Bruk send inn-knappen om du vil kontakte oss i Kveldstanker. Kom med ris og ros, og tips om folk du vil høre fortelle.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:23</itunes:duration>
       <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
-    </item>
-    <item>
-      <title>Frivillighet - med Jon Niklas Rønning</title>
-      <description><![CDATA[Jeg er dypt imponert av frivillige i idretts- og fritidsaktiviteter for barn, forteller musiker Jon Niklas Rønning.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/ec6e4003-0201-43a5-ae40-03020143a5ee_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ec6e4003-0201-43a5-ae40-03020143a5ee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:12</itunes:duration>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
     </item>
   </channel>
 </rss>
