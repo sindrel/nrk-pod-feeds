@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Oct 2026 20:43:55 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:09:48 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ny rapport om oljefondets etikk</title>
+      <description><![CDATA[Vil åpne for investeringer i selskaper som lager atomvåpen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a06caf18-d204-4e3f-abeb-475c4a55def1_0dbfeb76-b36a-40c6-b3d0-355041ba0227_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a06caf18-d204-4e3f-abeb-475c4a55def1_0dbfeb76-b36a-40c6-b3d0-355041ba0227_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zhos_dx53kWSjgTErXWgaQhl6Jx3mSQlipySwM2S59Jw.jpg"/>
+    </item>
     <item>
       <title>Drapsoppdrag på Instagram</title>
       <description><![CDATA[Norske barn og unge rekrutteres til drapsoppdrag på sosiale medier. Frp mener regjeringen gjør for lite for å stanse utviklingen.]]></description>
@@ -93,15 +102,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 02 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Okj8iFf2GgLg17Nyu63rPwWdPleB4ljN2mRtyQkoXs-w.jpg"/>
-    </item>
-    <item>
-      <title>Siste dag med Epstein-høring i Stortinget</title>
-      <description><![CDATA[ Hva fikk vi egentlig ut av de ni tidligere og to nåværende ministrene sine forklaringer?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/649c22d9-e6d4-46cd-8ca1-25dbd707bb52_c0c90972-d6c2-4e73-98ed-874c4e208127_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/649c22d9-e6d4-46cd-8ca1-25dbd707bb52_c0c90972-d6c2-4e73-98ed-874c4e208127_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 01 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/g-54ix3foFvpamyy7R4zXwldMYrFW5Fw_tNZnpWF5MYA.jpg"/>
     </item>
   </channel>
 </rss>
