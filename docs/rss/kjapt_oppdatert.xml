@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:12:22 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:42:04 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Refleksdagen markeres i dag</title>
+      <description><![CDATA[Og Oljefondet sitt Etikkråd får nye anbefalinger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e8de8bd7-a39b-4832-b8e5-03a70d53019a_5f2bdb87-b7c5-4418-b99a-4743e04303f5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e8de8bd7-a39b-4832-b8e5-03a70d53019a_5f2bdb87-b7c5-4418-b99a-4743e04303f5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:55</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/milKwJ1vX5SYZirvQE1efAT3DL3SvPLG_j_m7-d7eWxg.jpg"/>
+    </item>
     <item>
       <title>Cornell tar grep etter voldtektssak</title>
       <description><![CDATA[Og det var flere norske fotballbragder i går.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:14</itunes:duration>
       <pubDate>Fri, 02 Oct 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/AMdpT9DvHVFg6ICu0L9BFgZBt28c347ni5ep9el7ZtKg.jpg"/>
-    </item>
-    <item>
-      <title>Polen har fått «abortomat»</title>
-      <description><![CDATA[Og Haaland saksøker Norwegian.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/248b8bdf-b5b6-4651-8b8b-dfb5b666519d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/248b8bdf-b5b6-4651-8b8b-dfb5b666519d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:45</itunes:duration>
-      <pubDate>Thu, 01 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pzmihMJSHAFbby4iFzGnSQ1lkj_j-o3Ge9GEPmzJorjg.jpg"/>
     </item>
   </channel>
 </rss>

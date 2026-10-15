@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 9 siste fra Sentralbordet på NRK</title>
+    <title>De 10 siste fra Sentralbordet på NRK</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 9 episodene fra podkasten Sentralbordet på NRK. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Sentralbordet på NRK. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:00:30 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:42:18 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    <item>
+      <title>Ole Henry cosplayer kriminell</title>
+      <description><![CDATA[Vegard drømmer fortsatt om en platting på Island, «John Arne Riise» har en klage til en leketøysbutikk, en usedvanlig trivelig fyr forhører seg om en bil, og Ole Henry, som for tiden er husløs på grunn av vannlekkasje, blir oppringt av forsikringsselskapet med litt ny info.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/1de12aee-3b7a-4a14-a12a-ee3b7a8a14a7_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/1de12aee-3b7a-4a14-a12a-ee3b7a8a14a7_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:45</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    </item>
     <item>
       <title>Live er ufrivillig Farmen-diva</title>
       <description><![CDATA[Den nye manageren til Live har store planer, en møbelinteressert dame vil bleke håret, Steinar og Kari har reist til England, og Catrin Sagen ringer en nybakt pappa.]]></description>
