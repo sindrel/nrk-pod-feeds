@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:12:51 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:12:16 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Bråktober!</title>
+      <description><![CDATA[USA-valg spessial]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/b29f670e-9ad9-4da9-9f67-0e9ad93da9bd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/b29f670e-9ad9-4da9-9f67-0e9ad93da9bd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:29</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA.jpg"/>
+    </item>
     <item>
       <title>En viktig beskjed til deg!</title>
       <description><![CDATA[Mellomvalg i USA og Trygdekontoret gjør ting litt annerledes de neste ukene...]]></description>
@@ -19,7 +28,7 @@
       <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a4ca948f-07af-4645-8a94-8f07af864575_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:05</itunes:duration>
       <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7cFDKybYc-0e72TjGemI0QCDtOQ3GhoX_1rkjKiq2XnA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA.jpg"/>
     </item>
     <item>
       <title>Droner, dagligliv og dødsforakt</title>
@@ -92,15 +101,6 @@
       <itunes:duration>56:28</itunes:duration>
       <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xzNiS4JXDKMylQoKRIko_gdWK84fTfMiEpv1okM6YUCQ.jpg"/>
-    </item>
-    <item>
-      <title>Skjebnemellomvalget</title>
-      <description><![CDATA[Kan det amerikanske demokratiet reddes eller har det allerede kollapset? Trygdekontoret tar pulsen på det amerikanske mellomvalget med Hilde Restad og Evan McLaren - live fra Arendalsuka.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/7d276631-6862-4dd7-a766-3168624dd777_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/7d276631-6862-4dd7-a766-3168624dd777_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:37</itunes:duration>
-      <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g.jpg"/>
     </item>
   </channel>
 </rss>
