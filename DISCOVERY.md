@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-10-16  
+- Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-10-10  
 - Updated podcast 'Harald V' (`harald_v`)  
 ### 2026-10-07  
