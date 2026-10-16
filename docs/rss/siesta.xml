@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:02:52 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:28:26 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna intervjuer Inger Helge Gimle</title>
+      <description><![CDATA[Anna har vært fanget på Rema 1000, det blir Tv-aksjon spesial i Quizvang og det blir revolverintervju av Ingar Helge Gimle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/5d221404-3199-49e0-a214-04319949e09e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/5d221404-3199-49e0-a214-04319949e09e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:25</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eJTFbI-C1qNR7eT6zZWecA5Of4RdDqicVPR_WBwLixJA.jpg"/>
+    </item>
     <item>
       <title>Markus redda kvinne med mensen</title>
       <description><![CDATA[Hvem lager den beste låta basert på en gate, hva synes vi om at isbilen er lagt ned og Finn Glede kommer innom.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>43:34</itunes:duration>
       <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel intervjuer Gaute Skjervø</title>
-      <description><![CDATA[Det blir ellevill karoke i Quizvang, hvem kommer til å skjelle ut noen i offentligheten og det blir trønderspesial i revolverintervju.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3df49e84-fdd5-45be-b49e-84fdd555be13_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/3df49e84-fdd5-45be-b49e-84fdd555be13_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:27</itunes:duration>
-      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/n3sfYURZWc8DqrcpvhKgaAeuECSb7ZqAQ5tS6hDyFFbw.jpg"/>
     </item>
   </channel>
 </rss>

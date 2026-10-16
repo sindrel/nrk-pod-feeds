@@ -1,61 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:41:58 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 06:08:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:28:23 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
-      <title>En mystisk forsvinning (1:5)</title>
-      <description><![CDATA[Vennene venter på at Rinson skal komme hjem fra en jobbkonferanse i USA. Så knyttes navnet hans til en blodig, israelsk etterretningsoperasjon.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4e75ba5c-b941-4d68-b5ba-5cb9418d68e7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4e75ba5c-b941-4d68-b5ba-5cb9418d68e7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:56</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
-    </item>
-    <item>
-      <title>Et nøye planlagt blodbad (2:5)</title>
-      <description><![CDATA[I det skjulte planla israelske Mossad en intrikat etterretningsoperasjon, for å lure fienden Hizbollah. Hadde Mossad virkelig en nordmann på laget?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/b4fc3fc6-00e2-44f2-bc3f-c600e2f4f2bb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/b4fc3fc6-00e2-44f2-bc3f-c600e2f4f2bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:31</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
-    </item>
-    <item>
-      <title>Rinsons hemmeligheter (3:5)</title>
-      <description><![CDATA[Nordmannen er fortsatt forsvunnet. Politiet sender ut etterlysning verden over. Men noe foregår i det skjulte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6bdd25b5-2c4a-495f-9d25-b52c4a495f7e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6bdd25b5-2c4a-495f-9d25-b52c4a495f7e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:15</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
-    </item>
-    <item>
-      <title>Hva visste Rinson? (4:5)</title>
-      <description><![CDATA[Etterretningsverden er mørk og hemmelighetsfull. Levde nordmannen et dobbeltliv – eller kan han selv ha blitt lurt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/168a6637-9d5a-4227-8a66-379d5a72277e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/168a6637-9d5a-4227-8a66-379d5a72277e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:43</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
-    </item>
-    <item>
-      <title>Epilog: Boka (5:5)</title>
-      <description><![CDATA[Plutselig dukker det opp en mann med en oppsiktsvekkende historie. Men kan vi stole på det han forteller?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6d32b632-5225-4dfa-b2b6-325225bdfaac_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6d32b632-5225-4dfa-b2b6-325225bdfaac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:10</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 06:08:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+      <title>Kommer: Dop fra himmelen</title>
+      <description><![CDATA[Nordlandsmafiaen blir tatt på fersken da en bag med amfetamin blir droppet fra et småfly. Ble de lokket i en politifelle på ulovlig vis? I NRK Radio fra 17.10.2026.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/9b69c2f0-d152-4d7f-8c57-0ce2ade74e9f_01cbf9a6-0f50-40b2-bdf8-59fb5489dc13_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9b69c2f0-d152-4d7f-8c57-0ce2ade74e9f_01cbf9a6-0f50-40b2-bdf8-59fb5489dc13_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fxln_k-s4ZqMxNd5OGn61wgg5_v6V6P2v3QJ5JwTZZAw.jpg"/>
     </item>
   </channel>
 </rss>
