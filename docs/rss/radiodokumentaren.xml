@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Historier fra virkeligheten</title>
+    <title>De 3 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:28:23 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:29:47 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
@@ -19,6 +19,24 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/9b69c2f0-d152-4d7f-8c57-0ce2ade74e9f_01cbf9a6-0f50-40b2-bdf8-59fb5489dc13_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:29</itunes:duration>
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fxln_k-s4ZqMxNd5OGn61wgg5_v6V6P2v3QJ5JwTZZAw.jpg"/>
+    </item>
+    <item>
+      <title>Ute å kjøre (1:2)</title>
+      <description><![CDATA[Det er tørke i narkotikamarkedet. Men politiinformanten Gjermund Cappelen kan skaffe gode varer i Nederland. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4059dd66-dd2d-4a51-94d5-3d74b4d865c6_a591eb07-c5b1-4d6d-9ac3-80e88573e212_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4059dd66-dd2d-4a51-94d5-3d74b4d865c6_a591eb07-c5b1-4d6d-9ac3-80e88573e212_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:12</itunes:duration>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fxln_k-s4ZqMxNd5OGn61wgg5_v6V6P2v3QJ5JwTZZAw.jpg"/>
+    </item>
+    <item>
+      <title>Med buksa nede (2:2)</title>
+      <description><![CDATA[Det virker som om superspaner Eirik Jensen har full kontroll på alt Nordlandsmafiaen foretar seg. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6338b17c-7cef-44e0-9b6f-9f7187c701ab_47823c46-ab6d-4c78-ae7a-3c9bbc5061e4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6338b17c-7cef-44e0-9b6f-9f7187c701ab_47823c46-ab6d-4c78-ae7a-3c9bbc5061e4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:24</itunes:duration>
+      <pubDate>Sat, 17 Oct 2026 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Fxln_k-s4ZqMxNd5OGn61wgg5_v6V6P2v3QJ5JwTZZAw.jpg"/>
     </item>
   </channel>

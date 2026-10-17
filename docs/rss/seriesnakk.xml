@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 3 siste fra Seriesnakk</title>
+    <title>De 4 siste fra Seriesnakk</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 10 Oct 2026 07:10:29 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:29:49 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
@@ -35,9 +35,18 @@
       <description><![CDATA[Deniz Kaya forsvarer rollefiguren sin.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/467bff47-a7cc-4fa1-bbff-47a7cc8fa15d_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/seriesnakk/467bff47-a7cc-4fa1-bbff-47a7cc8fa15d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:34</itunes:duration>
+      <itunes:duration>43:08</itunes:duration>
       <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dBa60zUNzuJS6vtmJE8ClA4MGN6BpjNv1YZxeKMRdHhw.jpg"/>
+    </item>
+    <item>
+      <title>– Petra har mista det (4:4)</title>
+      <description><![CDATA[Hør Elpida Stojcevska om Petra-rollen i den store sesongfinalen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/42dfaaad-8e5e-440f-9faa-ad8e5ec40fff_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/42dfaaad-8e5e-440f-9faa-ad8e5ec40fff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:12</itunes:duration>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5BQC1fiPHetRJZ6n0PNtQQvmR-8zaOzUdk-dIjZ-Sijw.jpg"/>
     </item>
   </channel>
 </rss>
