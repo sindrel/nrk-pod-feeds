@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 21:11:01 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:04:29 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Opptøyer i Frankrike</title>
+      <description><![CDATA[Statsministeren har bedt flere kommuner om å innføre portforbud fra mandag kveld.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/748012c2-a01b-4882-9126-e4eb3df5a1a3_128ac313-a80f-4972-baaa-519b22914fc1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/748012c2-a01b-4882-9126-e4eb3df5a1a3_128ac313-a80f-4972-baaa-519b22914fc1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YoLhUbsCs45ez8kC4Dgh1gnYfGPfowOY0tgwiSAlkXDA.jpg"/>
+    </item>
     <item>
       <title>Foxtrot-rettssaker</title>
       <description><![CDATA[To unge nordmenn er henholdsvis dømt og tiltalt for drapsplanlegging, og kan ende med å bli straffet totalt ulikt.]]></description>
@@ -93,15 +102,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 06 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/OGOnMjowJw5mygUKp_SJTQNIgPkPLGLiMf7zaHE6YnSw.jpg"/>
-    </item>
-    <item>
-      <title>Lederkabalen i SV</title>
-      <description><![CDATA[Både nestleder og partisekretær tar ikke gjenvalg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/308c266b-c017-4f6a-94ce-126a60b454f2_3cfa308f-e022-425e-a3e3-494351134078_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/308c266b-c017-4f6a-94ce-126a60b454f2_3cfa308f-e022-425e-a3e3-494351134078_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:55</itunes:duration>
-      <pubDate>Mon, 05 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/O39-y4SMkZNbb0YAEwp-Vgf3nAbxaBDym-sTX-50Hebw.jpg"/>
     </item>
   </channel>
 </rss>
