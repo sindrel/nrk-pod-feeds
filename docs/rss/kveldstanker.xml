@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:12:29 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:02:52 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Verdi - med Miriam Våga</title>
+      <description><![CDATA[Når sykdom hindrer deg i å leve som andre kan du føle deg liten, men du har en verdi bare ved å finnes, forteller Miriam Våga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3a1a0c33-4b03-4bdd-a829-b9da6dcb7df5_171a478d-4d13-4e79-91b3-42e5553390a0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3a1a0c33-4b03-4bdd-a829-b9da6dcb7df5_171a478d-4d13-4e79-91b3-42e5553390a0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:16</itunes:duration>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aRIlWUZUajBD9lC3JJ6E8wiojXQUNgH2B41RSpAPMxIQ.jpg"/>
+    </item>
     <item>
       <title>Midtlivskrise - med Ingelin Røssland</title>
       <description><![CDATA[- Eg veit det er galskap det eg har sett i gang, fortel forfattaren Ingelin Røssland]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:40</itunes:duration>
       <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MIaaiCXe_AzVkp3CFJ-YoA41qjANNIq2JqgQomYQq87Q.jpg"/>
-    </item>
-    <item>
-      <title>Handlejakke - med Ingelin Røssland</title>
-      <description><![CDATA[- Besto mi var trendy på ein praktisk måte, fortel forfattaren Ingelin Røssland.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/fe181def-f11d-46ca-981d-eff11df6caf8_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/fe181def-f11d-46ca-981d-eff11df6caf8_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:15</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
     </item>
   </channel>
 </rss>
