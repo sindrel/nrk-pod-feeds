@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:11:59 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:51:22 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    <item>
+      <title>Matstøy</title>
+      <description><![CDATA[Hvorfor tenker noen på mat hele tiden, mens andre kan glemme å spise i løpet av en hel dag?
+Samira Lekhal, spesialist i indremedisin gir oss et innblikk i hva som påvirker vår sult og appetitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/8f837a23-98b9-418c-b21d-122710ee9653_c3ff096d-e11c-4e57-9d30-708a6c8d63f8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/8f837a23-98b9-418c-b21d-122710ee9653_c3ff096d-e11c-4e57-9d30-708a6c8d63f8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:39</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    </item>
     <item>
       <title>Linnéa leser: «Slutt å la alt gå innpå deg»</title>
       <description><![CDATA[Funker selvhjelpsbøker? Linnéa drar oss gjennom «Slutt å la alt gå innpå deg» av Daniel Chidiac.]]></description>
@@ -93,15 +103,6 @@ Demensforsker Geir Selbæk gjør oss litt klokere på hva demens faktisk er, og 
       <itunes:duration>52:02</itunes:duration>
       <pubDate>Wed, 02 Sep 2026 05:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
-    </item>
-    <item>
-      <title>På hjertet: Hvordan motivere seg for høsten</title>
-      <description><![CDATA[Hvordan har Linnéa taklet en sommer uten alkohol? Og hva skal til for å unngå vinterdepresjon? Linnéa oppsummerer sommeren og setter nye mål for september.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a1161de5-72f8-4bfc-961d-e572f88bfc75_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a1161de5-72f8-4bfc-961d-e572f88bfc75_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:32</itunes:duration>
-      <pubDate>Tue, 01 Sep 2026 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g.jpg"/>
     </item>
   </channel>
 </rss>

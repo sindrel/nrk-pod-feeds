@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:02:52 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:51:19 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Har du fyr - med Ola Bremnes</title>
+      <description><![CDATA[- Også du kan være et fyrglimt i noen andres liv, husk det, forteller Ola Bremnes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0ec6ff27-ec92-4e00-aec4-7688add3e589_3fcf76e8-251d-4e0c-81e3-ced7118b6ae6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0ec6ff27-ec92-4e00-aec4-7688add3e589_3fcf76e8-251d-4e0c-81e3-ced7118b6ae6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:27</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kv-IQXhH9yhLGWkwFe8DtQahtEaWOlUdS7bZKP-WDEhA.jpg"/>
+    </item>
     <item>
       <title>Verdi - med Miriam Våga</title>
       <description><![CDATA[Når sykdom hindrer deg i å leve som andre kan du føle deg liten, men du har en verdi bare ved å finnes, forteller Miriam Våga.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:40</itunes:duration>
       <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
-    </item>
-    <item>
-      <title>Digital - med Terje Torkildsen</title>
-      <description><![CDATA[- Har vi glemt av at noen ting var litt enklere før? spør komiker og forfatter Terje Torkildsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a9f7f485-da97-46b0-b7f4-85da9736b0eb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a9f7f485-da97-46b0-b7f4-85da9736b0eb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:40</itunes:duration>
-      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MIaaiCXe_AzVkp3CFJ-YoA41qjANNIq2JqgQomYQq87Q.jpg"/>
     </item>
   </channel>
 </rss>
