@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:12:20 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:53:15 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>USA: Kan Putin vinne valget?</title>
+      <description><![CDATA[Donald Trump kjefter på Ukraina og satser på at russisk diesel kan redde mellomvalget]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/474aee9d-2173-4154-adbd-5fb36b548c23_c0c584ee-42fe-434b-add1-e9ef85008a1f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/474aee9d-2173-4154-adbd-5fb36b548c23_c0c584ee-42fe-434b-add1-e9ef85008a1f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:52</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bfWNchZUccXeEEfq8TJ5ogZQlYO_SStxyMSaZxLPaMmg.jpg"/>
+    </item>
     <item>
       <title>USA: Polymarket eller meningsmålinger?</title>
       <description><![CDATA[Mange tjener penger på å vedde på utfallet av valgene i USA i november. Er Polymarket i ferd med å overta rollen til meningsmålinger. Og hva betyr det for demokratiet?]]></description>
@@ -23,9 +32,7 @@
     </item>
     <item>
       <title>USA:  Demokrater kan ta prærien</title>
-      <description><![CDATA[Intro: 
-Det ser lyst ut for demokratene foran mellomvalget 3. november.
-Selv et godt stykke ute på prærien, ser det ut til at de kan vinne for første gang på tiår. Men er partiet for splitta til å klare det? 
+      <description><![CDATA[Det ser lyst ut for demokratene foran mellomvalget 3. november. Selv et godt stykke ute på prærien, ser det ut til at de kan vinne for første gang på tiår. Men er partiet for splitta til å klare det? 
 
 
 
@@ -101,15 +108,6 @@ Selv et godt stykke ute på prærien, ser det ut til at de kan vinne for første
       <itunes:duration>15:53</itunes:duration>
       <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RWRfzTG30SCkFvwGGNqAkguq9Od5o9QGw8OlW6L1y5mw.jpg"/>
-    </item>
-    <item>
-      <title>USA, Europa og innvandringen</title>
-      <description><![CDATA[Innvandring  splitter både i USA og Europa.  Men hva kan vi lære av hverandre?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/e6633d18-7a6c-4b90-a33d-187a6c3b900f_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/e6633d18-7a6c-4b90-a33d-187a6c3b900f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:49</itunes:duration>
-      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PEs1CLdgELmimQoxiRI2VgGhnzTyHjddpTmwoZCWHZOw.jpg"/>
     </item>
   </channel>
 </rss>
