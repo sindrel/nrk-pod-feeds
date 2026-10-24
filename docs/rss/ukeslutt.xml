@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 17 Oct 2026 13:44:49 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Oct 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:41:37 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Oj, oj, oj - en blå ballong!</title>
+      <description><![CDATA[Du har garantert hørt sangene hans. Denne uka ville Arne Bendiksen fylt 100 år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/0f1fb417-ba6e-43df-94c9-9cd7f6e66bea_1b5211fc-fc13-45c8-945a-3b9a2068f7d0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/0f1fb417-ba6e-43df-94c9-9cd7f6e66bea_1b5211fc-fc13-45c8-945a-3b9a2068f7d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:00</itunes:duration>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E4NJ0M7RIxpxyTZqR53ZWQN1gTEKtAPtPpm0EamzMLMw.jpg"/>
+    </item>
     <item>
       <title>Pent brukt VM-tromme</title>
       <description><![CDATA[Kjendiser, bedrifter og organisasjoner har lang tradisjon for å donere alt mulig rart til en god sak.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>01:11:06</itunes:duration>
       <pubDate>Sat, 15 Aug 2026 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Rfkcr7GZ7780qWBAIOu1Jw4wf_z2w-S8HhH1WL_1O-Ww.jpg"/>
-    </item>
-    <item>
-      <title>Tøff start etter ferien?</title>
-      <description><![CDATA[Slitsom oppstart etter ferien, og sjokk når Quisling dukker opp i svensk politikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/b2ba0262-df11-48f2-ba02-62df11b8f2c0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/b2ba0262-df11-48f2-ba02-62df11b8f2c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:35</itunes:duration>
-      <pubDate>Sat, 08 Aug 2026 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6WjCh_ZlisgGYR3pnedItQbxxrPWqG0lTWhlZuBSbofQ.jpg"/>
     </item>
   </channel>
 </rss>
