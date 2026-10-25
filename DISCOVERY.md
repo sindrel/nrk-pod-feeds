@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-10-25  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Skiklubben' (`skiklubben`)  
 ### 2026-10-16  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-10-10  
