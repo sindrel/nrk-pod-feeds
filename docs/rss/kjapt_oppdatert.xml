@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:52:46 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:19:12 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>I dag begynner egenberedskapsuka</title>
+      <description><![CDATA[Og det har vært valg i både Brasil og Serbia]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/67acb6df-879c-42e9-b9d3-7c9eceffc311_772fd585-25b7-43a2-b492-642661893fdc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/67acb6df-879c-42e9-b9d3-7c9eceffc311_772fd585-25b7-43a2-b492-642661893fdc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:06</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hMtYey3b20ROBA0yrLq9qgWYCu2HMtAmreAxTPtO950g.jpg"/>
+    </item>
     <item>
       <title>Venter «krigstilstander» i Frankrike i helga</title>
       <description><![CDATA[Og husk: på søndag stiller vi klokka (godt med en time ekstra på øyet)]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:12</itunes:duration>
       <pubDate>Tue, 13 Oct 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1T6hh8lMdH8VFx91yiKTlQYc3WqTQABspkVQLoe-Y2Lw.jpg"/>
-    </item>
-    <item>
-      <title>Togstreiken fortsetter i dag</title>
-      <description><![CDATA[Og Nord-Korea har testet missiler.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a877faee-21bd-4677-b7fa-ee21bd1677bb_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a877faee-21bd-4677-b7fa-ee21bd1677bb_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:37</itunes:duration>
-      <pubDate>Mon, 12 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KVhwlv7Z1CjA9A94w_s14gvl3QeUsd5vWXd_w9wnD5CA.jpg"/>
     </item>
   </channel>
 </rss>
