@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-10-27  
+- Updated podcast 'Venner som møtes ukentlig' (`venner_som_moetes_ukentlig`)  
+### 2026-10-27  
 - Added podcast 'Venner som møtes ukentlig' (`venner_som_moetes_ukentlig`)  
 ### 2026-10-25  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
