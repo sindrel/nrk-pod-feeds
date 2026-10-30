@@ -506,7 +506,7 @@ const feeds = [
     "id": "historiske_kjendiser",
     "title": "De 10 siste fra Historiske kjendiser",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "hoera",
@@ -1778,7 +1778,9 @@ const feeds = [
     "id": "vittig",
     "title": "De 10 siste fra Vittig",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "westworld-podden",
