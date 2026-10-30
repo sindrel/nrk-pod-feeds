@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:08:50 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:11:21 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Markus intervjuer Desta Beeder</title>
+      <description><![CDATA[Det blir halloquizvang, Markus intervjuer Desta Beeder og vi avslører den aller siste kandidaten i jakten etter Norges beste pub!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/27614619-a145-46cc-8125-dd9c80a54a82_2081153f-7e2b-4888-ac54-1f8d7cd46786_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/27614619-a145-46cc-8125-dd9c80a54a82_2081153f-7e2b-4888-ac54-1f8d7cd46786_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:53</itunes:duration>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lJmvK3COPy0HA6IcmQ0I5gnctP_896FNVyVURSJ_6Xqw.jpg"/>
+    </item>
     <item>
       <title>Daniel spruter vann på Anna</title>
       <description><![CDATA[Det rakner fullstendig for Daniel, Markus har kjøpt seg et instrument og hva er verst av en dårlig klem eller et slapt håndtrykk?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>39:54</itunes:duration>
       <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna intervjuer Ingar Helge Gimle</title>
-      <description><![CDATA[Anna var fanget på Rema 1000, det blir TV-aksjonen spesial i Quizvang og ikke minst et revolverintervju av Ingar Helge Gimle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/5d221404-3199-49e0-a214-04319949e09e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/5d221404-3199-49e0-a214-04319949e09e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:25</itunes:duration>
-      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eJTFbI-C1qNR7eT6zZWecA5Of4RdDqicVPR_WBwLixJA.jpg"/>
     </item>
   </channel>
 </rss>
