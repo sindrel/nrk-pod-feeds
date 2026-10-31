@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Leseklubben</title>
+    <title>De 5 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:50:32 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 06:05:00 +0200</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:44:47 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 06:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
@@ -47,6 +47,15 @@
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/e1389a52-106b-475c-9e16-7b4ea79c5859_155e3e9e-8ee9-4567-91d1-e6c90bca86d2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:12</itunes:duration>
       <pubDate>Thu, 22 Oct 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QuhdkHiQt2ds9-vnp-PPXw87BDWVe1TFVNkwMlujUdMQ.jpg"/>
+    </item>
+    <item>
+      <title>—Jeg tok en Darth Vader (5:5)</title>
+      <description><![CDATA[Oskar mener at Fluenes herre er alt for pessimistisk. Støre drar linjer til Ukraina. Alle tror på kjærlighetens kraft. Boktober er ferdig, hva nå? Lydboka er dessverre ikke tilgjengelig lenger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/3c7d38ed-f4d7-4602-b180-0677196abedd_882a6c6f-7e0d-4148-a188-ee623a9f4757_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/3c7d38ed-f4d7-4602-b180-0677196abedd_882a6c6f-7e0d-4148-a188-ee623a9f4757_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:48</itunes:duration>
+      <pubDate>Sat, 31 Oct 2026 06:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QuhdkHiQt2ds9-vnp-PPXw87BDWVe1TFVNkwMlujUdMQ.jpg"/>
     </item>
   </channel>
