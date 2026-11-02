@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 19:24:59 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:31:59 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Færre helseforetak og større kommuner</title>
+      <description><![CDATA[Små kommuner må bli større, foreslår Helsereformuvalget i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0_6bf16229-72df-4957-9620-ad7cdd281f1d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0_6bf16229-72df-4957-9620-ad7cdd281f1d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Mon, 02 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O4Rdx6GKscnJA-601yVuwAA81kX0XnD-1uubRmYa6CvQ.jpg"/>
+    </item>
     <item>
       <title>Sju personer fengslet for fiskerijuks</title>
       <description><![CDATA[Økokrim mistenker storstilt fiskerikriminalitet.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:56</itunes:duration>
       <pubDate>Tue, 20 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mxDCClUthnKSmCpNU4ePgA5V8MAeMHtzExCAS__vcNVA.jpg"/>
-    </item>
-    <item>
-      <title>Opptøyer i Frankrike</title>
-      <description><![CDATA[Statsministeren har bedt flere kommuner om å innføre portforbud fra mandag kveld.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/748012c2-a01b-4882-9126-e4eb3df5a1a3_128ac313-a80f-4972-baaa-519b22914fc1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/748012c2-a01b-4882-9126-e4eb3df5a1a3_128ac313-a80f-4972-baaa-519b22914fc1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 19 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YoLhUbsCs45ez8kC4Dgh1gnYfGPfowOY0tgwiSAlkXDA.jpg"/>
     </item>
   </channel>
 </rss>
