@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-11-02  
+- Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2026-10-30  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 - Podcast 'Vittig' is considered obsolete and will be ignored in the future (`vittig`)  
