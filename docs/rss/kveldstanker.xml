@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:41:58 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:50:25 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Stillasfilosofi - med Terje Torkildsen</title>
+      <description><![CDATA[Det er mangt en kan tenke på i et stillas, forteller komiker og forfatter Terje Torkildsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/7f08cc09-e336-4b3b-80c9-eae4cbd5731a_94dbe150-d421-4c8a-8932-889874f80caf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/7f08cc09-e336-4b3b-80c9-eae4cbd5731a_94dbe150-d421-4c8a-8932-889874f80caf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:48</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MIaaiCXe_AzVkp3CFJ-YoA41qjANNIq2JqgQomYQq87Q.jpg"/>
+    </item>
     <item>
       <title>Allehelgensdag - Ola Bremnes</title>
       <description><![CDATA[Jeg vil minnes mange døde på allehelgensdag, men mest av alt vil jeg tenne et lys for livet, forteller Ola Bremnes]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:50</itunes:duration>
       <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
-    </item>
-    <item>
-      <title>Kulde - med Sunniva Relling Berg</title>
-      <description><![CDATA[Litteratur kan viske ut landegrenser, hevder forfatteren Sunniva Relling Berg]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/644e4eb7-6027-45eb-8d8e-36a88e7a90f0_1a429bf7-7f1a-457f-a341-914b1cfc84ee_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/644e4eb7-6027-45eb-8d8e-36a88e7a90f0_1a429bf7-7f1a-457f-a341-914b1cfc84ee_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:20</itunes:duration>
-      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/z8CIr6NfCmd6o8_LOA9cUQByLqt8xqVPETMGVT3yCmnw.jpg"/>
     </item>
   </channel>
 </rss>

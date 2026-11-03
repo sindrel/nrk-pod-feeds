@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Nov 2026 06:07:34 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 06:03:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:50:22 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Kritiske til helsereform-forslag</title>
+      <description><![CDATA[Og Frida Kahlo kommer til Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b76598fc-0083-44ea-ba54-9edae40f030a_470b5025-aa96-4e81-98bd-9dae7588011b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b76598fc-0083-44ea-ba54-9edae40f030a_470b5025-aa96-4e81-98bd-9dae7588011b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:59</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hXOj5Rfjre8rXoelaa0pugjyMEcEi-YpCPJBRjQW24JA.jpg"/>
+    </item>
     <item>
       <title>Dette må du vite om valget i USA</title>
       <description><![CDATA[Og en kirurg mener norske sykehus ikke er godt nok forberedt på krig.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>06:11</itunes:duration>
       <pubDate>Wed, 21 Oct 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZvPrXLHevcCvtDMxGNDu2QxoikFDyq7YPtx4ZL5-v7RQ.jpg"/>
-    </item>
-    <item>
-      <title>Zelenskyj: Forhandlinger kan skje i Norge</title>
-      <description><![CDATA[Og hva er egentlig den verste dagen i uka?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/7d6502c0-c8bc-4813-9ae0-a154c9d91d2b_6097f272-b966-4215-be2e-12e18ced839e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/7d6502c0-c8bc-4813-9ae0-a154c9d91d2b_6097f272-b966-4215-be2e-12e18ced839e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:40</itunes:duration>
-      <pubDate>Tue, 20 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CPqBareeWVoccqKVQjGNLQsW3LFO2KR_O1ARGFAuN7kg.jpg"/>
     </item>
   </channel>
 </rss>
