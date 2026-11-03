@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Nov 2026 23:31:59 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:00:37 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Valgdag i USA</title>
+      <description><![CDATA[Hvordan blir Donald Trumps to siste år som president? Amerikanerne skal velge alle de 432 representantene til Representantenes hus og 35 senatorer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dd79de6d-33a3-40b4-a55c-dd5f13f2cd47_3f9a2f77-dbd7-46d5-88c4-6b6cc4384700_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dd79de6d-33a3-40b4-a55c-dd5f13f2cd47_3f9a2f77-dbd7-46d5-88c4-6b6cc4384700_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bjW6kdW7idjsGb1ZQlrWdw4-M9pCLIV9WPLtnnvpb2OA.jpg"/>
+    </item>
     <item>
       <title>Færre helseforetak og større kommuner</title>
       <description><![CDATA[Små kommuner må bli større, foreslår Helsereformuvalget i dag.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:51</itunes:duration>
       <pubDate>Wed, 21 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/c35YXeTYNskvayHhDvSe7wo4RYbFrb_z5EJ0dgR2FQ_Q.jpg"/>
-    </item>
-    <item>
-      <title>Ukraina-samtaler i Norge</title>
-      <description><![CDATA[Ukrainas president Volodymyr Zelenskyj og USAs spesialutsending Steve Witkoff møtes i regjeringens representasjonsbolig i Parkveien i Oslo, sammen med statsminister Jonas Gahr Støre (Ap) og Finlands president Alexander Stubb.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dd4e8896-e1c1-47a7-a464-cab9647b0eac_afcd4c07-813a-4cc8-9882-408fb01a1753_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dd4e8896-e1c1-47a7-a464-cab9647b0eac_afcd4c07-813a-4cc8-9882-408fb01a1753_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:56</itunes:duration>
-      <pubDate>Tue, 20 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mxDCClUthnKSmCpNU4ePgA5V8MAeMHtzExCAS__vcNVA.jpg"/>
     </item>
   </channel>
 </rss>
