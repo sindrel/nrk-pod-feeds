@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Nov 2026 21:00:37 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:41:06 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Blå bølge over USA</title>
+      <description><![CDATA[Det demokratiske partiet med historisk seier]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c97e7e22-256a-4f75-8095-5c1ee6068c46_6fa3e4dc-3300-4af7-a4d7-24529bc2a01e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c97e7e22-256a-4f75-8095-5c1ee6068c46_6fa3e4dc-3300-4af7-a4d7-24529bc2a01e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Sit3CUaH2NvyPdPRh6fFAmGrToW4rwbSmC8KZVbH90Q.jpg"/>
+    </item>
     <item>
       <title>Valgdag i USA</title>
       <description><![CDATA[Hvordan blir Donald Trumps to siste år som president? Amerikanerne skal velge alle de 432 representantene til Representantenes hus og 35 senatorer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Thu, 22 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3p903HkYV5kZr3koFErmxgF_OPYmq34mb5_h69JTvX9Q.jpg"/>
-    </item>
-    <item>
-      <title>Russland vil gjenoppta forhandlinger</title>
-      <description><![CDATA[Russland ønsker å starte forhandlinger med USA og Ukraina i november. Samtalene kan finne sted i Abu Dhabi i De forente arabiske emirater,.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d8b8f04e-0019-4961-b613-a7fa619054f3_86bf047e-e125-4588-90e7-4d9d5eb7d9d1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d8b8f04e-0019-4961-b613-a7fa619054f3_86bf047e-e125-4588-90e7-4d9d5eb7d9d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:51</itunes:duration>
-      <pubDate>Wed, 21 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/c35YXeTYNskvayHhDvSe7wo4RYbFrb_z5EJ0dgR2FQ_Q.jpg"/>
     </item>
   </channel>
 </rss>
