@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:50:25 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:16:03 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Tradwives - med Gunn Marit Nisja</title>
+      <description><![CDATA[Karriere ute, eller hjemme? Ikke alle kvinner kan velge, forteller forfatteren Gunn Marit Nisja.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a3ddb278-9482-453c-ae75-e1438e4b2d0a_d96dd49c-17a8-4010-b697-4a6fae5ea6cb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a3ddb278-9482-453c-ae75-e1438e4b2d0a_d96dd49c-17a8-4010-b697-4a6fae5ea6cb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:35</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
+    </item>
     <item>
       <title>Stillasfilosofi - med Terje Torkildsen</title>
       <description><![CDATA[Det er mangt en kan tenke på i et stillas, forteller komiker og forfatter Terje Torkildsen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:29</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
-    </item>
-    <item>
-      <title>Skam - med Ann Helen Kolås Ingebrigtsen</title>
-      <description><![CDATA[- Eg har båre på ei skam heile livet, fortel forfattaren Ann Helen Kolås Ingebrigtsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/930c738f-3790-47a9-af03-b5d7a5c122d7_d3d820f4-8dab-437e-951c-0b53ab266edc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/930c738f-3790-47a9-af03-b5d7a5c122d7_d3d820f4-8dab-437e-951c-0b53ab266edc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:50</itunes:duration>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
     </item>
   </channel>
 </rss>
