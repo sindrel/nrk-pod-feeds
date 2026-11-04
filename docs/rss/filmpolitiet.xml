@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Mar 2026 06:04:42 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:59:30 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/N7qd3pQrkRXc7WkHxVC3hQOAar6BX8rott1ydSAu9uNg.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
+    <item>
+      <title>Takk for alt!</title>
+      <description><![CDATA[Sigurd og Marte sier tusen takk for følget, med en farvel-episode for Filmpolitiets podkast.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/f6a5170e-f3d3-442b-9d9e-69e2f3413280_83d89cce-2625-4a15-9e60-7aa4b0c58834_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/f6a5170e-f3d3-442b-9d9e-69e2f3413280_83d89cce-2625-4a15-9e60-7aa4b0c58834_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:24</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SL7YhKmIKFcZHX3n3kPkzwgxhNSc8IibJHuLPNAkDGag.jpg"/>
+    </item>
     <item>
       <title>«Affeksjonsverdi»: – Det kiler på de rette stedene (4:4)</title>
       <description><![CDATA[Martha griner, podden setter rekord og Sigurd ser rom og paralleller.]]></description>
@@ -98,15 +107,6 @@ Se «Affeksjonsverdi»: Hør episode 4]]></description>
       <itunes:duration>01:12</itunes:duration>
       <pubDate>Sun, 09 Nov 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/s5nJGZWW0k4mHRE7yUiyMQ_6ni_UMrQf0NfEq4vueWNA.jpg"/>
-    </item>
-    <item>
-      <title>Tips til seriesommeren!</title>
-      <description><![CDATA[Filmpolitiets podkast tar sommerferie, men først får du noen tips til hvilke serier du kan kose deg med, og hvilke du kan droppe i sommer!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/c1142c9e-a407-4409-9e33-ca752a21ad33_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/c1142c9e-a407-4409-9e33-ca752a21ad33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:37</itunes:duration>
-      <pubDate>Thu, 03 Jul 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zL7-pryKbMxNo5uYte_NfwKTW6PStRVql6rmgZBApSwg.jpg"/>
     </item>
   </channel>
 </rss>
