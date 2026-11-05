@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-11-05  
+- Updated podcast 'Kompass' (`kompass`)  
 ### 2026-11-02  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2026-10-30  
