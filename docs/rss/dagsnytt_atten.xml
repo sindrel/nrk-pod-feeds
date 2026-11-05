@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 04 Nov 2026 23:41:06 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:00:03 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Erna Solbergs nye bok:</title>
+      <description><![CDATA[Skriver at hun hadde null tro på Sylvi Listhaug som statsminister.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b354eb15-70b9-43fb-a872-c5003d41d1b9_a81c55cf-6026-40c8-b2a7-1379b73b4bac_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b354eb15-70b9-43fb-a872-c5003d41d1b9_a81c55cf-6026-40c8-b2a7-1379b73b4bac_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nnUEEd5B55RXRXOul6PSTQ75dN3wE3FIKB6QNpSOFW_Q.jpg"/>
+    </item>
     <item>
       <title>Blå bølge over USA</title>
       <description><![CDATA[Det demokratiske partiet med historisk seier]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 23 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RlOZkbiM4gEFHJhUfMbYMw8PK3Lqj1Y2BxPI2gWitqLA.jpg"/>
-    </item>
-    <item>
-      <title>Ungdomsprotester i Europa</title>
-      <description><![CDATA[I Serbia ventes store demonstrasjoner før søndagens parlamentsvalg. I Albania er de unge ansvarlige for voldsomme protester mot presidenten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/90f57a6b-0f54-46ec-aafe-1df7a71abcc3_360212d8-5e22-4ccb-9a91-9074f25e39ca_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/90f57a6b-0f54-46ec-aafe-1df7a71abcc3_360212d8-5e22-4ccb-9a91-9074f25e39ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:00</itunes:duration>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3p903HkYV5kZr3koFErmxgF_OPYmq34mb5_h69JTvX9Q.jpg"/>
     </item>
   </channel>
 </rss>
