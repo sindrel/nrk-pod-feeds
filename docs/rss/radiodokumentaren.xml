@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Historier fra virkeligheten</title>
+    <title>De 4 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:59:06 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 10:14:25 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 06:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
     <item>
@@ -19,6 +19,33 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/8deaf474-3004-4f15-9c98-460edc8beb90_30bc572a-73b9-46de-bda0-e8a84b7e6467_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:28</itunes:duration>
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/urILPw1hcre0CZDNvxa9lQLcQYBCxJzVzkSxQN6WV8wA.jpg"/>
+    </item>
+    <item>
+      <title>Drapsmaskinen (1:3)</title>
+      <description><![CDATA[En ung mann fra Kristiansand, med hele livet foran seg, flykter til Storbritannia og blir en av krigens mest effektive drapsmenn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6f9f44cf-4361-4d63-80ee-a4b9ed589952_a04da387-c5c5-4200-b48e-4995f6cf892f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6f9f44cf-4361-4d63-80ee-a4b9ed589952_a04da387-c5c5-4200-b48e-4995f6cf892f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:38</itunes:duration>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/urILPw1hcre0CZDNvxa9lQLcQYBCxJzVzkSxQN6WV8wA.jpg"/>
+    </item>
+    <item>
+      <title>Drept i sengen (2:3) </title>
+      <description><![CDATA[Likvideringsoppdragene står i kø for Edvard. Men da han skal drepe en lensmann, tar ting en uventet vending.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/e83f60d2-8e95-4040-89bc-ea312a3747dc_c21b7b75-434d-4152-a3c2-25e060bb231b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/e83f60d2-8e95-4040-89bc-ea312a3747dc_c21b7b75-434d-4152-a3c2-25e060bb231b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:43</itunes:duration>
+      <pubDate>Sat, 07 Nov 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/urILPw1hcre0CZDNvxa9lQLcQYBCxJzVzkSxQN6WV8wA.jpg"/>
+    </item>
+    <item>
+      <title>Dobbeltspill (3:3) </title>
+      <description><![CDATA[Edvard får et overraskende gjennombrudd i kampen mot tyskerne. Han bestemmer seg for å ta store sjanser for å ramme nazistene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/f2d23020-d42a-42a8-91a6-24291a7f949d_5826afb0-871a-47ad-8c76-840c240e26b9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/f2d23020-d42a-42a8-91a6-24291a7f949d_5826afb0-871a-47ad-8c76-840c240e26b9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:44</itunes:duration>
+      <pubDate>Sat, 07 Nov 2026 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/urILPw1hcre0CZDNvxa9lQLcQYBCxJzVzkSxQN6WV8wA.jpg"/>
     </item>
   </channel>
