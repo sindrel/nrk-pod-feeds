@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:28:55 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 12:05:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:31:10 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Knut Høibraaten</title>
+      <description><![CDATA[
+_ Bergenspatrioten jukset seg til fotballagent lisens.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e429b9aa-a1c6-43f5-a0f6-079037b0a713_ecb9c2ba-fe17-4542-80ac-45a05343a9f2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e429b9aa-a1c6-43f5-a0f6-079037b0a713_ecb9c2ba-fe17-4542-80ac-45a05343a9f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:29</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lIvh7O1dXCbNiSScplh3Ig0KUgi17wWyQl9k4lNugVvg.jpg"/>
+    </item>
     <item>
       <title>Birgitte Lange</title>
       <description><![CDATA[– Hvor mye kjærlighet kunne jeg finne hos fremmede, undret forfatteren og satte seg ned på en benk for å prate med tilfeldig forbipasserende.]]></description>
@@ -93,15 +104,6 @@
       <itunes:duration>57:19</itunes:duration>
       <pubDate>Thu, 22 Oct 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/c4EBUp2KGwDaD1lk-_lg7QF3UWruvT0SAn9cgsjK5x3A.jpg"/>
-    </item>
-    <item>
-      <title>Mia Habib</title>
-      <description><![CDATA[– At familien min er fra Israel er noe jeg sjelden sier, forteller den jødiske danseren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/97558362-c8db-4e26-be60-9ed835730f4e_033eb597-6ad9-4362-9339-bec6f4427c82_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/97558362-c8db-4e26-be60-9ed835730f4e_033eb597-6ad9-4362-9339-bec6f4427c82_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:19</itunes:duration>
-      <pubDate>Wed, 21 Oct 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0q3UvyMkBontjbntla9NagKymPNr5kcfH6E1WUaGB2hw.jpg"/>
     </item>
   </channel>
 </rss>
