@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 23:10:43 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:33:07 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Stanser ny kraft til datasentre</title>
+      <description><![CDATA[Statnett stanser tildelingen av ny kraft til datasentre midlertidig. Regjeringen varsler samtidig egen konsesjonsordning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0d0ccbba-aab6-408a-8213-3aca23618327_e718f80c-3b9e-4874-baa7-b2ddb2c0a4d7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0d0ccbba-aab6-408a-8213-3aca23618327_e718f80c-3b9e-4874-baa7-b2ddb2c0a4d7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YrMZz5wOBIpC69mfc99AqgW4HK7p_S2gkbonB3a4X0qQ.jpg"/>
+    </item>
     <item>
       <title>Uro på verdens børser</title>
       <description><![CDATA[Frykt for at KI-fall og demokratenes valgseier i USA har skapt uro og usikkerhet på verdens børser. Også vårt eget oljefond har falt med 1500 milliarder siden i sommer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 27 Oct 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oJ7Z7zaTMV5HPu-4dpqy4A3ytJA8KwNsdwT4uoagMtog.jpg"/>
-    </item>
-    <item>
-      <title>Studentene vant valget i Serbia</title>
-      <description><![CDATA[Men hvem skal styre landet nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9f9e641c-1edc-4093-a613-99cf7f466526_5485940e-72ac-404d-a1b5-cef9da2809a3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9f9e641c-1edc-4093-a613-99cf7f466526_5485940e-72ac-404d-a1b5-cef9da2809a3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 26 Oct 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jCrK7wfy43Bx1yum52TPcgwSsbvV9DKE9HJHLgGxr7dA.jpg"/>
     </item>
   </channel>
 </rss>
