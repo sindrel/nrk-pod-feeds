@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:53:12 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:25:38 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Puls - med  Elin Sofye Rabbevåg</title>
+      <description><![CDATA[Musikk er pulsen vår, det er liv og felleskap, forteller musiker og musikkpedagog Elin Sofye Rabbevåg]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/35fbcd23-6218-4251-958d-f6cde71f5749_f17ade8e-a6b6-44ff-89d9-999672b47f9b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/35fbcd23-6218-4251-958d-f6cde71f5749_f17ade8e-a6b6-44ff-89d9-999672b47f9b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:03</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u4DEViXCzqxv1l8mOqXoDA68rtOTluhok4gH9z6UxWDw.jpg"/>
+    </item>
     <item>
       <title>Godhet - med Lena Lindahl</title>
       <description><![CDATA[Det er så mye ondskap rundt oss at vi fort kan glemme at det finnes mye godhet også, forteller forfatteren Lena Lindahl.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:51</itunes:duration>
       <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QuJ-8g-H9W4qlIAWribQngatcWiFuMaq-qy9QgaE_ioA.jpg"/>
-    </item>
-    <item>
-      <title>Kontakt Kveldstanker</title>
-      <description><![CDATA[Bruk send inn-knappen om du vil kontakte oss i Kveldstanker. Kom med ris og ros, og tips om folk du vil høre fortelle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/8d3dbeef-feea-4a51-a2ca-37ec40f7f384_1ae2c3e7-f830-41bb-b46b-847fd1bf8d18_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/8d3dbeef-feea-4a51-a2ca-37ec40f7f384_1ae2c3e7-f830-41bb-b46b-847fd1bf8d18_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28</itunes:duration>
-      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
     </item>
   </channel>
 </rss>
