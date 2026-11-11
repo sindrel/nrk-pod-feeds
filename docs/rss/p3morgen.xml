@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:52:14 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:14:48 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Vi konfronterer Flytoget</title>
+      <description><![CDATA[Gamle CD-er og spill kan være verdt en formue! Er du egentlig klar over hva du har liggende hjemme? Vi sjekker ut dine gamle skatter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/66adff93-f7a5-457a-898b-1df465fc996f_2af0287e-cd09-461a-bb36-dea4fcd5154b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/66adff93-f7a5-457a-898b-1df465fc996f_2af0287e-cd09-461a-bb36-dea4fcd5154b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:53</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rDAQRnHgbhyQSKZ6yOBv7g1MerUgjYU3unKi5vsRLvrw.jpg"/>
+    </item>
     <item>
       <title>Det er kjempelett å hacke en fryser!</title>
       <description><![CDATA[Frysere i dagligvarebutikker i Norge har blitt hacket, og maten inni blir ødelagt. Hvor lett er det å hacke en fryser? Og hvor mye av det vi har i hjemmet er utsatt for angrep? Vi spør en dataekspert!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>46:02</itunes:duration>
       <pubDate>Thu, 29 Oct 2026 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Jt1n-elrfYflhjN4URPSigz-Jt-zi4v0fdg9xDpTXh8g.jpg"/>
-    </item>
-    <item>
-      <title>Herbert Nordrum gjør norske memes posh</title>
-      <description><![CDATA[Blir man automatisk diva av å jobbe med utenlandsk film? Skuespiller Herbert Nordrum kommer på besøk for å gi oss fasiten, og fortelle om da han bannet på amerikansk TV (som er veldig fy fy)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/fae5f87a-942f-4cd0-ac7d-1fd24dbb9709_b119ed7f-7a58-4c20-94de-470d464e60e1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/fae5f87a-942f-4cd0-ac7d-1fd24dbb9709_b119ed7f-7a58-4c20-94de-470d464e60e1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:57</itunes:duration>
-      <pubDate>Wed, 28 Oct 2026 11:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CYp6pIXLc3kh-fBxxyqRsQqwx1GU7KyKUrjG0sB3tjGA.jpg"/>
     </item>
   </channel>
 </rss>

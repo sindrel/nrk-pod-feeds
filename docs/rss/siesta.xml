@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:52:18 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:14:54 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Daniel er frisk!</title>
+      <description><![CDATA[Daniel er tilbake fra sykdom, det blir singel-quiz fra Ørjan Borre og hva lukter fingeren i dag?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/2cbf5134-6cc4-4477-8220-5bec32dbb9b3_1f78894e-ecd1-4aad-b3e5-7932c2a4d555_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/2cbf5134-6cc4-4477-8220-5bec32dbb9b3_1f78894e-ecd1-4aad-b3e5-7932c2a4d555_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:08</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Kald middag er ekkelt </title>
       <description><![CDATA[Markus spiser tydeligvis kald lasagne, Anna holder to taler i dag og sammen diskuterer vi sjokoladepudding. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>45:53</itunes:duration>
       <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/lJmvK3COPy0HA6IcmQ0I5gnctP_896FNVyVURSJ_6Xqw.jpg"/>
-    </item>
-    <item>
-      <title>Daniel spruter vann på Anna</title>
-      <description><![CDATA[Det rakner fullstendig for Daniel, Markus har kjøpt seg et instrument og hva er verst av en dårlig klem eller et slapt håndtrykk?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6316827b-96ae-475a-9aea-b35341bdf85a_453a0a41-a433-4459-8770-8c28e1e14249_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/6316827b-96ae-475a-9aea-b35341bdf85a_453a0a41-a433-4459-8770-8c28e1e14249_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:31</itunes:duration>
-      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
 </rss>

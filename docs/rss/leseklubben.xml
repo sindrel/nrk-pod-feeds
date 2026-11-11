@@ -1,62 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Leseklubben</title>
+    <title>De 1 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 31 Oct 2026 05:44:47 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 06:05:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:14:42 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>– En vanlig gutt fra Porsgrunn som leser (1:5)</title>
-      <description><![CDATA[Det blir guttastemning og nobelpris om hverandre når Oskar skal kjenne på urmennesket i seg. Meld deg på Boktober på nrk.no/boktober. Lydboka er tilgjengelig i hele oktober. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ade52123-f769-4d5d-a03a-71824176a614_89570f9a-54ce-45c0-814f-fd1793ddfba4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ade52123-f769-4d5d-a03a-71824176a614_89570f9a-54ce-45c0-814f-fd1793ddfba4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:04</itunes:duration>
-      <pubDate>Thu, 01 Oct 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QuhdkHiQt2ds9-vnp-PPXw87BDWVe1TFVNkwMlujUdMQ.jpg"/>
-    </item>
-    <item>
-      <title>– Ble litt småforbanna! (2:5)</title>
-      <description><![CDATA[Oskar lar seg provosere av starten på boka og trekker linjer til reality. Hvem hadde han selv vært på en øde øy?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2ab574a9-0b83-434c-832f-0ebdbf6a96e0_ef13ad88-1249-4c79-86df-c083ca197e1d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2ab574a9-0b83-434c-832f-0ebdbf6a96e0_ef13ad88-1249-4c79-86df-c083ca197e1d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:20</itunes:duration>
-      <pubDate>Thu, 08 Oct 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QuhdkHiQt2ds9-vnp-PPXw87BDWVe1TFVNkwMlujUdMQ.jpg"/>
-    </item>
-    <item>
-      <title>– Dama, gutta, alle leser den jo! (3:5)</title>
-      <description><![CDATA[Oskar har engasjert hele gjengen og kjæresten i boka, og spår en stadig hetere maktkamp på øya. Statsministeren har meldt seg på!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ed366510-36fb-4586-ac57-c2e8fb5f1cc8_37200b69-a091-4881-ad7b-a00eee005dcc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ed366510-36fb-4586-ac57-c2e8fb5f1cc8_37200b69-a091-4881-ad7b-a00eee005dcc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:06</itunes:duration>
-      <pubDate>Thu, 15 Oct 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QuhdkHiQt2ds9-vnp-PPXw87BDWVe1TFVNkwMlujUdMQ.jpg"/>
-    </item>
-    <item>
-      <title>– En grotesk scene! (4:5)</title>
-      <description><![CDATA[Oskar er overrasket og trist over drapet på sin favorittkarakter. Men venter flere groteske scener fremover. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/e1389a52-106b-475c-9e16-7b4ea79c5859_155e3e9e-8ee9-4567-91d1-e6c90bca86d2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/e1389a52-106b-475c-9e16-7b4ea79c5859_155e3e9e-8ee9-4567-91d1-e6c90bca86d2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:12</itunes:duration>
-      <pubDate>Thu, 22 Oct 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QuhdkHiQt2ds9-vnp-PPXw87BDWVe1TFVNkwMlujUdMQ.jpg"/>
-    </item>
-    <item>
-      <title>—Jeg tok en Darth Vader (5:5)</title>
-      <description><![CDATA[Oskar mener at Fluenes herre er alt for pessimistisk. Støre drar linjer til Ukraina. Alle tror på kjærlighetens kraft. Boktober er ferdig, hva nå? Lydboka er dessverre ikke tilgjengelig lenger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/3c7d38ed-f4d7-4602-b180-0677196abedd_882a6c6f-7e0d-4148-a188-ee623a9f4757_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/3c7d38ed-f4d7-4602-b180-0677196abedd_882a6c6f-7e0d-4148-a188-ee623a9f4757_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:48</itunes:duration>
-      <pubDate>Sat, 31 Oct 2026 06:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QuhdkHiQt2ds9-vnp-PPXw87BDWVe1TFVNkwMlujUdMQ.jpg"/>
+      <title>KOMMER 12. november: To sagnomsuste kirkeklokker og en prestedatter!</title>
+      <description><![CDATA[Bli med inn i Lars Myttings storslåtte romanunivers i «Søsterklokkene» sammen med Anne Lindmo og Leseklubben - og hør lydboka!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eC9_fVbLBavayIx8PRgNTgUxe8GnGW88SvlpmLnsy55w.jpg"/>
     </item>
   </channel>
 </rss>
