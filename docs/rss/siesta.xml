@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:14:54 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:56:25 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna og Daniel krangler </title>
+      <description><![CDATA[Hvor har det blitt av kjeks, vi spiller på slurva og Anna har med sak om godt arbeidsmiljø på Europris i Larvik. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/40fbc74e-51c6-46bb-a42e-f50ac065bead_5ce37d65-42ff-4cf1-ba71-0a844de7154a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/40fbc74e-51c6-46bb-a42e-f50ac065bead_5ce37d65-42ff-4cf1-ba71-0a844de7154a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:15</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel er frisk!</title>
       <description><![CDATA[Daniel er tilbake fra sykdom, det blir singel-quiz fra Ørjan Borre og hva lukter fingeren i dag?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>43:13</itunes:duration>
       <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Markus intervjuer Desta Beeder</title>
-      <description><![CDATA[Det blir halloquizvang, Markus intervjuer Desta Beeder og vi avslører den aller siste kandidaten i jakten etter Norges beste pub!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/27614619-a145-46cc-8125-dd9c80a54a82_2081153f-7e2b-4888-ac54-1f8d7cd46786_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/27614619-a145-46cc-8125-dd9c80a54a82_2081153f-7e2b-4888-ac54-1f8d7cd46786_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:53</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lJmvK3COPy0HA6IcmQ0I5gnctP_896FNVyVURSJ_6Xqw.jpg"/>
     </item>
   </channel>
 </rss>
