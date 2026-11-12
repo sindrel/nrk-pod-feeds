@@ -1,25 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 1 siste fra Leseklubben</title>
+    <title>De 4 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:14:42 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:15:55 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 06:04:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>KOMMER 12. november: To sagnomsuste kirkeklokker og en prestedatter!</title>
-      <description><![CDATA[Bli med inn i Lars Myttings storslåtte romanunivers i «Søsterklokkene» sammen med Anne Lindmo og Leseklubben - og hør lydboka!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:12</itunes:duration>
-      <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eC9_fVbLBavayIx8PRgNTgUxe8GnGW88SvlpmLnsy55w.jpg"/>
+      <title>Søsterklokkene: Jentene som delte hud (1/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapittel 1-4 kan du høre Leseklubben episode 2.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/37cbb8a6-aa9e-466b-8517-9bdf406de08f_7ff62d1c-c8b8-4a82-8a79-0d8ff949bb4f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/37cbb8a6-aa9e-466b-8517-9bdf406de08f_7ff62d1c-c8b8-4a82-8a79-0d8ff949bb4f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:39</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Stavkirken (2/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapittel 1-4 kan du høre Leseklubben episode 2.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/62b0cd01-a526-483e-8b30-a6bc689d5aea_2d476ab6-fef3-400e-ae9a-c261fc49efdb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/62b0cd01-a526-483e-8b30-a6bc689d5aea_2d476ab6-fef3-400e-ae9a-c261fc49efdb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:01</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Sølvklangen (3/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapittel 1-4 kan du høre Leseklubben episode 2.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b79ee7f6-6324-4b55-9abd-9f17b96b492c_d4827b06-0bda-4dca-a821-ffdaef8d9f6d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b79ee7f6-6324-4b55-9abd-9f17b96b492c_d4827b06-0bda-4dca-a821-ffdaef8d9f6d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:06</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: En gissen båt på stritt hav (4/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapittel 1-4 kan du høre Leseklubben episode 2.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/77bf29d7-5284-4c3b-87d8-386471deb793_58ed25bd-f19a-4693-a552-eb0227fa44d9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/77bf29d7-5284-4c3b-87d8-386471deb793_58ed25bd-f19a-4693-a552-eb0227fa44d9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:27</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
     </item>
   </channel>
 </rss>
