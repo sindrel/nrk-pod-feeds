@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:39:35 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:05:06 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Advarer mot atomulykke</title>
+      <description><![CDATA[Russlands krigføring i Ukraina øker risikoen for en alvorlig atomulykke, advarer en rekke land.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/668fb140-a0cb-4cb0-8902-20e53c2c16b7_7989a821-fb97-41d8-b047-749bc513168f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/668fb140-a0cb-4cb0-8902-20e53c2c16b7_7989a821-fb97-41d8-b047-749bc513168f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_-9Bvn4c6q1Crr5q66a6iAScPvdHLlAbYPrEbbO1EkbA.jpg"/>
+    </item>
     <item>
       <title>Staten tapte klimasøksmål</title>
       <description><![CDATA[Høyesterett slo fast at statens godkjennelse av planer for utbygging og drift av tre oljefelt er ugyldig.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 03 Nov 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/bjW6kdW7idjsGb1ZQlrWdw4-M9pCLIV9WPLtnnvpb2OA.jpg"/>
-    </item>
-    <item>
-      <title>Færre helseforetak og større kommuner</title>
-      <description><![CDATA[Små kommuner må bli større, foreslår Helsereformuvalget i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0_6bf16229-72df-4957-9620-ad7cdd281f1d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0_6bf16229-72df-4957-9620-ad7cdd281f1d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:56</itunes:duration>
-      <pubDate>Mon, 02 Nov 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/O4Rdx6GKscnJA-601yVuwAA81kX0XnD-1uubRmYa6CvQ.jpg"/>
     </item>
   </channel>
 </rss>
