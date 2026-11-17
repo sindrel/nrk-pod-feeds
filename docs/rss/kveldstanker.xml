@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:25:38 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:27:26 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Dagbok - med Ingelin Røssland</title>
+      <description><![CDATA[Det er ein type bøker forfattaren Ingelin Røssland  aldri har likt - dagbøker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4bbe58d3-2478-4384-824b-3287680a3d44_b2ac9c14-e317-45c8-82a3-13e94ef7e710_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4bbe58d3-2478-4384-824b-3287680a3d44_b2ac9c14-e317-45c8-82a3-13e94ef7e710_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:45</itunes:duration>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
+    </item>
     <item>
       <title>Puls - med  Elin Sofye Rabbevåg</title>
       <description><![CDATA[Musikk er pulsen vår, det er liv og felleskap, forteller musiker og musikkpedagog Elin Sofye Rabbevåg]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>02:54</itunes:duration>
       <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
-    </item>
-    <item>
-      <title>Enkelt - med Julie Killingberg</title>
-      <description><![CDATA[- VI er blitt for glad i å gjøre alt så enkelt som mulig. Det ikke lurt, mener Julie Killingberg. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9f9fcf3a-e04f-4736-9e05-d0b72e712341_9309c10e-0284-47c3-acc8-677f52b8cc4e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9f9fcf3a-e04f-4736-9e05-d0b72e712341_9309c10e-0284-47c3-acc8-677f52b8cc4e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:51</itunes:duration>
-      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QuJ-8g-H9W4qlIAWribQngatcWiFuMaq-qy9QgaE_ioA.jpg"/>
     </item>
   </channel>
 </rss>
