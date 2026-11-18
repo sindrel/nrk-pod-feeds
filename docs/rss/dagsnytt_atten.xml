@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:53:42 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:58:40 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Historisk møte</title>
+      <description><![CDATA[Toppmøtet mellom Donald Trump, Vladimir Putin og Xi Jinping har startet i Shnezhen i Kina i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ef2798f2-b363-4744-ab4c-5bf631e29320_5b5f091b-a189-47cd-8f42-bb6377bd2a85_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ef2798f2-b363-4744-ab4c-5bf631e29320_5b5f091b-a189-47cd-8f42-bb6377bd2a85_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Wed, 18 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/74G7UVdekVFxlEEbuzm0bQtnIprlHZEjsujZtdEQVxqA.jpg"/>
+    </item>
     <item>
       <title>Ny meningsmåling</title>
       <description><![CDATA[Et parti med sin beste måling noen gang, et annet med sin dårligste siden 2009.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 05 Nov 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nnUEEd5B55RXRXOul6PSTQ75dN3wE3FIKB6QNpSOFW_Q.jpg"/>
-    </item>
-    <item>
-      <title>Blå bølge over USA</title>
-      <description><![CDATA[Det demokratiske partiet med historisk seier]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c97e7e22-256a-4f75-8095-5c1ee6068c46_6fa3e4dc-3300-4af7-a4d7-24529bc2a01e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c97e7e22-256a-4f75-8095-5c1ee6068c46_6fa3e4dc-3300-4af7-a4d7-24529bc2a01e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 04 Nov 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5Sit3CUaH2NvyPdPRh6fFAmGrToW4rwbSmC8KZVbH90Q.jpg"/>
     </item>
   </channel>
 </rss>
