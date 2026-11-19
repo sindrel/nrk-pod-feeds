@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Leseklubben</title>
+    <title>De 10 siste fra Leseklubben</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:15:55 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Nov 2026 06:04:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:11:53 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 06:06:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
@@ -48,6 +48,60 @@
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/77bf29d7-5284-4c3b-87d8-386471deb793_58ed25bd-f19a-4693-a552-eb0227fa44d9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:27</itunes:duration>
       <pubDate>Thu, 12 Nov 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Fjellnissenes hemmelighet (5/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapitlene 5-13, kan du høre Leseklubben episode 3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8519cead-9c6a-4dab-93d7-acc43e0afd84_62965ddd-8826-4e2b-8a55-ff56abfbbeac_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8519cead-9c6a-4dab-93d7-acc43e0afd84_62965ddd-8826-4e2b-8a55-ff56abfbbeac_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:09</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Kirkeklokker skal fortsatt ringe (6/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapitlene 5-13, kan du høre Leseklubben episode 3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/4fef87b0-ff65-4602-b744-3865c1bf05ca_29444aa2-25ab-4538-97d8-7af866008fbf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/4fef87b0-ff65-4602-b744-3865c1bf05ca_29444aa2-25ab-4538-97d8-7af866008fbf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:42</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Guds finger pekte på Norge (7/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapitlene 5-13, kan du høre Leseklubben episode 3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bccefb51-1fe4-4c06-9a9f-6890245d1815_16ca28c6-9c44-4efb-8efb-ab1e317fff71_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bccefb51-1fe4-4c06-9a9f-6890245d1815_16ca28c6-9c44-4efb-8efb-ab1e317fff71_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:35</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Hennes egen vinterfugl (8/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapitlene 5-13, kan du høre Leseklubben episode 3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/08c0c48a-95a4-4476-a028-10ce1a6a0f9d_4ae8064f-cb4d-4645-9cf2-06fb1c2b14ba_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/08c0c48a-95a4-4476-a028-10ce1a6a0f9d_4ae8064f-cb4d-4645-9cf2-06fb1c2b14ba_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:38</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Smuldrede hundreår (9/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapitlene 5-13, kan du høre Leseklubben episode 3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a7c9f7d6-35eb-48ec-99d3-374dc265d702_9e1ba29e-f529-417f-938d-c11b295b154d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a7c9f7d6-35eb-48ec-99d3-374dc265d702_9e1ba29e-f529-417f-938d-c11b295b154d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:24</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Ordet med mothake (10/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapitlene 5-13, kan du høre Leseklubben episode 3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f982e32d-3105-48ab-8702-44c100431dd0_a4e2e5ca-4c2f-4ddc-8639-10132cf85a20_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f982e32d-3105-48ab-8702-44c100431dd0_a4e2e5ca-4c2f-4ddc-8639-10132cf85a20_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:53</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 06:06:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
     </item>
   </channel>
