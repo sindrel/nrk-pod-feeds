@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:53:44 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 22:05:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:37:58 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 22:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Er det skamfullt å ha dialekt?</title>
+      <description><![CDATA[Dialektskam, sexy dialekter og fremtiden til det norske språk er tema i Debatten denne torsdagen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/617649ac-552b-45e4-a230-b9f3117a2dd3_6d10dc24-3610-458e-a959-8bb70d936ae1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/617649ac-552b-45e4-a230-b9f3117a2dd3_6d10dc24-3610-458e-a959-8bb70d936ae1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:46</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 22:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ObUUuyxgMOEbWl_WdwiaeAu2MnVQ-RCqQTweCc8NKSjg.jpg"/>
+    </item>
     <item>
       <title>2000 kan miste jobben i Posten</title>
       <description><![CDATA[Er det på tide å fornye Posten, eller må regjeringen snu?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>41:41</itunes:duration>
       <pubDate>Tue, 20 Oct 2026 22:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/axuxIUbzUsIjDcavHSc7QQQYuJe93sXIzd9cF1mI9duA.jpg"/>
-    </item>
-    <item>
-      <title>Etikk eller butikk i Oljefondet?</title>
-      <description><![CDATA[Legger nye forslag til retningslinjer opp til uetiske investeringer?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/66c68cc6-f26c-4d1d-868c-c6f26cdd1dad_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/66c68cc6-f26c-4d1d-868c-c6f26cdd1dad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:20</itunes:duration>
-      <pubDate>Thu, 15 Oct 2026 22:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aVamubbdKipGU6vMvW331wQPCRuTBjCyLZCGumRKW4Og.jpg"/>
     </item>
   </channel>
 </rss>

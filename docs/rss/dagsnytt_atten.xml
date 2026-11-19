@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:58:40 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:37:54 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Putin, Xi og Trump på toppmøte</title>
+      <description><![CDATA[De sier de vil jobbe for å forhindre atomkrig og øke oljeproduksjonen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ba44a51b-32ad-473c-9ac1-12a9c9eff5db_c55b61ff-19f6-4f6b-a8f5-ee894b92a29b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ba44a51b-32ad-473c-9ac1-12a9c9eff5db_c55b61ff-19f6-4f6b-a8f5-ee894b92a29b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/494YYhOOzw8tE7eCSRWlHQ8YTUDp-YuohUXqt5T6xPfg.jpg"/>
+    </item>
     <item>
       <title>Historisk møte</title>
       <description><![CDATA[Toppmøtet mellom Donald Trump, Vladimir Putin og Xi Jinping har startet i Shnezhen i Kina i dag.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 06 Nov 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ofUCbpqgSq13FD6DH_8MlAmdDyvXSmilCTyeY_inv7pQ.jpg"/>
-    </item>
-    <item>
-      <title>Erna Solbergs nye bok:</title>
-      <description><![CDATA[Skriver at hun hadde null tro på Sylvi Listhaug som statsminister.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b354eb15-70b9-43fb-a872-c5003d41d1b9_a81c55cf-6026-40c8-b2a7-1379b73b4bac_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b354eb15-70b9-43fb-a872-c5003d41d1b9_a81c55cf-6026-40c8-b2a7-1379b73b4bac_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 05 Nov 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nnUEEd5B55RXRXOul6PSTQ75dN3wE3FIKB6QNpSOFW_Q.jpg"/>
     </item>
   </channel>
 </rss>
