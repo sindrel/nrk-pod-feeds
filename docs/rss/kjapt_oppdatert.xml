@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:11:50 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:56:04 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Får vi parkpils neste sommer?</title>
+      <description><![CDATA[Og hvordan gikk toppmøtet i Kina i går?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f5f0e863-7a14-4135-9455-c776d39ad5ea_ffdcf4d4-fa00-4aa5-a841-7407c274006b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f5f0e863-7a14-4135-9455-c776d39ad5ea_ffdcf4d4-fa00-4aa5-a841-7407c274006b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:53</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xf53o3L4MMimVqqNkr1xEwB6FSjTjB8MxQRaGy6peEIg.jpg"/>
+    </item>
     <item>
       <title>GTA VI hylles</title>
       <description><![CDATA[Og i dag markeres mannsdagen
@@ -99,18 +108,6 @@ Oppdatert 09.11.2026 07:25 med nyheten om at gjerningspersonen bak masseskytinge
       <itunes:duration>07:00</itunes:duration>
       <pubDate>Mon, 09 Nov 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aAEE10J_eCWPoO0CgArFVg9f9aTtV7RPySetQJ5P-dSQ.jpg"/>
-    </item>
-    <item>
-      <title>Snart kan det bli 16-årsgrense for elsparkesykkel</title>
-      <description><![CDATA[Og en populær TV-serie er kansellert etter ti sesonger. 
-
-//
-Oppdatert 06.11.2026 10.45 med at det var TV 2 som sendte «Married at first sight Australia», ikke TV Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/63e52212-f458-4310-8550-2e9a43a02282_ac577f0b-5dc2-4aed-9861-ced41243e0da_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/63e52212-f458-4310-8550-2e9a43a02282_ac577f0b-5dc2-4aed-9861-ced41243e0da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:06</itunes:duration>
-      <pubDate>Fri, 06 Nov 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yyTLBWShMRLDusMDg9BffQ5o616K6tVH0m8XqWlaX0Og.jpg"/>
     </item>
   </channel>
 </rss>
