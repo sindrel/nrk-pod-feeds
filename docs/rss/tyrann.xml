@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Tyrann</title>
+    <title>De 3 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 3 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 14 Nov 2026 11:29:59 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:05:19 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
@@ -33,6 +33,15 @@ Historienet.dk: “Belgiens konge dræbte 10 millioner” og “Deres styre stå
       <enclosure url="https://podkast.nrk.no/fil/tyrann/d430b3ae-4434-4346-90ba-3436339cc9b9_e64d8d2b-e24f-4c82-9d6f-455432bd270c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:50</itunes:duration>
       <pubDate>Sat, 14 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg"/>
+    </item>
+    <item>
+      <title>Leopold II (2:6)</title>
+      <description><![CDATA[Henry Morton Stanley er eventyrer, kjendis, brutal og hensynsløs. Akkurat en sånn type kong Leopold II trenger for å kuppe Kongo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/a1a57960-cd5d-43d6-96c1-eae413053d5d_1d4adb9e-9259-4807-a3b8-91c6c2d06796_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/a1a57960-cd5d-43d6-96c1-eae413053d5d_1d4adb9e-9259-4807-a3b8-91c6c2d06796_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:10</itunes:duration>
+      <pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg"/>
     </item>
   </channel>
