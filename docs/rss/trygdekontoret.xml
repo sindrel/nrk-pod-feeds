@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:23:13 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:48:28 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Kunsten å leve i villmarka</title>
+      <description><![CDATA[Ikke som et overlevelsesprosjekt, men for å komme nærmere naturen. Med naturforvalter og lausarbeider Gea Prytz.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/2bab8fbd-a8fe-4df0-a78d-06dea3677951_51df7271-8020-477d-9bf2-5d12af0104ed_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/2bab8fbd-a8fe-4df0-a78d-06dea3677951_51df7271-8020-477d-9bf2-5d12af0104ed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:46</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/toio-p81rsXW6eH8Svlurgy6kYO97sBBltZU4XL1WK3g.jpg"/>
+    </item>
     <item>
       <title>Nyrike nordmenn</title>
       <description><![CDATA[Hvordan ble Norge verdens mest nyrike land? Og hva har milliardene gjort med folkesjela vår? Med journalist og økonom Lars Backe Madsen.  ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>58:03</itunes:duration>
       <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y7ez-VxY9yjnhG8FUHBAHw54acRkMohzBZ6x4qc-5CZA.jpg"/>
-    </item>
-    <item>
-      <title>Naturdøden</title>
-      <description><![CDATA[Vi befinner oss i den sjette masseutryddelsen, men bryr vi oss egentlig? Filosof Arne Johan Vetlesen om hvorfor vi knapt merker at natur forsvinner og dyr dør ut.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/ef20d35b-11c5-43b8-a0d3-5b11c503b8b7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ef20d35b-11c5-43b8-a0d3-5b11c503b8b7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:10</itunes:duration>
-      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
     </item>
   </channel>
 </rss>

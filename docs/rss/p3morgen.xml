@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:56:18 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:48:15 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Se trash-TV med stolthet!</title>
+      <description><![CDATA[Er underholdning for kvinner litt mer «trashy»? Supervikar Hedda tror flere ser på det enn man tror, og er desperat etter noen å snakke om det med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/058d086e-645f-4614-9ce4-a52a4359cd7e_d89dbd6c-1952-49a3-9130-521c55cf1216_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/058d086e-645f-4614-9ce4-a52a4359cd7e_d89dbd6c-1952-49a3-9130-521c55cf1216_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:32</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DGQ6qIsHCjqmWQ1CN8TC5QOfKFSrrL0Ii4AyIjFe4UTw.jpg"/>
+    </item>
     <item>
       <title>P3morgen taxiservice</title>
       <description><![CDATA[400 000 kollektivreisende står uten et alternativ når t-banen er stengt i hovedstaden. Vi tar saken, og har sendt Hedda ut i en bil for å plukke opp deg som trenger skyss! Send oss en melding om du trenger å bli plukket opp!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>45:18</itunes:duration>
       <pubDate>Tue, 10 Nov 2026 10:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/f7_T7c9iZrXWOpgvh3H07AG7rFaP_zh4bk4uWO4covLg.jpg"/>
-    </item>
-    <item>
-      <title>Peder Elias mener du kan hysje på konsert</title>
-      <description><![CDATA[Hvor høyt kan man synge på konsert? Skal man synge for full hals under en vakker ballade også? Vi spør en av Norges største musikkeksporter; Peder Elias!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b50620ff-a2b5-4365-abf4-6f3713f4474d_353446c5-201e-4baf-8d0f-9d535aabb83c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b50620ff-a2b5-4365-abf4-6f3713f4474d_353446c5-201e-4baf-8d0f-9d535aabb83c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:12</itunes:duration>
-      <pubDate>Mon, 09 Nov 2026 10:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BuRtaJ5H_5yOQHiOW57XDgGmtlAIB8fYFBsWh4dC3JJw.jpg"/>
     </item>
   </channel>
 </rss>
