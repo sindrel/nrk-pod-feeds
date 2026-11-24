@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:01:00 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:57:28 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Velg deg selv - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[Noen ganger bør vi absolutt velge bort andre, og prioritere oss selv, forteller Oda Gravdal Ulriksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4e70a2a7-0c74-44b0-b702-55810208a8d4_0f439a86-0fbf-4483-b28d-05cc366fdb96_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4e70a2a7-0c74-44b0-b702-55810208a8d4_0f439a86-0fbf-4483-b28d-05cc366fdb96_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:54</itunes:duration>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
     <item>
       <title>Skole - med Terje Torkildsen</title>
       <description><![CDATA[Hvorfor har vi begynt å gjemme bort skolene våre, spør forfatteren Terje Torkildsen.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>03:27</itunes:duration>
       <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Kv-IQXhH9yhLGWkwFe8DtQahtEaWOlUdS7bZKP-WDEhA.jpg"/>
-    </item>
-    <item>
-      <title>Verdi - med Miriam Våga</title>
-      <description><![CDATA[Når sykdom hindrer deg i å leve som andre kan du føle deg liten, men du har en verdi bare ved å finnes, forteller Miriam Våga.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3a1a0c33-4b03-4bdd-a829-b9da6dcb7df5_171a478d-4d13-4e79-91b3-42e5553390a0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3a1a0c33-4b03-4bdd-a829-b9da6dcb7df5_171a478d-4d13-4e79-91b3-42e5553390a0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aRIlWUZUajBD9lC3JJ6E8wiojXQUNgH2B41RSpAPMxIQ.jpg"/>
     </item>
   </channel>
 </rss>
