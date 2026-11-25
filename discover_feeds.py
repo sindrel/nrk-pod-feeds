@@ -61,18 +61,18 @@ def update_podcasts_config(configured, discovered):
             logging.debug(f"Podcast {podcast['seriesId']} is in ignored category {metadata['series']['category']['id']}")
             continue
 
-        latest_season = None
         season = None
 
         if metadata['seriesType'] == "umbrella":
-            latest_season = metadata["_links"]["seasons"][0]["name"]
             season = "LATEST_SEASON"
 
-        episodes = psapi.get_podcast_episodes(podcast['seriesId'], latest_season)
+        # NRK's flat /episodes endpoint already merges the most recent episodes across
+        # all seasons in date order, so we never resolve a single "latest season".
+        episodes = psapi.get_podcast_episodes(podcast['seriesId'])
         
         active = check_if_podcast_active(today, episodes)
 
-        logging.debug(f"Latest season: {latest_season}, episodes found: {len(episodes)}")
+        logging.debug(f"Season: {season}, episodes found: {len(episodes)}")
 
         new_feed = {
             "id": podcast['seriesId'],
