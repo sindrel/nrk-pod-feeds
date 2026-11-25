@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Venner som møtes ukentlig</title>
+    <title>De 5 siste fra Venner som møtes ukentlig</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Venner som møtes ukentlig. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/venner_som_moetes_ukentlig for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Venner som møtes ukentlig. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/venner_som_moetes_ukentlig for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:01:25 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:38:27 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwcCMKj8GBRqjU-HbAL4Uvtw.jpg"/>
+    <item>
+      <title>Martha ber om hjelp</title>
+      <description><![CDATA[Annika har vært på jakt og løser et stort hverdagsproblem, Karsten har driti på seg og Martha trenger hjelp fra sine to gode venner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/venner_som_moetes_ukentlig/4d5b93e5-922e-4ba8-abb2-1ce4110f21c8_270772f4-84bb-4558-9b82-45f05c5c1919_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/venner_som_moetes_ukentlig/4d5b93e5-922e-4ba8-abb2-1ce4110f21c8_270772f4-84bb-4558-9b82-45f05c5c1919_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:38</itunes:duration>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwcCMKj8GBRqjU-HbAL4Uvtw.jpg"/>
+    </item>
     <item>
       <title>Et sju minutters karaokemareritt</title>
       <description><![CDATA[Annika har traumer etter karaoke, Martha raser over folk som ikke kan klokka, og Karsten «gaslighter» seg selv.]]></description>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:57:44 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:38:16 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Likelønnsdagen</title>
+      <description><![CDATA[Er Likelønnsdagen en viktig kampdag? Eller er det lureri?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/2a15e251-c77a-4df4-a28d-365e33d4b29d_d49000a5-7c22-4f0e-8d48-966992ba7bb0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/2a15e251-c77a-4df4-a28d-365e33d4b29d_d49000a5-7c22-4f0e-8d48-966992ba7bb0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/y23B8eJ-0vg7fuBGJscfaAOL4w-5gjX7SbdgXeICH7Vw.jpg"/>
+    </item>
     <item>
       <title>Norge på feil klimaside?</title>
       <description><![CDATA[Frp meiner oljeprodusenten Noreg stilte seg på feil side under klimatoppmøtet ]]></description>
@@ -95,16 +104,6 @@ Bør Norge følge etter?]]></description>
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9LRkIW_LnaZt833nm4RcUwtgSCjkNKAJmgNpIgIhTBQA.jpg"/>
-    </item>
-    <item>
-      <title>Frp vil ha ny Parisavtale</title>
-      <description><![CDATA[Parisavtalen funker ikke. La oss starte på nytt, sier Tor Mikkel Wara (Frp). 
-Frp vil rasere verdens klimapolitikk, advarer MDG]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/be988361-9a4c-4cbf-97b7-4ae71e7f5575_3c33b190-480e-4b2e-9236-676f16e7ba93_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/be988361-9a4c-4cbf-97b7-4ae71e7f5575_3c33b190-480e-4b2e-9236-676f16e7ba93_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:11</itunes:duration>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FXQWhwfuYBd0_Kty7s_1sQRAOYQOYDnfOI79oE0ZgcNg.jpg"/>
     </item>
   </channel>
 </rss>
