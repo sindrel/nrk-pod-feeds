@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:22:09 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:37:52 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Skattelette til de høytlønnede</title>
+      <description><![CDATA[Professor mener det lønner seg å gi de som tjener mest mindre skatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/77d69b10-1c21-4fd6-9757-b11724aba582_db75a7df-ced0-45c7-a437-ff1d37e46248_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/77d69b10-1c21-4fd6-9757-b11724aba582_db75a7df-ced0-45c7-a437-ff1d37e46248_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 26 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XlQE-x9-8z28nAlbyX8ANAFxv2hJD2b4eRd1wyYk1Wvg.jpg"/>
+    </item>
     <item>
       <title>Budsjettavtale uten MDG</title>
       <description><![CDATA[Arbeiderpartiet er enige om budsjettet med Senterpartiet, Rødt  og SV, men må ha med MDG for å få flertall.
@@ -98,15 +107,6 @@
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Fri, 13 Nov 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qn3orksAxRJKYFO5641DSAyWUteHKlrlorf336aDqEAw.jpg"/>
-    </item>
-    <item>
-      <title>PST: Sabotasjetrusselen i Norge er skjerpet</title>
-      <description><![CDATA[PST mener det er god grunn til å vente at russisk etterretning vil gjennomføre sabotasje i Norge i løpet av det neste året.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f28f740b-12e6-42f1-84c8-bcb780f56873_7bd28168-e5d7-4d39-919c-0b87707c797e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f28f740b-12e6-42f1-84c8-bcb780f56873_7bd28168-e5d7-4d39-919c-0b87707c797e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Thu, 12 Nov 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eHDywmUzepIRmXGk3jkiEwgQVKHaIoUrf0xeqRg1dt8Q.jpg"/>
     </item>
   </channel>
 </rss>
