@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Nov 2026 19:38:13 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:59:03 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna intervjuer Chris Holsten</title>
+      <description><![CDATA[Hva betyr nissetrengt, hvem vinner Quizmasvang og hvordan går det når Anna intervjuer Chris Holsten? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/8e740a61-7a52-4a30-920d-2bae35a0ea42_4c035d25-1626-4793-886e-75aeece3e6e7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/8e740a61-7a52-4a30-920d-2bae35a0ea42_4c035d25-1626-4793-886e-75aeece3e6e7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:09</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u958vjVwmKcDxAOkFfOEYwgX5w7f-T7D2Z8dvD9t03uA.jpg"/>
+    </item>
     <item>
       <title>Kjøpte sokker på McDonalds</title>
       <description><![CDATA[Anna har nyheter om Vazelina, Markus vitser om Marius Borg Høiby og Daniel har sprøyte gæren spalten. ]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>49:31</itunes:duration>
       <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel intervjuer Alex Rosén</title>
-      <description><![CDATA[Vi kårer Norges beste pub, det er fredag den trettende i Quizvang og Daniel intervjuer Alex Rosén.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/59408f46-fdc8-49b6-bb84-78e8615f0429_9b895ab3-b895-427e-b7ad-5841720ad5c3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/59408f46-fdc8-49b6-bb84-78e8615f0429_9b895ab3-b895-427e-b7ad-5841720ad5c3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:45</itunes:duration>
-      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tgx9px3lKXxL-MHbbXVoEQSg1gvGjj6fAfsWzwzooeaw.jpg"/>
     </item>
   </channel>
 </rss>
