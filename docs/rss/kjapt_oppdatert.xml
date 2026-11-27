@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:32:25 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:24:44 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Julebordene endrer seg</title>
+      <description><![CDATA[Og FHI ber folk om å ta influensavaksinen nå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a022cc46-e938-4d88-85e9-4cfa7495e3c2_9f6e27b5-9409-450a-859f-a1e62af5cf0c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a022cc46-e938-4d88-85e9-4cfa7495e3c2_9f6e27b5-9409-450a-859f-a1e62af5cf0c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:10</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1mEFuiv4Mk4LCjxUEJsJKw9313w6mATEijkKrthVf_SA.jpg"/>
+    </item>
     <item>
       <title>Mange frykter de ikke har råd til jul</title>
       <description><![CDATA[Og det nye året byr på en litt uventet utfordring. ]]></description>
@@ -93,18 +102,6 @@
       <itunes:duration>07:02</itunes:duration>
       <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dbl50LICZ2VCXqvaF0XhYAz2Z1_qmR9qjH5kWjPlQ7Cw.jpg"/>
-    </item>
-    <item>
-      <title>Full stans i togtrafikken på Oslo S</title>
-      <description><![CDATA[Og dette betyr Jensen Huangs avgang for Norge.
-
-//
-Oppdatert 13.11.26 klokka 07.05 med at det er full stans i togtrafikken ved Oslo S.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/28b2375e-2d4d-446e-8289-40070bf99043_303b3dfb-887b-4c41-83e2-1cf59339c822_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/28b2375e-2d4d-446e-8289-40070bf99043_303b3dfb-887b-4c41-83e2-1cf59339c822_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:07</itunes:duration>
-      <pubDate>Fri, 13 Nov 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lCtoQoIB8M-EhpAT0vFi9AuYGaRFOaCtwD1yxIr9YfIA.jpg"/>
     </item>
   </channel>
 </rss>

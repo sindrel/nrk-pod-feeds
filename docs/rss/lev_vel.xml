@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:16:31 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 05:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:24:49 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    <item>
+      <title>På hjertet: Matfokuset i julen</title>
+      <description><![CDATA[Hvordan er det å ha et anstrengt forhold til mat når det nærmer seg jul? Linnéa deler sine erfaringer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/e9bc0727-e68d-44b8-8f59-baa843bc09a4_e2e572d4-1b58-4371-8ac8-7f3d8fbb3104_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/e9bc0727-e68d-44b8-8f59-baa843bc09a4_e2e572d4-1b58-4371-8ac8-7f3d8fbb3104_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:58</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g.jpg"/>
+    </item>
     <item>
       <title>Julestress: De beste rådene</title>
       <description><![CDATA[Lytterne har sendt inn sine største dilemmaer rundt jul, og vi får eksperthjelp fra Trine Eikrem, spesialist i familiepsykologi.]]></description>
@@ -93,15 +102,6 @@ Samira Lekhal, spesialist i indremedisin gir oss et innblikk i hva som påvirker
       <itunes:duration>44:39</itunes:duration>
       <pubDate>Wed, 21 Oct 2026 05:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
-    </item>
-    <item>
-      <title>Linnéa leser: «Slutt å la alt gå innpå deg»</title>
-      <description><![CDATA[Funker selvhjelpsbøker? Linnéa drar oss gjennom «Slutt å la alt gå innpå deg» av Daniel Chidiac.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/036bff92-c38f-4848-abff-92c38f0848d4_700a2100-3b25-4132-a85e-363c5c8d52ab_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/036bff92-c38f-4848-abff-92c38f0848d4_700a2100-3b25-4132-a85e-363c5c8d52ab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:16</itunes:duration>
-      <pubDate>Fri, 16 Oct 2026 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EHd_j77WU-STdBipOc_pqgtGVWvFuPPzkCmKGT_2lGeg.jpg"/>
     </item>
   </channel>
 </rss>

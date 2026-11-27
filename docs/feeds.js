@@ -464,7 +464,7 @@ const feeds = [
     "id": "hallo_bablo",
     "title": "De 10 siste fra Hallo Bablo",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "harald_v",
