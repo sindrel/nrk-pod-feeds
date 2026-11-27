@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-11-27  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2026-11-25  
 - Podcast 'Misforstå meg rett' is considered obsolete and will be ignored in the future (`misforstaa_meg_rett`)  
 ### 2026-11-20  
